@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*Enbridge operates the arteries of North American energy infrastructure, moving crude oil and natural gas across the continent with a scale and centrality that competitors cannot match — a position earned through capital intensity, regulatory patience, and seven decades of continuous operation.*
+*Enbridge operates the arteries of North American energy infrastructure, moving [crude oil](/crude-oil/) and [natural gas](/natural-gas/) across the continent with a scale and centrality that competitors cannot match — a position earned through capital intensity, regulatory patience, and seven decades of continuous operation.*
 
 ## The unmatched position
 
@@ -38,14 +38,14 @@ None of these new businesses yet matches the cash generation of the core oil and
 
 ## What moves the business, what threatens it
 
-In the near term, Enbridge is sensitive to the volume of crude oil produced in western Canada and the United States and the utilization of refineries that receive that crude. Warmer winters reduce demand for natural gas distributed through its utilities. Interest rates affect the company's financing costs and, given the capital-intensive nature of the business, influence returns. Regulatory decisions on tariffs and rates are central to profitability.
+In the near term, Enbridge is sensitive to the volume of crude oil produced in western Canada and the United States and the utilization of refineries that receive that crude. Warmer winters reduce demand for natural gas distributed through its utilities. [Interest rates](/interest-rate/) affect the company's financing costs and, given the capital-intensive nature of the business, influence returns. Regulatory decisions on tariffs and rates are central to profitability.
 
 Over a longer horizon, the threat is structural: energy demand in North America is shifting away from oil and toward electricity and renewables. Enbridge cannot stop this transition, only manage it. How well the company diversifies into new energy infrastructure (renewable generation, power transmission, hydrogen, carbon capture) will shape its value decades from now. For now, the core assets continue to generate strong cash, and management is using that cash to fund the pivot.
 
 ## How to research Enbridge
 
-Start with the 10-K filing (SEC CIK 0000895728) to understand segment performance, capital allocation, and the company's view of regulatory and market risks. The quarterly earnings calls reveal management's confidence (or lack thereof) in major project timelines and growth assumptions.
+Start with the 10-K filing (SEC CIK 0000895728) to understand segment performance, capital allocation, and the company's view of regulatory and [market risks](/market-risk/). The quarterly earnings calls reveal management's confidence (or lack thereof) in major project timelines and growth assumptions.
 
-Track crude oil volumes through the major pipelines, which indicate the health of Canadian production and refinery demand. Monitor regulatory proceedings on proposed expansions and rate decisions. Watch the company's free cash flow and how much is reinvested versus returned to shareholders as dividends.
+Track crude oil volumes through the major pipelines, which indicate the health of Canadian production and refinery demand. Monitor regulatory proceedings on proposed expansions and rate decisions. Watch the company's [free cash flow](/free-cash-flow/) and how much is reinvested versus returned to shareholders as [dividends](/dividend/).
 
 Consider the trajectory of renewable-energy investment and returns — this indicates whether management can execute a meaningful business transition. A company that earns 95% of its cash from oil and gas, with only 5% from renewables, is still heavily dependent on the old model.

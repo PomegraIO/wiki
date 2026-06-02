@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AAPX, issued by T-Rex ETFs, is a leveraged exchange-traded product that aims to deliver twice the daily return of Apple stock. It uses derivatives and borrowed capital to amplify Apple's moves — a 1% gain becomes a 2% gain, and a 1% loss becomes a 2% loss. Like all daily-reset leveraged funds, AAPX rebalances at the close of each trading day, which makes it ideal for traders betting on single-day moves in Apple, but which creates severe drag for anyone holding it over weeks or months. The fund is a pure tactical tool, not a holding for investors with longer time horizons.
+AAPX, issued by T-Rex ETFs, is a leveraged exchange-traded product that aims to deliver twice the daily return of [Apple](/aapl-stock/) stock. It uses derivatives and borrowed capital to amplify Apple's moves — a 1% gain becomes a 2% gain, and a 1% loss becomes a 2% loss. Like all daily-reset leveraged funds, AAPX rebalances at the close of each trading day, which makes it ideal for traders betting on single-day moves in Apple, but which creates severe drag for anyone holding it over weeks or months. The fund is a pure tactical tool, not a holding for investors with longer time horizons.
 
 <aside class="wiki-infobox">
 <table>
@@ -31,11 +31,11 @@ AAPX, issued by T-Rex ETFs, is a leveraged exchange-traded product that aims to 
 
 Apple is one of the largest and most liquid stocks on Earth, trading billions of dollars daily across public exchanges and derivatives markets. That liquidity makes Apple a natural target for leveraged products; there are plenty of buyers and sellers, so the derivatives needed to track Apple with leverage remain relatively cheap. AAPX exploits that liquidity, using futures and swaps to create a synthetic 2x position without owning Apple shares directly.
 
-On a day when Apple rises 2%, AAPX targets a rise of 4%. On a day when Apple falls 2%, AAPX targets a fall of 4%. That precision is possible because Apple trades continuously, and the derivatives tracking it are repriced constantly. But precision on a single day does not survive into multi-day holding periods, because of the daily reset.
+On a day when Apple rises 2%, AAPX targets a rise of 4%. On a day when Apple falls 2%, AAPX targets a fall of 4%. That precision is possible because Apple trades continuously, and the derivatives tracking it are repriced constantly. But precision on a single day does not survive into multi-day [holding periods](/holding-period/), because of the daily reset.
 
 ## Volatility decay at its starkest
 
-Volatility decay — the slow erosion of a leveraged fund's value in a choppy market — is worst in single-stock leveraged products because single stocks are inherently more volatile than broad indexes. Apple can swing 3% or 4% in a day on earnings, acquisitions news, or shifts in analyst sentiment. Apply the daily-reset mechanics to that volatility, and the decay becomes relentless.
+Volatility decay — the slow erosion of a leveraged fund's value in a choppy market — is worst in single-stock leveraged products because single stocks are inherently more volatile than broad indexes. Apple can swing 3% or 4% in a day on earnings, [acquisitions](/acquisition/) news, or shifts in analyst sentiment. Apply the daily-reset mechanics to that volatility, and the decay becomes relentless.
 
 Consider a realistic example. Apple trades at 100. AAPX trades at 100. On Monday, Apple falls 4%, closing at 96. AAPX falls 8%, closing at 92. On Tuesday, Apple rallies 4%, closing back at 100. AAPX rises 8%, closing at 99.36. Apple is back where it started; AAPX is down 0.64% despite the underlying returning to par. Over a full week of typical Apple volatility — day-to-day swings of 1% to 3% — that decay compounds, and AAPX will have lost multiple percentage points even if Apple finishes the week where it began. This is not a flaw; it is the mathematical certainty of daily-reset leverage in a volatile market.
 
@@ -43,9 +43,9 @@ The effect worsens when Apple drifts slowly downward (say, 0.1% per day over a m
 
 ## Expense and friction costs
 
-T-Rex must maintain the derivatives that track AAPX, roll those contracts daily, and cover the bid-ask spreads implicit in all that rebalancing. The fund's expense ratio reflects those costs, and they are absorbed continuously. On a flat day, the investor loses money; on a volatile day, the investor loses money; the only days the investor comes ahead are when Apple moves sharply in the direction the trader anticipated.
+T-Rex must maintain the derivatives that track AAPX, roll those contracts daily, and cover the [bid-ask spreads](/bid-ask-spread/) implicit in all that rebalancing. The fund's [expense ratio](/expense-ratio/) reflects those costs, and they are absorbed continuously. On a flat day, the investor loses money; on a volatile day, the investor loses money; the only days the investor comes ahead are when Apple moves sharply in the direction the trader anticipated.
 
-The bid-ask spread — the difference between the price you pay to buy AAPX and what you receive when you sell it — can be material, especially outside regular trading hours or in a sudden drop in volume. Entering a position in AAPX can cost half a percent or more in spread; exiting the same way costs another half percent. For a trader planning to hold for a few hours, that might be acceptable; for someone holding overnight, it erodes the potential profit significantly.
+The bid-ask spread — the difference between the price you pay to buy AAPX and what you receive when you sell it — can be material, especially outside [regular trading hours](/regular-trading-hours/) or in a sudden drop in volume. Entering a position in AAPX can cost half a percent or more in spread; exiting the same way costs another half percent. For a trader planning to hold for a few hours, that might be acceptable; for someone holding overnight, it erodes the potential profit significantly.
 
 ## Why Apple, specifically, and why 2x
 

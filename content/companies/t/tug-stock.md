@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-STF Tactical Growth ETF is a fund that treats the stock and bond markets as a tactical playing field. Rather than locking into a fixed allocation — say, 60% stocks and 40% bonds for the life of the fund — STF Tactical Growth shifts the balance based on market conditions and valuation signals, aiming to capture more gains when conditions favor stocks and shift toward safer ground when risks rise.
+STF Tactical [Growth ETF](/growth-etf/) is a fund that treats the stock and [bond](/bond/) markets as a tactical playing field. Rather than locking into a fixed allocation — say, 60% stocks and 40% bonds for the life of the fund — STF Tactical Growth shifts the balance based on market conditions and valuation signals, aiming to capture more gains when conditions favor stocks and shift toward safer ground when risks rise.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,15 +26,15 @@ STF Tactical Growth ETF is a fund that treats the stock and bond markets as a ta
 
 ## The case for tactical shifting
 
-A traditional investor picks an asset allocation — a mix of stocks and bonds — and rebalances it periodically to stay on target. That approach is simple and works well for long-term investors. But it has a blind spot: it assumes that stocks are equally attractive at all valuations and that bonds are equally valuable at all interest rates, which is obviously not true.
+A traditional investor picks an [asset allocation](/asset-allocation/) — a mix of stocks and bonds — and rebalances it periodically to stay on target. That approach is simple and works well for long-term investors. But it has a blind spot: it assumes that stocks are equally attractive at all valuations and that bonds are equally valuable at all [interest rates](/interest-rate/), which is obviously not true.
 
 TUG's thesis is that an active manager can time the allocation to capture more upside in strong periods and protect capital in weak ones. When stocks appear cheap and bonds are offering poor returns, the fund tilts heavily toward equities. When stocks look expensive and the economic outlook darkens, it retreats toward bonds. The tactical nature lies in this willingness to shift the mix in real time, rather than adhering rigidly to a fixed allocation.
 
 ## How the shifting actually works
 
-The fund typically uses quantitative or semi-quantitative signals to guide the tactical shifts. These might include valuation metrics like price-to-earnings ratios for stocks, yield spreads between bonds and cash, volatility indicators, market momentum, or sentiment measures. The fund's advisors combine these signals into a decision framework that favors a higher stock allocation in some quarters and a higher bond allocation in others.
+The fund typically uses quantitative or semi-quantitative signals to guide the tactical shifts. These might include valuation metrics like [price-to-earnings ratios](/price-to-earnings-ratio/) for stocks, yield spreads between bonds and cash, volatility indicators, market momentum, or sentiment measures. The fund's advisors combine these signals into a decision framework that favors a higher stock allocation in some quarters and a higher bond allocation in others.
 
-The goal is not to perfectly time every peak and trough — that is impossible. Rather, it is to avoid being caught in an unfavorable mix at the worst times. If the fund is heavily in stocks just before a sharp bear market, the damage is limited because the tactical approach aims to reduce equity exposure before markets crash. If it is heavier in bonds during a period of rising rates, the bond losses are dampened.
+The goal is not to perfectly time every peak and trough — that is impossible. Rather, it is to avoid being caught in an unfavorable mix at the worst times. If the fund is heavily in stocks just before a sharp [bear market](/bear-market/), the damage is limited because the tactical approach aims to reduce equity exposure before markets crash. If it is heavier in bonds during a period of rising rates, the bond losses are dampened.
 
 ## The risks in tactical shifts
 
@@ -46,16 +46,16 @@ A third risk is that the signals themselves can fail. A valuation metric that wo
 
 ## Expense ratio and trading mechanics
 
-As an actively managed fund, TUG carries an expense ratio above what a simple buy-and-hold index fund would charge. That cost covers the portfolio managers, the research team, trading, and the firm's overhead. You pay it regardless of whether the tactical shifts add value.
+As an [actively managed fund](/actively-managed-fund/), TUG carries an [expense ratio](/expense-ratio/) above what a simple buy-and-hold [index fund](/index-fund/) would charge. That cost covers the portfolio managers, the research team, trading, and the firm's overhead. You pay it regardless of whether the tactical shifts add value.
 
-The fund trades on the exchange during market hours, and its liquidity depends on the trading volume of TUG shares. The daily net asset value can be calculated at the close, and shares can be bought or sold like any listed ETF.
+The fund trades on the exchange during market hours, and its liquidity depends on the trading volume of TUG shares. The daily [net asset value](/net-asset-value/) can be calculated at the close, and shares can be bought or sold like any listed ETF.
 
 ## The allocation bands
 
-Some tactical funds operate within fixed bands — for example, TUG might never go below 30% stocks or above 80% stocks, enforcing a minimum amount of diversification and a maximum amount of tactical conviction. Other tactical funds allow wider swings. Understanding the fund's specific allocation rules is important, because they determine how much tactical shifting is actually possible and how much the fund remains anchored to a diversified core.
+Some tactical funds operate within fixed bands — for example, TUG might never go below 30% stocks or above 80% stocks, enforcing a minimum amount of [diversification](/diversification/) and a maximum amount of tactical conviction. Other tactical funds allow wider swings. Understanding the fund's specific allocation rules is important, because they determine how much tactical shifting is actually possible and how much the fund remains anchored to a diversified core.
 
 ## Measuring success
 
-To evaluate whether TUG's tactical approach is working, a reader should compare its returns to a simple 60/40 or 70/30 stock-bond index fund over several market cycles. A successful tactical fund beats that benchmark by enough to overcome its higher costs. Over shorter periods, TUG might lag during powerful bull markets (because it reduces exposure early) and lead during bear markets (because it shifts defensive). The real test is long-term risk-adjusted returns — whether the fund delivered better results relative to the volatility it experienced.
+To evaluate whether TUG's tactical approach is working, a reader should compare its returns to a simple 60/40 or 70/30 stock-bond index fund over several market cycles. A successful tactical fund beats that benchmark by enough to overcome its higher costs. Over shorter periods, TUG might lag during powerful [bull markets](/bull-market/) (because it reduces exposure early) and lead during bear markets (because it shifts defensive). The real test is long-term risk-adjusted returns — whether the fund delivered better results relative to the volatility it experienced.
 
 The prospectus and fact sheet explain the tactical rules and the signals the fund uses. Examining the actual allocation shifts over time — how often does it move, and by how much — reveals whether the fund is truly tactical or merely marketing itself that way.

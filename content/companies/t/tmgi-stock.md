@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Transglobal Management Group, Inc., formerly known as The Marquie Group, pivoted dramatically in late 2025 from a scattered media and consumer-lifestyle portfolio into a focused golf and hospitality business. The transformation arrived via the acquisition of GETGOLF, LLC and its operating assets — a move that delivered immediate profitability and positioned the company as a platform for rolling up fragmented golf operations. The business sits at an unusual intersection: it owns and operates golf courses, but its cash engine is a software-driven reservation system that connects players seeking discounts with golf courses seeking fill rates.
+Transglobal Management Group, Inc., formerly known as The Marquie Group, pivoted dramatically in late 2025 from a scattered media and consumer-lifestyle portfolio into a focused golf and hospitality business. The transformation arrived via the [acquisition](/acquisition/) of GETGOLF, LLC and its operating assets — a move that delivered immediate profitability and positioned the company as a platform for rolling up fragmented golf operations. The business sits at an unusual intersection: it owns and operates golf courses, but its cash engine is a software-driven reservation system that connects players seeking discounts with golf courses seeking fill rates.
 
 <aside class="wiki-infobox">
 <table>
@@ -44,7 +44,7 @@ GETGOLF is a technology platform in development, set for global launch in Q3 202
 
 ### How does cyclicality affect the business?
 
-Discretionary spending on golf — even discounted golf — contracts sharply in recessions. Golfers reduce rounds played, courses defer maintenance, and corporate outings decline. Conversely, in buoyant years when consumers have disposable income and corporate budgets loosen, golf participation rises and tee-time demand strengthens. Stand-By Golf's spread-based model insulates it somewhat from course-specific downturns because it operates across many venues, but it cannot escape the broader cycle. A severe recession could halve the transaction volume overnight, and a course-operations business adds fixed costs that become liabilities in downturns. Transglobal is betting that consolidation and better technology can smooth those cycles somewhat and that golfing demographics — aging, affluent participants with stable recreational habits — provide a base of resilience that other consumer discretionary sectors lack.
+[Discretionary spending](/discretionary-spending/) on golf — even discounted golf — contracts sharply in [recessions](/recession/). Golfers reduce rounds played, courses defer maintenance, and corporate outings decline. Conversely, in buoyant years when consumers have disposable income and corporate budgets loosen, golf participation rises and tee-time demand strengthens. Stand-By Golf's spread-based model insulates it somewhat from course-specific downturns because it operates across many venues, but it cannot escape the broader cycle. A severe recession could halve the transaction volume overnight, and a course-operations business adds fixed costs that become liabilities in downturns. Transglobal is betting that consolidation and better technology can smooth those cycles somewhat and that golfing demographics — aging, affluent participants with stable recreational habits — provide a base of resilience that other consumer discretionary sectors lack.
 
 ### How should an investor research this company?
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AVMV (Avantis U.S. Mid Cap Value ETF) is simpler than it sounds. It is a mutual fund (traded as an ETF) that holds American mid-cap companies — the medium-sized ones, not the giants. But it does not hold them all equally. It tilts heavily toward **value stocks**: companies with low prices relative to what they earn. The fund is run by American Century Investments and trades on the NASDAQ under the ticker AVMV.
+AVMV (Avantis U.S. Mid Cap Value ETF) is simpler than it sounds. It is a [mutual fund](/mutual-fund/) (traded as an ETF) that holds American mid-cap companies — the medium-sized ones, not the giants. But it does not hold them all equally. It tilts heavily toward **value stocks**: companies with low prices relative to what they earn. The fund is run by American Century Investments and trades on the [NASDAQ](/nasdaq/) under the ticker AVMV.
 
 <aside class="wiki-infobox">
 <table>
@@ -39,22 +39,22 @@ The screens are not extreme. The fund still holds hundreds of stocks and is broa
 
 ## When value wins and when it does not
 
-This is the hard part. For long stretches, AVMV will underperform the plain mid-cap benchmark or a growth-tilted fund. When fast-growing technology companies and e-commerce firms are soaring, a value fund full of mature, cyclical businesses can look like a penalty box. The years 2015–2021 were particularly brutal for value globally: growth stocks delivered far better returns.
+This is the hard part. For long stretches, AVMV will underperform the plain mid-cap benchmark or a growth-tilted fund. When fast-growing technology companies and e-commerce firms are soaring, a [value fund](/value-fund/) full of mature, cyclical businesses can look like a penalty box. The years 2015–2021 were particularly brutal for value globally: growth stocks delivered far better returns.
 
-But value has periods of strong outperformance too. When interest rates are stable or falling, when inflation is tame, and when investors get tired of paying high prices for speculative growth, cheap stocks often sprint ahead. And over very long periods — 15, 20, 30 years — value's cumulative return has typically beaten growth, though past data is no guarantee of future results.
+But value has periods of strong outperformance too. When [interest rates](/interest-rate/) are stable or falling, when [inflation](/inflation/) is tame, and when investors get tired of paying high prices for speculative growth, cheap stocks often sprint ahead. And over very long periods — 15, 20, 30 years — value's cumulative return has typically beaten growth, though past data is no guarantee of future results.
 
 The key insight is that AVMV is not a bet that value is about to win. It is a **permanent tilt** toward a factor that the buyer believes offers better risk-adjusted returns or fits their own beliefs about how markets work. Some investors use it as a core holding; others layer it on top of a diversified portfolio to increase their value exposure.
 
 ## Costs and liquidity
 
-AVMV trades on the NASDAQ, so you can buy and sell shares whenever the market is open. The bid-ask spread — the cost of the transaction — is typically small because the fund is reasonably liquid. The expense ratio is modest, comparable to other passive mid-cap funds.
+AVMV trades on the NASDAQ, so you can buy and sell shares whenever the market is open. The [bid-ask spread](/bid-ask-spread/) — the cost of the transaction — is typically small because the fund is reasonably liquid. The [expense ratio](/expense-ratio/) is modest, comparable to other passive mid-cap funds.
 
 Because the fund follows a rules-based methodology rather than an active manager making decisions, turnover is predictable and costs are kept down. There is no manager fee beyond the baseline operating expense.
 
 ## What to know before buying
 
-AVMV is for investors who believe in value investing or who want to tilt their portfolio toward value as a strategic choice. It is not a way to bet on the next hot sector or to chase the best-performing stocks from last year. It is a long-term, buy-and-hold instrument.
+AVMV is for investors who believe in [value investing](/value-investing/) or who want to tilt their portfolio toward value as a strategic choice. It is not a way to bet on the next hot sector or to chase the best-performing stocks from last year. It is a long-term, buy-and-hold instrument.
 
 The fund will sometimes lag the overall mid-cap market, particularly in years when growth stocks lead. If you need stable, predictable returns every single year, value is not the answer — no factor is. But if you are willing to accept multi-year stretches of relative underperformance in exchange for what historical data suggests are better returns over decades, then a value-tilted fund like this one is worth considering.
 
-Check the fund's prospectus and fact sheet for the current yield, the average valuation metrics of its holdings, and any recent composition changes. The holdings list is published and transparent; you can see exactly what the fund owns.
+Check the fund's prospectus and fact sheet for the [current yield](/current-yield/), the average valuation metrics of its holdings, and any recent composition changes. The holdings list is published and transparent; you can see exactly what the fund owns.

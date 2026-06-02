@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-IEF holds Treasury bonds. Specifically: US government debt securities maturing in 7–10 years. It owns dozens, sometimes hundreds, of individual bonds spread across that maturity band, creating a constantly refreshing ladder. As bonds age and drift out of the target range, the fund sells them and buys younger bonds entering the window. Boring structure. Intentional. No surprises.
+IEF holds [Treasury bonds](/treasury-bond/). Specifically: US government debt securities maturing in 7–10 years. It owns dozens, sometimes hundreds, of individual [bonds](/bond/) spread across that maturity band, creating a constantly refreshing ladder. As bonds age and drift out of the target range, the fund sells them and buys younger bonds entering the window. Boring structure. Intentional. No surprises.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,9 +29,9 @@ IEF holds Treasury bonds. Specifically: US government debt securities maturing i
 
 ## The mechanics
 
-IEF delivers income in two forms. First: coupon payments. The underlying bonds pay interest semi-annually, and these payments flow to shareholders as distributions. The fund's current yield is simply the weighted-average coupon of the bonds it holds divided by the fund's price. That yield tracks Treasury yields; when T-yields move, IEF's yield moves with it.
+IEF delivers income in two forms. First: [coupon payments](/coupon-payment/). The underlying bonds pay interest semi-annually, and these payments flow to shareholders as distributions. The fund's [current yield](/current-yield/) is simply the weighted-average coupon of the bonds it holds divided by the fund's price. That yield tracks Treasury yields; when T-yields move, IEF's yield moves with it.
 
-Second: price moves. Treasury bonds trade; prices move when interest rates move. Inverse relationship — rates up, prices down. IEF's portfolio price sensitivity (its "duration") is roughly 7–8 years. Translation: a 1% rise in Treasury yields produces a roughly 7–8% decline in IEF's share price. Conversely, a 1% yield fall generates roughly 7–8% price appreciation. This is the fund's leverage, structurally. Intermediate-term bonds are not long bonds (which swing 15–20% on a 1% rate move) but they are not short bonds either (which barely budge).
+Second: price moves. Treasury bonds trade; prices move when [interest rates](/interest-rate/) move. Inverse relationship — rates up, prices down. IEF's portfolio price sensitivity (its "duration") is roughly 7–8 years. Translation: a 1% rise in Treasury yields produces a roughly 7–8% decline in IEF's share price. Conversely, a 1% yield fall generates roughly 7–8% price appreciation. This is the fund's leverage, structurally. Intermediate-term bonds are not long bonds (which swing 15–20% on a 1% rate move) but they are not short bonds either (which barely budge).
 
 ## What drives returns
 
@@ -39,7 +39,7 @@ Scenario 1: Rates stay flat. IEF returns approximately its current yield. If yie
 
 Scenario 2: Rates fall. IEF wins twice — coupon income plus capital appreciation. A 0.5% fall in yields lifts IEF roughly 3–4%. Economic slowdown or Fed rate cuts trigger this. Bonds do well when growth does poorly.
 
-Scenario 3: Rates rise. IEF loses. A 0.5% rise in yields punches a 3–4% loss. Inflation shock or Fed tightening. Painful if you hold through it, but locked-in losses exist only if you sell into a rising-rate environment.
+Scenario 3: Rates rise. IEF loses. A 0.5% rise in yields punches a 3–4% loss. [Inflation](/inflation/) shock or Fed tightening. Painful if you hold through it, but locked-in losses exist only if you sell into a rising-rate environment.
 
 ## The interest-rate bet, explicit
 
@@ -49,15 +49,15 @@ Inflation is implicit in this bet. When you buy a Treasury bond, you lock in a n
 
 ## No credit surprises, unlike corporate bonds
 
-US government default is not a realistic scenario for investors in IEF. Credit risk is zero. Call risk is zero (Treasuries are not callable). The only structural risks are interest-rate risk (above) and reinvestment risk (coupons received must be reinvested at then-current yields, which may be lower). The reinvestment drag matters to individual bond buyers; the fund's continuous rebalancing smooths it.
+US government default is not a realistic scenario for investors in IEF. [Credit risk](/credit-risk/) is zero. [Call risk](/call-risk/) is zero (Treasuries are not callable). The only structural risks are [interest-rate risk](/interest-rate-risk/) (above) and [reinvestment risk](/reinvestment-risk/) (coupons received must be reinvested at then-current yields, which may be lower). The reinvestment drag matters to individual bond buyers; the fund's continuous rebalancing smooths it.
 
-For international investors, currency risk enters. An Australian or Swiss investor buying IEF takes US dollar risk.
+For international investors, [currency risk](/currency-risk/) enters. An Australian or Swiss investor buying IEF takes [US dollar](/us-dollar/) risk.
 
 ## Who holds it and why
 
 Conservative portfolios. Fixed-income core allocations. Retirees seeking stable quarterly income. Investors saving for medium-term goals (five to fifteen years). Anyone building a diversified portfolio and needing a bond anchor that is liquid, transparent, and safe.
 
-Not for growth investors. Not for those betting on inflation (Treasury Inflation-Protected Securities, or TIPS, serve that need). Not for those convinced rates will spike (buying in a high-yield environment and then selling into a higher-rate environment locks in losses).
+Not for growth investors. Not for those betting on inflation ([Treasury Inflation-Protected Securities](/tips/), or TIPS, serve that need). Not for those convinced rates will spike (buying in a high-yield environment and then selling into a higher-rate environment locks in losses).
 
 ## Usage patterns
 
@@ -69,6 +69,6 @@ It is also used for liability matching. Investor expecting to spend money in 8 y
 
 Check the fund's yield occasionally. A significant move up or down signals a shift in the underlying bond market. Large yield rises mean the Fed has tightened or will; expect IEF price weakness. Large yield falls mean the opposite.
 
-Watch the Fed. Its policy stance and forward guidance move IEF more than anything else. When Powell says rates are on hold, bond prices stabilize. When he signals hikes, prices fall. Straightforward cause-and-effect.
+Watch the Fed. Its policy stance and [forward guidance](/forward-guidance/) move IEF more than anything else. When Powell says rates are on hold, bond prices stabilize. When he signals hikes, prices fall. Straightforward cause-and-effect.
 
 That is it. No company earnings to read. No manager skill to evaluate. No competitive dynamics. IEF is about interest rates, inflation expectations, and patience. Buy it if your time horizon matches the bond duration and you need a volatility cushion. Sell or avoid if you expect rates to rise meaningfully and cannot tolerate the interim price declines.

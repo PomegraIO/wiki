@@ -47,7 +47,7 @@ One structural advantage CCNE retains is presence. The bank has been operating i
 
 Assessing CCNE requires understanding both cycles and secular trends. The [10-K](/10-k/) should clarify the composition of the loan portfolio by sector and geography—how much of the book is tied to manufacturing, construction, retail? What is the loan [delinquency](/delinquency/) rate and how has it evolved through the [business cycle](/business-cycle/)? On deposits, is CCNE's base growing or shrinking, and what is the cost of deposits relative to national benchmarks? What is the efficiency ratio (operating expenses to revenue), and is it improving or deteriorating?
 
-The cyclical element—the regular booms and busts of credit demand, employment, and real estate—will continue to drive CCNE's short-term earnings. The secular element—whether Pennsylvania's mature industrial economy can sustain banking franchise value as national consolidation accelerates—determines whether CCNE remains independent or becomes an [acquisition](/acquisition/) target. The overlap of these two forces, in a region growing slowly, creates a structurally challenging environment for a small [independent bank](/indb-stock/).
+The cyclical element—the regular booms and busts of credit demand, employment, and real estate—will continue to drive CCNE's short-term earnings. The secular element—whether Pennsylvania's mature industrial economy can sustain banking franchise value as national consolidation accelerates—determines whether CCNE remains independent or becomes an [acquisition](/acquisition/) target. The overlap of these two forces, in a region growing slowly, creates a structurally challenging environment for a small independent bank.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Cyclically Adjusted Price-to-Earnings ratio**, or CAPE, adjusts a company's earnings for the position in the business cycle, smoothing out the distortions that make ordinary P/E ratios misleading when profits are temporarily boomed or depressed. The DoubleLine Shiller CAPE U.S. Equities ETF (CAPE) builds a diversified portfolio tilted toward cheaper stocks as measured by this metric, betting that the market eventually rewards quality at reasonable valuations.*
+*The **Cyclically Adjusted [Price-to-Earnings ratio](/price-to-earnings-ratio/)**, or CAPE, adjusts a company's earnings for the position in the [business cycle](/business-cycle/), smoothing out the distortions that make ordinary P/E ratios misleading when profits are temporarily boomed or depressed. The DoubleLine Shiller CAPE U.S. Equities ETF (CAPE) builds a diversified portfolio tilted toward cheaper stocks as measured by this metric, betting that the market eventually rewards quality at reasonable valuations.*
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ handwritten: true
 
 ## The CAPE metric and why it matters
 
-Robert Shiller, the Nobel Prize-winning economist, developed the Cyclically Adjusted Price-to-Earnings ratio to address a fundamental problem with ordinary valuation metrics. In a boom year when corporate profits are inflated by economic excess, a stock that looks cheap by ordinary P/E is actually expensive relative to sustainable earnings. Conversely, in a recession when profits crater, a stock looks expensive by P/E but might be a bargain relative to normal conditions. CAPE smooths this noise by using the average inflation-adjusted earnings over the prior decade, creating a long-term valuation lens that ignores the cyclical noise.
+[Robert Shiller](/robert-shiller/), the Nobel Prize-winning economist, developed the Cyclically Adjusted Price-to-Earnings ratio to address a fundamental problem with ordinary valuation metrics. In a boom year when corporate profits are inflated by economic excess, a stock that looks cheap by ordinary P/E is actually expensive relative to sustainable earnings. Conversely, in a [recession](/recession/) when profits crater, a stock looks expensive by P/E but might be a bargain relative to normal conditions. CAPE smooths this noise by using the average inflation-adjusted earnings over the prior decade, creating a long-term valuation lens that ignores the cyclical noise.
 
 The metric is not a precise market timer — it can stay elevated for years before the market corrects — but it has historically correlated with future returns. Markets priced at high CAPE multiples have tended to deliver modest returns over the following decade; markets at low CAPE multiples have tended to deliver strong ones. This simple observation is the foundation of CAPE's portfolio construction.
 
@@ -38,7 +38,7 @@ The fund rebalances on a systematic schedule, evaluating CAPE rankings and adjus
 
 ## The risk and the reward
 
-The fund's performance depends entirely on a bet that CAPE-cheap stocks will outperform CAPE-expensive stocks over the relevant holding period. This is not guaranteed. In the 2010s, the most expensive companies — particularly large software and consumer technology firms — dominated returns, and CAPE's value tilt cost it performance. A decade-long period of relative value weakness can erode confidence in the strategy, even if the underlying thesis remains sound.
+The fund's performance depends entirely on a bet that CAPE-cheap stocks will outperform CAPE-expensive stocks over the relevant [holding period](/holding-period/). This is not guaranteed. In the 2010s, the most expensive companies — particularly large software and consumer technology firms — dominated returns, and CAPE's value tilt cost it performance. A decade-long period of relative value weakness can erode confidence in the strategy, even if the underlying thesis remains sound.
 
 The other risk is specific to cyclical valuation timing. A stock can be cheap by CAPE and grow cheaper still if the underlying business faces genuine structural decline. CAPE is not a substitute for fundamental business analysis; it is a mechanical ranking that assumes low valuation eventually attracts capital and drives returns.
 

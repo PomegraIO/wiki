@@ -32,13 +32,13 @@ The travel index that FLYU tracks is narrow by design. It focuses on large, U.S.
 
 Every day, FLYU resets its notional position to maintain a 3x multiple of that day's index return. If the travel index rises 2%, FLYU is designed to climb roughly 6%. If it falls 1%, FLYU drops about 3%. The reset is automatic and daily—FLYU does not carry a static 3x position over time; instead, it reconstitutes daily to match the multiplier. That means if the travel index is flat for a month but trades in wide swings along the way, FLYU will have suffered steep losses from the daily compounding, even though the index went nowhere.
 
-Bank of Montreal finances this by issuing FLYU as an unsecured note and hedging the daily returns through derivative positions—likely swaps or options with dealers. The bank keeps spreads and fees on the hedging, and the note's holders absorb the leverage and credit risk.
+Bank of Montreal finances this by issuing FLYU as an unsecured note and hedging the daily returns through derivative positions—likely swaps or options with dealers. The bank keeps spreads and fees on the hedging, and the note's holders absorb the leverage and [credit risk](/credit-risk/).
 
 ## The sector that FLYU captures
 
-Travel stocks are inherently geographic and cyclical. Airlines and hotel chains are tethered to regional demand, fuel costs, and labor markets. Hotels and resorts depend on discretionary spending and international visitation. Cruise operators are luxury goods plays, sensitive to whether middle- and upper-income consumers feel confident enough to spend. The index concentrates on large cap names—major carriers, major chains, major players—because those are the only ones liquid enough to hold in a leveraged index product.
+Travel stocks are inherently geographic and cyclical. Airlines and hotel chains are tethered to regional demand, fuel costs, and labor markets. Hotels and resorts depend on [discretionary spending](/discretionary-spending/) and international visitation. Cruise operators are luxury goods plays, sensitive to whether middle- and upper-income consumers feel confident enough to spend. The index concentrates on large cap names—major carriers, major chains, major players—because those are the only ones liquid enough to hold in a leveraged index product.
 
-That geographic concentration cuts both ways. Strong U.S. consumer spending and stable fuel costs benefit the entire complex. A recession, a fuel-price spike, or a geopolitical shock that disrupts travel flows can hammer all of them at once. FLYU's 3x leverage means that kind of sector-wide move hits harder.
+That geographic concentration cuts both ways. Strong U.S. consumer spending and stable fuel costs benefit the entire complex. A [recession](/recession/), a fuel-price spike, or a geopolitical shock that disrupts travel flows can hammer all of them at once. FLYU's 3x leverage means that kind of sector-wide move hits harder.
 
 ## The compounding cost of daily reset
 
@@ -46,7 +46,7 @@ The hidden tax on FLYU is the daily reset mechanic. Imagine the travel index osc
 
 ## Who uses FLYU and why
 
-Tactical traders use FLYU when they expect a sharp, sustained rally in travel stocks—typically around economic recovery signals, during periods of strong consumer confidence, or after travel-sector pessimism has driven valuations too low. Hedge funds might pair FLYU long with FLYD short in other positions, or use FLYU to amplify a sector rotation into cyclicals. The product is not suitable for long-term investors; the daily reset makes it a short-term, directional bet.
+Tactical traders use FLYU when they expect a sharp, sustained rally in travel stocks—typically around economic recovery signals, during periods of strong consumer confidence, or after travel-sector pessimism has driven valuations too low. [Hedge funds](/hedge-fund/) might pair FLYU long with FLYD short in other positions, or use FLYU to amplify a [sector rotation](/sector-rotation/) into cyclicals. The product is not suitable for long-term investors; the daily reset makes it a short-term, directional bet.
 
 ## Where Bank of Montreal fits in
 
@@ -54,4 +54,4 @@ Bank of Montreal is Canada's oldest bank and one of North America's largest. The
 
 ## Considerations for traders
 
-FLYU is a trading instrument, not a core holding. The prospectus specifies the exact constituents of the travel index and the reset methodology. Traders should expect FLYU to lag a true 3x investment in travel stocks over longer periods due to daily compounding. If Bank of Montreal suffers a credit downgrade or financial stress, FLYU could face early redemption or widening bid-ask spreads. And because travel is economically sensitive, FLYU performs inversely to recession risk—it tends to peak when the economy is hot and crash hardest when growth falters.
+FLYU is a trading instrument, not a core holding. The prospectus specifies the exact constituents of the travel index and the reset methodology. Traders should expect FLYU to lag a true 3x investment in travel stocks over longer periods due to daily compounding. If Bank of Montreal suffers a credit downgrade or financial stress, FLYU could face early redemption or widening [bid-ask spreads](/bid-ask-spread/). And because travel is economically sensitive, FLYU performs inversely to recession risk—it tends to peak when the economy is hot and crash hardest when growth falters.

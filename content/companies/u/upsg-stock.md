@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*A **leveraged ETF** — also called a **daily-reset leveraged fund** — is an exchange-traded product engineered to deliver a multiple of a single stock's daily returns. UPSG, the Leverage Shares 2X Long UPS Daily ETF, targets twice the daily movement of United Parcel Service stock. It is not a traditional buy-and-hold investment but a tactical instrument designed for traders willing to actively manage timing and volatility risk.*
+*A **[leveraged ETF](/leveraged-etf/)** — also called a **daily-reset leveraged fund** — is an exchange-traded product engineered to deliver a multiple of a single stock's daily returns. UPSG, the Leverage Shares 2X Long UPS Daily ETF, targets twice the daily movement of [United Parcel Service](/ups-stock/) stock. It is not a traditional buy-and-hold investment but a tactical instrument designed for traders willing to actively manage timing and volatility risk.*
 
 ## What UPSG tracks and how it works
 
@@ -23,17 +23,17 @@ That daily rebalancing is critical. It is also the hidden cost. Because UPSG res
 
 UPSG suits only a narrow use case: traders who hold positions for days or weeks with a high conviction that UPS will move directionally in one direction. It is not suitable for passive investors, buy-and-hold stockholders, or anyone who might be caught unaware by a price reversal. The fund is also not a substitute for owning UPS itself; it is a tactical amplifier of near-term moves.
 
-The expense ratio is material — higher than a standard equity ETF — because the fund actively rebalances and because the issuer, Leverage Shares, charges a premium to manage the mechanics. The true drag comes from volatility decay itself. In a market where UPS oscillates between gaining and losing 1–2% on alternate days, UPSG will underperform 2X the cumulative move of UPS stock, sometimes by a significant margin. This is not a cost that appears on a fee statement; it is baked into the daily reset mechanism.
+The [expense ratio](/expense-ratio/) is material — higher than a standard [equity ETF](/equity-etf/) — because the fund actively rebalances and because the issuer, Leverage Shares, charges a premium to manage the mechanics. The true drag comes from volatility decay itself. In a market where UPS oscillates between gaining and losing 1–2% on alternate days, UPSG will underperform 2X the cumulative move of UPS stock, sometimes by a significant margin. This is not a cost that appears on a fee statement; it is baked into the daily reset mechanism.
 
 There is no inverse or short-volatility structure here — UPSG is unambiguously bullish on UPS. Someone betting that UPS will fall would want a short or inverse product, not this one.
 
 ## How it trades and real risks
 
-UPSG trades on a major exchange during regular hours with reasonable liquidity — it is easy to enter and exit, usually without wide bid-ask spreads. The share price reflects the underlying UPS position plus the cost of leverage. Unlike a closed-end fund, there is no premium or discount to net asset value; the fund's structure forces the price to track the underlying mechanics.
+UPSG trades on a major exchange during regular hours with reasonable liquidity — it is easy to enter and exit, usually without wide [bid-ask spreads](/bid-ask-spread/). The share price reflects the underlying UPS position plus the cost of leverage. Unlike a [closed-end fund](/closed-end-fund/), there is no premium or discount to [net asset value](/net-asset-value/); the fund's structure forces the price to track the underlying mechanics.
 
-The real risks are threefold. First, volatility decay — the erosion of value in choppy markets — is guaranteed in any leveraged, daily-reset structure. It is not a tail risk but a mathematical certainty if the underlying stock oscillates. Second, UPS itself is a cyclical stock, sensitive to economic slowdown and shipping volume. A sharp drop in package volume during a recession is a direct threat to the stock's price and thus to UPSG's value. Third, the fund carries counterparty risk (though minimal given the issuer's size) and continues to charge fees regardless of whether the fund is profitable for its holder.
+The real risks are threefold. First, volatility decay — the erosion of value in choppy markets — is guaranteed in any leveraged, daily-reset structure. It is not a [tail risk](/tail-risk/) but a mathematical certainty if the underlying stock oscillates. Second, UPS itself is a cyclical stock, sensitive to economic slowdown and shipping volume. A sharp drop in package volume during a [recession](/recession/) is a direct threat to the stock's price and thus to UPSG's value. Third, the fund carries [counterparty risk](/counterparty-risk/) (though minimal given the issuer's size) and continues to charge fees regardless of whether the fund is profitable for its holder.
 
-UPSG also carries an implicit interest-rate risk. The cost of the leverage the fund maintains depends partly on prevailing short-term rates. If rates spike, the borrowing cost rises, and the fund's drag increases — both through higher fees and through higher interest expense on the notional debt.
+UPSG also carries an implicit [interest-rate risk](/interest-rate-risk/). The cost of the leverage the fund maintains depends partly on prevailing short-term rates. If rates spike, the borrowing cost rises, and the fund's drag increases — both through higher fees and through higher interest expense on the notional debt.
 
 ## How a reader would research this product
 

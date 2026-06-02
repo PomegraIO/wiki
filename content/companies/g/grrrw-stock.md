@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-Gorilla Technology Group Inc. (NASDAQ: GRRRW for warrants; the parent ticker is listed on various exchanges) is a technology infrastructure company focused on data centre design, deployment, and management, particularly in the edge computing and distributed cloud sectors. The warrants represent leveraged calls on the common stock and embody a bet on whether Gorilla can capture market share in an increasingly distributed, geographically dispersed computing landscape. Understanding the company requires understanding the shift toward edge computing and the infrastructure vendors who power it.
+[Gorilla Technology](/grrr-stock/) Group Inc. ([NASDAQ](/nasdaq/): GRRRW for warrants; the parent ticker is listed on various exchanges) is a technology infrastructure company focused on data centre design, deployment, and management, particularly in the edge computing and distributed cloud sectors. The warrants represent leveraged calls on the [common stock](/common-stock/) and embody a bet on whether Gorilla can capture market share in an increasingly distributed, geographically dispersed computing landscape. Understanding the company requires understanding the shift toward edge computing and the infrastructure vendors who power it.
 
 ## Edge Computing and Distributed Data Centres
 
-Traditional cloud computing concentrates computation and data storage in large centralised data centre facilities, typically operated by hyperscale cloud providers like Amazon Web Services, Microsoft Azure, or Google Cloud. This model works well for many applications, but it has inherent latency: data must travel across networks from the user's device to a distant data centre, processed there, and results sent back. For latency-sensitive applications—autonomous vehicles, industrial machinery, real-time video processing, augmented reality—this round-trip creates unacceptable delays.
+Traditional cloud computing concentrates computation and data storage in large centralised data centre facilities, typically operated by hyperscale cloud providers like Amazon Web Services, [Microsoft](/msft-stock/) Azure, or Google Cloud. This model works well for many applications, but it has inherent latency: data must travel across networks from the user's device to a distant data centre, processed there, and results sent back. For latency-sensitive applications—autonomous vehicles, industrial machinery, real-time video processing, augmented reality—this round-trip creates unacceptable delays.
 
 Edge computing addresses this by pushing computation closer to where data is generated. Instead of sending all data to a centralised cloud, edge computing devices process data locally or in nearby distributed nodes, reducing latency and bandwidth consumption. This requires a network of smaller, geographically dispersed data centre facilities—sometimes in retail locations, factory floors, base stations, or regional hubs. Gorilla Technology positions itself as a provider of the infrastructure and services that enable these distributed data centres.
 
@@ -50,7 +50,7 @@ Gorilla's ability to grow its services revenue and expand its customer installed
 
 ## Supply Chain and Geographic Risk
 
-As a hardware vendor with manufacturing and supply chain operations, Gorilla is exposed to semiconductor supply disruptions, shipping delays, commodity price movements, and geographic concentration risks. If a significant portion of manufacturing is concentrated in one region (or with one contract manufacturer), supply shocks ripple through operations. The company's recent history includes navigating post-pandemic supply chain chaos and ongoing semiconductor availability challenges.
+As a hardware vendor with manufacturing and supply chain operations, Gorilla is exposed to semiconductor supply disruptions, shipping delays, commodity price movements, and geographic [concentration risks](/concentration-risk/). If a significant portion of manufacturing is concentrated in one region (or with one contract manufacturer), supply shocks ripple through operations. The company's recent history includes navigating post-pandemic supply chain chaos and ongoing semiconductor availability challenges.
 
 Additionally, Gorilla's exposure to Asia-Pacific creates geopolitical risk. Tensions between the United States and China, potential trade restrictions, or regulatory changes affecting technology vendors can affect Gorilla's ability to source components, manufacture, or serve customers in key markets.
 
@@ -62,6 +62,6 @@ Warrant holders should track Gorilla's product announcements, new hardware relea
 
 ## How to Research Gorilla Technology and GRRRW Warrants
 
-Investors evaluating GRRRW should review Gorilla's SEC filings (annual 10-K and quarterly 10-Q reports under CIK 0001903145) to assess revenue growth, gross margins, operating profitability or cash burn, and the split between hardware, deployment, and services revenue. The company's comments on customer wins, pipeline, and geographic expansion are important colour. Warrant holders should verify the strike price, expiration date, and any make-whole provisions, and assess the liquidity and trading volume of GRRRW on its listing venue.
+Investors evaluating GRRRW should review Gorilla's SEC filings (annual 10-K and quarterly 10-Q reports under CIK 0001903145) to assess revenue growth, gross margins, operating profitability or cash burn, and the split between hardware, deployment, and services revenue. The company's comments on customer wins, pipeline, and geographic expansion are important colour. Warrant holders should verify the [strike price](/strike-price/), [expiration date](/expiration-date/), and any make-whole provisions, and assess the liquidity and trading volume of GRRRW on its listing venue.
 
 The edge computing market is real and growing, but Gorilla faces intense competition and execution risk. Warrant holders have leverage to this outcome—both on the upside and downside.

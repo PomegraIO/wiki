@@ -30,17 +30,17 @@ The iShares Climate Conscious & Transition MSCI USA ETF is a mainstream index-tr
 
 First, the fund excludes companies tied to thermal coal extraction, oil sands, and other high-carbon sources of fuel. That removes the dirtiest producers but not energy companies overall — U.S. natural-gas utilities, renewable-energy operators, and equipment makers serving clean energy still appear in the portfolio. Second, among holdings, it tilts toward companies with lower greenhouse-gas intensity (emissions per dollar of revenue) and stronger track records of emissions reduction. It does not cap the share of any sector; it simply reweights exposure based on climate performance.
 
-The result is a portfolio that looks like the broader U.S. stock market — heavy in technology, health care, financials, and consumer staples — but with a markedly lighter footprint in coal and the highest-emission oil operations. Tech dominates because software and semiconductor companies have low emissions per revenue dollar. Health care and financials appear largely unchanged. Consumer and industrial companies are included but often at lower weights if their emissions are high relative to sales.
+The result is a portfolio that looks like the broader U.S. [stock market](/stock-market/) — heavy in technology, health care, financials, and consumer staples — but with a markedly lighter footprint in coal and the highest-emission oil operations. Tech dominates because software and semiconductor companies have low emissions per revenue dollar. Health care and financials appear largely unchanged. Consumer and industrial companies are included but often at lower weights if their emissions are high relative to sales.
 
 ## Why MSCI's climate index, and what makes it tick
 
-USCL tracks the MSCI USA Climate Conscious & Transition Index, a rules-based screening that MSCI maintains and rebalances quarterly. MSCI is an index specialist; it sells versions of this screen to many ETF sponsors and mutual funds. The screening is transparent and rules-driven rather than subjective — weights shift based on measurable carbon metrics, not a committee's judgment. That consistency is useful for a long-term holder.
+USCL tracks the MSCI USA Climate Conscious & Transition Index, a rules-based screening that MSCI maintains and rebalances quarterly. MSCI is an index specialist; it sells versions of this screen to many ETF sponsors and [mutual funds](/mutual-fund/). The screening is transparent and rules-driven rather than subjective — weights shift based on measurable carbon metrics, not a committee's judgment. That consistency is useful for a long-term holder.
 
 The "transition" emphasis is subtle but important. The index does not demand that a company be perfectly clean today; it rewards demonstrated commitment to reducing emissions. A utility investing heavily in renewables and retiring coal plants gets better treatment than one standing pat. An auto maker with aggressive electrification targets ranks higher than one ignoring the shift. This incentivizes corporate action rather than punishing incumbent industries outright.
 
 ## Costs and tracking
 
-USCL carries a moderate expense ratio, standard for an ESG-screened index fund. It trades with tight spreads on NASDAQ. The fund tracks its index with negligible tracking error — the annual return typically matches the index return within a few basis points. Shares are highly liquid; trading volume is strong enough that large positions can be entered or exited without market impact.
+USCL carries a moderate [expense ratio](/expense-ratio/), standard for an ESG-screened [index fund](/index-fund/). It trades with tight spreads on [NASDAQ](/nasdaq/). The fund tracks its index with negligible tracking error — the annual return typically matches the index return within a few basis points. Shares are highly liquid; trading volume is strong enough that large positions can be entered or exited without market impact.
 
 ## The real risks and limitations
 

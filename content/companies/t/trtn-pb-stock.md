@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Triton International is the world's largest owner and lessor of shipping containers — the steel boxes that move roughly 90% of the world's traded goods across oceans. The company does not ship cargo itself; it manufactures, owns, and leases these containers to a base of shipping lines and freight operators who use them to move goods globally. Triton's business is fundamentally about financing physical infrastructure and extracting recurring revenue from the companies that need it, which makes it a capital-intensive but defensible business in one of the few truly global industries: maritime trade.
+[Triton International](/trtn-pa-stock/) is the world's largest owner and lessor of shipping containers — the steel boxes that move roughly 90% of the world's traded goods across oceans. The company does not ship cargo itself; it manufactures, owns, and leases these containers to a base of shipping lines and freight operators who use them to move goods globally. Triton's business is fundamentally about financing physical infrastructure and extracting recurring revenue from the companies that need it, which makes it a capital-intensive but defensible business in one of the few truly global industries: maritime trade.
 
 <aside class="wiki-infobox">
 <table>
@@ -55,12 +55,12 @@ The cost to manufacture a container is relatively stable; the market price of a 
 
 ## Risks and pressures
 
-Triton's exposure is direct to the health of global trade. Any severe or sustained contraction in world commerce — from recession, trade wars, or major supply-chain disruptions — immediately reduces utilization and lease rates. The company is also exposed to fuel and raw-material cost inflation, which ripples through to the cost structure of its suppliers and manufacturing operations.
+Triton's exposure is direct to the health of global trade. Any severe or sustained contraction in world commerce — from [recession](/recession/), [trade wars](/trade-war/), or major supply-chain disruptions — immediately reduces utilization and lease rates. The company is also exposed to fuel and raw-material cost [inflation](/inflation/), which ripples through to the cost structure of its suppliers and manufacturing operations.
 
 A second risk is technological disruption, though it is still nascent. Some forms of cargo can move through rail networks or regional trucking, and the long-term trend of e-commerce and last-mile delivery might someday reshape container demand. For now, however, the container remains the dominant mode for long-distance bulk goods, and that dominance is unlikely to shift quickly.
 
-The capital intensity of the business also means that Triton depends on access to reasonably priced debt financing. A large increase in global interest rates or a deterioration in credit spreads can make fleet expansion or refinancing more expensive, which compresses returns.
+The capital intensity of the business also means that Triton depends on access to reasonably priced [debt financing](/debt-financing/). A large increase in global [interest rates](/interest-rate/) or a deterioration in [credit spreads](/credit-spread/) can make fleet expansion or refinancing more expensive, which compresses returns.
 
 ## How to research Triton
 
-Triton's annual 10-K filing and quarterly earnings calls are where to find detail on fleet utilization rates, average lease rates by region and container type, the composition of the debt portfolio, and commentary on pricing trends. The most useful metrics are utilization (percentage of the fleet leased), average lease rate per TEU, and free cash flow generation. Watch also for any significant customer concentration — if a single shipping line or small group of lines represents a large fraction of revenue, a loss or renegotiation can move the needle sharply. The company's filings detail these items by geography and customer, which gives a sense of the resilience of the business to regional shocks.
+Triton's annual 10-K filing and quarterly earnings calls are where to find detail on fleet utilization rates, average lease rates by region and container type, the composition of the debt portfolio, and commentary on pricing trends. The most useful metrics are utilization (percentage of the fleet leased), average lease rate per TEU, and [free cash flow](/free-cash-flow/) generation. Watch also for any significant customer concentration — if a single shipping line or small group of lines represents a large fraction of revenue, a loss or renegotiation can move the needle sharply. The company's filings detail these items by geography and customer, which gives a sense of the resilience of the business to regional shocks.

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Nuveen Arizona Quality Municipal [Income Fund](/income-fund/) is a closed-end investment company traded on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker NAZ. It is not a company in the traditional sense — it is not a business that makes or sells products, nor does it generate revenue from operations. Instead, it is a financial structure: a pool of capital managed by Nuveen (a major institutional asset manager, part of TIAA) for the purpose of investing in [municipal bonds](/municipal-bond/) issued by Arizona governments and agencies. Investors buy shares of NAZ not to own a business but to own a slice of a professionally managed portfolio of bonds, structured in a way that offers tax benefits and income, but also carries risks that an individual bond investor would face differently.
+The Nuveen Arizona Quality Municipal [Income Fund](/income-fund/) is a closed-end investment company traded on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker NAZ. It is not a company in the traditional sense — it is not a business that makes or sells products, nor does it generate revenue from operations. Instead, it is a financial structure: a pool of capital managed by Nuveen (a major institutional asset manager, part of TIAA) for the purpose of investing in [municipal bonds](/municipal-bond/) issued by Arizona governments and agencies. Investors buy shares of NAZ not to own a business but to own a slice of a professionally managed portfolio of [bonds](/bond/), structured in a way that offers tax benefits and income, but also carries risks that an individual bond investor would face differently.
 
 <aside class="wiki-infobox">
 <table>
@@ -47,7 +47,7 @@ The discount (or premium) to net asset value is sometimes extreme. NAZ has trade
 
 ## Income, Leverage, and the Funding Model
 
-The fund generates income from two sources: the interest payments on the bonds it holds, and any capital gains or losses on the bonds themselves (if a bond appreciates or depreciates in value). The interest is paid out to shareholders as distributions. Because leverage is used, the distributions to shareholders are larger than they would be on an unleveraged fund holding the same bonds. The tradeoff is volatility and credit risk — if Arizona bonds default or [credit spreads](/credit-spread/) blow out, NAZ's leveraged position means the decline in value is larger.
+The fund generates income from two sources: the interest payments on the bonds it holds, and any capital gains or losses on the bonds themselves (if a bond appreciates or depreciates in value). The interest is paid out to shareholders as distributions. Because leverage is used, the distributions to shareholders are larger than they would be on an unleveraged fund holding the same bonds. The tradeoff is volatility and [credit risk](/credit-risk/) — if Arizona bonds default or [credit spreads](/credit-spread/) blow out, NAZ's leveraged position means the decline in value is larger.
 
 The fund also has fees. The management company charges an annual fee (usually in the neighborhood of 0.5% to 0.8% of assets), which is deducted from the fund's income. The fund's prospectus spells out all fees and expenses; they are material and should factor into any decision to own shares.
 

@@ -63,6 +63,6 @@ The company is also exposed to lumber-price volatility, which flows through dire
 
 ## Understanding the business and the market
 
-Investors researching Figure should start with its 10-K (SEC CIK 0002064124) to understand facility capacity, utilization rates, and regional revenue concentration. Pay attention to gross margins and operating leverage—how much does a 10% change in volume affect operating profit? That sensitivity reveals how cyclical the business truly is.
+Investors researching Figure should start with its 10-K (SEC CIK 0002064124) to understand facility [capacity, utilization rates](/capacity-utilization-rate/), and regional revenue concentration. Pay attention to gross margins and operating leverage—how much does a 10% change in volume affect operating profit? That sensitivity reveals how cyclical the business truly is.
 
 Quarterly earnings calls should focus on backlog trends (unfilled orders indicate future revenue) and commentary on homebuilder health. Customer concentration is also critical: if the top five homebuilders account for the majority of revenue, any slowdown with one of them is material. Finally, monitor the company's capital expenditure and facility utilization rates. High capital deployment during strong periods, paired with strong returns on that capital, indicates disciplined management. Low returns or stranded facilities suggest the company overbuild or misjudged market demand.

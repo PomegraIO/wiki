@@ -23,7 +23,7 @@ Debt carries multi-tranche structures: term loans and revolving credit facilitie
 
 ## The Leverage Arc and Dividend Sustainability
 
-Energizer inherited elevated leverage from a 2014 leveraged recapitalization (then as Edgewell's battery division). That event loaded the company's balance sheet with debt that persisted through the 2015 spin-off and beyond. Subsequent [acquisitions](/acquisition/) and refinancings kept leverage elevated, pressing management to rely on operational cash generation to de-lever incrementally.
+Energizer inherited elevated leverage from a 2014 leveraged recapitalization (then as Edgewell's battery division). That event loaded the company's balance sheet with debt that persisted through the 2015 [spin-off](/spin-off/) and beyond. Subsequent [acquisitions](/acquisition/) and refinancings kept leverage elevated, pressing management to rely on operational cash generation to de-lever incrementally.
 
 The dividend is both anchor and constraint: it represents a ~3–4% yield and signals confidence in cash durability, yet it also competes with debt paydown for every dollar of free cash flow. When operating performance tightens — as during cost-pressure cycles in retail battery distribution — dividend coverage (operating cash flow ÷ dividend paid) compresses, forcing tactical choices: cut the dividend, reduce buybacks, or accept slower leverage reduction.
 
@@ -43,7 +43,7 @@ This working-capital sensitivity means that a sales dip or promotional environme
 
 Despite its relatively low ongoing capital expenditure intensity, Energizer has periodically made strategic acquisitions and capacity investments. Each such move must fit within the debt envelope and covenant headroom. Historically, management has been disciplined here: greenfield plants are rare; acquisitions are tuck-ins or bolt-ons into existing categories, not transformational.
 
-The company's balance sheet also holds intellectual property and brand intangibles (Energizer, Eveready, Schick, Edge, Hawaiian Tropic) on its books as goodwill and [intangible assets](/intangible-assets/). These are balance-sheet liabilities if impairment is triggered (declining brands, market-share loss) but assets if monetizable. The presence of these intangibles means that book value can mislead: a reader comparing total assets to equity must distinguish operating assets from goodwill.
+The company's balance sheet also holds intellectual property and brand intangibles (Energizer, Eveready, Schick, Edge, Hawaiian Tropic) on its books as [goodwill](/goodwill/) and [intangible assets](/intangible-assets/). These are balance-sheet liabilities if impairment is triggered (declining brands, market-share loss) but assets if monetizable. The presence of these intangibles means that book value can mislead: a reader comparing total assets to equity must distinguish operating assets from goodwill.
 
 ## Refinancing Risk and Rates Sensitivity
 

@@ -35,7 +35,7 @@ Bitcoin infrastructure encompasses several categories of business. At the founda
 
 Lending platforms built on Bitcoin or other cryptocurrencies allow users to borrow against their holdings or earn yield by lending out their assets. The market for cryptocurrency lending has grown substantially as institutional adoption has increased, though lending platforms also carry credit and [operational risks](/operational-risk/) that traditional banks face.
 
-[Stablecoins](/stablecoin/) are cryptocurrencies designed to maintain a stable value (typically pegged to the U.S. dollar or another fiat currency) and serve as the medium of exchange within cryptocurrency systems. Platforms that issue, manage, or facilitate stablecoin payments represent another infrastructure layer.
+[Stablecoins](/stablecoin/) are cryptocurrencies designed to maintain a stable value (typically pegged to the [U.S. dollar](/us-dollar/) or another fiat currency) and serve as the medium of exchange within cryptocurrency systems. Platforms that issue, manage, or facilitate stablecoin payments represent another infrastructure layer.
 
 Payment networks and fintech platforms that use Bitcoin or stablecoins as the underlying settlement layer offer an alternative to traditional payment rails. These platforms can promise faster settlement, lower friction across borders, and programmability — the ability to embed contracts and automation directly into transactions.
 

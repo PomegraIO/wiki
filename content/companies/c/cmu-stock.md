@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-MFS HIGH YIELD MUNICIPAL TRUST (NYSE: CMU) is a closed-end investment fund that pools shareholder capital to purchase [municipal bonds](/municipal-bond/), primarily those rated in the A and BBB tiers — what the municipal market calls "higher-yield" territory because they pay more interest than the bonds of stable, creditworthy states and cities. Like other [closed-end funds](/closed-end-fund/), CMU trades on an exchange at market-determined prices, and it distributes income monthly to shareholders.
+MFS HIGH YIELD MUNICIPAL TRUST (NYSE: CMU) is a closed-end investment fund that pools shareholder capital to purchase [municipal bonds](/municipal-bond/), primarily those rated in the A and BBB tiers — what the municipal market calls "higher-yield" territory because they pay more interest than the [bonds](/bond/) of stable, creditworthy states and cities. Like other [closed-end funds](/closed-end-fund/), CMU trades on an exchange at market-determined prices, and it distributes income monthly to shareholders.
 
 <aside class="wiki-infobox">
 <table>

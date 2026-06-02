@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Trustmark Corporation, headquartered in Jackson, Mississippi, is a bank holding company that operates across the Southeast, primarily through its flagship Trustmark [National Bank](/nbhc-stock/) subsidiary. It is one of the South's oldest and largest domestically owned regional banks, with a franchise built on retail deposits, mortgage lending, and wealth advisory services for individual and small-business customers. Like most regional banks, Trustmark's health depends on the gap between what it pays depositors and what it earns from loans — and that gap has been compressed, unpredictably, in recent years.
+Trustmark Corporation, headquartered in Jackson, Mississippi, is a bank holding company that operates across the Southeast, primarily through its flagship Trustmark National Bank subsidiary. It is one of the South's oldest and largest domestically owned regional banks, with a franchise built on retail deposits, mortgage lending, and wealth advisory services for individual and small-business customers. Like most regional banks, Trustmark's health depends on the gap between what it pays depositors and what it earns from loans — and that gap has been compressed, unpredictably, in recent years.
 
 ## What is the core business?
 

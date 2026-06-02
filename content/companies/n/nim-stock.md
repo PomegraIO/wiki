@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Nuveen Select Maturities Municipal Fund trades on the exchange as NIM. It is a closed-end vehicle that buys [municipal bonds](/municipal-bond/) — debt issued by states, cities, and other local government entities to fund infrastructure and services. The fund distributes interest income from those bonds to shareholders on a quarterly or monthly basis; because municipal interest is typically exempt from federal income tax, NIM's distributions carry that same tax advantage. This makes it attractive to high-earning investors in elevated tax brackets for whom the after-tax yield on munis beats taxable bonds, even at lower stated yields.
+Nuveen Select Maturities Municipal Fund trades on the exchange as NIM. It is a closed-end vehicle that buys [municipal bonds](/municipal-bond/) — debt issued by states, cities, and other local government entities to fund infrastructure and services. The fund distributes interest income from those [bonds](/bond/) to shareholders on a quarterly or monthly basis; because municipal interest is typically exempt from federal income tax, NIM's distributions carry that same tax advantage. This makes it attractive to high-earning investors in elevated tax brackets for whom the after-tax yield on munis beats taxable bonds, even at lower stated yields.
 
 ## The municipal-bond case and who buys NIM
 

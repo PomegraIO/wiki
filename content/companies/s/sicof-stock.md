@@ -13,11 +13,11 @@ handwritten: true
 
 Silverco Mining Ltd. operates silver and base-metal mines in Mexico, one of the world's largest silver-producing countries. The company holds a 100 percent interest in the Cusi Mine Complex, located in Chihuahua State in northern Mexico, and the La Negra silver project in Querétaro State. Unlike a large integrated mining company, Silverco is a mid-cap mineral producer focused on a specific geographic region and a specific set of commodities: the company mines silver as its flagship metal, alongside copper, lead, and zinc. Its goal is to operate these assets profitably while funding exploration and development of additional deposits that might generate future ore reserves.
 
-The company's capital structure has evolved considerably in recent years. Silverco trades on the Toronto Venture Exchange under the ticker SICO and trades on the U.S. over-the-counter market under SICOF. After a significant capital raise in 2026 (a $62.5 million bought deal), the company acquired Nuevo Silver, a transaction that added the La Negra development project and expanded Silverco's resource footprint in a tier-one mining jurisdiction.
+The company's capital structure has evolved considerably in recent years. Silverco trades on the Toronto Venture Exchange under the ticker SICO and trades on the U.S. [over-the-counter market](/over-the-counter-market/) under SICOF. After a significant capital raise in 2026 (a $62.5 million bought deal), the company acquired Nuevo Silver, a transaction that added the La Negra development project and expanded Silverco's resource footprint in a tier-one mining jurisdiction.
 
 ## The core mines: Cusi and La Negra
 
-Cusi Mine Complex is an operating, cash-generating asset. A preliminary economic assessment completed for the operation outlined an 8.3-year mine life, with initial capital expenditure in the region of US$19.2 million. The operation extracts ore that contains not just silver but meaningful quantities of copper, lead, and zinc — a polymetallic ore body that generates revenue from multiple metal markets simultaneously. This diversification is valuable: if silver prices weaken, copper or zinc revenue can offset the loss; conversely, when precious metals rally, the mine benefits from that upside.
+Cusi Mine Complex is an operating, cash-generating asset. A preliminary economic assessment completed for the operation outlined an 8.3-year mine life, with initial capital expenditure in the region of US$19.2 million. The operation extracts ore that contains not just silver but meaningful quantities of copper, lead, and zinc — a polymetallic ore body that generates revenue from multiple metal markets simultaneously. This [diversification](/diversification/) is valuable: if silver prices weaken, copper or zinc revenue can offset the loss; conversely, when precious metals rally, the mine benefits from that upside.
 
 La Negra is a development-stage asset — not yet in full production, but positioned to become Silverco's next mine. Unlike Cusi, which was acquired as an established operation, La Negra will require capital investment to reach commercial production. The timeline and economics of that transition remain subject to technical work, permitting, and financing.
 
@@ -43,7 +43,7 @@ The company must maintain good standing with Mexican federal and state authoriti
 
 Silverco requires ongoing capital to operate existing mines and develop new projects. The company has historically raised capital through equity offerings, and its major 2026 fundraising was a bought deal at a set price per share. This kind of capital raise dilutes existing shareholders but provides the cash needed for growth. As the company moves La Negra toward production, further capital may be required.
 
-The company's free cash flow (if any) can be used to fund development work or returned to shareholders via dividends or buybacks. The balance reflects management's confidence in future commodity prices and the returns available from investing in mine development.
+The company's [free cash flow](/free-cash-flow/) (if any) can be used to fund development work or returned to shareholders via [dividends](/dividend/) or buybacks. The balance reflects management's confidence in future commodity prices and the returns available from investing in mine development.
 
 ## How to research Silverco
 

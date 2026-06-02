@@ -17,7 +17,7 @@ keywords: ["HTB", "community bank", "regional bank", "mortgages", "small busines
 
 ## The Community Bank Model: Where Geography is Strategy
 
-HomeTrust's franchise is grounded in local lending and deposits in communities where management and the board have deep ties. The 10-K will detail branch locations and deposit concentrations by market. This is not a [national bank](/nbhc-stock/) with thousands of branches; it is a concentrated presence in a defined region. For a community bank, this is both strength and constraint. Strength, because the bank knows its customers and can make credit decisions faster than a national competitor with centralized underwriting. Constraint, because growth is limited by the size and economic growth rate of the served markets. When reading the [balance sheet](/balance-sheet/), ask: Is this region growing? Are deposits stable or flowing to larger banks elsewhere?
+HomeTrust's franchise is grounded in local lending and deposits in communities where management and the board have deep ties. The 10-K will detail branch locations and deposit concentrations by market. This is not a national bank with thousands of branches; it is a concentrated presence in a defined region. For a community bank, this is both strength and constraint. Strength, because the bank knows its customers and can make credit decisions faster than a national competitor with centralized underwriting. Constraint, because growth is limited by the size and economic growth rate of the served markets. When reading the [balance sheet](/balance-sheet/), ask: Is this region growing? Are deposits stable or flowing to larger banks elsewhere?
 
 The 10-K should disclose the loan portfolio composition by loan type (residential mortgages, [commercial real estate](/commercial-real-estate/), commercial and industrial, consumer installment, agricultural). HomeTrust's loan book is likely weighted toward real-estate-backed loans (mortgages and commercial real estate), which is typical for a regional bank in a largely rural or small-urban area where commercial borrowing may be limited and land and property are the primary collateral. Residential mortgages often carry lower risk but also lower yields than commercial loans.
 
@@ -64,5 +64,5 @@ Focus first on deposit stability (is the bank retaining deposits?) and loan grow
 
 ### Wider context
 - [/10-k/](/10-k/) — bank filings and how to read them
-- [/public-company/](/public-company/) — regulatory oversight of [financial institutions](/fisi-stock/)
+- [/public-company/](/public-company/) — regulatory oversight of financial institutions
 </div>

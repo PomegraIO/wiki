@@ -17,7 +17,7 @@ keywords: ["document processing", "mobile imaging", "fintech software", "OCR", "
 
 ## MITEK's Role in the Document-to-Data Pipeline
 
-[Financial institutions](/fisi-stock/) and government agencies have been digitizing for decades, yet vast volumes of transactions still begin as paper or photographic images. A customer opens a bank account by submitting a photo of their ID. An insurance claim arrives as a scanned photograph of a damaged car. A check is deposited via a mobile app camera. MITEK's software sits at the intake moment—converting images into usable structured data.
+Financial institutions and government agencies have been digitizing for decades, yet vast volumes of transactions still begin as paper or photographic images. A customer opens a bank account by submitting a photo of their ID. An insurance claim arrives as a scanned photograph of a damaged car. A check is deposited via a mobile app camera. MITEK's software sits at the intake moment—converting images into usable structured data.
 
 This is not a glamorous position, but it is a durable one. Organizations cannot skip the step. Either they employ humans to key-enter data from photos (expensive, error-prone), or they deploy automated image processing (cheaper, consistent, scalable). MITEK competes primarily with open-source OCR, in-house engineering efforts, and other specialized vendors like Verifone and Bottomline. The competitive bar is high but not absolute; MITEK must continuously improve accuracy and expand into adjacent use cases.
 

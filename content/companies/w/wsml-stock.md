@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The iShares MSCI World Small-Cap ETF (WSML) tracks the MSCI World Small Cap Index, which holds small-capitalization companies from developed markets around the world.*
+*The iShares MSCI World [Small-Cap ETF](/small-cap-etf/) (WSML) tracks the MSCI World Small Cap Index, which holds small-capitalization companies from developed markets around the world.*
 
 <aside class="wiki-infobox">
 <table>
@@ -29,17 +29,17 @@ handwritten: true
 
 Small-cap companies are publicly traded firms that are smaller than the mega-cap and large-cap names everyone knows. They have less market value — smaller equity value — than blue-chip corporations, but they are bigger than micro-cap stocks. These companies often have higher growth potential (because they can still expand significantly) and higher volatility (because they are less stable and more sensitive to economic cycles). Investors who want exposure to smaller companies see them as a way to capture growth that the largest firms may not offer.
 
-WSML gives you that exposure. But it does not pick a handful of small-cap stocks. It holds over 3,500 of them across the entire developed world — including the United States, Europe, Asia-Pacific, and other regions. That diversification means you are not betting on one small company or even one country; you own a little piece of thousands.
+WSML gives you that exposure. But it does not pick a handful of small-cap stocks. It holds over 3,500 of them across the entire developed world — including the United States, Europe, Asia-Pacific, and other regions. That [diversification](/diversification/) means you are not betting on one small company or even one country; you own a little piece of thousands.
 
 ## How the fund is built
 
-The fund tracks the MSCI World Small Cap Index, which is a list of small-cap companies assembled and maintained by MSCI, a major financial-index company. MSCI defines small-cap companies by market cap size — they pick stocks that fall in that size range and exclude the very largest firms. The index includes companies across all sectors: health care, technology, industrials, consumer goods, energy, and more.
+The fund tracks the MSCI World Small Cap Index, which is a list of small-cap companies assembled and maintained by MSCI, a major financial-index company. MSCI defines small-cap companies by [market cap](/market-capitalization/) size — they pick stocks that fall in that size range and exclude the very largest firms. The index includes companies across all sectors: health care, technology, industrials, consumer goods, energy, and more.
 
-WSML uses a technique called "representative sampling." That means it does not necessarily own every single stock in the index. Instead, BlackRock holds a representative sample — enough stocks and in proportions close enough to the index that the fund's returns track the index closely. This approach keeps the fund's costs lower than owning all 3,500 stocks would be, because there is less trading and fewer positions to manage.
+WSML uses a technique called "representative sampling." That means it does not necessarily own every single stock in the index. Instead, [BlackRock](/blk-stock/) holds a representative sample — enough stocks and in proportions close enough to the index that the fund's returns track the index closely. This approach keeps the fund's costs lower than owning all 3,500 stocks would be, because there is less trading and fewer positions to manage.
 
 ## Risks and why small-caps move differently than large-caps
 
-Small-cap stocks bounce around more than the large-cap stocks that dominate indices like the S&P 500. In bull markets, small-caps can outperform because rapid growth drives their share prices up. In downturns and recessions, they often fall harder than large-caps because they have less cash on hand, less diversified businesses, and more dependence on continued economic growth. Interest rates also matter a lot: when rates rise, small companies feel the pain more acutely because borrowing becomes expensive and they often rely on debt to fund growth.
+Small-cap stocks bounce around more than the large-cap stocks that dominate indices like the S&P 500. In [bull markets](/bull-market/), small-caps can outperform because rapid growth drives their share prices up. In downturns and [recessions](/recession/), they often fall harder than large-caps because they have less cash on hand, less diversified businesses, and more dependence on continued economic growth. [Interest rates](/interest-rate/) also matter a lot: when rates rise, small companies feel the pain more acutely because borrowing becomes expensive and they often rely on debt to fund growth.
 
 Liquidity is also thinner. Some stocks in the fund trade less frequently than household names do, so if the fund needs to sell a large position quickly, it might move the price. This is usually not a big problem for a long-term investor, but it can matter during market panics when everyone wants to exit at once.
 
@@ -49,6 +49,6 @@ Some investors use WSML as part of a global stock portfolio to make sure they ha
 
 ## How to research and use WSML
 
-Read the fund fact sheet on the iShares website or on BlackRock's website. It shows you which countries and sectors the fund is weighted toward right now, and how the top holdings have changed over time. Check the rolling three-year and five-year returns compared to a broader global small-cap benchmark to see how well the fund is tracking its index. The expense ratio is low — small-cap index funds are among the cheapest to manage — so costs are not a barrier.
+Read the fund fact sheet on the iShares website or on BlackRock's website. It shows you which countries and sectors the fund is weighted toward right now, and how the top holdings have changed over time. Check the rolling three-year and five-year returns compared to a broader global small-cap benchmark to see how well the fund is tracking its index. The [expense ratio](/expense-ratio/) is low — small-cap [index funds](/index-fund/) are among the cheapest to manage — so costs are not a barrier.
 
 Use this fund as a core holding if you want simple, diversified exposure to global small-cap equities, or as a complement to a large-cap fund. It works for long-term investors who can tolerate the extra volatility that comes with smaller companies. It is not for someone who needs stable, predictable returns in the short term.

@@ -39,7 +39,7 @@ Some countries impose data localization requirements: certain categories of data
 
 ## Industry-Specific Compliance Mandates
 
-High Templar's customer base may span regulated sectors, each with distinct compliance demands. Financial services firms must comply with regulations like the [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/) (GLBA), which sets security and privacy standards for [financial institutions](/fisi-stock/) and service providers. If High Templar provides infrastructure to banks, it must meet GLBA requirements and submit to bank audits. Similarly, healthcare clients operate under HIPAA; legal services firms under attorney-client privilege rules; utilities under critical infrastructure protection standards. Serving multiple regulated sectors means High Templar manages an intricate web of customer-specific compliance obligations, each backed by potential regulatory enforcement.
+High Templar's customer base may span regulated sectors, each with distinct compliance demands. Financial services firms must comply with regulations like the [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/) (GLBA), which sets security and privacy standards for financial institutions and service providers. If High Templar provides infrastructure to banks, it must meet GLBA requirements and submit to bank audits. Similarly, healthcare clients operate under HIPAA; legal services firms under attorney-client privilege rules; utilities under critical infrastructure protection standards. Serving multiple regulated sectors means High Templar manages an intricate web of customer-specific compliance obligations, each backed by potential regulatory enforcement.
 
 ## Incident Disclosure and Public Company Reporting
 

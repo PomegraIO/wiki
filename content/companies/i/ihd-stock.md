@@ -44,7 +44,7 @@ But the manager is not diversifying away all risk. Emerging-market funds are inh
 
 ## The closed-end fund mechanics
 
-Voya Emerging Markets High Dividend Equity Fund, like all [closed-end funds](/closed-end-fund/), has a fixed number of shares issued at launch and traded on the exchange. The fund does not issue or redeem shares daily like an open-end [mutual fund](/mutual-fund/). Instead, investors buy and sell shares with one another on NASDAQ at whatever price the market sets. This price often diverges from the fund's [net asset value](/net-asset-value/)—the total value of the holdings divided by shares outstanding.
+Voya Emerging Markets High Dividend Equity Fund, like all [closed-end funds](/closed-end-fund/), has a fixed number of shares issued at launch and traded on the exchange. The fund does not issue or redeem shares daily like an open-end [mutual fund](/mutual-fund/). Instead, investors buy and sell shares with one another on [NASDAQ](/nasdaq/) at whatever price the market sets. This price often diverges from the fund's [net asset value](/net-asset-value/)—the total value of the holdings divided by shares outstanding.
 
 When investors are excited about emerging markets or the dividend yield on offer, the fund's shares may trade at a premium to NAV, meaning you pay more than the per-share value of the underlying portfolio. When emerging markets are out of favor or the fund's recent performance disappoints, shares may trade at a discount, meaning you can buy the portfolio for less than its stated asset value. The premium or discount fluctuates with sentiment and can represent a hidden source of gain or loss for shareholders independent of the fund's portfolio performance.
 

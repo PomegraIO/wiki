@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-21Shares emerged in the early 2010s as the cryptocurrency industry's first dedicated ETF sponsor, launching in Switzerland before expanding globally. The firm was born from the conviction that digital assets and blockchain technology deserved regulated, institutional-grade fund vehicles and that demand from asset allocators would grow as crypto matured. 21Shares built its early reputation on single-asset crypto funds — Bitcoin ETFs, Ethereum ETFs, and others — traded on traditional exchanges and structured to give traditional investors crypto exposure without a crypto exchange account.
+21Shares emerged in the early 2010s as the cryptocurrency industry's first dedicated ETF sponsor, launching in Switzerland before expanding globally. The firm was born from the conviction that digital assets and blockchain technology deserved regulated, institutional-grade fund vehicles and that demand from asset allocators would grow as crypto matured. 21Shares built its early reputation on single-asset crypto funds — [Bitcoin](/bitcoin/) ETFs, [Ethereum](/ethereum/) ETFs, and others — traded on traditional exchanges and structured to give traditional investors crypto exposure without a crypto exchange account.
 
 From those origins, 21Shares expanded beyond single assets into thematic and diversified products. The 21Shares 2x Long HYPE ETF (TXXH) represents that strategic evolution: rather than tracking a single coin like Bitcoin or Ethereum, it targets the Solactive Hype and Emerging Technologies Index, a basket of cryptocurrencies and blockchain tokens selected around the theme of newer, emerging projects in the space.
 
@@ -25,13 +25,13 @@ This thematic approach reflects a shift in 21Shares' thinking: from hardware-agn
 
 TXXH amplifies returns through a 2x daily leverage mechanism identical to the firm's other leveraged crypto products. The fund aims to deliver twice the daily return of the Solactive Hype Index. If the index rises 2% in a day, TXXH targets a 4% gain. If the index falls 2% in a day, TXXH targets a 4% loss. This leverage is achieved through spot holdings plus derivatives (futures or options) rebalanced daily.
 
-The consequences of leverage in this context are severe. The Hype Index includes highly volatile, illiquid crypto assets; when you apply 2x leverage to that volatility, expected drawdowns are brutal. A 30% daily move in the underlying index (not uncommon for individual altcoins) translates to a 60% daily move in the ETF. Volatility decay is also more pronounced in choppy altcoin markets than in Bitcoin or Ethereum, so time decay erodes value even when prices are directionless.
+The consequences of leverage in this context are severe. The Hype Index includes highly volatile, illiquid crypto assets; when you apply 2x leverage to that volatility, expected drawdowns are brutal. A 30% daily move in the underlying index (not uncommon for individual altcoins) translates to a 60% daily move in the ETF. Volatility decay is also more pronounced in choppy altcoin markets than in Bitcoin or Ethereum, so [time decay](/time-decay-theta/) erodes value even when prices are directionless.
 
 ## Trading and structure
 
-TXXH trades as a standard ETF on traditional exchanges, giving it the tax transparency and regulatory clarity that crypto-native platforms lack. The expense ratio is elevated to cover the leverage mechanism and daily rebalancing costs. Liquidity depends on the fund's assets under management and trading volume; a narrow crypto-thematic ETF may have wider spreads than a mega-cap tracker.
+TXXH trades as a standard ETF on traditional exchanges, giving it the tax transparency and regulatory clarity that crypto-native platforms lack. The [expense ratio](/expense-ratio/) is elevated to cover the leverage mechanism and daily rebalancing costs. Liquidity depends on the fund's assets under management and trading volume; a narrow crypto-thematic ETF may have wider spreads than a mega-cap tracker.
 
-The fund emerged as a tactical tool for active traders and crypto speculators who believe a particular cycle of altcoin innovation is poised to take off. During bull markets in risk assets and crypto specifically, the thematic bet can compound quickly. During downturns, the losses are similarly compressed and fast.
+The fund emerged as a tactical tool for active traders and crypto speculators who believe a particular cycle of altcoin innovation is poised to take off. During [bull markets](/bull-market/) in risk assets and crypto specifically, the thematic bet can compound quickly. During downturns, the losses are similarly compressed and fast.
 
 ## Why 21Shares built this
 

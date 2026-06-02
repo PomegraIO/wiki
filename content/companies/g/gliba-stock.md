@@ -25,7 +25,7 @@ A pure-play terrestrial-broadcaster has no hedges. GCI Liberty, by including com
 
 ## The Structural Decline in Linear Television
 
-The underlying industry dynamic is irreversible. Television viewership, particularly among younger cohorts, has migrated to streaming and digital platforms. Advertising, which funds most broadcast television, follows viewers. National advertisers have access to far more precise targeting via programmatic digital channels than broadcast television allows, and regional advertisers increasingly favor [direct digital](/drct-stock/) buys over traditional spots.
+The underlying industry dynamic is irreversible. Television viewership, particularly among younger cohorts, has migrated to streaming and digital platforms. Advertising, which funds most broadcast television, follows viewers. National advertisers have access to far more precise targeting via programmatic digital channels than broadcast television allows, and regional advertisers increasingly favor direct digital buys over traditional spots.
 
 GCI Liberty's broadcast assets generate revenue via local advertising and retransmission consent fees (payments from cable and satellite carriers to carry broadcast signals). Both revenue streams face pressure: local advertising moves to Google and Facebook; retransmission fees face legal and regulatory scrutiny as cord-cutting erodes cable subscriber bases. A broadcast station's [profit margin](/operating-margin/) depends critically on operating leverage—fixed tower and studio costs spread over declining revenue. As audiences shrink, those fixed costs become increasingly onerous.
 

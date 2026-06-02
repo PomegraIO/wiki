@@ -4,7 +4,7 @@ description: "A master limited partnership in the real estate sector that operat
 keywords: ["real estate", "MLP", "property management", "Brookfield", "REIT", "commercial real estate"]
 ---
 
-*Brookfield Property Partners L.P. (BPYPM) is a mature real estate partnership that operates across multiple property classes—residential, office, retail, and industrial—positioning itself as a large-scale owner and operator in an industry that consolidates relentlessly around scale and [diversification](/diversification/).*
+*[Brookfield Property Partners](/bpypp-stock/) L.P. (BPYPM) is a mature real estate partnership that operates across multiple property classes—residential, office, retail, and industrial—positioning itself as a large-scale owner and operator in an industry that consolidates relentlessly around scale and [diversification](/diversification/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>BPYPM</td></tr>

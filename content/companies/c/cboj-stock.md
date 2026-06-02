@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Calamos Bitcoin Structured Alt Protection ETF - January (CBOJ) is an exchange-traded fund designed to give investors a way to own spot bitcoin exposure while limiting the damage a sharp price decline can inflict. Rather than holding bitcoin directly or betting all gains on upside movement, CBOJ wraps bitcoin in a structured contract that caps how much an investor can gain over a one-year period but shields against losses larger than 10 percent. The fund resets this outcome period every January, creating a series of successive one-year bets.
+The Calamos [Bitcoin](/bitcoin/) Structured Alt Protection ETF - January (CBOJ) is an exchange-traded fund designed to give investors a way to own spot bitcoin exposure while limiting the damage a sharp price decline can inflict. Rather than holding bitcoin directly or betting all gains on upside movement, CBOJ wraps bitcoin in a structured contract that caps how much an investor can gain over a one-year period but shields against losses larger than 10 percent. The fund resets this outcome period every January, creating a series of successive one-year bets.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ The Calamos Bitcoin Structured Alt Protection ETF - January (CBOJ) is an exchang
 
 ## What the fund holds
 
-CBOJ does not hold bitcoin directly. Instead, it holds a portfolio structured through options contracts that reference the CME CF Bitcoin Reference Rate - New York Variant (BRRNY), which tracks the price of spot bitcoin as reported by leading cryptocurrency exchanges. The fund buys near-zero-strike call options to give investors exposure to bitcoin's upside and at-the-money put options to create a floor against losses. The outcome is that over each one-year period, an investor in CBOJ gets a capped percentage gain if bitcoin rises, or a loss cushion if bitcoin falls more than 10 percent.
+CBOJ does not hold bitcoin directly. Instead, it holds a portfolio structured through options contracts that reference the CME CF Bitcoin Reference Rate - New York Variant (BRRNY), which tracks the price of spot bitcoin as reported by leading [cryptocurrency exchanges](/cryptocurrency-exchange/). The fund buys near-zero-strike [call options](/call-option/) to give investors exposure to bitcoin's upside and at-the-money [put options](/put-option/) to create a floor against losses. The outcome is that over each one-year period, an investor in CBOJ gets a capped percentage gain if bitcoin rises, or a loss cushion if bitcoin falls more than 10 percent.
 
 ## How the protection works
 
@@ -38,15 +38,15 @@ This design addresses a real problem for bitcoin investors. Cryptocurrency is vo
 
 ## The annual reset and timing risk
 
-CBOJ resets its protection layer every January, which means the fund effectively dies and is reborn each year with a new cap rate and new protection parameters. The cap rate is set based on prevailing market conditions—particularly interest rates, bitcoin implied volatility, and the time value of options. In a high-volatility environment, the cap shrinks because protection costs more. In a low-volatility, low-rate environment, the cap widens. This means CBOJ investors do not have a fixed, guaranteed cap; instead, they face a new cap every 12 months. An investor who buys CBOJ in mid-2025 will have a different outcome period than one who buys in late 2024. This timing dependency can reward or punish entry points.
+CBOJ resets its protection layer every January, which means the fund effectively dies and is reborn each year with a new [cap rate](/cap-rate/) and new protection parameters. The cap rate is set based on prevailing market conditions—particularly [interest rates](/interest-rate/), bitcoin [implied volatility](/implied-volatility/), and the [time value](/time-value/) of options. In a high-volatility environment, the cap shrinks because protection costs more. In a low-volatility, low-rate environment, the cap widens. This means CBOJ investors do not have a fixed, guaranteed cap; instead, they face a new cap every 12 months. An investor who buys CBOJ in mid-2025 will have a different outcome period than one who buys in late 2024. This timing dependency can reward or punish entry points.
 
 ## Costs and how to think about the expense ratio
 
-The fund charges 0.69 percent annually, which covers Calamos's management fee and the cost of maintaining the options positions. That expense is modest compared to what an investor would pay buying options directly, but it is not zero. More importantly, the cap itself is a hidden cost. If bitcoin rallies 40 percent in a year and CBOJ's cap is 8 percent, the investor captures only 8 percent of that gain while still paying the 0.69 percent fee. In range-bound or declining-price years, the protection is the primary benefit and the fee is less material. The real value depends on what bitcoin does over each outcome period.
+The fund charges 0.69 percent annually, which covers Calamos's [management fee](/management-fee/) and the cost of maintaining the options positions. That expense is modest compared to what an investor would pay buying options directly, but it is not zero. More importantly, the cap itself is a hidden cost. If bitcoin rallies 40 percent in a year and CBOJ's cap is 8 percent, the investor captures only 8 percent of that gain while still paying the 0.69 percent fee. In range-bound or declining-price years, the protection is the primary benefit and the fee is less material. The real value depends on what bitcoin does over each outcome period.
 
 ## Concentration and liquidity
 
-CBOJ holds only one underlying asset: spot bitcoin. There is no diversification here. The fund's liquidity depends on how active the secondary market is, and as a newer structured ETF, trading volumes can be thin compared to larger bitcoin ETF offerings. The fund's assets were in the tens of millions of dollars as of early 2026, which is small enough that large transactions could move the price.
+CBOJ holds only one underlying asset: spot bitcoin. There is no [diversification](/diversification/) here. The fund's liquidity depends on how active the [secondary market](/secondary-market/) is, and as a newer structured ETF, trading volumes can be thin compared to larger bitcoin ETF offerings. The fund's assets were in the tens of millions of dollars as of early 2026, which is small enough that large transactions could move the price.
 
 ## Who CBOJ is for
 

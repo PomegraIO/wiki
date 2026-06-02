@@ -46,7 +46,7 @@ Without clear disclosure of Li Bang's exact business, it is difficult to assess 
 
 ## Capital Flows and Currency Restrictions
 
-China restricts how much money can be moved out of the country in any year. These capital controls are geographic and affect how much profit a Chinese subsidiary can repatriate to U.S. parent companies or how much capital a U.S. investor can pull back from a Chinese business. Li Bang, if it generates earnings in mainland China, may face restrictions on converting those earnings to U.S. dollars and sending them to shareholders.
+China restricts how much money can be moved out of the country in any year. These capital controls are geographic and affect how much profit a Chinese subsidiary can repatriate to U.S. parent companies or how much capital a U.S. investor can pull back from a Chinese business. Li Bang, if it generates earnings in mainland China, may face restrictions on converting those earnings to [U.S. dollars](/us-dollar/) and sending them to shareholders.
 
 This geographic constraint means that a profitable business in China can still represent a poor investment for U.S. shareholders if those profits cannot be accessed. [Currency risk](/currency-risk/) and capital-control risk are thus significant for any U.S.-listed China-based company.
 

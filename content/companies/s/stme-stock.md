@@ -40,7 +40,7 @@ Over time, the company has launched specific commercial products and platforms, 
 
 ## The market headwinds and real constraints
 
-Energy harvesting faces structural headwinds that no company can overcome alone. Conventional energy — electricity from the grid, powered by coal, natural gas, or renewables — remains cheap in most developed markets. Competing on price against grid electricity is difficult. This pushes energy-harvesting applications toward niches where grid power is unavailable (remote sensors, wearables), where it is unreliable (developing regions), or where the non-energy benefits justify the cost (form factors, operational simplicity).
+Energy harvesting faces structural headwinds that no company can overcome alone. Conventional energy — electricity from the grid, powered by coal, [natural gas](/natural-gas/), or renewables — remains cheap in most developed markets. Competing on price against grid electricity is difficult. This pushes energy-harvesting applications toward niches where grid power is unavailable (remote sensors, wearables), where it is unreliable (developing regions), or where the non-energy benefits justify the cost (form factors, operational simplicity).
 
 Additionally, the regulatory landscape for new energy technologies is complex. Any product claiming to generate or store energy may face safety, environmental, or electrical-code approval. Building trust in a new supplier of energy technology takes time and third-party validation that well-established incumbents have already invested in.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Revolution Medicines develops investigational treatments for cancer by targeting specific molecular drivers of tumor growth. The company focuses on two core scientific areas: mutations in the RAS pathway, one of the most common drivers of human cancers, and necroptosis, a distinct form of programmed cell death. As a clinical-stage company with no approved drugs yet on the market, its value rests entirely on the promise of its research pipeline and the eventual regulatory approval and commercialization of its investigational compounds.
+[Revolution Medicines](/rvmd-stock/) develops investigational treatments for cancer by targeting specific molecular drivers of tumor growth. The company focuses on two core scientific areas: mutations in the RAS pathway, one of the most common drivers of human cancers, and necroptosis, a distinct form of programmed cell death. As a clinical-stage company with no approved drugs yet on the market, its value rests entirely on the promise of its research pipeline and the eventual regulatory approval and commercialization of its investigational compounds.
 
 <aside class="wiki-infobox">
 <table>
@@ -42,7 +42,7 @@ Most biotech investors understand this landscape — they are betting on science
 
 For a company at Revolution Medicines' stage, traditional financial metrics like earnings, revenue, and cash flow from operations do not yet apply — there is nothing to earn. Instead, investors watch the clinical pipeline itself. Which programs are in which trial phase? What were the efficacy and safety signals? Did the data meet the pre-specified endpoints? Did the company hit enrollment targets on time? When will the next major readout occur? These are the questions that move the stock, because they answer whether the science is working and whether an approval is on track.
 
-Investors also scrutinize burn rate — how much cash the company spends each quarter — and the cash balance. A well-funded biotech with a long runway can execute its strategy; one that runs out of money must raise capital at a bad price, dilute existing shareholders, or sometimes fail entirely. The balance sheet is a clock counting down to the next inflection point.
+Investors also scrutinize burn rate — how much cash the company spends each quarter — and the cash balance. A well-funded biotech with a long runway can execute its strategy; one that runs out of money must raise capital at a bad price, dilute existing shareholders, or sometimes fail entirely. The [balance sheet](/balance-sheet/) is a clock counting down to the next inflection point.
 
 Beyond cash and clinical progress, partnerships matter. A collaboration or licensing deal with a larger pharmaceutical company can bring both capital and credibility, and sometimes signals that an external expert finds the science compelling enough to stake their reputation on it.
 

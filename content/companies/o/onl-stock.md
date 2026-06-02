@@ -19,7 +19,7 @@ The portfolio is deliberately diversified. No single property accounts for an ex
 
 ## A brief history and a name change
 
-Orion has an unusual origin. The company was spun off from [Realty Income](/o-stock/) Corporation on November 12, 2021, and began trading on the [New York Stock Exchange](/new-york-stock-exchange/) less than a week later. Realty Income, a far larger REIT famous for paying monthly distributions to shareholders, created Orion by carving out a portion of its own real estate holdings. This means Orion was born with an operating company that already owned buildings generating rent, not a startup searching for its first deal.
+Orion has an unusual origin. The company was spun off from Realty Income Corporation on November 12, 2021, and began trading on the [New York Stock Exchange](/new-york-stock-exchange/) less than a week later. Realty Income, a far larger REIT famous for paying monthly distributions to shareholders, created Orion by carving out a portion of its own real estate holdings. This means Orion was born with an operating company that already owned buildings generating rent, not a startup searching for its first deal.
 
 In late 2024, the company renamed itself from Orion [Office REIT](/office-reit/) to Orion Properties, a signal that it was moving away from an office-focused identity. This matters because office real estate is structurally challenged. Remote work has destroyed demand for traditional office buildings, and many office properties face refinancing crises as loans mature at higher [interest rates](/interest-rate/) while rents have stagnated. By rebranding as Orion Properties and actively diversifying its holdings, the company was acknowledging that office was no longer its core bet.
 
@@ -31,7 +31,7 @@ The structure is not differentiated — there are dozens of net-lease REITs — 
 
 ## Tenants, not properties, drive the business
 
-The composition of Orion's tenant roster is more important than the specific buildings it holds. The company reported that its portfolio includes properties leased to government agencies (which are effectively risk-free because they are backed by the full taxing power of a state or municipality), medical offices, research and development facilities, and flex/industrial space. Each category has different economics and different sensitivity to economic cycles. Government properties are among the safest because rent is paid by tax revenue. [Medical properties](/mpt-stock/) are stable because healthcare is demand-inelastic. R&D and flex space are more cyclical but command higher rents and attract venture-backed companies.
+The composition of Orion's tenant roster is more important than the specific buildings it holds. The company reported that its portfolio includes properties leased to government agencies (which are effectively risk-free because they are backed by the full taxing power of a state or municipality), medical offices, research and development facilities, and flex/industrial space. Each category has different economics and different sensitivity to economic cycles. Government properties are among the safest because rent is paid by tax revenue. Medical properties are stable because healthcare is demand-inelastic. R&D and flex space are more cyclical but command higher rents and attract venture-backed companies.
 
 The shift away from pure office and into mixed property types is visible in the company's recent reporting. Properties across multiple categories reduce the risk that any single sector's downturn devastates the company's cash flow.
 

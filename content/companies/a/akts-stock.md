@@ -21,7 +21,7 @@ Radiopharmaceutical development sits at the intersection of several technical hu
 
 ## How does it make money right now?
 
-It doesn't. As a clinical-stage company, Aktis generates no product revenue. Cash comes from its IPO proceeds and a strategic collaboration with Eli Lilly, which licensed the right to develop radioconjugates on the miniprotein platform outside Aktis' proprietary pipeline. The Lilly deal provides upfront and milestone payments, but the real revenue inflection would come from approvals and commercial launches—a path that typically spans five to ten years. Until then, the company burns cash on R&D, manufacturing scale-up, regulatory work, and patient trials.
+It doesn't. As a clinical-stage company, Aktis generates no product revenue. Cash comes from its IPO proceeds and a strategic collaboration with [Eli Lilly](/lly-stock/), which licensed the right to develop radioconjugates on the miniprotein platform outside Aktis' proprietary pipeline. The Lilly deal provides upfront and milestone payments, but the real revenue inflection would come from approvals and commercial launches—a path that typically spans five to ten years. Until then, the company burns cash on R&D, manufacturing scale-up, regulatory work, and patient trials.
 
 ## What sets it apart from other radiopharmaceutical shops?
 

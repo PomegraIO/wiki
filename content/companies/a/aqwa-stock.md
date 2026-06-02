@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Global X Clean Water ETF holds shares in companies that extract, treat, and deliver freshwater. It is a thematic fund—a vehicle for investors who believe that water scarcity is becoming a structural constraint on economic growth and that companies solving this problem will be profitable long-term. AQWA trades on NASDAQ and tracks the Solactive Clean Water Index, a curated basket of around 30 to 40 water-related businesses globally.
+The Global X Clean Water ETF holds shares in companies that extract, treat, and deliver freshwater. It is a thematic fund—a vehicle for investors who believe that water scarcity is becoming a structural constraint on economic growth and that companies solving this problem will be profitable long-term. AQWA trades on [NASDAQ](/nasdaq/) and tracks the Solactive Clean Water Index, a curated basket of around 30 to 40 water-related businesses globally.
 
 ## The water thesis
 
@@ -23,11 +23,11 @@ AQWA's holdings segment into three layers. The largest weight typically goes to 
 
 A second tier consists of water-technology and engineering firms: manufacturers of desalination equipment, filtration systems, and treatment processes. These are more cyclical, because their sales depend on capital-spending decisions by their utility and industrial customers. When municipalities fund infrastructure upgrades, demand rises; when budgets tighten, it falls.
 
-A third, smaller component includes broader industrial companies with significant water-management operations—firms like Pentair and Xylem, where water is one business line among several. This adds some diversification but also dilutes focus.
+A third, smaller component includes broader industrial companies with significant water-management operations—firms like Pentair and Xylem, where water is one business line among several. This adds some [diversification](/diversification/) but also dilutes focus.
 
 ## Costs and trading mechanics
 
-AQWA is a plain equity ETF with no leverage or derivatives. It charges an expense ratio typical of thematic equity funds—modest but higher than broad market index funds—and trades with decent liquidity on NASDAQ, though daily volumes are thinner than mega-cap index products. The fund distributes dividends quarterly or annually from the cash paid by its holdings.
+AQWA is a plain [equity ETF](/equity-etf/) with no leverage or derivatives. It charges an [expense ratio](/expense-ratio/) typical of thematic equity funds—modest but higher than broad market [index funds](/index-fund/)—and trades with decent liquidity on NASDAQ, though daily volumes are thinner than mega-cap index products. The fund distributes [dividends](/dividend/) quarterly or annually from the cash paid by its holdings.
 
 ## The risks
 

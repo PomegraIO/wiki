@@ -15,7 +15,7 @@ Sunrise Communications is Switzerland's second-largest telecommunications compan
 
 ## A late entrant in a consolidated market
 
-Sunrise's history is unusually fragmented compared to most European telecom incumbents. The company was formed through a merger of two smaller operators—Sunrise (which itself was built from earlier regional carriers) and Fastweb's Swiss subsidiary—creating the second-place player behind the long-dominant Swisscom. Later, a significant portion of the company was acquired by United Internet, a German diversified technology holding company, giving Sunrise a large shareholder with deep pockets but also distant strategic goals.
+Sunrise's history is unusually fragmented compared to most European telecom incumbents. The company was formed through a [merger](/merger/) of two smaller operators—Sunrise (which itself was built from earlier regional carriers) and Fastweb's Swiss subsidiary—creating the second-place player behind the long-dominant Swisscom. Later, a significant portion of the company was acquired by United Internet, a German diversified technology holding company, giving Sunrise a large shareholder with deep pockets but also distant strategic goals.
 
 The competitive landscape in Switzerland is tight. Swisscom holds the historical advantage of legacy incumbency, regulatory familiarity, and the largest customer base. Vodafone arrived in the market as a foreign challenger decades ago and has maintained a strong position, particularly in business services. Smaller competitors and MVNOs (mobile virtual network operators) occupy the long tail. Sunrise's position is profitable but defensive—it must fight to retain customers while managing the cost structure inherited from its merger history.
 
@@ -35,9 +35,9 @@ The Swiss market itself is small but wealthy, giving Sunrise access to high-valu
 
 ## Capital structure and the foreign ownership question
 
-Sunrise carries debt from its acquisition and merger history. The significant ownership stake held by United Internet, a distant parent company with its own strategic agenda, creates agency questions—the German holding company may have different objectives than Switzerland-based stakeholders.
+Sunrise carries debt from its [acquisition](/acquisition/) and merger history. The significant ownership stake held by United Internet, a distant parent company with its own strategic agenda, creates agency questions—the German holding company may have different objectives than Switzerland-based stakeholders.
 
-The company generates strong free cash flow from its recurring subscription base, which it uses to service debt, fund network investment, and return modest amounts to shareholders. However, unlike growth-stage telecom companies or utilities with regulatory protection, Sunrise must continually prove its competitive worth to investors.
+The company generates strong [free cash flow](/free-cash-flow/) from its recurring subscription base, which it uses to service debt, fund network investment, and return modest amounts to shareholders. However, unlike growth-stage telecom companies or utilities with regulatory protection, Sunrise must continually prove its competitive worth to investors.
 
 ## Competitive positioning and the maturity trap
 
@@ -47,4 +47,4 @@ The company's strategic options are limited. It can optimize operations and cost
 
 ## How to research Sunrise
 
-The company's annual reports and interim results (filed with SIX, the Swiss exchange) detail revenue by segment, customer counts, churn rates, and capital spending. The most useful signal is mobile customer net adds or churn—if Sunrise is losing customers to competitors, the business is under more stress than reported margins suggest. Watch also the operating margin trend and the company's investment intensity. In regulated European markets, political changes around privacy, net neutrality, or spectrum policy can meaningfully affect business models overnight.
+The company's [annual reports](/10-k/) and interim results (filed with SIX, the Swiss exchange) detail revenue by segment, customer counts, churn rates, and capital spending. The most useful signal is mobile customer net adds or churn—if Sunrise is losing customers to competitors, the business is under more stress than reported margins suggest. Watch also the [operating margin](/operating-margin/) trend and the company's investment intensity. In regulated European markets, political changes around privacy, net neutrality, or spectrum policy can meaningfully affect business models overnight.

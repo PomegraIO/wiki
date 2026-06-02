@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-VanEck Merk Gold ETF is a specialized exchange-traded fund that grants its shareholders direct or near-direct exposure to physical gold bars held in secure vault storage. Unlike most gold ETFs, which track gold prices through futures contracts or equity stakes in gold miners, OUNZ operates as a trust structure that purchases, holds, and safeguards actual gold — allowing investors to own shares traded on a stock exchange and, uniquely, to redeem those shares for physical gold delivery.
+VanEck Merk Gold ETF is a specialized exchange-traded fund that grants its shareholders direct or near-direct exposure to physical gold bars held in secure vault storage. Unlike most gold ETFs, which track gold prices through [futures contracts](/futures-contract/) or equity stakes in gold miners, OUNZ operates as a trust structure that purchases, holds, and safeguards actual gold — allowing investors to own shares traded on a [stock exchange](/stock-exchange/) and, uniquely, to redeem those shares for physical gold delivery.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ VanEck Merk Gold ETF is a specialized exchange-traded fund that grants its share
 
 ## The Physical Gold Model
 
-The defining feature of VanEck Merk Gold ETF is its insistence on holding real gold. When an investor purchases shares of OUNZ, the underlying trust buys physical gold — typically in the form of London Good Delivery bars, the global standard for bullion trades — and stores it in vaults managed by approved custodians. This physical backing distinguishes OUNZ from synthetic or derivative-based gold exposure. Every share represents a fractional claim on the actual gold in storage, not a promise to pay the gold price or an exposure managed through financial instruments.
+The defining feature of VanEck Merk Gold ETF is its insistence on holding real gold. When an investor purchases shares of OUNZ, the underlying trust buys physical gold — typically in the form of London Good Delivery bars, the global standard for bullion trades — and stores it in vaults managed by approved [custodians](/custodian/). This physical backing distinguishes OUNZ from synthetic or derivative-based gold exposure. Every share represents a fractional claim on the actual gold in storage, not a promise to pay the gold price or an exposure managed through financial instruments.
 
 The trust is structured so that shareholders can request redemption of shares in exchange for physical gold, subject to minimum redemption amounts and availability. This redemption feature is a genuine differentiator in the ETF landscape; most gold funds offer only cash redemption. The ability to take physical delivery creates an arbitrage mechanism that theoretically prevents the fund from trading significantly above or below the underlying gold value, though in practice the minimum redemption size and logistical costs create a band of acceptable deviation.
 
@@ -40,11 +40,11 @@ Investors should note that the share price tracks the spot price of gold adjuste
 
 ## Geography and Operations
 
-VanEck Merk Gold ETF operates with a focus on geographic diversification of vault storage. Gold held by the trust is typically stored in internationally recognised bullion vaults across established financial centres. This geographic distribution reduces the concentration risk of holding all bullion in a single location and allows the fund to maintain compliance with regulations in multiple jurisdictions. The use of professional custodians and regular third-party audits is standard practice for funds holding significant precious metals.
+VanEck Merk Gold ETF operates with a focus on geographic [diversification](/diversification/) of vault storage. Gold held by the trust is typically stored in internationally recognised bullion vaults across established financial centres. This geographic distribution reduces the [concentration risk](/concentration-risk/) of holding all bullion in a single location and allows the fund to maintain compliance with regulations in multiple jurisdictions. The use of professional custodians and regular third-party audits is standard practice for funds holding significant precious metals.
 
 ## Gold Price and Historical Context
 
-The fund's value tracks the price of gold, which is priced in dollars but determined by global supply and demand. Gold price movements reflect macro factors including currency fluctuations, interest rates, inflation expectations, geopolitical tensions, and investor demand for safe-haven assets. The physical nature of the fund means OUNZ captures the full upside and downside of gold price movements without counterparty risk — the gold sits in a vault, not in a bank's deposit account or a miner's earnings.
+The fund's value tracks the price of gold, which is priced in dollars but determined by global supply and demand. Gold price movements reflect macro factors including currency fluctuations, [interest rates](/interest-rate/), [inflation](/inflation/) expectations, geopolitical tensions, and investor demand for safe-haven assets. The physical nature of the fund means OUNZ captures the full upside and downside of gold price movements without [counterparty risk](/counterparty-risk/) — the gold sits in a vault, not in a bank's deposit account or a miner's earnings.
 
 ## How to Research VanEck Merk Gold ETF
 

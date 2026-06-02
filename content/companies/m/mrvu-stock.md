@@ -11,19 +11,19 @@ keywords:
 handwritten: true
 ---
 
-MRVU is a daily-reset leveraged ETF created by Direxion that targets twice the daily percentage movement of Marvell Technology stock. Marvell is a semiconductor company focused on infrastructure and high-speed data movement — chips used in data centers, cloud computing, storage, and networking. The fund is designed for traders who expect Marvell to move sharply upward in the near term and want to amplify that move through leverage.
+MRVU is a daily-reset [leveraged ETF](/leveraged-etf/) created by Direxion that targets twice the daily percentage movement of [Marvell Technology](/mrvl-stock/) stock. Marvell is a semiconductor company focused on infrastructure and high-speed data movement — chips used in data centers, cloud computing, storage, and networking. The fund is designed for traders who expect Marvell to move sharply upward in the near term and want to amplify that move through leverage.
 
 Direxion is one of the two dominant sponsors of single-stock leveraged ETFs, competing with GraniteShares and ProShares. The company has built its business around the premise that certain traders and investors want tactical directional exposure with daily-rebalancing leverage on individual stocks, and MRVU is one of its larger and more widely held products in this category.
 
 ## The structure and mechanics
 
-MRVU holds Marvell Technology stock and synthetic positions in futures and derivatives designed to move the fund twice as fast as the underlying stock each day. At each market close, Direxion rebalances the fund's holdings to reset the leverage ratio back to 2x, regardless of what the stock has done. This reset happens automatically and incurs transaction costs that Direxion absorbs (implicitly, in the expense ratio).
+MRVU holds Marvell Technology stock and synthetic positions in futures and derivatives designed to move the fund twice as fast as the underlying stock each day. At each market close, Direxion rebalances the fund's holdings to reset the [leverage ratio](/leverage-ratio-forex/) back to 2x, regardless of what the stock has done. This reset happens automatically and incurs transaction costs that Direxion absorbs (implicitly, in the [expense ratio](/expense-ratio/)).
 
 The fund's daily-reset design means it tracks the stock's single-day moves reliably, but those daily moves compound unpredictably over longer periods because of volatility drag. A stock that oscillates wildly but ends up flat will have a MRVU position that has lost value — a quirk of daily rebalancing that catches many buy-and-hold investors off guard.
 
 ## Marvell as the underlying
 
-Marvell Technology designs and sells semiconductors for data centers, cloud infrastructure, and high-speed networking. The company does not manufacture chips; it licenses the designs to others. Marvell's profitability is tied to demand for cloud computing infrastructure and the spending patterns of the world's largest technology companies. When cloud expansion is robust and data-center spending is rising, Marvell typically outperforms the broader semiconductor market. When cloud capex cools or recession fears emerge, the stock can fall sharply.
+Marvell Technology designs and sells semiconductors for data centers, cloud infrastructure, and high-speed networking. The company does not manufacture chips; it licenses the designs to others. Marvell's profitability is tied to demand for cloud computing infrastructure and the spending patterns of the world's largest technology companies. When cloud expansion is robust and data-center spending is rising, Marvell typically outperforms the broader semiconductor market. When cloud capex cools or [recession](/recession/) fears emerge, the stock can fall sharply.
 
 This matters for understanding MRVU volatility. Semiconductors are cyclical and often move in bursts tied to earnings surprises or shifts in demand expectations. That volatility interacts unfavorably with daily rebalancing, making MRVU a vehicle best suited to traders who have a specific near-term thesis about Marvell — not investors buying and holding for multi-month or multi-year horizon.
 
@@ -39,6 +39,6 @@ In a market where Marvell moves steadily upward with low volatility — say, a 2
 
 ## Costs and liquidity
 
-The expense ratio is typically 1.0% to 1.1% annually, meaningfully higher than a plain stock ETF but reasonable for a leveraged product with daily rebalancing. The fund trades on NASDAQ with solid liquidity during regular market hours. Spreads are tight for a single-stock product, and you should not see much slippage on a typical order size.
+The expense ratio is typically 1.0% to 1.1% annually, meaningfully higher than a plain stock ETF but reasonable for a leveraged product with daily rebalancing. The fund trades on [NASDAQ](/nasdaq/) with solid liquidity during regular market hours. Spreads are tight for a single-stock product, and you should not see much slippage on a typical order size.
 
 To evaluate MRVU, start with Marvell's investor relations materials and recent earnings calls — the stock's fundamental outlook and the company's near-term guidance drive the fund's moves. Watch data-center spending trends and cloud infrastructure capex forecasts, which flow directly into Marvell's revenue. And be disciplined about your exit plan before you buy. Leveraged funds are designed for tactical positions with a defined thesis and time horizon, not for "buy and hope it goes up."

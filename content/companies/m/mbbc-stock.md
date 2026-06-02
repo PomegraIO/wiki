@@ -35,7 +35,7 @@ The bank's net interest margin (the difference between what it earns on loans an
 
 Marathon's value creation depends on being a trusted, embedded lender in Maryland and the surrounding Mid-Atlantic. This geographic focus allows the bank to develop deep industry expertise (e.g., understanding local real-estate markets, construction cycles, small-business conditions) that national competitors cannot match without scaling their presence. The bank can make faster decisions on commercial loans because the decision-maker understands local conditions.
 
-However, geographic concentration also creates risk: if the Maryland economy deteriorates, unemployment rises, or real-estate values decline, Marathon's loan portfolio faces correlated stress. A [national bank](/nbhc-stock/) is more diversified and can weather regional downturns; Marathon cannot. This trade-off between specialization value and [concentration risk](/concentration-risk/) is a permanent feature of regional banking.
+However, geographic concentration also creates risk: if the Maryland economy deteriorates, unemployment rises, or real-estate values decline, Marathon's loan portfolio faces correlated stress. A national bank is more diversified and can weather regional downturns; Marathon cannot. This trade-off between specialization value and [concentration risk](/concentration-risk/) is a permanent feature of regional banking.
 
 ## Credit Risk and Loan Loss Reserves
 
@@ -57,7 +57,7 @@ On the lending side, Marathon competes against national banks (which have lower 
 
 ## Regulatory Burden and Capital Adequacy
 
-As a publicly traded bank, Marathon is subject to extensive regulatory oversight: Fed stress tests, liquidity coverage ratios, [leverage ratios](/leverage-ratio-forex/), and [concentration limits](/concentration-limits/). These requirements shape the bank's capital planning and constrain its ability to return capital to shareholders (through dividends or buybacks) if capital ratios are below regulatory targets.
+As a publicly traded bank, Marathon is subject to extensive regulatory oversight: Fed stress tests, liquidity coverage ratios, [leverage ratios](/leverage-ratio-forex/), and [concentration limits](/concentration-limits/). These requirements shape the bank's capital planning and constrain its ability to return capital to shareholders (through [dividends](/dividend/) or buybacks) if capital ratios are below regulatory targets.
 
 The bank must also maintain compliance with anti-money-laundering, know-your-customer, and fair-lending rules. Non-compliance can result in significant fines and reputational damage. This regulatory burden is a cost of being public and operating a national [stock](/stock/) exchange-listed bank; smaller, non-public banks face less scrutiny.
 
@@ -72,11 +72,11 @@ Marathon's profitability is tied to interest-rate levels and the shape of the [y
 ### Closely related
 - Regional banking and community finance
 - Deposits and FDIC insurance
-- Lending and credit risk
+- Lending and [credit risk](/credit-risk/)
 - [Interest rates](/interest-rate/) and net interest margin
 
 ### Wider context
-- [Financial institutions](/fisi-stock/)
+- Financial institutions
 - [NASDAQ](/nasdaq/)
 
 </div>

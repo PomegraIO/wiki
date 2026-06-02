@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Trinseo is a specialty chemicals company that manufactures polymers, elastomers, and latex products sold downstream to manufacturers of automotive parts, electronic devices, consumer packaging, and building materials. The company operates as a materials supplier—positioned between hydrocarbon inputs (crude oil derivatives, monomers) and the finished-goods makers that turn these raw materials into components that end consumers never see. Trinseo was born from the 2010 separation of Dow Chemical's styrenics and latex business, and it has since grown and consolidated through acquisition, becoming a significant mid-market player in industrial polymers and specialty resins.
+Trinseo is a specialty chemicals company that manufactures polymers, elastomers, and latex products sold downstream to manufacturers of automotive parts, electronic devices, consumer packaging, and building materials. The company operates as a materials supplier—positioned between hydrocarbon inputs ([crude oil](/crude-oil/) derivatives, monomers) and the finished-goods makers that turn these raw materials into components that end consumers never see. Trinseo was born from the 2010 separation of Dow Chemical's styrenics and latex business, and it has since grown and consolidated through [acquisition](/acquisition/), becoming a significant mid-market player in industrial polymers and specialty resins.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,7 +41,7 @@ Trinseo sits in the middle of a supply chain where petrochemical inputs flow fro
 
 ## The dislocation of 2024–2025
 
-Trinseo faced severe financial stress and filed for Chapter 11 bankruptcy protection. The company listed its ordinary shares on the OTC Pink market under TSEOF after delisting from NASDAQ in March 2026. The causes were diverse: sector-wide overcapacity in some polymer segments, weak automotive demand (a major customer category), and the company's accumulated debt from past acquisitions. The bankruptcy was a financial restructuring event, not an operational shut-down; Trinseo continued to operate and serve customers through the process. Nevertheless, the delisting and restructuring fundamentally altered the risk profile for public shareholders and the terms under which the company could access capital.
+Trinseo faced severe financial stress and filed for Chapter 11 bankruptcy protection. The company listed its ordinary shares on the [OTC Pink](/otc-pink/) market under TSEOF after delisting from [NASDAQ](/nasdaq/) in March 2026. The causes were diverse: sector-wide overcapacity in some polymer segments, weak automotive demand (a major customer category), and the company's accumulated debt from past acquisitions. The bankruptcy was a financial restructuring event, not an operational shut-down; Trinseo continued to operate and serve customers through the process. Nevertheless, the delisting and restructuring fundamentally altered the risk profile for public shareholders and the terms under which the company could access capital.
 
 ## The margin squeeze and competitive pressure
 

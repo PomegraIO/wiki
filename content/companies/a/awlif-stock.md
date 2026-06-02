@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Ameriwest [Critical Metals](/crml-stock/) is a resource company built on the thesis that the global energy transition will drive structural demand for metals that cannot be sourced reliably outside a handful of geopolitically stable nations. The company operates in the United States, sidestepping the jurisdictional and supply-chain risks that plague many exploration plays targeting lithium, cobalt, rare earth elements, and other battery and renewable materials.
+Ameriwest Critical Metals is a resource company built on the thesis that the global energy transition will drive structural demand for metals that cannot be sourced reliably outside a handful of geopolitically stable nations. The company operates in the United States, sidestepping the jurisdictional and supply-chain risks that plague many exploration plays targeting lithium, cobalt, rare earth elements, and other battery and renewable materials.
 
 The company emerged from earlier iterations focused on traditional precious metals. Over time, the board recognized a fundamental shift in commodity flows: rather than competing for gold and silver in a mature, low-margin extraction landscape, they could position themselves in an emerging market where supply is constrained and end-user demand (electric vehicles, wind turbines, solar equipment, semiconductors) is growing faster than supply can accommodate. This reorientation proved strategic. Domestic critical-mineral projects became a focal point for government support, offtake agreements, and investment from energy majors and automotive manufacturers seeking supply security.
 

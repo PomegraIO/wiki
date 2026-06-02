@@ -39,7 +39,7 @@ The company's profit model comes from per-user subscriptions, licensing fees, cu
 
 ## Execution and the commoditization question
 
-Baijiayun's near-term challenge is to prove that specialized, focused video platforms can compete against larger tech conglomerates that can subsidize or bundle video capabilities. Alibaba and Baidu each have invested heavily in education and possess far greater resources. The question for investors is whether Baijiayun's focus and specialization in education create a defensible moat or merely mark it as a niche player ripe for acquisition by a larger company seeking to in-house the capability.
+Baijiayun's near-term challenge is to prove that specialized, focused video platforms can compete against larger tech conglomerates that can subsidize or bundle video capabilities. Alibaba and Baidu each have invested heavily in education and possess far greater resources. The question for investors is whether Baijiayun's focus and specialization in education create a defensible moat or merely mark it as a niche player ripe for [acquisition](/acquisition/) by a larger company seeking to in-house the capability.
 
 The company's strategic lever is cross-selling AI and analytics capabilities to existing video customers. If it can increase the revenue per customer by offering exam proctoring, automated grading, and learning analytics, unit economics improve. But execution matters. Building and deploying AI tools that actually work is hard, and customer acquisition costs for new AI modules can be high relative to revenue.
 
@@ -53,9 +53,9 @@ There is also the question of scale within a market. Baijiayun has built a respe
 
 ## How to research Baijiayun
 
-Baijiayun files with the SEC as an OTC company (CIK 0001381074). The annual report details revenue breakdown by segment (live streaming, BRTC, cloud services, AI) and by customer vertical (education, finance, enterprise). Pay close attention to customer concentration—if a few large contracts represent the bulk of revenue, the business is fragile. Watch for commentary on China's education policy and regulatory changes.
+Baijiayun files with the SEC as an OTC company (CIK 0001381074). The [annual report](/10-k/) details revenue breakdown by segment (live streaming, BRTC, cloud services, AI) and by customer vertical (education, finance, enterprise). Pay close attention to customer concentration—if a few large contracts represent the bulk of revenue, the business is fragile. Watch for commentary on China's education policy and regulatory changes.
 
 Key metrics include the number of active schools or training centers using the platform, churn rates (what percentage of customers renew annually), and cross-sell penetration (what fraction of live-streaming customers also purchase AI or conferencing modules). Revenue growth that is decelerating or that is driven entirely by price increases rather than customer growth is a warning signal.
 
-The company's path to sustained growth depends on whether it can maintain pricing power as video infrastructure becomes more commoditized, whether it can cross-sell AI and advanced services to existing customers, and whether it can expand beyond education into other high-value verticals. The regulatory risk inherent in operating a China-focused software business means that geopolitical or policy shifts are tail risks that can emerge quickly and irreversibly.
+The company's path to sustained growth depends on whether it can maintain pricing power as video infrastructure becomes more commoditized, whether it can cross-sell AI and advanced services to existing customers, and whether it can expand beyond education into other high-value verticals. The regulatory risk inherent in operating a China-focused software business means that geopolitical or policy shifts are [tail risks](/tail-risk/) that can emerge quickly and irreversibly.
 

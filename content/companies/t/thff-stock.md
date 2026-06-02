@@ -28,7 +28,7 @@ First Financial Corp is a regional bank holding company headquartered in Terre H
 
 ## Roots deep in Indiana banking
 
-First Financial's origins reach back to 1834, when it was chartered as a state bank in Indiana. It is one of the state's oldest [financial institutions](/fisi-stock/) and has survived depressions, [recessions](/recession/), and the erosion of traditional banking by larger national players. That longevity speaks to the staying power of community banks that stay close to their customers and understand local credit conditions.
+First Financial's origins reach back to 1834, when it was chartered as a state bank in Indiana. It is one of the state's oldest financial institutions and has survived depressions, [recessions](/recession/), and the erosion of traditional banking by larger national players. That longevity speaks to the staying power of community banks that stay close to their customers and understand local credit conditions.
 
 The company grew through the twentieth century as a regional player, then consolidated with other Midwest banks and holding companies as banking became more consolidated. The name "First Financial" reflects those [mergers](/merger/) and rebranding over time. By the early 2000s, THFF had assembled a franchise of roughly one hundred branches across Indiana and neighboring states, serving small to mid-sized businesses, farm operations, and retail customers who valued a local relationship and a faster lending decision than they might get from a megabank's centralized underwriting.
 

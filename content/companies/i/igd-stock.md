@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-IGD is a closed-end fund that does something straightforward: it buys stocks that pay dividends, and it writes [call options](/call-option/) on those stocks to generate extra income. Think of it as buying a dividend-paying stock and then selling someone else the right to buy that stock away from you at a fixed price. If the stock price stays flat or declines, you keep the premium you were paid for selling the option. If the stock rises past that fixed price, the option gets exercised, you sell the stock, and your upside is capped. The premium income can be attractive, but it comes with a tradeoff: you give up some of the stock's gain in exchange for steady income today.
+IGD is a closed-end fund that does something straightforward: it buys stocks that pay [dividends](/dividend/), and it writes [call options](/call-option/) on those stocks to generate extra income. Think of it as buying a dividend-paying stock and then selling someone else the right to buy that stock away from you at a fixed price. If the stock price stays flat or declines, you keep the premium you were paid for selling the option. If the stock rises past that fixed price, the option gets exercised, you sell the stock, and your upside is capped. The premium income can be attractive, but it comes with a tradeoff: you give up some of the stock's gain in exchange for steady income today.
 
 The fund is managed by Voya, which oversees billions of dollars in investments, and it trades on the [stock exchange](/stock-exchange/). Like other [closed-end funds](/closed-end-fund/), IGD raises capital once and then shareholders buy and sell on the exchange at market prices, which can be above or below the actual value of the holdings.
 
@@ -37,7 +37,7 @@ The fund's income comes from two sources. The first is dividends collected from 
 
 When you add them together, the total can produce a yield that exceeds what the dividend stocks are yielding on their own. A stock yielding 2 percent in dividends might contribute an additional 3 percent to the fund through call premiums, adding up to 5 percent total. This appeals to income-hungry investors.
 
-But here is the catch. If the covered-call strategy works as intended — if stocks stay flat or decline and the fund keeps collecting premiums — the fund may give up some of the stock's recovery in a bull market. During years when dividend stocks soar, a covered-call fund will lag because its upside was capped. During years when dividends are safe but prices are stagnant, the covered-call fund looks smart.
+But here is the catch. If the covered-call strategy works as intended — if stocks stay flat or decline and the fund keeps collecting premiums — the fund may give up some of the stock's recovery in a [bull market](/bull-market/). During years when dividend stocks soar, a covered-call fund will lag because its upside was capped. During years when dividends are safe but prices are stagnant, the covered-call fund looks smart.
 
 Like other closed-end funds, IGD also raises money once at inception and then trades on the exchange. The fund's market price can drift above (premium) or below (discount) the [net asset value](/net-asset-value/) of the underlying stocks and options. That gap does not reflect the quality of the strategy; it reflects whether other investors want to own this particular fund at this particular moment.
 
@@ -45,7 +45,7 @@ Like other closed-end funds, IGD also raises money once at inception and then tr
 
 Covered-call funds appeal to investors who want steady income and do not believe the stock market is going to soar. If you are retired and living on distributions, or if you believe global dividend stocks will deliver modest single-digit returns over the next few years, a covered-call fund can turn that modest expected return into steady quarterly or monthly income.
 
-The cost is opportunity cost. In years when the stock market rallies sharply, covered-call funds lag. A 30 percent bull market in dividend stocks becomes a 20 percent gain in a covered-call fund because some of that upside was surrendered for premium income along the way. For investors who do not need the income and expect a strong bull market, this is a bad deal — buy the stocks directly or use a total-return index fund instead.
+The cost is opportunity cost. In years when the stock market rallies sharply, covered-call funds lag. A 30 percent bull market in dividend stocks becomes a 20 percent gain in a covered-call fund because some of that upside was surrendered for premium income along the way. For investors who do not need the income and expect a strong bull market, this is a bad deal — buy the stocks directly or use a total-return [index fund](/index-fund/) instead.
 
 Covered-call funds also produce income that, when cashed out and not reinvested, steadily shrinks the portfolio's value. If a fund is yielding 6 percent but the stocks inside appreciate only 2 percent a year, and you spend the 6 percent in income, then each year you are drawing down the principal. This is fine if you understand it and are comfortable with it, but it is not a free lunch.
 

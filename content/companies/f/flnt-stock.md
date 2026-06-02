@@ -31,7 +31,7 @@ Equally, Fluent is dependent on the health and regulatory posture of its buyer s
 
 ## Regulatory and Reputational Risk in Lead Resale
 
-Lead generation sits at the intersection of consumer privacy, data protection, and consumer protection law. Fluent must ensure that consumer inquiries are collected with proper consent, that data is secured and not resold to unauthorized parties, and that the downstream buyers (lenders, insurance agents) do not use lead data for predatory practices. Violation can trigger state attorney general enforcement, FTC fines, or class-action liability. Additionally, the perception that Fluent sells consumer data to unscrupulous actors can damage buyer relationships—mainstream [financial institutions](/fisi-stock/) increasingly avoid vendors with poor privacy posture.
+Lead generation sits at the intersection of consumer privacy, data protection, and consumer protection law. Fluent must ensure that consumer inquiries are collected with proper consent, that data is secured and not resold to unauthorized parties, and that the downstream buyers (lenders, insurance agents) do not use lead data for predatory practices. Violation can trigger state attorney general enforcement, FTC fines, or class-action liability. Additionally, the perception that Fluent sells consumer data to unscrupulous actors can damage buyer relationships—mainstream financial institutions increasingly avoid vendors with poor privacy posture.
 
 Privacy regulations like state biometric laws and the proliferation of state-level data breach notification rules also raise compliance costs. Fluent must invest in legal, security, and compliance infrastructure that doesn't directly generate revenue, compressing margins.
 

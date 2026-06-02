@@ -57,13 +57,13 @@ All of this is expensive, which is why only a few companies can be profitable in
 
 Paltac is the market leader, but it is not the only distributor. There are regional competitors and smaller national players, but Paltac's market share is roughly 40 percent, far ahead of the second-place competitor. This leadership position gives Paltac pricing power with drug companies—they want access to Paltac's distribution network—and with customers, who know Paltac is reliable and can handle any product.
 
-But the Japanese pharmaceutical distribution market has been consolidating. Regional wholesalers have merged or been acquired by larger national players. Paltac itself was formed in 1961 through a merger of smaller distributors. That consolidation has squeezed margins industry-wide because there is less room for inefficiency.
+But the Japanese pharmaceutical distribution market has been consolidating. Regional wholesalers have merged or been acquired by larger national players. Paltac itself was formed in 1961 through a [merger](/merger/) of smaller distributors. That consolidation has squeezed margins industry-wide because there is less room for inefficiency.
 
 Looking forward, competition is coming from two directions. First, large retailers like convenience stores and supermarkets are starting to sell OTC drugs directly, which cuts out the traditional pharmacy and threatens Paltac's customer base. Second, online pharmacies and direct-to-consumer distribution are growing, though still small in Japan compared to other countries. If these trends accelerate, they could reshape how drugs flow to consumers and compress distributor margins further.
 
 ## Margins, cash generation, and limited growth
 
-Paltac's business generates cash reliably. Even though margins are low (4 to 7 percent is typical), the business is efficient and turns inventory quickly. This generates free cash flow that the company has historically returned to shareholders through dividends.
+Paltac's business generates cash reliably. Even though margins are low (4 to 7 percent is typical), the business is efficient and turns inventory quickly. This generates [free cash flow](/free-cash-flow/) that the company has historically returned to shareholders through [dividends](/dividend/).
 
 Growth is limited. The Japanese population is aging but shrinking slightly. Healthcare spending will likely rise because older people use more medicine, but the number of new patients is not growing. This means Paltac's growth comes mainly from gaining market share (consolidating competitors) or adding higher-margin services. The core drug-distribution business is mature and not expected to grow faster than the overall economy, maybe 1 to 3 percent per year.
 
@@ -77,9 +77,9 @@ A third risk is operational. Paltac's distribution network is complex and depend
 
 ## How to research Paltac as an investment
 
-Start with Paltac's annual report (SEC CIK 0002089174) and break down revenue by product type. Watch whether OTC and device revenue are growing faster than ethics, which would signal a shift in the business mix.
+Start with Paltac's [annual report](/10-k/) (SEC CIK 0002089174) and break down revenue by product type. Watch whether OTC and device revenue are growing faster than ethics, which would signal a shift in the business mix.
 
-Key metrics are gross margin (watch for compression or stability), operating margin (shows whether the company can control costs as volume grows), and return on equity (indicates how efficiently management is deploying the capital base). Also track inventory turnover and days sales outstanding, which reveal how well Paltac is managing working capital.
+Key metrics are gross margin (watch for compression or stability), [operating margin](/operating-margin/) (shows whether the company can control costs as volume grows), and [return on equity](/return-on-equity/) (indicates how efficiently management is deploying the capital base). Also track [inventory turnover](/inventory-turnover/) and [days sales outstanding](/days-sales-outstanding/), which reveal how well Paltac is managing working capital.
 
 Look at commentary on customer concentration. Paltac serves thousands of small pharmacies plus a few large hospital chains. If a large customer starts integrating its own distribution or goes bankrupt, it could affect revenue. Also watch for commentary on IT investments and omnichannel strategy, which signal how seriously management is taking the risk of online disruption.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Nuveen Municipal Credit Income Fund is a closed-end investment fund that pools investor capital to purchase [municipal bonds](/municipal-bond/)—debt issued by states, counties, cities, and local authorities to finance public projects like schools, highways, water systems, and stadiums. What distinguishes this fund from other municipal bond funds is that it focuses specifically on bonds rated below investment grade, meaning bonds with higher credit risk but higher yields. A typical investor in this fund is looking for tax-exempt income (municipal bonds are often exempt from federal income tax) but is willing to accept credit risk to get a higher yield.
+Nuveen Municipal Credit [Income Fund](/income-fund/) is a closed-end investment fund that pools investor capital to purchase [municipal bonds](/municipal-bond/)—debt issued by states, counties, cities, and local authorities to finance public projects like schools, highways, water systems, and stadiums. What distinguishes this fund from other municipal [bond](/bond/) funds is that it focuses specifically on bonds rated below investment grade, meaning bonds with higher [credit risk](/credit-risk/) but higher yields. A typical investor in this fund is looking for tax-exempt income (municipal bonds are often exempt from federal income tax) but is willing to accept credit risk to get a higher yield.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,7 +33,7 @@ Most municipal bonds are issued by creditworthy entities (states, large cities, 
 
 ### How does a closed-end fund work in this context?
 
-The Nuveen fund is closed-end, meaning it issued a fixed number of shares at inception and does not continuously sell new shares to the public. Those shares trade on the [New York Stock Exchange](/new-york-stock-exchange/) like a stock, and the price fluctuates based on supply and demand. That is different from an open-end mutual fund, where the fund continuously issues new shares and redeems existing ones at the [net asset value](/net-asset-value/) (NAV) each day.
+The Nuveen fund is closed-end, meaning it issued a fixed number of shares at inception and does not continuously sell new shares to the public. Those shares trade on the [New York Stock Exchange](/new-york-stock-exchange/) like a stock, and the price fluctuates based on supply and demand. That is different from an open-end [mutual fund](/mutual-fund/), where the fund continuously issues new shares and redeems existing ones at the [net asset value](/net-asset-value/) (NAV) each day.
 
 The fund manager selects a portfolio of municipal bonds rated below investment grade, holding perhaps a hundred or more bonds across many different issuers and states. As those bonds pay interest (the coupon), the fund collects the income, and the board declares a distribution to shareholders. The fund may also realize capital gains or losses if it sells bonds for more or less than it paid. The net income and gains (net of expenses) are distributed to shareholders.
 
@@ -53,11 +53,11 @@ The fund's distribution to shareholders is typically sourced from coupon income�
 
 ### What are the main risks of the fund?
 
-The primary risk is credit risk—the chance that one or more of the issuers in the portfolio will default. This is especially acute in a recession when municipal revenues decline. States and local governments that rely on sales tax or property tax revenues feel pressure when the economy slows. An issuer that seemed stable might cut its bond payments or default entirely if tax revenues plummet. Historically, municipal defaults are rare, but they do happen, especially at the below-investment-grade tier where this fund concentrates.
+The primary risk is credit risk—the chance that one or more of the issuers in the portfolio will default. This is especially acute in a [recession](/recession/) when municipal revenues decline. States and local governments that rely on [sales tax](/sales-tax/) or [property tax](/property-tax/) revenues feel pressure when the economy slows. An issuer that seemed stable might cut its bond payments or default entirely if tax revenues plummet. Historically, municipal defaults are rare, but they do happen, especially at the below-investment-grade tier where this fund concentrates.
 
 [Interest-rate risk](/interest-rate-risk/) is secondary but important. If interest rates rise, bond prices fall, and any shareholder selling before maturity realizes a loss. Conversely, falling rates help bond prices. The fund has no control over interest rates, so this risk is structural.
 
-[Liquidity risk](/liquidity-risk/) can emerge in stress scenarios. Municipal bonds, especially below-investment-grade ones, trade less frequently than stocks or taxable [corporate bonds](/corporate-bond/). In a market crisis, if many municipal-bond funds need to raise cash simultaneously, the [bid-ask spread](/bid-ask-spread/) (the gap between what buyers and sellers are willing to pay) can widen dramatically, and selling bonds at fair value becomes difficult.
+[Liquidity risk](/liquidity-risk/) can emerge in stress scenarios. Municipal bonds, especially below-investment-grade ones, trade less frequently than stocks or taxable [corporate bonds](/corporate-bond/). In a market crisis, if many municipal-bond funds need to raise cash simultaneously, the [bid-ask spread](/bid-ask-spread/) (the gap between what buyers and sellers are willing to pay) can widen dramatically, and selling bonds at [fair value](/fair-value/) becomes difficult.
 
 There is also the closed-end structure risk: if the fund's share price falls to a large discount to NAV, a shareholder selling shares realizes a loss even if the underlying bonds are fine. That discount can persist for years in an unfavorable market environment.
 

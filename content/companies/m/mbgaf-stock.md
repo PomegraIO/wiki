@@ -58,7 +58,7 @@ This transition affects every part of Daimler's value chain:
 
 ## Sales and Distribution Network
 
-Daimler sells vehicles through franchised dealerships in most markets (Mercedes-Benz dealerships, [commercial vehicle](/cvgi-stock/) dealer networks). These dealers are independent businesses that purchase vehicles from Daimler and resell them to consumers or fleet operators. The dealership network provides localized sales, service, and brand presence; it is also a financial intermediary that finances inventory purchases and customer loans.
+Daimler sells vehicles through franchised dealerships in most markets (Mercedes-Benz dealerships, commercial vehicle dealer networks). These dealers are independent businesses that purchase vehicles from Daimler and resell them to consumers or fleet operators. The dealership network provides localized sales, service, and brand presence; it is also a financial intermediary that finances inventory purchases and customer loans.
 
 Daimler's sales success depends on the health and motivation of this dealer network. Poor dealer economics or dealer-manufacturer conflicts can undermine sales momentum. Conversely, a strong dealer network with excellent service reputation and customer satisfaction creates competitive advantage.
 

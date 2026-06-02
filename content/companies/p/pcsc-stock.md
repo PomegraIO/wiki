@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Perceptive Capital Solutions Corp. ([NASDAQ](/nasdaq/): PCSC) operates as an investment holding company and manager of capital dedicated to life sciences and healthcare opportunities. The company is affiliated with Perceptive Advisors, an investment firm that has built a track record investing in drug development, medical devices, diagnostic tools, and [healthcare services](/hcsg-stock/). PCSC itself serves as a publicly listed vehicle through which shareholders can gain exposure to the company's healthcare investment portfolio and the investment platform's expertise.
+Perceptive Capital Solutions Corp. ([NASDAQ](/nasdaq/): PCSC) operates as an investment holding company and manager of capital dedicated to life sciences and healthcare opportunities. The company is affiliated with Perceptive Advisors, an investment firm that has built a track record investing in drug development, medical devices, diagnostic tools, and healthcare services. PCSC itself serves as a publicly listed vehicle through which shareholders can gain exposure to the company's healthcare investment portfolio and the investment platform's expertise.
 
 ## The Life Sciences Investing Segment
 

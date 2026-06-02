@@ -45,7 +45,7 @@ The company uses an internal geological database to identify and stake prospecti
 
 NV Gold's approach is to conduct preliminary exploration on its properties, typically including geological mapping, geochemical sampling, and sometimes early-stage drilling. The goal is to establish whether a property shows enough promise to warrant further investment. If drilling results are positive, the company may drill further. If results are weak, the company may abandon the property or shift resources to more promising prospects.
 
-This is capital-intensive work, and funding is therefore essential. NV Gold has announced exploration programs, including a $165,000 investment in the Slumber Gold Project. The company requires ongoing capital raises to sustain its exploration activity. During bull markets for gold, capital is easier to raise; during downturns, it can be scarce.
+This is capital-intensive work, and funding is therefore essential. NV Gold has announced exploration programs, including a $165,000 investment in the Slumber Gold Project. The company requires ongoing capital raises to sustain its exploration activity. During [bull markets](/bull-market/) for gold, capital is easier to raise; during downturns, it can be scarce.
 
 ## Where does NV Gold's moat (or lack thereof) come in?
 
@@ -65,7 +65,7 @@ A secondary pressure is geology. If the company drills and finds that its proper
 
 First, review the company's latest 10-K filing (SEC CIK 0001607807) to understand the financial position, cash runway, exploration spending, and any recent drill results. Mining companies file technical reports that detail exploration results in detail; these are public documents and invaluable for assessing a property's merit.
 
-Second, understand the gold market. NV Gold's value is highly correlated with the gold price. If gold prices rise, exploration budgets expand and acquisitions accelerate. If gold prices fall, exploration slows. The stock will trade with that cycle.
+Second, understand the gold market. NV Gold's value is highly correlated with the gold price. If gold prices rise, exploration budgets expand and [acquisitions](/acquisition/) accelerate. If gold prices fall, exploration slows. The stock will trade with that cycle.
 
 Third, assess management's geological track record. Have the executives found deposits before? Do they have credible geological expertise? Have they made prudent decisions about which properties to focus on? A track record of success in exploration is valuable (though not guaranteed to repeat), while a track record of failed exploration programs is a warning.
 

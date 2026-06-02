@@ -20,7 +20,7 @@ That framing captures the company's essential position. Rather than targeting ma
 
 The company operates digital marketplaces — online platforms where buyers and sellers connect — and provides payment infrastructure to move money between them. In markets without robust credit-card penetration or trusted digital payment rails, this infrastructure is the bottleneck. WEBUY offers both the marketplace (the site where goods are listed and transacted) and the payment layer (the system that handles remittances, seller payouts, and buyer protection). Offering both in house is a vertical-integration choice that reduces friction compared to relying on external payment processors, which may be unavailable or prohibitively expensive in the target markets.
 
-Revenue comes from transaction fees — a cut of each sale that flows through the platform — and from value-added services such as seller tools, advertising, and logistics partnerships. This is the Alibaba or Shopify playbook adapted to markets where the infrastructure is less mature.
+Revenue comes from transaction fees — a cut of each sale that flows through the platform — and from value-added services such as seller tools, advertising, and logistics partnerships. This is the Alibaba or [Shopify](/shop-stock/) playbook adapted to markets where the infrastructure is less mature.
 
 ## Geography and market focus
 

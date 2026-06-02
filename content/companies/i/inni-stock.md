@@ -28,7 +28,7 @@ Innovaro can defend its position by focusing on indications where larger pharma 
 
 ## Regulatory and Approval Pathways
 
-Innovaro may benefit from accelerated regulatory pathways ([Fast Track](/ftrk-stock/), Breakthrough Therapy, Priority Review designations) if its molecules show early signs of efficacy in unmet-need indications. These regulatory advantages are moat-like in the sense that they shorten time-to-market and reduce development risk, improving Innovaro's probability of reaching profitability before capital reserves expire. However, they are not sustainable advantages; competitors pursuing the same indication can qualify for similar pathways. The real defense is speed: Innovaro must reach milestones (Phase 2 efficacy, regulatory approvals) ahead of rivals, using its capital more efficiently or having superior science.
+Innovaro may benefit from accelerated regulatory pathways (Fast Track, Breakthrough Therapy, Priority Review designations) if its molecules show early signs of efficacy in unmet-need indications. These regulatory advantages are moat-like in the sense that they shorten time-to-market and reduce development risk, improving Innovaro's probability of reaching profitability before capital reserves expire. However, they are not sustainable advantages; competitors pursuing the same indication can qualify for similar pathways. The real defense is speed: Innovaro must reach milestones (Phase 2 efficacy, regulatory approvals) ahead of rivals, using its capital more efficiently or having superior science.
 
 ## Partnership and Licensing Upside
 

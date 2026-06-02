@@ -37,7 +37,7 @@ Uranium mining in Canada operates under provincial and federal regulation, inclu
 
 ## Operational Realities
 
-A uranium mining operation involves drilling, extraction, processing ore to isolate uranium, [waste management](/wm-stock/), and environmental remediation. Mining is capital-intensive, labor-intensive, and has significant environmental footprint. A uranium mine operates under strict radiation safety standards. Workers and equipment are monitored for exposure. Uranium tailings—the leftover rock and waste after uranium is extracted—must be managed for decades. Environmental [bonds](/bond/) and decommissioning reserves are required to ensure the company will clean up the site when mining ends. These ongoing obligations reduce a mine's profitability compared to a more benign industrial operation.
+A uranium mining operation involves drilling, extraction, processing ore to isolate uranium, waste management, and environmental remediation. Mining is capital-intensive, labor-intensive, and has significant environmental footprint. A uranium mine operates under strict radiation safety standards. Workers and equipment are monitored for exposure. Uranium tailings—the leftover rock and waste after uranium is extracted—must be managed for decades. Environmental [bonds](/bond/) and decommissioning reserves are required to ensure the company will clean up the site when mining ends. These ongoing obligations reduce a mine's profitability compared to a more benign industrial operation.
 
 ## Scale and Competition
 

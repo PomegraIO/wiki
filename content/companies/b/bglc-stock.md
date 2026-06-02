@@ -43,7 +43,7 @@ If BGLC performs DNA sequencing, the laboratory operates Next-Generation Sequenc
 
 Sequencing machines are expensive (hundreds of thousands of dollars) and require high uptime. A machine down for service means samples queue; turnaround time increases and customers become frustrated. BGLC must budget for maintenance, schedule it during low-demand periods when possible, and maintain backup instruments if throughput is critical.
 
-The computational infrastructure handling raw sequencing data is equally critical. BGLC must have servers with sufficient storage and processing power to align sequences to a reference genome and call variants (identify differences from the reference). A computational failure or bottleneck delays result reporting. BGLC must monitor computational jobs, manage [data storage](/dtst-stock/), and ensure that data is backed up and secure.
+The computational infrastructure handling raw sequencing data is equally critical. BGLC must have servers with sufficient storage and processing power to align sequences to a reference genome and call variants (identify differences from the reference). A computational failure or bottleneck delays result reporting. BGLC must monitor computational jobs, manage data storage, and ensure that data is backed up and secure.
 
 ## Variant Calling and Interpretation
 

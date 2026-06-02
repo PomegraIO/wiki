@@ -10,13 +10,13 @@ keywords:
 handwritten: true
 ---
 
-*IX Acquisition Corp. is a special purpose acquisition company (SPAC) that raised capital to acquire and partner with a global technology or technology infrastructure business, currently in late-stage negotiations to merge with a satellite communications asset.*
+*IX [Acquisition](/acquisition/) Corp. is a special purpose acquisition company (SPAC) that raised capital to acquire and partner with a global technology or technology infrastructure business, currently in late-stage negotiations to merge with a satellite communications asset.*
 
-IX Acquisition was established in 2021 as a SPAC—a shell company formed with the explicit purpose of identifying, acquiring, and merging with an operating company. The vehicle raised $230 million in an initial public offering and was led by CEO Karen Bach, CFO Noah Aptekar, and Executive Chairman Guy Willner, operating out of London.
+IX Acquisition was established in 2021 as a SPAC—a shell company formed with the explicit purpose of identifying, acquiring, and merging with an operating company. The vehicle raised $230 million in an [initial public offering](/initial-public-offering/) and was led by CEO Karen Bach, CFO Noah Aptekar, and Executive Chairman Guy Willner, operating out of London.
 
 ## The SPAC Structure and Timeline
 
-A SPAC typically has a fixed window—two years from IPO, often extended by shareholder vote—to complete a business combination with an operating target. IX Acquisition faced repeated deadline extensions; as of late 2025, shareholders had approved extensions allowing completion as late as October 2026. These extensions signal a protracted negotiation or execution challenge; completed mergers usually reach closure well before the final deadline.
+A SPAC typically has a fixed window—two years from IPO, often extended by shareholder vote—to complete a [business combination](/business-combination-purchase/) with an operating target. IX Acquisition faced repeated deadline extensions; as of late 2025, shareholders had approved extensions allowing completion as late as October 2026. These extensions signal a protracted negotiation or execution challenge; completed [mergers](/merger/) usually reach closure well before the final deadline.
 
 Each extension creates a drain: IX Acquisition has paid investment advisory fees, legal costs, and operational expenses to the sponsor team while the trust account—capital reserved for the eventual merger—declined through shareholder redemptions. By December 2025, the trust held approximately $8.8 million, down from the original $230 million. Redemptions occur when shareholders lose confidence in the deal or perceive better opportunities elsewhere. The shrinking trust means less capital available for the acquisition target and any required post-merger capitalization.
 
@@ -34,7 +34,7 @@ These financing vehicles indicate tight capital constraints. The PIPE price and 
 
 ## Cyclical Risk in Satellite and Telecom
 
-The satellite communications sector is exposed to macroeconomic cycles. Capital-intensive infrastructure investments—launching satellites, building ground stations—depend on sustained access to cheap capital and customer demand. In downturns, when growth expectations contract and interest rates rise, satellite operators face pressure on both revenue growth and financing costs.
+The satellite communications sector is exposed to macroeconomic cycles. Capital-intensive infrastructure investments—launching satellites, building ground stations—depend on sustained access to cheap capital and customer demand. In downturns, when growth expectations contract and [interest rates](/interest-rate/) rise, satellite operators face pressure on both revenue growth and financing costs.
 
 For a SPAC-based entrant, the risk is amplified. A traditional operating company with positive cash flow can self-fund growth and weather downturns by cutting costs. A newly-public SPAC merger, capital-constrained and without a track record, is more vulnerable to market sentiment shifts. If the merger closes but macro conditions deteriorate—rising rates, reduced venture capital availability, or a pullback in remote-work and broadband-expansion spending—the combined entity will face immediate pressure to raise capital at unfavorable terms or cut operations.
 

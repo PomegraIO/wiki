@@ -25,7 +25,7 @@ REFLECT SCIENTIFIC, INC. makes and sells scientific instruments and equipment us
 
 ## A Small Player in a Large Market
 
-The scientific instrument business is dominated by a small number of global manufacturers — companies like Thermo Fisher Scientific, Danaher, Shimadzu, and a handful of others that have built massive organizations over decades. These giants buy out smaller competitors, spend heavily on research and development, and sell to customers around the world. They have the resources to build relationships with major hospital systems, university research centers, and government labs.
+The scientific instrument business is dominated by a small number of global manufacturers — companies like [Thermo Fisher Scientific](/tmo-stock/), Danaher, Shimadzu, and a handful of others that have built massive organizations over decades. These giants buy out smaller competitors, spend heavily on research and development, and sell to customers around the world. They have the resources to build relationships with major hospital systems, university research centers, and government labs.
 
 REFLECT operates at a much smaller scale. Its advantages, if any, come from focus and speed. Because the company is smaller, it can move faster on product improvements. Because it concentrates on specific kinds of instruments or customer segments, its engineers know those segments deeply. Its customers may get more direct access to decision-makers and engineers than they would from a massive, hierarchical competitor.
 
@@ -49,7 +49,7 @@ The company also depends on having good engineers and manufacturing capabilities
 
 The biggest threat to a company like REFLECT is when larger competitors decide to compete hard in a segment that REFLECT serves well. If a giant decides that a particular niche market is large enough to be worth attention, it can outspend, out-hire, and out-deliver a smaller player. One advantage of being small is that you are often not worth the effort of a much larger competitor — you operate in segments that are too small to move their needle but large enough to sustain your business.
 
-REFLECT also competes against pressure to consolidate. The scientific instrument industry has seen decades of mergers and acquisitions. Smaller companies often get bought by larger ones. The choice for a company like REFLECT is to stay independent by staying focused and competitive, or to sell to a larger player.
+REFLECT also competes against pressure to consolidate. The scientific instrument industry has seen decades of [mergers](/merger/) and [acquisitions](/acquisition/). Smaller companies often get bought by larger ones. The choice for a company like REFLECT is to stay independent by staying focused and competitive, or to sell to a larger player.
 
 ## How to Research REFLECT SCIENTIFIC
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-SMA Solar Technology manufactures inverters — the devices that convert the direct current electricity produced by solar panels into alternating current that can be used in homes, fed into the grid, or stored in batteries. The company is German, publicly traded on Frankfurt, and also accessible to American investors through an ADR (American Depositary Receipt) listed on OTC markets. Solar panels are commoditized and cheap; most of the sophisticated technology and pricing power in a residential or commercial solar system sits in the inverter, the batteries, and the monitoring software. SMA has built its business by being the most trusted inverter maker worldwide, particularly in markets where solar has penetrated deepest.
+SMA Solar Technology manufactures inverters — the devices that convert the direct current electricity produced by solar panels into alternating current that can be used in homes, fed into the grid, or stored in batteries. The company is German, publicly traded on Frankfurt, and also accessible to American investors through an ADR ([American Depositary Receipt](/adr/)) listed on OTC markets. Solar panels are commoditized and cheap; most of the sophisticated technology and pricing power in a residential or commercial solar system sits in the inverter, the batteries, and the monitoring software. SMA has built its business by being the most trusted inverter maker worldwide, particularly in markets where solar has penetrated deepest.
 
 <aside class="wiki-infobox">
 <table>
@@ -50,7 +50,7 @@ The real opportunity SMA sees is in grid modernization and flexibility services.
 
 ## Financial shape and outlook
 
-SMA operates on thin operating margins relative to software or pharma companies, but thicker than pure commodity businesses. The company generates cash from operations and has historically paid a dividend, though cash flow fluctuates with solar installation cycles and pricing pressure. Debt levels have been manageable, though the company has borrowed to fund growth during upturns.
+SMA operates on thin [operating margins](/operating-margin/) relative to software or pharma companies, but thicker than pure commodity businesses. The company generates cash from operations and has historically paid a [dividend](/dividend/), though cash flow fluctuates with solar installation cycles and pricing pressure. Debt levels have been manageable, though the company has borrowed to fund growth during upturns.
 
 The big variable ahead is whether SMA can grow revenue faster in utility-scale and storage-integrated solutions — where margins are wider — than it loses in commoditized residential inverters. The company also faces competition not just from other equipment makers but from larger players like Siemens and ABB who have the scale and relationships to integrate inverters into broader energy-management platforms.
 

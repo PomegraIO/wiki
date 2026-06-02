@@ -47,7 +47,7 @@ OGE competes only indirectly with other utilities. In its regulated service terr
 
 Wind power has become a competitive advantage. OGE has invested heavily in wind farms on the Oklahoma Panhandle and western plains, capturing economies of scale and benefiting from some of the continent's best wind resources. These assets undercut coal and natural gas on long-run cost and are favored by regulators and customers alike. OGE's wind portfolio insulates the company from future regulatory pressure to retire coal faster than currently planned.
 
-Larger utilities like [Duke Energy](/duk-stock/), [American Electric Power](/aep-stock/), and Southern Company have more negotiating clout with equipment vendors and greater capital capacity. OGE is mid-sized, which limits scale economies but also means its operations are less systemically important—it has less regulatory scrutiny than megacaps. Being mid-sized can be neutral-to-positive over long periods: the company is large enough to be professional and efficient, small enough to be nimble.
+Larger utilities like [Duke Energy](/duk-stock/), American Electric Power, and Southern Company have more negotiating clout with equipment vendors and greater capital capacity. OGE is mid-sized, which limits scale economies but also means its operations are less systemically important—it has less regulatory scrutiny than megacaps. Being mid-sized can be neutral-to-positive over long periods: the company is large enough to be professional and efficient, small enough to be nimble.
 
 ## Risks and pressures
 

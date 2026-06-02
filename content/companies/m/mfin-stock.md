@@ -27,7 +27,7 @@ This created a cascade of losses. Borrowers defaulted on loans that were deeply 
 
 MFIN did not announce the full catastrophe on a single earnings call. Instead, the company spent years provisioning loan losses, taking write-downs, reducing [dividends](/dividend/) (which had been a major attraction to investors), and gradually acknowledging that medallion lending was no longer viable at any price. This slow unwinding destroyed shareholder confidence slowly rather than all at once.
 
-The company then attempted [diversification](/diversification/) into other collateral: [commercial vehicle](/cvgi-stock/) loans, equipment financing, franchise loans. These have proven more durable but carry their own risks. A vehicle loan depends on the borrower's creditworthiness and on the residual value of the vehicle. Equipment loans depend on the industry health of the borrower. Franchise loans depend on the franchisor's stability and the franchisee's operational competence. None is as concentrated a bet as medallions were.
+The company then attempted [diversification](/diversification/) into other collateral: commercial vehicle loans, equipment financing, franchise loans. These have proven more durable but carry their own risks. A vehicle loan depends on the borrower's creditworthiness and on the residual value of the vehicle. Equipment loans depend on the industry health of the borrower. Franchise loans depend on the franchisor's stability and the franchisee's operational competence. None is as concentrated a bet as medallions were.
 
 ## The Franchise Lending Detour
 

@@ -15,19 +15,19 @@ The JPMorgan Fundamental Data Science Large Core ETF sits at the intersection of
 
 ## From research to market launch
 
-JPMorgan has spent decades building quantitative research infrastructure. The Fundamental Data Science model underlying LCDS evolved from years of research into how machine learning can synthesize vast datasets—financial statements, supply-chain metrics, management behavior, alternative data sources—to predict company performance. Rather than deploying this as proprietary trading or an opaque quantitative hedge fund, JPMorgan chose to offer it through an ETF wrapper, where transparency and daily liquidity appeal to institutional and retail investors alike.
+JPMorgan has spent decades building quantitative research infrastructure. The Fundamental Data Science model underlying LCDS evolved from years of research into how machine learning can synthesize vast datasets—financial statements, supply-chain metrics, management behavior, alternative data sources—to predict company performance. Rather than deploying this as proprietary trading or an opaque [quantitative hedge fund](/hedge-fund-quantitative/), JPMorgan chose to offer it through an ETF wrapper, where transparency and daily liquidity appeal to institutional and retail investors alike.
 
-The fund arrived during a shift in investor sentiment. For decades, ETFs were almost exclusively passive index trackers. LCDS entered a market where active management in the ETF format was gaining legitimacy, as some managers demonstrated that skill and disciplined processes could outperform while maintaining the cost structure and transparency advantages of exchange-traded products over traditional mutual funds.
+The fund arrived during a shift in investor sentiment. For decades, ETFs were almost exclusively passive index trackers. LCDS entered a market where active management in the ETF format was gaining legitimacy, as some managers demonstrated that skill and disciplined processes could outperform while maintaining the cost structure and transparency advantages of exchange-traded products over traditional [mutual funds](/mutual-fund/).
 
 ## How the model works
 
 At the core of LCDS is a machine learning model trained on decades of historical data to identify fundamental characteristics that predict future stock returns. The algorithm processes thousands of variables simultaneously—balance-sheet metrics, profitability trends, capital allocation patterns, management changes, supply-chain efficiency, and countless others. Unlike discretionary stock pickers relying on judgment, the model looks for statistical patterns and correlations that might signal which companies will outperform.
 
-The fund maintains a relatively modest portfolio—typically fewer than 100 holdings—concentrated enough to express conviction but diversified enough to avoid dangerous concentration. JPMorgan keeps turnover intentionally low, which minimizes transaction costs and tax drag. Rebalancing occurs when the model's signals shift materially, but this happens infrequently enough that costs do not erode returns the way they do in many actively managed funds.
+The fund maintains a relatively modest portfolio—typically fewer than 100 holdings—concentrated enough to express conviction but diversified enough to avoid dangerous concentration. JPMorgan keeps turnover intentionally low, which minimizes transaction costs and tax drag. Rebalancing occurs when the model's signals shift materially, but this happens infrequently enough that costs do not erode returns the way they do in many [actively managed funds](/actively-managed-fund/).
 
 ## Expense ratio and trading mechanics
 
-LCDS carries an expense ratio typical of active large-cap equity ETFs, substantially higher than passive index funds but lower than comparable active mutual funds. As an exchange-traded product, the fund trades on a stock exchange during market hours at prices set by supply and demand, offering intraday liquidity that mutual funds cannot match. The fund is cash-funded, meaning new investor capital deploys directly into securities rather than sitting as a drag on performance.
+LCDS carries an [expense ratio](/expense-ratio/) typical of active large-cap [equity ETFs](/equity-etf/), substantially higher than passive [index funds](/index-fund/) but lower than comparable active mutual funds. As an exchange-traded product, the fund trades on a [stock exchange](/stock-exchange/) during market hours at prices set by supply and demand, offering [intraday liquidity](/intraday-liquidity/) that mutual funds cannot match. The fund is cash-funded, meaning new investor capital deploys directly into securities rather than sitting as a drag on performance.
 
 Size and institutional interest provide adequate secondary-market liquidity for entry and exit, making the fund accessible to both large allocators and individual investors.
 
@@ -37,7 +37,7 @@ LCDS appeals to investors who believe data-driven, algorithmic selection can ide
 
 ## Real risks
 
-The primary risk is model risk. The statistical relationships between financial variables and future stock returns that the machine learning algorithm learned from historical data may not persist when market conditions shift materially. Interest-rate regimes change, sectors rotate, geopolitical shocks alter valuations, and models trained on the past can perform poorly in genuinely different environments. If the fund underperforms its benchmark for extended periods, the case for active management erodes, and investors question whether the expense ratio justified the bet.
+The primary risk is [model risk](/model-risk/). The statistical relationships between financial variables and future stock returns that the machine learning algorithm learned from historical data may not persist when market conditions shift materially. Interest-rate regimes change, sectors rotate, geopolitical shocks alter valuations, and models trained on the past can perform poorly in genuinely different environments. If the fund underperforms its benchmark for extended periods, the case for active management erodes, and investors question whether the expense ratio justified the bet.
 
 A secondary risk is execution. Even a sound strategy can underperform due to implementation slips, unexpected costs, or gradual model drift from its original specification. JPMorgan has the scale and infrastructure to mitigate these pitfalls, but no manager is immune.
 

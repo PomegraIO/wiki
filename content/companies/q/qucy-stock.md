@@ -44,7 +44,7 @@ The broader cybersecurity market is intensely competitive. Established players l
 
 ## Risks and what to watch
 
-The company's success depends on being right about the timeline of [quantum computing](/qubt-stock/) and on customers accepting the need to upgrade their cryptography infrastructure before they feel they must. If quantum computing advances more slowly than expected, or if governments impose migration timelines that force adoption, the market could expand rapidly. If the opposite happens—if quantum threats remain theoretical for another decade—demand could stagnate.
+The company's success depends on being right about the timeline of quantum computing and on customers accepting the need to upgrade their cryptography infrastructure before they feel they must. If quantum computing advances more slowly than expected, or if governments impose migration timelines that force adoption, the market could expand rapidly. If the opposite happens—if quantum threats remain theoretical for another decade—demand could stagnate.
 
 Additionally, Quantum Cyber's technology must prove itself against the standardized post-quantum algorithms. Using the wrong cryptographic approach would be a catastrophic mistake. The company's ability to stay aligned with evolving standards and to execute solid engineering is critical.
 

@@ -37,7 +37,7 @@ The cost of deposits is low, but it is not free. Banks must pay for infrastructu
 
 Community banks like Home Federal Bancorp are squeezed from above and below. Large national banks ([JPMorgan Chase](/jpmorgan-chase/), [Bank of America](/bank-of-america/)) offer convenience, investment services, and the ability to refinance mortgages at better rates because of their scale. Digital-native lenders and fintech platforms offer frictionless mortgage origination and instant funding. Meanwhile, local banks must maintain physical branches, hire experienced credit officers, and handle regulatory compliance—all expensive per dollar of loans.
 
-Home Federal Bancorp survives by being embedded in its local market. It knows local real-estate values, local business owners, and local credit patterns better than a [national bank](/nbhc-stock/) ever could. It can make credit decisions faster and with fewer bureaucratic delays. It offers a relationship, not a transaction. This is sufficient in markets where borrowers value speed and local judgment over rock-bottom rates, but it is fragile against any challenger that can undercut on price or convenience.
+Home Federal Bancorp survives by being embedded in its local market. It knows local real-estate values, local business owners, and local credit patterns better than a national bank ever could. It can make credit decisions faster and with fewer bureaucratic delays. It offers a relationship, not a transaction. This is sufficient in markets where borrowers value speed and local judgment over rock-bottom rates, but it is fragile against any challenger that can undercut on price or convenience.
 
 ## Interest-Rate Sensitivity
 

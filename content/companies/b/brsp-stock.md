@@ -27,13 +27,13 @@ BrightSpire's net [operating margin](/operating-margin/) on lease income therefo
 
 Lease income is realized only if space is leased and the tenant pays rent. Occupancy risk—the probability that a property will be vacant or that a tenant will default—directly impacts earnings.
 
-A newly acquired property may be partially vacant; BrightSpire must invest in leasing (tenant buildouts, free rent periods, broker commissions) to achieve stabilized occupancy. During the lease-up phase, NOI is depressed, and the property generates a lower yield than its stabilized target. Once occupancy improves and tenants are paying rent, yields rise. This creates a value-creation opportunity: acquire a below-market-occupied property, lease it up, and hold for the yield expansion. But it also creates the opposite risk: if a large tenant fails to renew or defaults, occupancy falls, and income drops sharply.
+A newly acquired property may be partially vacant; BrightSpire must invest in leasing (tenant buildouts, free rent periods, [broker](/broker/) commissions) to achieve stabilized occupancy. During the lease-up phase, NOI is depressed, and the property generates a lower yield than its stabilized target. Once occupancy improves and tenants are paying rent, yields rise. This creates a value-creation opportunity: acquire a below-market-occupied property, lease it up, and hold for the yield expansion. But it also creates the opposite risk: if a large tenant fails to renew or defaults, occupancy falls, and income drops sharply.
 
-Tenant credit quality is the denominator of rent collection. A lease to an investment-grade corporation (AT&T, Amazon, a major bank) is nearly as safe as a bond; default risk is minimal. A lease to a small business, a startup, or an overleveraged borrower carries significant default risk. If 20% of BrightSpire's portfolio is leased to tenants at risk of failure, and two of them default in a down economy, occupancy could fall from 95% to 85%, cutting NOI by $1+ million on a $12.5 million rent base.
+Tenant credit quality is the denominator of rent collection. A lease to an investment-grade corporation (AT&T, Amazon, a major bank) is nearly as safe as a [bond](/bond/); default risk is minimal. A lease to a small business, a startup, or an overleveraged borrower carries significant default risk. If 20% of BrightSpire's portfolio is leased to tenants at risk of failure, and two of them default in a down economy, occupancy could fall from 95% to 85%, cutting NOI by $1+ million on a $12.5 million rent base.
 
 ## Capital Structure and the Leverage Multiplier
 
-REITs are permitted to use significant debt to finance property acquisitions. A typical REIT might be financed 50–60% with debt and 40–50% with equity. If BrightSpire borrows at 4–5% (the cost of debt) and the property generates a 6–7% unleveraged yield on cost, the leverage amplifies returns to equity holders.
+REITs are permitted to use significant debt to finance property [acquisitions](/acquisition/). A typical REIT might be financed 50–60% with debt and 40–50% with equity. If BrightSpire borrows at 4–5% (the [cost of debt](/cost-of-debt/)) and the property generates a 6–7% unleveraged yield on cost, the leverage amplifies returns to equity holders.
 
 Example: A $100 million property with a 6% unleveraged yield generates $6 million in annual NOI. If financed 60% debt ($60M) at 4.5% interest and 40% equity ($40M), interest cost is $2.7 million, leaving $3.3 million to equity, or an 8.25% yield on $40 million of equity capital. Leverage has increased the return to equity holders from 6% to 8.25%.
 
@@ -43,7 +43,7 @@ BrightSpire must manage its debt maturity profile, [refinancing risk](/refinanci
 
 ## Dividend Requirements and Taxable Income
 
-REITs are required to distribute 90% of taxable income to shareholders as dividends. This distribution requirement is a defining feature: REIT investors expect income, and the structure is geared toward generating and distributing cash rather than retaining earnings for growth.
+REITs are required to distribute 90% of taxable income to shareholders as [dividends](/dividend/). This distribution requirement is a defining feature: REIT investors expect income, and the structure is geared toward generating and distributing cash rather than retaining earnings for growth.
 
 The challenge arises when a REIT owns real estate with high [debt financing](/debt-financing/) (which generates interest deductions) but receives lease income. Taxable income may differ from cash earnings: the company might report positive cash but lower taxable income (due to [depreciation](/depreciation/) deductions and interest expenses), allowing it to distribute 90% of taxable income without draining cash. Conversely, in later years if properties are fully depreciated, taxable income may exceed cash earnings, creating a tax liability.
 
@@ -51,15 +51,15 @@ BrightSpire's dividend sustainability depends on whether cash earnings exceed th
 
 ## Real Estate Sector and Economic Sensitivity
 
-BrightSpire's performance is closely tied to the health of its tenants' sectors and the broader real estate cycle. Office REITs have faced structural headwinds as remote work has reduced demand for commercial office space; retail REITs have been pressured by e-commerce; [industrial REITs](/industrial-reit/) have benefited from logistics demand but are sensitive to supply-chain volatility.
+BrightSpire's performance is closely tied to the health of its tenants' sectors and the broader real estate cycle. [Office REITs](/office-reit/) have faced structural headwinds as remote work has reduced demand for commercial office space; [retail REITs](/retail-reit/) have been pressured by e-commerce; [industrial REITs](/industrial-reit/) have benefited from logistics demand but are sensitive to supply-chain volatility.
 
-Economic downturns increase tenant defaults and reduce property values. A recession suppresses both rent growth (tenants renew at lower rates or leave) and property values (cap rates widen, reducing values), creating losses for equity holders. BrightSpire must maintain a portfolio resilient to sector and economic downturns, or accept the cyclical nature of REIT returns.
+Economic downturns increase tenant defaults and reduce property values. A [recession](/recession/) suppresses both rent growth (tenants renew at lower rates or leave) and property values (cap rates widen, reducing values), creating losses for equity holders. BrightSpire must maintain a portfolio resilient to sector and economic downturns, or accept the cyclical nature of REIT returns.
 
 ## Portfolio Composition and Earnings Predictability
 
 BrightSpire's [earnings quality](/earnings-quality/) depends on its property portfolio. A diversified portfolio across geographies, sectors, and tenant types provides some hedge against concentrated risk. A portfolio concentrated in a single sector (say, all office) or a single region (say, all Sunbelt growth markets) is more volatile.
 
-Single-tenant, net-lease properties with investment-grade anchors (such as a grocery store leased to a major chain) generate stable, predictable rent with minimal management burden—low-volatility revenue but often lower yields. Multitenant properties with smaller tenants generate higher yields but require active management and carry higher occupancy and credit risk.
+Single-tenant, net-lease properties with investment-grade anchors (such as a grocery store leased to a major chain) generate stable, predictable rent with minimal management burden—low-volatility revenue but often lower yields. Multitenant properties with smaller tenants generate higher yields but require active management and carry higher occupancy and [credit risk](/credit-risk/).
 
 BrightSpire's strategic choice of portfolio mix determines both the yield and the stability of its earnings and dividends.
 

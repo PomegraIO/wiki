@@ -43,7 +43,7 @@ The company is also exposed to [interest-rate risk](/interest-rate-risk/): if th
 
 ## Competitive Landscape
 
-The neuroinflammation space has attracted significant pharmaceutical and biotech interest. Larger companies (such as Eli Lilly, Roche, and others) are developing neuroinflammatory approaches to Alzheimer's and Parkinson's. Inhibikase's smaller size and earlier-stage program put it at a competitive disadvantage: larger competitors have more resources, more clinical experience, and established payer relationships.
+The neuroinflammation space has attracted significant pharmaceutical and biotech interest. Larger companies (such as [Eli Lilly](/lly-stock/), Roche, and others) are developing neuroinflammatory approaches to Alzheimer's and Parkinson's. Inhibikase's smaller size and earlier-stage program put it at a competitive disadvantage: larger competitors have more resources, more clinical experience, and established payer relationships.
 
 If a competitor's program shows strong efficacy in Parkinson's disease, it could validate the neuroinflammation hypothesis and potentially dominate the market before Inhibikase's program reaches Phase 3. Conversely, if competitor programs fail, it could cast doubt on the entire neuroinflammation approach and increase regulatory scrutiny of similar programs.
 

@@ -4,7 +4,7 @@ description: "Closed-end investment company focused on middle-market equity and 
 keywords: ["investment company", "closed-end fund", "equity investing", "middle-market investing", "alternative investments"]
 ---
 
-*Cantor Equity Partners VI, Inc., ticker **CEPS** on NASDAQ, is a closed-end investment company that pools public shareholder capital for deployment into direct and indirect equity stakes in privately held and publicly traded middle-market companies. As the sixth Cantor Equity Partners fund, CEPS represents a later-vintage pool of capital investing in a different economic and valuation environment than earlier iterations.*
+*Cantor Equity Partners VI, Inc., ticker **CEPS** on [NASDAQ](/nasdaq/), is a closed-end investment company that pools public shareholder capital for deployment into direct and indirect equity stakes in privately held and publicly traded middle-market companies. As the sixth Cantor Equity Partners fund, CEPS represents a later-vintage pool of capital investing in a different economic and valuation environment than earlier iterations.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CEPS</td></tr>
@@ -33,7 +33,7 @@ Cantor Equity Partners VI typically invests in [preferred stock](/preferred-stoc
 
 ## How Middle-Market Exits Occur
 
-The fund's returns depend on realizing positions, and realization happens through three main paths: strategic sales (another company buys the portfolio company), financial sales (another [private equity](/special-purpose-acquisition-company/) firm or secondary buyer acquires the stake), or [initial public offerings](/initial-public-offering/). Rarely, a portfolio company may pay a dividend or recapitalize its debt, allowing the fund to harvest cash without full exit. IPOs are less common in the lower middle market, so CEPS is more likely to exit through sales. Identifying buyers, negotiating terms, and executing exits require significant relationship and operational skill. Funds whose sponsors lack strong industry networks or deal-flow relationships may face extended [holding periods](/holding-period/) and suboptimal realizations.
+The fund's returns depend on realizing positions, and realization happens through three main paths: strategic sales (another company buys the portfolio company), financial sales (another [private equity](/special-purpose-acquisition-company/) firm or secondary buyer acquires the stake), or [initial public offerings](/initial-public-offering/). Rarely, a portfolio company may pay a [dividend](/dividend/) or recapitalize its debt, allowing the fund to harvest cash without full exit. IPOs are less common in the lower middle market, so CEPS is more likely to exit through sales. Identifying buyers, negotiating terms, and executing exits require significant relationship and operational skill. Funds whose sponsors lack strong industry networks or deal-flow relationships may face extended [holding periods](/holding-period/) and suboptimal realizations.
 
 ## Fee and Expense Impact
 
@@ -45,7 +45,7 @@ CEPS shares trade on NASDAQ, offering investors liquidity, but the fund itself h
 
 ## Discounts and Premiums to NAV
 
-CEPS shares trade at a price determined by supply and demand; this price may differ from the fund's net asset value per share (calculated from the fair value of underlying holdings). When CEPS trades at a discount to NAV, the market is signaling skepticism about the quality or valuations of the portfolio or concerns about the fund's management. Conversely, a premium to NAV suggests investor confidence. The discount or premium fluctuates with market sentiment and portfolio performance. Savvy investors sometimes buy closed-end funds trading at steep discounts to NAV, viewing the discount as a margin of safety; if the fund later performs well or the discount narrows, share price appreciation amplifies returns.
+CEPS shares trade at a price determined by supply and demand; this price may differ from the fund's net asset value per share (calculated from the [fair value](/fair-value/) of underlying holdings). When CEPS trades at a discount to NAV, the market is signaling skepticism about the quality or valuations of the portfolio or concerns about the fund's management. Conversely, a premium to NAV suggests investor confidence. The discount or premium fluctuates with market sentiment and portfolio performance. Savvy investors sometimes buy closed-end funds trading at steep discounts to NAV, viewing the discount as a margin of safety; if the fund later performs well or the discount narrows, share price appreciation amplifies returns.
 
 ## Research and Due Diligence
 

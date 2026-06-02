@@ -65,7 +65,7 @@ Read the company's [10-K](/10-k/) and quarterly 10-Q filings. Look for detail on
 
 Search the FDA website for IND (Investigational New Drug) applications and trial registrations. Clinical trials are public; Century's trials should be listed on ClinicalTrials.gov with enrollment and phase status. That's often fresher than SEC filings.
 
-Watch for partnerships or licensing agreements with larger pharma firms. If [Pfizer](/pfe-stock/) or Merck licenses Century's technology, that signals external validation and new capital.
+Watch for partnerships or licensing agreements with larger pharma firms. If [Pfizer](/pfe-stock/) or [Merck](/mrk-stock/) licenses Century's technology, that signals external validation and new capital.
 
 <div class="wiki-seealso">
 ### Closely related

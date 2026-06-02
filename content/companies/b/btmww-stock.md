@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Bitcoin Depot Inc. runs a straightforward business: it owns and operates machines that let people buy and sell cryptocurrency for cash and card payments, much like a traditional ATM. The machines are installed in retail locations — convenience stores, gas stations, malls — where foot traffic exists. Customers walk up, insert cash or card, and complete a transaction. Bitcoin Depot takes a fee on every transaction. The company is betting that this physical, in-person infrastructure matters; that there is a lasting demand from people who want to access cryptocurrency but distrust online exchanges, prefer not to use a bank account, or simply do not have the technical knowledge to navigate a web-based trading platform.
+[Bitcoin Depot](/btm-stock/) Inc. runs a straightforward business: it owns and operates machines that let people buy and sell cryptocurrency for cash and card payments, much like a traditional ATM. The machines are installed in retail locations — convenience stores, gas stations, malls — where foot traffic exists. Customers walk up, insert cash or card, and complete a transaction. [Bitcoin](/bitcoin/) Depot takes a fee on every transaction. The company is betting that this physical, in-person infrastructure matters; that there is a lasting demand from people who want to access cryptocurrency but distrust online exchanges, prefer not to use a bank account, or simply do not have the technical knowledge to navigate a web-based trading platform.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ Bitcoin Depot Inc. runs a straightforward business: it owns and operates machine
 
 ## The idea and the market
 
-The idea is simple. Bitcoin and other cryptocurrencies are digital, existing only on blockchains and inside digital wallets. But people like to transact in ways they understand: they hand over cash at a store and walk away with something. A Bitcoin ATM bridges that gap. It lets someone take cash they have in their pocket and swap it for Bitcoin or Ethereum, or sell their cryptocurrency for cash. No online account needed. No bank required. The transaction is pseudonymous — the machine does not necessarily know your name or identity, though most operate with some know-your-customer compliance to prevent money laundering.
+The idea is simple. Bitcoin and other cryptocurrencies are digital, existing only on blockchains and inside digital wallets. But people like to transact in ways they understand: they hand over cash at a store and walk away with something. A Bitcoin ATM bridges that gap. It lets someone take cash they have in their pocket and swap it for Bitcoin or [Ethereum](/ethereum/), or sell their cryptocurrency for cash. No online account needed. No bank required. The transaction is pseudonymous — the machine does not necessarily know your name or identity, though most operate with some know-your-customer compliance to prevent money laundering.
 
 Bitcoin Depot saw an opportunity here: as cryptocurrency adoption grew in the mid-2010s, the infrastructure for casual, in-person purchases lagged far behind. Online exchanges existed, but they required bank accounts, identity verification, and technical comfort with computers and websites. For many potential users — particularly in underbanked communities, immigrant populations, and anyone with distrust of traditional financial institutions — a physical ATM was more accessible than an online platform.
 
@@ -36,7 +36,7 @@ The company started in 2016 and grew the Bitcoin ATM network from there. The bus
 
 Operating an ATM network is fundamentally a real-estate and logistics problem. Every machine is physical hardware that costs money to buy, install, and maintain. Every location has a landlord who demands rent and a portion of the transaction fee. The company has to manage cash flow — it must keep enough currency inside each machine to meet customer withdrawals, which means tying up capital in physical cash distributed across dozens or hundreds of machines. It has to prevent theft. It has to deal with technical failures, software updates, and regulatory compliance.
 
-Compare this to an online cryptocurrency exchange, which is purely digital. An exchange has servers and staff, but it has no physical inventory cost, no landlord problem, and no cash logistics. That advantage has made online exchanges vastly more profitable and more scalable than ATM networks. Bitcoin Depot's model is higher-friction and more capital-intensive. What it offers in return is convenience for people who do not trust computers or do not have access to banking infrastructure. Whether that advantage is large enough to sustain a profitable business is an open question.
+Compare this to an online [cryptocurrency exchange](/cryptocurrency-exchange/), which is purely digital. An exchange has servers and staff, but it has no physical inventory cost, no landlord problem, and no cash logistics. That advantage has made online exchanges vastly more profitable and more scalable than ATM networks. Bitcoin Depot's model is higher-friction and more capital-intensive. What it offers in return is convenience for people who do not trust computers or do not have access to banking infrastructure. Whether that advantage is large enough to sustain a profitable business is an open question.
 
 ## The competitive and regulatory environment
 
@@ -52,7 +52,7 @@ The company also faces a secular challenge: younger, digitally native customers 
 
 ## Capital and the path forward
 
-Bitcoin Depot is a public company that has raised capital through a SPAC merger. Unlike the earlier companies in this batch, Bitfufu and Bitcoin Depot are both operating companies with real revenue and, potentially, real profits. Bitcoin Depot's warrant (BTMWW) represents a claim on the company's future cash flows. The company generates transaction fees, which scale with customer volume and transaction size. The profitability question is whether transaction fees exceed the costs of hardware, real estate, compliance, and operations.
+Bitcoin Depot is a public company that has raised capital through a SPAC [merger](/merger/). Unlike the earlier companies in this batch, Bitfufu and Bitcoin Depot are both operating companies with real revenue and, potentially, real profits. Bitcoin Depot's warrant (BTMWW) represents a claim on the company's future cash flows. The company generates transaction fees, which scale with customer volume and transaction size. The profitability question is whether transaction fees exceed the costs of hardware, real estate, compliance, and operations.
 
 The company faces a choice: it can try to scale the ATM network into a dominant national or global position (a path that requires significant capital and may never be profitable), or it can focus on specific regions or customer segments where ATMs are defensible and optimize those locations for margin rather than volume. The second path might be more realistic, but it caps the company's growth potential.
 

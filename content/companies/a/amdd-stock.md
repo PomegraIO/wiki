@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Direxion Daily AMD Bear 1X ETF** (ticker AMDD) is an exchange-traded fund that moves in the opposite direction of Advanced Micro Devices stock on a day-to-day basis. For every 1% that AMD shares fall, AMDD typically gains 1%; when AMD rises, AMDD declines by approximately the same amount. It is a tool for traders and hedgers with short time horizons, not a vehicle for buy-and-hold investing.*
+*The **Direxion Daily AMD Bear 1X ETF** (ticker AMDD) is an exchange-traded fund that moves in the opposite direction of [Advanced Micro Devices](/amd-stock/) stock on a day-to-day basis. For every 1% that AMD shares fall, AMDD typically gains 1%; when AMD rises, AMDD declines by approximately the same amount. It is a tool for traders and hedgers with short time horizons, not a vehicle for buy-and-hold investing.*
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ handwritten: true
 
 ## What an inverse ETF does
 
-An inverse ETF holds a portfolio of derivatives (primarily swaps and index futures) designed to produce returns opposite to its target. In AMDD's case, the fund is engineered so that a one-day decline in AMD stock price results in a gain for the fund, and vice versa. The relationship is strictly daily — the fund resets its exposure at the market close each day, meaning its leverage is refreshed from zero. This daily reset feature is fundamental to how leveraged and inverse ETFs work, and it is also the source of their most significant limitation.
+An [inverse ETF](/inverse-etf/) holds a portfolio of derivatives (primarily swaps and index futures) designed to produce returns opposite to its target. In AMDD's case, the fund is engineered so that a one-day decline in AMD stock price results in a gain for the fund, and vice versa. The relationship is strictly daily — the fund resets its exposure at the market close each day, meaning its leverage is refreshed from zero. This daily reset feature is fundamental to how leveraged and inverse ETFs work, and it is also the source of their most significant limitation.
 
 ## The daily reset trap: decay over time
 
@@ -36,13 +36,13 @@ This drift is not a flaw in the fund's construction; it is an inherent mathemati
 
 ## Who uses it and when
 
-AMDD serves a specific subset of market participants. Professional traders and hedge funds may use inverse ETFs to hedge long positions in AMD stock during periods when they believe the company's shares will temporarily weaken. An investor with a large position in AMD might temporarily hold AMDD as a hedge, offsetting losses if AMD falls. Day traders and swing traders may also use AMDD to take short positions without borrowing stock or managing the mechanics of a traditional short sale.
+AMDD serves a specific subset of market participants. Professional traders and [hedge funds](/hedge-fund/) may use inverse ETFs to hedge long positions in AMD stock during periods when they believe the company's shares will temporarily weaken. An investor with a large position in AMD might temporarily hold AMDD as a hedge, offsetting losses if AMD falls. Day traders and swing traders may also use AMDD to take short positions without borrowing stock or managing the mechanics of a traditional short sale.
 
-Retail investors sometimes buy inverse ETFs believing them to be straightforward short bets, but they often discover too late that holding them across a volatile consolidation results in losses even if their directional thesis was correct. The expenses also accumulate: a 0.95% annual expense ratio is higher than most broad equity or sector ETFs, and that cost is paid regardless of whether the fund is held for days or months.
+Retail investors sometimes buy inverse ETFs believing them to be straightforward short bets, but they often discover too late that holding them across a volatile consolidation results in losses even if their directional thesis was correct. The expenses also accumulate: a 0.95% annual [expense ratio](/expense-ratio/) is higher than most broad equity or [sector ETFs](/sector-etf/), and that cost is paid regardless of whether the fund is held for days or months.
 
 ## Trading, liquidity, and costs
 
-AMDD trades on NYSE Arca, and its liquidity is typically modest compared to funds tracking broad indices or major sector ETFs. Bid-ask spreads can be wider, making entry and exit more costly for smaller trades. The expense ratio of approximately 0.95% annually is relatively high, reflecting the cost of the swap and futures positions underlying the fund. For a trader holding the fund intraday or for a few days, these expenses may be negligible relative to the intended profit; for someone inadvertently holding it for weeks, they become material.
+AMDD trades on NYSE Arca, and its liquidity is typically modest compared to funds tracking broad indices or major sector ETFs. [Bid-ask spreads](/bid-ask-spread/) can be wider, making entry and exit more costly for smaller trades. The expense ratio of approximately 0.95% annually is relatively high, reflecting the cost of the swap and futures positions underlying the fund. For a trader holding the fund intraday or for a few days, these expenses may be negligible relative to the intended profit; for someone inadvertently holding it for weeks, they become material.
 
 The fund itself does not charge transaction costs for intraday trading; it trades like any listed security. But the underlying instruments — the swaps and futures that create the inverse exposure — carry embedded costs that are reflected in the fund's expense ratio.
 
@@ -54,4 +54,4 @@ Anyone researching AMDD should consult Direxion's prospectus and fact sheet, whi
 
 ## How to think about it
 
-AMDD is a tactical tool with a sharply defined use case: betting that AMD stock will fall (or hedging long AMD exposure) over a brief time window of days to a couple of weeks. It is not a substitute for owning AMD shares inverted, because it does not preserve that relationship across extended periods. It is not suitable for passive investing or for anyone who believes AMD will underperform over a year or more and wants a buy-and-hold position reflecting that view. For that kind of longer-term bearish bet, traditional shorting or put options are more appropriate vehicles, though both come with their own complexities and costs.
+AMDD is a tactical tool with a sharply defined use case: betting that AMD stock will fall (or hedging long AMD exposure) over a brief time window of days to a couple of weeks. It is not a substitute for owning AMD shares inverted, because it does not preserve that relationship across extended periods. It is not suitable for passive investing or for anyone who believes AMD will underperform over a year or more and wants a buy-and-hold position reflecting that view. For that kind of longer-term bearish bet, traditional shorting or [put options](/put-option/) are more appropriate vehicles, though both come with their own complexities and costs.

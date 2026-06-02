@@ -15,9 +15,9 @@ FCA divides itself into two interdependent dimensions: the selection methodology
 
 ## The AlphaDEX selection methodology
 
-First Trust's AlphaDEX system screens the universe of eligible Chinese stocks using a combination of value metrics (price-to-earnings, price-to-book, price-to-sales, dividend yield) and momentum signals (relative price strength, recent returns). Stocks that rank high on both dimensions — cheap and rising — receive larger positions; stocks that fail on both dimensions are excluded or minimized. The approach is systematic and rules-based, meaning the same methodology is applied consistently over time and the weightings adjust transparently as scores change.
+First Trust's AlphaDEX system screens the universe of eligible Chinese stocks using a combination of value metrics (price-to-earnings, price-to-book, price-to-sales, [dividend yield](/dividend-yield/)) and momentum signals (relative price strength, recent returns). Stocks that rank high on both dimensions — cheap and rising — receive larger positions; stocks that fail on both dimensions are excluded or minimized. The approach is systematic and rules-based, meaning the same methodology is applied consistently over time and the weightings adjust transparently as scores change.
 
-This value-plus-momentum combination works when cheap stocks outperform and momentum persists. It underperforms when value and momentum diverge — when cheap companies stagnate and growth stocks continue rallying, the strategy's higher costs relative to a passive index fund become a drag. First Trust's wager is that Chinese small- and mid-cap markets, being less efficiently priced than global megacap stocks, experience enough mispricings to reward systematic screening.
+This value-plus-momentum combination works when cheap stocks outperform and momentum persists. It underperforms when value and momentum diverge — when cheap companies stagnate and growth stocks continue rallying, the strategy's higher costs relative to a passive [index fund](/index-fund/) become a drag. First Trust's wager is that Chinese small- and mid-cap markets, being less efficiently priced than global megacap stocks, experience enough mispricings to reward systematic screening.
 
 ## The Chinese small- and mid-cap universe
 
@@ -27,11 +27,11 @@ FCA restricts its holdings to companies below a defined market-capitalization th
 
 FCA's underlying holdings are priced in Chinese yuan. Dollar-based investors experience an additional return driver (or drag): the exchange rate between yuan and dollar. When the yuan strengthens, FCA's holdings gain value in dollar terms independent of stock performance. When the yuan weakens, the reverse occurs. This currency exposure is layered on top of the stock-selection risk, creating a separate volatility axis.
 
-Additionally, foreign investment in Chinese equities is subject to evolving rules — capital controls, delisting policies, and data restrictions all change at the government's discretion. Political tensions between the United States and China have periodically created uncertainty around foreign holdings and repatriation, affecting fund liquidity and investor confidence. FCA's prospectus lists these regulatory risks explicitly; investors should view them as real rather than theoretical.
+Additionally, foreign investment in Chinese equities is subject to evolving rules — capital controls, delisting policies, and data restrictions all change at the government's discretion. Political tensions between the United States and China have periodically created uncertainty around foreign holdings and repatriation, affecting [fund liquidity](/fund-liquidity/) and investor confidence. FCA's prospectus lists these regulatory risks explicitly; investors should view them as real rather than theoretical.
 
 ## Costs and execution
 
-FCA's expense ratio runs at 0.80 percent, covering First Trust's management of the AlphaDEX system and the fund's trading operations. Because the portfolio holds smaller, less-liquid stocks, the fund's own rebalancing and trading can incur wider bid-ask spreads and slippage compared to funds focused on megacap stocks. The fund trades on US exchanges with adequate but not exceptional liquidity — standard-sized trades execute easily, but very large positions require careful execution.
+FCA's [expense ratio](/expense-ratio/) runs at 0.80 percent, covering First Trust's management of the AlphaDEX system and the fund's trading operations. Because the portfolio holds smaller, less-liquid stocks, the fund's own rebalancing and trading can incur wider [bid-ask spreads](/bid-ask-spread/) and slippage compared to funds focused on megacap stocks. The fund trades on US exchanges with adequate but not exceptional liquidity — standard-sized trades execute easily, but very large positions require careful execution.
 
 ## Who this attracts and when
 

@@ -51,7 +51,7 @@ MAA's growth strategy historically centered on acquiring stabilized apartment pr
 
 ## Competition and Industry Dynamics
 
-The apartment sector is fragmented. Large national REITs such as AvalonBay (AVB) and [Equity Residential](/eqr-stock/) (EQR) operate nationwide portfolios. Mid-sized REITs like MAA carve out regional strength. Countless private owners, small developers, and local management companies operate individual properties or clusters. This fragmentation means that acquisitions and consolidation are ongoing: larger players periodically buy smaller portfolios to gain scale and operating efficiency.
+The apartment sector is fragmented. Large national REITs such as AvalonBay (AVB) and Equity Residential (EQR) operate nationwide portfolios. Mid-sized REITs like MAA carve out regional strength. Countless private owners, small developers, and local management companies operate individual properties or clusters. This fragmentation means that acquisitions and consolidation are ongoing: larger players periodically buy smaller portfolios to gain scale and operating efficiency.
 
 Competition for tenants is direct and often bitter. When an apartment community competes with half a dozen others within a mile, leasing spreads narrow, and rents flatten or decline. Conversely, in markets where supply is constrained—where development has not kept pace with population inflow—landlords have pricing power and can achieve strong rent growth. MAA's market concentration in the Sun Belt is partly a bet that demand will remain strong in those regions. However, if oversupply emerges in a given market, even attractive cities can experience rent pressure.
 

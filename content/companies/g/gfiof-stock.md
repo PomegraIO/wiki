@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Gold Fields Ltd is one of the world's largest producers of gold bullion, extracting the precious metal from deep mines and operating them at industrial scale across three continents. Headquartered in South Africa but traded on the NASDAQ as GFIOF, the company is a backbone of the global gold supply chain and a major employer in the regions where it operates. Unlike the speculative traders who buy and sell futures contracts, Gold Fields is a genuine producer—it pulls gold from the earth, refines it, and sells it to refineries and central banks at the daily market price. Its shareholder returns depend not on gold's price alone but on the relentless execution required to keep those mines running efficiently and profitably year after year.
+Gold Fields Ltd is one of the world's largest producers of gold bullion, extracting the precious metal from deep mines and operating them at industrial scale across three continents. Headquartered in South Africa but traded on the [NASDAQ](/nasdaq/) as GFIOF, the company is a backbone of the global gold supply chain and a major employer in the regions where it operates. Unlike the speculative traders who buy and sell [futures contracts](/futures-contract/), Gold Fields is a genuine producer—it pulls gold from the earth, refines it, and sells it to refineries and [central banks](/central-bank/) at the daily market price. Its shareholder returns depend not on gold's price alone but on the relentless execution required to keep those mines running efficiently and profitably year after year.
 
 <aside class="wiki-infobox">
 <table>
@@ -50,9 +50,9 @@ Fourth is reserve replacement. Mining is a depletion business—the ore body run
 
 ## How would a reader research this company?
 
-Start with Gold Fields' annual 10-K filing (SEC CIK 0001172724), which breaks down production and costs by mine, discusses reserve estimates, and lists the regulatory, political, and operational risks management considers most acute. The quarterly results and guidance are where the real color appears: watch Ghana's contribution to profit, the all-in sustaining cost trend (a widely used metric in mining), free cash flow generation, and any commentary on Salares Norte's progress.
+Start with Gold Fields' annual 10-K filing (SEC CIK 0001172724), which breaks down production and costs by mine, discusses reserve estimates, and lists the regulatory, political, and [operational risks](/operational-risk/) management considers most acute. The quarterly results and guidance are where the real color appears: watch Ghana's contribution to profit, the all-in sustaining cost trend (a widely used metric in mining), [free cash flow](/free-cash-flow/) generation, and any commentary on Salares Norte's progress.
 
-The gold price itself is tracked continuously on commodity markets; gold trades in U.S. dollars per ounce, and the daily price is public and transparent. Geopolitical developments in Ghana and Peru merit close attention, as does currency risk—Gold Fields reports in U.S. dollars but operates in multiple countries and currencies.
+The gold price itself is tracked continuously on commodity markets; gold trades in [U.S. dollars](/us-dollar/) per ounce, and the daily price is public and transparent. Geopolitical developments in Ghana and Peru merit close attention, as does [currency risk](/currency-risk/)—Gold Fields reports in U.S. dollars but operates in multiple countries and currencies.
 
 One practical metric is the all-in sustaining cost (AISC) per ounce—the cash cost to keep the mines running and produce a single ounce of gold. Compare that against the current gold spot price to estimate profitability. Higher AISC mines are more vulnerable to price downturns; lower-cost operations have more cushion. Management's ability to reduce AISC over time without cutting safety or mining strategically is what separates survivor producers from those that stumble in a downturn.
 

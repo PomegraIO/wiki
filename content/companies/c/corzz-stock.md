@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Core Scientific operates one of the largest publicly traded Bitcoin mining enterprises, deploying specialized computing hardware across geographically distributed facilities to validate blockchain transactions and earn Bitcoin block rewards. The company's profitability depends on hardware efficiency, electricity costs, Bitcoin price, and the mining difficulty set by the network.
+Core Scientific operates one of the largest publicly traded [Bitcoin](/bitcoin/) mining enterprises, deploying specialized computing hardware across geographically distributed facilities to validate blockchain transactions and earn Bitcoin block rewards. The company's profitability depends on hardware efficiency, electricity costs, Bitcoin price, and the mining difficulty set by the network.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,13 +28,13 @@ Core Scientific operates one of the largest publicly traded Bitcoin mining enter
 
 Core Scientific operates mining facilities across multiple states and regions, typically sited near abundant or low-cost energy sources. Each facility houses thousands of specialized computers — known as application-specific integrated circuits, or ASICs — running the algorithms required by Bitcoin's proof of work system. The company manages the physical plant (cooling, power delivery, network connectivity), procures and deploys hardware, and monitors performance across all locations.
 
-The facilities themselves are industrial in nature: large warehouses or purpose-built data centers with robust electrical infrastructure to handle the power draw. A single major facility can consume as much electricity as a mid-sized town. The company secures power through a mix of arrangements: wholesale power purchases from the grid, contracts with flared natural gas suppliers at oil production sites, purchase agreements with renewable energy operators, and other sources that vary by location.
+The facilities themselves are industrial in nature: large warehouses or purpose-built data centers with robust electrical infrastructure to handle the power draw. A single major facility can consume as much electricity as a mid-sized town. The company secures power through a mix of arrangements: wholesale power purchases from the grid, contracts with flared [natural gas](/natural-gas/) suppliers at oil production sites, purchase agreements with renewable energy operators, and other sources that vary by location.
 
 ## Hardware and capital deployment
 
-Mining profitability depends heavily on the efficiency of the hardware deployed. Newer ASIC generations can solve the cryptographic puzzle using less electricity per unit of hash rate, directly improving the cost basis. Core Scientific must continually invest in equipment to keep pace with competitors; older machines degrade in efficiency relative to the network and face escalating operating losses.
+Mining profitability depends heavily on the efficiency of the hardware deployed. Newer ASIC generations can solve the cryptographic puzzle using less electricity per unit of [hash rate](/hash-rate/), directly improving the [cost basis](/cost-basis/). Core Scientific must continually invest in equipment to keep pace with competitors; older machines degrade in efficiency relative to the network and face escalating operating losses.
 
-Capital deployment decisions are central to the business. The company evaluates prospective mining projects by comparing the expected cost per Bitcoin mined (electricity, hardware depreciation, overhead) against the anticipated revenue (the network's block reward value, adjusted for mining difficulty and the company's hash share). New facility buildouts or hardware purchases are committed when the project is expected to be accretive to the overall operation.
+Capital deployment decisions are central to the business. The company evaluates prospective mining projects by comparing the expected cost per Bitcoin mined (electricity, hardware [depreciation](/depreciation/), overhead) against the anticipated revenue (the network's block reward value, adjusted for mining difficulty and the company's hash share). New facility buildouts or hardware purchases are committed when the project is expected to be accretive to the overall operation.
 
 The supply of cutting-edge mining hardware is sometimes constrained, particularly when Bitcoin prices are high and demand from all miners compresses inventory. Core Scientific, given its size and capital access, typically has better visibility and allocation than smaller competitors, though industry-wide semiconductor bottlenecks can still restrict supply.
 

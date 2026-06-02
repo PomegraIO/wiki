@@ -43,7 +43,7 @@ Competitors include major producers like [CF Industries](/cf-stock/) and Dyno No
 
 **Natural gas volatility** is the dominant source of earnings swings. Since ammonia is essentially manufactured natural gas, a sustained spike in gas prices can turn a profitable operation into a break-even or losing one in a matter of weeks. The partnership has historically not locked in gas prices through long-term contracts or financial hedges.
 
-**Demand cyclicality** ties CVR Partners to agricultural economics. When crop prices are low, farmers delay or reduce fertilizer applications, cutting demand. A prolonged agricultural downturn would squeeze UAN demand and prices, as would a strong U.S. dollar that makes imports more competitive.
+**Demand cyclicality** ties CVR Partners to agricultural economics. When crop prices are low, farmers delay or reduce fertilizer applications, cutting demand. A prolonged agricultural downturn would squeeze UAN demand and prices, as would a strong [U.S. dollar](/us-dollar/) that makes imports more competitive.
 
 **Global ammonia oversupply** has been a structural headwind. If Middle Eastern or Russian producers ramp capacity or shift exports to North America (or if tariff protections are relaxed), domestic prices can fall. Likewise, high domestic natural gas costs can price the Wichita plant out of the market if international competitors have cheaper feedstock.
 

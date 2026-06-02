@@ -61,7 +61,7 @@ Grindr expanded to over 180 countries and has tens of millions of users, suggest
 
 Grindr operates in jurisdictions where homosexuality is criminalized. A user in such a country using location-based dating app is at risk of arrest, blackmail, or violence. This creates ethical and legal risk for Grindr. The company must balance user privacy (not revealing location or identity to authorities) against legal compliance. Some jurisdictions may block the app or compel disclosure of user data.
 
-The company may take steps to protect users in hostile environments: offering anonymity features, avoiding [data storage](/dtst-stock/) in countries with anti-LGBTQ+ laws, and raising awareness about safety. However, these are imperfect solutions. A hostile government can block the app entirely or compel cooperation. This is regulatory risk that the company cannot fully mitigate.
+The company may take steps to protect users in hostile environments: offering anonymity features, avoiding data storage in countries with anti-LGBTQ+ laws, and raising awareness about safety. However, these are imperfect solutions. A hostile government can block the app entirely or compel cooperation. This is regulatory risk that the company cannot fully mitigate.
 
 In friendly jurisdictions (US, Europe, developed Asia), data protection, user privacy, and consent are regulated. Grindr must comply with GDPR, CCPA, and local laws regarding data collection, retention, and deletion. Failure to comply results in fines (GDPR fines up to 4% of revenue) and reputation damage.
 

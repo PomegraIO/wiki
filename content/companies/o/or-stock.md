@@ -12,7 +12,7 @@ handwritten: true
 
 ## What exactly does OR Royalties do?
 
-OR Royalties is a precious [metals royalty](/tmcr-stock/) and streaming company that acquires and manages a diversified portfolio of royalties, streams, and similar interests from mining operations worldwide. Rather than owning mines outright, the company captures a contractual claim on production or revenue from active mining operations—an intermediate position between equity investors and operating miners. OR Royalties holds over 195 royalties and streams, with twenty-two currently generating cash flow from producing assets. The company's cornerstone holding is a 3–5% net smelter return royalty on the Canadian Malartic Complex in Quebec, one of the world's largest producing gold mines, which anchors both its cash generation and reputation in the sector.
+OR Royalties is a precious metals royalty and streaming company that acquires and manages a diversified portfolio of royalties, streams, and similar interests from mining operations worldwide. Rather than owning mines outright, the company captures a contractual claim on production or revenue from active mining operations—an intermediate position between equity investors and operating miners. OR Royalties holds over 195 royalties and streams, with twenty-two currently generating cash flow from producing assets. The company's cornerstone holding is a 3–5% net smelter return royalty on the Canadian Malartic Complex in Quebec, one of the world's largest producing gold mines, which anchors both its cash generation and reputation in the sector.
 
 ## How did OR Royalties come into being?
 

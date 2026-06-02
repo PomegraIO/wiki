@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-*The **Defiance BMNR Option Income ETF** (ticker: YBMN) is an exchange-traded fund that holds a basket of biomedical and healthcare company stocks and systematically sells call options against those holdings to capture option premium as income, trading away upside above a strike price in exchange for higher cash distributions.*
+*The **Defiance BMNR Option [Income ETF](/income-etf/)** (ticker: YBMN) is an exchange-traded fund that holds a basket of biomedical and healthcare company stocks and systematically sells [call options](/call-option/) against those holdings to capture [option premium](/option-premium/) as income, trading away upside above a [strike price](/strike-price/) in exchange for higher cash distributions.*
 
 > "The fund is a bet that biomedical winners will trade in a range—not explode past a strike, but not collapse either."
 
 ## The covered-call playbook
 
-YBMN holds a curated portfolio of biotechnology and healthcare companies—a sector known for both high volatility and the strong performance of successful drug developers and medical-device makers. Rather than simply hold those stocks and collect dividends (where applicable), the fund layer on top a systematic options strategy.
+YBMN holds a curated portfolio of biotechnology and healthcare companies—a sector known for both high volatility and the strong performance of successful drug developers and medical-device makers. Rather than simply hold those stocks and collect [dividends](/dividend/) (where applicable), the fund layer on top a systematic options strategy.
 
 Every month, or on a set schedule, the fund sells call options on its entire holdings. A call option gives a buyer the right to purchase the underlying stock at a fixed price—the "strike"—on or before expiration. By selling calls, the fund receives a cash premium, which it pays out to shareholders as distribution income. The trade-off is clear: if a stock rises above the strike price and gets called away, the fund owner misses that upside and has to sell at the strike rather than the higher market price.
 
@@ -43,7 +43,7 @@ Call expiration timing creates a mechanical risk. If the fund sells monthly call
 
 Sector concentration is significant. Biotechnology is inherently volatile; small-cap names are illiquid; success is binary (drug approval or failure). A fund holding only biotech names is not diversified across the economy. If the sector underperforms for years, YBMN underperforms too.
 
-The fund also carries operational risk. Defiance must monitor options markets, execute the selling at appropriate prices, and manage the mechanics of assignment when calls are exercised. In a dislocation or during a market panic when option markets themselves become dysfunctional, this process can break down or become costly.
+The fund also carries [operational risk](/operational-risk/). Defiance must monitor options markets, execute the selling at appropriate prices, and manage the mechanics of assignment when calls are exercised. In a dislocation or during a market panic when option markets themselves become dysfunctional, this process can break down or become costly.
 
 ## Who this is for
 

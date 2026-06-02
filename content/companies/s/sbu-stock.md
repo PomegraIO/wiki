@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*SBU — the Leverage Shares 2X Long SBUX Daily ETF — is a bet that Starbucks shares will rise. It doubles your daily gains if you are right and doubles your daily losses if you are wrong. Then every night it closes out and starts fresh the next morning.*
+*SBU — the Leverage Shares 2X Long SBUX Daily ETF — is a bet that [Starbucks](/sbux-stock/) shares will rise. It doubles your daily gains if you are right and doubles your daily losses if you are wrong. Then every night it closes out and starts fresh the next morning.*
 
 <aside class="wiki-infobox">
 <table>
@@ -38,15 +38,15 @@ In mean-reverting or choppy price action — the kind that moves up and down but
 
 ## Trading costs
 
-SBU does not charge you a traditional management fee. Instead, it embeds costs into the price through financing charges. Each day the fund borrows money to buy the leverage, and that borrowing costs something — in today's world, roughly 4 to 5 per cent annually, though it fluctuates. Those costs are already baked into how much SBU actually gains or loses on any given day. You will not see a line item for it on your statement. You see it in SBU's underperformance to 2x the daily Starbucks move.
+SBU does not charge you a traditional [management fee](/management-fee/). Instead, it embeds costs into the price through financing charges. Each day the fund borrows money to buy the leverage, and that borrowing costs something — in today's world, roughly 4 to 5 per cent annually, though it fluctuates. Those costs are already baked into how much SBU actually gains or loses on any given day. You will not see a line item for it on your statement. You see it in SBU's underperformance to 2x the daily Starbucks move.
 
-Liquidity is modest. SBU trades over-the-counter, not on Nasdaq or the New York Stock Exchange. Bid-ask spreads are wider than an ordinary Starbucks share, and daily volume is light. If you own 10,000 shares, selling them quickly might be awkward. If you own 100, you can likely get out without painful slippage. But this is not a fund you trade in and out of intraday easily.
+Liquidity is modest. SBU trades over-the-counter, not on [Nasdaq](/nasdaq/) or the [New York Stock Exchange](/new-york-stock-exchange/). [Bid-ask spreads](/bid-ask-spread/) are wider than an ordinary Starbucks share, and daily volume is light. If you own 10,000 shares, selling them quickly might be awkward. If you own 100, you can likely get out without painful slippage. But this is not a fund you trade in and out of intraday easily.
 
 ## Who should consider SBU
 
 SBU is built for one precise person: a trader who thinks Starbucks is about to shoot up in the next week or two and wants to amplify the move. That is the honest use case. If you are building a portfolio for five years or ten years, SBU is the wrong tool. Volatility decay will grind away at returns, especially if Starbucks meanders sideways or traces a choppy path upward.
 
-If you want pure Starbucks exposure for the long term, buy Starbucks directly on Nasdaq. If you want some leverage and can stomach the risk, you can use margin — borrowing against your existing shares through a brokerage — and adjust the ratio yourself. Buying SBU is choosing a daily reset, and that choice only makes sense if your holding period aligns with daily moves, not calendar years.
+If you want pure Starbucks exposure for the long term, buy Starbucks directly on Nasdaq. If you want some leverage and can stomach the risk, you can use margin — borrowing against your existing shares through a brokerage — and adjust the ratio yourself. Buying SBU is choosing a daily reset, and that choice only makes sense if your [holding period](/holding-period/) aligns with daily moves, not calendar years.
 
 ## Researching the fund
 

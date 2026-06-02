@@ -14,29 +14,29 @@ ESPO is a thematic exchange-traded fund betting on the growth of video gaming an
 
 ## The thesis underlying the fund
 
-The premise is simple: gaming and esports are no longer niche hobbies but mainstream entertainment consuming billions of hours annually. Console makers, PC gaming chip designers, game publishers, streaming platforms, and the operators of competitive tournaments all profit from this shift. A single thematic ETF makes it easy to gain exposure to this ecosystem without having to pick individual winners, which is appealing in a sector where fortunes can turn quickly.
+The premise is simple: gaming and esports are no longer niche hobbies but mainstream entertainment consuming billions of hours annually. Console makers, PC gaming chip designers, game publishers, streaming platforms, and the operators of competitive tournaments all profit from this shift. A single [thematic ETF](/thematic-etf/) makes it easy to gain exposure to this ecosystem without having to pick individual winners, which is appealing in a sector where fortunes can turn quickly.
 
 ## What the portfolio actually contains
 
-ESPO's holdings span an unusual diversity. The portfolio includes chipmakers like NVIDIA that provide the processors for gaming systems; console manufacturers; large game publishers such as Tencent, Activision, and Take-Two; companies operating esports tournaments and betting platforms; PC gaming peripherals makers; and streaming services with gaming content. The exact composition changes as the index committee reviews whether each company derives sufficient revenue from gaming and esports. The fund aims to hold 25–35 names, though this varies. A holding might be included because it owns an esports league franchise, publishes blockbuster games, operates a gaming platform, or manufactures hardware used by gamers.
+ESPO's holdings span an unusual diversity. The portfolio includes chipmakers like [NVIDIA](/nvda-stock/) that provide the processors for gaming systems; console manufacturers; large game publishers such as Tencent, Activision, and Take-Two; companies operating esports tournaments and betting platforms; PC gaming peripherals makers; and streaming services with gaming content. The exact composition changes as the index committee reviews whether each company derives sufficient revenue from gaming and esports. The fund aims to hold 25–35 names, though this varies. A holding might be included because it owns an esports league franchise, publishes blockbuster games, operates a gaming platform, or manufactures hardware used by gamers.
 
 ## Why it is more cyclical than the ordinary tech fund
 
-Gaming spending is somewhat countercyclical—people play games during recessions—but the stocks of gaming and hardware companies are anything but defensive. During downturns, capital spending on new gaming systems and consoles falls, and discretionary spending on new game titles contracts. Esports tournaments and streaming viewership can hold up because they are free entertainment, but advertising revenue on esports streams drops alongside broader ad spending.
+Gaming spending is somewhat countercyclical—people play games during [recessions](/recession/)—but the stocks of gaming and hardware companies are anything but defensive. During downturns, capital spending on new gaming systems and consoles falls, and [discretionary spending](/discretionary-spending/) on new game titles contracts. Esports tournaments and streaming viewership can hold up because they are free entertainment, but advertising revenue on esports streams drops alongside broader ad spending.
 
 The fund is therefore highly sensitive to changes in investor sentiment about growth and technology. In years when big tech stocks rally on growth optimism, ESPO tends to rise faster. In years when that sentiment cools, the fund can fall sharply. It is not a hedge against economic downturns; it is a leveraged bet on the popularity of interactive entertainment and capital allocation toward it.
 
 ## Concentration and single-company risk
 
-Because the fund holds 25–35 names, individual positions can be sizable—2–5% of the portfolio each. A single large game publisher or chip manufacturer can move the fund meaningfully. If a major game franchise flops or a key publisher stumbles, ESPO's investors feel the pain directly. This is acceptable for someone convinced the sector is sound, but it introduces idiosyncratic risk that a broader, more diversified fund avoids.
+Because the fund holds 25–35 names, individual positions can be sizable—2–5% of the portfolio each. A single large game publisher or chip manufacturer can move the fund meaningfully. If a major game franchise flops or a key publisher stumbles, ESPO's investors feel the pain directly. This is acceptable for someone convinced the sector is sound, but it introduces [idiosyncratic risk](/idiosyncratic-risk/) that a broader, more diversified fund avoids.
 
 ## Costs and trading
 
-The expense ratio is typically in the 0.60% to 0.70% range. This is higher than a passive broad-market fund but reflects the research required to identify and monitor companies with meaningful gaming revenue and the smaller asset base relative to mega-funds. Trading volume is solid on major exchanges, so liquidity is generally adequate, though it can tighten during periods of low interest in the sector.
+The [expense ratio](/expense-ratio/) is typically in the 0.60% to 0.70% range. This is higher than a passive broad-market fund but reflects the research required to identify and monitor companies with meaningful gaming revenue and the smaller asset base relative to mega-funds. Trading volume is solid on major exchanges, so liquidity is generally adequate, though it can tighten during periods of low interest in the sector.
 
 ## The cyclical edge and the risk
 
-ESPO benefits during periods when growth stocks outperform, when consumer spending is robust, and when interest rates are low. It struggles when value stocks lead, when capital is scarce, or when sentiment toward technology spending cools. An investor might hold ESPO as a tactical position timed to periods of risk appetite, or might see it as a long-term thematic position, expecting gaming and esports to compound at rates faster than the broader economy. Understanding which conviction you hold matters, because the timing of entry and exit can be the difference between stellar returns and painful losses.
+ESPO benefits during periods when growth stocks outperform, when consumer spending is robust, and when [interest rates](/interest-rate/) are low. It struggles when value stocks lead, when capital is scarce, or when sentiment toward technology spending cools. An investor might hold ESPO as a tactical position timed to periods of risk appetite, or might see it as a long-term thematic position, expecting gaming and esports to compound at rates faster than the broader economy. Understanding which conviction you hold matters, because the timing of entry and exit can be the difference between stellar returns and painful losses.
 
 ## How to use it
 

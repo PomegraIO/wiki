@@ -4,7 +4,7 @@ description: "A London-listed private equity and alternative assets firm offerin
 keywords: [private equity, european buyouts, alternative assets, adr, institutional capital]
 ---
 
-*The private equity market has bifurcated: mega-LBOs (leverage buyouts) cluster around a handful of giants—KKR, Blackstone, Apollo, TPG—who command trillions in assets, while hundreds of smaller PE firms compete for scraps. **CVC Capital Partners plc** (CVCCF, trading as an ADR in the US) sits in a peculiar position: a Tier 1 European powerhouse by history and deal flow, now fighting for relevance in a world where "bigger" and "faster" and "multi-asset-class" are increasingly inseparable from survival, and where regulatory scrutiny of private equity grows sharper each year.*
+*The private equity market has bifurcated: mega-LBOs (leverage buyouts) cluster around a handful of giants—[KKR](/kkr-stock/), Blackstone, Apollo, TPG—who command trillions in assets, while hundreds of smaller PE firms compete for scraps. **CVC Capital Partners plc** (CVCCF, trading as an ADR in the US) sits in a peculiar position: a Tier 1 European powerhouse by history and deal flow, now fighting for relevance in a world where "bigger" and "faster" and "multi-asset-class" are increasingly inseparable from survival, and where regulatory scrutiny of private equity grows sharper each year.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CVCCF</td></tr>

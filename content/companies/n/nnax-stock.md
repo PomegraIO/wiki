@@ -34,7 +34,7 @@ Gagfare sits in a familiar layer of the travel value chain: between consumers wh
 
 Upstream, Gagfare depends on GDS connectivity, flight data feeds, and access to the airline reservation systems that actually issue the ticket. Downstream, the consumer gets a confirmed booking (referenced by confirmation number) that they can take to the airline for boarding, though the actual boarding pass issuance happens through the airline's own systems.
 
-The friction point that Gagfare addresses is payment timing. Traditional OTAs require payment at booking; Gagfare's pay-later feature shifts that timing, offering the consumer more flexibility. This is valuable in markets where consumers have limited cash on hand or prefer to stagger spending, but it introduces credit risk: Gagfare or a financing partner must fund the airline's ticket cost upfront, trusting that the consumer will pay later. That capital requirement and default risk are the crux of Gagfare's unit economics.
+The friction point that Gagfare addresses is payment timing. Traditional OTAs require payment at booking; Gagfare's pay-later feature shifts that timing, offering the consumer more flexibility. This is valuable in markets where consumers have limited cash on hand or prefer to stagger spending, but it introduces [credit risk](/credit-risk/): Gagfare or a financing partner must fund the airline's ticket cost upfront, trusting that the consumer will pay later. That capital requirement and default risk are the crux of Gagfare's unit economics.
 
 ## Business model and the path to revenue
 
@@ -50,7 +50,7 @@ The flight-booking market is crowded. Global OTAs like Expedia, Booking.com, and
 
 Gagfare's differentiation is threefold: focus (flights only, not a sprawling marketplace), geography (targeting emerging markets and travelers who prefer mobile-first interfaces), and the pay-later feature. Pay-later services are globally trendy (Affirm, Klarna, etc.), so there is consumer awareness of the concept. The question is whether that awareness translates to demand among travelers who are already accustomed to booking flights for free and paying upfront.
 
-The risks are substantial. First, customer acquisition is expensive in the fintech travel space. Gagfare would need to spend heavily on digital marketing to build brand awareness and user habit formation. If the customer lifetime value (the revenue earned from a customer over their lifetime use of Gagfare) does not exceed the cost of acquiring that customer, the unit economics are broken and the company burns cash indefinitely.
+The risks are substantial. First, customer [acquisition](/acquisition/) is expensive in the fintech travel space. Gagfare would need to spend heavily on digital marketing to build brand awareness and user habit formation. If the customer lifetime value (the revenue earned from a customer over their lifetime use of Gagfare) does not exceed the cost of acquiring that customer, the unit economics are broken and the company burns cash indefinitely.
 
 Second, the pay-later mechanism introduces credit risk. If Gagfare or its financing partners advance the ticket cost on behalf of consumers who then default, the losses accumulate and erode profitability. The company would need to invest in credit risk assessment and collection infrastructure, adding complexity and cost.
 
@@ -66,10 +66,10 @@ The investment thesis is long and speculative. The company has demonstrated neit
 
 ## How to research New Momentum
 
-Start with the company's SEC filings, particularly the S-1 registration statement and any available 10-K annual reports (CIK 0001132509). These disclose the company's revenue to date, operating expenses, cash burn rate, and management's assessment of the competitive landscape and addressable market.
+Start with the company's SEC filings, particularly the S-1 registration statement and any available 10-K [annual reports](/10-k/) (CIK 0001132509). These disclose the company's revenue to date, operating expenses, cash burn rate, and management's assessment of the competitive landscape and addressable market.
 
 Press releases and investor updates from the company reveal milestones in user acquisition, airline partnerships, and geographic expansion. For a fintech startup, watch for announcements of funding rounds, strategic partnerships with airlines or payment networks, or major marketing campaigns.
 
 Monitor fintech and travel tech publications for coverage of Gagfare and the pay-later-for-travel space. If major players like Expedia or Booking.com launch their own pay-later features, it would signal that the market is real and that incumbents are taking the threat seriously, validating Gagfare's thesis but also highlighting its competitive disadvantage.
 
-Finally, assess cash runway. If the company is burning cash and does not raise capital or achieve positive unit economics in the near term, it may face dilution or insolvency. Monitor the company's balance sheet, cash position, and any announcements of financing rounds. A successful Series B or C fundraising round would signal investor confidence in the model; a failed fundraising round or a pivot away from the core product would be a red flag.
+Finally, assess cash runway. If the company is burning cash and does not raise capital or achieve positive unit economics in the near term, it may face dilution or insolvency. Monitor the company's [balance sheet](/balance-sheet/), cash position, and any announcements of financing rounds. A successful Series B or C fundraising round would signal investor confidence in the model; a failed fundraising round or a pivot away from the core product would be a red flag.

@@ -47,9 +47,9 @@ FDTX maintains exposure to cloud computing, data analytics, and cybersecurity in
 
 ## Active management and the cost question
 
-Unlike passive index-tracking ETFs, FDTX charges an active management fee. Fidelity's managers are tasked with identifying which disruptive technologies are most likely to succeed and which companies are best positioned to benefit. This introduces both opportunity and risk: the fund could outperform if its bets on specific technologies and specific company winners prove correct, but it could also underperform if the managers' selections do not work out or if the market reprices the value of the bets they have made.
+Unlike passive index-tracking ETFs, FDTX charges an active [management fee](/management-fee/). Fidelity's managers are tasked with identifying which disruptive technologies are most likely to succeed and which companies are best positioned to benefit. This introduces both opportunity and risk: the fund could outperform if its bets on specific technologies and specific company winners prove correct, but it could also underperform if the managers' selections do not work out or if the market reprices the value of the bets they have made.
 
-The fund holds roughly 40 to 60 stocks, giving it a concentrated portfolio. This concentration amplifies both gains and losses, and means the fund can deviate significantly from broad market indices. Investors in FDTX are implicitly betting that Fidelity's active selection adds value above the expense ratio, which is higher than a passive alternative.
+The fund holds roughly 40 to 60 stocks, giving it a concentrated portfolio. This concentration amplifies both gains and losses, and means the fund can deviate significantly from broad market indices. Investors in FDTX are implicitly betting that Fidelity's active selection adds value above the [expense ratio](/expense-ratio/), which is higher than a passive alternative.
 
 ## Who FDTX serves and research approach
 

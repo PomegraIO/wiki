@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-TC Energy is a North American infrastructure company. It owns and operates pipelines that carry oil and natural gas, power-generation facilities, and liquefied natural gas export operations. The business is straightforward: move molecules from where they are produced to where people want them, and charge a fee. Most of its revenue comes from long-term contracts, not commodity prices, which means the cash flows are predictable.
+[TC Energy](/trp-stock/) is a North American infrastructure company. It owns and operates pipelines that carry oil and [natural gas](/natural-gas/), power-generation facilities, and liquefied natural gas export operations. The business is straightforward: move molecules from where they are produced to where people want them, and charge a fee. Most of its revenue comes from long-term contracts, not commodity prices, which means the cash flows are predictable.
 
 <aside class="wiki-infobox">
 <table>
@@ -25,7 +25,7 @@ TC Energy is a North American infrastructure company. It owns and operates pipel
 
 ## How TC Energy makes money
 
-The company runs three main businesses. The largest is pipelines — networks that carry crude oil, natural gas, and refined products across Canada and the United States. The second is power generation: TC Energy owns and operates gas-fired power plants that sell electricity to utilities and grids. The third is liquefied natural gas — TC Energy has a stake in LNG export operations that cool natural gas into liquid form so it can be shipped overseas.
+The company runs three main businesses. The largest is pipelines — networks that carry [crude oil](/crude-oil/), natural gas, and refined products across Canada and the United States. The second is power generation: TC Energy owns and operates gas-fired power plants that sell electricity to utilities and grids. The third is liquefied natural gas — TC Energy has a stake in LNG export operations that cool natural gas into liquid form so it can be shipped overseas.
 
 What matters is that none of these businesses depend on betting on energy prices. Instead, TC Energy signs long-term contracts with customers that guarantee revenue regardless of whether oil is forty dollars or one hundred dollars a barrel. A pipeline charges a shipper a fixed fee per unit moved. A power plant gets paid either through a long-term power-purchase agreement or through regulated rates set by government. An LNG export facility collects fees from producers who want to liquefy and export their gas. This model creates stability: once a contract or regulatory rate is locked in, the company knows roughly what it will earn for years.
 
@@ -51,4 +51,4 @@ The disadvantage is that TC Energy, being large, also faces more regulatory scru
 
 ## What to watch
 
-An investor researching TC Energy should read the company's annual 10-K (SEC CIK 0001232384) and look for several things: the percentage of revenue locked into fixed-price contracts or regulated rates (higher is more stable), any pipeline or LNG project completion delays, regulatory changes affecting allowed returns on regulated assets, and the debt load relative to cash flow. Infrastructure companies are valued on yield and stability, so focus on the dividend and whether the company can cover it from actual cash earnings. In a rising-rate environment, the value of a stable but modest yield falls; in a falling-rate environment, it rises. This is the lever that moves the stock price for most investors.
+An investor researching TC Energy should read the company's annual 10-K (SEC CIK 0001232384) and look for several things: the percentage of revenue locked into fixed-price contracts or regulated rates (higher is more stable), any pipeline or LNG project completion delays, regulatory changes affecting allowed returns on regulated assets, and the debt load relative to cash flow. Infrastructure companies are valued on yield and stability, so focus on the [dividend](/dividend/) and whether the company can cover it from actual cash earnings. In a rising-rate environment, the value of a stable but modest yield falls; in a falling-rate environment, it rises. This is the lever that moves the stock price for most investors.

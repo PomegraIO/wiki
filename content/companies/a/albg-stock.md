@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*ALBG is a leveraged exchange-traded product that seeks to track twice the daily percentage change of the Albemarle Corporation share price (NASDAQ: ALB), a major producer of lithium and other battery materials essential to electric vehicles and energy storage. Sponsored by Leverage Shares Limited, ALBG is designed for tactical, short-term positions rather than long-term holding, because the daily reset mechanics that create its leverage introduce decay over longer periods.*
+*ALBG is a leveraged exchange-traded product that seeks to track twice the daily percentage change of the Albemarle Corporation share price ([NASDAQ](/nasdaq/): ALB), a major producer of lithium and other battery materials essential to electric vehicles and energy storage. Sponsored by Leverage Shares Limited, ALBG is designed for tactical, short-term positions rather than long-term holding, because the daily reset mechanics that create its leverage introduce decay over longer periods.*
 
 <aside class="wiki-infobox">
 <table>
@@ -41,18 +41,18 @@ ALBG's 2X leverage amplifies directional moves in both directions. A sharp up da
 
 ## Costs and structure
 
-The expense ratio typically runs between 0.75% and 1.2% annually, covering the sponsor's operations and the cost of rebalancing leverage daily—an ongoing administrative expense. Because ALBG trades on an exchange like a stock, buyers and sellers pay a bid-ask spread when entering or exiting; on heavy trading days spreads are narrow, but on light volume days they widen, adding transaction costs.
+The [expense ratio](/expense-ratio/) typically runs between 0.75% and 1.2% annually, covering the sponsor's operations and the cost of rebalancing leverage daily—an ongoing administrative expense. Because ALBG trades on an exchange like a stock, buyers and sellers pay a [bid-ask spread](/bid-ask-spread/) when entering or exiting; on heavy trading days spreads are narrow, but on light volume days they widen, adding transaction costs.
 
 Leverage Shares Limited, the sponsor, is a specialist provider of leveraged and inverse exchange-traded products, typically domiciled in low-tax jurisdictions to manage cost structure.
 
 ## Risks beyond decay
 
-Volatility decay is the signature long-term risk, but not the only one. ALBG concentrates entirely on a single underlying asset, ALB, rather than diversifying across a sector or asset class. Company-specific shocks to Albemarle—supply disruptions, regulatory changes, or competitive pressures in lithium or bromine markets—are magnified in the fund. The leverage also creates sharp daily swings large enough to trigger margin calls or forced liquidations in leveraged accounts, and the fund can gap down on an adverse opening, creating execution risk for sellers.
+Volatility decay is the signature long-term risk, but not the only one. ALBG concentrates entirely on a single underlying asset, ALB, rather than diversifying across a sector or asset class. Company-specific shocks to Albemarle—supply disruptions, regulatory changes, or competitive pressures in lithium or bromine markets—are magnified in the fund. The leverage also creates sharp daily swings large enough to trigger [margin calls](/margin-call-forex/) or forced [liquidations](/liquidation/) in leveraged accounts, and the fund can gap down on an adverse opening, creating execution risk for sellers.
 
-Liquidity risk is material. If trading volume evaporates during a volatile move, exiting at a fair price may be impossible. The fund's credit exposure depends on whether Leverage Shares can meet daily obligations; any disruption to the sponsor's operations would directly affect the fund.
+[Liquidity risk](/liquidity-risk/) is material. If trading volume evaporates during a volatile move, exiting at a fair price may be impossible. The fund's credit exposure depends on whether Leverage Shares can meet daily obligations; any disruption to the sponsor's operations would directly affect the fund.
 
 ## Who ALBG is for and how to research it
 
 ALBG is designed exclusively for active traders making short-duration tactical positions in ALB—typically holding for days or a few weeks, not months or years. It is unsuitable for buy-and-hold investors, tax-deferred retirement accounts, or anyone without active-trading experience and the discipline to actively monitor positions.
 
-To research ALBG, read Leverage Shares' prospectus to understand the exact daily reset mechanics and fees. Study Albemarle's operations through earnings releases and 10-K filings to understand the business cycles that drive ALB. Track the daily correlation between ALB and ALBG prices to confirm the fund is tracking as intended. Use options markets to gauge the market's expected volatility for ALB, which directly affects ALBG's decay risk. Monitor trading volume and bid-ask spreads to ensure the fund has sufficient liquidity for your position size.
+To research ALBG, read Leverage Shares' prospectus to understand the exact daily reset mechanics and fees. Study Albemarle's operations through earnings releases and 10-K filings to understand the [business cycles](/business-cycle/) that drive ALB. Track the daily correlation between ALB and ALBG prices to confirm the fund is tracking as intended. Use options markets to gauge the market's expected volatility for ALB, which directly affects ALBG's decay risk. Monitor trading volume and bid-ask spreads to ensure the fund has sufficient liquidity for your position size.

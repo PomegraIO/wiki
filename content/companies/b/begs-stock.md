@@ -23,15 +23,15 @@ This daily reset introduces a subtle but significant cost called volatility deca
 
 ## Cryptocurrency and precious metals as the underlying exposure
 
-The fund tracks an index of cryptocurrency (typically Bitcoin, Ethereum, and other large-cap digital assets) and precious metals (gold, silver, and other hard commodities). The mix varies by fund design, but a common allocation is roughly 50 percent cryptocurrency and 50 percent precious metals, though this can shift.
+The fund tracks an index of cryptocurrency (typically [Bitcoin](/bitcoin/), [Ethereum](/ethereum/), and other large-cap digital assets) and precious metals (gold, silver, and other hard commodities). The mix varies by fund design, but a common allocation is roughly 50 percent cryptocurrency and 50 percent precious metals, though this can shift.
 
-Both asset classes are volatile, non-yielding, and sensitive to macroeconomic conditions. Cryptocurrency is speculative, with prices driven by adoption narratives, regulatory sentiment, and broader risk appetite. Precious metals serve as safe-haven assets, rising when investors fear inflation or market stress, and falling when real yields rise or risk appetite returns. The combination of the two is uncorrelated with stocks and bonds in some periods and highly correlated in others, depending on whether the driver is inflation, geopolitical risk, or a shift in monetary policy.
+Both asset classes are volatile, non-yielding, and sensitive to macroeconomic conditions. Cryptocurrency is speculative, with prices driven by adoption narratives, regulatory sentiment, and broader risk appetite. Precious metals serve as safe-haven assets, rising when investors fear [inflation](/inflation/) or market stress, and falling when [real yields](/real-yield/) rise or risk appetite returns. The combination of the two is uncorrelated with stocks and [bonds](/bond/) in some periods and highly correlated in others, depending on whether the driver is inflation, geopolitical risk, or a shift in [monetary policy](/monetary-policy/).
 
-The underlying index itself may be cap-weighted (largest cryptocurrencies and metals by market value dominate) or equally weighted. A cap-weighted index means the fund is heavily exposed to Bitcoin and Ethereum, with other digital assets playing a smaller role. An equally weighted or volatility-weighted index distributes risk more broadly across smaller cryptocurrencies, increasing diversification but also increasing exposure to illiquid or speculative assets.
+The underlying index itself may be cap-weighted (largest cryptocurrencies and metals by market value dominate) or equally weighted. A cap-weighted index means the fund is heavily exposed to Bitcoin and Ethereum, with other digital assets playing a smaller role. An equally weighted or volatility-weighted index distributes risk more broadly across smaller cryptocurrencies, increasing [diversification](/diversification/) but also increasing exposure to illiquid or speculative assets.
 
 ## Volatility decay and time-decay risk
 
-The core risk in any 2x leveraged fund is volatility decay. In a sideways or volatile market, the fund underperforms the 2x target return. The longer the holding period and the higher the volatility, the worse the decay. A fund held for days or weeks in a quiet market may experience minimal decay. A fund held for years in a volatile market can experience severe underperformance.
+The core risk in any 2x leveraged fund is volatility decay. In a sideways or volatile market, the fund underperforms the 2x target return. The longer the [holding period](/holding-period/) and the higher the volatility, the worse the decay. A fund held for days or weeks in a quiet market may experience minimal decay. A fund held for years in a volatile market can experience severe underperformance.
 
 Consider a concrete example: an index that oscillates between rising 5 percent and falling 5 percent each week. Over a year of such swings, the index itself might end roughly flat (gains and losses roughly cancel). A 2x leveraged fund holding that same index would experience far worse decay. Each week the fund rises 10 percent or falls 10 percent. The compounding of alternating 10 percent gains and losses causes the leveraged fund to decline significantly over the year, ending materially underwater while the index is flat.
 
@@ -41,7 +41,7 @@ This is not a malfunction of the fund; it is a mathematical inevitability. Lever
 
 Cryptocurrency and precious metals are among the most volatile asset classes. Bitcoin routinely swings 10, 20, or 30 percent in a single month. Precious metals are less volatile than crypto but still substantially more volatile than stocks or bonds. Combining them in a single fund creates a volatile underlying index, and leverage on top of that volatility creates a doubly volatile investment.
 
-The implication is that BEGS can experience rapid, large drawdowns. A 15 percent drop in the underlying index translates to roughly a 30 percent drop in BEGS (before decay from any subsequent recovery). For an investor who buys at the wrong time, the experience can be painful. A $10,000 position can become $7,000 in a month without any permanent damage to the underlying assets—just a sharp but reversible move. Many leveraged ETF investors are not prepared for this volatility.
+The implication is that BEGS can experience rapid, large drawdowns. A 15 percent drop in the underlying index translates to roughly a 30 percent drop in BEGS (before decay from any subsequent recovery). For an investor who buys at the wrong time, the experience can be painful. A $10,000 position can become $7,000 in a month without any permanent damage to the underlying assets—just a sharp but reversible move. Many [leveraged ETF](/leveraged-etf/) investors are not prepared for this volatility.
 
 ## Who this fund is for and time horizon
 
@@ -51,9 +51,9 @@ Leveraged ETFs are unsuitable for long-term buy-and-hold investors. The decay dr
 
 ## Costs and structure
 
-BEGS carries an expense ratio (annual cost) that reflects the complexity of maintaining daily leverage. Leveraged ETFs typically carry expense ratios of 0.75 to 1.5 percent or higher, substantially more than passive index funds. The cost covers the fund sponsor, the derivatives instruments used to create leverage, and ongoing rebalancing costs. Additionally, the fund experiences internal trading costs and tax drag that do not appear in the stated expense ratio but nonetheless reduce returns.
+BEGS carries an [expense ratio](/expense-ratio/) (annual cost) that reflects the complexity of maintaining daily leverage. Leveraged ETFs typically carry expense ratios of 0.75 to 1.5 percent or higher, substantially more than passive [index funds](/index-fund/). The cost covers the fund sponsor, the derivatives instruments used to create leverage, and ongoing rebalancing costs. Additionally, the fund experiences internal trading costs and tax drag that do not appear in the stated expense ratio but nonetheless reduce returns.
 
-The fund trades on an exchange with reasonable liquidity, particularly during market hours, though volumes can contract sharply during stress periods. The bid-ask spread (the difference between the price to buy and the price to sell) may be wider than large, liquid ETFs, adding a small friction cost to entry and exit.
+The fund trades on an exchange with reasonable liquidity, particularly during market hours, though volumes can contract sharply during stress periods. The [bid-ask spread](/bid-ask-spread/) (the difference between the price to buy and the price to sell) may be wider than large, liquid ETFs, adding a small friction cost to entry and exit.
 
 ## Regulatory and tax considerations
 

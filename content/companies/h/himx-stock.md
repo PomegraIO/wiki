@@ -4,7 +4,7 @@ description: "Fabless semiconductor designer specializing in display drivers and
 keywords: ["semiconductors", "display-drivers", "fabless", "integrated-circuits", "consumer-electronics", "chip-design"]
 ---
 
-*The semiconductor industry is stratified into design (fabless) and manufacturing (foundry). **Himax Technologies, Inc. (HIMX)** operates as a fabless designer, creating specialized chips for the display ecosystem—the interface between a processor and a display panel. The company owns no fabs; instead, it licenses designs to foundries (primarily Taiwan Semiconductor Manufacturing Company and Samsung Foundry), pays a per-unit royalty, and retains the profit differential between its selling price to customers and its cost of goods sold. Himax's value depends on the prevalence of its designs in end-market devices and its ability to maintain design-in wins with manufacturers.*
+*The semiconductor industry is stratified into design (fabless) and manufacturing (foundry). **Himax Technologies, Inc. (HIMX)** operates as a fabless designer, creating specialized chips for the display ecosystem—the interface between a processor and a display panel. The company owns no fabs; instead, it licenses designs to foundries (primarily [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company and Samsung Foundry), pays a per-unit royalty, and retains the profit differential between its selling price to customers and its cost of goods sold. Himax's value depends on the prevalence of its designs in end-market devices and its ability to maintain design-in wins with manufacturers.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>HIMX</td></tr>

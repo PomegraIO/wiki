@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Life360 began as a family location-sharing app and evolved into a subscription platform offering a suite of family-safety features. The company went public in 2020 and has pursued growth through market expansion, feature addition, and acquisitions designed to deepen customer lifetime value. It operates in a fragmented global market where dozens of competitors pursue similar audiences but most lack Life360's scale.
+Life360 began as a family location-sharing app and evolved into a subscription platform offering a suite of family-safety features. The company went public in 2020 and has pursued growth through market expansion, feature addition, and [acquisitions](/acquisition/) designed to deepen customer lifetime value. It operates in a fragmented global market where dozens of competitors pursue similar audiences but most lack Life360's scale.
 
 <aside class="wiki-infobox">
 <table>
@@ -64,7 +64,7 @@ The company has made modest progress internationally but has not achieved breako
 
 ## Cyclicality and consumer discretion
 
-Life360 is a consumer discretionary app, which makes it sensitive to economic conditions. During recessions, households become price-conscious and may cancel subscriptions deemed non-essential. A family-safety app is more defensible than pure entertainment, but it is not a utility in the way that communication or maps are.
+Life360 is a consumer discretionary app, which makes it sensitive to economic conditions. During [recessions](/recession/), households become price-conscious and may cancel subscriptions deemed non-essential. A family-safety app is more defensible than pure entertainment, but it is not a utility in the way that communication or maps are.
 
 The company's growth has slowed materially from its initial public-market enthusiasm. Subscriber acquisition has become harder as the addressable market matures and competition intensifies. Free-to-paid conversion rates have disappointed. Churn persists. The stock has reflected that deceleration with a much lower valuation.
 
@@ -74,7 +74,7 @@ The business is not broken, but it has proved to be a slower-growth, narrower-ma
 
 Life360 faces a strategic question. It can pursue continued organic growth by improving product and retention, accepting a slower-growth trajectory. It can make acquisitions to add capabilities or users. Or it can pursue a consolidation strategy, seeking to acquire or be acquired by a larger player in home, security, or mobile who could integrate Life360 into a broader ecosystem.
 
-The company is large enough and has sufficient scale to remain independent, but it is also small enough that integration into a larger platform (such as Apple, Google, or a traditional home-security player like ADT or Vivint) could create value for shareholders.
+The company is large enough and has sufficient scale to remain independent, but it is also small enough that integration into a larger platform (such as [Apple](/aapl-stock/), Google, or a traditional home-security player like ADT or Vivint) could create value for shareholders.
 
 Investors should monitor subscriber counts and paying-subscriber penetration. Positive net subscriber adds and rising lifetime value per user indicate the company is making progress. Slowing adds and rising churn indicate structural challenges that are harder to overcome.
 

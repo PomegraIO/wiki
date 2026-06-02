@@ -4,7 +4,7 @@ description: "Korean-focused community bank headquartered in Los Angeles; serves
 keywords: ["community bank", "Los Angeles", "Korean-American", "deposit-gathering", "commercial lending", "SEC filing"]
 ---
 
-*The **HANMI FINANCIAL CORP** (HAFC) operates as a regional community bank with deep roots in the Korean-American market, headquartered in the Los Angeles area. It distinguishes itself among small-cap [financial institutions](/fisi-stock/) by concentrating its lending and deposit-taking activities on both first and second-generation Korean-American customers and businesses, a niche that has shaped its credit culture, risk management, and geographic footprint for decades.*
+*The **HANMI FINANCIAL CORP** (HAFC) operates as a regional community bank with deep roots in the Korean-American market, headquartered in the Los Angeles area. It distinguishes itself among small-cap financial institutions by concentrating its lending and deposit-taking activities on both first and second-generation Korean-American customers and businesses, a niche that has shaped its credit culture, risk management, and geographic footprint for decades.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>HAFC</td></tr>

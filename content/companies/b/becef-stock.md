@@ -26,7 +26,7 @@ BCE Inc. is Canada's largest telecommunications and media company. It operates a
 
 ## What exactly is BCE?
 
-BCE is the holding company for Bell Canada, the operator of Canada's largest telecommunications network. The group includes residential internet and television services, business telecom and cloud services, a wireless carrier that competes nationally, and ownership stakes in sports networks and broadcast media. The company is one of Canada's most important companies — virtually every Canadian either uses or depends on a service BCE provides — and it is one of the country's largest dividend payers.
+BCE is the holding company for Bell Canada, the operator of Canada's largest telecommunications network. The group includes residential internet and television services, business telecom and cloud services, a wireless carrier that competes nationally, and ownership stakes in sports networks and broadcast media. The company is one of Canada's most important companies — virtually every Canadian either uses or depends on a service BCE provides — and it is one of the country's largest [dividend](/dividend/) payers.
 
 ## Why is it so hard to compete with BCE?
 
@@ -38,7 +38,7 @@ This means competition in Canada's telecom market is constrained to a small numb
 
 BCE's revenue comes from three broad sources: connectivity (wireless, internet, and landline services sold to consumers and businesses), television and streaming (TV subscriptions and some video content), and media (sports networks, advertising, and broadcast assets).
 
-The largest segment is wireless. BCE Wireless (operating under the Bell brand) is Canada's largest cellular carrier, with millions of customers. Wireless margins are higher than internet or landline because customers are willing to pay premium prices for mobile services. Wireless revenue is recurring and relatively predictable: customers sign multi-year contracts, churn rates are modest, and price increases (tied to inflation or improved service quality) are accepted by customers.
+The largest segment is wireless. BCE Wireless (operating under the Bell brand) is Canada's largest cellular carrier, with millions of customers. Wireless margins are higher than internet or landline because customers are willing to pay premium prices for mobile services. Wireless revenue is recurring and relatively predictable: customers sign multi-year contracts, churn rates are modest, and price increases (tied to [inflation](/inflation/) or improved service quality) are accepted by customers.
 
 Internet and landline services are the second pillar. BCE offers both high-speed internet and traditional landline telephone service to Canadian homes and businesses. Internet is increasingly the primary offering — many customers have abandoned landlines — but internet customers tend to stay loyal to their provider because switching is inconvenient and service quality is similar across providers. Landline revenue is in structural decline as people abandon fixed-line phones, but the erosion is slow.
 
@@ -68,12 +68,12 @@ Fourth, capital intensity means BCE must continually invest billions to maintain
 
 ## How to research BCE as an investment
 
-Start with BCE's annual reports and quarterly earnings presentations available through the company's investor relations website and the SEC's EDGAR system (CIK 0000718940). Look at the breakdown of revenue and margin by segment — wireless, internet, landline, and media — to see which businesses are growing and which are shrinking. Track customer additions and churn in each segment; declining customer counts are a warning sign.
+Start with BCE's [annual reports](/10-k/) and quarterly earnings presentations available through the company's investor relations website and the SEC's EDGAR system (CIK 0000718940). Look at the breakdown of revenue and margin by segment — wireless, internet, landline, and media — to see which businesses are growing and which are shrinking. Track customer additions and churn in each segment; declining customer counts are a warning sign.
 
 Monitor the company's capital spending plans. BCE spends roughly 25–30 percent of revenue on capital investment to upgrade and maintain its networks. Watch whether this spending level is sustainable and whether it is generating returns in the form of higher prices or customer growth.
 
 Watch regulatory developments. Canadian telecommunications regulations, set by the Canadian Radio-television and Telecommunications Commission (CRTC), can significantly impact pricing power and profitability. Any major regulatory proceeding involving BCE's rates or network obligations is worth following.
 
-Look at leverage — the ratio of debt to operating profit. BCE carries substantial debt, and rising interest rates increase borrowing costs. Track the dividend yield and whether the company is growing its dividend, as this reveals management's confidence in future cash generation.
+Look at leverage — the ratio of debt to operating profit. BCE carries substantial debt, and rising [interest rates](/interest-rate/) increase borrowing costs. Track the [dividend yield](/dividend-yield/) and whether the company is growing its dividend, as this reveals management's confidence in future cash generation.
 
 Finally, follow consumer trends. Wireless growth in Canada has slowed because most people already have mobile phones. Internet growth remains strong as people upgrade to higher speeds, but eventually that will mature too. The company's ability to grow revenue depends on which new services customers will pay for as traditional telecom services mature.

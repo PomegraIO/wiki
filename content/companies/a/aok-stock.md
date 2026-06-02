@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The iShares Core 30/70 Conservative Allocation ETF (ticker: AOK, on NYSE Arca) is built for people who need their money to be steady and predictable. It is mostly bonds — seven parts bonds, three parts stocks — which means it does not bounce around as much as the stock market. If you are retired and living off your portfolio, or you are getting close and you cannot afford to see your money swing wildly up and down, this fund is the all-in-one answer.
+The iShares Core 30/70 Conservative Allocation ETF (ticker: AOK, on NYSE Arca) is built for people who need their money to be steady and predictable. It is mostly [bonds](/bond/) — seven parts bonds, three parts stocks — which means it does not bounce around as much as the [stock market](/stock-market/). If you are retired and living off your portfolio, or you are getting close and you cannot afford to see your money swing wildly up and down, this fund is the all-in-one answer.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,19 +27,19 @@ The iShares Core 30/70 Conservative Allocation ETF (ticker: AOK, on NYSE Arca) i
 
 ## The simple idea
 
-Most people have been told to buy stocks when they are young and bonds when they are old. AOK does exactly that for the "old" part of the equation. Three out of every ten dollars goes to stock index funds. Seven out of every ten goes to bond index funds. That split makes the fund stable. When stocks drop 20%, the fund drops less because most of it is in bonds, which tend to hold up. When stocks surge, the fund still gains, just not as much.
+Most people have been told to buy stocks when they are young and bonds when they are old. AOK does exactly that for the "old" part of the equation. Three out of every ten dollars goes to stock [index funds](/index-fund/). Seven out of every ten goes to bond index funds. That split makes the fund stable. When stocks drop 20%, the fund drops less because most of it is in bonds, which tend to hold up. When stocks surge, the fund still gains, just not as much.
 
 The fund rebalances four times a year. If stocks have a good run and drift from 30% to 35% of the fund, iShares sells some stocks and buys bonds to get back to 30/70. That automatic selling-high and buying-low is a form of discipline that most people struggle to do on their own.
 
 ## What is actually inside
 
-The stock portion (30%) is split between US equities and international equities, roughly 50-50. This gives you exposure to large companies worldwide without betting everything on the US market. The bond portion (70%) spans government bonds, corporate bonds, and bonds of varying maturities. Bonds from different areas — short-term, long-term, government, company bonds — do not all move in lockstep, so mixing them reduces volatility.
+The stock portion (30%) is split between US equities and international equities, roughly 50-50. This gives you exposure to large companies worldwide without betting everything on the US market. The bond portion (70%) spans government bonds, [corporate bonds](/corporate-bond/), and bonds of varying maturities. Bonds from different areas — short-term, long-term, government, company bonds — do not all move in lockstep, so mixing them reduces volatility.
 
 Nothing here is fancy. Every holding is a basic index fund. There are no stock pickers trying to beat the market, no bond traders hunting for the next winner. This simplicity is not a flaw; it is a feature. It keeps costs down and means you are not paying for skill you are never going to get.
 
 ## Why conservative is still invested
 
-Some retirees think they should be 100% in bonds. That makes intuitive sense — bonds are stable, less scary — but it has a hidden cost. If you are retired for 30 years and inflation runs 2% to 3%, a pure bond portfolio slowly loses purchasing power. With 30% in stocks, your portfolio has a chance to grow alongside inflation, even if you are spending from it. Stocks are less comforting on bad days, but over a decade they usually more than make up for the calm of bonds.
+Some retirees think they should be 100% in bonds. That makes intuitive sense — bonds are stable, less scary — but it has a hidden cost. If you are retired for 30 years and [inflation](/inflation/) runs 2% to 3%, a pure bond portfolio slowly loses purchasing power. With 30% in stocks, your portfolio has a chance to grow alongside inflation, even if you are spending from it. Stocks are less comforting on bad days, but over a decade they usually more than make up for the calm of bonds.
 
 ## The cost
 
@@ -49,15 +49,15 @@ AOK also produces very little in the way of taxable distributions. The index fun
 
 ## Where it fits in your life
 
-AOK is for someone who is either retired or within a few years of it. You do not want to think about the market. You do not want to pick stocks. You want to be able to sleep at night. AOK is the fund you buy, review once a year, and otherwise ignore. If you add to it regularly (say, from a pension or continued work income), you are dollar-cost averaging — buying more at high prices and low prices automatically, which smooths your cost over time.
+AOK is for someone who is either retired or within a few years of it. You do not want to think about the market. You do not want to pick stocks. You want to be able to sleep at night. AOK is the fund you buy, review once a year, and otherwise ignore. If you add to it regularly (say, from a pension or continued work income), you are [dollar-cost averaging](/dollar-cost-averaging/) — buying more at high prices and low prices automatically, which smooths your cost over time.
 
 If you have a very long time horizon — 20 or more years — AOK is probably too conservative. A younger person with decades before retirement should tilt much more heavily toward stocks to capture the growth that drives long-term wealth. If you have a very short time horizon — you need the money in six months — AOK is still too risky because stocks can drop sharply in the short run.
 
 ## What to pay attention to
 
-Mostly nothing. But once a year, quickly glance at the holdings to make sure the fund still looks like 30/70. Interest rates shape how bonds behave, so if you are curious about bond returns, you might pay attention to the yield environment. If major geopolitical changes happen, the international stock portion might matter more or less — but again, this is optional awareness, not something you need to act on.
+Mostly nothing. But once a year, quickly glance at the holdings to make sure the fund still looks like 30/70. [Interest rates](/interest-rate/) shape how bonds behave, so if you are curious about bond returns, you might pay attention to the yield environment. If major geopolitical changes happen, the international stock portion might matter more or less — but again, this is optional awareness, not something you need to act on.
 
-If iShares ever raises the expense ratio significantly, that would be worth noticing. Currently it is in line with similar funds, but if it drifts much higher, you have alternatives (competitors offer similar 30/70 funds at similar or lower costs).
+If iShares ever raises the [expense ratio](/expense-ratio/) significantly, that would be worth noticing. Currently it is in line with similar funds, but if it drifts much higher, you have alternatives (competitors offer similar 30/70 funds at similar or lower costs).
 
 ## Researching AOK
 

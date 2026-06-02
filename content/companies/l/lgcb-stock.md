@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Linkage Global is an organizational development and professional training company that sells coaching, leadership development, and change-management consulting to Fortune 500 companies and mid-market corporations. The company's core offering is helping organizations build capability in their people — whether through executive coaching, custom leadership curricula, or guiding companies through major transformations like mergers or restructurings.
+[Linkage Global](/uzx-stock/) is an organizational development and professional training company that sells coaching, leadership development, and change-management consulting to Fortune 500 companies and mid-market corporations. The company's core offering is helping organizations build capability in their people — whether through executive coaching, custom leadership curricula, or guiding companies through major transformations like [mergers](/merger/) or restructurings.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ The constraint is that the firm lives or dies on its people. Unlike a software l
 
 The organizational development market is large, fragmented, and competitive. Clients can choose from dozens of competitors: big consulting firms like McKinsey and Bain have leadership development arms; boutique coaching practices abound; and many companies hire internal consultants. Linkage Global competes by deep expertise in specific domains — whether leadership coaching, change management, or building sales organizations — and by reputation with a client base that trusts the firm to deliver.
 
-The market also faces headwinds. In recessions, companies cut training budgets. During hiring booms, companies can often find talent through recruitment rather than development. And as more training migrates online, the economics shift away from high-touch, on-site consulting toward lower-cost digital products. A company like Linkage Global must manage that shift carefully: leaning into high-value, high-touch work while building scalable digital or hybrid offerings.
+The market also faces headwinds. In [recessions](/recession/), companies cut training budgets. During hiring booms, companies can often find talent through recruitment rather than development. And as more training migrates online, the economics shift away from high-touch, on-site consulting toward lower-cost digital products. A company like Linkage Global must manage that shift carefully: leaning into high-value, high-touch work while building scalable digital or hybrid offerings.
 
 ## Supply chain: what flows in and out
 
@@ -47,7 +47,7 @@ The firm's cash depends on converting these engagements into projects and retain
 
 ## Scalability and growth paths
 
-Linkage Global, like other training and consulting firms, has several paths to scale. One is to hire more consultants and expand into new markets or industries. Another is to productize — taking the firm's methodologies and turning them into scalable digital offerings, online courses, or frameworks that clients can license and use internally. A third is to pursue acquisitions, buying smaller boutique practices to add new capabilities or geographic reach.
+Linkage Global, like other training and consulting firms, has several paths to scale. One is to hire more consultants and expand into new markets or industries. Another is to productize — taking the firm's methodologies and turning them into scalable digital offerings, online courses, or frameworks that clients can license and use internally. A third is to pursue [acquisitions](/acquisition/), buying smaller boutique practices to add new capabilities or geographic reach.
 
 The tension in this business is that the highest-margin work is custom consulting — where the firm's expertise commands premium prices — but that work is labor-intensive and hard to scale. Lower-margin, more scalable offerings like software or online training grow faster and are easier to distribute, but do not command the same price per dollar of cost.
 
@@ -55,7 +55,7 @@ The tension in this business is that the highest-margin work is custom consultin
 
 Begin with the 10-K filing (SEC CIK 0001969401). Look for the breakdown of revenue by service line: how much comes from coaching versus workshops versus change-management projects. Watch the gross margin — the percentage of revenue left after paying the direct cost of delivering services. If it is declining, the firm is likely losing pricing power or struggling with utilization.
 
-Examine the consultant headcount and the path it has taken over recent years. Is the firm growing its workforce ahead of revenue growth (investing for the future) or below it (running out of capacity or becoming more efficient)? Watch also the turnover rate for senior consultants — high turnover is a warning that the firm is struggling to retain talent.
+Examine the consultant headcount and the path it has taken over recent years. Is the firm growing its workforce ahead of revenue [growth (investing](/growth-investing/) for the future) or below it (running out of capacity or becoming more efficient)? Watch also the turnover rate for senior consultants — high turnover is a warning that the firm is struggling to retain talent.
 
 The earnings call is where management will discuss backlog (the value of signed contracts not yet delivered), contract utilization, and client wins and losses. A strong pipeline of signed work is a healthy sign. Sudden cancellations or delays are red flags.
 

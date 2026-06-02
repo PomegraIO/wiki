@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Forafric Global PLC is a North African agribusiness company engaged in the purchase, storage, processing, and sale of agricultural commodities, primarily wheat and durum, across Morocco, Burkina Faso, Mali, and beyond. The company operates under heritage brands, operates multiple milling and processing facilities, and exports to over forty countries worldwide.*
+*[Forafric Global](/afri-stock/) PLC is a North African agribusiness company engaged in the purchase, storage, processing, and sale of agricultural commodities, primarily wheat and durum, across Morocco, Burkina Faso, Mali, and beyond. The company operates under heritage brands, operates multiple milling and processing facilities, and exports to over forty countries worldwide.*
 
 ## The century-old decision to go global
 
@@ -37,6 +37,6 @@ The business is also exposed to political and macroeconomic risk in its operatin
 
 ## What a researcher would focus on
 
-Anyone studying Forafric should start with the company's annual 10-K filing (SEC CIK 0001903870), which breaks down revenue and operating results by segment and by geography, revealing which markets are growing and where margins are under pressure. Quarterly filings highlight procurement costs and freight expenses, the two largest variable inputs into the margin story. Annual results also disclose any significant customer concentration—if one customer or one country represents more than, say, 25% of revenue, that concentration risk matters to an investor.
+Anyone studying Forafric should start with the company's annual 10-K filing (SEC CIK 0001903870), which breaks down revenue and operating results by segment and by geography, revealing which markets are growing and where margins are under pressure. Quarterly filings highlight procurement costs and freight expenses, the two largest variable inputs into the margin story. Annual results also disclose any significant customer concentration—if one customer or one country represents more than, say, 25% of revenue, that [concentration risk](/concentration-risk/) matters to an investor.
 
-The mill operating margins are worth tracking. A widening gap between the cost of raw wheat and the selling price of flour tells you whether Forafric is able to pass through commodity price increases to customers or whether it is being squeezed. Over a full business cycle, that spread determines whether the company can invest in equipment upgrades and capacity expansion or whether it is merely warehousing capital.
+The mill [operating margins](/operating-margin/) are worth tracking. A widening gap between the cost of raw wheat and the selling price of flour tells you whether Forafric is able to pass through commodity price increases to customers or whether it is being squeezed. Over a full [business cycle](/business-cycle/), that spread determines whether the company can invest in equipment upgrades and capacity expansion or whether it is merely warehousing capital.

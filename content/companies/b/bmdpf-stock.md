@@ -44,7 +44,7 @@ Monte dei Paschi's loan portfolio is concentrated in Italian borrowers and Itali
 
 European banking has consolidated, but far less than US banking. Italy has multiple large banks (Monte dei Paschi, UniCredit, Intesa Sanpaolo) and numerous smaller regional institutions. This fragmentation reflects both regulatory and political factors: European regulators have been cautious about creating systemically large institutions, and national governments have preferred to maintain national champions rather than allow cross-border consolidation.
 
-Monte dei Paschi remains an Italian national institution, subject to Italian and ECB regulation, with management accountable to Italian shareholders and the Italian political environment. This affords some protection (the Italian government has strong incentives to prevent the collapse of a major [national bank](/nbhc-stock/)) but also constraint (the bank cannot easily merge across borders or adopt radically different strategies without political approval).
+Monte dei Paschi remains an Italian national institution, subject to Italian and ECB regulation, with management accountable to Italian shareholders and the Italian political environment. This affords some protection (the Italian government has strong incentives to prevent the collapse of a major national bank) but also constraint (the bank cannot easily merge across borders or adopt radically different strategies without political approval).
 
 ## The European Banking Sector's Structural Headwinds
 

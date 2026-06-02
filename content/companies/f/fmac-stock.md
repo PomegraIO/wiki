@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Future Money Acquisition is a shell vehicle hunting for growth in three broad sectors: artificial intelligence, Web3, and intelligent manufacturing. Formed in 2024 and led by Siyu Li, founder of the FutureMoney Group (an Asia-focused investment firm), the company closed a $112 million IPO on the Nasdaq in early 2026. It is now on the clock to identify and merge with an operating company that fits its stated thesis — a typical blank check company (SPAC) trajectory.
+Future Money [Acquisition](/acquisition/) is a shell vehicle hunting for growth in three broad sectors: artificial intelligence, Web3, and intelligent manufacturing. Formed in 2024 and led by Siyu Li, founder of the FutureMoney Group (an Asia-focused investment firm), the company closed a $112 million IPO on the [Nasdaq](/nasdaq/) in early 2026. It is now on the clock to identify and merge with an operating company that fits its stated thesis — a typical blank check company (SPAC) trajectory.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,9 +28,9 @@ Future Money Acquisition is a shell vehicle hunting for growth in three broad se
 
 ## The structure and timeline
 
-Future Money raised capital through the sale of units, each consisting of one ordinary share and one-fifth of a right to purchase an additional ordinary share upon a successful business combination. This fractional-rights structure (common in recent SPAC offerings) reduces near-term dilution and spreads the reward across multiple milestones. The company has until March 2028 to announce and close a combination, or it liquidates and returns capital to shareholders.
+Future Money raised capital through the sale of units, each consisting of one ordinary share and one-fifth of a right to purchase an additional ordinary share upon a successful [business combination](/business-combination-purchase/). This fractional-rights structure (common in recent SPAC offerings) reduces near-term dilution and spreads the reward across multiple milestones. The company has until March 2028 to announce and close a combination, or it liquidates and returns capital to shareholders.
 
-The sponsor (Siyu Li and his team) own founder shares that will vest or forfeit depending on deal timing and performance — an alignment mechanism that is supposed to ensure they make disciplined decisions rather than accept any deal just to meet the deadline. In practice, sponsor incentives often remain misaligned with public shareholders, and deal quality is mixed across the SPAC universe.
+The sponsor (Siyu Li and his team) own [founder shares](/founder-shares/) that will vest or forfeit depending on deal timing and performance — an alignment mechanism that is supposed to ensure they make disciplined decisions rather than accept any deal just to meet the deadline. In practice, sponsor incentives often remain misaligned with public shareholders, and deal quality is mixed across the SPAC universe.
 
 ## Target sectors and thesis
 
@@ -42,7 +42,7 @@ The upside of this breadth is flexibility. The downside is vagueness. An "AI com
 
 Future Money is rooted in FutureMoney Group, an established Asia-based investment firm. This gives the SPAC a potential edge in deal sourcing: relationships with Asian entrepreneurs, access to technology companies that may not be on the radar of U.S. investors, and the ability to bridge capital between Asia and U.S. public markets. The arbitrage here is real — a Chinese AI startup or a Vietnamese manufacturing innovator that cannot easily raise capital domestically might be attractive to a SPAC willing to combine and provide U.S. market liquidity.
 
-However, this also introduces regulatory and operational risk. Cross-border deals carry complexity around foreign investment, intellectual property, supply chains, and geopolitics (particularly between the U.S. and China). If Future Money acquires an Asia-based AI or manufacturing company, U.S. investors will need to understand not just the business but the regulatory landscape and political risk inherent in international operations.
+However, this also introduces regulatory and [operational risk](/operational-risk/). Cross-border deals carry complexity around foreign investment, intellectual property, supply chains, and geopolitics (particularly between the U.S. and China). If Future Money acquires an Asia-based AI or manufacturing company, U.S. investors will need to understand not just the business but the regulatory landscape and political risk inherent in international operations.
 
 ## The current environment and deal likelihood
 

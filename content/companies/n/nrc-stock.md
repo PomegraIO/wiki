@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-NRC HEALTH (the publicly traded ticker is NRC; the company name is NRC HEALTH) provides a straightforward service: it asks patients and healthcare workers questions, aggregates their answers, and sells the insights back to hospitals and health systems. The company conducts surveys at scale — it claims feedback from over 122 million patient and consumer voices accumulated over decades — and has built what amounts to the most comprehensive database of [American healthcare](/ahr-stock/) experience available outside of direct research.
+NRC HEALTH (the publicly traded ticker is NRC; the company name is NRC HEALTH) provides a straightforward service: it asks patients and healthcare workers questions, aggregates their answers, and sells the insights back to hospitals and health systems. The company conducts surveys at scale — it claims feedback from over 122 million patient and consumer voices accumulated over decades — and has built what amounts to the most comprehensive database of American healthcare experience available outside of direct research.
 
 <aside class="wiki-infobox">
 <table>

@@ -49,11 +49,11 @@ But several risks lurk. Regulatory risk is the biggest. Renewable energy policyâ
 
 Technology risk is subtler. Wind turbines and solar panels improve over time, becoming cheaper and more efficient. This is generally good for the industry but creates pressure on older assets. A solar installation from 2012 generates electricity at a higher cost per unit than a new installation from 2024. This does not force the old installation to shut down, but it means the economics of building new projects in the same space are more challenging, and eventually, old plants may be retired and replaced.
 
-Weather risk is real but generally manageable through diversification. A single wind farm could have an unusually low-wind year; a solar installation could face more cloud cover than expected. But across dozens of sites in different regions, the law of large numbers smooths out such variations. Still, persistent droughts or unusually cloudy years affect the entire fleet.
+Weather risk is real but generally manageable through [diversification](/diversification/). A single wind farm could have an unusually low-wind year; a solar installation could face more cloud cover than expected. But across dozens of sites in different regions, the law of large numbers smooths out such variations. Still, persistent droughts or unusually cloudy years affect the entire fleet.
 
 ## Why would someone buy the preferred units?
 
-Preferred units sit above common units in the capital structure. They receive a fixed quarterly distribution, paid before common units receive anything, and would have priority in a liquidation. The tradeoff is that preferred holders do not participate in growth upside the way common unitholders do.
+Preferred units sit above common units in the capital structure. They receive a fixed quarterly distribution, paid before common units receive anything, and would have priority in a [liquidation](/liquidation/). The tradeoff is that preferred holders do not participate in growth upside the way common unitholders do.
 
 An investor in Via Renewables preferred units is betting that the partnership will remain solvent, will not cut its distribution (which would require extraordinary stress), and will generate steady cash flow from its renewable assets. This is a yield-focused bet, suitable for investors who want regular income from a renewable-energy exposure but are indifferent to capital appreciation.
 
@@ -61,9 +61,9 @@ The risk is that if something goes seriously wrongâ€”a catastrophic failure of a
 
 ## What is shifting for Via Renewables?
 
-The fundamental tailwind for renewable energy is structural and long-term. Climate policy, corporate decarbonization commitments, and the simple fact that wind and solar have become cost-competitive with fossil fuels are driving a decades-long shift in electricity generation away from coal and natural gas toward renewables. This trend benefits any company that owns and operates renewable infrastructure, because demand for that infrastructure will keep growing.
+The fundamental tailwind for renewable energy is structural and long-term. Climate policy, corporate decarbonization commitments, and the simple fact that wind and solar have become cost-competitive with fossil fuels are driving a decades-long shift in electricity generation away from coal and [natural gas](/natural-gas/) toward renewables. This trend benefits any company that owns and operates renewable infrastructure, because demand for that infrastructure will keep growing.
 
-But the company is also experiencing specific pressures. Tax credits and incentives have been generous, allowing developers to build projects at attractive returns. As more projects get built and tax-policy certainty improves, newer projects become more competitive, and margins on older contracts may face re-negotiation pressure. Inflation has raised construction costs, making new projects more expensive to build. And interest rates, now higher, affect both the cost of capital and the discount rate used to value long-term cash flows.
+But the company is also experiencing specific pressures. Tax credits and incentives have been generous, allowing developers to build projects at attractive returns. As more projects get built and tax-policy certainty improves, newer projects become more competitive, and margins on older contracts may face re-negotiation pressure. [Inflation](/inflation/) has raised construction costs, making new projects more expensive to build. And [interest rates](/interest-rate/), now higher, affect both the cost of capital and the [discount rate](/discount-rate/) used to value long-term cash flows.
 
 For Via Renewables' unitholders, the near-term outlook depends on whether the company can maintain its distribution level, grow the asset base modestly, and avoid major operational or regulatory setbacks. The long-term outlook is tied to whether renewable energy continues to be a secular growth industry and whether renewable-infrastructure owners can capture sufficient value amid increasing competition.
 

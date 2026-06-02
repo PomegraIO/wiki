@@ -19,7 +19,7 @@ DVLU follows an index constructed by Dorsey Wright, a quantitative research firm
 
 ## Why combine momentum and value?
 
-Pure momentum investing buys the strongest recent performers, which can lead to buying stocks that have already run up in price and are due for pullback. Pure value investing hunts for cheap stocks, but sometimes they are cheap because they are genuinely broken and will get cheaper still. By combining the two, DVLU aims to identify stocks that are gaining legitimately and at reasonable prices — not yet fully discovered by the market, or at least not fully repriced.
+Pure [momentum investing](/momentum-investing/) buys the strongest recent performers, which can lead to buying stocks that have already run up in price and are due for pullback. Pure [value investing](/value-investing/) hunts for cheap stocks, but sometimes they are cheap because they are genuinely broken and will get cheaper still. By combining the two, DVLU aims to identify stocks that are gaining legitimately and at reasonable prices — not yet fully discovered by the market, or at least not fully repriced.
 
 The screening methodology is entirely systematic and rules-based. There is no portfolio manager exercising judgment. Each month or quarter, the index methodology scores all eligible stocks on momentum and value criteria, then includes those that score well on both. Stocks that fail either screen are excluded. This non-discretionary approach has the advantage of transparency and consistency, but it also means the fund cannot adapt if the factor combination falls out of favor.
 
@@ -29,13 +29,13 @@ DVLU typically holds 100 to 200 U.S. large and mid-cap stocks, far fewer than a 
 
 ## How much volatility and cost should an investor expect?
 
-The expense ratio is moderate, higher than that of a simple market-cap-weighted index fund but in line with other "smart beta" or factor-based strategies. Liquidity is good because the fund holds large, heavily traded stocks. The real cost is not money but opportunity: DVLU will lag in market environments where neither momentum nor value factors are in favor. In extended periods when growth stocks dominate and cheap, rising-but-not-soaring equities underperform, DVLU can significantly lag a total-market index.
+The [expense ratio](/expense-ratio/) is moderate, higher than that of a simple market-cap-weighted [index fund](/index-fund/) but in line with other "smart beta" or factor-based strategies. Liquidity is good because the fund holds large, heavily traded stocks. The real cost is not money but opportunity: DVLU will lag in market environments where neither momentum nor value factors are in favor. In extended periods when growth stocks dominate and cheap, rising-but-not-soaring equities underperform, DVLU can significantly lag a total-market index.
 
 ## What is the biggest risk?
 
-The fundamental risk is that the factor combination is a bet on a specific market regime. For years after 2015, a growth-stock bull market meant value-based strategies severely underperformed. Adding momentum did not solve the problem — momentum in a growth-stock market led in the same places where value lagged. Investors who bought DVLU near the peak of that growth cycle and held through the subsequent value drought experienced multi-year underperformance. The factor screens cannot adapt to regime shifts.
+The fundamental risk is that the factor combination is a bet on a specific market regime. For years after 2015, a growth-stock [bull market](/bull-market/) meant value-based strategies severely underperformed. Adding momentum did not solve the problem — momentum in a growth-stock market led in the same places where value lagged. Investors who bought DVLU near the peak of that growth cycle and held through the subsequent value drought experienced multi-year underperformance. The factor screens cannot adapt to regime shifts.
 
-A second risk is concentration. Because the selection criteria are tight, DVLU is narrower than the total market. If the screened cohort underperforms as a group, the fund has no diversification escape hatch. Factor-based funds work best for investors who can tolerate periods of underperformance and who are willing to hold through full market cycles to capture the long-term edge, if one exists.
+A second risk is concentration. Because the selection criteria are tight, DVLU is narrower than the total market. If the screened cohort underperforms as a group, the fund has no [diversification](/diversification/) escape hatch. Factor-based funds work best for investors who can tolerate periods of underperformance and who are willing to hold through full market cycles to capture the long-term edge, if one exists.
 
 ## How would a reader evaluate whether DVLU is right?
 

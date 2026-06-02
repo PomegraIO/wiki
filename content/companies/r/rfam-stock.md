@@ -33,7 +33,7 @@ The company structured its IPO to raise capital from public shareholders in the 
 
 ## The search for a target
 
-At the time of its IPO, RF Acquisition Corp III had no operating business. The capital raised—held in a trust account—is reserved for one purpose: finding and executing a [business combination](/business-combination-purchase/) with an operating company. The founders have identified their sector and geography: they are seeking acquisition targets in deep-technology sectors including artificial intelligence, [quantum computing](/qubt-stock/), and biotechnology, with a focus on companies operating in Asia.
+At the time of its IPO, RF Acquisition Corp III had no operating business. The capital raised—held in a trust account—is reserved for one purpose: finding and executing a [business combination](/business-combination-purchase/) with an operating company. The founders have identified their sector and geography: they are seeking acquisition targets in deep-technology sectors including artificial intelligence, quantum computing, and biotechnology, with a focus on companies operating in Asia.
 
 The SPAC has explicitly excluded Greater China and companies with substantial operations in Greater China from its search criteria. This geographic limitation reflects geopolitical and regulatory considerations that constrain investment in that region. Otherwise, the search is open: targets could be early-stage or mid-stage companies, venture-backed or bootstrapped, private or publicly traded.
 

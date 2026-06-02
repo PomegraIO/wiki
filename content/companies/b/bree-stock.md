@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The MFS Blended Research Emerging Markets Equity ETF trades under the ticker BREE. It is a fund that holds stocks from companies located in countries with developing economies — places like India, Brazil, Mexico, Poland, and South Africa rather than the United States or Western Europe. These are countries that have growing middle classes and rising industrial capacity but are not yet fully mature economies. The fund's goal is simple: give you a basket of stocks from these faster-growing regions without needing to pick individual companies yourself.
+The MFS Blended Research Emerging Markets [Equity ETF](/equity-etf/) trades under the ticker BREE. It is a fund that holds stocks from companies located in countries with developing economies — places like India, Brazil, Mexico, Poland, and South Africa rather than the United States or Western Europe. These are countries that have growing middle classes and rising industrial capacity but are not yet fully mature economies. The fund's goal is simple: give you a basket of stocks from these faster-growing regions without needing to pick individual companies yourself.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,11 +33,11 @@ BREE gives you that exposure in a fund format. You own a piece of dozens of comp
 
 The fund holds stocks of mid-sized and smaller companies in emerging economies. It avoids the biggest companies — the ones that might be in every global index — and focuses on slightly smaller firms that have significant domestic or regional business and real growth potential. These companies operate in banking, retail, materials, manufacturing, energy, technology, and other sectors. The exact holdings change as the index rebalances, but the philosophy stays constant: companies with good fundamentals in regions that are developing faster than the old wealthy economies.
 
-Because it is an index fund rather than one where a manager actively picks stocks, the list of holdings is determined by a rules-based formula. You are not relying on a human stock picker; you are trusting the indexing methodology.
+Because it is an [index fund](/index-fund/) rather than one where a manager actively picks stocks, the list of holdings is determined by a rules-based formula. You are not relying on a human stock picker; you are trusting the indexing methodology.
 
 ## How it works and what it costs
 
-BREE trades as an ETF, which means you can buy or sell shares whenever the stock market is open, just like you would a regular stock. The price moves throughout the day as the underlying companies' stocks move. The fund charges an annual expense ratio — a percentage fee pulled from your returns — which covers the cost of running the fund. For an emerging-markets ETF, this fee is moderate and competitive.
+BREE trades as an ETF, which means you can buy or sell shares whenever the [stock market](/stock-market/) is open, just like you would a regular stock. The price moves throughout the day as the underlying companies' stocks move. The fund charges an annual [expense ratio](/expense-ratio/) — a percentage fee pulled from your returns — which covers the cost of running the fund. For an emerging-markets ETF, this fee is moderate and competitive.
 
 Because the fund holds stocks across many countries and uses currency conversion automatically, you get exposure to how those foreign currencies move against the dollar as well as the stock price movements themselves. This adds another layer of volatility, both positive and negative, depending on whether the dollar strengthens or weakens.
 

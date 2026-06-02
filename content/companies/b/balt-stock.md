@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Innovator Defined Wealth Shield ETF (BALT) is an exchange-traded fund that wraps a collar strategy around a basket of large-cap stocks, offering investors a built-in floor that limits downside losses and a corresponding cap on upside gains. The fund is designed to reset and rebalance these protective levels periodically, allowing it to adapt to changing market conditions rather than lock in a single lifetime floor. For investors who want market exposure without open-ended downside risk, BALT trades with a premium or discount to its defined value depending on whether the market is repricing the protective barrier.
+Innovator Defined Wealth Shield ETF (BALT) is an exchange-traded fund that wraps a [collar strategy](/collar-strategy/) around a basket of large-cap stocks, offering investors a built-in floor that limits downside losses and a corresponding cap on upside gains. The fund is designed to reset and rebalance these protective levels periodically, allowing it to adapt to changing market conditions rather than lock in a single lifetime floor. For investors who want market exposure without open-ended downside risk, BALT trades with a premium or discount to its defined value depending on whether the market is repricing the protective barrier.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,27 +27,27 @@ Innovator Defined Wealth Shield ETF (BALT) is an exchange-traded fund that wraps
 
 ## The collar structure
 
-The fund's core mechanism is the **protective collar** — a strategy that pairs a protective put option (a floor on losses) with a sold call option (a cap on gains). The protective put guarantees the investor a minimum value at reset, while the sale of the call option generates the premium that pays for the put, creating zero net cost. This is the classical collar trade, but applied every trading day through a fund wrapper.
+The fund's core mechanism is the **protective collar** — a strategy that pairs a [protective put](/protective-put/) option (a floor on losses) with a sold [call option](/call-option/) (a cap on gains). The protective put guarantees the investor a minimum value at reset, while the sale of the call option generates the premium that pays for the put, creating zero net cost. This is the classical collar trade, but applied every trading day through a fund wrapper.
 
 Crucially, BALT does not guarantee a fixed floor in perpetuity. Instead, it defines a floor relative to the previous reset date and resets the collar periodically — typically every month or quarter — to re-anchor the floor and cap to the current market level. This rolling design means the floor moves up as markets rise but resets to cap downside from that new level. The reset prospectus spells out the exact reset frequency and how the floor and cap are recalibrated each period.
 
 ## What it holds and how it differs from broad index funds
 
-BALT holds a basket of large-cap stocks, broadly resembling the S&P 500 or a similar equity index. The collar overlay is what sets it apart: while a simple index fund gives investors full upside and full downside, BALT trades away the upside above a defined cap in exchange for the downside protection below a defined floor. Between those boundaries, movement is one-to-one with the underlying basket.
+BALT holds a basket of large-cap stocks, broadly resembling the S&P 500 or a similar equity index. The collar overlay is what sets it apart: while a simple [index fund](/index-fund/) gives investors full upside and full downside, BALT trades away the upside above a defined cap in exchange for the downside protection below a defined floor. Between those boundaries, movement is one-to-one with the underlying basket.
 
 The defined floor is a genuine hedge, not a marketing claim. If markets drop 15 percent, BALT will limit losses to less than that; if they rise 15 percent, BALT will participate fully only if the rise stays below the cap. The specific floor and cap are set in the prospectus and reset documents and vary by reset period.
 
 ## Costs and trading mechanics
 
-The expense ratio reflects the cost of maintaining the collar — the options premium paid upfront and the management overhead. Because the cost is embedded in the expense ratio, there is no explicit charge for the protective put; instead, the return capping acts as the implicit payment. Spreads tend to be tight on BALT as long as the fund maintains reasonable size and trading volume, making it liquid for most retail and institutional traders.
+The [expense ratio](/expense-ratio/) reflects the cost of maintaining the collar — the options premium paid upfront and the management overhead. Because the cost is embedded in the expense ratio, there is no explicit charge for the protective put; instead, the return capping acts as the implicit payment. Spreads tend to be tight on BALT as long as the fund maintains reasonable size and trading volume, making it liquid for most retail and institutional traders.
 
-Like any ETF, BALT trades intraday at a price that may float above or below its calculated net asset value (NAV). When markets are calm and the collar is well-priced, the premium or discount is small. When markets move sharply or implied volatility changes, the collar's value can diverge from the stock basket beneath it, and BALT can trade at a wider spread — a reminder that buying a protective collar does not mean buying safety at any price.
+Like any ETF, BALT trades intraday at a price that may float above or below its calculated [net asset value](/net-asset-value/) (NAV). When markets are calm and the collar is well-priced, the premium or discount is small. When markets move sharply or [implied volatility](/implied-volatility/) changes, the collar's value can diverge from the stock basket beneath it, and BALT can trade at a wider spread — a reminder that buying a protective collar does not mean buying safety at any price.
 
 ## Real risks and the volatility-decay question
 
 The floor and cap reset periodically, which means they do not protect against catastrophic losses forever. A crash deeper than the defined floor in any single reset period will still hurt. Investors who buy BALT near the reset date get the full benefit of the new floor; those who buy near the end of a reset period have a tighter protection window remaining.
 
-A more subtle risk is the implicit cost of protection. While the collar is notionally "free" (funded by capping upside), an investor who buys BALT and holds it through many reset cycles forgoes the compounding benefit of unlimited upside. In a sustained bull market, a holding of BALT will underperform a simple index fund by the amount of returns above the cap. Over decades, that drag accumulates. BALT is a tactical or intermediate-term product suited to investors who want specific downside insurance, not a long-term compounding vehicle.
+A more subtle risk is the implicit cost of protection. While the collar is notionally "free" (funded by capping upside), an investor who buys BALT and holds it through many reset cycles forgoes the compounding benefit of unlimited upside. In a sustained [bull market](/bull-market/), a holding of BALT will underperform a simple index fund by the amount of returns above the cap. Over decades, that drag accumulates. BALT is a tactical or intermediate-term product suited to investors who want specific downside insurance, not a long-term compounding vehicle.
 
 ## Who is BALT for
 

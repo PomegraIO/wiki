@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The First Trust Nasdaq-100 Select Equal Weight ETF (ticker QQEW) owns all 100 of the largest Nasdaq stocks. But here is the twist: every stock gets the same weight. A normal Nasdaq fund gives the biggest companies the biggest slices. Apple gets a much bigger piece than the 80th-largest Nasdaq company. Not in QQEW. Each stock is exactly 1 percent of the fund. When a stock shoots up in value and becomes more than 1 percent, the fund sells some. When a stock falls and drops below 1 percent, the fund buys more. Every quarter, the fund rebalances everything back to 1 percent each. The result: you own the Nasdaq-100, but the smaller companies inside it get much more of your money than they would in a traditional fund.*
+*The First Trust Nasdaq-100 Select Equal Weight ETF (ticker QQEW) owns all 100 of the largest [Nasdaq](/nasdaq/) stocks. But here is the twist: every stock gets the same weight. A normal Nasdaq fund gives the biggest companies the biggest slices. [Apple](/aapl-stock/) gets a much bigger piece than the 80th-largest Nasdaq company. Not in QQEW. Each stock is exactly 1 percent of the fund. When a stock shoots up in value and becomes more than 1 percent, the fund sells some. When a stock falls and drops below 1 percent, the fund buys more. Every quarter, the fund rebalances everything back to 1 percent each. The result: you own the Nasdaq-100, but the smaller companies inside it get much more of your money than they would in a traditional fund.*
 
 <aside class="wiki-infobox">
 

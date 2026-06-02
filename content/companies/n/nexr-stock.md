@@ -27,7 +27,7 @@ Nexera Technologies is a diversified holding company that acquires and scales op
 
 Nexera's portfolio comprises three operating segments, each addressing different markets. KeepZone, wholly owned, is the newer, faster-growing business. It develops and distributes artificial intelligence-powered security solutions for critical infrastructure protection — including three-dimensional imaging, electromagnetic threat detection, perimeter intrusion detection systems, and counter-unmanned aircraft defenses. These are sold into the global homeland security sector, targeting governments and large-scale facility operators.
 
-Fort Products represents the legacy e-commerce arm, where Nexera retains controlling interest following a partial equity swap in July 2025. Fort manufactures and sells pest control and remedial consumer products, distributed primarily through online channels in the United Kingdom and continental Europe. Its brands include advanced formulations designed for both consumer retail and professional use, sold both directly and through established distribution partners.
+Fort Products represents the legacy e-commerce arm, where Nexera retains controlling interest following a partial [equity swap](/equity-swap/) in July 2025. Fort manufactures and sells pest control and remedial consumer products, distributed primarily through online channels in the United Kingdom and continental Europe. Its brands include advanced formulations designed for both consumer retail and professional use, sold both directly and through established distribution partners.
 
 A third, smaller segment — logistics operations — contributed roughly 15% of total revenue in 2025, providing warehousing and supply-chain services that support both the e-commerce and security divisions.
 
@@ -41,7 +41,7 @@ This geographic split creates distinct operational challenges. UK and European r
 
 Nexera's operational thesis is simple: acquire businesses with defensible niches, integrate them into a single management structure, and pursue geographic and channel expansion. The company operates with a lean corporate team and focuses on operational leverage across segments. Fort Products, before Nexera's involvement, operated independently; now it benefits from shared logistics, centralized accounting, and access to capital that a public-company parent provides. KeepZone, conversely, is a built company — developed in-house to capitalize on the shift toward AI-driven security solutions and the underserved market for advanced threat detection across borders and critical sites.
 
-The acquisition of Fort in July 2025 — structured as a controlling equity stake rather than a 100% purchase — suggests Nexera is comfortable with hybrid ownership structures that preserve incentives for acquired-company management while consolidating decision-making at the parent level. This approach is becoming more common among small-cap holding companies seeking to grow without purely organic development.
+The [acquisition](/acquisition/) of Fort in July 2025 — structured as a controlling equity stake rather than a 100% purchase — suggests Nexera is comfortable with hybrid ownership structures that preserve incentives for acquired-company management while consolidating decision-making at the parent level. This approach is becoming more common among small-cap holding companies seeking to grow without purely organic development.
 
 ## Financial profile and capital structure
 

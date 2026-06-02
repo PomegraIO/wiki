@@ -23,13 +23,13 @@ The critical word is daily. The fund resets at the end of each trading day, unwi
 
 When an asset price bounces around rather than moving in a straight line, 2x leveraged funds lose value over time relative to 2x the underlying stock's total return. This is called volatility decay, and it is mathematical, not a flaw in management. Here is why: if an asset rises 10% one day and falls 10% the next, a non-leveraged investor ends up down roughly 1% overall (because the 10% decline is applied to a higher base). A 2x leveraged holder loses roughly 4%, because the fund resets daily and thus compounds the losses in a way that an unleveraged investor never experiences.
 
-The longer the holding period and the choppier the price action, the worse this drag becomes. Investors who hold FUTG for weeks or months can expect it to underperform 2x the underlying stock's actual return — sometimes by a significant margin. This is not fraud; it is the transparent cost of using daily leverage on a volatile asset.
+The longer the [holding period](/holding-period/) and the choppier the price action, the worse this drag becomes. Investors who hold FUTG for weeks or months can expect it to underperform 2x the underlying stock's actual return — sometimes by a significant margin. This is not fraud; it is the transparent cost of using daily leverage on a volatile asset.
 
 ## Leverage Shares and the fund structure
 
 FUTG is issued by Leverage Shares, a financial services firm that specializes in leveraged and inverse exchange-traded products. The fund is traded as an exchange-traded product on major exchanges with stock-like intraday pricing.
 
-The fund tracks the daily performance of Futu Holdings (ticker FUTU on the Nasdaq), a Hong Kong-based fintech brokerage and wealth-management platform. Futu operates retail investment accounts, wealth-management services, and financial products across Asia and has significant exposure to the Chinese market — a jurisdiction with its own regulatory and geopolitical risks that flow directly into the stock price.
+The fund tracks the daily performance of Futu Holdings (ticker FUTU on the [Nasdaq](/nasdaq/)), a Hong Kong-based fintech brokerage and wealth-management platform. Futu operates retail investment accounts, wealth-management services, and financial products across Asia and has significant exposure to the Chinese market — a jurisdiction with its own regulatory and geopolitical risks that flow directly into the stock price.
 
 ## Who is this fund for — and who it is not
 
@@ -39,8 +39,8 @@ The fund is also not appropriate for investors unfamiliar with leverage mechanic
 
 ## Costs and research
 
-The fund charges an annual expense ratio to cover leverage financing costs and operational expenses. The exact ratio should be verified in the current prospectus or fact sheet, as financing costs vary with interest rates and fund size.
+The fund charges an annual [expense ratio](/expense-ratio/) to cover leverage financing costs and operational expenses. The exact ratio should be verified in the current prospectus or fact sheet, as financing costs vary with [interest rates](/interest-rate/) and fund size.
 
-For research, start with the fund prospectus, which explains the daily reset mechanism, the leverage methodology, and the precise risks. Then research Futu Holdings itself — its competitive position in fintech, its exposure to China, regulatory headwinds, and the stock's volatility. Watch not just price changes but the magnitude of daily swings. High volatility favors the fund sponsor (more leverage activity) and punishes the holder (more decay).
+For research, start with the [fund prospectus](/fund-prospectus/), which explains the daily reset mechanism, the leverage methodology, and the precise risks. Then research Futu Holdings itself — its competitive position in fintech, its exposure to China, regulatory headwinds, and the stock's volatility. Watch not just price changes but the magnitude of daily swings. High volatility favors the fund sponsor (more leverage activity) and punishes the holder (more decay).
 
 This entry describes the fund's mechanics and risks; nothing here is investment advice or a recommendation to trade.

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-SciSparc Ltd. is a clinical-stage biopharmaceutical company focused on developing novel small-molecule therapies for psychiatric and neurological disorders. Based in Israel and traded on NASDAQ under the ticker SPRC, the company operates with the conviction that certain psychiatric conditions remain inadequately treated despite decades of standard therapy, and that molecular innovation can address unmet medical needs in conditions like schizophrenia and autism spectrum disorder.
+SciSparc Ltd. is a clinical-stage biopharmaceutical company focused on developing novel small-molecule therapies for psychiatric and neurological disorders. Based in Israel and traded on [NASDAQ](/nasdaq/) under the ticker SPRC, the company operates with the conviction that certain psychiatric conditions remain inadequately treated despite decades of standard therapy, and that molecular innovation can address unmet medical needs in conditions like schizophrenia and autism spectrum disorder.
 
 <aside class="wiki-infobox">
 <table>

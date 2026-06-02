@@ -25,9 +25,9 @@ handwritten: true
 
 ## What Silver Pegasus is and why it exists
 
-Silver Pegasus Acquisition Corp is not a business — it is a financial mechanism. It exists as a publicly traded shell, a capital container designed to absorb investment money and deploy it into a private company's acquisition and public-market listing. The company itself generates no revenue, serves no customers, and owns no tangible assets beyond the cash in its trust account.
+Silver Pegasus [Acquisition](/acquisition/) Corp is not a business — it is a financial mechanism. It exists as a publicly traded shell, a capital container designed to absorb investment money and deploy it into a private company's acquisition and public-market listing. The company itself generates no revenue, serves no customers, and owns no tangible assets beyond the cash in its trust account.
 
-This structure emerged as an alternative to the traditional initial public offering. Conventional IPOs are lengthy, expensive, and uncertain — a private company must spend months in a regulatory and marketing process, underwriters take a large cut, and share prices are set before any real public trading begins. SPACs bypass much of this friction. A private company can negotiate a merger with a SPAC shell, agree on a valuation, and emerge as a publicly traded company in weeks rather than months, with a shorter and cheaper process.
+This structure emerged as an alternative to the traditional [initial public offering](/initial-public-offering/). Conventional IPOs are lengthy, expensive, and uncertain — a private company must spend months in a regulatory and marketing process, underwriters take a large cut, and share prices are set before any real public trading begins. SPACs bypass much of this friction. A private company can negotiate a [merger](/merger/) with a SPAC shell, agree on a valuation, and emerge as a publicly traded company in weeks rather than months, with a shorter and cheaper process.
 
 For capital providers, SPACs offer a way to participate in private-company acquisitions without investing in venture funds or waiting for a multi-year lockup. You buy shares, pay attention to management's track record, and wait for an announcement. If the proposed target appeals to you, you hold. If it doesn't, you redeem your shares at the trust value and exit. This embedded optionality — the right to walk away from any specific deal — is a key feature that distinguishes SPACs from other capital-deployment vehicles.
 
@@ -35,11 +35,11 @@ For capital providers, SPACs offer a way to participate in private-company acqui
 
 Silver Pegasus raised capital through a public offering of shares and warrants. The capital went directly into a segregated trust account, where it sits until a merger closes or the SPAC is liquidated. This trust money cannot be used for salaries, office rent, legal fees, or any operating expense. It can only be released to complete a qualifying acquisition or returned to shareholders if the merger window expires.
 
-This trust structure protects shareholders. It ensures that all the capital raised is deployed into the target business, not siphoned away in management fees or operational costs before a deal closes.
+This trust structure protects shareholders. It ensures that all the capital raised is deployed into the target business, not siphoned away in [management fees](/management-fee/) or operational costs before a deal closes.
 
 Separately, the sponsors and management team own "promote" shares — a founder's stake with minimal economic value at inception. These shares are only valuable if a merger closes and the post-merger company stock appreciates. This alignment structure rewards management for finding and completing deals that the market values favorably.
 
-Warrant holders receive a different economic exposure. A warrant is an option to buy additional shares at a fixed strike price, typically set above the IPO price. If the post-merger company stock rises above the strike, the warrant prints money. If the stock never rises that high, the warrant expires worthless. Warrant holders thus have exposure to the upside of a successful target, but no downside protection — they cannot redeem at trust value the way share holders can. This is why SPAC warrants often trade at steep discounts to the share price and why warrant holders bear more risk than public shareholders.
+Warrant holders receive a different economic exposure. A warrant is an option to buy additional shares at a fixed [strike price](/strike-price/), typically set above the IPO price. If the post-merger company stock rises above the strike, the warrant prints money. If the stock never rises that high, the warrant expires worthless. Warrant holders thus have exposure to the upside of a successful target, but no downside protection — they cannot redeem at trust value the way share holders can. This is why SPAC warrants often trade at steep discounts to the share price and why warrant holders bear more risk than public shareholders.
 
 ## The acquisition timeline and deadline pressure
 
@@ -51,7 +51,7 @@ Deals announced late in the window face heavier scrutiny and higher redemption r
 
 ## What happens when a merger closes
 
-Once a merger closes, Silver Pegasus ceases to exist as a distinct entity. The private company becomes the public company, and its shareholders own the results. The newly public company trades on a stock exchange, subject to the same reporting and governance rules as any public firm.
+Once a merger closes, Silver Pegasus ceases to exist as a distinct entity. The private company becomes the public company, and its shareholders own the results. The newly public company trades on a [stock exchange](/stock-exchange/), subject to the same reporting and governance rules as any public firm.
 
 The newly public company often carries management from the private side, though sponsors or SPAC management may retain board seats or operational roles. The post-merger company is responsible for delivering on any financial projections that were made during the merger proxy process.
 
@@ -61,7 +61,7 @@ This is where risk concentrates. Shareholders voting on a merger are betting on 
 
 For an investor considering Silver Pegasus shares before a merger is announced, the primary research involves evaluating the sponsor team's track record, understanding the size of the capital raise and how that constrains acquisition targets, and watching the acquisition timeline for announcements.
 
-Once a merger is proposed, the critical document is the proxy statement. It contains the target company's historical financials, management's projections, the deal valuation, the post-merger ownership structure, and any earnout provisions (additional payments if targets hit specific milestones post-merger). Comparing the proposed valuation to the target's historical growth, margins, and competitive position is the essential work.
+Once a merger is proposed, the critical document is the proxy statement. It contains the target company's historical financials, management's projections, the deal valuation, the post-merger ownership structure, and any [earnout provisions](/earnout-provision/) (additional payments if targets hit specific milestones post-merger). Comparing the proposed valuation to the target's historical growth, margins, and competitive position is the essential work.
 
 Warrant holders should evaluate whether the post-merger company's growth prospects justify the strike price. A warrant struck at $12 is only valuable if the company achieves enough growth and market confidence that the stock trades above $12. Many warrant holders lose this bet.
 

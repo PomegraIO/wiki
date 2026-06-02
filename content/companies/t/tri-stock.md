@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Thomson Reuters (New York: TRI) is an information and workflow company that supplies data, content, and software platforms to [financial institutions](/fisi-stock/), law firms, regulatory bodies, and corporations. It operates at the intersection of three deep verticals—financial services, legal services, and risk and compliance—and earns revenue primarily through subscription arrangements rather than transaction fees or one-time sales. The company is Canadian-domiciled but serves a global customer base, and its business is anchored in recurring arrangements that prove resilient across economic cycles.
+Thomson Reuters (New York: TRI) is an information and workflow company that supplies data, content, and software platforms to financial institutions, law firms, regulatory bodies, and corporations. It operates at the intersection of three deep verticals—financial services, legal services, and risk and compliance—and earns revenue primarily through subscription arrangements rather than transaction fees or one-time sales. The company is Canadian-domiciled but serves a global customer base, and its business is anchored in recurring arrangements that prove resilient across economic cycles.
 
 <aside class="wiki-infobox">
 <table>

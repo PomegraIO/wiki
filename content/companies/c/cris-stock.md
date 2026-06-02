@@ -46,7 +46,7 @@ This creates a peculiar capital structure: the balance sheet shows cash and burn
 
 ## Comparison with Larger Pharmaceutical Firms
 
-Curis' capital model differs radically from integrated pharmaceutical companies like [Pfizer](/pfe-stock/) or Merck, which have multiple marketed drugs generating billions in revenue and can fund R&D from operations. Curis is pre-commercial, meaning its entire [enterprise-value](/enterprise-value/) rests on the anticipated future value of drugs not yet approved.
+Curis' capital model differs radically from integrated pharmaceutical companies like [Pfizer](/pfe-stock/) or [Merck](/mrk-stock/), which have multiple marketed drugs generating billions in revenue and can fund R&D from operations. Curis is pre-commercial, meaning its entire [enterprise-value](/enterprise-value/) rests on the anticipated future value of drugs not yet approved.
 
 This makes Curis' debt capacity nearly zero and its equity investors highly risk-tolerant. The company cannot service [corporate-bond](/corporate-bond/) debt from cash flow (it has none), so any borrowing would be secured by assets (which are negligible) or guaranteed by partners. Most biotech companies avoid debt altogether and burn through equity.
 

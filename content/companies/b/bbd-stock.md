@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Banco Bradesco is among Brazil's largest private [financial institutions](/fisi-stock/), a banking and financial services conglomerate serving millions of individuals, small businesses, and larger corporations across the country. Founded in 1943 and listed on the [New York Stock Exchange](/new-york-stock-exchange/) since 1992, Bradesco sits at the center of Brazilian consumer and commercial finance—a diversified player whose reach extends well beyond traditional lending into insurance, brokerage, asset management, and investment banking. The bank operates through a vast network of physical branches and increasingly through digital channels, competing directly with giants like Itaú Unibanco while maintaining its own distinct market position and customer base.
+Banco Bradesco is among Brazil's largest private financial institutions, a banking and financial services conglomerate serving millions of individuals, small businesses, and larger corporations across the country. Founded in 1943 and listed on the [New York Stock Exchange](/new-york-stock-exchange/) since 1992, Bradesco sits at the center of Brazilian consumer and commercial finance—a diversified player whose reach extends well beyond traditional lending into insurance, brokerage, asset management, and investment banking. The bank operates through a vast network of physical branches and increasingly through digital channels, competing directly with giants like Itaú Unibanco while maintaining its own distinct market position and customer base.
 
 <aside class="wiki-infobox">
 

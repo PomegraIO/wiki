@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-60 Degrees Pharmaceuticals is a biopharmaceutical company that develops small-molecule therapeutics for the treatment and prevention of infectious diseases, with particular focus on vector-borne and parasitic conditions where medical need remains significant. Founded in 2010, the company has built its commercial footprint around tafenoquine, a once-weekly prescription malaria preventative that received FDA approval in 2018, and it continues to advance a clinical pipeline targeting neglected infectious disease categories where incumbent therapies either fail to meet patient needs or lack convenient administration routes.
+[60 Degrees Pharmaceuticals](/sxtp-stock/) is a biopharmaceutical company that develops small-molecule therapeutics for the treatment and prevention of infectious diseases, with particular focus on vector-borne and parasitic conditions where medical need remains significant. Founded in 2010, the company has built its commercial footprint around tafenoquine, a once-weekly prescription malaria preventative that received FDA approval in 2018, and it continues to advance a clinical pipeline targeting neglected infectious disease categories where incumbent therapies either fail to meet patient needs or lack convenient administration routes.
 
 | What it is | A biopharmaceutical company developing small-molecule drugs for infectious diseases |
 |---|---|

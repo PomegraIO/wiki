@@ -37,7 +37,7 @@ The clinical strategy is combination therapy. Pelareorep is administered alongsi
 
 Oncolytics has been running pelareorep through a series of Phase 2 trials in three cancer types. In metastatic breast cancer, two randomized Phase 2 studies have generated data. In pancreatic cancer, the company ran Phase 1 and 2 studies that showed a "strong efficacy signal" when pelareorep was combined with gemcitabine (a standard chemotherapy), nab-paclitaxel, and atezolizumab. In anal cancer, patients receiving the combination continue to show "stronger responses than expected" based on published studies of checkpoint inhibitors alone.
 
-The FDA has granted [Fast Track](/ftrk-stock/) designation to pelareorep in both metastatic breast cancer and pancreatic cancer — a procedural advantage that speeds review of applications if efficacy holds. In 2026, Oncolytics appointed executives focused on late-stage development, signaling a move toward registrational trials — the final hurdle before potential approval.
+The FDA has granted Fast Track designation to pelareorep in both metastatic breast cancer and pancreatic cancer — a procedural advantage that speeds review of applications if efficacy holds. In 2026, Oncolytics appointed executives focused on late-stage development, signaling a move toward registrational trials — the final hurdle before potential approval.
 
 ## The business model and cash reality
 

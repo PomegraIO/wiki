@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Amplify AI Powered Equity ETF** (AIEQ) is an actively managed exchange-traded fund that uses machine learning algorithms to choose which stocks to hold and how much of each to buy. Rather than following a fixed index, an AI system continuously analyzes market data and company fundamentals to construct a portfolio that the algorithm believes will outperform. AIEQ represents a hybrid approach — the transparency and tax efficiency of an ETF wrapper combined with active management by software rather than by a human portfolio manager.*
+*The **Amplify AI Powered [Equity ETF](/equity-etf/)** (AIEQ) is an actively managed exchange-traded fund that uses machine learning algorithms to choose which stocks to hold and how much of each to buy. Rather than following a fixed index, an AI system continuously analyzes market data and company fundamentals to construct a portfolio that the algorithm believes will outperform. AIEQ represents a hybrid approach — the transparency and tax efficiency of an ETF wrapper combined with active management by software rather than by a human portfolio manager.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,9 +27,9 @@ handwritten: true
 
 ## What makes AIEQ different
 
-Unlike a typical index fund that holds all companies in a chosen benchmark according to a fixed weighting, AIEQ holds a selected portfolio of stocks chosen by machine-learning models. The algorithm ingests vast amounts of financial and market data — balance sheets, earnings trends, news sentiment, trading patterns, macroeconomic indicators — and uses trained models to identify stocks with the highest expected returns going forward. The portfolio is rebalanced frequently as the models update their views.
+Unlike a typical [index fund](/index-fund/) that holds all companies in a chosen benchmark according to a fixed weighting, AIEQ holds a selected portfolio of stocks chosen by machine-learning models. The algorithm ingests vast amounts of financial and market data — [balance sheets](/balance-sheet/), earnings trends, news sentiment, trading patterns, macroeconomic indicators — and uses trained models to identify stocks with the highest expected returns going forward. The portfolio is rebalanced frequently as the models update their views.
 
-This is distinct from two other investment approaches. A traditional active mutual fund employs human portfolio managers and analysts who read research, talk to company management, and make judgment calls about which stocks to buy. AIEQ has no human portfolio manager; the decision-making is entirely algorithmic. And unlike passive index funds, which hold every stock in a benchmark in a fixed proportion, AIEQ actively tilts away from index weights to concentrate capital where the algorithm sees opportunity.
+This is distinct from two other investment approaches. A traditional active [mutual fund](/mutual-fund/) employs human portfolio managers and analysts who read research, talk to company management, and make judgment calls about which stocks to buy. AIEQ has no human portfolio manager; the decision-making is entirely algorithmic. And unlike passive index funds, which hold every stock in a benchmark in a fixed proportion, AIEQ actively tilts away from index weights to concentrate capital where the algorithm sees opportunity.
 
 ## How the algorithm works
 
@@ -43,7 +43,7 @@ AIEQ invests across multiple sectors, not just technology, though artificial int
 
 ## Costs and fees
 
-AIEQ carries an expense ratio higher than a passive broad-market ETF but in the range of many actively managed funds. The cost reflects both the ongoing operation of the ETF and the computational expense of training and running the machine-learning models. Like all ETFs, AIEQ trades on the NASDAQ during market hours, so investors can buy and sell at market prices with bid-ask spreads typical of an ETF of its size and popularity.
+AIEQ carries an [expense ratio](/expense-ratio/) higher than a passive broad-market ETF but in the range of many [actively managed funds](/actively-managed-fund/). The cost reflects both the ongoing operation of the ETF and the computational expense of training and running the machine-learning models. Like all ETFs, AIEQ trades on the [NASDAQ](/nasdaq/) during market hours, so investors can buy and sell at market prices with [bid-ask spreads](/bid-ask-spread/) typical of an ETF of its size and popularity.
 
 ## Performance and expectations
 

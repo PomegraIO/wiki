@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*BigBear.ai Holdings, Inc. is a publicly traded artificial intelligence company headquartered in McLean, Virginia that develops decision-intelligence software for government agencies, defense contractors, and industrial manufacturers. The company trades on the New York Stock Exchange under the symbols BBAI (common stock) and BBAI.WS (warrants).*
+*BigBear.ai Holdings, Inc. is a publicly traded artificial intelligence company headquartered in McLean, Virginia that develops decision-intelligence software for government agencies, defense contractors, and industrial manufacturers. The company trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the symbols BBAI ([common stock](/common-stock/)) and BBAI.WS (warrants).*
 
 ## What does BigBear.ai actually make?
 
@@ -33,22 +33,22 @@ The challenge is growth. Government budgets are constrained, and BigBear is comp
 
 ## How did BigBear end up public, and what was the merger story?
 
-BigBear.ai completed a business combination with GigCapital4, a special purpose acquisition company (SPAC), in December 2021, allowing BigBear to become a public company and giving it access to capital markets without the traditional IPO process. The SPAC merger was a common pathway for AI and defense-tech startups during the 2020–2021 boom in SPAC activity, when blank-check companies were capital-rich and hungry for technology targets.
+BigBear.ai completed a [business combination](/business-combination-purchase/) with GigCapital4, a special purpose [acquisition](/acquisition/) company (SPAC), in December 2021, allowing BigBear to become a public company and giving it access to capital markets without the traditional IPO process. The SPAC [merger](/merger/) was a common pathway for AI and defense-tech startups during the 2020–2021 boom in SPAC activity, when blank-check companies were capital-rich and hungry for technology targets.
 
 The use of SPAC financing meant BigBear could raise capital quickly—important for a growth-stage software company with long sales cycles—and go public without the traditional IPO roadshow and underwriter relationships. Whether that was the right financing choice depends on whether BigBear can meet or exceed the growth expectations baked into the public valuation. If BigBear continues to land major government contracts and expands into new domains (autonomous systems in particular), the SPAC merger looks smart. If government contracting slows or competition intensifies, the high expectations that come with public-market valuations could become a burden.
 
 ## What are the real risks and competitive pressures?
 
-The largest risk is dependence on government spending and procurement cycles. If defense budgets tighten or procurement priorities shift away from the areas BigBear serves, revenue growth could flatline. The company is also competing against much larger defense contractors—Lockheed Martin, Raytheon, General Dynamics—that have greater resources, deeper government relationships, and integrated offerings that BigBear cannot match alone.
+The largest risk is dependence on government spending and procurement cycles. If defense budgets tighten or procurement priorities shift away from the areas BigBear serves, revenue growth could flatline. The company is also competing against much larger defense contractors—[Lockheed Martin](/lmt-stock/), Raytheon, [General Dynamics](/gd-stock/)—that have greater resources, deeper government relationships, and integrated offerings that BigBear cannot match alone.
 
 A second risk is the evolving regulatory and oversight landscape around AI in defense. As the US government and others debate the role of AI in military systems, rules around autonomous systems and algorithmic decision-making could change, affecting the addressable market or the compliance costs BigBear's customers face.
 
-A third risk is talent. BigBear is competing for machine-learning and software engineering talent against Big Tech companies (Google, Microsoft, Apple) and well-capitalized AI startups. Retaining talent in a post-SPAC public company is harder than in a well-funded private startup with founder-led culture.
+A third risk is talent. BigBear is competing for machine-learning and software engineering talent against Big Tech companies (Google, [Microsoft](/msft-stock/), [Apple](/aapl-stock/)) and well-capitalized AI startups. Retaining talent in a post-SPAC public company is harder than in a well-funded private startup with founder-led culture.
 
 ## How would an investor research BigBear?
 
-Start with the SEC filings (CIK 0001836981) and the quarterly earnings reports and shareholder letters, which break down the revenue by customer segment and contract type. BigBear should disclose the pipeline of pending contract awards, the contract values, and the renewal rates of existing customers—these are the real leading indicators of growth. Pay attention to gross margins and operating margins, which will reveal whether the software business is scaling efficiently.
+Start with the SEC filings (CIK 0001836981) and the quarterly earnings reports and shareholder letters, which break down the revenue by customer segment and contract type. BigBear should disclose the pipeline of pending contract awards, the contract values, and the renewal rates of existing customers—these are the real leading indicators of growth. Pay attention to gross margins and [operating margins](/operating-margin/), which will reveal whether the software business is scaling efficiently.
 
 Separately, track government spending announcements and defense budget trends. If Congress increases funding for supply-chain resilience, cybersecurity, or autonomous systems, that is a tailwind for BigBear. Conversely, if geopolitical tensions ease and defense budgets contract, headwinds will follow.
 
-Finally, watch BigBear's ability to expand beyond the federal government into commercial customers and state and local government. That diversification would reduce dependence on any single budget cycle and would represent genuine product-market fit in the private sector.
+Finally, watch BigBear's ability to expand beyond the federal government into commercial customers and state and local government. That [diversification](/diversification/) would reduce dependence on any single budget cycle and would represent genuine product-market fit in the private sector.

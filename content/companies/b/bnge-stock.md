@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Entertainment has undergone a profound shift in the past two decades. Where once audiences gathered around television sets at fixed times to watch shows that networks scheduled, now they stream video on demand from services like Netflix and Disney+. Where once children played games on consoles in living rooms, they now play online multiplayer games, often through cloud-based platforms. First Trust S-Network Streaming and Gaming ETF, trading as BNGE, emerged as a way for investors to capture exposure to the companies driving this transition.
+Entertainment has undergone a profound shift in the past two decades. Where once audiences gathered around television sets at fixed times to watch shows that networks scheduled, now they stream video on demand from services like [Netflix](/nflx-stock/) and Disney+. Where once children played games on consoles in living rooms, they now play online multiplayer games, often through cloud-based platforms. First Trust S-Network Streaming and Gaming ETF, trading as BNGE, emerged as a way for investors to capture exposure to the companies driving this transition.
 
 ## The thematic origin: identifying the streaming and gaming wave
 
@@ -21,7 +21,7 @@ BNGE holds stocks of companies across this ecosystem: streaming video services, 
 
 ## The composition of streaming and gaming exposure
 
-The fund's holdings typically span several layers of the value chain. Video-streaming companies like Netflix, Disney (which owns Disney+ and Hulu), and Amazon Prime Video dominate many investors' mental model of streaming. But BNGE also includes gaming publishers and developers — Activision Blizzard, Take-Two Interactive, Electronic Arts, Ubisoft — whose titles are played across consoles, PCs, and mobile devices. Interactive entertainment platforms like Roblox, where users create and play games with each other, round out the portfolio. The fund may also include hardware companies that benefited from the shift, such as chipmakers that power gaming or consumer electronics companies that make streaming devices.
+The fund's holdings typically span several layers of the value chain. Video-streaming companies like Netflix, Disney (which owns Disney+ and Hulu), and Amazon Prime Video dominate many investors' mental model of streaming. But BNGE also includes gaming publishers and developers — Activision Blizzard, Take-Two Interactive, [Electronic Arts](/ea-stock/), Ubisoft — whose titles are played across consoles, PCs, and mobile devices. Interactive entertainment platforms like Roblox, where users create and play games with each other, round out the portfolio. The fund may also include hardware companies that benefited from the shift, such as chipmakers that power gaming or consumer electronics companies that make streaming devices.
 
 The exact composition of BNGE shifts as companies are added to or removed from the underlying S-Network Streaming and Gaming Index. The index is maintained to track the narrative of the space — adding companies as they become prominent in streaming or gaming, removing them if they pivot away from the theme.
 
@@ -33,7 +33,7 @@ But thematic funds carry hidden risks. They concentrate on a narrative, which ca
 
 ## Growth focus and volatility
 
-BNGE is a growth fund, not a value or income fund. The companies in it are typically valued on expectations of future earnings, not on what they earn today. This means the fund's price is sensitive to changes in expectations about growth rates, interest rates, and risk appetite. During periods when investors favor stable, profitable companies over speculative growth, thematic funds like BNGE tend to underperform. During periods of optimism about technology and consumer shifts, they can outperform significantly.
+BNGE is a [growth fund](/growth-fund/), not a value or [income fund](/income-fund/). The companies in it are typically valued on expectations of future earnings, not on what they earn today. This means the fund's price is sensitive to changes in expectations about growth rates, [interest rates](/interest-rate/), and risk appetite. During periods when investors favor stable, profitable companies over speculative growth, thematic funds like BNGE tend to underperform. During periods of optimism about technology and consumer shifts, they can outperform significantly.
 
 The volatility is also amplified because the holdings are concentrated in a few industries and dominated by a handful of megacap companies. When Netflix has a bad quarter or streaming competition intensifies, the entire fund suffers.
 
@@ -43,7 +43,7 @@ BNGE suits investors who have conviction that streaming and gaming are multideca
 
 ## How to research BNGE
 
-Start by reading the fund prospectus and examining the current list of holdings, which is usually available on the fund sponsor's website and on sites like Morningstar. Look at the top ten holdings to see how concentrated the fund is; if five companies make up more than 50% of the fund, volatility will be high. Compare the expense ratio to other thematic or growth funds in the space.
+Start by reading the [fund prospectus](/fund-prospectus/) and examining the current list of holdings, which is usually available on the fund sponsor's website and on sites like Morningstar. Look at the top ten holdings to see how concentrated the fund is; if five companies make up more than 50% of the fund, volatility will be high. Compare the [expense ratio](/expense-ratio/) to other thematic or growth funds in the space.
 
 Research the index methodology: how does S-Network define what counts as a streaming or gaming company? This determines which companies can be added or removed, and it shapes the fund's exposure. Finally, think hard about whether you believe the narrative. If you think streaming is mature, growth will disappoint. If you think gaming is cyclical, valuations may compress when players shift to a new trend.
 

@@ -31,7 +31,7 @@ The company began in 2000 as RLJ Development, founded by Robert L. Johnson using
 
 For the first decade, RLJ Development operated as a private company, buying and repositioning hotels quietly. The founders pursued disciplined acquisition, focusing on properties in strong markets and under premium brands where there was room for operational improvement. The model proved durable. By 2011, the company had accumulated enough properties and had enough confidence in the business to take the REIT structure public. RLJ Lodging Trust went public that year, listing on the NYSE.
 
-The REIT structure was a strategic choice. A REIT must distribute at least 90 percent of its taxable income to shareholders as dividends, which appeals to income-focused investors. In return, REITs receive favorable tax treatment at the corporate level. For a company like RLJ, which generates stable cash flows from property operations and does not require rapid reinvestment for growth, the REIT structure aligns incentives and appeals to investors seeking income.
+The REIT structure was a strategic choice. A REIT must distribute at least 90 percent of its taxable income to shareholders as [dividends](/dividend/), which appeals to income-focused investors. In return, REITs receive favorable tax treatment at the corporate level. For a company like RLJ, which generates stable cash flows from property operations and does not require rapid reinvestment for growth, the REIT structure aligns incentives and appeals to investors seeking income.
 
 ## The hotel portfolio and brand strategy
 
@@ -55,7 +55,7 @@ Because RLJ is a REIT, it must distribute most of its net income to shareholders
 
 RLJ's geographic focus—major urban markets and resort destinations—is deliberate and reveals the investment thesis. Urban hotels benefit from sustained business travel, conventions, and tourism. Resort hotels benefit from leisure travel and often see stronger margins because leisure travelers pay higher rates and have less price sensitivity than business travelers.
 
-The premium for urban and resort locations is significant. A Marriott in Manhattan can generate much higher RevPAR than a Marriott in a secondary city, all else equal. RLJ chases this premium, buying properties where demand is durable and where the brand can command rates. This focus also concentrates risk: a major recession that depresses business travel or a significant tourism shock (pandemic, security event, natural disaster) hits urban and resort hotels harder than properties in smaller cities serving essential business.
+The premium for urban and resort locations is significant. A Marriott in Manhattan can generate much higher RevPAR than a Marriott in a secondary city, all else equal. RLJ chases this premium, buying properties where demand is durable and where the brand can command rates. This focus also concentrates risk: a major [recession](/recession/) that depresses business travel or a significant tourism shock (pandemic, security event, natural disaster) hits urban and resort hotels harder than properties in smaller cities serving essential business.
 
 RLJ experienced this directly during the pandemic. Urban hotels saw dramatic RevPAR declines as conventions and business travel evaporated. Some of RLJ's properties were severely impacted. The recovery, however, was also strong, as urban properties and resorts rebounded sharply once travel resumed. This volatility is inherent to the business model.
 
@@ -63,7 +63,7 @@ RLJ experienced this directly during the pandemic. Urban hotels saw dramatic Rev
 
 RLJ, like all REITs, distributes most of its income to shareholders. This appeals to income-focused investors but constrains the company's ability to grow through [retained earnings](/retained-earnings/). Instead, RLJ finances growth through new equity offerings and debt.
 
-The company's [balance sheet](/balance-sheet/) is a critical metric. RLJ finances [acquisitions](/acquisition/) and operations with a mix of equity and debt. In periods of high interest rates or weak stock valuations, the cost of growth rises, and RLJ becomes more selective about acquisitions. In periods of low rates and strong stock valuations, RLJ can be more aggressive. The company's [leverage ratio](/leverage-ratio-forex/)—debt relative to EBITDA—is watched closely by analysts, because high leverage leaves the company vulnerable to interest-rate rises or operational downturns.
+The company's [balance sheet](/balance-sheet/) is a critical metric. RLJ finances [acquisitions](/acquisition/) and operations with a mix of equity and debt. In periods of high interest rates or weak stock valuations, the cost of growth rises, and RLJ becomes more selective about acquisitions. In periods of low rates and strong stock valuations, RLJ can be more aggressive. The company's [leverage ratio](/leverage-ratio-forex/)—debt relative to [EBITDA](/ebitda/)—is watched closely by analysts, because high leverage leaves the company vulnerable to interest-rate rises or operational downturns.
 
 The dividend policy is the other critical decision. REITs are required to distribute 90 percent of taxable income, but many distribute even more. RLJ has historically returned capital to shareholders through dividends and periodic [special dividends](/special-dividend/). This appeals to income investors but means the company is not reinvesting heavily in the business. This is a trade-off: higher current income for shareholders, but potentially slower growth.
 
@@ -79,7 +79,7 @@ The largest competitive dynamic is the access to capital. RLJ can raise equity a
 
 Hotel real estate is cyclical. Economic downturns reduce business and leisure travel, pushing down RevPAR and property values. The pandemic was an extreme example, but smaller cycles happen regularly. RLJ has limited ability to control these macro cycles; it can only position itself to weather them. The company's focus on strong urban and resort markets is partly a bet that these markets have more consistent demand.
 
-[Interest-rate risk](/interest-rate-risk/) is another key variable. RLJ finances with debt, and higher interest rates increase the cost of debt service and reduce the [return on assets](/return-on-assets/). When the cost of capital rises, RLJ's returns fall, and the equity becomes less attractive.
+[Interest-rate risk](/interest-rate-risk/) is another key variable. RLJ finances with debt, and higher interest rates increase the [cost of debt](/cost-of-debt/) service and reduce the [return on assets](/return-on-assets/). When the cost of capital rises, RLJ's returns fall, and the equity becomes less attractive.
 
 Finally, there is [operational risk](/operational-risk/). RLJ depends on its property operators to execute. If an operator performs poorly, the property's revenue falls. While RLJ can change operators, replacing a bad operator takes time and involves costs. RLJ's management agreements have performance clauses and termination rights, but these protections are imperfect.
 
@@ -91,6 +91,6 @@ Watch RevPAR trends by property and by brand. Rising RevPAR signals healthy dema
 
 Monitor the company's acquisition and disposition activity. An aggressive acquisition program suggests management is confident about the market and sees attractive investment opportunities. A pause in acquisitions might suggest caution. Dispositions of properties are sometimes necessary (pruning underperformers) but in volume might signal that management is raising cash to de-lever.
 
-Watch the dividend policy and payout ratio. REITs are required to distribute 90 percent of taxable income, but the company's actual payout tells you how much cash is actually being returned to shareholders versus retained for reinvestment or debt reduction. A rising dividend signals confidence; a cut or pause signals trouble.
+Watch the dividend policy and [payout ratio](/payout-ratio/). REITs are required to distribute 90 percent of taxable income, but the company's actual payout tells you how much cash is actually being returned to shareholders versus retained for reinvestment or debt reduction. A rising dividend signals confidence; a cut or pause signals trouble.
 
 Finally, watch the company's balance sheet and leverage metrics. Low leverage gives RLJ flexibility to acquire and weather downturns. High leverage constrains options. The cost and availability of new financing directly affects RLJ's growth prospects.

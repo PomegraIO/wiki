@@ -13,7 +13,7 @@ handwritten: true
 
 ### What does QQMG track?
 
-QQMG starts with the Nasdaq-100 universe — the 100 largest non-financial companies listed on the Nasdaq, predominantly technology, software, semiconductors, and digital-commerce firms — then applies ESG (environmental, social, governance) screening. The result is a filtered portfolio holding a subset of the 100, excluding companies that fail Invesco's ESG thresholds. The fund aims to deliver Nasdaq-100-like growth characteristics while tilting toward companies with demonstrably stronger environmental practices, social responsibility, and governance structures.
+QQMG starts with the Nasdaq-100 universe — the 100 largest non-financial companies listed on the [Nasdaq](/nasdaq/), predominantly technology, software, semiconductors, and digital-commerce firms — then applies ESG (environmental, social, governance) screening. The result is a filtered portfolio holding a subset of the 100, excluding companies that fail Invesco's ESG thresholds. The fund aims to deliver Nasdaq-100-like growth characteristics while tilting toward companies with demonstrably stronger environmental practices, social responsibility, and governance structures.
 
 ### How does Invesco's ESG methodology work?
 
@@ -25,7 +25,7 @@ The practical consequence is selective inclusion. Large technology firms with ma
 
 The performance difference is modest but not trivial. In years when the Nasdaq rallies broadly, QQMG may lag if excluded companies participate in the outperformance. Conversely, during periods when ESG-aligned companies outperform, QQMG may slightly lead. Differences typically range from a handful of basis points to low single-digit percentage points annually — visible to the attentive investor, though not dramatic.
 
-The expense ratio of roughly 0.48% annually is higher than the base QQQ (which costs around 0.20%) but typical for funds requiring active ESG analysis and quarterly compliance reviews. The extra cost reflects Invesco's ongoing evaluation of holdings against ESG criteria.
+The [expense ratio](/expense-ratio/) of roughly 0.48% annually is higher than the base QQQ (which costs around 0.20%) but typical for funds requiring active ESG analysis and quarterly compliance reviews. The extra cost reflects Invesco's ongoing evaluation of holdings against ESG criteria.
 
 ### Who uses QQMG and why?
 

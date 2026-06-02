@@ -28,7 +28,7 @@ Schindler Holding is a Swiss-headquartered company that designs, manufactures, i
 
 Schindler's revenue comes from three distinct categories, each with different economics and cycle exposure.
 
-**New installations** is the most visible: when a developer or building owner plans a new construction project, Schindler competes for the contract to supply and install the vertical transportation. This segment is project-based, lump-sum in nature, and heavily exposed to real estate cycles. When construction spending is brisk, new-installation revenue booms. When commercial real estate corrects or residential starts collapse, this segment shrinks first and fastest.
+**New installations** is the most visible: when a developer or building owner plans a new construction project, Schindler competes for the contract to supply and install the vertical transportation. This segment is project-based, lump-sum in nature, and heavily exposed to real estate cycles. When [construction spending](/construction-spending/) is brisk, new-installation revenue booms. When [commercial real estate](/commercial-real-estate/) corrects or residential starts collapse, this segment shrinks first and fastest.
 
 **Modernization** involves retrofitting existing systems — replacing old controllers with modern ones, upgrading hoistway doors, improving energy efficiency, enhancing accessibility. This is the strategic jewel of the business. A building built in 1970 has equipment from 1970; at some point it must be renewed. Modernization is less cyclical than new installation because building stock ages continuously, and the decision to upgrade is often driven by safety regulations or operational wear rather than by the state of the property market. Importantly, modernization carries higher margins than new installation because the cost of goods sold is lower (you are retrofitting existing infrastructure, not building from scratch) and Schindler can command premium pricing.
 
@@ -38,7 +38,7 @@ Schindler's revenue comes from three distinct categories, each with different ec
 
 Schindler's overall business is moderately cyclical, moving with real estate and construction activity, but with less volatility than pure construction-equipment makers because of the modernization and maintenance segments.
 
-In a boom — when interest rates are low, credit is abundant, and developers are greenfield-building — construction projects multiply. Architects specify elevators. Schindler wins orders and installs. Shipments and new-installation revenue climb. The margin on installation work improves as manufacturing plants run at high utilization and overhead is spread across more units. Management can raise prices. Shareholder returns improve.
+In a boom — when [interest rates](/interest-rate/) are low, credit is abundant, and developers are greenfield-building — construction projects multiply. Architects specify elevators. Schindler wins orders and installs. Shipments and new-installation revenue climb. The margin on installation work improves as manufacturing plants run at high utilization and overhead is spread across more units. Management can raise prices. Shareholder returns improve.
 
 As the cycle matures and real estate cools, new-project starts slow. Schindler's order book thins. But this is where the portfolio of existing equipment becomes the cushion. Modernization projects, deferred during the building rush, now get greenlit. Maintenance revenue keeps flowing. The decline is gentler than it would be for a pure new-equipment business.
 
@@ -48,7 +48,7 @@ Schindler's exposure to this cycle is global but uneven by region. Developed mar
 
 ## Scale and manufacturing
 
-With 60,000+ employees and factories across multiple continents, Schindler manufactures at scale. It designs the core systems in-house and operates a global supply chain for parts, assembly, and installation. Scale gives it cost advantages over smaller rivals and the ability to absorb regional volatility through geographic diversification.
+With 60,000+ employees and factories across multiple continents, Schindler manufactures at scale. It designs the core systems in-house and operates a global supply chain for parts, assembly, and installation. Scale gives it cost advantages over smaller rivals and the ability to absorb regional volatility through geographic [diversification](/diversification/).
 
 Manufacturing overhead is a meaningful fixed cost. In boom times, plants run lean and margins are fat. In downturns, when shipment rates fall, the fixed cost base becomes a drag: Schindler cannot instantly shrink the labor force or close factories, so profitability compresses faster than revenue declines. This is typical of capital-intensive manufacturers and a key cyclical risk.
 
@@ -66,7 +66,7 @@ Modernization and service are also competitive but more defensible: once a custo
 
 **Margin pressure.** In competitive markets, especially for new installation, Schindler sometimes accepts lower margins to win volume. If that volume disappoints or if competition intensifies, profitability can surprise to the downside.
 
-**Execution and integration.** Large manufacturing companies are complex, and execution risks (supply-chain disruptions, production delays, quality issues) can surprise. Any major acquisition would add integration complexity.
+**Execution and integration.** Large manufacturing companies are complex, and execution risks (supply-chain disruptions, production delays, quality issues) can surprise. Any major [acquisition](/acquisition/) would add integration complexity.
 
 **Regulation.** Building codes and elevator safety standards vary by region and can shift, requiring design or manufacturing changes. This is manageable but ongoing.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The ARK Next Generation Internet ETF (NASDAQ: ARKW) is ARK Invest's focused bet on companies building the next internet. Not the internet we see today — the browsers and social media and email — but the infrastructure, platforms, and tools that are reshaping how commerce, communication, and information flow across the world.
+The ARK Next Generation Internet ETF ([NASDAQ](/nasdaq/): ARKW) is ARK Invest's focused bet on companies building the next internet. Not the internet we see today — the browsers and social media and email — but the infrastructure, platforms, and tools that are reshaping how commerce, communication, and information flow across the world.
 
 ## What ARKW owns
 
@@ -33,11 +33,11 @@ ARKW bets that this trend has decades to run. The internet is still young. In ma
 
 Like ARK's other flagship funds, ARKW is actively managed. ARK's research team decides which companies to own and how much to own of each. They rebalance frequently, adding to positions they believe are undervalued or trimming positions they believe have fully priced in good news. The typical portfolio holds 30 to 50 stocks spread across the internet ecosystem.
 
-This active approach costs more than an index fund. The expense ratio is roughly 0.75 percent of assets per year. But the idea is that ARK's research — their conviction about which internet companies are most important, which are positioned to win, and which are priced attractively — creates value that exceeds that cost over a long time horizon.
+This active approach costs more than an [index fund](/index-fund/). The [expense ratio](/expense-ratio/) is roughly 0.75 percent of assets per year. But the idea is that ARK's research — their conviction about which internet companies are most important, which are positioned to win, and which are priced attractively — creates value that exceeds that cost over a long time horizon.
 
 ## Volatility and concentration risk
 
-Internet stocks tend to be more volatile than the broad stock market. Many of ARKW's holdings are growth companies — still expanding fast, not yet profitable or newly profitable — and growth stocks swing up and down more steeply than stable, mature companies. This means ARKW itself swings more steeply.
+Internet stocks tend to be more volatile than the broad [stock market](/stock-market/). Many of ARKW's holdings are growth companies — still expanding fast, not yet profitable or newly profitable — and growth stocks swing up and down more steeply than stable, mature companies. This means ARKW itself swings more steeply.
 
 Because the fund is concentrated in a single theme — the internet — rather than diversified across all sectors, a year when internet stocks fall out of favor can be punishing. Conversely, a year when internet stocks surge can deliver exceptional returns. Investors comfortable with large swings can benefit; investors who panic during downturns may sell at the worst time.
 
@@ -57,6 +57,6 @@ It is also not for someone skeptical that ARK's active management adds real valu
 
 ## How to research ARKW
 
-Read the prospectus to understand the investment objective and what counts as a "next generation internet" company. Look at the monthly or quarterly holdings list to see which companies ARK actually owns and whether you recognize them or understand what they do. Watch for overlap with other thematic ETFs — if ARKW holds the same companies as five other "growth" or "technology" ETFs, the active management isn't adding as much differentiation as it claims.
+Read the prospectus to understand the investment objective and what counts as a "next generation internet" company. Look at the monthly or quarterly holdings list to see which companies ARK actually owns and whether you recognize them or understand what they do. Watch for overlap with other [thematic ETFs](/thematic-etf/) — if ARKW holds the same companies as five other "growth" or "technology" ETFs, the active management isn't adding as much differentiation as it claims.
 
-Follow ARK Invest's research publications to understand the thinking behind individual bets. And be honest with yourself about how much market timing risk you can tolerate. ARKW is a bet on a secular theme, but it is not a buy-and-forget fund in a bull market.
+Follow ARK Invest's research publications to understand the thinking behind individual bets. And be honest with yourself about how much [market timing](/market-timing/) risk you can tolerate. ARKW is a bet on a secular theme, but it is not a buy-and-forget fund in a [bull market](/bull-market/).

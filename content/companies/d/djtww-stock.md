@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Trump Media & Technology Group is a media and technology company whose primary asset is Truth Social, a social media platform launched in 2021 as an alternative to Twitter and other mainstream social networks. The company has grown into a cultural and political focal point despite remaining tiny by the standards of the digital-media business, and it competes in a market where network effects — the tendency of a platform to become more valuable as more people use it — create overwhelming advantages for the largest incumbents.
+[Trump Media & Technology](/djt-stock/) Group is a media and technology company whose primary asset is Truth Social, a social media platform launched in 2021 as an alternative to Twitter and other mainstream social networks. The company has grown into a cultural and political focal point despite remaining tiny by the standards of the digital-media business, and it competes in a market where network effects — the tendency of a platform to become more valuable as more people use it — create overwhelming advantages for the largest incumbents.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ Trump Media & Technology Group is a media and technology company whose primary a
 
 ## The origin and the pitch
 
-Trump Media & Technology Group was incorporated as a framework to launch Truth Social, a platform conceived as a free-speech alternative to the content moderation decisions at mainstream social networks like Twitter, Facebook, and YouTube. The company went public through a merger with a special-purpose acquisition company (SPAC) in 2021, raising capital to build the platform and fund user acquisition.
+Trump Media & Technology Group was incorporated as a framework to launch Truth Social, a platform conceived as a free-speech alternative to the content moderation decisions at mainstream social networks like Twitter, Facebook, and YouTube. The company went public through a [merger](/merger/) with a [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC) in 2021, raising capital to build the platform and fund user [acquisition](/acquisition/).
 
 The appeal was direct: a social network where a particular political constituency felt it could speak without fear of moderation or deplatforming. In the months after Truth Social's launch, the platform attracted millions of accounts, many of them from people who had been suspended or banned from Twitter or other networks. However, signing up for an account and using the platform regularly are two different things, and the number of daily active users — the figure that determines whether a social platform is truly capturing attention and whether it can sell advertising — has remained orders of magnitude smaller than Twitter, Facebook, Instagram, or even newer rivals like Threads and Bluesky.
 
@@ -55,4 +55,4 @@ The most fundamental risk is network effects working in reverse. If users percei
 
 The company files regular reports with the SEC (CIK 0001849635) that lay out user metrics, revenue, operating costs, and cash burn. Anyone studying the investment should look at the monthly and quarterly active user figures and compare them to the company's capital expenditures and marketing spend — the question is whether each dollar spent is actually acquiring and retaining new users or merely financing a plateau.
 
-The earnings calls and investor presentations discuss the company's strategy for monetization and growth, though often in language more hopeful than concrete about a near-term path to profitability. Financial analysts who cover the company focus on cash runway — how long the current balance sheet can fund operations if revenue remains flat. The broader context is how other SPAC-backed media and technology companies have performed and what the fate of other alternative social networks suggests about the market for a fourth or fifth place in the social-media hierarchy.
+The earnings calls and investor presentations discuss the company's strategy for monetization and growth, though often in language more hopeful than concrete about a near-term path to profitability. Financial analysts who cover the company focus on cash runway — how long the current [balance sheet](/balance-sheet/) can fund operations if revenue remains flat. The broader context is how other SPAC-backed media and technology companies have performed and what the fate of other alternative social networks suggests about the market for a fourth or fifth place in the social-media hierarchy.

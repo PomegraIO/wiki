@@ -18,7 +18,7 @@ World Acceptance sits in the subprime segment of consumer finance—the business
 
 World Acceptance's model is rooted in branch banking. Customers walk into a local office, often in small towns or rural areas where traditional banks have thinned their branches or pulled out entirely. The company's loan officers assess creditworthiness, approve or decline, and then the company funds the loan and collects repayments. This hands-on, face-to-face approach has a cost: the company must maintain staffing and physical locations in order to originate loans and manage collections. That overhead is heavy relative to digital lenders who operate online, and it becomes harder to bear if the average loan size is small or repayment rates disappoint.
 
-The company makes money on the interest spread: the difference between what it costs to fund loans (borrowing or using equity capital) and what it charges customers. It also earns fees on origination and servicing. The margin is real—interest rates on subprime personal loans are substantially higher than [prime rates](/prime-rate/)—but it is constantly tested by loan losses and competition from other lenders, installment-plan providers, and credit cards.
+The company makes money on the interest spread: the difference between what it costs to fund loans (borrowing or using equity capital) and what it charges customers. It also earns fees on origination and servicing. The margin is [real—interest rates](/real-interest-rate/) on subprime personal loans are substantially higher than [prime rates](/prime-rate/)—but it is constantly tested by loan losses and competition from other lenders, installment-plan providers, and credit cards.
 
 ## Operating challenges in a commoditized market
 

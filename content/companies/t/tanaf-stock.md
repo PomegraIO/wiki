@@ -41,7 +41,7 @@ Investors in a Chinese enterprise-software company must contend with several str
 
 ## How can a reader research Tian'an Technology?
 
-The company's 10-K filing with the US Securities and Exchange Commission (SEC CIK 0001941189) is the primary source of disclosed information. Pay attention to the breakdown of revenue by customer type (government versus commercial) and by geography. Large shifts in the customer concentration or the loss of a major contract should be treated as serious red flags. The filing should also detail the company's exposure to export controls and foreign regulatory risk.
+The company's 10-K filing with the US [Securities and Exchange Commission](/securities-and-exchange-commission/) (SEC CIK 0001941189) is the primary source of disclosed information. Pay attention to the breakdown of revenue by customer type (government versus commercial) and by geography. Large shifts in the customer concentration or the loss of a major contract should be treated as serious red flags. The filing should also detail the company's exposure to export controls and foreign regulatory risk.
 
 The quarterly earnings calls and press releases offer management commentary on customer wins, government spending trends, and any regulatory changes affecting the business. Look for signs that the company is diversifying beyond its core government customer base, whether it is successfully selling internationally, and whether policy changes are affecting its market access.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-What if you owned Bitcoin not because you expected the price to soar, but because you wanted a steady, high income from it? That is the bet behind the NEOS Bitcoin High Income ETF (BTCI). The fund holds Bitcoin and employs a combination of leverage (borrowed money to increase the size of positions), short selling, and options to generate a high monthly payout. It is not for someone hoping Bitcoin will double in price. It is for someone who owns Bitcoin as a long-term holding and wants their Bitcoin to work for them by producing cash every month.
+What if you owned [Bitcoin](/bitcoin/) not because you expected the price to soar, but because you wanted a steady, high income from it? That is the bet behind the NEOS Bitcoin High [Income ETF](/income-etf/) (BTCI). The fund holds Bitcoin and employs a combination of leverage (borrowed money to increase the size of positions), [short selling](/short-selling/), and options to generate a high monthly payout. It is not for someone hoping Bitcoin will double in price. It is for someone who owns Bitcoin as a long-term holding and wants their Bitcoin to work for them by producing cash every month.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ What if you owned Bitcoin not because you expected the price to soar, but becaus
 
 ## How the income gets generated
 
-BTCI uses three main tools to squeeze income from Bitcoin. First, it holds Bitcoin directly. Second, it simultaneously sells call options on that Bitcoin — betting that the price will not rise above a certain strike price — and collects the premium. Third, it borrows Bitcoin at interest, sells it short, and pockets the income while betting the price will stay flat or fall, so it can buy the Bitcoin back cheaper later. The fund also uses leverage, meaning it borrows cash to amplify the size of its positions and magnify the income collected.
+BTCI uses three main tools to squeeze income from Bitcoin. First, it holds Bitcoin directly. Second, it simultaneously sells [call options](/call-option/) on that Bitcoin — betting that the price will not rise above a certain [strike price](/strike-price/) — and collects the premium. Third, it borrows Bitcoin at interest, sells it short, and pockets the income while betting the price will stay flat or fall, so it can buy the Bitcoin back cheaper later. The fund also uses leverage, meaning it borrows cash to amplify the size of its positions and magnify the income collected.
 
 Together, these moves produce a high income. Instead of just owning Bitcoin and hoping it appreciates (and receiving zero cash along the way), an investor in BTCI gets paid monthly — sometimes a lot. In good months, the payout can be 0.5 percent to 1 percent or more, which annualizes to 6 to 12 percent or higher. That sounds fantastic. And if the strategy works, it is. If it does not work, the losses are equally dramatic.
 
@@ -48,7 +48,7 @@ The leverage magnifies both the wins and the losses. If the strategy is working 
 
 ## The real catch: volatility can wreck this
 
-In a strong, steady Bitcoin bull market, where Bitcoin appreciates slowly and smoothly, BTCI can shine. The calls expire worthless every month, the shorts do not lose much because prices are rising only gradually, and the option premium and borrow income flow in steadily. The investor gets both the price appreciation and the income.
+In a strong, steady Bitcoin [bull market](/bull-market/), where Bitcoin appreciates slowly and smoothly, BTCI can shine. The calls expire worthless every month, the shorts do not lose much because prices are rising only gradually, and the [option premium](/option-premium/) and borrow income flow in steadily. The investor gets both the price appreciation and the income.
 
 But in a volatile or choppy market, BTCI suffers. If Bitcoin swings wildly, call options become more expensive (higher volatility means higher option prices), which sounds good for the seller, but it also means the calls are more likely to be struck, and the Bitcoin is called away, forcing the fund to close the position before it wants to. If Bitcoin rallies hard, the short positions lose money quickly, and the leverage amplifies the losses. If Bitcoin crashes, the long Bitcoin position loses value, the shorts gain (which hedges some of the loss), but the whole situation becomes volatile and losses can be severe.
 
@@ -58,7 +58,7 @@ Consider a month where Bitcoin rallies 15 percent. A holder of plain Bitcoin is 
 
 The biggest risk is distribution sustainability. If market conditions turn — volatility spikes, Bitcoin crashes, or the borrow-fee market dislocates — the income can evaporate or even turn negative. A fund offering a high monthly distribution today might slash it dramatically next month if the underlying strategy does not work.
 
-A second risk is leverage blow-up. In extreme moves, leverage can force liquidations. If Bitcoin crashes 30 percent in a week, the fund might be forced to sell Bitcoin at terrible prices to meet collateral requirements on its borrowed money. That amplifies losses beyond what the Bitcoin price alone would suggest.
+A second risk is leverage blow-up. In extreme moves, leverage can force [liquidations](/liquidation/). If Bitcoin crashes 30 percent in a week, the fund might be forced to sell Bitcoin at terrible prices to meet collateral requirements on its borrowed money. That amplifies losses beyond what the Bitcoin price alone would suggest.
 
 There is also timing risk. If you buy BTCI at a peak in option premium (when volatility is high), the income generated is attractive. But when volatility normalizes, the income drops. Many investors discovered this the hard way: they bought high-yielding crypto funds when volatility was elevated and skyrocketing, collected great distributions for a few months, and then watched the income collapse.
 
@@ -66,4 +66,4 @@ There is also timing risk. If you buy BTCI at a peak in option premium (when vol
 
 BTCI is for someone who is absolutely certain they will hold Bitcoin long-term (10 years-plus) and genuinely needs the monthly cash flow. It is for people with a 7-figure Bitcoin position who need to extract value without selling. It is not for people who hope Bitcoin will soar, because the capped upside is a real cost. It is not for anyone uncomfortable with volatility, because even if the income is high, the ride is bumpy. It is definitely not for someone saving up to buy Bitcoin for the first time — buy a plain Bitcoin ETF instead.
 
-Before buying, look at the fund's distribution history. Has the monthly payout been stable, or has it swung wildly? How much of the distribution is coming from realized gains (one-time, unsustainable) versus premium income (recurring)? Read NEOS's prospectus for the leverage level and the option strategy details. Run the math: if the fund's current yield is 10 percent and you buy now, but the yield drops to 3 percent next year, will the income loss hurt you? If the answer is yes, BTCI is too aggressive for you. Keep it simple and buy a plain Bitcoin ETF.
+Before buying, look at the fund's distribution history. Has the monthly payout been stable, or has it swung wildly? How much of the distribution is coming from realized gains (one-time, unsustainable) versus premium income (recurring)? Read NEOS's prospectus for the leverage level and the option strategy details. Run the math: if the fund's [current yield](/current-yield/) is 10 percent and you buy now, but the yield drops to 3 percent next year, will the income loss hurt you? If the answer is yes, BTCI is too aggressive for you. Keep it simple and buy a plain Bitcoin ETF.

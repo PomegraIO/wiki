@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Arrow Financial Corporation is a [bank holding company](/wiki/public-company/) rooted in the foothills of upstate New York, operating through two community-focused subsidiaries—Glens Falls [National Bank](/nbhc-stock/) and Trust Company and Saratoga National Bank and Trust Company—that trace back over a century and a half of lending in the region stretching from Albany north to the Canadian border.
+Arrow Financial Corporation is a [bank holding company](/wiki/public-company/) rooted in the foothills of upstate New York, operating through two community-focused subsidiaries—Glens Falls National Bank and Trust Company and Saratoga National Bank and Trust Company—that trace back over a century and a half of lending in the region stretching from Albany north to the Canadian border.
 
 The company's core business is straightforward but essential: it takes [deposits](/wiki/accounts-payable/) from individuals and small to mid-size businesses, then puts that capital to work through [commercial loans](/wiki/commercial-mortgage-backed-security/), [residential real estate](/residential-real-estate/) mortgages, [consumer installment loans](/wiki/accounts-receivable/), and other traditional banking products. Beyond lending, Arrow manages the flow of money through checking accounts, savings deposits, and time deposits. This deposit-taking-and-lending model is the foundation that every regional bank needs to survive.
 

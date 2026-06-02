@@ -20,7 +20,7 @@ handwritten: true
 
 </aside>
 
-Paymentus Holdings operates a critical piece of infrastructure that most people never think about: the system that lets you pay your electric bill, insurance premium, or credit card balance online or by phone. The company built a cloud platform that connects millions of customers to the organizations that bill them, processing payments across utilities, insurance companies, government agencies, and [financial institutions](/fisi-stock/).
+Paymentus Holdings operates a critical piece of infrastructure that most people never think about: the system that lets you pay your electric bill, insurance premium, or credit card balance online or by phone. The company built a cloud platform that connects millions of customers to the organizations that bill them, processing payments across utilities, insurance companies, government agencies, and financial institutions.
 
 ## The Business
 

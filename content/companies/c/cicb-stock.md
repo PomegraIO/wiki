@@ -24,14 +24,14 @@ keywords:
 
 </aside>
 
-*[CION Investment](/cion-stock/) Corp (ticker CICB) is a publicly traded [business development company](/special-purpose-acquisition-company/) (BDC), a regulatory category for [closed-end funds](/closed-end-fund/) that provide debt and equity capital to small and middle-market companies. The company does not operate or manage businesses; it deploys investor capital—borrowed and equity—into loans and equity stakes in private firms that cannot easily access public debt or equity markets. The BDC generates revenue from interest on loans and dividends or gains from equity investments, and it distributes most of that income to shareholders as dividends. The business model is financial intermediation: borrow at a known rate, lend at a higher rate, harvest the spread.*
+*[CION Investment](/cion-stock/) Corp (ticker CICB) is a publicly traded [business development company](/special-purpose-acquisition-company/) (BDC), a regulatory category for [closed-end funds](/closed-end-fund/) that provide debt and equity capital to small and middle-market companies. The company does not operate or manage businesses; it deploys investor capital—borrowed and equity—into loans and equity stakes in private firms that cannot easily access [public debt](/public-debt/) or equity markets. The BDC generates revenue from interest on loans and [dividends](/dividend/) or gains from equity investments, and it distributes most of that income to shareholders as dividends. The business model is financial intermediation: borrow at a known rate, lend at a higher rate, harvest the spread.*
 
 ## What BDCs Do
 
 A [business development company](/business-development-company/) is a congressionally chartered investment vehicle, established in 1980 to funnel capital to small businesses. A BDC is required to:
 
 - Invest at least 70% of its assets in private companies (companies not listed on major [stock exchanges](/stock-exchange/)) or related securities.
-- Be a closed-end fund, meaning shares are issued once and then trade on exchanges; no daily creation/redemption like an open-end mutual fund.
+- Be a closed-end fund, meaning shares are issued once and then trade on exchanges; no daily creation/redemption like an open-end [mutual fund](/mutual-fund/).
 - Make periodic [dividend distributions](/dividend-distribution/) to shareholders from investment income.
 - Operate under a manager (either internal staff or an external investment advisor), which takes a management fee and often a performance fee.
 - Comply with leverage limits: a BDC can borrow up to a certain amount relative to its equity base, creating leverage that magnifies returns (and risks).
@@ -43,7 +43,7 @@ CION Investment Corp is an externally managed BDC; its portfolio and operations 
 CION's portfolio consists of debt (secured and unsecured loans to private companies) and equity (minority stakes in private businesses). The debt is often "middle-market" lending: loans to companies with $20 million to $500 million in annual revenue that cannot tap [bond](/bond/) markets or traditional bank lending. These companies are growing, profitable or near-profitable, but not yet large or stable enough for public markets. Typical borrowers include:
 
 - Software or IT services firms
-- Healthcare and [healthcare services](/hcsg-stock/) (clinics, staffing, home health)
+- Healthcare and healthcare services (clinics, staffing, home health)
 - Industrial or niche manufacturing
 - Business services or staffing companies
 - Real estate (sometimes) or construction
@@ -62,9 +62,9 @@ BDCs are required to distribute most of their taxable income to shareholders ann
 
 ## Risk Factors Specific to CION
 
-**Leverage risk:** BDCs can borrow up to roughly 1:1 against equity (a 2x leverage ratio). This amplifies returns but also amplifies losses. If CION's portfolio declines 20% in value, a 2x levered portfolio loses 40% of equity value. In a recession, portfolio company defaults can spike, realized losses mount, and leverage becomes a liability.
+**Leverage risk:** BDCs can borrow up to roughly 1:1 against equity (a 2x leverage ratio). This amplifies returns but also amplifies losses. If CION's portfolio declines 20% in value, a 2x levered portfolio loses 40% of equity value. In a [recession](/recession/), portfolio company defaults can spike, realized losses mount, and leverage becomes a liability.
 
-**Portfolio company credit risk:** CION's investments are in private companies without the scale, stability, or financial reporting transparency of public firms. A portfolio company may underperform, struggle to refinance debt, or fail outright. CION has limited visibility into operations and minimal control; it is a lender or minority shareholder, not a manager.
+**Portfolio company [credit risk](/credit-risk/):** CION's investments are in private companies without the scale, stability, or financial reporting transparency of public firms. A portfolio company may underperform, struggle to refinance debt, or fail outright. CION has limited visibility into operations and minimal control; it is a lender or minority shareholder, not a manager.
 
 **Interest rate risk:** CION borrows at floating rates and lends at fixed or floating rates. A sharp rise in short-term [interest rates](/interest-rate/) increases the cost of borrowing faster than lending rates adjust, compressing the spread. Conversely, rising rates may increase defaults among portfolio companies carrying variable-rate debt.
 
@@ -76,7 +76,7 @@ BDCs are required to distribute most of their taxable income to shareholders ann
 
 ## How BDCs Compare
 
-CION is one of dozens of publicly traded BDCs. Other large and well-known names include [Ares Capital](/arcc-stock/), [Gladstone Capital](/glad-stock/), and Golub Capital. Some BDCs are specialized (focusing on energy, healthcare, or technology), while others are generalists. CION is a mid-sized generalist BDC. Comparison across BDCs reveals significant differences: [leverage ratios](/leverage-ratio-forex/), portfolio composition, management fees, and historical dividend sustainability. Some BDCs maintain stable dividends through market cycles; others cut dividends sharply in downturns. CION's relative dividend yield and distribution history are key metrics for evaluating it against peers.
+CION is one of dozens of publicly traded BDCs. Other large and well-known names include Ares Capital, Gladstone Capital, and Golub Capital. Some BDCs are specialized (focusing on energy, healthcare, or technology), while others are generalists. CION is a mid-sized generalist BDC. Comparison across BDCs reveals significant differences: [leverage ratios](/leverage-ratio-forex/), portfolio composition, management fees, and historical dividend sustainability. Some BDCs maintain stable dividends through market cycles; others cut dividends sharply in downturns. CION's relative dividend yield and distribution history are key metrics for evaluating it against peers.
 
 ## Tracking the Business
 

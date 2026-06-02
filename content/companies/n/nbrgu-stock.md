@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Newbridge Acquisition Ltd is a blank-check company (SPAC), and NBRGU represents the company's trading unit. A unit is a bundled security: one share plus one-eighth of a right, packaged together. When you buy NBRGU, you are buying the bundle. Later, when the company separates its securities (which happened in March 2026 for Newbridge), the unit can be unbundled, and the share trades separately as NBRG and the rights trade as NBRGR. The unit itself continues to trade as long as the merger has not closed.
+Newbridge [Acquisition](/acquisition/) Ltd is a blank-check company (SPAC), and NBRGU represents the company's trading unit. A unit is a bundled security: one share plus one-eighth of a right, packaged together. When you buy NBRGU, you are buying the bundle. Later, when the company separates its securities (which happened in March 2026 for Newbridge), the unit can be unbundled, and the share trades separately as NBRG and the rights trade as NBRGR. The unit itself continues to trade as long as the [merger](/merger/) has not closed.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,11 +34,11 @@ The right is a warrant-like instrument. It says: when a merger is announced and 
 
 ## What happens at separation
 
-When Newbridge announced its intention to merge or when business combinations became imminent, the company separated its units into the underlying shares and rights, which happened on March 23, 2026. After separation:
+When Newbridge announced its intention to merge or when [business combinations](/business-combination-purchase/) became imminent, the company separated its units into the underlying shares and rights, which happened on March 23, 2026. After separation:
 
 — NBRGU (the unit) continued to trade, but investors who wanted to separate their units could do so.
 
-— NBRG (the Class A share) trades on Nasdaq. This is the equity stake in the SPAC.
+— NBRG (the Class A share) trades on [Nasdaq](/nasdaq/). This is the equity stake in the SPAC.
 
 — NBRGR (the rights) trade separately. One right is worth one-eighth of a share purchase; eight rights allow you to buy one share at the warrant price.
 
@@ -62,11 +62,11 @@ The $57.5 million Newbridge raised went into a trust account, subject to regulat
 
 For unitholders, this created a redemption option: if Newbridge announced a merger and the stock price fell (because investors did not like the target), unitholders could vote to redeem their units for a pro-rata share of the trust account, recovering approximately $10 (minus a small amount deducted for expenses).
 
-This redemption right is economically powerful. It means a SPAC shareholder is effectively long the underlying merger target, but with a put option: if the merger is terrible, you can force the company to give you your money back. This downside protection is the main reason SPAC units are less risky than, say, a small-cap stock IPO.
+This redemption right is economically powerful. It means a SPAC shareholder is effectively long the underlying merger target, but with a [put option](/put-option/): if the merger is terrible, you can force the company to give you your money back. This downside protection is the main reason SPAC units are less risky than, say, a small-cap stock IPO.
 
 ## The sponsor's interest in closing
 
-Yongsheng Liu and the sponsor investors own founder shares (typically 20% of the company) for minimal cost. They make money only if (1) the merger closes and (2) the resulting public company appreciates. This creates a strong incentive to find and close a deal. By the time the deadline approached, that incentive would intensify.
+Yongsheng Liu and the sponsor investors own [founder shares](/founder-shares/) (typically 20% of the company) for minimal cost. They make money only if (1) the merger closes and (2) the resulting public company appreciates. This creates a strong incentive to find and close a deal. By the time the deadline approached, that incentive would intensify.
 
 If Newbridge fails to close a merger within its charter period (often two years), it must liquidate and return the trust account to public shareholders. The sponsors' founder shares become worthless. This is why the sponsor's incentive to close a deal can outweigh the quality of the target — they have everything to gain from any deal and everything to lose from no deal.
 
@@ -74,6 +74,6 @@ If Newbridge fails to close a merger within its charter period (often two years)
 
 Treat a SPAC unit as a conditional bet on (1) the SPAC's execution — does the sponsor have a track record of finding and closing good deals? — and (2) the announced target, once it becomes public. The prospectus and the proxy statement filed when a merger is announced will contain everything you need to assess the target.
 
-If units are still trading pre-merger, they are worth approximately $10 (the redemption value) plus any time value investors place on the upside if the merger and business succeed. If the stock is trading at $9.50, the unit is trading at a discount, perhaps because the announced merger target is mediocre. If it is trading at $11, the market believes the merger and the business are good bets.
+If units are still trading pre-merger, they are worth approximately $10 (the redemption value) plus any [time value](/time-value/) investors place on the upside if the merger and business succeed. If the stock is trading at $9.50, the unit is trading at a discount, perhaps because the announced merger target is mediocre. If it is trading at $11, the market believes the merger and the business are good bets.
 
 Once a target is announced, the economics change. The unit becomes two components: a share in a quasi-public company (the SPAC) that will merge with the target, and a right to buy more. At that point, traditional stock analysis applies: what is the target's business, market, and valuation?

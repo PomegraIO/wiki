@@ -36,7 +36,7 @@ The software segment carries SaaS economics: high gross margins (70–80%) becau
 
 ## Customer Concentration and Switching Risk
 
-Five9's customer base is concentrated among large enterprises—Fortune 500 companies, [financial institutions](/fisi-stock/), telecommunications carriers, utilities. These customers deploy Five9's platform to handle millions of customer interactions per quarter. A single large customer (say, a major bank) might represent 5–10% of Five9's revenue. Losing such a customer to a competitor or a customer building in-house means a sharp revenue drop and margin compression as fixed costs (R&D, overhead) stay flat.
+Five9's customer base is concentrated among large enterprises—Fortune 500 companies, financial institutions, telecommunications carriers, utilities. These customers deploy Five9's platform to handle millions of customer interactions per quarter. A single large customer (say, a major bank) might represent 5–10% of Five9's revenue. Losing such a customer to a competitor or a customer building in-house means a sharp revenue drop and margin compression as fixed costs (R&D, overhead) stay flat.
 
 Customers evaluate contact-center platforms every 3–5 years. Switching involves significant costs: retraining staff, integrating the new platform into IT infrastructure, and managing a migration period where two systems operate in parallel. These switching costs are real but not insurmountable. If a competitor (Amazon Connect, Genesys, Avaya) offers better pricing, features, or customer support, the customer will bear the switching cost.
 

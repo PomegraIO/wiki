@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Rigetti Computing, Inc. (NASDAQ: RGTI; warrant: RGTIW) designs and manufactures superconducting quantum processors and builds the quantum computers that house them. Unlike classical computers, which process information as ones and zeros, quantum computers exploit the properties of quantum mechanics to perform certain types of calculations exponentially faster. Rigetti's mission is to build practical quantum computers and make them accessible via the cloud, allowing researchers and enterprises to run quantum algorithms without owning hardware.
+[Rigetti Computing](/rgti-stock/), Inc. ([NASDAQ](/nasdaq/): RGTI; warrant: RGTIW) designs and manufactures superconducting quantum processors and builds the quantum computers that house them. Unlike classical computers, which process information as ones and zeros, quantum computers exploit the properties of quantum mechanics to perform certain types of calculations exponentially faster. Rigetti's mission is to build practical quantum computers and make them accessible via the cloud, allowing researchers and enterprises to run quantum algorithms without owning hardware.
 
 > Quantum computing is not a business yet — it is a technology racing toward a business. Rigetti is betting the company that the race matters.
 

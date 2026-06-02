@@ -50,7 +50,7 @@ This positioning is also supply-chain resilience. Cell therapies are manufacture
 
 The company reported net sales of $54.2 million in 2024, up from $22.8 million in 2023 — a 138 percent increase driven by contract manufacturing. This is still a very early-stage revenue base; for context, most biopharmaceutical companies at this stage of pipeline development carry minimal revenue. Celularity's revenue growth is noteworthy because it shows the contract business is scaling.
 
-The company is not profitable. It is burning cash on research and development for its proprietary pipeline, ongoing clinical trials, and facility operations. Most of its cash has come from an initial public offering and subsequent capital raises. Without a marketed product of its own, Celularity depends on continued access to capital and on its contract-manufacturing revenue to extend cash runway.
+The company is not profitable. It is burning cash on research and development for its proprietary pipeline, ongoing clinical trials, and facility operations. Most of its cash has come from an [initial public offering](/initial-public-offering/) and subsequent capital raises. Without a marketed product of its own, Celularity depends on continued access to capital and on its contract-manufacturing revenue to extend cash runway.
 
 ## Risks and pressures
 

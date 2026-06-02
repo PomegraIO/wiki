@@ -28,7 +28,7 @@ P3 Health Partners is an operator of primary care physician practices across mul
 
 For decades, American primary care has been built on a simple but perverse incentive: physicians are paid per visit, per test, per procedure — more care generates more revenue, regardless of whether the patient gets better. That arrangement has led to fragmentation, over-testing, unnecessary referrals, and enormous waste. P3 was founded on a different premise: that physicians and care teams, given the right tools and financial incentives, will coordinate care more tightly, avoid duplicative testing, catch complications early, and keep patients out of the hospital.
 
-This is not a new idea — accountable care organizations and capitated payment models have existed in [American healthcare](/ahr-stock/) for decades — but it remains a minority of how care is actually paid for. P3's wager is that health insurers and health systems will increasingly shift from fee-for-service to value-based contracts, and that operators with scale, technology, and physician leadership can thrive in that transition.
+This is not a new idea — accountable care organizations and capitated payment models have existed in American healthcare for decades — but it remains a minority of how care is actually paid for. P3's wager is that health insurers and health systems will increasingly shift from fee-for-service to value-based contracts, and that operators with scale, technology, and physician leadership can thrive in that transition.
 
 ## How the practice management model works
 

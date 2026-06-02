@@ -33,7 +33,7 @@ BIOLIFE's revenue is ultimately tied to the pace of cell-therapy adoption. As mo
 
 ## Competitive Positioning Within a Growing Market
 
-BIOLIFE competes with smaller niche providers and with larger life-sciences suppliers (Thermo Fisher, Lonza, Merck KGaA) that offer overlapping products. Larger competitors have deeper pockets and broader portfolios but may not have specialized expertise in cell preservation. BIOLIFE's advantage is focused innovation in biopreservation and accumulated customer relationships in the cell-therapy ecosystem. However, larger players could invest in [acquisition](/acquisition/) or in-house development to enter this space more aggressively. BIOLIFE's path to sustainable competitive advantage is to maintain technical leadership in preservation science and to deepen integration with cell-therapy manufacturers through service-based relationships.
+BIOLIFE competes with smaller niche providers and with larger life-sciences suppliers (Thermo Fisher, Lonza, [Merck](/mrk-stock/) KGaA) that offer overlapping products. Larger competitors have deeper pockets and broader portfolios but may not have specialized expertise in cell preservation. BIOLIFE's advantage is focused innovation in biopreservation and accumulated customer relationships in the cell-therapy ecosystem. However, larger players could invest in [acquisition](/acquisition/) or in-house development to enter this space more aggressively. BIOLIFE's path to sustainable competitive advantage is to maintain technical leadership in preservation science and to deepen integration with cell-therapy manufacturers through service-based relationships.
 
 ## Manufacturing and Scale Economics
 

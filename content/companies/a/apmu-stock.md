@@ -12,11 +12,11 @@ keywords:
 handwritten: true
 ---
 
-What is a municipal bond and why does APMU exist to hold them?
+What is a [municipal bond](/municipal-bond/) and why does APMU exist to hold them?
 
-A municipal bond is a debt security issued by a state, city, or other local government to fund infrastructure, schools, hospitals, and public services. When you buy a muni bond, you are lending money to that government and receiving interest in return. The defining feature of municipal bonds, at least for U.S. taxpayers, is that the interest you receive is generally exempt from federal income tax and often exempt from state and local taxes as well. This tax advantage makes munis attractive to investors in higher tax brackets, where the after-tax yield of a muni can exceed that of a taxable bond despite a lower headline interest rate.
+A municipal [bond](/bond/) is a debt security issued by a state, city, or other local government to fund infrastructure, schools, hospitals, and public services. When you buy a muni bond, you are lending money to that government and receiving interest in return. The defining feature of municipal bonds, at least for U.S. taxpayers, is that the interest you receive is generally exempt from federal income tax and often exempt from state and local taxes as well. This tax advantage makes munis attractive to investors in higher tax brackets, where the after-tax yield of a muni can exceed that of a taxable bond despite a lower headline [interest rate](/interest-rate/).
 
-ActivePassive Intermediate Municipal Bond ETF (APMU) is an exchange-traded fund that holds a portfolio of intermediate-term municipal bonds — bonds with remaining maturity of roughly five to fifteen years — from issuers across the United States. The fund aims to provide diversified exposure to this asset class while generating tax-free income for shareholders.
+ActivePassive Intermediate Municipal [Bond ETF](/bond-etf/) (APMU) is an exchange-traded fund that holds a portfolio of intermediate-term municipal bonds — bonds with remaining maturity of roughly five to fifteen years — from issuers across the United States. The fund aims to provide diversified exposure to this asset class while generating tax-free income for shareholders.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,13 +33,13 @@ ActivePassive Intermediate Municipal Bond ETF (APMU) is an exchange-traded fund 
 
 How does the blended management approach work?
 
-ActivePassive Investments, the fund's sponsor, manages APMU using a hybrid approach that combines elements of active and passive investing. The fund likely maintains a core holding that closely mirrors a published municipal bond index, ensuring broad diversification and low costs. Overlaid on top of that passive core is a smaller active allocation where the fund's managers make discretionary decisions about which bonds to overweight or underweight based on their assessment of credit quality, relative value, and market conditions.
+ActivePassive Investments, the fund's sponsor, manages APMU using a hybrid approach that combines elements of active and passive investing. The fund likely maintains a core holding that closely mirrors a published municipal bond index, ensuring broad [diversification](/diversification/) and low costs. Overlaid on top of that passive core is a smaller active allocation where the fund's managers make discretionary decisions about which bonds to overweight or underweight based on their assessment of credit quality, relative value, and market conditions.
 
 This hybrid method aims to deliver most of the cost efficiency of a purely passive fund — which simply buys all bonds in an index and holds them — while preserving the ability to enhance returns slightly by identifying mispriced bonds or avoiding deteriorating credits. Whether the active overlay actually delivers value net of its fees is debatable; many investors might be just as well served by a purely passive municipal bond fund at a lower cost.
 
 What bonds does APMU hold?
 
-The fund holds a diversified collection of municipal bonds from issuers across the United States. The portfolio includes both general obligation bonds, backed by the full taxing power of the issuing government, and revenue bonds, secured only by revenue from a specific project or facility like a toll road or a water utility. The range of issuers — from major states and large cities to smaller municipalities and authorities — provides diversification across geography and issuer risk.
+The fund holds a diversified collection of municipal bonds from issuers across the United States. The portfolio includes both [general obligation bonds](/general-obligation-bond/), backed by the full taxing power of the issuing government, and [revenue bonds](/revenue-bond/), secured only by revenue from a specific project or facility like a toll road or a water utility. The range of issuers — from major states and large cities to smaller municipalities and authorities — provides diversification across geography and issuer risk.
 
 The intermediate maturity focus means the fund is not exposed to the largest interest-rate swings that long-maturity bonds experience, but it is still subject to meaningful duration risk. If interest rates rise, bond prices fall, and a fund with five to fifteen years of maturity will see noticeable declines.
 
@@ -53,11 +53,11 @@ APMU is therefore most attractive to higher-income individuals and professionals
 
 What are the risks in owning APMU?
 
-The most straightforward risk is interest-rate risk. If the Federal Reserve raises rates, the value of existing bonds with lower coupons falls because new bonds are more attractive. A fund holding intermediate bonds will experience moderate but real declines in a rising-rate environment. Conversely, if rates fall, APMU benefits from price appreciation.
+The most straightforward risk is [interest-rate risk](/interest-rate-risk/). If the [Federal Reserve](/federal-reserve/) raises rates, the value of existing bonds with lower coupons falls because new bonds are more attractive. A fund holding intermediate bonds will experience moderate but real declines in a rising-rate environment. Conversely, if rates fall, APMU benefits from price appreciation.
 
-Credit risk is also real. A few municipal bonds default each year; most are high-quality, but a fund holding hundreds of bonds across different issuers will have some exposure to the risk that an issuer faces financial distress or fiscal mismanagement. APMU's diversification reduces the impact of any single default, but the risk is not zero.
+[Credit risk](/credit-risk/) is also real. A few municipal bonds default each year; most are high-quality, but a fund holding hundreds of bonds across different issuers will have some exposure to the risk that an issuer faces financial distress or fiscal mismanagement. APMU's diversification reduces the impact of any single default, but the risk is not zero.
 
-Liquidity is another consideration. Municipal bonds trade less frequently than stocks or Treasuries, and in certain market conditions the bid-ask spreads widen and it can be difficult to exit positions quickly. APMU itself is likely liquid because it trades on an exchange, but the underlying bonds held by the fund are less liquid.
+Liquidity is another consideration. Municipal bonds trade less frequently than stocks or Treasuries, and in certain market conditions the [bid-ask spreads](/bid-ask-spread/) widen and it can be difficult to exit positions quickly. APMU itself is likely liquid because it trades on an exchange, but the underlying bonds held by the fund are less liquid.
 
 Finally, there is longevity risk. If you own a bond with a stated maturity of ten years, you are committing capital for that decade. If your circumstances change and you need the money sooner, or if you want to reallocate to a different asset class, you face the risk of selling at an unfavorable price if rates have risen.
 
@@ -65,8 +65,8 @@ How should an investor research APMU?
 
 An investor considering APMU should first confirm whether munis align with their tax situation. Run the math: compare the after-tax yield of APMU to that of a comparable taxable bond fund. If the after-tax yield is higher and you are comfortable with the credit and interest-rate risks, munis deserve a place in your portfolio.
 
-Read the fund's factsheet, which lists the average maturity, credit quality distribution, and yield. Confirm the expense ratio and compare it to competing intermediate muni ETFs. Look at the largest holdings to get a sense of which issuers dominate the fund.
+Read the fund's factsheet, which lists the average maturity, credit quality distribution, and yield. Confirm the [expense ratio](/expense-ratio/) and compare it to competing intermediate muni ETFs. Look at the largest holdings to get a sense of which issuers dominate the fund.
 
-Because APMU uses a blended approach, also examine whether the active overlay has historically added value after fees. A simple comparison: has APMU outperformed a purely passive intermediate muni index fund over the past three to five years, accounting for the difference in expense ratios?
+Because APMU uses a blended approach, also examine whether the active overlay has historically added value after fees. A simple comparison: has APMU outperformed a purely passive intermediate muni [index fund](/index-fund/) over the past three to five years, accounting for the difference in expense ratios?
 
 Finally, understand the fund's behavior in rising-rate environments. A five-year performance history showing how APMU performed when the Fed was tightening will illustrate the interest-rate sensitivity you can expect.

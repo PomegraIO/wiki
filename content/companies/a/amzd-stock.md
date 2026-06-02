@@ -15,7 +15,7 @@ The Direxion Daily AMZN Bear 1X ETF (AMZD) is an inverse exchange-traded fund th
 
 ## Why an inverse fund exists
 
-An investor who believes Amazon will decline over the next few days might buy AMZD as a way to profit from that view without borrowing shares (short selling) or navigating margin rules. Instead of calling a broker and borrowing AMZN to short, an investor can simply buy AMZD shares on any stock exchange during market hours, just like buying any other ETF. It is also useful for hedging: an investor who owns a large position in Amazon but fears a near-term pullback might buy AMZD to offset losses, creating a temporary hedge without altering their long-term conviction.
+An investor who believes Amazon will decline over the next few days might buy AMZD as a way to profit from that view without borrowing shares ([short selling](/short-selling/)) or navigating margin rules. Instead of calling a [broker](/broker/) and borrowing AMZN to short, an investor can simply buy AMZD shares on any [stock exchange](/stock-exchange/) during market hours, just like buying any other ETF. It is also useful for hedging: an investor who owns a large position in Amazon but fears a near-term pullback might buy AMZD to offset losses, creating a temporary hedge without altering their long-term conviction.
 
 ## How inverse funds work mechanically
 
@@ -29,22 +29,22 @@ The longer AMZD is held, the worse this decay typically becomes. A trader using 
 
 ## Sponsorship and when AMZD launched
 
-Direxion Shares issues AMZD, part of the firm's suite of single-stock inverse products. The fund launched in 2019 to fill demand from traders wanting quick, exchange-traded access to short exposure on one of the world's largest stocks without the operational burden of maintaining a margin account or borrowing shares. The expense ratio is roughly 1.08% annually, in line with other leveraged and inverse single-stock ETFs from Direxion.
+Direxion Shares issues AMZD, part of the firm's suite of single-stock inverse products. The fund launched in 2019 to fill demand from traders wanting quick, exchange-traded access to short exposure on one of the world's largest stocks without the operational burden of maintaining a margin account or borrowing shares. The [expense ratio](/expense-ratio/) is roughly 1.08% annually, in line with other leveraged and inverse single-stock ETFs from Direxion.
 
 ## Liquidity and costs
 
-AMZD trades on NYSE Arca with typical daily volume in the range of 50,000 to 150,000 shares, providing adequate liquidity for retail and small institutional traders to enter and exit without moving the price dramatically. The bid-ask spread is usually tight (pennies) during regular hours, making intra-day trading practical. The expense ratio covers the cost of maintaining derivatives and daily rebalancing.
+AMZD trades on NYSE Arca with typical daily volume in the range of 50,000 to 150,000 shares, providing adequate liquidity for retail and small institutional traders to enter and exit without moving the price dramatically. The [bid-ask spread](/bid-ask-spread/) is usually tight (pennies) during regular hours, making intra-day trading practical. The expense ratio covers the cost of maintaining derivatives and daily rebalancing.
 
 ## Who uses AMZD and why
 
 Traders use AMZD for tactical bearish bets when they expect Amazon to decline over a few hours or days. Institutional investors sometimes use it for temporary hedges — if a portfolio holds significant Amazon stock and management fears a near-term market shock, buying AMZD provides a quick offset without selling the long position. Some traders use it as a component of pair trades: long a competitor of Amazon's while short Amazon via AMZD, betting on relative performance. Retail hedgers also use it for insurance against holdings they want to keep long-term but worry about near-term drawdowns.
 
-AMZD is not suitable for buy-and-hold investing. Anyone holding AMZD for weeks expecting Amazon to decline will likely be disappointed by the volatility decay, especially if Amazon's movement is choppy rather than unidirectional. Over such periods, directly shorting Amazon stock or buying a put option would likely prove cheaper.
+AMZD is not suitable for buy-and-hold investing. Anyone holding AMZD for weeks expecting Amazon to decline will likely be disappointed by the volatility decay, especially if Amazon's movement is choppy rather than unidirectional. Over such periods, directly shorting Amazon stock or buying a [put option](/put-option/) would likely prove cheaper.
 
 ## Real risks
 
-Beyond volatility decay, AMZD carries the risk of Amazon having a gap move overnight (opening far below the previous close) that AMZD cannot profit from until the next trading session — gaps can happen during earnings announcements or unexpected news. Because AMZD is a derivative product, there is also counterparty risk, though Direxion is large and well-capitalized, minimizing but not eliminating this concern. Finally, if Amazon becomes extremely bullish and rises steadily, holders of AMZD simply lose money in a straightforward way; the 1X inverse multiplier means losses are proportional to the underlying move, and there is no recovery if the thesis is wrong.
+Beyond volatility decay, AMZD carries the risk of Amazon having a gap move overnight (opening far below the previous close) that AMZD cannot profit from until the next trading session — gaps can happen during earnings announcements or unexpected news. Because AMZD is a derivative product, there is also [counterparty risk](/counterparty-risk/), though Direxion is large and well-capitalized, minimizing but not eliminating this concern. Finally, if Amazon becomes extremely bullish and rises steadily, holders of AMZD simply lose money in a straightforward way; the 1X inverse multiplier means losses are proportional to the underlying move, and there is no recovery if the thesis is wrong.
 
 ## Research and use
 
-Anyone considering AMZD should read the prospectus, which clearly states the daily reset mechanism and includes worked examples of how inverse funds decay in ranging markets. Direxion's fact sheet shows the expense ratio, the benchmark (Amazon stock returns inverted), and historical volatility. Before using AMZD, a trader should define a clear time horizon — hours or a few days at most — and have a specific thesis about near-term Amazon weakness. Beyond that window, the math of daily rebalancing works against the position.
+Anyone considering AMZD should read the prospectus, which clearly states the daily reset mechanism and includes worked examples of how inverse funds decay in ranging markets. Direxion's fact sheet shows the expense ratio, the benchmark (Amazon stock returns inverted), and [historical volatility](/historical-volatility/). Before using AMZD, a trader should define a clear time horizon — hours or a few days at most — and have a specific thesis about near-term Amazon weakness. Beyond that window, the math of daily rebalancing works against the position.

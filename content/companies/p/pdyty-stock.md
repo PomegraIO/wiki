@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-PDYTY is the American Depositary Receipt for PT Dayamitra Telekomunikasi Tbk, an Indonesian telecom infrastructure company. Over-the-counter ticker. Core operation: managing and leasing transmission towers, fiber infrastructure, and providing connectivity services across Indonesia. The business sits in the middle of Indonesia's telecom stack — not a retail carrier like Telkomsel or Indosat, but a critical piece of infrastructure that those carriers depend on.
+PDYTY is the [American Depositary Receipt](/adr/) for PT Dayamitra Telekomunikasi Tbk, an Indonesian telecom infrastructure company. Over-the-counter ticker. Core operation: managing and leasing transmission towers, fiber infrastructure, and providing connectivity services across Indonesia. The business sits in the middle of Indonesia's telecom stack — not a retail carrier like Telkomsel or Indosat, but a critical piece of infrastructure that those carriers depend on.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,7 +41,7 @@ Lease fees from carriers who co-locate their equipment on Dayamitra's towers. Re
 
 ## Capital intensity and growth limitations
 
-Building towers and fiber is capital-intensive. Right-of-way acquisition, land deals, zoning approvals, physical construction. Growth is constrained by capital availability and the pace of carrier demand. Dayamitra must invest continuously to stay competitive and to serve geographic expansion. This limits free cash flow available for dividends or buybacks.
+Building towers and fiber is capital-intensive. Right-of-way [acquisition](/acquisition/), land deals, zoning approvals, physical construction. Growth is constrained by capital availability and the pace of carrier demand. Dayamitra must invest continuously to stay competitive and to serve geographic expansion. This limits [free cash flow](/free-cash-flow/) available for [dividends](/dividend/) or buybacks.
 
 Geographic footprint. Dayamitra operates primarily in Indonesia. Some regional work, but the addressable market is bounded by Indonesia's borders and telecom spend. Unlike tower companies in developed markets (where they operate across multiple countries), Dayamitra is geographically concentrated. This is both a strength (deep knowledge and relationships in Indonesia) and a risk (no hedge against Indonesia-specific economic slowdown or political disruption).
 
@@ -69,7 +69,7 @@ Capex and free cash flow. Is the company investing for growth or harvesting cash
 
 ## How to research
 
-SEC filing (CIK 0002032887) for segment breakdown, customer concentration, and capex guidance. Annual reports explain strategy and competitive position.
+SEC filing (CIK 0002032887) for segment breakdown, customer concentration, and capex guidance. [Annual reports](/10-k/) explain strategy and competitive position.
 
 Telecom research on Indonesia. How fast is 5G rolling out? What are carrier capex plans? When are contract renewals? These shape demand for Dayamitra's services.
 

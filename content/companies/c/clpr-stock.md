@@ -45,7 +45,7 @@ Clipper must maintain REIT status by adhering to strict rules: holding real esta
 
 ## Why Clipper Matters in the REIT Ecosystem
 
-Small-cap REITs like Clipper fill a specific niche: they own properties that mega-REITs ([Realty Income](/o-stock/), Welltower, Prologis) would ignore as too small or low-yield. This can be an advantage—less competition, potential for operational improvements—or a disadvantage—limited access to capital, higher financing costs, and vulnerability to single-property or single-tenant shocks. Clipper's durability depends on disciplined underwriting (buying quality properties at fair prices) and efficient property management. The company's SEC filings are the authoritative source on portfolio composition, financial condition, and competitive positioning within its niche.
+Small-cap REITs like Clipper fill a specific niche: they own properties that mega-REITs (Realty Income, Welltower, Prologis) would ignore as too small or low-yield. This can be an advantage—less competition, potential for operational improvements—or a disadvantage—limited access to capital, higher financing costs, and vulnerability to single-property or single-tenant shocks. Clipper's durability depends on disciplined underwriting (buying quality properties at fair prices) and efficient property management. The company's SEC filings are the authoritative source on portfolio composition, financial condition, and competitive positioning within its niche.
 
 <div class="wiki-seealso">
 ### Closely related

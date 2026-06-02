@@ -45,7 +45,7 @@ The advertising model itself faces structural challenges. Advertisers, particula
 
 ## BAT token supply and economics
 
-BAT is an ERC-20 token on the Ethereum blockchain with a fixed total supply. Initially, Brave conducted a token sale that raised funds for development, and a percentage of tokens was retained by the Brave team. As the ecosystem grew, BAT has been earned through user rewards and publisher participation. The token can be traded on cryptocurrency exchanges independently of the Brave ecosystem, which creates a price discovery mechanism but also exposes the token to general cryptocurrency market sentiment and liquidity conditions, potentially creating divergence between the "intrinsic" value from ecosystem usage and market-driven price volatility.
+BAT is an ERC-20 token on the [Ethereum](/ethereum/) blockchain with a fixed total supply. Initially, Brave conducted a token sale that raised funds for development, and a percentage of tokens was retained by the Brave team. As the ecosystem grew, BAT has been earned through user rewards and publisher participation. The token can be traded on [cryptocurrency exchanges](/cryptocurrency-exchange/) independently of the Brave ecosystem, which creates a [price discovery](/price-discovery/) mechanism but also exposes the token to general cryptocurrency market sentiment and liquidity conditions, potentially creating divergence between the "intrinsic" value from ecosystem usage and market-driven price volatility.
 
 ## Revenue model and sustainability questions
 
@@ -55,7 +55,7 @@ The tension is inherent: users want larger rewards, publishers want larger payou
 
 ## Holding the trust
 
-GBAT shareholders hold a proportional claim on the BAT tokens in Grayscale's custody. The share price tracks the BAT token price minus the trust's fees and operating costs. Like other Grayscale trusts, GBAT trades on OTC markets with less liquidity and tighter tracking than ETF-structured vehicles. The closed-end structure means shares can trade at a premium or discount to net asset value depending on market demand. Investors should consider whether they prefer direct exposure to BAT tokens (via a cryptocurrency exchange) or indirect exposure through a trust (which adds fees but provides custody and tax-deferred account eligibility).
+GBAT shareholders hold a proportional claim on the BAT tokens in Grayscale's custody. The share price tracks the BAT token price minus the trust's fees and operating costs. Like other Grayscale trusts, GBAT trades on OTC markets with less liquidity and tighter tracking than ETF-structured vehicles. The closed-end structure means shares can trade at a premium or discount to [net asset value](/net-asset-value/) depending on market demand. Investors should consider whether they prefer direct exposure to BAT tokens (via a cryptocurrency exchange) or indirect exposure through a trust (which adds fees but provides custody and tax-deferred account eligibility).
 
 ## Tracking BAT ecosystem health
 

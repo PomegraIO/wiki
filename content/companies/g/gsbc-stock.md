@@ -37,7 +37,7 @@ Great Southern's profitability depends on the mix of loans in its portfolio. A p
 
 Beyond the spread, banks earn fees: checking-account monthly fees, overdraft fees, ATM fees, loan-origination fees, wealth [management fees](/management-fee/), insurance commissions. These fees are "non-interest income" and they improve unit economics by adding revenue beyond the spread. A bank that earns 3% NIM on $1 billion in earning assets ($30 million) but also earns $10 million in non-interest income has total net operating revenue of $40 million.
 
-However, non-interest income is increasingly pressured: online banks have eliminated monthly checking fees, and regulators scrutinize overdraft fees. For a community bank like Great Southern, non-interest income is harder to scale than for a large [national bank](/nbhc-stock/) because the customer base is smaller and less profitable customers pay fewer fees.
+However, non-interest income is increasingly pressured: online banks have eliminated monthly checking fees, and regulators scrutinize overdraft fees. For a community bank like Great Southern, non-interest income is harder to scale than for a large national bank because the customer base is smaller and less profitable customers pay fewer fees.
 
 ## Rate Environment and Reinvestment Risk
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The Voya Asia Pacific High Dividend Equity Income Fund — trading under the ticker **IAE** on the [New York Stock Exchange](/new-york-stock-exchange/) — is a closed-end investment fund that pools capital to buy dividend-paying stocks from companies in the Asia-Pacific region. Like all [closed-end funds](/closed-end-fund/), it issues a fixed number of shares that trade on an exchange; unlike open-ended [mutual funds](/mutual-fund/), new investors cannot buy new shares directly from the fund, only from existing holders.*
+*The Voya Asia Pacific High [Dividend](/dividend/) Equity [Income Fund](/income-fund/) — trading under the ticker **IAE** on the [New York Stock Exchange](/new-york-stock-exchange/) — is a closed-end investment fund that pools capital to buy dividend-paying stocks from companies in the Asia-Pacific region. Like all [closed-end funds](/closed-end-fund/), it issues a fixed number of shares that trade on an exchange; unlike open-ended [mutual funds](/mutual-fund/), new investors cannot buy new shares directly from the fund, only from existing holders.*
 
 ## The closed-end fund model — trapped capital, trading premium or discount
 
@@ -32,7 +32,7 @@ Voya manages the fund with a dual mandate: generate returns and maintain a stead
 
 ## What could break this business
 
-The simplest risk: if dividend yields across Asia-Pacific fall materially — because companies cut or suspend payouts during a recession, or because interest-rate moves repriced bond yields upward and investors no longer needed the fund's distribution — then IAE's entire thesis crumbles. A second risk is leverage. Some closed-end funds borrow to amplify their yield. That works in calm markets but becomes dangerous in a credit crunch or sharp equity downturn, when the fund might be forced to sell into weakness to meet [margin calls](/margin-call-forex/) or deleverage. Finally, there is the risk of being trapped in a name that becomes unfashionable: if Asia-Pacific dividend stocks fall out of favour and IAE's discount to NAV widens from 5 per cent to 20 per cent, shareholders caught in the fund face a double loss — falling portfolio value plus a wider trading discount from which they cannot easily escape.
+The simplest risk: if dividend yields across Asia-Pacific fall materially — because companies cut or suspend payouts during a [recession](/recession/), or because interest-rate moves repriced [bond](/bond/) yields upward and investors no longer needed the fund's distribution — then IAE's entire thesis crumbles. A second risk is leverage. Some closed-end funds borrow to amplify their yield. That works in calm markets but becomes dangerous in a credit crunch or sharp equity downturn, when the fund might be forced to sell into weakness to meet [margin calls](/margin-call-forex/) or deleverage. Finally, there is the risk of being trapped in a name that becomes unfashionable: if Asia-Pacific dividend stocks fall out of favour and IAE's discount to NAV widens from 5 per cent to 20 per cent, shareholders caught in the fund face a double loss — falling portfolio value plus a wider trading discount from which they cannot easily escape.
 
 ## Researching IAE
 

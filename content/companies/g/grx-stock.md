@@ -24,7 +24,7 @@ handwritten: true
 </table>
 </aside>
 
-GRX is a closed-end fund that pools investor capital to buy a diversified portfolio of healthcare stocks. Unlike most index-based healthcare funds, GRX is actively managed — a professional team at Gabelli Asset Management selects individual stocks they believe will outperform. The fund spans the healthcare sector: large-cap pharmaceutical companies, smaller biotech firms, medical-device makers, [healthcare services](/hcsg-stock/) providers, and "wellness" companies in adjacent spaces like nutrition and diagnostics. The fund distributes monthly income to shareholders, making it attractive to income-focused investors seeking exposure to healthcare.
+GRX is a closed-end fund that pools investor capital to buy a diversified portfolio of healthcare stocks. Unlike most index-based healthcare funds, GRX is actively managed — a professional team at Gabelli Asset Management selects individual stocks they believe will outperform. The fund spans the healthcare sector: large-cap pharmaceutical companies, smaller biotech firms, medical-device makers, healthcare services providers, and "wellness" companies in adjacent spaces like nutrition and diagnostics. The fund distributes monthly income to shareholders, making it attractive to income-focused investors seeking exposure to healthcare.
 
 ## The healthcare sector and the Gabelli approach
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-DUKE Robotics Corp. develops hardware and software for autonomous robots and unmanned systems across defense and commercial sectors. The company competes in a fragmented but strategically important market where multiple tiers of players — large defense contractors, specialized robotics firms, and venture-backed startups — all vie for dominance in an industry still finding its applications and profitability model.
+[DUKE Robotics](/dukr-stock/) Corp. develops hardware and software for autonomous robots and unmanned systems across defense and commercial sectors. The company competes in a fragmented but strategically important market where multiple tiers of players — large defense contractors, specialized robotics firms, and venture-backed startups — all vie for dominance in an industry still finding its applications and profitability model.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ DUKE Robotics Corp. develops hardware and software for autonomous robots and unm
 
 DUKE's largest historical focus has been unmanned aerial vehicles (UAVs) and the software systems that control them. The market for drones has bifurcated sharply: consumer drones are dominated by a handful of firms (DJI most prominently), while defense and commercial applications remain fragmented. DUKE competes in the latter, where customers care less about unit cost than about performance, reliability, and the ability to integrate specialized payloads (sensors, communications equipment, weapons systems in some military applications).
 
-The competition here is intense and multinational. Large defense contractors such as General Atomics, Boeing, and Northrop Grumman field their own unmanned systems alongside custom solutions for military customers. Smaller specialists and venture-backed startups fill niches — swarming drones, cargo delivery, perimeter security, infrastructure inspection. DUKE's challenge is to carve a defensible position in a market where customers are often cash-rich (defense budgets) but slow-moving (multi-year procurement cycles), and where barriers to entry are primarily technical expertise and security clearances, not capital.
+The competition here is intense and multinational. Large defense contractors such as General Atomics, [Boeing](/ba-stock/), and Northrop Grumman field their own unmanned systems alongside custom solutions for military customers. Smaller specialists and venture-backed startups fill niches — swarming drones, cargo delivery, perimeter security, infrastructure inspection. DUKE's challenge is to carve a defensible position in a market where customers are often cash-rich (defense budgets) but slow-moving (multi-year procurement cycles), and where barriers to entry are primarily technical expertise and security clearances, not capital.
 
 ## Autonomous ground systems
 

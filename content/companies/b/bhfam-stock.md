@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Brighthouse Financial is a company that sells insurance. Not car insurance or home insurance, but life insurance and retirement products called annuities. The company takes money from customers, invests it, and promises to pay that money back later — either as a guaranteed income for life, or to your family if you die. Think of it as a middleman between people saving for retirement and the investment markets.
+[Brighthouse Financial](/bhf-stock/) is a company that sells insurance. Not car insurance or home insurance, but life insurance and retirement products called annuities. The company takes money from customers, invests it, and promises to pay that money back later — either as a guaranteed income for life, or to your family if you die. Think of it as a middleman between people saving for retirement and the investment markets.
 
 The company has about 2 million customers and manages over 2 million active insurance contracts. That makes it one of the larger insurance companies in America, although not the largest. It is smaller than companies like MetLife or Prudential, but it is still a major player in life insurance and retirement savings.
 
@@ -25,7 +25,7 @@ When you spin off part of a big company, you are not starting fresh. Brighthouse
 
 Brighthouse sells three types of products. The biggest is annuities.
 
-**Annuities.** An annuity is a deal: you give Brighthouse a large chunk of money (say, $500,000 from a retirement account), and Brighthouse promises to pay you a fixed amount every month for the rest of your life. You get security and predictability. Brighthouse gets your money upfront and invests it, keeping whatever extra it earns. There are different kinds of annuities. Some give you a guaranteed amount no matter what happens in the stock market. Others give you a return that goes up and down with the market, but with a floor — Brighthouse guarantees you will not lose more than a certain percentage. Annuities appeal to older people nearing retirement who want to stop worrying about market swings and just have stable income.
+**Annuities.** An annuity is a deal: you give Brighthouse a large chunk of money (say, $500,000 from a retirement account), and Brighthouse promises to pay you a fixed amount every month for the rest of your life. You get security and predictability. Brighthouse gets your money upfront and invests it, keeping whatever extra it earns. There are different kinds of annuities. Some give you a guaranteed amount no matter what happens in the [stock market](/stock-market/). Others give you a return that goes up and down with the market, but with a floor — Brighthouse guarantees you will not lose more than a certain percentage. Annuities appeal to older people nearing retirement who want to stop worrying about market swings and just have stable income.
 
 **Life insurance.** Term life, whole life, and variable life. The idea is simple: you pay a monthly or annual premium. If you die, Brighthouse pays a death benefit to your family. Term life is cheapest and covers you for a set number of years. Whole life covers you for your entire life and builds cash value as you pay in — money that you can borrow against or withdraw if you need it. Life insurance is how people protect their families financially. It is unsexy but important.
 
@@ -33,7 +33,7 @@ Brighthouse sells three types of products. The biggest is annuities.
 
 ## The money side: how Brighthouse makes money
 
-Customers pay premiums (monthly or yearly payments). Those premiums sit in Brighthouse's accounts and grow. Brighthouse invests this money in stocks, bonds, real estate, and other assets. If the investments earn 5 percent annually and Brighthouse only promised customers 3 percent, Brighthouse keeps the 2 percent difference. That is spread income — the gap between what Brighthouse earns and what it promises to pay out.
+Customers pay premiums (monthly or yearly payments). Those premiums sit in Brighthouse's accounts and grow. Brighthouse invests this money in stocks, [bonds](/bond/), real estate, and other assets. If the investments earn 5 percent annually and Brighthouse only promised customers 3 percent, Brighthouse keeps the 2 percent difference. That is spread income — the gap between what Brighthouse earns and what it promises to pay out.
 
 But there are costs. Brighthouse has to pay claims. If you die, it pays your family. If you retire and take annuity payments, it pays you every month for decades. Brighthouse also has employees, offices, and systems to run. It has to set aside reserves — money it does not touch — in case claims turn out to be bigger than expected.
 
@@ -59,7 +59,7 @@ In 2023 and 2024, Brighthouse did a major deal: it sold off a huge chunk of its 
 
 ## How to understand Brighthouse as an investment
 
-If you own Brighthouse shares, you are betting that the company will earn solid spreads on its insurance portfolio, manage its risks well, and return capital to shareholders through dividends and stock buybacks.
+If you own Brighthouse shares, you are betting that the company will earn solid spreads on its insurance portfolio, manage its risks well, and return capital to shareholders through [dividends](/dividend/) and stock buybacks.
 
 Read the quarterly earnings reports (filed with the SEC under CIK 0001685040). Pay attention to whether sales are growing (for life insurance, they were up in 2024, which is good; for annuities, they were flat, which is not). Look at how much profit the company made from each business line.
 

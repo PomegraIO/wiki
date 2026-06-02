@@ -4,7 +4,7 @@ description: "Brazilian private-equity and credit platform with institutional ca
 keywords: [Brazil, private equity, credit, emerging markets, institutional investor, Latin America, fund management]
 ---
 
-*Disclosed through regulatory filings with the [Securities and Exchange Commission](/securities-and-exchange-commission/), **BRBI BR Partners S.A. (BRBI)** appears as a capital-aggregation vehicle for institutional investors seeking exposure to Brazilian and broader Latin [American assets](/aat-stock/). The company structures itself as a manager and participant in multiple fund vehicles, with its public listing functioning as a window into what its disclosure documents call a "multi-strategy platform" built on decades of founding principals' investment experience in emerging markets.*
+*Disclosed through regulatory filings with the [Securities and Exchange Commission](/securities-and-exchange-commission/), **BRBI BR Partners S.A. (BRBI)** appears as a capital-aggregation vehicle for institutional investors seeking exposure to Brazilian and broader Latin American assets. The company structures itself as a manager and participant in multiple fund vehicles, with its public listing functioning as a window into what its disclosure documents call a "multi-strategy platform" built on decades of founding principals' investment experience in emerging markets.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BRBI</td></tr>
@@ -37,7 +37,7 @@ An investor or analyst preparing to study BRBI's 10-K should first understand th
 
 ## Position Within Emerging-Market Asset Management
 
-BRBI describes itself in filings as competing in a market of Brazil-focused and Latin America-focused asset managers serving institutional capital. The company notes that institutional investors increasingly seek local expertise for emerging-market allocations, positioning BRBI's advantage in founder relationships and operating-company experience. Disclosures mention that the company benefits from long-standing relationships with portfolio company operators and [financial institutions](/fisi-stock/) across the region, though these are difficult to quantify from public filings alone.
+BRBI describes itself in filings as competing in a market of Brazil-focused and Latin America-focused asset managers serving institutional capital. The company notes that institutional investors increasingly seek local expertise for emerging-market allocations, positioning BRBI's advantage in founder relationships and operating-company experience. Disclosures mention that the company benefits from long-standing relationships with portfolio company operators and financial institutions across the region, though these are difficult to quantify from public filings alone.
 
 ---
 

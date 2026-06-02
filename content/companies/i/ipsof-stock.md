@@ -69,14 +69,14 @@ There is also a question of whether polls influence the elections they measure. 
 
 ## Who owns Ipsos and how is it financed?
 
-Ipsos is still controlled by its founder Didier Queloz's family, though it is a publicly traded company. The Queloz family owns a significant stake. The company has a strong balance sheet and generates substantial free cash flow from operations. It pays a dividend and has used cash to fund acquisitions of smaller research firms, building out capabilities in different geographies and methodologies.
+Ipsos is still controlled by its founder Didier Queloz's family, though it is a publicly traded company. The Queloz family owns a significant stake. The company has a strong [balance sheet](/balance-sheet/) and generates substantial [free cash flow](/free-cash-flow/) from operations. It pays a [dividend](/dividend/) and has used cash to fund [acquisitions](/acquisition/) of smaller research firms, building out capabilities in different geographies and methodologies.
 
 The company raised capital in the IPO (which occurred in Paris in 2000) and has maintained public-company status because it provides access to capital markets and enhances visibility. However, the family structure means that long-term strategic decisions still reflect the founder's vision, which prioritizes quality and global expansion over short-term profit maximization.
 
 ## How to research Ipsos
 
-Start with the company's annual report and 10-K filing (SEC CIK 0001582820), which breaks down revenue by client type (corporate vs. public affairs vs. marketing) and by geography. Look for growth rates in different segments; public affairs and marketing research often have different trajectory than other segments depending on the political and economic environment.
+Start with the company's [annual report](/10-k/) and 10-K filing (SEC CIK 0001582820), which breaks down revenue by client type (corporate vs. public affairs vs. marketing) and by geography. Look for growth rates in different segments; public affairs and marketing research often have different trajectory than other segments depending on the political and economic environment.
 
 Watch the company's visibility on major political polls and election forecasting. In many countries, Ipsos' published polls are freely available and widely cited; unusually accurate or inaccurate polls can affect the company's reputation. Follow commentary on polling methodology and media coverage of Ipsos research, which is often cited by news outlets.
 
-Track the company's acquisition activity and organic growth. Is the company growing organically or primarily through acquiring other firms? Are margins expanding or contracting as the company scales? And monitor the competitive landscape; if a new entrant with a disruptive technology or methodology gains traction, it could threaten Ipsos' market position. Finally, understand the client concentration risk: does Ipsos depend heavily on a few large clients, or is the revenue base diversified?
+Track the company's acquisition activity and organic growth. Is the company growing organically or primarily through acquiring other firms? Are margins expanding or contracting as the company scales? And monitor the competitive landscape; if a new entrant with a disruptive technology or methodology gains traction, it could threaten Ipsos' market position. Finally, understand the client [concentration risk](/concentration-risk/): does Ipsos depend heavily on a few large clients, or is the revenue base diversified?

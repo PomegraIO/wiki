@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Hub Cyber Security Ltd. (also known as HUB Security) is an Israeli cybersecurity software firm focused on protecting sensitive data through cryptographic technologies and confidential computing platforms. The company provides both software and hardware solutions designed to keep information secret even while it is being processed, a challenge known in security circles as protecting data in motion and at rest. Its customers range from financial institutions to government agencies to technology companies that handle classified or highly regulated information.
+[Hub Cyber Security](/hubc-stock/) Ltd. (also known as HUB Security) is an Israeli cybersecurity software firm focused on protecting sensitive data through cryptographic technologies and confidential computing platforms. The company provides both software and hardware solutions designed to keep information secret even while it is being processed, a challenge known in security circles as protecting data in motion and at rest. Its customers range from financial institutions to government agencies to technology companies that handle classified or highly regulated information.
 
 <aside class="wiki-infobox">
 <table>
@@ -43,15 +43,15 @@ The company sells to two main customer types: large enterprises in finance, heal
 
 ## The competitive landscape
 
-Hub competes against several categories of rivals. There are large software companies like Microsoft and Google that have built confidential-computing features into their cloud platforms. There are security infrastructure firms like those that build firmware and hardware security modules. And there are smaller startups working on encrypted databases or privacy-preserving computation.
+Hub competes against several categories of rivals. There are large software companies like [Microsoft](/msft-stock/) and Google that have built confidential-computing features into their cloud platforms. There are security infrastructure firms like those that build firmware and hardware security modules. And there are smaller startups working on encrypted databases or privacy-preserving computation.
 
-What separates Hub from many competitors is its focus on the hardware layer and its partnerships with chipmakers. The company works closely with processors like those from Intel and others that have hardware security features built in. That partnership model gives Hub an advantage over purely software solutions, because hardware-accelerated encryption is orders of magnitude faster than purely algorithmic approaches. But it also creates a weakness: if the hardware partners change their roadmaps or decide to build out their own software layers, Hub's value proposition becomes less distinct.
+What separates Hub from many competitors is its focus on the hardware layer and its partnerships with chipmakers. The company works closely with processors like those from [Intel](/intc-stock/) and others that have hardware security features built in. That partnership model gives Hub an advantage over purely software solutions, because hardware-accelerated encryption is orders of magnitude faster than purely algorithmic approaches. But it also creates a weakness: if the hardware partners change their roadmaps or decide to build out their own software layers, Hub's value proposition becomes less distinct.
 
 The regulatory environment also shapes competition. As privacy regulations like GDPR and others increasingly demand that sensitive data be protected even from system administrators and cloud providers, demand for confidential computing grows. Hub is positioned to benefit from that trend, but so are all the large technology companies that can afford to build similar features themselves.
 
 ## The business and its stresses
 
-Hub is a relatively young public company. It went public through a merger with a blank-check company, and like many companies in that structure, it has faced investor scrutiny and volatile trading. The company operates with a smaller revenue base than many software peers, which means it has less margin for error and needs to prove that its enterprise customers are satisfied and that the business can scale.
+Hub is a relatively young public company. It went public through a [merger](/merger/) with a blank-check company, and like many companies in that structure, it has faced investor scrutiny and volatile trading. The company operates with a smaller revenue base than many software peers, which means it has less margin for error and needs to prove that its enterprise customers are satisfied and that the business can scale.
 
 One stress is the long sales cycle inherent in security infrastructure software. You cannot upgrade your data protection architecture every quarter; security decisions are made carefully and last for years. This means Hub's revenue is lumpy — a big contract win can be followed by a long period of slower new business. The company also needs to invest heavily in research and development to stay ahead of emerging threats and to support the rapid evolution of hardware security features.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Hepion Pharmaceuticals is a small clinical-stage biotech company focused on liver disease. The company is developing a small pipeline of compounds targeting non-alcoholic fatty liver disease (NAFLD), hepatitis C, and related conditions. It has no approved drugs and no revenue from product sales. All value resides in the hope that one or more of its candidates will complete clinical testing, gain regulatory approval, and reach the market. The company is funded via equity raises and is burning cash to pay for research and development.
+[Hepion Pharmaceuticals](/hepa-stock/) is a small clinical-stage biotech company focused on liver disease. The company is developing a small pipeline of compounds targeting non-alcoholic fatty liver disease (NAFLD), hepatitis C, and related conditions. It has no approved drugs and no revenue from product sales. All value resides in the hope that one or more of its candidates will complete clinical testing, gain regulatory approval, and reach the market. The company is funded via equity raises and is burning cash to pay for research and development.
 
 <aside class="wiki-infobox">
 <table>
@@ -52,7 +52,7 @@ The company's path to sustainability is either: (a) proving that one of its comp
 
 ## Scientific risk and competitive context
 
-The liver-disease space is competitive. Large pharmaceutical companies like Gilead, Intercept Pharma, Madrigal Pharmaceuticals, and others are developing NASH treatments. Some have advanced compounds in late-stage clinical trials. The bar for approval is high: regulators will want to see that a NASH drug slows disease progression enough to justify the cost and risk of treatment.
+The liver-disease space is competitive. Large pharmaceutical companies like Gilead, Intercept Pharma, [Madrigal Pharmaceuticals](/mdgl-stock/), and others are developing NASH treatments. Some have advanced compounds in late-stage clinical trials. The bar for approval is high: regulators will want to see that a NASH drug slows disease progression enough to justify the cost and risk of treatment.
 
 Hepion's advantage, if it has one, is a differentiated mechanism of action. If Hepion's compounds work through a pathway that competitors have not addressed, that could be valuable. But differentiation alone does not guarantee success. The compound must be effective, safe, manufacturable at scale, and better (or at least non-inferior) to existing options.
 
@@ -64,7 +64,7 @@ Valuing a clinical-stage biotech company with no revenue is speculative. Investo
 
 The stock trades on the OTC market, not on a major exchange. OTC stocks are less liquid, subject to lower regulatory scrutiny, and more prone to manipulation or information asymmetry. For retail investors, OTC biotech stocks are risky; for large institutions, the liquidity is often too low to warrant investment.
 
-The company's market capitalization is modest. If the company's most optimistic case is realized — one of its compounds reaches approval and captures significant market share — the upside could be substantial. But the path to that outcome is long, uncertain, and capital-intensive. Most small biotech companies do not deliver value to shareholders; a few that hit approval create enormous returns; the median biotech investor loses money or gets diluted into oblivion.
+The company's [market capitalization](/market-capitalization/) is modest. If the company's most optimistic case is realized — one of its compounds reaches approval and captures significant market share — the upside could be substantial. But the path to that outcome is long, uncertain, and capital-intensive. Most small biotech companies do not deliver value to shareholders; a few that hit approval create enormous returns; the median biotech investor loses money or gets diluted into oblivion.
 
 ## What would change the outlook
 
@@ -73,7 +73,7 @@ Hepion would become materially more interesting if:
 - The company announced initiation of a Phase 2 trial with a dose and endpoint that regulators previously agreed to. This would mean Hepion has cleared a significant hurdle and has at least de-risked the "does the mechanism work?" question.
 - A major pharmaceutical partner signed on to co-develop and fund one of Hepion's compounds. This would validate the science and provide runway without further equity dilution.
 - Preclinical data emerged suggesting one compound has a substantially differentiated mechanism with clinical potential. The bar would need to be high — not just "might work" but "plausibly better than what competitors are doing."
-- The company consolidated into a merger with another biotech or pharmaceutical company, combining forces to advance a more compelling pipeline.
+- The company consolidated into a [merger](/merger/) with another biotech or pharmaceutical company, combining forces to advance a more compelling pipeline.
 
 Short of these events, Hepion remains a speculative play on early-stage liver-disease research.
 

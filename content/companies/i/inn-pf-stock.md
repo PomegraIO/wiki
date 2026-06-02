@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-Summit Hotel Properties owns and operates hotels. That's the core: they buy hotel buildings, put their own management team in charge, and collect the money when guests pay for rooms. Unlike many REITs that own property but hire someone else to run it, Summit does both jobs itself.
+[Summit Hotel Properties](/inn-stock/) owns and operates hotels. That's the core: they buy hotel buildings, put their own management team in charge, and collect the money when guests pay for rooms. Unlike many REITs that own property but hire someone else to run it, Summit does both jobs itself.
 
-The company focuses on what it calls upscale and upper-midscale hotels. These aren't budget chains like Motel 6, and they're not ultra-luxury five-star properties. They're the kind of place a business traveler stays for a conference—a Hilton, a Marriott, or a Hyatt. Nice enough to be comfortable, expensive enough to generate solid profit margins, and reliable enough that banks will lend money for the acquisition.
+The company focuses on what it calls upscale and upper-midscale hotels. These aren't budget chains like Motel 6, and they're not ultra-luxury five-star properties. They're the kind of place a business traveler stays for a conference—a Hilton, a Marriott, or a Hyatt. Nice enough to be comfortable, expensive enough to generate solid profit margins, and reliable enough that banks will lend money for the [acquisition](/acquisition/).
 
 <aside class="wiki-infobox">
 <table>
@@ -30,9 +30,9 @@ The company focuses on what it calls upscale and upper-midscale hotels. These ar
 
 A guest books a room on Hilton's website for 150 dollars a night. That money goes to the hotel—which Summit owns. But Summit doesn't keep all of it. The brand (Hilton) takes a cut for managing the property and running the reservation system, usually 5–7 percent. The employees, utilities, laundry, and maintenance come out too. What's left is the profit.
 
-This profit moves up and down with the number of people traveling. When the economy is strong and conferences are booked solid, the hotel is full every night at good rates. When a recession hits, rooms sit empty and rates fall. A hotel can't cut its building cost in half just because occupancy dropped, so bad times hit hard. A strong year might deliver seven dollars per share in cash; a bad year might be one dollar or negative.
+This profit moves up and down with the number of people traveling. When the economy is strong and conferences are booked solid, the hotel is full every night at good rates. When a [recession](/recession/) hits, rooms sit empty and rates fall. A hotel can't cut its building cost in half just because occupancy dropped, so bad times hit hard. A strong year might deliver seven dollars per share in cash; a bad year might be one dollar or negative.
 
-Summit usually borrows money to buy hotels, which means it has debt to pay back whether the hotel is full or empty. In boom years this works great—the cash flows easily cover the debt. In busts, management has to decide between supporting the dividend and keeping the balance sheet healthy. Sometimes they cut the dividend. Sometimes they sell a property at a loss to reduce debt. This is the core rhythm of the business.
+Summit usually borrows money to buy hotels, which means it has debt to pay back whether the hotel is full or empty. In boom years this works great—the cash flows easily cover the debt. In busts, management has to decide between supporting the [dividend](/dividend/) and keeping the [balance sheet](/balance-sheet/) healthy. Sometimes they cut the dividend. Sometimes they sell a property at a loss to reduce debt. This is the core rhythm of the business.
 
 ## The properties and the brands
 
@@ -44,7 +44,7 @@ Most hotels are in what the company calls "supply-constrained" markets—cities 
 
 ## What works and what doesn't
 
-In a booming economy with strong travel demand, the model is highly profitable. Occupancy climbs, rates hold firm or rise, and the company can cover its debt easily and fund distributions to shareholders. The preferred shares benefit because the company is flush and there's little risk of a dividend cut.
+In a booming economy with strong travel demand, the model is highly profitable. Occupancy climbs, rates hold firm or rise, and the company can cover its debt easily and [fund distributions](/fund-distribution/) to shareholders. The preferred shares benefit because the company is flush and there's little risk of a dividend cut.
 
 But hotels are cyclical. In a downturn, the wheels come off quickly. Occupancy drops to 60 percent. Rates fall. The company's cash flow shrinks while debt service stays the same. That forces a choice: cut the dividend, sell properties at bad prices, or let leverage rise. The 2020 pandemic was the extreme case—some hotels went from near-full to nearly empty in a week. Summit had to furlough staff and run properties on skeleton crews.
 

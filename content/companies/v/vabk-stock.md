@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Virginia [National Bank](/nbhc-stock/) is a regional bank that competes by staying closer to its communities than the largest national lenders can afford to. Headquartered in Richmond with operations across North Carolina, South Carolina, and the broader Mid-Atlantic region, the bank generates revenue primarily through traditional lending — mortgages, commercial loans, small-business credit lines — and deposit-taking, supplemented by a growing private banking and wealth-management business that serves high-net-worth clients. The bank is neither tiny nor vast: it operates at a scale where it can make decisions quickly and maintain relationships that larger competitors tend to lose as they grow.
+Virginia National Bank is a regional bank that competes by staying closer to its communities than the largest national lenders can afford to. Headquartered in Richmond with operations across North Carolina, South Carolina, and the broader Mid-Atlantic region, the bank generates revenue primarily through traditional lending — mortgages, commercial loans, small-business credit lines — and deposit-taking, supplemented by a growing private banking and wealth-management business that serves high-net-worth clients. The bank is neither tiny nor vast: it operates at a scale where it can make decisions quickly and maintain relationships that larger competitors tend to lose as they grow.
 
 <aside class="wiki-infobox">
 <table>

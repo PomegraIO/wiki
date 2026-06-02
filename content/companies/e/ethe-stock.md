@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Grayscale Ethereum Staking ETF holds Ethereum tokens and stakes them on the Ethereum network to earn validation rewards. In plain terms: you own Ethereum through the fund, and the fund automatically puts your Ethereum to work securing the network and earning yield.
+Grayscale [Ethereum](/ethereum/) Staking ETF holds Ethereum tokens and stakes them on the Ethereum network to earn validation rewards. In plain terms: you own Ethereum through the fund, and the fund automatically puts your Ethereum to work securing the network and earning yield.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ Grayscale Ethereum Staking ETF holds Ethereum tokens and stakes them on the Ethe
 
 Ethereum is a blockchain — a shared ledger where people and smart contracts send transactions and store data. To keep that ledger running and prevent fraud, the network needs validators: people or organizations that run computers to check transactions and add new blocks to the chain. To become a validator, you stake (lock up) 32 Ethereum tokens as a guarantee of good behavior. If you try to cheat the system, the network destroys some of your stake. If you play by the rules, you earn new tokens and transaction fees as a reward.
 
-For most people, staking 32 tokens is a lot of money, and running a validator involves technical knowledge and operational risk. ETHE solves both problems by pooling money from many investors and managing the staking for them. You own Ethereum through the fund and earn staking rewards automatically.
+For most people, staking 32 tokens is a lot of money, and running a validator involves technical knowledge and [operational risk](/operational-risk/). ETHE solves both problems by pooling money from many investors and managing the staking for them. You own Ethereum through the fund and earn staking rewards automatically.
 
 ## How the returns work
 
@@ -38,7 +38,7 @@ In total, your return comes from Ethereum's price movement plus the staking yiel
 
 ## Ethereum versus its rivals
 
-Ethereum is the largest smart-contract blockchain — meaning it runs not just simple transactions (like Bitcoin) but also decentralized finance, games, and other applications written in code. Bitcoin is older and has stronger network effects and brand recognition, but it does not run smart contracts. Newer blockchains like Solana and Polygon compete with Ethereum by offering faster transactions and lower fees, but they have far smaller developer ecosystems and are riskier because they are less mature.
+Ethereum is the largest smart-contract blockchain — meaning it runs not just simple transactions (like [Bitcoin](/bitcoin/)) but also decentralized finance, games, and other applications written in code. Bitcoin is older and has stronger network effects and brand recognition, but it does not run smart contracts. Newer blockchains like Solana and Polygon compete with Ethereum by offering faster transactions and lower fees, but they have far smaller developer ecosystems and are riskier because they are less mature.
 
 Ethereum's advantage is its ecosystem: the most developers, the most decentralized applications, and the most established reputation in crypto. That makes it the leading smart-contract platform by far, though it has real challengers.
 

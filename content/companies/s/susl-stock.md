@@ -15,7 +15,7 @@ handwritten: true
 
 > "High ESG scores, relative to their peers, wherever the market finds them."
 
-The fund is operated by BlackRock, one of the world's largest asset managers, through its iShares division. It launched in 2019 and tracks the MSCI USA Extended ESG Leaders Index, a freely floating, market-capitalization-weighted index designed to represent U.S. large and mid-cap equities that score above average on environmental, social, and governance metrics as calculated by MSCI. The index is not a negative screen that eliminates entire sectors or industries; rather, it identifies the leaders within each sector and weights them by size.
+The fund is operated by [BlackRock](/blk-stock/), one of the world's largest asset managers, through its iShares division. It launched in 2019 and tracks the MSCI USA Extended ESG Leaders Index, a freely floating, market-capitalization-weighted index designed to represent U.S. large and mid-cap equities that score above average on environmental, social, and governance metrics as calculated by MSCI. The index is not a negative screen that eliminates entire sectors or industries; rather, it identifies the leaders within each sector and weights them by size.
 
 ## How the ESG scoring works
 
@@ -29,9 +29,9 @@ Because it is a broad, market-cap-weighted tracker, SUSL's portfolio resembles a
 
 ## Costs and the structure of tracking
 
-SUSL is a passively managed fund that aims to mirror its benchmark as closely as possible. Its expense ratio is moderate for a passive equity ETF—a fraction of what an actively managed ESG fund would charge—making it accessible to investors who want ESG exposure without paying for active management. Like all index funds, it will never outperform its benchmark by much; it will underperform slightly due to costs and cash drag, a trade-off for the transparency and simplicity of passive tracking.
+SUSL is a [passively managed fund](/passively-managed-fund/) that aims to mirror its benchmark as closely as possible. Its [expense ratio](/expense-ratio/) is moderate for a passive [equity ETF](/equity-etf/)—a fraction of what an actively managed ESG fund would charge—making it accessible to investors who want ESG exposure without paying for active management. Like all [index funds](/index-fund/), it will never outperform its benchmark by much; it will underperform slightly due to costs and cash drag, a trade-off for the transparency and simplicity of passive tracking.
 
-The fund trades on the NASDAQ under the ticker SUSL and, as an ETF, offers daily liquidity, meaning an investor can buy or sell shares at any time during market hours without the redemption delays of a traditional mutual fund.
+The fund trades on the [NASDAQ](/nasdaq/) under the ticker SUSL and, as an ETF, offers daily liquidity, meaning an investor can buy or sell shares at any time during market hours without the redemption delays of a traditional [mutual fund](/mutual-fund/).
 
 ## Who the fund is for
 

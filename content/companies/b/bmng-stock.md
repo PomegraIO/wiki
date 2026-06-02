@@ -32,7 +32,7 @@ This decay is mechanical—it occurs independent of market direction, simply as 
 
 ## Borrowing costs and fees
 
-BMNG charges an expense ratio for administration and carries daily borrowing costs—the interest on the capital borrowed to establish 2x leverage. When short-term interest rates are 1% to 2% annually, the daily drag is modest. When rates rise to 4% or 5%, the annual borrowing cost climbs to 2.5% to 5% plus the expense ratio, a material headwind on returns.
+BMNG charges an [expense ratio](/expense-ratio/) for administration and carries daily borrowing costs—the interest on the capital borrowed to establish 2x leverage. When short-term [interest rates](/interest-rate/) are 1% to 2% annually, the daily drag is modest. When rates rise to 4% or 5%, the annual borrowing cost climbs to 2.5% to 5% plus the expense ratio, a material headwind on returns.
 
 A two-week BMNG position accumulates negligible borrowing costs. A six-month position incurs compounding interest that eats into gains. A multi-year hold becomes ruinous relative to any gains the underlying biotech exposure delivers.
 
@@ -44,7 +44,7 @@ BMNG is destructive when held through normal quarterly or longer periods. Biotec
 
 ## Sector and liquidity risks
 
-BMNG carries concentration in the biotech sector. A sector-wide decline hits the fund 2x as hard as the index moves down. Interest rates rising unexpectedly increase borrowing costs, raising the daily drag. Liquidity risk is material: if the BMNR index or BMNG itself becomes illiquid during a biotech market crash, bid-ask spreads can widen dramatically, forcing worse exit prices than the fund's net asset value suggests.
+BMNG carries concentration in the biotech sector. A sector-wide decline hits the fund 2x as hard as the index moves down. Interest rates rising unexpectedly increase borrowing costs, raising the daily drag. [Liquidity risk](/liquidity-risk/) is material: if the BMNR index or BMNG itself becomes illiquid during a biotech market crash, [bid-ask spreads](/bid-ask-spread/) can widen dramatically, forcing worse exit prices than the fund's [net asset value](/net-asset-value/) suggests.
 
 Finally, the psychological trap: early success in leverage—a 10% gain in three days—can create overconfidence, tempting longer holds or larger positions. That is precisely when decay and mean reversion erase the gain and flip it into a loss.
 

@@ -12,7 +12,7 @@ handwritten: true
 
 > A blank-check company has no operating business, only a pool of capital and a mandate to find one.
 
-byNordic Acquisition Corp. is a special purpose acquisition company, commonly called a SPAC or blank-check company. It was incorporated in the Cayman Islands with the sole purpose of raising capital and then acquiring an existing operating business, taking that business public in the process. The company has no actual operations, products, or revenue. Its existence depends entirely on whether it can identify and complete a merger or acquisition deal before its legal deadline expires.
+[byNordic Acquisition](/byno-stock/) Corp. is a special purpose [acquisition](/acquisition/) company, commonly called a SPAC or blank-check company. It was incorporated in the Cayman Islands with the sole purpose of raising capital and then acquiring an existing operating business, taking that business public in the process. The company has no actual operations, products, or revenue. Its existence depends entirely on whether it can identify and complete a [merger](/merger/) or acquisition deal before its legal deadline expires.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ byNordic Acquisition Corp. is a special purpose acquisition company, commonly ca
 
 ## The SPAC structure and its promise
 
-A SPAC is a peculiar financial instrument created to solve a problem: how do private companies go public without the cost, time, and regulatory burden of a traditional initial public offering? In a traditional IPO, a company hires underwriters, prepares prospectuses, meets SEC requirements, and undergoes months of scrutiny. It is expensive and time-consuming, and many smaller or earlier-stage companies cannot afford it.
+A SPAC is a peculiar financial instrument created to solve a problem: how do private companies go public without the cost, time, and regulatory burden of a traditional [initial public offering](/initial-public-offering/)? In a traditional IPO, a company hires underwriters, prepares prospectuses, meets SEC requirements, and undergoes months of scrutiny. It is expensive and time-consuming, and many smaller or earlier-stage companies cannot afford it.
 
 A SPAC inverts the process. It is a publicly-traded shell company with no business—only a trust account holding cash raised from investors. The shell is created by sponsors (usually experienced dealmakers or entrepreneurs), who commit to finding an operating company to acquire. When a suitable target is found, shareholders of the SPAC vote on the merger, and if it passes, the target company merges into the SPAC and becomes the public company. The SPAC's sponsors typically receive a carried interest (a percentage of shares) as compensation for engineering the deal.
 
@@ -39,13 +39,13 @@ byNordic was created by sponsors with the intent to find and acquire a company, 
 
 ## The timing problem
 
-One of the critical constraints on a SPAC is time. Most SPACs are required by their charters and SEC rules to complete a merger or acquisition within two years of their IPO (sometimes three years with an extension). If no merger is completed by the deadline, the SPAC is liquidated, and the trust account (the cash raised from investors) is returned. The ticking clock creates pressure on the sponsors to find a deal, which can sometimes lead to overpriced or poor acquisitions if the deadline looms. For shareholders, the time pressure also means they need to be ready to vote: a deal could be announced and put to shareholder vote quickly, and voting against it or sitting on the sidelines might force the company into liquidation.
+One of the critical constraints on a SPAC is time. Most SPACs are required by their charters and SEC rules to complete a merger or acquisition within two years of their IPO (sometimes three years with an extension). If no merger is completed by the deadline, the SPAC is liquidated, and the trust account (the cash raised from investors) is returned. The ticking clock creates pressure on the sponsors to find a deal, which can sometimes lead to overpriced or poor acquisitions if the deadline looms. For shareholders, the time pressure also means they need to be ready to vote: a deal could be announced and put to shareholder vote quickly, and voting against it or sitting on the sidelines might force the company into [liquidation](/liquidation/).
 
 ## SPAC economics and the sponsor's take
 
 A SPAC sponsor typically receives a promote or carry—often around 20% of the shares issued to the sponsor, which vests only if the merger closes and the stock price rises. This creates an incentive to complete a deal and a secondary incentive to ensure the deal improves shareholder value. However, critics note that the sponsor's incentive is to complete a deal, not necessarily the best deal: if a so-so acquisition keeps the SPAC from liquidating, the sponsor still gets their carry. From the sponsor's perspective, a deal with a 40% chance of success is better than liquidation.
 
-Additionally, once a merger is announced, all shareholders (both sponsors and public shareholders) participate in the upside. But public shareholders also bear the risk that the business fails or underperforms—and SPACs have a mixed track record. Many SPAC mergers have underperformed the stock market, and some have resulted in significant losses for shareholders. This asymmetry—sponsors are incentivized to complete any deal, while public shareholders bear downside risk—has attracted regulatory scrutiny.
+Additionally, once a merger is announced, all shareholders (both sponsors and public shareholders) participate in the upside. But public shareholders also bear the risk that the business fails or underperforms—and SPACs have a mixed track record. Many SPAC mergers have underperformed the [stock market](/stock-market/), and some have resulted in significant losses for shareholders. This asymmetry—sponsors are incentivized to complete any deal, while public shareholders bear downside risk—has attracted regulatory scrutiny.
 
 ## Regulatory and structural risks
 

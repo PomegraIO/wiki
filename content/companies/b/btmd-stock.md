@@ -32,7 +32,7 @@ The choice of indication—what disease is the candidate designed to treat—is 
 
 ## Regulatory Relationship and FDA Engagement
 
-Biote will have (or should have) regular touchpoints with the FDA, including Type B meetings, pre-IND consultations, and Special Designations (Breakthrough Therapy, [Fast Track](/ftrk-stock/), Orphan Drug status). The 10-K may disclose whether any candidates have received such designations. These are material advantages—Breakthrough Therapy status, for instance, accelerates the FDA's review and can allow for conditional approval pathways. Conversely, if the FDA has raised questions about efficacy endpoints or study design in pre-IND meetings, that is a red flag not always obvious in the 10-K narrative. Read the Risk Factors section carefully; if Biote mentions regulatory uncertainty, specific trial design issues, or FDA feedback, that signals challenges ahead.
+Biote will have (or should have) regular touchpoints with the FDA, including Type B meetings, pre-IND consultations, and Special Designations (Breakthrough Therapy, Fast Track, Orphan Drug status). The 10-K may disclose whether any candidates have received such designations. These are material advantages—Breakthrough Therapy status, for instance, accelerates the FDA's review and can allow for conditional approval pathways. Conversely, if the FDA has raised questions about efficacy endpoints or study design in pre-IND meetings, that is a red flag not always obvious in the 10-K narrative. Read the Risk Factors section carefully; if Biote mentions regulatory uncertainty, specific trial design issues, or FDA feedback, that signals challenges ahead.
 
 ## Manufacturing and Scale-Up Risk
 

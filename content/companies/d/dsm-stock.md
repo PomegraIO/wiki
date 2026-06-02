@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The BNY Mellon Strategic Municipal Bond Fund is a publicly traded closed-end fund that invests primarily in [municipal bonds](/municipal-bond/) — debt issued by US cities, states, and other local government entities. It distributes tax-exempt interest income to shareholders, making it attractive to investors in high income-tax brackets.*
+*The BNY Mellon Strategic Municipal [Bond](/bond/) Fund is a publicly traded closed-end fund that invests primarily in [municipal bonds](/municipal-bond/) — debt issued by US cities, states, and other local government entities. It distributes tax-exempt interest income to shareholders, making it attractive to investors in high income-tax brackets.*
 
 <aside class="wiki-infobox">
 <table>
@@ -32,7 +32,7 @@ The BNY Mellon Strategic Municipal Bond Fund holds a portfolio of bonds issued b
 
 BNY Mellon packages these bonds into a fund so that individual investors can own a diversified portfolio without buying dozens of individual bonds. The fund issues shares that trade on the [stock exchange](/stock-exchange/), and monthly it distributes interest income (tax-free) to shareholders.
 
-The fund manager — in this case BNY Mellon's investment staff — selects which municipal bonds to buy, managing [interest-rate risk](/interest-rate-risk/), credit risk, and call risk (the risk that a bond will be retired early, forcing reinvestment at lower rates). That active management is supposed to add value by picking undervalued bonds or avoiding deteriorating credit situations.
+The fund manager — in this case BNY Mellon's investment staff — selects which municipal bonds to buy, managing [interest-rate risk](/interest-rate-risk/), [credit risk](/credit-risk/), and [call risk](/call-risk/) (the risk that a bond will be retired early, forcing reinvestment at lower rates). That active management is supposed to add value by picking undervalued bonds or avoiding deteriorating credit situations.
 
 ## Unit economics: who profits, and how
 
@@ -56,7 +56,7 @@ The fund manager attempts to manage duration — the portfolio's sensitivity to 
 
 Like all [closed-end funds](/closed-end-fund/), DSM trades at a discount or premium to NAV. In recent years, municipal bond CEFs have often traded at discounts of 5–15%, reflecting skepticism about municipal credit or appeal of alternative income sources. An investor buying DSM at a 10% discount implicitly believes that either the underlying bonds will outperform or that the discount will narrow (or both).
 
-[Tax-loss harvesting](/tax-loss-harvesting/) is a relevant consideration for individual investors in taxable accounts. If DSM drops in value and an investor has capital gains elsewhere in the portfolio, selling the fund at a loss can offset those gains. The investor can then immediately buy a different municipal bond fund to maintain exposure while capturing the tax loss. Mutual funds often see flows driven by tax-loss harvesting in December; closed-end funds see it year-round as investors attempt to manage their tax situation.
+[Tax-loss harvesting](/tax-loss-harvesting/) is a relevant consideration for individual investors in taxable accounts. If DSM drops in value and an investor has capital gains elsewhere in the portfolio, selling the fund at a loss can offset those gains. The investor can then immediately buy a different municipal bond fund to maintain exposure while capturing the tax loss. [Mutual funds](/mutual-fund/) often see flows driven by tax-loss harvesting in December; closed-end funds see it year-round as investors attempt to manage their tax situation.
 
 ## How to research DSM
 

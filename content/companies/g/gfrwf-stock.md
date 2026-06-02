@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Greenfire Resources Ltd. is an exploration and production company operating in the geothermal energy sector in the United States, primarily in California. The company develops underground heat resources to produce electricity and thermal energy, positioning itself in the growing renewable-energy space. Unlike traditional oil and gas E&P companies, Greenfire targets geothermal reservoirs — regions where the Earth's internal heat can be economically extracted — rather than hydrocarbons. This strategic difference shapes everything about the company's moat, its risks, and its path to profitability.
+[Greenfire Resources](/gfr-stock/) Ltd. is an exploration and production company operating in the geothermal energy sector in the United States, primarily in California. The company develops underground heat resources to produce electricity and thermal energy, positioning itself in the growing renewable-energy space. Unlike traditional oil and gas E&P companies, Greenfire targets geothermal reservoirs — regions where the Earth's internal heat can be economically extracted — rather than hydrocarbons. This strategic difference shapes everything about the company's moat, its risks, and its path to profitability.
 
 > "Geothermal has the baseload advantage that solar and wind lack — it produces consistent power 24 hours a day, regardless of weather."
 
@@ -45,7 +45,7 @@ Greenfire also faces commodity-like risk in electricity prices. The price for ge
 
 ## Capital requirements and the pathway to positive cash flow
 
-Because geothermal is capital-intensive and development timelines are long (often five to ten years from lease acquisition to commercial power production), Greenfire must either generate enough cash from initial operating projects to fund subsequent development, or rely on external capital. If the company cannot raise capital or generate cash quickly, it faces a classic energy-development company constraint: growth is constrained by balance-sheet capacity, not opportunity.
+Because geothermal is capital-intensive and development timelines are long (often five to ten years from lease [acquisition](/acquisition/) to commercial power production), Greenfire must either generate enough cash from initial operating projects to fund subsequent development, or rely on external capital. If the company cannot raise capital or generate cash quickly, it faces a classic energy-development company constraint: growth is constrained by balance-sheet capacity, not opportunity.
 
 The company's ability to secure long-term power-purchase agreements and attract partners (and eventually the capital of larger utilities or energy companies) is crucial to survival. A geothermal company without a clear pathway to cash-generating projects can be squeezed between high development costs and uncertain revenue.
 

@@ -10,17 +10,17 @@ keywords:
 handwritten: true
 ---
 
-*The **ProShares Nasdaq-100 Dynamic Buffer ETF** (QB) wraps the Nasdaq-100 — the 100 largest non-financial stocks on the Nasdaq — with a quarterly options-based collar. The fund absorbs losses beyond a rolling buffer (typically 5–8 per cent per quarter) while capping gains, offering investors a middle path: equity exposure with a floor.*
+*The **ProShares Nasdaq-100 Dynamic Buffer ETF** (QB) wraps the Nasdaq-100 — the 100 largest non-financial stocks on the [Nasdaq](/nasdaq/) — with a quarterly options-based collar. The fund absorbs losses beyond a rolling buffer (typically 5–8 per cent per quarter) while capping gains, offering investors a middle path: equity exposure with a floor.*
 
 ## The collar: what the fund does
 
-QB buys put options on the Nasdaq-100 to establish a loss floor and sells call options on the same index to finance that floor. The result is a collar. Market falls 10 per cent? QB falls only 2–3 per cent. Market rises 12 per cent? QB rises only 8–9 per cent. The exact buffer width and ceiling shift quarterly as the fund resets its options; both are listed on the ProShares factsheet and update monthly.
+QB buys [put options](/put-option/) on the Nasdaq-100 to establish a loss floor and sells [call options](/call-option/) on the same index to finance that floor. The result is a collar. Market falls 10 per cent? QB falls only 2–3 per cent. Market rises 12 per cent? QB rises only 8–9 per cent. The exact buffer width and ceiling shift quarterly as the fund resets its options; both are listed on the ProShares factsheet and update monthly.
 
 The fund rebalances the collar quarterly, meaning it unwinds the old options and buys a new set. This reset mechanism allows flexibility — if volatility spikes between quarters, the new collar adjusts for the changed cost of protection.
 
 ## Why not just buy puts yourself?
 
-Three operational reasons. First: expertise. Managing a put-and-call collar requires understanding option Greeks, expiration mechanics, and rebalancing discipline. Most retail investors lack this toolset. Second: cost. Buying puts and executing rollovers incurs brokerage commissions; QB bakes this into its fund structure and spreads the cost across thousands of shareholders. Third: automation. QB's managers handle quarterly resets, reinvestment of premiums, and daily pricing without investor action. A single share of QB is plug-and-play downside protection; buying puts yourself is a quarterly operational commitment.
+Three operational reasons. First: expertise. Managing a put-and-call collar requires understanding option Greeks, expiration mechanics, and [rebalancing discipline](/rebalancing-discipline/). Most retail investors lack this toolset. Second: cost. Buying puts and executing rollovers incurs brokerage commissions; QB bakes this into its fund structure and spreads the cost across thousands of shareholders. Third: automation. QB's managers handle quarterly resets, reinvestment of premiums, and daily pricing without investor action. A single share of QB is plug-and-play downside protection; buying puts yourself is a quarterly operational commitment.
 
 ## The hidden cost: volatility decay
 
@@ -32,7 +32,7 @@ Over longer horizons, particularly in choppy, trendless markets, this decay adds
 
 Investors in or nearing retirement. They want equity exposure but cannot stomach a 30 per cent sudden drawdown. QB's buffer offers peace of mind — and the cost of capped upside seems acceptable when you are 65 and retired.
 
-Investors building barbell portfolios. They hold a low-risk bond allocation and a high-risk growth portfolio, and use QB to create intermediate-risk tranches within the portfolio ladder.
+Investors building barbell portfolios. They hold a low-risk [bond](/bond/) allocation and a high-risk growth portfolio, and use QB to create intermediate-risk [tranches](/tranche/) within the portfolio ladder.
 
 Employees with concentrated company stock. They own equity but use QB as a temporary hedge while they sell their concentrated position over time.
 
@@ -46,7 +46,7 @@ This gap risk is rare but material when most needed. During the 2020 COVID crash
 
 ## The math on capped upside
 
-In a bull market, QB's capped returns are painful. If the Nasdaq-100 rallies 25 per cent in a year and QB rises only 15 per cent, the difference compounds. Over five years of steady gains, an investor in QB will have underperformed the unhedged index by many percentage points. For investors with long time horizons and no need for downside protection, QB's cap is a permanent drag that no amount of sleep-at-night value can justify.
+In a [bull market](/bull-market/), QB's capped returns are painful. If the Nasdaq-100 rallies 25 per cent in a year and QB rises only 15 per cent, the difference compounds. Over five years of steady gains, an investor in QB will have underperformed the unhedged index by many percentage points. For investors with long time horizons and no need for downside protection, QB's cap is a permanent drag that no amount of sleep-at-night value can justify.
 
 ## How to research this fund
 

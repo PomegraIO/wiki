@@ -22,7 +22,7 @@ handwritten: true
 **Key Brand:** Interbank  
 </aside>
 
-Intercorp Financial Services is Peru's leading financial-services conglomerate, controlling the country's largest commercial bank (Interbank) and operating a broad portfolio spanning consumer banking, insurance, and asset management. The company serves millions of retail and corporate customers across Peru and into the broader Andean region, making it one of Latin America's significant [financial institutions](/fisi-stock/) by asset base and market presence.
+Intercorp Financial Services is Peru's leading financial-services conglomerate, controlling the country's largest commercial bank (Interbank) and operating a broad portfolio spanning consumer banking, insurance, and asset management. The company serves millions of retail and corporate customers across Peru and into the broader Andean region, making it one of Latin America's significant financial institutions by asset base and market presence.
 
 ## The Peruvian Banking Architecture
 
@@ -48,7 +48,7 @@ However, the Peruvian market is not growing at rates that would allow easy marke
 
 ## Macroeconomic Sensitivities
 
-As a Peruvian-domiciled lender, Intercorp's earnings are tightly tied to Peru's economy and currency. Peru's sol (PEN) has depreciated against the U.S. dollar in cycles, creating earnings headwinds when investors measure performance in dollars and loan-loss provisions rise on hard-currency-denominated corporate borrowers. Inflation and [central bank](/central-bank/) tightening cycles affect deposit costs and lending volumes. Mining and agriculture represent a large share of Peru's export base and tax revenue; commodity price swings create credit-cycle effects (e.g., weaker mining activity reduces loan demand and increases defaults among commodity suppliers).
+As a Peruvian-domiciled lender, Intercorp's earnings are tightly tied to Peru's economy and currency. Peru's sol (PEN) has depreciated against the [U.S. dollar](/us-dollar/) in cycles, creating earnings headwinds when investors measure performance in dollars and loan-loss provisions rise on hard-currency-denominated corporate borrowers. Inflation and [central bank](/central-bank/) tightening cycles affect deposit costs and lending volumes. Mining and agriculture represent a large share of Peru's export base and tax revenue; commodity price swings create credit-cycle effects (e.g., weaker mining activity reduces loan demand and increases defaults among commodity suppliers).
 
 Political risk is also present. Peru has experienced multiple government transitions, policy shifts, and social unrest, which can disrupt business, influence regulation, and affect macroeconomic conditions.
 

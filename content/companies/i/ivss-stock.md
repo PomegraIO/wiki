@@ -28,9 +28,9 @@ handwritten: true
 
 ## SMID value as a category
 
-The fund occupies a middle ground between the broad U.S. market indices and micro-cap specialists. Small and mid-cap stocks — loosely, those with market capitalizations between a few hundred million and several billion dollars — have characteristics that set them apart. They are often younger, faster-growing, and less widely followed than mega-cap names, which creates two opportunities: pockets of mispricing when pessimism is unwarranted, and genuine growth potential that the market has not yet recognized or priced in.
+The fund occupies a middle ground between the broad U.S. market indices and micro-cap specialists. Small and mid-cap stocks — loosely, those with [market capitalizations](/market-capitalization/) between a few hundred million and several billion dollars — have characteristics that set them apart. They are often younger, faster-growing, and less widely followed than mega-cap names, which creates two opportunities: pockets of mispricing when pessimism is unwarranted, and genuine growth potential that the market has not yet recognized or priced in.
 
-IVSS applies a quantitative value filter to this universe. The model identifies companies trading at low multiples of earnings, book value, or cash flow, with solid balance sheets and consistent profitability. The aim is to capture smaller firms that are cheap for reasonable reasons — not permanently broken companies, but undiscovered or temporarily out of favour.
+IVSS applies a quantitative value filter to this universe. The model identifies companies trading at low multiples of earnings, book value, or cash flow, with solid [balance sheets](/balance-sheet/) and consistent profitability. The aim is to capture smaller firms that are cheap for reasonable reasons — not permanently broken companies, but undiscovered or temporarily out of favour.
 
 ## Why SMID can be appealing
 
@@ -42,19 +42,19 @@ Small and mid-cap companies are also more likely than their mega-cap peers to be
 
 The major constraint on IVSS is that individual SMID stocks trade less frequently than mega-cap names. If an investor needs to sell a large block of shares, moving the price is a real risk. For the fund itself, maintaining liquidity in holdings requires discipline — the fund cannot own stocks so small that trading becomes impossible. The Applied Finance approach keeps holdings within a range where liquidity, though tighter than a mega-cap index, is still workable for most transaction sizes.
 
-Bid-ask spreads on individual SMID stocks are also wider than on blue chips, which raises the cost of trading. Over time, these friction costs matter. However, the value premium and growth potential available in this space can more than offset that drag if the selection is sound.
+[Bid-ask spreads](/bid-ask-spread/) on individual SMID stocks are also wider than on blue chips, which raises the cost of trading. Over time, these friction costs matter. However, the value premium and growth potential available in this space can more than offset that drag if the selection is sound.
 
 ## Concentration and volatility
 
-Because the SMID universe is much smaller than the large-cap universe, IVSS must concentrate its holdings in a way that a mega-cap value fund does not. The fund holds roughly 100 to 150 stocks, but even then, the top 10 or 20 represent a larger percentage of assets than they would in a broader fund. This means that key stock-specific decisions have outsized impact. When a single holding stumbles, it affects the fund more noticeably.
+Because the SMID universe is much smaller than the large-cap universe, IVSS must concentrate its holdings in a way that a mega-cap [value fund](/value-fund/) does not. The fund holds roughly 100 to 150 stocks, but even then, the top 10 or 20 represent a larger percentage of assets than they would in a broader fund. This means that key stock-specific decisions have outsized impact. When a single holding stumbles, it affects the fund more noticeably.
 
-SMID stocks are also more volatile day-to-day and suffer more severely in market downturns. In a recession or financial stress, small companies with limited cash and restricted access to capital suffer faster than their larger competitors. IVSS investors should expect larger swings in net asset value, especially during crisis periods.
+SMID stocks are also more volatile day-to-day and suffer more severely in market downturns. In a [recession](/recession/) or financial stress, small companies with limited cash and restricted access to capital suffer faster than their larger competitors. IVSS investors should expect larger swings in [net asset value](/net-asset-value/), especially during crisis periods.
 
 ## Costs and tax efficiency
 
-IVSS has a moderate expense ratio reflective of the ongoing screening and rebalancing required to maintain the quantitative model. The fund's turnover is moderate — not as low as a buy-and-hold index fund, but not high enough to create significant tax drag for taxable account holders. The quarterly rebalancing schedule is predictable and rules-driven.
+IVSS has a moderate [expense ratio](/expense-ratio/) reflective of the ongoing screening and rebalancing required to maintain the quantitative model. The fund's turnover is moderate — not as low as a buy-and-hold [index fund](/index-fund/), but not high enough to create significant tax drag for taxable account holders. The quarterly rebalancing schedule is predictable and rules-driven.
 
-Being an ETF, IVSS trades on an exchange, so investors can buy or sell intraday at market prices rather than waiting for end-of-day net-asset-value pricing. For large orders, the exchange liquidity is usually better than would be the case with a mutual fund structure.
+Being an ETF, IVSS trades on an exchange, so investors can buy or sell intraday at market prices rather than waiting for end-of-day net-asset-value pricing. For large orders, the exchange liquidity is usually better than would be the case with a [mutual fund](/mutual-fund/) structure.
 
 ## Who holds IVSS and why
 
@@ -66,7 +66,7 @@ The fund is not suitable for investors with low risk tolerance or short time hor
 
 Value as a factor persistently underperforms during growth-dominated markets. IVSS will lag in those periods, and that lag can last multiple years. Small-cap leverage in a recession hits IVSS harder than the broader market — if the underlying companies struggle to generate cash, the value premium can reverse sharply downward.
 
-The illiquidity and wide spreads in individual SMID stocks also mean that unexpected forced selling (a fund closure or redemption spike) can push prices down faster in this corner of the market than elsewhere. This is rare, but it is a tail risk inherent to SMID investing.
+The illiquidity and wide spreads in individual SMID stocks also mean that unexpected forced selling (a fund closure or redemption spike) can push prices down faster in this corner of the market than elsewhere. This is rare, but it is a [tail risk](/tail-risk/) inherent to SMID investing.
 
 ## Researching IVSS
 

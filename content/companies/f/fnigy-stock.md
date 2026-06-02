@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-Finning International is one of the world's largest equipment dealers for heavy machinery. Based in Vancouver, Canada, and traded on the Toronto Stock Exchange (with an ADR on NASDAQ under ticker FNIGY), the company is the exclusive dealer for Caterpillar equipment across Canada, South America, and the United Kingdom — and the world's largest Caterpillar dealer by sales volume. But Finning is more than a dealership. It buys, sells, rents, and services heavy equipment; runs a robust parts and aftermarket business; finances equipment purchases for customers; and increasingly provides digital solutions and fleet management services to mining and construction operators.
+Finning International is one of the world's largest equipment dealers for heavy machinery. Based in Vancouver, Canada, and traded on the [Toronto Stock Exchange](/toronto-stock-exchange/) (with an ADR on [NASDAQ](/nasdaq/) under ticker FNIGY), the company is the exclusive dealer for [Caterpillar](/cat-stock/) equipment across Canada, South America, and the United Kingdom — and the world's largest Caterpillar dealer by sales volume. But Finning is more than a dealership. It buys, sells, rents, and services heavy equipment; runs a robust parts and aftermarket business; finances equipment purchases for customers; and increasingly provides digital solutions and fleet management services to mining and construction operators.
 
 <aside class="wiki-infobox">
 <table>
@@ -36,7 +36,7 @@ The dealer model works because equipment like a large excavator or haul truck is
 
 ## Multiple profit streams
 
-Finning does not live on dealer margins alone. The company operates several overlapping businesses that stack profit layers. First is new equipment sales — the core dealer business. Second is used equipment sales; Finning buys and sells machines on the secondary market and often trades in older equipment when customers upgrade, creating inventory to sell to price-conscious or smaller customers. Third is equipment rental — Finning owns a fleet of machines that it leases to customers on short- or long-term contracts, providing steady, recurring rental revenue and an alternative to purchase for customers with temporary equipment needs.
+Finning does not live on dealer margins alone. The company operates several overlapping businesses that stack profit layers. First is new equipment sales — the core dealer business. Second is used equipment sales; Finning buys and sells machines on the [secondary market](/secondary-market/) and often trades in older equipment when customers upgrade, creating inventory to sell to price-conscious or smaller customers. Third is equipment rental — Finning owns a fleet of machines that it leases to customers on short- or long-term contracts, providing steady, recurring rental revenue and an alternative to purchase for customers with temporary equipment needs.
 
 Fourth is parts and components. Heavy equipment generates a relentless stream of maintenance and wear — engines fail, hydraulics need rebuilding, tracks and tires wear out. Finning stocks spare parts and components in regional distribution centers and sells them directly to customers or through its service centers. This parts business has particularly attractive economics: it arrives with high margins and generates recurring revenue from every machine Finning has ever sold.
 
@@ -46,7 +46,7 @@ Sixth is equipment financing and leasing. Finning facilitates financing for cust
 
 ## Geography and cyclicality
 
-Finning operates in three primary regions: Canada, South America (particularly Chile and Argentina, where mining and energy activity is concentrated), and the United Kingdom. This geographic spread provides some diversification but does not eliminate cyclicality. Finning's revenue and profitability are ultimately driven by capital expenditure in mining, construction, and energy — industries that are highly cyclical. When commodity prices fall, mining companies cut budgets, postpone equipment purchases, and reduce utilization rates. This hits Finning on multiple fronts: fewer equipment sales, lower parts demand (as machines are used less), and higher credit losses (as customers struggle to pay financed purchases).
+Finning operates in three primary regions: Canada, South America (particularly Chile and Argentina, where mining and energy activity is concentrated), and the United Kingdom. This geographic spread provides some [diversification](/diversification/) but does not eliminate cyclicality. Finning's revenue and profitability are ultimately driven by capital expenditure in mining, construction, and energy — industries that are highly cyclical. When commodity prices fall, mining companies cut budgets, postpone equipment purchases, and reduce utilization rates. This hits Finning on multiple fronts: fewer equipment sales, lower parts demand (as machines are used less), and higher credit losses (as customers struggle to pay financed purchases).
 
 During commodity boom cycles, the dynamic reverses. Rising commodity prices justify large capital expenditures by mining companies, driving strong demand for equipment and financing. Finning's margins expand, utilization rises, and working capital becomes a source of cash as inventory turns faster.
 
@@ -54,7 +54,7 @@ During commodity boom cycles, the dynamic reverses. Rising commodity prices just
 
 Finning's size — being the world's largest Caterpillar dealer — gives it advantages. It has negotiating power with Caterpillar over pricing, allocation of new equipment, and support. It can achieve economies of scale in parts distribution and service infrastructure. It can invest in digital tools and fleet management software that competitors cannot easily replicate. But size also brings constraints: a large dealer has more competitors (smaller dealers and independent service shops in its territories) and less flexibility to walk away from unprofitable segments.
 
-The company also competes indirectly with Caterpillar. As Caterpillar's own direct-to-customer channels grow or as other manufacturers (Komatsu, Volvo, John Deere) fight for market share, Finning feels the pressure. If Caterpillar's market share in any of Finning's territories declines, Finning's sales decline with it.
+The company also competes indirectly with Caterpillar. As Caterpillar's own direct-to-customer channels grow or as other manufacturers (Komatsu, Volvo, John [Deere](/de-stock/)) fight for market share, Finning feels the pressure. If Caterpillar's market share in any of Finning's territories declines, Finning's sales decline with it.
 
 ## Digital and solutions expansion
 
@@ -62,6 +62,6 @@ In recent years, Finning has invested in digital fleet management software, tele
 
 ## How to research Finning as an investment
 
-Start with the company's annual report and 20-F filing (SEC CIK 0002073638). Monitor new equipment sales volume, rental utilization rates, and parts revenue trends. Watch for changes in Caterpillar's pricing or allocation policies, and track mining and construction activity in Canada, South America, and the UK — these are the leading indicators of Finning's demand.
+Start with the company's [annual report](/10-k/) and 20-F filing (SEC CIK 0002073638). Monitor new equipment sales volume, rental utilization rates, and parts revenue trends. Watch for changes in Caterpillar's pricing or allocation policies, and track mining and construction activity in Canada, South America, and the UK — these are the leading indicators of Finning's demand.
 
-Key metrics include gross margin on equipment sales (which varies with product mix and competition), parts and service margins (which are stickier and higher-margin), inventory turnover (a sign of operational efficiency), and the aging of the equipment fleet in Finning's territories (older equipment needs more service and parts). A fundamental weakness in mining or construction activity will show up quickly in Finning's order books. Pay attention to management commentary on regional demand, customer sentiment, and any major changes to the Caterpillar relationship.
+Key metrics include gross margin on equipment sales (which varies with product mix and competition), parts and service margins (which are stickier and higher-margin), [inventory turnover](/inventory-turnover/) (a sign of operational efficiency), and the aging of the equipment fleet in Finning's territories (older equipment needs more service and parts). A fundamental weakness in mining or construction activity will show up quickly in Finning's order books. Pay attention to management commentary on regional demand, customer sentiment, and any major changes to the Caterpillar relationship.

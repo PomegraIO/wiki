@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Indofood Sukses Makmur, Tbk is Indonesia's most significant food company and one of the largest consumer-packaged-goods manufacturers in Southeast Asia. Listed on the Jakarta Stock Exchange (ticker PIFMF for American depositary shares), it controls commanding positions across instant noodles, snack foods, branded condiments, dairy, and distribution networks that reach into thousands of small retailers across the region. The company's wealth comes from the simple insight that developing markets need shelf-stable, affordable staples manufactured at scale—and that whoever builds the deepest distribution network to reach those customers tends to win.
+Indofood Sukses Makmur, Tbk is Indonesia's most significant food company and one of the largest consumer-packaged-goods manufacturers in Southeast Asia. Listed on the Jakarta [Stock Exchange](/stock-exchange/) (ticker PIFMF for American depositary shares), it controls commanding positions across instant noodles, snack foods, branded condiments, dairy, and distribution networks that reach into thousands of small retailers across the region. The company's wealth comes from the simple insight that developing markets need shelf-stable, affordable staples manufactured at scale—and that whoever builds the deepest distribution network to reach those customers tends to win.
 
 <aside class="wiki-infobox">
 <table>
@@ -69,11 +69,11 @@ A second pressure is input-cost volatility. Despite owning Bogasari, Indofood ca
 
 Health and nutrition consciousness is a slower but real threat. As incomes rise and urban populations grow, some consumers shift toward fresher, less-processed foods. Instant noodles are unlikely to disappear—the category remains staple in price-sensitive households—but its growth rate may moderate in developed urban centers.
 
-Currency risk also matters. Indofood generates earnings in Indonesian rupiah and other Southeast Asian currencies, yet much of the company's capital and investor base is dollar-denominated. Exchange-rate weakness can significantly reduce reported returns to foreign investors.
+[Currency risk](/currency-risk/) also matters. Indofood generates earnings in Indonesian rupiah and other Southeast Asian currencies, yet much of the company's capital and investor base is dollar-denominated. Exchange-rate weakness can significantly reduce reported returns to foreign investors.
 
 ## How to research Indofood
 
-Indofood files a Form 20-F with the U.S. Securities and Exchange Commission (CIK 0001445211) as a foreign private issuer, providing annual audited financial statements and extensive segment disclosure in English. The 20-F breaks down revenue by product category and by geography, outlines the company's competitive position, and details the main risk factors—commodity prices, retail transition, currency exposure, and competitive intensity.
+Indofood files a Form 20-F with the U.S. [Securities and Exchange Commission](/securities-and-exchange-commission/) (CIK 0001445211) as a foreign private issuer, providing annual audited financial statements and extensive segment disclosure in English. The 20-F breaks down revenue by product category and by geography, outlines the company's competitive position, and details the main risk factors—commodity prices, retail transition, currency exposure, and competitive intensity.
 
 For more current information, the company reports quarterly results to the Jakarta Stock Exchange under Indonesian accounting standards. Watch the trajectory of volume growth in instant noodles, margin trends as input costs shift, and management commentary on distribution to modern retail. The company's competitive position in each category and the health of its regional distribution footprint are the key operating metrics that signal whether Indofood's moat is holding or eroding.
 

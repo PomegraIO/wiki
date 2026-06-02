@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TCW Artificial Intelligence ETF (AIFD) is an actively managed fund that invests in companies positioned to capture the economic value created by artificial intelligence. Unlike a passive index fund that holds a fixed, rules-based list of stocks, AIFD is managed by TCW Group's investment team, which selects holdings based on a forward-looking thesis about which companies will benefit most from the AI wave. The fund trades on the NASDAQ as AIFD and represents one of several ETF attempts to package AI exposure in a format that individual investors and advisors can purchase without having to pick individual stocks.
+TCW Artificial Intelligence ETF (AIFD) is an [actively managed fund](/actively-managed-fund/) that invests in companies positioned to capture the economic value created by artificial intelligence. Unlike a passive [index fund](/index-fund/) that holds a fixed, rules-based list of stocks, AIFD is managed by TCW Group's investment team, which selects holdings based on a forward-looking thesis about which companies will benefit most from the AI wave. The fund trades on the [NASDAQ](/nasdaq/) as AIFD and represents one of several ETF attempts to package AI exposure in a format that individual investors and advisors can purchase without having to pick individual stocks.
 
 ## The rise of AI-focused investing
 
@@ -33,11 +33,11 @@ Early in the fund's life, holdings were concentrated heavily in the mega-cap sem
 
 ## Costs and risks
 
-AIFD is an actively managed ETF, which means it carries a higher expense ratio than a passive AI-tracking index fund would. The manager is being paid to make stock-picking decisions, and that service comes at a cost. This cost is justified only if the active management adds value—i.e., if AIFD's returns exceed what a simple AI-focused index would deliver after fees. Over shorter periods, active managers often underperform due to fees and bad timing, though over longer periods a skilled team can add value by avoiding value traps and capturing smaller opportunities others miss.
+AIFD is an actively managed ETF, which means it carries a higher [expense ratio](/expense-ratio/) than a passive AI-tracking index fund would. The manager is being paid to make stock-picking decisions, and that service comes at a cost. This cost is justified only if the active management adds value—i.e., if AIFD's returns exceed what a simple AI-focused index would deliver after fees. Over shorter periods, active managers often underperform due to fees and bad timing, though over longer periods a skilled team can add value by avoiding value traps and capturing smaller opportunities others miss.
 
 A deeper risk is the concentration of the AI narrative itself. If the investment world's enthusiasm for AI dims, or if actual AI results and economic value creation disappoint relative to the hype, a fund designed to capture AI's upside will suffer disproportionately. AIFD's fortunes are tied to the belief that AI will continue to be a dominant driver of corporate earnings and growth. If that belief falters, the fund could face outflows and underperformance against broader market indices.
 
-Additionally, semiconductor stocks—a major holding in AIFD—are cyclical. When the capital-spending cycle turns down or memory-chip demand weakens, even the best semiconductor firms can see earnings compress. The fund offers no protection against those normal business cycles; it simply bets that AI demand will sustain and grow the semiconductor cycle longer than it otherwise would.
+Additionally, semiconductor stocks—a major holding in AIFD—are cyclical. When the capital-spending cycle turns down or memory-chip demand weakens, even the best semiconductor firms can see earnings compress. The fund offers no protection against those normal [business cycles](/business-cycle/); it simply bets that AI demand will sustain and grow the semiconductor cycle longer than it otherwise would.
 
 ## Research and evaluation
 

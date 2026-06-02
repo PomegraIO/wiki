@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ISUL is a leveraged ETF that tracks a single company: Intuitive Surgical, the surgical-robotics firm that dominates minimally invasive surgery systems. The fund is designed to move twice as fast as ISRG's stock price each trading day, using daily rebalancing and borrowed money to amplify returns — but this amplification comes with hidden costs and risks that make ISUL suitable only for short-term tactical trading, not long-term ownership.
+ISUL is a [leveraged ETF](/leveraged-etf/) that tracks a single company: [Intuitive Surgical](/isrg-stock/), the surgical-robotics firm that dominates minimally invasive surgery systems. The fund is designed to move twice as fast as ISRG's stock price each trading day, using daily rebalancing and borrowed money to amplify returns — but this amplification comes with hidden costs and risks that make ISUL suitable only for short-term tactical trading, not long-term ownership.
 
 ## What ISUL tracks and aims to do
 
@@ -21,20 +21,20 @@ ISUL's stated objective is to deliver 2x the daily return of ISRG — that is, i
 
 ## How daily rebalancing and costs eat away returns
 
-The mechanism that makes ISUL work is also what makes it costly. Each trading day, GraniteShares rebalances to maintain the 2x leverage ratio. If ISRG rises sharply, the fund's excess gains are trimmed back to the target ratio; if ISRG falls, additional leverage is taken on to restore the 2x target. This daily rebalancing creates what is called **volatility decay** — a drag on longer-term returns whenever the market swings.
+The mechanism that makes ISUL work is also what makes it costly. Each trading day, GraniteShares rebalances to maintain the 2x [leverage ratio](/leverage-ratio-forex/). If ISRG rises sharply, the fund's excess gains are trimmed back to the target ratio; if ISRG falls, additional leverage is taken on to restore the 2x target. This daily rebalancing creates what is called **volatility decay** — a drag on longer-term returns whenever the market swings.
 
 Consider a simple example: suppose ISRG rises 10% one day, then falls 10% the next. An unlevered investor would break even. But ISUL moves 20% on day one (to 120% of its starting value) and then loses 20% on day two (falling to 96% of its starting value). The result is a net loss despite the underlying stock breaking even. This decay worsens as ISRG becomes more volatile — exactly when an investor might be tempted to own the fund for downside protection or tactical hedging.
 
-Beyond volatility decay, the fund carries a financing cost. GraniteShares borrows money at an interest rate to fund the extra shares it owns, and this borrowing cost is passed through to ISUL shareholders as a drag on returns. The fund's expense ratio is modest by leveraged standards, but the daily interest charge on the borrowed balance can accumulate over weeks and months, creating a real headwind for holders.
+Beyond volatility decay, the fund carries a financing cost. GraniteShares borrows money at an [interest rate](/interest-rate/) to fund the extra shares it owns, and this borrowing cost is passed through to ISUL shareholders as a drag on returns. The fund's [expense ratio](/expense-ratio/) is modest by leveraged standards, but the daily interest charge on the borrowed balance can accumulate over weeks and months, creating a real headwind for holders.
 
 ## Structure, risks, and who ISUL is for
 
-ISUL is a traditional ETF, not a leveraged note or swap-based product, so it owns actual shares of ISRG and rebalances daily in the open market. This structure is more transparent than some alternatives, but the daily rebalancing mechanics are still opaque to most retail investors. The fund trades on the Nasdaq with reasonable liquidity during market hours.
+ISUL is a traditional ETF, not a leveraged note or swap-based product, so it owns actual shares of ISRG and rebalances daily in the open market. This structure is more transparent than some alternatives, but the daily rebalancing mechanics are still opaque to most retail investors. The fund trades on the [Nasdaq](/nasdaq/) with reasonable liquidity during market hours.
 
-The critical risk is that ISUL is built for one-day or few-day holding periods. Over a week, a month, or longer, volatility decay and financing costs will almost certainly drag returns well below 2x the return of ISRG. A holder who bought ISUL with the intention of riding a long-term uptrend in ISRG would likely underperform the stock itself — sometimes by a factor of two or more — because of the way leverage interacts with daily volatility and cost. The fund is not a substitute for buying ISRG outright and holding it.
+The critical risk is that ISUL is built for one-day or few-day [holding periods](/holding-period/). Over a week, a month, or longer, volatility decay and financing costs will almost certainly drag returns well below 2x the return of ISRG. A holder who bought ISUL with the intention of riding a long-term uptrend in ISRG would likely underperform the stock itself — sometimes by a factor of two or more — because of the way leverage interacts with daily volatility and cost. The fund is not a substitute for buying ISRG outright and holding it.
 
 ISUL is designed for traders who believe ISRG will rise sharply over the next few hours or days and want to amplify their exposure, or for sophisticated portfolio managers using it as a tactical hedge against a short position elsewhere. It is not appropriate for long-term investors, retirement accounts, or anyone who cannot monitor the position daily.
 
 ## How to research leveraged products
 
-Investors interested in leveraged ETFs should read the prospectus carefully, paying close attention to the sections on daily rebalancing, financing costs, and volatility decay. GraniteShares publishes fact sheets showing historical tracking error and the impact of volatility on cumulative returns. The SEC and financial regulators have published warnings about leveraged and inverse ETFs, emphasizing that they are tactical trading tools, not investments. Anyone considering ISUL should compare its risk and cost profile to buying ISRG outright and using options or other derivatives for leverage if amplification is truly needed.
+Investors interested in leveraged ETFs should read the prospectus carefully, paying close attention to the sections on daily rebalancing, financing costs, and volatility decay. GraniteShares publishes fact sheets showing historical tracking error and the impact of volatility on cumulative returns. The SEC and financial regulators have published warnings about leveraged and [inverse ETFs](/inverse-etf/), emphasizing that they are tactical trading tools, not investments. Anyone considering ISUL should compare its risk and cost profile to buying ISRG outright and using options or other derivatives for leverage if amplification is truly needed.

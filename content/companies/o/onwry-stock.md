@@ -57,7 +57,7 @@ The broader opportunity is beyond spinal cord injury. Spinal cord stimulation te
 
 ## The competitive and technological landscape
 
-Onward is not the only company pursuing spinal cord stimulation for spinal cord injury. Several larger medical-device companies (Medtronic, Abbott, Boston Scientific) have spinal-stimulation portfolios primarily focused on pain management, and a few are exploring motor recovery. Academic and smaller biotech companies are also researching epidural stimulation, some with promising early data.
+Onward is not the only company pursuing spinal cord stimulation for spinal cord injury. Several larger medical-device companies (Medtronic, Abbott, [Boston Scientific](/bsx-stock/)) have spinal-stimulation portfolios primarily focused on pain management, and a few are exploring motor recovery. Academic and smaller biotech companies are also researching epidural stimulation, some with promising early data.
 
 Onward's advantages are technical (it has developed optimized hardware and software) and clinical (it has invested heavily in clinical validation and data). Its disadvantages are scale and resources — the larger competitors have more capital, manufacturing capacity, and global sales infrastructure.
 
@@ -71,4 +71,4 @@ Monitor clinical trial results closely. Announcements of new trial data, positiv
 
 Track regulatory updates. Announcements that the company has submitted an application to the FDA or EMA, or that it has received feedback from regulators, are material. The regulatory timeline is a key milestone for the path to commercialization.
 
-Finally, monitor Onward's partnerships and partnerships with larger medical-device or biotech companies. Announcements of collaboration, co-development, or potential acquisition discussions signal the company's strategic direction and potential paths to commercialization. Healthcare sector news and investor conferences where medical-device companies present are good sources for updates on Onward's progress and competitive positioning.
+Finally, monitor Onward's partnerships and partnerships with larger medical-device or biotech companies. Announcements of collaboration, co-development, or potential [acquisition](/acquisition/) discussions signal the company's strategic direction and potential paths to commercialization. Healthcare sector news and investor conferences where medical-device companies present are good sources for updates on Onward's progress and competitive positioning.

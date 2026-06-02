@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-Apogee Acquisition Corp is a blank-check company incorporated in the Cayman Islands and designed as a vehicle for acquiring an operating business through a merger or similar transaction. Like all special purpose acquisition vehicles, or SPACs, Apogee has no operating business of its own — it raised capital from investors through a public offering with the explicit purpose of finding and combining with an existing company, typically within a defined timeframe.
+Apogee [Acquisition](/acquisition/) Corp is a blank-check company incorporated in the Cayman Islands and designed as a vehicle for acquiring an operating business through a [merger](/merger/) or similar transaction. Like all special purpose acquisition vehicles, or SPACs, Apogee has no operating business of its own — it raised capital from investors through a public offering with the explicit purpose of finding and combining with an existing company, typically within a defined timeframe.
 
 ## How Apogee was capitalized
 
-Apogee completed its initial public offering on April 8, 2026, raising $172.5 million across 17.25 million units at $10 per unit. Each unit consisted of three securities: a Class A ordinary share, a public warrant priced at $11.50 per share, and a right to one-fifth of a share upon completion of a business combination. The units began trading immediately on the NASDAQ under the ticker AACPU, with Class A shares, warrants, and rights expected to trade separately under AACP, AACPW, and AACPR respectively.
+Apogee completed its [initial public offering](/initial-public-offering/) on April 8, 2026, raising $172.5 million across 17.25 million units at $10 per unit. Each unit consisted of three securities: a Class A ordinary share, a public warrant priced at $11.50 per share, and a right to one-fifth of a share upon completion of a [business combination](/business-combination-purchase/). The units began trading immediately on the [NASDAQ](/nasdaq/) under the ticker AACPU, with Class A shares, warrants, and rights expected to trade separately under AACP, AACPW, and AACPR respectively.
 
-The trust account, funded from the IPO proceeds and additional capitalization, provides the dry powder for Apogee to pursue a combination target. Under SPAC rules, the trust capital may be deployed only when the company announces a definitive merger agreement, and shareholders holding Class A shares retain redemption rights if they choose not to proceed with the proposed combination.
+The trust account, funded from the IPO proceeds and additional capitalization, provides the dry powder for Apogee to pursue a combination target. Under SPAC rules, the trust capital may be deployed only when the company announces a definitive merger agreement, and shareholders holding Class A shares retain [redemption rights](/redemption-rights-equity/) if they choose not to proceed with the proposed combination.
 
 ## Investment thesis and target sectors
 

@@ -24,7 +24,7 @@ Acurx went public via [initial public offering](/initial-public-offering/) on th
 
 ## Why does antibiotic development matter?
 
-Antibiotic-resistant bacteria represent a mounting public-health threat. Infections that once responded to standard drugs now require newer agents, and that pipeline of new antibiotics is thin. Government bodies and the World Health Organization flag resistance as a critical gap. Companies like Acurx target this gap—often with incentives from regulators (like FDA [Fast Track](/ftrk-stock/) designation) and public-health pressure—though the economics of antibiotic development remain challenging: successful drugs often see limited pricing power because health systems prioritize cost control and stewardship to slow resistance.
+Antibiotic-resistant bacteria represent a mounting public-health threat. Infections that once responded to standard drugs now require newer agents, and that pipeline of new antibiotics is thin. Government bodies and the World Health Organization flag resistance as a critical gap. Companies like Acurx target this gap—often with incentives from regulators (like FDA Fast Track designation) and public-health pressure—though the economics of antibiotic development remain challenging: successful drugs often see limited pricing power because health systems prioritize cost control and stewardship to slow resistance.
 
 ## How does this fit into investing frameworks?
 

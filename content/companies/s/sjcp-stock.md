@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The **SanJac Alpha Core Plus Bond ETF** (SJCP) holds a mixture of government bonds, corporate bonds, and mortgage-backed securities. It is a balanced approach: safer than betting on corporate debt alone, but yielding more than holding government bonds only.*
+*The **SanJac Alpha Core Plus [Bond ETF](/bond-etf/)** (SJCP) holds a mixture of government [bonds](/bond/), [corporate bonds](/corporate-bond/), and mortgage-backed securities. It is a balanced approach: safer than betting on corporate debt alone, but yielding more than holding government bonds only.*
 
 <aside class="wiki-infobox">
 <table>
@@ -38,16 +38,16 @@ Pure government bonds are safe. You sleep at night. But the yield is low. Pure c
 
 ## How you make money
 
-You get paid in two ways. First: interest coupons. The bonds pay every six months. That income flows to you as fund distributions, usually monthly or quarterly. Second: price changes. When rates fall, existing bonds become worth more. When rates rise, they become worth less. You only lose money on those price swings if you sell at the wrong time. If you hold to maturity, you get your principal back.
+You get paid in two ways. First: interest coupons. The bonds pay every six months. That income flows to you as [fund distributions](/fund-distribution/), usually monthly or quarterly. Second: price changes. When rates fall, existing bonds become worth more. When rates rise, they become worth less. You only lose money on those price swings if you sell at the wrong time. If you hold to maturity, you get your principal back.
 
 ## The risks
 
-Companies can fail to pay. SJCP limits this by holding only solid companies, but problems still happen. Recessions make it harder for any company to service debt. Rising interest rates lower bond prices. If you need to sell SJCP when rates are climbing, you get less than you paid. It is temporary if you hold through maturity, but it stings in the moment. Inflation is a slow risk: if prices rise, your fixed interest payments buy less over time.
+Companies can fail to pay. SJCP limits this by holding only solid companies, but problems still happen. [Recessions](/recession/) make it harder for any company to service debt. Rising [interest rates](/interest-rate/) lower bond prices. If you need to sell SJCP when rates are climbing, you get less than you paid. It is temporary if you hold through maturity, but it stings in the moment. [Inflation](/inflation/) is a slow risk: if prices rise, your fixed interest payments buy less over time.
 
 ## Cost and who this is for
 
-The annual fee is roughly 0.15 to 0.35 percent. Not expensive. The fund trades on NASDAQ like any stock, so buying and selling is easy. This fund fits someone who wants income from bonds without the volatility of long-term bonds, and without sacrificing all yield for the safety of government debt only. It is not for someone who needs the absolute safest bonds — stick with Treasuries alone. And it is not for someone chasing maximum yield — riskier corporate funds pay more.
+The annual fee is roughly 0.15 to 0.35 percent. Not expensive. The fund trades on [NASDAQ](/nasdaq/) like any stock, so buying and selling is easy. This fund fits someone who wants income from bonds without the volatility of long-term bonds, and without sacrificing all yield for the safety of government debt only. It is not for someone who needs the absolute safest bonds — stick with Treasuries alone. And it is not for someone chasing maximum yield — riskier corporate funds pay more.
 
 ## How to evaluate it
 
-Read SanJac's fact sheet and prospectus. They list exactly what the fund holds, fees, and rebalancing rules. Look at the current holdings to see real Treasury bonds, corporate names, and mortgage securities. Compare SJCP's yield and price movements to other bond ETFs. Watch it when the Federal Reserve raises or lowers rates. That is how you learn what bonds actually do.
+Read SanJac's fact sheet and prospectus. They list exactly what the fund holds, fees, and rebalancing rules. Look at the current holdings to see real [Treasury bonds](/treasury-bond/), corporate names, and mortgage securities. Compare SJCP's yield and price movements to other bond ETFs. Watch it when the [Federal Reserve](/federal-reserve/) raises or lowers rates. That is how you learn what bonds actually do.

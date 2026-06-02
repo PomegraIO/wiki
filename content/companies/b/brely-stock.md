@@ -30,7 +30,7 @@ Each step adds cost and complexity. A mine-to-refinery operation at scale must m
 - Mining equipment and labor
 - Physical concentration infrastructure
 - Chemical processing facilities
-- [Waste management](/wm-stock/) and environmental remediation
+- Waste management and environmental remediation
 - Supply and offtake agreements with customers
 
 This vertical integration is necessary for Brazilian Rare Earths to achieve margin, but it also concentrates risk. A disruption anywhere in the chain—permitting delays, process downtime, pricing weakness—directly impacts the company's profitability.

@@ -46,7 +46,7 @@ ORANGE is neither a national carrier like Bell or Rogers, nor a hyperlocal munic
 
 <div class="wiki-seealso">
 ### Closely related
-- [/fnfi-stock/](/fnfi-stock/) — another small North [American financial](/afg-stock/)/telecom utility
+- [/fnfi-stock/](/fnfi-stock/) — another small North American financial/telecom utility
 - [/fngr-stock/](/fngr-stock/) — different sector, but similarly niche public company
 
 ### Wider context

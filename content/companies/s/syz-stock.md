@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The Lazard US Systematic Small Cap Equity ETF (ticker: SYZ) is an exchange-traded fund that applies systematic, quantitative methods to select small-cap US stocks meeting criteria for financial health, profitability, and reasonable valuation. It brings Lazard's decades of quantitative equity experience into the small-cap space via a rules-based ETF wrapper.*
+*The Lazard US Systematic Small Cap [Equity ETF](/equity-etf/) (ticker: SYZ) is an exchange-traded fund that applies systematic, quantitative methods to select small-cap US stocks meeting criteria for financial health, profitability, and reasonable valuation. It brings Lazard's decades of quantitative equity experience into the small-cap space via a rules-based ETF wrapper.*
 
 <aside class="wiki-infobox">
 <table>
@@ -32,13 +32,13 @@ When Lazard chose to enter the small-cap space, it did so through the lens of qu
 
 ## The systematic small-cap opportunity
 
-The decision to apply systematic methods to small-cap investing reflects a deliberate conviction: that the Russell 2000 universe contains persistent pricing inefficiencies that a transparent, rules-based approach can exploit without the behavioural bias and overconfidence that human stock-pickers often exhibit. The small-cap market is large enough to offer meaningful diversification but fragmented and under-researched enough that systematic selection can matter.
+The decision to apply systematic methods to small-cap investing reflects a deliberate conviction: that the Russell 2000 universe contains persistent pricing inefficiencies that a transparent, rules-based approach can exploit without the behavioural bias and overconfidence that human stock-pickers often exhibit. The small-cap market is large enough to offer meaningful [diversification](/diversification/) but fragmented and under-researched enough that systematic selection can matter.
 
-The quantitative framework screens the universe using predetermined rules: metrics of financial health (balance-sheet strength, debt levels), profitability (earnings quality and margins), and valuation (reasonable prices relative to fundamentals). Different weightings emphasise quality, value, or a blend, but the core principle is consistent: apply the same rules to every candidate, exclude those that fail, and rebalance at fixed intervals regardless of market conditions.
+The quantitative framework screens the universe using predetermined rules: metrics of financial health (balance-sheet strength, debt levels), profitability ([earnings quality](/earnings-quality/) and margins), and valuation (reasonable prices relative to fundamentals). Different weightings emphasise quality, value, or a blend, but the core principle is consistent: apply the same rules to every candidate, exclude those that fail, and rebalance at fixed intervals regardless of market conditions.
 
 ## Evolution into the ETF wrapper
 
-Lazard eventually structured this systematic approach as an ETF, reflecting the broader industry shift toward ETF wrappers for both passive and active strategies. The ETF vehicle offers daily liquidity, tight trading spreads, and lower operational costs than a traditional mutual fund. An investor can buy or sell shares at any point during the trading day at market prices, unlike a mutual fund that prices once at day-end. The structure also brings transparency: holdings are disclosed regularly, so investors see exactly what the fund owns.
+Lazard eventually structured this systematic approach as an ETF, reflecting the broader industry shift toward ETF wrappers for both passive and active strategies. The ETF vehicle offers daily liquidity, tight trading spreads, and lower operational costs than a traditional [mutual fund](/mutual-fund/). An investor can buy or sell shares at any point during the trading day at market prices, unlike a mutual fund that prices once at day-end. The structure also brings transparency: holdings are disclosed regularly, so investors see exactly what the fund owns.
 
 This modernization did not change the underlying strategy but made it more accessible and operationally flexible. The quantitative methodology remained the same; the packaging changed.
 
@@ -48,7 +48,7 @@ SYZ's performance relative to a pure small-cap index oscillates with market cond
 
 This volatility in relative performance is not accidental; it is the explicit cost of the strategy. An investor buying SYZ is betting that over a long enough period, the disciplined systematic screen will isolate sufficiently better-quality businesses at reasonable prices to compensate for the periods of underperformance. That bet requires conviction and a long time horizon.
 
-The fund holds 200 to 400 stocks, far fewer than a passive small-cap index but more diversified than a focused growth fund. This concentration relative to a pure index is intentional: the fund is betting that its systematic rules isolate genuinely better-quality businesses trading at attractive prices.
+The fund holds 200 to 400 stocks, far fewer than a passive small-cap index but more diversified than a focused [growth fund](/growth-fund/). This concentration relative to a pure index is intentional: the fund is betting that its systematic rules isolate genuinely better-quality businesses trading at attractive prices.
 
 ## The small-cap risk profile, then and now
 
@@ -68,4 +68,4 @@ Start with SYZ's prospectus and fact sheet to understand the exact quantitative 
 
 Compare SYZ's trailing returns to standard small-cap indices like the Russell 2000 or the CRSP US Small-Cap Index. This shows whether the systematic selection has added or detracted value over your intended time horizon. Understand that the fund's purpose is not to match a small-cap index but to exploit inefficiencies the index captures poorly. For that bet to work, you must have a long time horizon and tolerance for periods of underperformance.
 
-Examine the expense ratio relative to both passive small-cap funds (much lower) and active small-cap mutual funds (higher). Assess whether small-cap exposure itself is appropriate for your portfolio, regardless of how it is selected.
+Examine the [expense ratio](/expense-ratio/) relative to both passive small-cap funds (much lower) and active small-cap mutual funds (higher). Assess whether small-cap exposure itself is appropriate for your portfolio, regardless of how it is selected.

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The YieldMax AI Option Income Strategy ETF (AIYY) holds a portfolio of AI-related stocks and systematically sells out-of-the-money call options against them. Those option sales generate immediate premium income, paid out as monthly distributions, in exchange for capping the portfolio's upside if the stocks rally hard.*
+*The YieldMax AI Option Income Strategy ETF (AIYY) holds a portfolio of AI-related stocks and systematically sells out-of-the-money [call options](/call-option/) against them. Those option sales generate immediate premium income, paid out as monthly distributions, in exchange for capping the portfolio's upside if the stocks rally hard.*
 
 <aside class="wiki-infobox">
 <table>
@@ -30,13 +30,13 @@ handwritten: true
 
 AIYY owns a basket of stocks in the artificial-intelligence and large-cap technology space. Against those holdings, YieldMax writes call options each month — essentially selling investors the right to buy those stocks at a fixed price. Those option buyers pay a premium upfront, which YieldMax collects and distributes to AIYY shareholders.
 
-The mechanics are straightforward but consequential. Suppose AIYY holds a tech stock trading at $100. Each month the fund writes and sells a call option with a strike price of, say, $105 — giving the call buyer the right to buy the stock at that price. If the stock stays below $105 at expiration, the option expires worthless, YieldMax pockets the premium, and the process repeats next month. If the stock rallies past $105, the call is exercised: the stock gets called away at $105, and AIYY shareholders miss any gain beyond that price.
+The mechanics are straightforward but consequential. Suppose AIYY holds a tech stock trading at $100. Each month the fund writes and sells a call option with a [strike price](/strike-price/) of, say, $105 — giving the call buyer the right to buy the stock at that price. If the stock stays below $105 at expiration, the option expires worthless, YieldMax pockets the premium, and the process repeats next month. If the stock rallies past $105, the call is exercised: the stock gets called away at $105, and AIYY shareholders miss any gain beyond that price.
 
 That trade-off — capping gains in exchange for steady monthly income — is the core of the fund's appeal and its risk.
 
 ## The income and the cost
 
-The monthly distributions come directly from the option premiums. In a stable or slowly rising market, those premiums stack up and deliver an attractive yield relative to owning the stocks outright and waiting for dividends and capital appreciation. The income is taxable (usually as a mix of short-term gains and return of capital; read the annual statement carefully), but for investors in lower tax brackets or those holding the fund in tax-sheltered accounts, the regular payouts are the main draw.
+The monthly distributions come directly from the [option premiums](/option-premium/). In a stable or slowly rising market, those premiums stack up and deliver an attractive yield relative to owning the stocks outright and waiting for [dividends](/dividend/) and capital appreciation. The income is taxable (usually as a mix of short-term gains and return of capital; read the annual statement carefully), but for investors in lower tax brackets or those holding the fund in tax-sheltered accounts, the regular payouts are the main draw.
 
 The cost of that income is opportunity cost. If the underlying AI stocks rally sharply — which they have been known to do — AIYY shareholders are capped near the strike price each month and miss the full upside. Over a multi-year period of strong tech gains, that drag can be substantial. The fund also carries active-management expenses and option-execution costs, all of which come out before distributions.
 

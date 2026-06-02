@@ -19,7 +19,7 @@ RKNG buys shares in retail companies and consumer brands. Apparel. Shoes. Sporti
 
 The one rule: the founder or a top insider must own a material stake. Usually 10 percent or more. Sometimes the founder owns half the company. This is the screening rule that defines the fund.
 
-You will not find Amazon, Walmart, or Target in RKNG. The founders of those companies cashed out long ago or diversified. Instead, RKNG focuses on names where the founder still has real skin in the game—still owns millions of dollars of stock and will pay the price if the business fails.
+You will not find Amazon, [Walmart](/wmt-stock/), or Target in RKNG. The founders of those companies cashed out long ago or diversified. Instead, RKNG focuses on names where the founder still has real skin in the game—still owns millions of dollars of stock and will pay the price if the business fails.
 
 ## Why this bet makes sense
 
@@ -29,7 +29,7 @@ This focus on founder-owned businesses is different from most large retailers. M
 
 ## The catch
 
-But founder ownership does not guarantee success. Some founders are stubborn. They resist change. They miss industry trends. They over-leverage the balance sheet for projects that fail. Insider ownership is a good sign, not a guarantee.
+But founder ownership does not guarantee success. Some founders are stubborn. They resist change. They miss industry trends. They over-leverage the [balance sheet](/balance-sheet/) for projects that fail. Insider ownership is a good sign, not a guarantee.
 
 Also, founder-owned retailers are often younger and smaller. Many will fail. Stocks in the fund can drop 50 percent or go to zero. This is not a safe fund. It is riskier than buying the whole market.
 
@@ -39,7 +39,7 @@ Retail itself is cyclical. In good times, people spend money and founder-led ret
 
 RKNG is a regular stock fund. You buy shares on the exchange. The fund holds the retail stocks. It trades during market hours just like any stock.
 
-The expense ratio is moderate. Higher than a total-market index fund, lower than a typical actively managed fund. The fund follows a screening rule (founder ownership) rather than picking individual stocks, so costs are reasonable.
+The [expense ratio](/expense-ratio/) is moderate. Higher than a total-market [index fund](/index-fund/), lower than a typical [actively managed fund](/actively-managed-fund/). The fund follows a screening rule (founder ownership) rather than picking individual stocks, so costs are reasonable.
 
 Trading volume is decent. The fund moves millions of shares most days. You can get in and out without big trading costs.
 

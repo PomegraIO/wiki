@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Eaton Vance Tax-Advantaged Global Dividend [Income Fund](/income-fund/) began as a specialized vehicle within the Eaton Vance family of investment products, building on the firm's long history in income-focused investing. Today it trades on the NYSE under the ticker ETG and serves a specific investor niche: those seeking a professionally managed portfolio of dividend-paying stocks and bonds from multiple countries, structured to produce regular cash distributions and to minimize the tax drag that comes with holding dividend stocks directly.
+The Eaton Vance Tax-Advantaged Global [Dividend](/dividend/) [Income Fund](/income-fund/) began as a specialized vehicle within the Eaton Vance family of investment products, building on the firm's long history in income-focused investing. Today it trades on the NYSE under the ticker ETG and serves a specific investor niche: those seeking a professionally managed portfolio of dividend-paying stocks and [bonds](/bond/) from multiple countries, structured to produce regular cash distributions and to minimize the tax drag that comes with holding dividend stocks directly.
 
 Understanding ETG requires understanding what a closed-end fund is and why it exists. Unlike an open-end [mutual fund](/mutual-fund/), which investors can buy or redeem at [net asset value](/net-asset-value/) any day the market is open, a closed-end fund is a fixed pool of capital. Investors buy and sell shares of the fund through exchanges — like any stock — at prices that float above or below the fund's underlying net asset value depending on supply and demand. Eaton Vance created ETG to offer investors a way to capture yield across global dividend stocks without having to build and manage that portfolio themselves.
 
@@ -25,7 +25,7 @@ A key feature of the fund is its use of leverage. The fund borrows money (issues
 
 The "Tax-Advantaged" part of the fund's name reflects a deliberate design feature. The fund manages its distributions using a return-of-capital approach, which means some distributions to shareholders are classified as a return of the shareholder's own capital rather than taxable income. This structure reduces the immediate federal tax bill on distributions — a critical advantage for taxable accounts. Individual investors holding the dividend stocks directly would owe tax on the full dividend received; holding the same exposure through ETG smooths that tax burden over time.
 
-This is a trade-off. Return-of-capital distributions reduce the cost basis of the investor's shares, so capital gains taxes are deferred rather than eliminated. But for investors in high tax brackets or those seeking current income without an immediate large tax bill, the structure is valuable.
+This is a trade-off. Return-of-capital distributions reduce the [cost basis](/cost-basis/) of the investor's shares, so capital gains taxes are deferred rather than eliminated. But for investors in high tax brackets or those seeking current income without an immediate large tax bill, the structure is valuable.
 
 ## Scale and the power of pooling
 

@@ -4,7 +4,7 @@ description: "A diversified energy company with exposure to renewable and unconv
 keywords: ["GLND", "Greenland Energy", "renewable energy", "unconventional resources", "energy sector", "emerging markets"]
 ---
 
-*[Greenland Energy Co](/glnd-stock/) (ticker GLND) positions itself as a [diversified energy](/dec-stock/) operator distinct from pure-play oil and gas majors by maintaining substantial renewable and emerging-market exposure alongside conventional hydrocarbon assets. Where supermajors like ExxonMobil and [Chevron](/cvx-stock/) operate scaled infrastructure in mature developed markets, GLND accepts geographic and regulatory [concentration risk](/concentration-risk/) in exchange for potential upside from frontier development and renewable-energy growth. This profile creates structural differences in capital requirements, [return volatility](/return-on-equity/), and strategic optionality compared to established competitors.*
+*[Greenland Energy Co](/glnd-stock/) (ticker GLND) positions itself as a diversified energy operator distinct from pure-play oil and gas majors by maintaining substantial renewable and emerging-market exposure alongside conventional hydrocarbon assets. Where supermajors like ExxonMobil and [Chevron](/cvx-stock/) operate scaled infrastructure in mature developed markets, GLND accepts geographic and regulatory [concentration risk](/concentration-risk/) in exchange for potential upside from frontier development and renewable-energy growth. This profile creates structural differences in capital requirements, [return volatility](/return-on-equity/), and strategic optionality compared to established competitors.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GLND</td></tr>

@@ -4,7 +4,7 @@ description: A regional bank holding company operating community banks in New Je
 keywords: [bank, community bank, Federal Reserve, OCC, charter, deposits]
 ---
 
-*At **ConnectOne Bancorp** (ticker CNOB, CIK 712771), the regulatory landscape is defined by a dual banking system: the company holds a [national bank](/nbhc-stock/) charter, placing it under the jurisdiction of the [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/) at the federal level, while simultaneously subject to supervision by state banking authorities where it operates and to the [Federal Reserve](/federal-reserve/)'s oversight as a bank holding company.*
+*At **ConnectOne Bancorp** (ticker CNOB, CIK 712771), the regulatory landscape is defined by a dual banking system: the company holds a national bank charter, placing it under the jurisdiction of the [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/) at the federal level, while simultaneously subject to supervision by state banking authorities where it operates and to the [Federal Reserve](/federal-reserve/)'s oversight as a bank holding company.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CNOB</td></tr>

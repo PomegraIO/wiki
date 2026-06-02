@@ -19,17 +19,17 @@ Bank of Montreal opened its doors in 1817 with the dual purpose of serving merch
 
 The bank grew as Montreal and then Canada itself grew. Following Confederation in 1867, Bank of Montreal became a natural anchor for a newly independent nation's financial system. The bank opened branches across the territories and provinces as settlement expanded westward. By the late nineteenth century, it was the largest bank in Canada. When gold discoveries in the Yukon and British Columbia accelerated western expansion, Bank of Montreal financed mining operations and the merchants who supplied them.
 
-The twentieth century brought consolidation of the banking industry. Hundreds of small, regional banks founded across Canada in the late 1800s failed or merged into larger institutions. Bank of Montreal, being large and well-capitalized, absorbed smaller competitors and strengthened its position. By the middle of the twentieth century, Bank of Montreal and four other large banks—Royal Bank of Canada, Toronto-Dominion Bank, Bank of Nova Scotia, and Canadian Imperial Bank of Commerce—dominated Canadian banking.
+The twentieth century brought consolidation of the banking industry. Hundreds of small, regional banks founded across Canada in the late 1800s failed or merged into larger institutions. Bank of Montreal, being large and well-capitalized, absorbed smaller competitors and strengthened its position. By the middle of the twentieth century, Bank of Montreal and four other large banks—[Royal Bank of Canada](/ry-stock/), Toronto-Dominion Bank, [Bank of Nova Scotia](/bns-stock/), and Canadian Imperial Bank of Commerce—dominated Canadian banking.
 
-The bank survived the Great Depression of the 1930s, though like all banks it faced deposit runs and borrower defaults. Its size and diversified customer base allowed it to withstand the crisis better than thousands of smaller institutions that failed. The Depression was a reminder of the bank's vulnerability to economic shocks and the importance of maintaining strong capital reserves.
+The bank survived the [Great Depression](/great-depression/) of the 1930s, though like all banks it faced deposit runs and borrower defaults. Its size and diversified customer base allowed it to withstand the crisis better than thousands of smaller institutions that failed. The Depression was a reminder of the bank's vulnerability to economic shocks and the importance of maintaining strong capital reserves.
 
 ## Expansion into the United States (1960–2000)
 
 Throughout most of its history, Bank of Montreal's operations were primarily Canadian. However, in the second half of the twentieth century, as the US economy grew and became increasingly important to Canada, Bank of Montreal established a foothold in the United States. Initially, this meant opening correspondent relationships with US banks and establishing offices in New York and other major financial centres to facilitate trade finance and foreign exchange transactions.
 
-As US banking deregulation progressed in the 1980s and 1990s, Bank of Montreal explored larger acquisitions. The bank acquired Harris Bancorp in 1984, gaining a network of branches and customers across Illinois, giving it a material presence in the US Midwest. The Harris brand became the vehicle for Bank of Montreal's US retail and commercial banking operations. Through the 1990s, the bank grew this platform organically and through smaller acquisitions, expanding across the Great Lakes and into adjacent states.
+As US banking deregulation progressed in the 1980s and 1990s, Bank of Montreal explored larger [acquisitions](/acquisition/). The bank acquired Harris Bancorp in 1984, gaining a network of branches and customers across Illinois, giving it a material presence in the US Midwest. The Harris brand became the vehicle for Bank of Montreal's US retail and commercial banking operations. Through the 1990s, the bank grew this platform organically and through smaller acquisitions, expanding across the Great Lakes and into adjacent states.
 
-This US expansion was strategically important. It diversified Bank of Montreal's earning streams away from a maturing Canadian market and exposed the bank to higher US interest rates during much of the 1980s and 1990s. It also created operational complexity: the bank now had to manage two regulatory regimes, two currency exposures, different lending practices, and different economic cycles.
+This US expansion was strategically important. It diversified Bank of Montreal's earning streams away from a maturing Canadian market and exposed the bank to higher US [interest rates](/interest-rate/) during much of the 1980s and 1990s. It also created operational complexity: the bank now had to manage two regulatory regimes, two currency exposures, different lending practices, and different economic cycles.
 
 ## The Marshall & Ilsley acquisition and modern era (2000–present)
 
@@ -45,7 +45,7 @@ Since the 2000s, Bank of Montreal has faced the same technological disruption th
 
 Bank of Montreal responded with significant investment in technology and digital channels, reducing branch footprints and migrating customers to self-service platforms. This investment is ongoing and necessary to compete. However, it required the bank to manage the cost of legacy systems and the transition away from them while simultaneously building new capabilities—a difficult multi-year exercise.
 
-The bank also faced new regulatory requirements following the 2008 financial crisis. Higher capital requirements, stress testing, liquidity regulations, and resolution planning all increased the cost of doing business and constrained how much capital the bank could return to shareholders. In the post-2008 era, Bank of Montreal, like all large banks, became more capital-intensive and more heavily regulated.
+The bank also faced new regulatory requirements following the 2008 financial crisis. Higher capital requirements, [stress testing](/stress-testing/), liquidity regulations, and resolution planning all increased the cost of doing business and constrained how much capital the bank could return to shareholders. In the post-2008 era, Bank of Montreal, like all large banks, became more capital-intensive and more heavily regulated.
 
 ## Bank of Montreal today
 
@@ -53,7 +53,7 @@ By the 2020s, Bank of Montreal had evolved from a Canadian bank with US operatio
 
 The bank's strategy for the 2020s centered on digital transformation, cost reduction, and positioning wealth management and investment banking as growth engines. This strategy makes sense: traditional net-interest-margin banking faced structural headwinds from competition and regulation, while high-margin, capital-light wealth management offered better return prospects.
 
-Yet Bank of Montreal also remained vulnerable to economic cycles. A recession in Canada or the US would damage loan portfolios and profitability. Real estate market downturns, given the bank's large mortgage exposure, would materially harm earnings. And the long-term challenge of fintech competition and the shift toward capital-light, fee-based businesses meant the traditional banking model was gradually becoming less important as a share of the financial system.
+Yet Bank of Montreal also remained vulnerable to economic cycles. A [recession](/recession/) in Canada or the US would damage loan portfolios and profitability. Real estate market downturns, given the bank's large mortgage exposure, would materially harm earnings. And the long-term challenge of fintech competition and the shift toward capital-light, fee-based businesses meant the traditional banking model was gradually becoming less important as a share of the financial system.
 
 ## How the institution endures
 

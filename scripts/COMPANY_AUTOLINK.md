@@ -132,7 +132,47 @@ After editing the lists, re-run with `--dry-run` to preview before applying.
 Because the script is idempotent, it is safe to re-run after tuning — it only
 adds links that aren't already present.
 
+## Update — unified, corpus-scale linker (`autolink_wiki.py`)
+
+The two original passes (`autolink_companies.py` for concepts,
+`autolink_company_names.py` for peer companies) were correct but **too slow at
+corpus scale** — each ran thousands of `regex.finditer` scans per file (~1 s/file
+→ ~3 h for 11k pages), so in practice only a few letters ever got linked. Most
+profiles still carried 1–2 links.
+
+`scripts/autolink_wiki.py` replaces both with a single **first-token-bucket**
+matcher that walks each body once: the full corpus runs in ~35 s. It links both
+finance concepts *and* peer companies (multi-word names wholesale; single-word
+names only from a FAMOUS allowlist, matched case-sensitively), with the same
+masking / allowlist-safe / idempotent guarantees, plus two fixes the old code
+lacked: it strips the UTF-8 **BOM** before splitting front matter (otherwise the
+whole front matter is treated as body and links get injected into
+title/description/keywords → invalid YAML), and it never lets an anchor span a
+quote.
+
+```bash
+python scripts/autolink_wiki.py --all --dry-run   # preview (≈35k links)
+python scripts/autolink_wiki.py --all             # apply
+```
+
+### Precision: the audited STOP-phrase list
+
+Multi-word company names are *not* always unambiguous — "financial institutions"
+(→ FISI), "premium brands" (→ PRBRY), "quantum computing" (→ QUBT), "national
+bank" (→ NBHC) are generic phrases that happen to be company names. A subagent
+audit classified every distinct linked company phrase as a distinctive name
+(KEEP) or a generic phrase (STOP); the 235 STOP phrases live in
+`scripts/_stop_phrases.txt`. `autolink_wiki.py` reads that file and never links
+those phrases. `scripts/clean_stop_links.py` retro-cleans the same generic
+mislinks left by earlier runs (keeps the text, drops only the link, company
+targets only).
+
 ## Files
 
-- `scripts/autolink_companies.py` — the linker.
+- `scripts/autolink_wiki.py` — the fast unified linker (concepts + companies).
+- `scripts/_stop_phrases.txt` — audited generic phrases never to link.
+- `scripts/clean_stop_links.py` — remove generic-phrase→company mislinks.
+- `scripts/autolink_companies.py`, `scripts/autolink_company_names.py` — the
+  original (slower) single-purpose passes, superseded by `autolink_wiki.py`.
 - `scripts/validate_links.py` — post-build link validator (page links only).
+- `scripts/check_links.py` — fast on-disk cross-link validator (no build needed).

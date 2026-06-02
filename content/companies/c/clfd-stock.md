@@ -31,7 +31,7 @@ The secular tailwind from broadband policy is substantial and multi-year. Clearf
 
 Beyond broadband, Clearfield serves 5G deployment, where wireless carriers are building out fiber backhaul and small-cell networks to support mobile data traffic. 5G buildout is a secular imperative, not a cyclical project. Carriers cannot pause 5G investment during a recession; they must continue to gain spectrum deployment advantage and market coverage. Clearfield's products—cabinets, patch panels, connectors, and management systems for fiber networks—are essential building blocks in that infrastructure.
 
-Similarly, data centers continue to expand and proliferate, driven by the secular growth of cloud computing, AI, and [data storage](/dtst-stock/). Each new data center requires fiber interconnection, power distribution, and management infrastructure. Clearfield supplies these products. The data center expansion is a secular trend with its own 5–10 year trajectory, independent of [business cycles](/business-cycle/).
+Similarly, data centers continue to expand and proliferate, driven by the secular growth of cloud computing, AI, and data storage. Each new data center requires fiber interconnection, power distribution, and management infrastructure. Clearfield supplies these products. The data center expansion is a secular trend with its own 5–10 year trajectory, independent of [business cycles](/business-cycle/).
 
 ## Recurring and High-Multiplier Revenue
 

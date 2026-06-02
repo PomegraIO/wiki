@@ -63,4 +63,4 @@ The company's [dividend](/dividend/) has historically been supported through cyc
 
 Comparable companies for valuation include WestRock and, internationally, [Smurfit WestRock](/sw-stock/) and Mondi. Use EV/[EBITDA](/ebitda/) on trough earnings to avoid cyclical distortion, and compare return on invested capital over a full cycle (5–7 years) to assess capital allocation skill.
 
-International Paper's long history and recent modernization make it a barometer for [global industrial](/gic-stock/) health, consumer spending, and logistics. For commodity investors, it represents pure exposure to packaging cycles without the complexity of integrated forest ownership or significant ancillary businesses.
+International Paper's long history and recent modernization make it a barometer for global industrial health, consumer spending, and logistics. For commodity investors, it represents pure exposure to packaging cycles without the complexity of integrated forest ownership or significant ancillary businesses.

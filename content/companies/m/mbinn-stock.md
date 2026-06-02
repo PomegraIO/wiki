@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Merchants Bancorp (ticker MBINN on NASDAQ) is a financial services company. It owns banks. It also owns finance companies that are not banks. These subsidiaries lend money, take deposits, and charge fees. The company makes money from the interest difference between what it pays for deposits and what it earns on loans. It also makes money from fees.
+Merchants Bancorp (ticker MBINN on [NASDAQ](/nasdaq/)) is a financial services company. It owns banks. It also owns finance companies that are not banks. These subsidiaries lend money, take deposits, and charge fees. The company makes money from the interest difference between what it pays for deposits and what it earns on loans. It also makes money from fees.
 
 <aside class="wiki-infobox">
 <table>
@@ -37,7 +37,7 @@ Non-bank finance companies can be more aggressive with their lending than banks.
 
 ## How much can the company borrow?
 
-Merchants Bancorp borrows money to fund its operations. It can only borrow a certain amount relative to how much capital it has. This is called a leverage ratio. Regulators set the maximum leverage ratios. The goal is to make sure that if things go badly, the company does not fail and damage the whole financial system.
+Merchants Bancorp borrows money to fund its operations. It can only borrow a certain amount relative to how much capital it has. This is called a [leverage ratio](/leverage-ratio-forex/). Regulators set the maximum leverage ratios. The goal is to make sure that if things go badly, the company does not fail and damage the whole financial system.
 
 In normal times, this limit does not matter much. The company can borrow as much as it needs. But in bad times — when the economy is in trouble and loans are failing — regulators might tighten these limits. The company then has to borrow less or raise new money from shareholders. This is painful, because raising new money from shareholders when the stock is down is very expensive.
 
@@ -49,8 +49,8 @@ The best predictor of credit quality is the economy. When unemployment is low an
 
 ## Studying this company's health
 
-If you want to understand Merchants Bancorp, look at three things. First, how many loans are failing? The company reports this in its financial statements as the "nonaccrual ratio" — the percentage of loans that are past due. If this ratio is rising, the company is in trouble. Second, how much is the company earning compared to how much it is paying out as dividends? If it pays out more than it earns, it is using its own capital, which is not sustainable. Third, is the company growing? If it is not making more loans and not entering new businesses, profits will flatten.
+If you want to understand Merchants Bancorp, look at three things. First, how many loans are failing? The company reports this in its financial statements as the "nonaccrual ratio" — the percentage of loans that are past due. If this ratio is rising, the company is in trouble. Second, how much is the company earning compared to how much it is paying out as [dividends](/dividend/)? If it pays out more than it earns, it is using its own capital, which is not sustainable. Third, is the company growing? If it is not making more loans and not entering new businesses, profits will flatten.
 
-The annual report, filed with the SEC under the company's CIK number 0001629019, gives you all the numbers. Read the section on credit losses. Read the section on each business segment — which ones are growing, which ones are shrinking? Listen to the quarterly earnings call where management discusses the business. Are they confident or nervous? Do they sound like they expect credit to deteriorate or improve?
+The [annual report](/10-k/), filed with the SEC under the company's CIK number 0001629019, gives you all the numbers. Read the section on credit losses. Read the section on each business segment — which ones are growing, which ones are shrinking? Listen to the quarterly earnings call where management discusses the business. Are they confident or nervous? Do they sound like they expect credit to deteriorate or improve?
 
 The simplest measure: in a good environment, is Merchants Bancorp earning more money? In a bad environment, is it losing less money than competitors? If the answer is yes to both, the company is well-run. If not, something is wrong.

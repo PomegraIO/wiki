@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*PEY buys US companies that have raised their dividends for many years in a row and that currently pay out a high percentage of their stock price as annual dividends.*
+*PEY buys US companies that have raised their [dividends](/dividend/) for many years in a row and that currently pay out a high percentage of their stock price as annual dividends.*
 
 ## The idea behind it
 
@@ -19,7 +19,7 @@ Most stock investors want two things: income (dividends paid to them each quarte
 
 ## What stocks PEY holds
 
-PEY holds large and mid-cap US companies that meet two criteria. First, they must have raised their dividend for at least ten consecutive years. A few holdings will have raised it for far longer. Second, they must offer a high dividend yield — meaning the annual dividend divided by the stock price is above the market average.
+PEY holds large and mid-cap US companies that meet two criteria. First, they must have raised their dividend for at least ten consecutive years. A few holdings will have raised it for far longer. Second, they must offer a high [dividend yield](/dividend-yield/) — meaning the annual dividend divided by the stock price is above the market average.
 
 These stocks tend to be established, profitable companies in industries like utilities, consumer staples, energy, and financial services. They are not start-ups or rapid-growth tech companies. They are mature businesses that throw off steady cash and prioritise returning that cash to shareholders. Many of these companies are household names. Their businesses are stable, sometimes boring, but that stability is the whole point.
 
@@ -37,15 +37,15 @@ You will not get rapid growth or exposure to the fastest-growing companies. You 
 
 ## Risks and volatility
 
-PEY is not risk-free. The companies it holds still face competition, regulation, economic downturns, and changes in their industries. Energy companies, for instance, face a long-term decline in demand for fossil fuels. Utilities face regulatory pressure and the cost of building out new infrastructure. Financial companies face interest-rate risk and credit risk.
+PEY is not risk-free. The companies it holds still face competition, regulation, economic downturns, and changes in their industries. Energy companies, for instance, face a long-term decline in demand for fossil fuels. Utilities face regulatory pressure and the cost of building out new infrastructure. Financial companies face [interest-rate risk](/interest-rate-risk/) and [credit risk](/credit-risk/).
 
-During recessions, companies often cut dividends to preserve cash. Even a dividend-raiser might freeze its dividend or cut it if earnings fall sharply. A few holdings in PEY have done just that. If a stock's dividend is cut, the remaining yield is spread across fewer shares, and the shareholder takes a loss.
+During [recessions](/recession/), companies often cut dividends to preserve cash. Even a dividend-raiser might freeze its dividend or cut it if earnings fall sharply. A few holdings in PEY have done just that. If a stock's dividend is cut, the remaining yield is spread across fewer shares, and the shareholder takes a loss.
 
-Dividend stocks also move less when markets rally and fall less when markets tank. In a strong bull market, you might want growth instead. In a sharp bear market, you want companies with strong balance sheets, and some dividend-payers have heavy debt, offsetting the yield advantage.
+Dividend stocks also move less when markets rally and fall less when markets tank. In a strong [bull market](/bull-market/), you might want growth instead. In a sharp [bear market](/bear-market/), you want companies with strong [balance sheets](/balance-sheet/), and some dividend-payers have heavy debt, offsetting the yield advantage.
 
 ## Costs and how it trades
 
-PEY charges an expense ratio that is reasonable. The fund trades on an exchange, so you can buy and sell it any trading day at a market price. The liquidity is solid. The fund itself is transparent; you can see which companies it holds and their dividend history.
+PEY charges an [expense ratio](/expense-ratio/) that is reasonable. The fund trades on an exchange, so you can buy and sell it any trading day at a market price. The liquidity is solid. The fund itself is transparent; you can see which companies it holds and their dividend history.
 
 ## Who should own it and how to use it
 
@@ -55,4 +55,4 @@ It is less suitable if you need rapid growth, if you are young and can tolerate 
 
 ## How to research PEY
 
-Read Invesco's fact sheet for the current holdings and dividend history. Look at PEY's long-term performance during different market environments: up markets, down markets, rising rates, falling rates. Check how many of its holdings have actually raised dividends in the past year. Most have, but not all. Compare PEY's yield and growth to simpler alternatives like a broad dividend index or a high-yield corporate bond fund. Make sure the dividend yield you are getting is worth the lack of growth exposure.
+Read Invesco's fact sheet for the current holdings and dividend history. Look at PEY's long-term performance during different market environments: up markets, down markets, rising rates, falling rates. Check how many of its holdings have actually raised dividends in the past year. Most have, but not all. Compare PEY's yield and growth to simpler alternatives like a broad dividend index or a high-yield [corporate bond](/corporate-bond/) fund. Make sure the dividend yield you are getting is worth the lack of growth exposure.

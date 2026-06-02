@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Direxion Daily HOOD Bull 2X ETF** (HODU) is an exchange-traded fund that seeks to deliver twice the daily percentage movement of Robinhood Markets stock (HOOD), using derivatives and daily rebalancing to maintain its 2x exposure. It is a specialized trading tool — not an investment vehicle for wealth building — intended strictly for tactical bets on HOOD lasting days or weeks, not months or years.*
+*The **Direxion Daily HOOD Bull 2X ETF** (HODU) is an exchange-traded fund that seeks to deliver twice the daily percentage movement of [Robinhood Markets](/hood-stock/) stock (HOOD), using derivatives and daily rebalancing to maintain its 2x exposure. It is a specialized trading tool — not an investment vehicle for wealth building — intended strictly for tactical bets on HOOD lasting days or weeks, not months or years.*
 
 <aside class="wiki-infobox">
 
@@ -31,13 +31,13 @@ handwritten: true
 
 ## Leveraged ETFs emerge from the 2000s market evolution
 
-Direxion Shares pioneered leveraged exchange-traded funds in 2006, initially focusing on broad indexes and sectors. The innovation addressed a demand from active traders and hedge funds: the ability to amplify market exposure in liquid, tradable instruments without borrowing margin or executing complex derivatives strategies individually. Early leveraged ETFs tracked the S&P 500, Nasdaq 100, and Treasury bonds, gaining adoption among tactical traders. By the 2020s, as single-stock trading and meme-stock mania reshaped retail investing, ETF sponsors expanded the universe to cover individual company stocks, including high-volume, volatile securities like Robinhood Markets.
+Direxion Shares pioneered leveraged exchange-traded funds in 2006, initially focusing on broad indexes and sectors. The innovation addressed a demand from active traders and [hedge funds](/hedge-fund/): the ability to amplify market exposure in liquid, tradable instruments without borrowing margin or executing complex derivatives strategies individually. Early [leveraged ETFs](/leveraged-etf/) tracked the S&P 500, [Nasdaq](/nasdaq/) 100, and [Treasury bonds](/treasury-bond/), gaining adoption among tactical traders. By the 2020s, as single-stock trading and meme-stock mania reshaped retail investing, ETF sponsors expanded the universe to cover individual company stocks, including high-volume, volatile securities like Robinhood Markets.
 
 ## Robinhood Markets: from commission-free disruption to public company
 
 Robinhood Markets was founded in 2013 by Vladimir Tenev and Baiju Bhatt to eliminate the commission fees that had historically gatekept stock trading to wealthy and professional investors. The company's mobile app allowed retail users to open accounts with minimal capital and trade stocks without per-trade costs, democratizing access to equities. By the late 2010s, Robinhood had become emblematic of a new era of retail trading, attracting tens of millions of digitally native users.
 
-The company's role in the 2021 GameStop and AMC short squeezes thrust it into public controversy. When Robinhood restricted buying in those stocks during the squeeze, congressional scrutiny and regulatory pressure followed, though the company's user base and prominence continued to grow. In 2023, Robinhood went public on NASDAQ under ticker HOOD, capitalizing on years of revenue growth from payment for order flow (selling user order data to market makers), margin lending interest, premium subscription tiers, and cryptocurrency trading commissions. The stock became one of the most actively traded single-name securities among retail investors — volatile, liquid, and culturally laden with meaning about retail finance's future.
+The company's role in the 2021 GameStop and AMC [short squeezes](/short-squeeze/) thrust it into public controversy. When Robinhood restricted buying in those stocks during the squeeze, congressional scrutiny and regulatory pressure followed, though the company's user base and prominence continued to grow. In 2023, Robinhood went public on NASDAQ under ticker HOOD, capitalizing on years of revenue growth from [payment for order flow](/payment-for-order-flow/) (selling user order data to [market makers](/market-maker-trading/)), margin lending interest, premium subscription tiers, and cryptocurrency trading commissions. The stock became one of the most actively traded single-name securities among retail investors — volatile, liquid, and culturally laden with meaning about retail finance's future.
 
 ## Single-stock leveraged ETFs and HODU's launch
 
@@ -45,7 +45,7 @@ As Robinhood's public stock emerged, and with the broader expansion of leveraged
 
 ## How daily leverage and rebalancing mechanics operate
 
-HODU's structure is simple to state, complex to execute. The fund aims to deliver twice the daily percentage movement of HOOD. If HOOD rises 2% in a day, HODU targets 4%. If HOOD falls 1%, HODU targets 2% loss. To achieve this amplification, the fund combines direct ownership of HOOD shares with a derivatives overlay — typically index futures, equity swaps, or options strategies that provide additional long exposure. Every single trading day, the fund rebalances its derivatives and stock position to reset the leverage ratio to exactly 2x. This daily reset is the fund's defining feature and its central risk.
+HODU's structure is simple to state, complex to execute. The fund aims to deliver twice the daily percentage movement of HOOD. If HOOD rises 2% in a day, HODU targets 4%. If HOOD falls 1%, HODU targets 2% loss. To achieve this amplification, the fund combines direct ownership of HOOD shares with a derivatives overlay — typically index futures, [equity swaps](/equity-swap/), or options strategies that provide additional long exposure. Every single trading day, the fund rebalances its derivatives and stock position to reset the [leverage ratio](/leverage-ratio-forex/) to exactly 2x. This daily reset is the fund's defining feature and its central risk.
 
 ## Volatility decay: the mathematical cost of daily rebalancing
 
@@ -55,7 +55,7 @@ This decay is not a bug or a market malfunction; it is the mathematical conseque
 
 ## The unsuitable-for-hold problem and transaction costs
 
-For this reason, HODU is unsuitable for buy-and-hold investing. It is designed for traders making a bullish directional bet on HOOD stock lasting hours, days, or at most a few weeks. Holding HODU for months or years is almost certain to result in losses relative to holding HOOD outright, because volatility decay will eventually overcome upside moves. The fund's expense ratio of approximately 0.95% annually adds another drag; combined with the mathematical cost of daily rebalancing, HODU's total cost of ownership for multi-month holds is formidable.
+For this reason, HODU is unsuitable for buy-and-hold investing. It is designed for traders making a bullish directional bet on HOOD stock lasting hours, days, or at most a few weeks. Holding HODU for months or years is almost certain to result in losses relative to holding HOOD outright, because volatility decay will eventually overcome upside moves. The fund's [expense ratio](/expense-ratio/) of approximately 0.95% annually adds another drag; combined with the mathematical cost of daily rebalancing, HODU's total cost of ownership for multi-month holds is formidable.
 
 ## Risks, market events, and gap risk
 
@@ -65,6 +65,6 @@ Gap risk is particular to leveraged instruments. If HOOD gaps down significantly
 
 ## Who uses HODU and regulatory caution
 
-HODU appeals exclusively to professional traders and sophisticated retail investors making tactical directional bets on Robinhood's stock. Financial advisers and regulators uniformly caution against using leveraged ETFs as core portfolio holdings or for retirement accounts. Backtesting illustrates the problem plainly: a leveraged daily-reset fund on a historically volatile stock almost always underperforms the underlying stock over holding periods longer than a few weeks, despite being structurally long and despite the stock's positive long-term trajectory.
+HODU appeals exclusively to professional traders and sophisticated retail investors making tactical directional bets on Robinhood's stock. Financial advisers and regulators uniformly caution against using leveraged ETFs as core portfolio holdings or for retirement accounts. Backtesting illustrates the problem plainly: a leveraged daily-reset fund on a historically volatile stock almost always underperforms the underlying stock over [holding periods](/holding-period/) longer than a few weeks, despite being structurally long and despite the stock's positive long-term trajectory.
 
 HODU is a trading weapon for hours-to-weeks tactical positions, not an investment vehicle. Anyone holding HODU for months or as a strategic position on Robinhood's long-term prospects is almost certainly worse off than holding HOOD shares directly.

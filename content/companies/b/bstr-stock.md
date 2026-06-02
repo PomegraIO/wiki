@@ -42,7 +42,7 @@ Each step is a binary outcome: Phase II data is positive and the company advance
 
 ## The Rare-Disease Ecosystem and Partnership Dynamics
 
-Orphan-drug developers often in-license compounds from larger pharma firms (which have shelved programs due to their own portfolio priorities) or from academic research groups. They may also partner with larger pharma for late-stage development and commercialization: a small biotech develops and proves a drug, then partners with Merck or Roche to commercialize it, receiving milestone payments and royalties. Alternatively, small bioteches retain rights and build their own commercial teams for rare-disease marketing (which is lean: targeting disease-specific medical societies, patient advocacy groups, and specialist physicians).
+Orphan-drug developers often in-license compounds from larger pharma firms (which have shelved programs due to their own portfolio priorities) or from academic research groups. They may also partner with larger pharma for late-stage development and commercialization: a small biotech develops and proves a drug, then partners with [Merck](/mrk-stock/) or Roche to commercialize it, receiving milestone payments and royalties. Alternatively, small bioteches retain rights and build their own commercial teams for rare-disease marketing (which is lean: targeting disease-specific medical societies, patient advocacy groups, and specialist physicians).
 
 BSTR's exposure to partnerships is a key variable. A favorable partnership with a larger pharma de-risks the later-stage program and provides capital, but it means sharing upside (milestones, royalties). An unfavorable partnership (e.g., upfront payment is too low, or royalty rate is stingy) can leave the company under-capitalized. A company unable to partner faces the choice of bootstrapping late-stage development (expensive, slow) or seeking [acquisition](/acquisition/) before full value is realized.
 
@@ -60,7 +60,7 @@ For BSTR, sector dynamics favor: (1) focus on rare diseases with clear, measurab
 
 ## Researching BSTR Holdings
 
-BSTR's 10-K and 8-K filings (CIK 2083583) disclose: pipeline programs (indication, stage, target molecule, partnerships), cash burn rate, months of cash runway, recent clinical data presentations (look for news releases and conference presentations), and corporate partnerships or licensing agreements. Watch for: positive Phase II data (major de-risking event), partnership announcements (capital infusion and validation), and cash-runway updates (is the company well-funded, or facing near-term capital needs?). Regulatory announcements ([Fast Track](/ftrk-stock/) designation, Orphan Drug designation) are bullish signals.
+BSTR's 10-K and 8-K filings (CIK 2083583) disclose: pipeline programs (indication, stage, target molecule, partnerships), cash burn rate, months of cash runway, recent clinical data presentations (look for news releases and conference presentations), and corporate partnerships or licensing agreements. Watch for: positive Phase II data (major de-risking event), partnership announcements (capital infusion and validation), and cash-runway updates (is the company well-funded, or facing near-term capital needs?). Regulatory announcements (Fast Track designation, Orphan Drug designation) are bullish signals.
 
 <div class="wiki-seealso">
 

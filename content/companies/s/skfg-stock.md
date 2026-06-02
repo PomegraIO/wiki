@@ -34,7 +34,7 @@ The RevoluDrones brand exists nominally, but there is no accompanying business. 
 
 Drone manufacturing and commercialization require capital and execution that are beyond the reach of a shell company without funding. Bringing a drone product to market requires prototype development, regulatory approval (FAA certification and airworthiness), manufacturing partnerships or in-house production, supply chain management, insurance, and sales channels. Each of these steps costs millions and requires deep technical knowledge and industry relationships.
 
-A micro-cap shell with zero revenue cannot fund this alone. External capital would be needed — either venture funding, debt financing, or a merger with a larger entity that brings operational capability. Stark Focus Group has not announced any such financing or partnership.
+A micro-cap shell with zero revenue cannot fund this alone. External capital would be needed — either venture funding, [debt financing](/debt-financing/), or a [merger](/merger/) with a larger entity that brings operational capability. Stark Focus Group has not announced any such financing or partnership.
 
 The patent licenses themselves are assets of unknown value. Patents in the drone space are numerous and often overlapping. Unless the specific patents held by Stark Focus Group cover critical innovations with clear applications, they are licensing assets that competitors can design around or that will expire without generating royalties.
 
@@ -46,7 +46,7 @@ The only possible value is if the patent licenses, acquired cheaply years ago, c
 
 ## Current status and outlook
 
-The company subsists on shareholder capital and the hope that patience will be rewarded with a strategic transaction or acquisition. It is not burning through cash at a visible rate — zero revenue means zero customer-acquisition cost — but it is also not building anything. The shell remains idle in legal terms, holding assets it cannot commercialize and waiting for an external catalyst.
+The company subsists on shareholder capital and the hope that patience will be rewarded with a strategic transaction or [acquisition](/acquisition/). It is not burning through cash at a visible rate — zero revenue means zero customer-acquisition cost — but it is also not building anything. The shell remains idle in legal terms, holding assets it cannot commercialize and waiting for an external catalyst.
 
 Shareholder dilution is the primary risk. Raising capital to fund even minimal operations (salaries, patent maintenance, office overhead) requires issuing shares. Each issuance dilutes existing holders. Over time, the original shareholders are watered down to insignificance.
 

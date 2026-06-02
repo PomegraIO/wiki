@@ -13,7 +13,7 @@ handwritten: true
 
 > The barrier to scale in consumer hardware is not invention — it is distribution, capital, and the willingness of carriers and retailers to choose your device over an incumbent's.
 
-Foxx Development Holdings (NASDAQ: FOXX) manufactures smartphones, tablets, wearables, and internet-of-things (IoT) communication devices sold primarily through major U.S. wireless carriers. The company went public in September 2024 through a merger with a SPAC, making it one of the youngest public hardware manufacturers in the United States. It competes in a brutally capital-intensive sector where three manufacturers — Apple, Samsung, and a collection of Chinese vendors — control the vast majority of global profit and mindshare. Foxx's bet is that there is space at the margins for a focused, efficient producer willing to design for the carriers' needs rather than the consumer smartphone enthusiast market.
+[Foxx Development](/foxx-stock/) Holdings ([NASDAQ](/nasdaq/): FOXX) manufactures smartphones, tablets, wearables, and internet-of-things (IoT) communication devices sold primarily through major U.S. wireless carriers. The company went public in September 2024 through a [merger](/merger/) with a SPAC, making it one of the youngest public hardware manufacturers in the United States. It competes in a brutally capital-intensive sector where three manufacturers — [Apple](/aapl-stock/), Samsung, and a collection of Chinese vendors — control the vast majority of global profit and mindshare. Foxx's bet is that there is space at the margins for a focused, efficient producer willing to design for the carriers' needs rather than the consumer smartphone enthusiast market.
 
 <aside class="wiki-infobox">
 <table>

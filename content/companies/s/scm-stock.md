@@ -24,7 +24,7 @@ Stellus' core business is originating, structuring, and managing loans secured b
 
 Beyond debt, Stellus holds a smaller allocation to equity, warrants, or preferred securities of portfolio companies. These equity stakes may arise as part of a deal structure (a "kicker" on a loan) or as direct investments in strong middle-market operators. Equity holdings introduce the possibility of capital appreciation—both a source of long-term value creation and a source of volatility, as equity in private companies is inherently illiquid and subject to marking uncertainty.
 
-The portfolio is diversified across industries and borrowers. Stellus tends to focus on stable, mature sectors—[healthcare services](/hcsg-stock/), business services, industrials, financial services, and consumer staples—rather than early-stage technology or highly cyclical sectors. This conservative tilt reflects the credit-focused mandate: the goal is to recover principal and collect stated interest, not to hunt for venture-scale returns.
+The portfolio is diversified across industries and borrowers. Stellus tends to focus on stable, mature sectors—healthcare services, business services, industrials, financial services, and consumer staples—rather than early-stage technology or highly cyclical sectors. This conservative tilt reflects the credit-focused mandate: the goal is to recover principal and collect stated interest, not to hunt for venture-scale returns.
 
 ## Capital structure and leverage
 
@@ -56,7 +56,7 @@ Liquidity is another constraint. BDC shares trade on public exchanges and are li
 
 ## Competitive dynamics
 
-The BDC space is competitive. Hundreds of BDCs operate in the US, ranging from specialized (cybersecurity lending, energy infrastructure) to diversified (balanced portfolios across sectors and sizes). Larger, more established BDCs (Apollo Investment Corporation, [Ares Capital](/arcc-stock/), [Golub Capital BDC](/gbdc-stock/)) command pricing power through brand, sourcing scale, and operating leverage. Mid-sized operators like Stellus compete by building deep relationships with sponsors and companies, offering flexible structures, and maintaining disciplined underwriting.
+The BDC space is competitive. Hundreds of BDCs operate in the US, ranging from specialized (cybersecurity lending, energy infrastructure) to diversified (balanced portfolios across sectors and sizes). Larger, more established BDCs (Apollo Investment Corporation, Ares Capital, [Golub Capital BDC](/gbdc-stock/)) command pricing power through brand, sourcing scale, and operating leverage. Mid-sized operators like Stellus compete by building deep relationships with sponsors and companies, offering flexible structures, and maintaining disciplined underwriting.
 
 ## How to research it
 

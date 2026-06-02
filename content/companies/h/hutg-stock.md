@@ -24,7 +24,7 @@ handwritten: true
 
 ---
 
-Leverage Shares, a UK provider of leveraged and inverse ETFs, built HUTG to deliver twice the daily percentage change of Hut 8 Mining, a Canadian publicly traded Bitcoin miner. Like all leveraged daily-reset products, HUTG is engineered for short-term tactical trades — a trader betting HUT will rise 3% to 5% over the next two days might buy HUTG to target a 6% to 10% move. It is explicitly not designed for buy-and-hold investing.
+Leverage Shares, a UK provider of leveraged and [inverse ETFs](/inverse-etf/), built HUTG to deliver twice the daily percentage change of [Hut 8](/hut-stock/) Mining, a Canadian publicly traded [Bitcoin](/bitcoin/) miner. Like all leveraged daily-reset products, HUTG is engineered for short-term tactical trades — a trader betting HUT will rise 3% to 5% over the next two days might buy HUTG to target a 6% to 10% move. It is explicitly not designed for buy-and-hold investing.
 
 ## The underlying: Hut 8 Mining
 
@@ -48,9 +48,9 @@ Over weeks or months, volatility decay becomes substantial. An investor holding 
 
 ## Costs and extreme illiquidity
 
-HUTG charges an expense ratio of 1.0% to 1.2% annually, plus the daily hedging costs embedded in the fund's mechanics. These costs are real and charged against the fund's assets daily; an investor holding HUTG loses money to fees and drift even if HUT remains perfectly flat.
+HUTG charges an [expense ratio](/expense-ratio/) of 1.0% to 1.2% annually, plus the daily hedging costs embedded in the fund's mechanics. These costs are real and charged against the fund's assets daily; an investor holding HUTG loses money to fees and drift even if HUT remains perfectly flat.
 
-The fund's liquidity is poor. Trading volume is sparse, and bid-ask spreads are routinely 0.5% to 1.5% or wider. This means a trader buying and immediately selling the same position can lose 1% just to slippage — worse than the entire monthly fee. HUTG is only economical for traders with high conviction, strong capital, and tight discipline — willing to wait for liquidity or to place orders in size and accept whatever fills come.
+The fund's liquidity is poor. Trading volume is sparse, and [bid-ask spreads](/bid-ask-spread/) are routinely 0.5% to 1.5% or wider. This means a trader buying and immediately selling the same position can lose 1% just to slippage — worse than the entire monthly fee. HUTG is only economical for traders with high conviction, strong capital, and tight discipline — willing to wait for liquidity or to place orders in size and accept whatever fills come.
 
 ## The target user and strict caveats
 
@@ -60,7 +60,7 @@ It is not suitable for buy-and-hold investors, retirement accounts, passive inve
 
 ## Prospectus and Bitcoin mining research
 
-Anyone considering HUTG should read Leverage Shares' prospectus and fact sheet, which explicitly warn against holding longer than intended and detail the daily reset, the leverage ratio, and the cost structure. The document will not be exciting — warnings about wasting assets rarely are — but understanding them is mandatory.
+Anyone considering HUTG should read Leverage Shares' prospectus and fact sheet, which explicitly warn against holding longer than intended and detail the daily reset, the [leverage ratio](/leverage-ratio-forex/), and the cost structure. The document will not be exciting — warnings about wasting assets rarely are — but understanding them is mandatory.
 
 Beyond HUTG's mechanics, a trader must understand Hut 8's business and Bitcoin mining broadly. Profitability hinges on Bitcoin's price, mining difficulty, and electricity costs — all volatile and outside Hut 8's control. Regulatory changes around energy use or cryptocurrency can reshape the industry overnight. Hut 8's own execution — whether it manages data centers efficiently and whether it makes or loses money at the Bitcoin price — is also essential research. Public earnings calls, investor presentations, and Bitcoin-industry newsletters are the primary sources.
 

@@ -13,7 +13,7 @@ handwritten: true
 
 > Gene therapy is decades old in concept but only recently feasible in practice — the idea of curing a genetic disease by correcting the underlying defect, rather than treating its symptoms, is profoundly compelling and increasingly possible.
 
-Rocket Pharmaceuticals is a biotechnology company founded in 2011 that focuses on gene therapies for rare genetic diseases. The company is small relative to large pharmaceutical firms and operates entirely in the clinical and preclinical stages — it has no approved medicines and generates no revenue from product sales. Instead, Rocket funds itself through equity raises and is beholden to the momentum of its clinical trials and the capital markets' appetite for early-stage biotech risk.
+[Rocket Pharmaceuticals](/rckt-stock/) is a biotechnology company founded in 2011 that focuses on gene therapies for rare genetic diseases. The company is small relative to large pharmaceutical firms and operates entirely in the clinical and preclinical stages — it has no approved medicines and generates no revenue from product sales. Instead, Rocket funds itself through equity raises and is beholden to the momentum of its clinical trials and the capital markets' appetite for early-stage biotech risk.
 
 <aside class="wiki-infobox">
 <table>
@@ -55,7 +55,7 @@ For small biotech firms, capital raises are expensive and onerous. The company m
 
 If one of Rocket's therapies shows clear efficacy in a Phase 2 trial with an acceptable safety profile, the stock could appreciate substantially, either as the program advances toward Phase 3 or if a large pharmaceutical company acquires the program. A successful gene therapy in a rare disease can be worth billions in present value, even if the eligible patient population is small.
 
-Larger pharmaceutical companies often acquire early-stage biotech programs to in-license technology or acquire an entire company to gain a pipeline asset. For Rocket, an acquisition or partnership with a major pharma company would bring capital certainty and de-risk the development pathway.
+Larger pharmaceutical companies often acquire early-stage biotech programs to in-license technology or acquire an entire company to gain a pipeline asset. For Rocket, an [acquisition](/acquisition/) or partnership with a major pharma company would bring capital certainty and de-risk the development pathway.
 
 If multiple programs advance simultaneously, the company's risk profile improves — a failure in one program is less catastrophic if others are progressing.
 
@@ -83,6 +83,6 @@ Monitor capital raises and dilution. Does the company have enough cash to comple
 
 Track regulatory feedback. If the FDA issues guidance or meets with the company, that commentary can signal whether the regulatory bar is achievable. Similarly, watch for any safety signals in ongoing trials.
 
-Be aware of the macro environment. Biotech equity markets are volatile and sensitive to interest rates, market sentiment, and broader healthcare policy changes. A recession or a shift in venture capital sentiment can make capital raises far more difficult and expensive.
+Be aware of the macro environment. Biotech equity markets are volatile and sensitive to [interest rates](/interest-rate/), market sentiment, and broader healthcare policy changes. A [recession](/recession/) or a shift in venture capital sentiment can make capital raises far more difficult and expensive.
 
 Gene therapy is a genuine scientific opportunity, but Rocket is a tiny company with a very long road to a single approval and uncertain commercial success thereafter. It is a high-risk, speculative investment suitable only for investors who can afford to lose their entire stake.

@@ -53,7 +53,7 @@ Elmet's [dividend](/dividend/) policy also constrains reinvestment. If Elmet mai
 
 Elmet may pursue growth through acquisition of competitors or adjacent businesses, consolidating market share or capabilities. [Acquisitions](/acquisition/) are risky: integration complexity, overpaid purchase prices, and cultural misalignment often destroy value. Larger competitors have better track records and more operational leverage from acquisitions. Elmet's acquisition strategy must be disciplined and realistic about integration challenges.
 
-Alternatively, Elmet pursues organic growth: investing in sales and marketing, expanding into adjacent markets, or launching new products. Organic growth is slower but avoids integration risk. Elmet's competitive position is likely determined by whether organic growth is sufficient to maintain market share against larger, acquisition-driven competitors.
+Alternatively, Elmet pursues organic [growth: investing](/growth-investing/) in sales and marketing, expanding into adjacent markets, or launching new products. Organic growth is slower but avoids integration risk. Elmet's competitive position is likely determined by whether organic growth is sufficient to maintain market share against larger, acquisition-driven competitors.
 
 ## Competitive Risk Summary
 

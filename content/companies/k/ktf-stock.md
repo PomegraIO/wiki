@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-DWS Municipal Income Trust is a closed-end fund managed by DWS Group, a major global asset manager. The fund pools capital from individual investors to purchase [municipal bonds](/municipal-bond/)—the debt securities issued by U.S. states, cities, and other local authorities to fund infrastructure projects, schools, and essential services. Municipal bonds carry a distinctive tax advantage: the interest they pay is exempt from federal income tax and often exempt from state income tax if the bondholder lives in the issuing state. For high-income investors in high-tax states, that exemption is powerful, making KTF and similar muni bond funds attractive vehicles for tax-efficient income generation.
+DWS Municipal Income Trust is a closed-end fund managed by DWS Group, a major global asset manager. The fund pools capital from individual investors to purchase [municipal bonds](/municipal-bond/)—the debt securities issued by U.S. states, cities, and other local authorities to fund infrastructure projects, schools, and essential services. Municipal [bonds](/bond/) carry a distinctive tax advantage: the interest they pay is exempt from federal income tax and often exempt from state income tax if the bondholder lives in the issuing state. For high-income investors in high-tax states, that exemption is powerful, making KTF and similar muni bond funds attractive vehicles for tax-efficient income generation.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,7 +41,7 @@ The share price of KTF fluctuates based on two factors: the price of the underly
 
 ## Why munis matter and the appeal to different investors
 
-Municipal bonds are one of the largest and most important debt markets in the world. In the United States alone, the muni market is measured in the trillions of dollars. Munis finance essential infrastructure—the roads, water systems, schools, and public facilities that underpin economic life. For decades, munis were considered extremely safe because defaults were rare, though that assumption has been tested during severe recessions and state fiscal crises.
+Municipal bonds are one of the largest and most important debt markets in the world. In the United States alone, the muni market is measured in the trillions of dollars. Munis finance essential infrastructure—the roads, water systems, schools, and public facilities that underpin economic life. For decades, munis were considered extremely safe because defaults were rare, though that assumption has been tested during severe [recessions](/recession/) and state fiscal crises.
 
 For individual investors, especially those in high tax brackets, muni bonds offer an unbeatable after-tax yield. An investor earning 30% in combined federal and state taxes sees a pretax yield requirement drop dramatically when tax-free income is available. A fund like KTF offers a simple way to hold that portfolio without having to research individual municipalities or accept the [concentration risk](/concentration-risk/) of holding a few large positions.
 

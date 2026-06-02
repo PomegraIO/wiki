@@ -56,7 +56,7 @@ Shift4 may also offer early settlement—paying merchants faster than the standa
 
 ## Acquiring Bank Relationships and Compliance
 
-Shift4 depends on relationships with acquiring banks (typically large [financial institutions](/fisi-stock/)) that have direct connections to card networks. These banks sponsor Shift4's merchant acquiring operation and assume ultimate liability for fraud and chargebacks. Maintaining these relationships requires Shift4 to demonstrate tight compliance with card network rules, fraud prevention discipline, and merchant underwriting quality.
+Shift4 depends on relationships with acquiring banks (typically large financial institutions) that have direct connections to card networks. These banks sponsor Shift4's merchant acquiring operation and assume ultimate liability for fraud and chargebacks. Maintaining these relationships requires Shift4 to demonstrate tight compliance with card network rules, fraud prevention discipline, and merchant underwriting quality.
 
 Card networks (Visa, Mastercard) set rules that Shift4 must follow. A violation—such as high chargeback rates or working with high-risk merchants—can result in fines or restrictions. Shift4 must monitor compliance actively and train merchants on prohibited uses (illegal goods, gambling, high-risk jurisdictions).
 

@@ -80,7 +80,7 @@ The services and software segment is growing faster than hardware, which is typi
 
 **Pricing pressure.** As mobile computing becomes more commoditized and software-as-a-service grows more common, customers expect cloud software to be cheap or bundled. Zebra must balance the desire to grow share with the risk of eroding margins.
 
-**Supply-chain dependencies.** Zebra relies [on semiconductor](/on-stock/) and component suppliers, like all hardware makers. Chip shortages or logistics disruptions can delay shipments and disappoint customers.
+**Supply-chain dependencies.** Zebra relies on semiconductor and component suppliers, like all hardware makers. Chip shortages or logistics disruptions can delay shipments and disappoint customers.
 
 ## How to Research Zebra
 

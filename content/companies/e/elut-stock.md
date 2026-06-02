@@ -30,7 +30,7 @@ Cannabinoid production requires cultivating cannabis, extracting active compound
 
 ## Market and Competitive Context
 
-The cannabis industry spans licensed growers, retailers, processors, and ancillary services. Larger, well-capitalized cannabis operators (Trulieve, Curaleaf, others) have achieved scale and profitability through retail networks in multiple states. ELUTIA, as a pure-play pharmaceutical developer, lacks this retail footprint and instead competes on drug development and regulatory approval—a slow, capital-intensive path that larger cannabis companies can also pursue if they choose. Conversely, pharmaceutical giants (Merck, Otsuka) have explored cannabinoid research partnerships but remain cautious about federal liability and supply-chain complexity from a Schedule I source material.
+The cannabis industry spans licensed growers, retailers, processors, and ancillary services. Larger, well-capitalized cannabis operators (Trulieve, Curaleaf, others) have achieved scale and profitability through retail networks in multiple states. ELUTIA, as a pure-play pharmaceutical developer, lacks this retail footprint and instead competes on drug development and regulatory approval—a slow, capital-intensive path that larger cannabis companies can also pursue if they choose. Conversely, pharmaceutical giants ([Merck](/mrk-stock/), Otsuka) have explored cannabinoid research partnerships but remain cautious about federal liability and supply-chain complexity from a Schedule I source material.
 
 ## Valuation and Exit Pathways
 

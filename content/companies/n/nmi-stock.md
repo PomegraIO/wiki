@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Nuveen Municipal [Income Fund](/income-fund/) is a fund that buys [municipal bonds](/municipal-bond/) — the debt that cities and states issue to pay for roads, schools, water systems, and other infrastructure. Instead of buying these bonds yourself, you buy shares of this fund, and the fund uses your money to hold a big basket of municipal bonds. When the cities and states pay interest on their bonds, the fund collects that interest and pays most of it back to you, its shareholder. It is a simple idea: pool money from many investors to buy a diversified collection of bonds, collect the interest, and pass it through.
+Nuveen Municipal [Income Fund](/income-fund/) is a fund that buys [municipal bonds](/municipal-bond/) — the debt that cities and states issue to pay for roads, schools, water systems, and other infrastructure. Instead of buying these [bonds](/bond/) yourself, you buy shares of this fund, and the fund uses your money to hold a big basket of municipal bonds. When the cities and states pay interest on their bonds, the fund collects that interest and pays most of it back to you, its shareholder. It is a simple idea: pool money from many investors to buy a diversified collection of bonds, collect the interest, and pass it through.
 
 <aside class="wiki-infobox">
 <table>
@@ -47,7 +47,7 @@ A closed-end fund works differently. The price of a closed-end fund's shares is 
 
 Municipal bonds are generally safe — states and cities have lower [default rates](/default-rate/) than corporations. But they are not risk-free.
 
-**Credit risk:** A city or state could run out of money and fail to pay its bond. This is rare but has happened. Detroit went through bankruptcy in 2013. Some cities and states are running chronic deficits. If a big issuer fails, the fund's interest income drops and its share price falls.
+**[Credit risk](/credit-risk/):** A city or state could run out of money and fail to pay its bond. This is rare but has happened. Detroit went through bankruptcy in 2013. Some cities and states are running chronic deficits. If a big issuer fails, the fund's interest income drops and its share price falls.
 
 **Interest rate risk:** If [interest rates](/interest-rate/) go up, existing bonds become less valuable. You hold a bond paying 3% interest, but new bonds are paying 5%. Your bond is worth less because no one wants to buy a 3% bond when they can get 5% elsewhere. If the fund has to sell bonds before they mature (paying back all the money), it may have to sell at a loss.
 

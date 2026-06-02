@@ -27,7 +27,7 @@ F&M BANK was founded to serve this economic ecosystem. The bank's early lending 
 
 F&M BANK's concentrated geography has created a structural profile distinct from either national banks or multi-state regionals. The company's loan portfolio is heavily weighted toward West Virginia borrowers, which means that regional economic cycles directly translate into credit performance. When coal prices rose or mining activity accelerated, F&M BANK's loan portfolio performed well and deposits flowed in from profitable operations. When coal declined (as it has in recent decades), the bank faced simultaneous pressures: rising loan losses from struggling borrowers, outflows of deposits as profitable businesses contracted, and downward pressure on lending volumes as fewer companies sought credit.
 
-This dynamic is essentially unavoidable for a community bank in a resource-dependent region. Unlike a [national bank](/nbhc-stock/) that can offset weakness in West Virginia coal lending with strength in Texas oil or Arizona real estate, F&M BANK cannot diversify away from its region's economic fortunes. The bank's creditworthiness and [return-on-equity](/return-on-equity/) are therefore direct reflections of West Virginia's economic health.
+This dynamic is essentially unavoidable for a community bank in a resource-dependent region. Unlike a national bank that can offset weakness in West Virginia coal lending with strength in Texas oil or Arizona real estate, F&M BANK cannot diversify away from its region's economic fortunes. The bank's creditworthiness and [return-on-equity](/return-on-equity/) are therefore direct reflections of West Virginia's economic health.
 
 ## The Evolution of the Regional Economy and Banking Response
 

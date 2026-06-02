@@ -18,13 +18,13 @@ The fund employs systematic screening across a broad universe of U.S.-listed sto
 
 ## Costs and trading mechanics
 
-As an exchange-traded fund, ADPV trades throughout the business day on U.S. exchanges at prices set by market supply and demand, rather than at a single end-of-day valuation like mutual funds. The fund carries an expense ratio that compensates the adviser for active management and administrative overhead. The bid-ask spread—the gap between the price you can buy and sell at—tends to be tight given typical trading volumes, making the fund practical for both large institutional and smaller retail positions.
+As an exchange-traded fund, ADPV trades throughout the business day on U.S. exchanges at prices set by market supply and demand, rather than at a single end-of-day valuation like [mutual funds](/mutual-fund/). The fund carries an [expense ratio](/expense-ratio/) that compensates the adviser for active management and administrative overhead. The [bid-ask spread](/bid-ask-spread/)—the gap between the price you can buy and sell at—tends to be tight given typical trading volumes, making the fund practical for both large institutional and smaller retail positions.
 
 ## Risk considerations and suitability
 
-Active stock selection introduces tracking error relative to passive benchmarks. The fund's concentrated exposure to individual equities means performance in any given period may diverge sharply from the broader market, depending on whether the stocks selected happen to be in or out of favor. Momentum-based strategies face genuine risks: stocks can lose momentum quickly, and the methodology may lead to periodic underperformance in reversals or in environments where expensive growth names do better. Concentration in a limited number of holdings relative to a broad index fund would be another source of volatility.
+Active stock selection introduces tracking error relative to passive benchmarks. The fund's concentrated exposure to individual equities means performance in any given period may diverge sharply from the broader market, depending on whether the stocks selected happen to be in or out of favor. Momentum-based strategies face genuine risks: stocks can lose momentum quickly, and the methodology may lead to periodic underperformance in reversals or in environments where expensive growth names do better. Concentration in a limited number of holdings relative to a broad [index fund](/index-fund/) would be another source of volatility.
 
-The fund is most suitable for investors who believe quantitative screening can identify mispriced opportunities and who have an investment horizon long enough to weather periods of underperformance. It is not appropriate for investors seeking an exact market match or those uncomfortable with active management fees and the discretion they imply.
+The fund is most suitable for investors who believe quantitative screening can identify mispriced opportunities and who have an investment horizon long enough to weather periods of underperformance. It is not appropriate for investors seeking an exact market match or those uncomfortable with active [management fees](/management-fee/) and the discretion they imply.
 
 ## How to research this fund
 

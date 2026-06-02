@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ICOP tracks an index of global mining and metals companies focused on copper and base metals like zinc, nickel, and aluminum. It does not hold the metals themselves or futures contracts; instead, it holds the operating companies that extract and process them. This means ICOP's returns depend on both commodity prices and the business quality of the mines — the efficiency of extraction, management skill, and capital discipline of the firms involved.
+ICOP tracks an index of global mining and metals companies focused on copper and base metals like zinc, nickel, and aluminum. It does not hold the metals themselves or [futures contracts](/futures-contract/); instead, it holds the operating companies that extract and process them. This means ICOP's returns depend on both commodity prices and the business quality of the mines — the efficiency of extraction, management skill, and capital discipline of the firms involved.
 
 <aside class="wiki-infobox">
 <table>
@@ -30,17 +30,17 @@ ICOP tracks an index of global mining and metals companies focused on copper and
 
 Mining companies are capital-intensive manufacturers of raw materials. Their profitability hinges on a simple margin: the price of the metal minus the all-in cost to extract and refine it. When copper prices rise, say from rising construction or electrical-grid investment in China, mining company earnings often accelerate faster than prices climb — because they have already spent the capital to build the mine, so each additional ton of output adds profit with minimal added cost. The inverse is also true: when prices fall, profits evaporate fast.
 
-ICOP's portfolio typically includes diversified megacaps (BHP, Vale, Rio Tinto, Glencore), mid-sized specialists, and regional producers. Some are fully integrated, handling everything from exploration through shipping; others focus narrowly on one commodity or one mine. The index screens for meaningful exposure to base metals, so it excludes pure gold or diamond miners, though a company engaged in multiple commodities will be included if copper is a material revenue stream.
+ICOP's portfolio typically includes diversified megacaps (BHP, Vale, [Rio Tinto](/rtntf-stock/), Glencore), mid-sized specialists, and regional producers. Some are fully integrated, handling everything from exploration through shipping; others focus narrowly on one commodity or one mine. The index screens for meaningful exposure to base metals, so it excludes pure gold or diamond miners, though a company engaged in multiple commodities will be included if copper is a material revenue stream.
 
 ## The commodity and economic cycle
 
-Base metals are demand-sensitive inputs to global manufacturing: construction, electrical infrastructure, electric vehicles, industrial machinery, and appliances all require copper, zinc, and aluminum. Demand rises during economic expansion, falls during recessions, and responds dramatically to major policy shifts like stimulus spending on infrastructure. For that reason, ICOP is a play on global growth, construction cycles, and industrial demand.
+Base metals are demand-sensitive inputs to global manufacturing: construction, electrical infrastructure, electric vehicles, industrial machinery, and appliances all require copper, zinc, and aluminum. Demand rises during economic expansion, falls during [recessions](/recession/), and responds dramatically to major policy shifts like stimulus spending on infrastructure. For that reason, ICOP is a play on global growth, construction cycles, and industrial demand.
 
 China dominates this story. It accounts for roughly half of global copper demand and an even larger share of zinc and aluminum. News from Chinese policymakers — construction quotas, stimulus announcements, infrastructure plans — moves copper prices and mining stocks almost immediately. A slowdown in Chinese manufacturing or construction ripples through ICOP faster than other asset classes can digest it.
 
 ## What drives returns and creates volatility
 
-Mining stocks outperform broadly during periods of accelerating inflation, rising commodity prices, and economic strength. They underperform during deflation, crisis, and rising real interest rates, because long-dated mining projects become less valuable when real discount rates rise. The volatility is structural: mining margins are thin relative to prices, so a 10% drop in commodity prices can slash profits by 40 or 50%.
+Mining stocks outperform broadly during periods of accelerating [inflation](/inflation/), rising commodity prices, and economic strength. They underperform during [deflation](/deflation/), crisis, and rising [real interest rates](/real-interest-rate/), because long-dated mining projects become less valuable when real [discount rates](/discount-rate/) rise. The volatility is structural: mining margins are thin relative to prices, so a 10% drop in commodity prices can slash profits by 40 or 50%.
 
 Second, mining is boom-bust by nature. Investors extrapolate strong commodity prices and capital-intensive mining companies. When prices are peak-ish, announced capacity often comes onstream just as demand slows, oversupplying the market and triggering a price collapse. This cycle of over-investment followed by oversupply has repeated throughout mining history.
 
@@ -48,7 +48,7 @@ Third, mine-specific risks add noise. A major mine suffers a shutdown due to env
 
 ## Costs and structural features
 
-ICOP carries an expense ratio in line with sector ETFs, typically under 1% annually. The fund is liquid on NASDAQ with reasonable bid-ask spreads. It is a straightforward equity fund, holding mining shares directly; it does not use leverage or derivatives. Dividends are typically modest because mining companies reinvest cash into new mines rather than paying large distributions, but the fund does pay out what companies declare.
+ICOP carries an [expense ratio](/expense-ratio/) in line with [sector ETFs](/sector-etf/), typically under 1% annually. The fund is liquid on [NASDAQ](/nasdaq/) with reasonable [bid-ask spreads](/bid-ask-spread/). It is a straightforward equity fund, holding mining shares directly; it does not use leverage or derivatives. [Dividends](/dividend/) are typically modest because mining companies reinvest cash into new mines rather than paying large distributions, but the fund does pay out what companies declare.
 
 ## Risks beyond commodity prices
 

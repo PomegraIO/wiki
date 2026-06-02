@@ -27,7 +27,7 @@ The Avantis U.S. Small Cap Value ETF (AVUV) holds shares in small American compa
 
 ### What exactly is a small-cap stock?
 
-Small-cap stocks are companies with market capitalizations (share price times shares outstanding) roughly between $300 million and $2 billion. They are larger than micro-caps, which are tiny, but much smaller than the mega-cap titans like Apple, Microsoft, or Nvidia. Because they are small, they are less widely followed by analysts, trade in lower volumes than large-cap stocks, and move around more dramatically in response to news. A small-cap can double in a year or lose half its value just as quickly, sometimes on the same piece of company news that would barely move a large-cap stock. That volatility is the price small-cap investors pay for the potential of owning tomorrow's next big company.
+Small-cap stocks are companies with [market capitalizations](/market-capitalization/) (share price times shares outstanding) roughly between $300 million and $2 billion. They are larger than micro-caps, which are tiny, but much smaller than the mega-cap titans like [Apple](/aapl-stock/), [Microsoft](/msft-stock/), or [Nvidia](/nvda-stock/). Because they are small, they are less widely followed by analysts, trade in lower volumes than large-cap stocks, and move around more dramatically in response to news. A small-cap can double in a year or lose half its value just as quickly, sometimes on the same piece of company news that would barely move a large-cap stock. That volatility is the price small-cap investors pay for the potential of owning tomorrow's next big company.
 
 ### Why does AVUV add a value screen to an already niche category?
 
@@ -39,21 +39,21 @@ Historically, small-cap stocks have beaten large caps over long stretches, and s
 
 AVUV owns roughly 1,000 small U.S. companies across all sectors — industrials, financials, energy, healthcare, materials, and everything else. The largest positions are still small enough that a single company rarely exceeds 2% of the fund. A typical AVUV holding might be a regional bank with $50 billion in assets, a specialty manufacturer generating $500 million in annual revenue, or a retail chain operating in a few states rather than nationwide.
 
-The fund's diversity across sectors is genuine. AVUV might hold coal mining companies, regional homebuilders, community banks, insurance brokers, and manufacturers — the kinds of businesses that big institutional investors ignore but that have steady cash flow and earnings available at cheap prices. This sector diversity means AVUV does not live and die by technology or any single industry.
+The fund's diversity across sectors is genuine. AVUV might hold coal mining companies, regional homebuilders, community banks, insurance [brokers](/broker/), and manufacturers — the kinds of businesses that big institutional investors ignore but that have steady cash flow and earnings available at cheap prices. This sector diversity means AVUV does not live and die by technology or any single industry.
 
 ### How much does it cost to own AVUV?
 
-The fund's expense ratio is approximately 0.25% per year, reflecting the cost of the value-screening analysis, portfolio rebalancing, and trading the hundreds of small positions. This is cheap compared to hiring an active stock picker but is slightly higher than the most passive index funds. The fund trades on NASDAQ with modest but adequate liquidity — daily volume is steady, though not at the levels that mega-cap funds command. For most investors, buying and selling AVUV is still straightforward, though the bid-ask spread may be slightly wider than it would be for an S&P 500 ETF.
+The fund's [expense ratio](/expense-ratio/) is approximately 0.25% per year, reflecting the cost of the value-screening analysis, portfolio rebalancing, and trading the hundreds of small positions. This is cheap compared to hiring an active stock picker but is slightly higher than the most passive [index funds](/index-fund/). The fund trades on [NASDAQ](/nasdaq/) with modest but adequate liquidity — daily volume is steady, though not at the levels that mega-cap funds command. For most investors, buying and selling AVUV is still straightforward, though the [bid-ask spread](/bid-ask-spread/) may be slightly wider than it would be for an S&P 500 ETF.
 
 ### What risks come with small-cap value investing?
 
-Small companies are vulnerable to economic downturns in ways that large, diversified companies are not. When a recession hits, small-cap stocks often fall much harder than large-cap stocks because small companies have less financial cushion. Small-cap value stocks can fall even harder if the recession reveals that the cheap valuations reflected real problems the market saw coming.
+Small companies are vulnerable to economic downturns in ways that large, diversified companies are not. When a [recession](/recession/) hits, small-cap stocks often fall much harder than large-cap stocks because small companies have less financial cushion. Small-cap value stocks can fall even harder if the recession reveals that the cheap valuations reflected real problems the market saw coming.
 
 The value tilt adds another risk: if small-cap growth stocks outperform for an extended period, AVUV's lack of exposure to those winners will hurt performance. The fund can underperform for years while the market favors unprofitable tech startups over profitable but unglamorous small-cap manufacturers. There is also the risk of illiquidity — some of AVUV's smallest holdings may trade so infrequently that building or unwinding a position happens at prices worse than the daily close.
 
 ### Who benefits from AVUV?
 
-AVUV suits investors with long time horizons, high risk tolerance, and conviction that small, cheap stocks represent real value. It works well as a satellite holding in a portfolio already anchored by large-cap stocks and bonds. It appeals to those skeptical that big tech will outperform forever and willing to wait for mean reversion. It does not suit conservative investors, those who need stable returns in the near term, or anyone who would panic and sell if the fund fell 30% in a year — which is entirely possible.
+AVUV suits investors with long time horizons, high risk tolerance, and conviction that small, cheap stocks represent real value. It works well as a satellite holding in a portfolio already anchored by large-cap stocks and [bonds](/bond/). It appeals to those skeptical that big tech will outperform forever and willing to wait for mean reversion. It does not suit conservative investors, those who need stable returns in the near term, or anyone who would panic and sell if the fund fell 30% in a year — which is entirely possible.
 
 ### How to research AVUV
 

@@ -29,11 +29,11 @@ The manager also looks at the underlying business. A stock might be calm but act
 
 When the market drops sharply, BDVL will drop too. It still owns stocks. But it will probably drop less. A broad stock fund might fall 30 percent in a bad year. BDVL might fall 18 or 20 percent. That is the trade-off.
 
-Over a full business cycle—several years—BDVL might deliver 7 or 8 percent annual returns versus 9 or 10 percent for a regular stock fund. That is the cost of the smoother ride. Some people think the trade is worth it. Others think you should just stay invested and not care about the bounces.
+Over a full [business cycle](/business-cycle/)—several years—BDVL might deliver 7 or 8 percent annual returns versus 9 or 10 percent for a regular stock fund. That is the cost of the smoother ride. Some people think the trade is worth it. Others think you should just stay invested and not care about the bounces.
 
 ## The fee
 
-BDVL charges an annual expense ratio. It is higher than a passive index fund (which costs almost nothing) but lower than a traditional actively managed mutual fund. You are paying for the manager's research and the active picking of low-volatility stocks. Whether it is worth the fee depends on whether the manager is actually delivering less volatility at a reasonable cost.
+BDVL charges an annual [expense ratio](/expense-ratio/). It is higher than a passive [index fund](/index-fund/) (which costs almost nothing) but lower than a traditional actively managed [mutual fund](/mutual-fund/). You are paying for the manager's research and the active picking of low-volatility stocks. Whether it is worth the fee depends on whether the manager is actually delivering less volatility at a reasonable cost.
 
 ## Who should own it
 

@@ -4,7 +4,7 @@ description: "HTCR is a small publicly traded enterprise focused on heartbeat de
 keywords: ["HTCR", "cardiac monitoring", "heartbeat detection", "medical technology", "healthcare IT", "small-cap"]
 ---
 
-*HeartCore Enterprises, Inc. (HTCR) operates in the medical technology or [healthcare services](/hcsg-stock/) space with a focus on cardiac monitoring, heartbeat detection, or related cardiology applications. The company is registered with the SEC (CIK 1892322) and trades under the ticker HTCR. Because the company is small and operates in a specialized niche within healthcare, the 10-K serves as your primary window into what it actually does, who it sells to, and whether the technology or service has genuine demand.*
+*HeartCore Enterprises, Inc. (HTCR) operates in the medical technology or healthcare services space with a focus on cardiac monitoring, heartbeat detection, or related cardiology applications. The company is registered with the SEC (CIK 1892322) and trades under the ticker HTCR. Because the company is small and operates in a specialized niche within healthcare, the 10-K serves as your primary window into what it actually does, who it sells to, and whether the technology or service has genuine demand.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>HTCR</td></tr>

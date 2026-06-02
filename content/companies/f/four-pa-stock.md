@@ -13,7 +13,7 @@ handwritten: true
 
 > *Payments are not a business — they are the nervous system that every other business depends on.*
 
-Shift4 Payments operates as a processor of payment transactions, converting the moment a customer swipes a card or taps a phone into cleared funds in a merchant's bank account. The company serves primarily hospitality and entertainment venues — hotels, restaurants, bars, casinos — which together account for a large slice of its revenue, though it also serves retail and other segments. Shift4 competes in the decidedly unsexy but absolutely critical infrastructure layer where payment volumes translate into recurring, predictable revenue streams. The company processes billions of dollars in transaction volume annually, and for every dollar that passes through its systems, a fraction of a cent flows to Shift4 as its fee.
+[Shift4 Payments](/four-stock/) operates as a processor of payment transactions, converting the moment a customer swipes a card or taps a phone into cleared funds in a merchant's bank account. The company serves primarily hospitality and entertainment venues — hotels, restaurants, bars, casinos — which together account for a large slice of its revenue, though it also serves retail and other segments. Shift4 competes in the decidedly unsexy but absolutely critical infrastructure layer where payment volumes translate into recurring, predictable revenue streams. The company processes billions of dollars in transaction volume annually, and for every dollar that passes through its systems, a fraction of a cent flows to Shift4 as its fee.
 
 What makes Shift4 interesting is not innovation but integration: the company bundles payment processing with point-of-sale software, fraud detection, reconciliation tools, and customer support into a package that is harder to abandon than a simple processor. A hotel that uses Shift4's POS system is not just switching payment processors if it leaves; it is replacing the entire software stack that runs its daily operations. That switching cost is the moat.
 
@@ -35,7 +35,7 @@ Shift4 was founded in 1999 by Jared Isaacman, who continues to lead the company.
 
 ## The payment-processing ecosystem and Shift4's niche
 
-Payment processing is a fragmented, margin-compressed market. At the top are global giants like Visa and Mastercard, which set the rules and take a cut of every transaction. Below them are large acquirers — First Data, Global Payments, FIS — that are primarily transaction processors for larger merchants, charging interchange fees plus a percentage of transaction volume. The niches below that are occupied by smaller processors and point-of-sale software companies, each targeting specific merchant verticals.
+Payment processing is a fragmented, margin-compressed market. At the top are global giants like Visa and [Mastercard](/ma-stock/), which set the rules and take a cut of every transaction. Below them are large acquirers — First Data, Global Payments, FIS — that are primarily transaction processors for larger merchants, charging interchange fees plus a percentage of transaction volume. The niches below that are occupied by smaller processors and point-of-sale software companies, each targeting specific merchant verticals.
 
 Shift4's niche is the hospitality and entertainment merchant that is too large to be served profitably by a mom-and-pop processor but too operationally complex to be served efficiently by a one-size-fits-all large processor. A mid-market hotel needs not just payment processing but inventory management, staff scheduling, customer loyalty tracking, and integration with property-management systems. Shift4 builds software that addresses these needs and bundles it with payment processing, effectively making itself indispensable to the daily operation.
 
@@ -55,7 +55,7 @@ Shift4's moat is not unassailable. The shift toward cloud-based software and mob
 
 Additionally, the profitability of payment processing is under perpetual pressure. Fraud losses, regulatory costs, and increasing competition all compress margins. Shift4 is not immune to these forces. The company must continue innovating in the software, fraud prevention, and customer experience to justify its higher prices versus a bare-bones processor.
 
-The broader shift toward direct-to-consumer payment options — Stripe, Square, PayPal — also reduces the role of traditional acquirers. Small merchants increasingly use integrated payments from fintech companies that require no integration with a larger processor. Shift4 is less exposed to this trend because its core customers are mid-market hospitality businesses that have different needs, but the trend suggests that payment processing is becoming less of a moat for anyone who is not at the very top.
+The broader shift toward direct-to-consumer payment options — Stripe, Square, [PayPal](/pypl-stock/) — also reduces the role of traditional acquirers. Small merchants increasingly use integrated payments from fintech companies that require no integration with a larger processor. Shift4 is less exposed to this trend because its core customers are mid-market hospitality businesses that have different needs, but the trend suggests that payment processing is becoming less of a moat for anyone who is not at the very top.
 
 ## Data and analytics as a differentiator
 

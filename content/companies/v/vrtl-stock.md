@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The GraniteShares 2x Long VRT Daily ETF (VRTL) is a leveraged exchange-traded product that aims to deliver twice the daily return of Virtu Financial Inc. (VRT), a market-making and financial-services firm. It trades on NASDAQ and is designed exclusively for short-term tactical positions, not multi-month or multi-year holdings.
+The GraniteShares 2x Long VRT Daily ETF (VRTL) is a leveraged exchange-traded product that aims to deliver twice the daily return of [Virtu Financial](/virt-stock/) Inc. (VRT), a market-making and financial-services firm. It trades on [NASDAQ](/nasdaq/) and is designed exclusively for short-term tactical positions, not multi-month or multi-year holdings.
 
 ## How the leverage works
 
@@ -29,17 +29,17 @@ The fund's prospectus and fact sheet include charts showing this decay; it is no
 
 ## What is Virtu Financial, and why track it?
 
-Virtu Financial is a market maker and financial-services firm that profits from trading, matching buyer and seller, and providing liquidity to markets. It is a specialized business — not a consumer brand — and its stock reflects the firm's role in the financial system. VRT is a moderately liquid large-cap stock, suitable as a tracking target. VRTL offers traders and tactical investors a way to amplify daily moves in VRT without having to short other positions or use options directly.
+Virtu Financial is a [market maker](/market-maker-trading/) and financial-services firm that profits from trading, matching buyer and seller, and providing liquidity to markets. It is a specialized business — not a consumer brand — and its stock reflects the firm's role in the financial system. VRT is a moderately liquid large-cap stock, suitable as a tracking target. VRTL offers traders and tactical investors a way to amplify daily moves in VRT without having to short other positions or use options directly.
 
 ## Who uses VRTL?
 
 VRTL is exclusively for active traders making short-term directional bets on VRT — not for investors holding positions for months or years. A trader who believes VRT will rise over the next week and wants 2x daily amplification might buy VRTL for that period. Holding VRTL for months, expecting it to appreciate as a long-term investment, is a nearly certain path to underperformance relative to buying VRT outright, due to volatility decay.
 
-The fund is also used by sophisticated investors as a tactical hedge or a short-term expression of a directional view. It is not suitable for retirement accounts or buy-and-hold portfolios, and brokerage firms often warn retail clients about leveraged ETFs before allowing purchases.
+The fund is also used by sophisticated investors as a tactical hedge or a short-term expression of a directional view. It is not suitable for retirement accounts or buy-and-hold portfolios, and brokerage firms often warn retail clients about [leveraged ETFs](/leveraged-etf/) before allowing purchases.
 
 ## Costs and expiration risk
 
-VRTL charges an expense ratio that includes borrowing costs and the cost of maintaining the derivative positions. These costs are meaningful and eat into returns, compounding the volatility-decay problem over longer holding periods. There is no explicit expiration date, but GraniteShares and other issuers reserve the right to close leveraged ETFs if assets fall below economically viable levels or market conditions make them unsafe to operate.
+VRTL charges an [expense ratio](/expense-ratio/) that includes borrowing costs and the cost of maintaining the derivative positions. These costs are meaningful and eat into returns, compounding the volatility-decay problem over longer [holding periods](/holding-period/). There is no explicit [expiration date](/expiration-date/), but GraniteShares and other issuers reserve the right to close leveraged ETFs if assets fall below economically viable levels or market conditions make them unsafe to operate.
 
 ## How to research VRTL
 

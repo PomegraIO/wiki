@@ -23,7 +23,7 @@ This cyclically neutral patient population creates a secular tailwind for Kezar'
 
 ## Competition in a Secular Category
 
-Kezar operates in a market dominated by established players (Roche, [AbbVie](/abbv-stock/), [Bristol Myers Squibb](/bmy-stock/), Eli Lilly) with marketed immunosuppressants and biologics. This is not an emerging category—autoimmune and inflammatory treatments are mature, well-reimbursed, and embedded in treatment guidelines. Any Kezar candidate that reaches approval must displace or supplement existing therapies.
+Kezar operates in a market dominated by established players (Roche, [AbbVie](/abbv-stock/), [Bristol Myers Squibb](/bmy-stock/), [Eli Lilly](/lly-stock/)) with marketed immunosuppressants and biologics. This is not an emerging category—autoimmune and inflammatory treatments are mature, well-reimbursed, and embedded in treatment guidelines. Any Kezar candidate that reaches approval must displace or supplement existing therapies.
 
 The structural advantage for Kezar (or any new entrant) is that the disease burden is large, established, and growing as populations age and autoimmune diagnoses increase globally. The cyclical constraint is that established players have dominant positions, patent portfolios, and distribution relationships. A Kezar drug that works must be meaningfully superior on safety, efficacy, or durability to justify adoption—a secular scientific question, not a cyclical one.
 

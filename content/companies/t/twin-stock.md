@@ -38,7 +38,7 @@ The marine segment has been profitable and stable, but it is also mature. The gl
 
 ## Off-highway: larger market, more competition
 
-Twin Disc also supplies transmissions and power-shift systems for off-highway equipment — mining trucks, construction dozers, road pavers, cranes, forestry equipment, and agricultural vehicles. This market is much larger in unit volume than marine, but it is also more competitive. Manufacturers like John Deere, [Caterpillar](/cat-stock/), and Volvo have substantial in-house transmission development and often prefer to control their drivetrains vertically. Twin Disc competes for the remaining share and for aftermarket parts and service.
+Twin Disc also supplies transmissions and power-shift systems for off-highway equipment — mining trucks, construction dozers, road pavers, cranes, forestry equipment, and agricultural vehicles. This market is much larger in unit volume than marine, but it is also more competitive. Manufacturers like John [Deere](/de-stock/), [Caterpillar](/cat-stock/), and Volvo have substantial in-house transmission development and often prefer to control their drivetrains vertically. Twin Disc competes for the remaining share and for aftermarket parts and service.
 
 The off-highway segment is cyclical. Mining, construction, and agriculture all depend on capital spending, commodity prices, and economic growth. When those slow, equipment sales and transmission demand slow with them. Twin Disc has substantial exposure to this volatility.
 

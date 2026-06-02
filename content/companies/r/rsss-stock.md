@@ -13,7 +13,7 @@ handwritten: true
 
 ## What does Research Solutions actually do?
 
-Research Solutions Inc., which trades on the [NASDAQ](/nasdaq/) under ticker RSSS, operates a document delivery and [information services](/iii-stock/) business aimed primarily at law firms, corporations, and academic institutions. The company's core offering is a subscription-based service that helps clients locate, retrieve, and manage technical and legal documents — patent specifications, scientific journals, regulatory filings, technical standards, and other intellectual property materials that professionals need to reference in their work. The company charges a recurring subscription fee and also earns revenue from per-transaction document delivery charges when clients request materials through its platform.
+Research Solutions Inc., which trades on the [NASDAQ](/nasdaq/) under ticker RSSS, operates a document delivery and information services business aimed primarily at law firms, corporations, and academic institutions. The company's core offering is a subscription-based service that helps clients locate, retrieve, and manage technical and legal documents — patent specifications, scientific journals, regulatory filings, technical standards, and other intellectual property materials that professionals need to reference in their work. The company charges a recurring subscription fee and also earns revenue from per-transaction document delivery charges when clients request materials through its platform.
 
 ## How does Research Solutions compete with larger rivals?
 

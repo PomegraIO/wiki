@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-MainStreet Bancshares is a holding company that owns and operates a small regional bank serving customers in Texas and neighboring states. The company's Series A preferred shares (MNSBP) offer investors a fixed dividend from a bank whose business is straightforward: taking deposits from local customers, making loans to local businesses and homeowners, and keeping the difference as profit.
+[MainStreet Bancshares](/mnsb-stock/) is a holding company that owns and operates a small regional bank serving customers in Texas and neighboring states. The company's Series A preferred shares (MNSBP) offer investors a fixed [dividend](/dividend/) from a bank whose business is straightforward: taking deposits from local customers, making loans to local businesses and homeowners, and keeping the difference as profit.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ MainStreet Bancshares is a holding company that owns and operates a small region
 
 ## What is a bank holding company, and why does it matter?
 
-A bank holding company is a parent company that owns one or more actual banks. MainStreet Bancshares owns MainStreet Bank and operates through it. The holding company structure lets MainStreet have multiple subsidiaries, manage capital at the corporate level, and issue different classes of securities (common stock, preferred shares, debt) to raise capital. For investors, it means that MNSBP preferred shares are claims on the profits of a traditional bank—not a shadow bank or a specialized lender, but a retail bank that takes deposits and makes loans.
+A bank holding company is a parent company that owns one or more actual banks. MainStreet Bancshares owns MainStreet Bank and operates through it. The holding company structure lets MainStreet have multiple subsidiaries, manage capital at the corporate level, and issue different classes of securities ([common stock](/common-stock/), preferred shares, debt) to raise capital. For investors, it means that MNSBP preferred shares are claims on the profits of a traditional bank—not a shadow bank or a specialized lender, but a retail bank that takes deposits and makes loans.
 
 ## How does a small community bank actually make money?
 
@@ -37,7 +37,7 @@ MainStreet also earns fee income: overdraft fees, ATM fees, loan-origination fee
 
 ## What deposits does MainStreet hold, and what risk does that create?
 
-Retail banks like MainStreet take deposits from individuals and businesses—checking accounts, savings accounts, money-market accounts, certificates of deposit (CDs). Those depositors are not taking meaningful risk; the deposits are federally insured up to $250,000 per account through the FDIC. But the bank itself takes the risk. If borrowers default on their loans, or if asset values drop, the bank's capital shrinks. If too many deposits flee at once (a bank run), the bank can face a liquidity crisis even if it is solvent in theory.
+Retail banks like MainStreet take deposits from individuals and businesses—checking accounts, savings accounts, money-market accounts, certificates of deposit (CDs). Those depositors are not taking meaningful risk; the deposits are federally insured up to $250,000 per account through the FDIC. But the bank itself takes the risk. If borrowers default on their loans, or if asset values drop, the bank's capital shrinks. If too many deposits flee at once (a bank run), the bank can face a [liquidity crisis](/liquidity-crisis/) even if it is solvent in theory.
 
 For MainStreet, the deposit base is its stable funding source. Retail deposits are "sticky"—they do not flee the moment the market moves. That stickiness is valuable compared to wholesale funding (borrowing from other institutions), which is more expensive and less reliable.
 
@@ -57,15 +57,15 @@ Preferred shareholders do not vote on company matters and do not benefit from gr
 
 ## How does interest-rate policy affect MainStreet?
 
-When the Federal Reserve raises rates, banks generally benefit—they can raise the rates they charge on new loans faster than they raise the rates they pay on deposits. This widens the net interest margin and boosts earnings. When the Fed cuts rates, the reverse happens: banks must cut loan rates to stay competitive, but depositors become less likely to accept lower rates, so margins compress.
+When the [Federal Reserve](/federal-reserve/) raises rates, banks generally benefit—they can raise the rates they charge on new loans faster than they raise the rates they pay on deposits. This widens the net interest margin and boosts earnings. When the Fed cuts rates, the reverse happens: banks must cut loan rates to stay competitive, but depositors become less likely to accept lower rates, so margins compress.
 
 For MainStreet, rising rates are a tailwind. If the Fed stays elevated, MainStreet's margins might stay attractive and earnings could be solid. If rates fall sharply, margins tighten and earnings come under pressure.
 
 ## What are the real risks for a bank like MainStreet?
 
-Credit risk is paramount. MainStreet lends to local customers—homeowners, small businesses, farmers. If the local economy turns sour, unemployment rises, or a key industry shuts down, borrowers default and loan losses spike. A small regional bank has less geographic diversification than a national bank and therefore more exposure to localized downturns.
+[Credit risk](/credit-risk/) is paramount. MainStreet lends to local customers—homeowners, small businesses, farmers. If the local economy turns sour, unemployment rises, or a key industry shuts down, borrowers default and loan losses spike. A small regional bank has less geographic [diversification](/diversification/) than a national bank and therefore more exposure to localized downturns.
 
-Interest-rate risk is secondary but real. Mismatches between loan maturities and deposit maturities, or between fixed and floating rates, can hurt earnings if rates move sharply.
+[Interest-rate risk](/interest-rate-risk/) is secondary but real. Mismatches between loan maturities and deposit maturities, or between fixed and floating rates, can hurt earnings if rates move sharply.
 
 Regulatory risk has grown. Banks face capital requirements, liquidity rules, stress tests, and consumer-protection rules. A change in regulations could force MainStreet to hold more capital or exit certain kinds of lending, shrinking profitability.
 
@@ -75,8 +75,8 @@ Technological disruption is a longer-term concern. Online banking, neobanks, and
 
 Start with the 10-K filing (SEC CIK 0001693577) and the quarterly 10-Qs. Look at net interest margin (revenue less cost of deposits, divided by earning assets), efficiency ratio (overhead as a percent of revenue), and loan-loss provisions (how much the bank is setting aside for defaults). Rising efficiency ratios or jumping loan-loss provisions are red flags.
 
-Watch the loan portfolio composition. What kind of loans is MainStreet making? Commercial real estate, residential mortgages, farm loans? A concentration in one category—say, oil-and-gas-related lending in a Texas bank—creates vulnerability if that sector stumbles.
+Watch the loan portfolio composition. What kind of loans is MainStreet making? [Commercial real estate](/commercial-real-estate/), residential mortgages, farm loans? A concentration in one category—say, oil-and-gas-related lending in a Texas bank—creates vulnerability if that sector stumbles.
 
 Monitor the deposit base. Is it growing or shrinking? Are rates rising faster on deposits than on loans, squeezing margins? Is the loan-to-deposit ratio reasonable (typically 60 to 80 percent)?
 
-Finally, track the loan delinquency rate and the charge-off rate. Early signs of trouble show up here first. A bank can report record earnings one quarter and then hit a wave of defaults the next if economic conditions shift.
+Finally, track the loan [delinquency](/delinquency/) rate and the charge-off rate. Early signs of trouble show up here first. A bank can report record earnings one quarter and then hit a wave of defaults the next if economic conditions shift.

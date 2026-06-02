@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Diana Shipping Inc. operates a fleet of dry bulk carriers — the large, specialized ships that haul grain, coal, iron ore, and other unpackaged commodities across the world's oceans. The business is straightforward and cyclical: the company owns vessels, charters them to traders and producers, and earns revenue from the daily or voyage rates it negotiates. Unlike a shipping brokerage that merely intermediates between shippers and vessel owners, Diana actually owns the ships, bearing the capital costs and the operational risks. The company is incorporated in the Marshall Islands but has strong Greek maritime heritage, a common structure in the global shipping industry where Greek shipping families and firms have dominated for centuries.
+[Diana Shipping](/dsx-stock/) Inc. operates a fleet of dry bulk carriers — the large, specialized ships that haul grain, coal, [iron ore](/iron-ore/), and other unpackaged commodities across the world's oceans. The business is straightforward and cyclical: the company owns vessels, charters them to traders and producers, and earns revenue from the daily or voyage rates it negotiates. Unlike a shipping brokerage that merely intermediates between shippers and vessel owners, Diana actually owns the ships, bearing the capital costs and the [operational risks](/operational-risk/). The company is incorporated in the Marshall Islands but has strong Greek maritime heritage, a common structure in the global shipping industry where Greek shipping families and firms have dominated for centuries.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ Diana Shipping Inc. operates a fleet of dry bulk carriers — the large, special
 
 ## The origins of a shipping business
 
-Shipping companies like Diana emerge from the same fundamental pattern that has governed maritime commerce for centuries: someone owns a ship, someone else needs cargo moved, and the rate paid reflects the balance between supply and demand. Diana Shipping was established in the 2000s to participate in what looked at the time like a secular growth in global trade and, in particular, commodity demand driven by China's rise as a manufacturing center. The company went public on NASDAQ in 2005, raising capital to buy more vessels and expand its fleet.
+Shipping companies like Diana emerge from the same fundamental pattern that has governed maritime commerce for centuries: someone owns a ship, someone else needs cargo moved, and the rate paid reflects the balance between supply and demand. Diana Shipping was established in the 2000s to participate in what looked at the time like a secular growth in global trade and, in particular, commodity demand driven by China's rise as a manufacturing center. The company went public on [NASDAQ](/nasdaq/) in 2005, raising capital to buy more vessels and expand its fleet.
 
 The business model is asset-intensive: each vessel represents tens of millions of dollars in capital, requires a crew, consumes fuel, and needs periodic maintenance and certification. Yet it is also highly leveraged to global trade flows. When the Chinese economy booms and mills need iron ore or power plants need coal, rates rise and shipping profits soar. When global trade contracts or vessel supply exceeds demand, rates collapse and shipping companies see their revenue per ship plummet. Diana's publicly traded shares trade directly on those rate cycles.
 

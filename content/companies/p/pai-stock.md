@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Western Asset Investment Grade Income Fund is a closed-end mutual fund that holds a diversified portfolio of investment-grade [corporate bonds](/corporate-bond/), mortgage-backed securities, and other fixed-income instruments. Shares trade on the [stock exchange](/stock-exchange/) under the ticker PAI, and the fund's attraction lies in its high [current yield](/current-yield/) — paid as a distribution to shareholders — and the way it competes against traditional open-end bond funds by moving to a market price that may diverge from its underlying [net asset value](/net-asset-value/).
+Western Asset Investment Grade [Income Fund](/income-fund/) is a closed-end [mutual fund](/mutual-fund/) that holds a diversified portfolio of investment-grade [corporate bonds](/corporate-bond/), mortgage-backed securities, and other fixed-income instruments. Shares trade on the [stock exchange](/stock-exchange/) under the ticker PAI, and the fund's attraction lies in its high [current yield](/current-yield/) — paid as a distribution to shareholders — and the way it competes against traditional open-end [bond](/bond/) funds by moving to a market price that may diverge from its underlying [net asset value](/net-asset-value/).
 
 ## What is a closed-end bond fund, and why does PAI exist?
 
@@ -31,7 +31,7 @@ PAI shares trade on the exchange and move in price based on buyer demand, not so
 
 ## Competitive dynamics
 
-Fixed-income investors face a spectrum of choices: individual bonds, Treasury ETFs, open-end bond funds, and closed-end funds like PAI. Low-cost [index funds](/index-fund/) (iShares, Vanguard bond ETFs) have drained assets from actively managed closed-end funds because they charge less and are transparent. Closed-end funds survive by pursuing a differentiated mandate — in PAI's case, a focus on investment-grade corporate debt with a history of distributing income. The fund's value depends on whether Western Asset's credit selection and bond management earn enough to justify its [expense ratio](/expense-ratio/) and to support the advertised distribution without eroding capital.
+Fixed-income investors face a spectrum of choices: individual bonds, Treasury ETFs, open-end bond funds, and closed-end funds like PAI. Low-cost [index funds](/index-fund/) (iShares, Vanguard [bond ETFs](/bond-etf/)) have drained assets from actively managed closed-end funds because they charge less and are transparent. Closed-end funds survive by pursuing a differentiated mandate — in PAI's case, a focus on investment-grade corporate debt with a history of distributing income. The fund's value depends on whether Western Asset's credit selection and bond management earn enough to justify its [expense ratio](/expense-ratio/) and to support the advertised distribution without eroding capital.
 
 ## How to evaluate PAI as an investment
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-You can buy a genetic test online. Spit in a tube, mail it in, wait a few weeks, and get a report describing your genetic risk for certain diseases and conditions. Prenetics Global Ltd makes and sells those tests. The company operates in two parts: one side runs diagnostic testing services for cancer and other conditions; the other side serves consumers who want to know what their DNA says about their health and ancestry.
+You can buy a genetic test online. Spit in a tube, mail it in, wait a few weeks, and get a report describing your genetic risk for certain diseases and conditions. [Prenetics Global](/pre-stock/) Ltd makes and sells those tests. The company operates in two parts: one side runs diagnostic testing services for cancer and other conditions; the other side serves consumers who want to know what their DNA says about their health and ancestry.
 
 ## What Prenetics does, in plain terms
 
@@ -30,7 +30,7 @@ These two customer types have very different buying patterns, margins, and growt
 
 ## How Prenetics went public
 
-Prenetics began as a private company founded in Hong Kong in 2014. In 2022, it went public through a merger with an existing SPAC, Artisan Acquisition Corp., founded by Adrian Cheng, a prominent Hong Kong investor. The combined company began trading on Nasdaq under the symbols PRE (common shares) and PRENW (warrants) in May 2022.
+Prenetics began as a private company founded in Hong Kong in 2014. In 2022, it went public through a [merger](/merger/) with an existing SPAC, Artisan [Acquisition](/acquisition/) Corp., founded by Adrian Cheng, a prominent Hong Kong investor. The combined company began trading on [Nasdaq](/nasdaq/) under the symbols PRE (common shares) and PRENW (warrants) in May 2022.
 
 The SPAC merger gave Prenetics access to public capital markets, funding for growth, and the credibility of a Nasdaq listing. For early shareholders, it meant liquidity and the ability to trade their stake. For Prenetics, it meant capital to expand its testing labs, marketing, and consumer platforms.
 
@@ -50,7 +50,7 @@ Prenetics' profitability depends on getting unit economics right: keeping the co
 
 ## How to research Prenetics as an investment
 
-Prenetics' SEC filings, located under CIK 0001876431, provide the official record. Focus on revenue by segment—how much comes from diagnostics vs. consumer testing, and which is growing faster. Watch gross margins; improving margins suggest better cost control or better-mix revenue. Track free cash flow; a cash-burning genetic testing company faces sustainability questions.
+Prenetics' SEC filings, located under CIK 0001876431, provide the official record. Focus on revenue by segment—how much comes from diagnostics vs. consumer testing, and which is growing faster. Watch gross margins; improving margins suggest better cost control or better-mix revenue. Track [free cash flow](/free-cash-flow/); a cash-burning genetic testing company faces sustainability questions.
 
 In earnings calls, listen for commentary on reimbursement rates, customer acquisition costs, and retention among repeat testers. These operational metrics reveal whether the business model is working. Also note management's strategy for international expansion; Prenetics was founded in Hong Kong and serves global customers, but the United States is its largest market. Growth outside the U.S. is still unproven.
 

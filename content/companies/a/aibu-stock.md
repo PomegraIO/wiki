@@ -45,7 +45,7 @@ A trader might buy AIBU if they believe tech stocks will rise over the next day 
 
 ## Costs and trading
 
-AIBU trades on the NASDAQ like a regular stock. You can buy and sell it at any time during market hours. The fund charges an expense ratio higher than a plain index fund — this reflects the cost of maintaining daily leverage and the derivatives that help track the index. Bid-ask spreads (the difference between buy and sell prices) may be wider than in very liquid broad-market ETFs, since AIBU is more specialized and narrower in scope.
+AIBU trades on the [NASDAQ](/nasdaq/) like a regular stock. You can buy and sell it at any time during market hours. The fund charges an [expense ratio](/expense-ratio/) higher than a plain [index fund](/index-fund/) — this reflects the cost of maintaining daily leverage and the derivatives that help track the index. [Bid-ask spreads](/bid-ask-spread/) (the difference between buy and sell prices) may be wider than in very liquid broad-market ETFs, since AIBU is more specialized and narrower in scope.
 
 ## Real risks
 
@@ -53,4 +53,4 @@ If the index rallies hard and you hold AIBU, your gains will be amplified — wh
 
 ## How to research AIBU
 
-Read the fund prospectus on Direxion's website. It explains exactly how the daily reset works and warns about volatility decay. Check the fund's holdings and the index composition so you understand which companies you're really exposed to. If you're tempted to hold AIBU for weeks or months, run the math first: calculate what volatility decay would cost you given realistic market moves. Compare it to other options like non-leveraged tech ETFs, call options, or accepting lower leverage. AIBU is powerful for a trader who respects its limits; it's a capital drain for anyone who treats it like a long-term investment.
+Read the [fund prospectus](/fund-prospectus/) on Direxion's website. It explains exactly how the daily reset works and warns about volatility decay. Check the fund's holdings and the index composition so you understand which companies you're really exposed to. If you're tempted to hold AIBU for weeks or months, run the math first: calculate what volatility decay would cost you given realistic market moves. Compare it to other options like non-leveraged tech ETFs, [call options](/call-option/), or accepting lower leverage. AIBU is powerful for a trader who respects its limits; it's a capital drain for anyone who treats it like a long-term investment.

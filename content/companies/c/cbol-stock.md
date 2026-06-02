@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-In October 2025, Calamos Investments announced a new family of bitcoin ETFs with a protective twist: instead of a single one-year outcome period like its January and October series, the Calamos Laddered Bitcoin Structured Alt Protection ETF (CBOL) divides the investor's capital across four successive quarterly periods, each with its own call and put option structure. The innovation addresses a persistent problem in structured bitcoin products—timing risk. By laddering the resets across the year rather than bunching them all at once, CBOL spreads the entry risk and promises a smoother experience for long-term holders.
+In October 2025, Calamos Investments announced a new family of [bitcoin](/bitcoin/) ETFs with a protective twist: instead of a single one-year outcome period like its January and October series, the Calamos Laddered Bitcoin Structured Alt Protection ETF (CBOL) divides the investor's capital across four successive quarterly periods, each with its own call and [put option](/put-option/) structure. The innovation addresses a persistent problem in structured bitcoin products—timing risk. By laddering the resets across the year rather than bunching them all at once, CBOL spreads the entry risk and promises a smoother experience for long-term holders.
 
 <aside class="wiki-infobox">
 <table>
@@ -52,4 +52,4 @@ CBOL launched in October 2025 with modest assets (in the low millions) as of ear
 
 CBOL's target investor is someone who fears bitcoin's volatility enough to accept capped gains, but disciplined enough to commit to holding through the inevitable quarterly resets. A pension fund with bitcoin allocation requirements but strict loss limits, or a conservative family office wanting controlled bitcoin exposure, might find the structure appealing. It is not for traders or speculators; it is for long-term holders who view bitcoin as an asset class to own but only with guardrails. Understanding the quarterly reset mechanism—and the cap and protection terms that reset every three months—is essential before investing.
 
-To research CBOL thoroughly, investors should review Calamos's fact sheet and the ETF prospectus on the SEC's website, which detail the specific cap rates for each quarterly cohort as of the time of investment. Because CBOL's structure is entirely options-based and resets regularly, traditional financial metrics like price-to-earnings ratio are not applicable; the prospectus is the source of truth.
+To research CBOL thoroughly, investors should review Calamos's fact sheet and the ETF prospectus on the SEC's website, which detail the specific [cap rates](/cap-rate/) for each quarterly cohort as of the time of investment. Because CBOL's structure is entirely options-based and resets regularly, traditional financial metrics like [price-to-earnings ratio](/price-to-earnings-ratio/) are not applicable; the prospectus is the source of truth.

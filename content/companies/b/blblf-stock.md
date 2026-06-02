@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Bilibili is a Chinese online video platform. Think YouTube mixed with a tight community forum. Users upload videos, watch other people's videos, and leave comments that pile up in a rapid-fire text stream across the bottom of the screen (a feature called "danmu" or "bullet comments"). The site is especially known for anime, gaming content, and stuff that appeals to younger Chinese audiences. The company went public in 2018 and trades on NASDAQ under the ticker BILI (BLBLF on some systems).
+Bilibili is a Chinese online video platform. Think YouTube mixed with a tight community forum. Users upload videos, watch other people's videos, and leave comments that pile up in a rapid-fire text stream across the bottom of the screen (a feature called "danmu" or "bullet comments"). The site is especially known for anime, gaming content, and stuff that appeals to younger Chinese audiences. The company went public in 2018 and trades on [NASDAQ](/nasdaq/) under the ticker BILI (BLBLF on some systems).
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ The platform's early users were obsessive anime fans and gaming nerds. In China,
 
 For years, Bilibili was synonymous with anime. But around 2015 and later, the platform began diversifying. Gaming streams became huge. Educational content took off. Musicians posted covers. Creators in all sorts of categories started using it. The community expanded past hardcore anime fans to include gamers, students, artists, and everyday people looking for entertainment.
 
-This diversification was essential to survival and growth. Anime alone could not support a billion-dollar company. But if the platform could be a destination for any kind of video and community — similar to YouTube, but with a strong subculture flavor and a tightly engaged user base — the addressable market became much larger.
+This [diversification](/diversification/) was essential to survival and growth. Anime alone could not support a billion-dollar company. But if the platform could be a destination for any kind of video and community — similar to YouTube, but with a strong subculture flavor and a tightly engaged user base — the addressable market became much larger.
 
 ## How Bilibili makes money
 
@@ -59,7 +59,7 @@ This regulatory uncertainty is a real risk for investors. A sudden ban on gaming
 
 Bilibili is no longer a tiny startup. It has millions of daily active users in China and is one of the largest video platforms in the country. It has invested in studios and production, partially funding original anime and other content to differentiate itself. The company also expanded into mobile gaming and other ventures, though video remains core.
 
-Yet Bilibili still struggles to be consistently profitable at the company level. It spends heavily on content creation, licensing, and user acquisition. Competition in China is fierce — Douyin (the Chinese TikTok), YouTube alternatives, and other platforms vie for the same attention. Advertising budgets are competitive and unpredictable. The path to sustainable, growing profit has been slower than some investors hoped.
+Yet Bilibili still struggles to be consistently profitable at the company level. It spends heavily on content creation, licensing, and user [acquisition](/acquisition/). Competition in China is fierce — Douyin (the Chinese TikTok), YouTube alternatives, and other platforms vie for the same attention. Advertising budgets are competitive and unpredictable. The path to sustainable, growing profit has been slower than some investors hoped.
 
 ## What to watch
 

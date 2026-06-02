@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-CPI Card Group (PMTS) is the largest provider of payment cards in the United States by production volume. The company manufactures debit and credit cards for banks, credit unions, fintech companies, and prepaid program operators. It also provides personalisation services—printing account details and security features onto blank cards—and software-as-a-service platforms that allow [financial institutions](/fisi-stock/) to issue instant personalised cards on demand. This combination of manufacturing, services, and technology has positioned CPI as an essential infrastructure provider in the payments system, embedded into the operations of hundreds of financial institutions.
+CPI Card Group (PMTS) is the largest provider of payment cards in the United States by production volume. The company manufactures debit and credit cards for banks, credit unions, fintech companies, and prepaid program operators. It also provides personalisation services—printing account details and security features onto blank cards—and software-as-a-service platforms that allow financial institutions to issue instant personalised cards on demand. This combination of manufacturing, services, and technology has positioned CPI as an essential infrastructure provider in the payments system, embedded into the operations of hundreds of financial institutions.
 
 <aside class="wiki-infobox">
 <table>

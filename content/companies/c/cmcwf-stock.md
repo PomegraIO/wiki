@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Piermont Valley Acquisition Corp is one of thousands of SPACs created over the past decade to serve as a bridge between private company and public markets. CMCWF and CMCUF are two ticker symbols representing warrants and units in the same underlying entity — the company formed to hunt for and acquire a private business. The fundamental story is identical: capital raised, a deadline set, sponsors empowered to find a target, and retail shareholders holding tickets to a future that depends on whether the deal works out.
+Piermont Valley [Acquisition](/acquisition/) Corp is one of thousands of SPACs created over the past decade to serve as a bridge between private company and public markets. CMCWF and CMCUF are two ticker symbols representing warrants and units in the same underlying entity — the company formed to hunt for and acquire a private business. The fundamental story is identical: capital raised, a deadline set, sponsors empowered to find a target, and retail shareholders holding tickets to a future that depends on whether the deal works out.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,9 +28,9 @@ Piermont Valley Acquisition Corp is one of thousands of SPACs created over the p
 
 When a SPAC goes public, it typically issues three things: common shares, units (which bundle common shares and warrants), and warrants on their own. A warrant is a contract that lets the holder buy additional shares at a fixed price — usually several dollars above the IPO price — if the holder chooses to exercise it.
 
-Why warrants? They give sponsors and early investors a way to profit even if the stock barely moves. If the SPAC IPOs at ten dollars and the warrant holder has the right to buy shares at fourteen dollars, that warrant is worthless today. But if the stock soars to twenty dollars after a successful merger, the warrant holder can exercise (pay fourteen, get a share worth twenty) and pocket the difference. Warrants also provide leverage — a small investment controls multiple shares' worth of upside.
+Why warrants? They give sponsors and early investors a way to profit even if the stock barely moves. If the SPAC IPOs at ten dollars and the warrant holder has the right to buy shares at fourteen dollars, that warrant is worthless today. But if the stock soars to twenty dollars after a successful [merger](/merger/), the warrant holder can exercise (pay fourteen, get a share worth twenty) and pocket the difference. Warrants also provide leverage — a small investment controls multiple shares' worth of upside.
 
-The catch is that warrants also represent dilution. If every warrant holder exercises, the share count balloons, and existing shareholders own a smaller piece of the merged company. The SPAC structure tries to manage this by setting the warrant strike price high enough that it only makes economic sense to exercise if the stock has performed very well.
+The catch is that warrants also represent dilution. If every warrant holder exercises, the share count balloons, and existing shareholders own a smaller piece of the merged company. The SPAC structure tries to manage this by setting the warrant [strike price](/strike-price/) high enough that it only makes economic sense to exercise if the stock has performed very well.
 
 ## The CMCWF ticker and what warrant holders are betting on
 
@@ -42,7 +42,7 @@ In a successful SPAC merger where the stock doubles from IPO to post-merger, war
 
 SPAC sponsors — the founders and the managing company — take fees from the trust account and earn "promote" shares, typically 20 percent of the merged company's equity if the deal closes successfully. That is a strong incentive to complete a deal, any deal. If sponsors are paid based on deal completion rather than deal quality, they may not be as critical as they should be when evaluating a target company.
 
-The original SPAC IPO shares come with redemption rights: if shareholders don't like the merger, they can demand their money back from the trust account. That protects retail shareholders from a patently bad deal, but it also means that if too many shareholders redeem, there may not be enough capital left to fund the merged company's operations. This creates a strange dynamic where the SPAC's success depends not just on finding a good company but on convincing shareholders to hold their shares even if the deal is mediocre.
+The original SPAC IPO shares come with [redemption rights](/redemption-rights-equity/): if shareholders don't like the merger, they can demand their money back from the trust account. That protects retail shareholders from a patently bad deal, but it also means that if too many shareholders redeem, there may not be enough capital left to fund the merged company's operations. This creates a strange dynamic where the SPAC's success depends not just on finding a good company but on convincing shareholders to hold their shares even if the deal is mediocre.
 
 ## A glance at the broader SPAC landscape
 
@@ -56,4 +56,4 @@ If you own or are considering CMCWF warrants, the first step is to understand th
 
 Check the merged company's fundamentals carefully. What does it do? Who are its customers? How profitable or cash-generative is it? SPAC mergers often come with optimistic financial projections — scrutinize them. Look at the sponsors' track record with previous SPACs. Are they disciplined investors or deal-at-any-cost operators?
 
-Warrants add leverage and timing risk. You are betting not just that the company succeeds, but that it succeeds enough and fast enough to justify exercising the warrant. If the stock rises modestly but slowly, you may be holding an expensive, illiquid position with diminishing time value. Treat warrants as a speculative position, not a core holding.
+Warrants add leverage and timing risk. You are betting not just that the company succeeds, but that it succeeds enough and fast enough to justify exercising the warrant. If the stock rises modestly but slowly, you may be holding an expensive, illiquid position with diminishing [time value](/time-value/). Treat warrants as a speculative position, not a core holding.

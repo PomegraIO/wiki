@@ -37,7 +37,7 @@ As a diversified company, Beroni must allocate capital across TCM manufacturing,
 
 ## Geographic and Currency Exposure
 
-Beroni's multi-country operations create exposure to foreign exchange fluctuations. If the company manufactures TCM in China (in yuan) but sells in multiple currency zones ([Singapore dollars](/singapore-dollar/), Thai baht, U.S. dollars), currency movements affect reported earnings and competitiveness. A strengthening dollar relative to the yuan makes Beroni's products more expensive in international markets; a weakening dollar improves export competitiveness but reduces the dollar value of earnings from yuan-denominated operations.
+Beroni's multi-country operations create exposure to foreign exchange fluctuations. If the company manufactures TCM in China (in yuan) but sells in multiple currency zones ([Singapore dollars](/singapore-dollar/), Thai baht, [U.S. dollars](/us-dollar/)), currency movements affect reported earnings and competitiveness. A strengthening dollar relative to the yuan makes Beroni's products more expensive in international markets; a weakening dollar improves export competitiveness but reduces the dollar value of earnings from yuan-denominated operations.
 
 ## Working Capital Management in Seasonal and Cyclical Businesses
 

@@ -23,9 +23,9 @@ This daily rebalancing is the mechanism that causes decay. Suppose DNN gains 5% 
 
 ## Costs and mechanics
 
-DNNG carries an expense ratio that includes not just the fund's administrative fee but also the cost of rolling derivatives positions and rebalancing daily. That cost is higher than a single-stock ETF would bear, typically in the 0.5% to 1.0% annual range, though the prospectus gives the exact figure. More importantly, the fund pays bid-ask spreads on every day's rebalance. These accumulate and are invisible in the headline fee but real in returns.
+DNNG carries an [expense ratio](/expense-ratio/) that includes not just the fund's administrative fee but also the cost of rolling derivatives positions and rebalancing daily. That cost is higher than a single-stock ETF would bear, typically in the 0.5% to 1.0% annual range, though the prospectus gives the exact figure. More importantly, the fund pays [bid-ask spreads](/bid-ask-spread/) on every day's rebalance. These accumulate and are invisible in the headline fee but real in returns.
 
-The fund trades on the NASDAQ, usually with moderate volume compared to plain-vanilla ETFs but tighter spreads than many niche products. Liquidity is reasonable for an intraday trader; longer-term investors should be aware that wide spreads and the daily rebalancing cost are headwinds that compound over time.
+The fund trades on the [NASDAQ](/nasdaq/), usually with moderate volume compared to plain-vanilla ETFs but tighter spreads than many niche products. Liquidity is reasonable for an intraday trader; longer-term investors should be aware that wide spreads and the daily rebalancing cost are headwinds that compound over time.
 
 ## Volatility decay: the silent killer
 
@@ -41,10 +41,10 @@ DNN is a pure-play uranium and vanadium producer. It develops the Athabasca uran
 
 DNNG is a pure trading tool. It is bought by uranium bulls who expect strong conviction moves over days to weeks, who believe DNN will rally sharply, and who want that conviction to show up in an ETF wrapper rather than in margin accounts or options. It is emphatically not a buy-and-hold position for wealth accumulation or a substitute for owning Denison Metals directly for a long-term uranium bet.
 
-Professional traders, hedge funds, and sophisticated retail traders are the real users. They understand the daily reset, they plan to exit within weeks, and they monitor rolling returns versus the leverage target. A casual investor who buys DNNG and holds it for a year, expecting to see 2x the return of DNN, will be disappointed — especially in a range-bound year.
+Professional traders, [hedge funds](/hedge-fund/), and sophisticated retail traders are the real users. They understand the daily reset, they plan to exit within weeks, and they monitor rolling returns versus the leverage target. A casual investor who buys DNNG and holds it for a year, expecting to see 2x the return of DNN, will be disappointed — especially in a range-bound year.
 
 ## Prospectus and risk disclosure
 
-The fund's prospectus (filed with the SEC and available on the fund's website) spells out the daily reset mechanism, the decay risk, and the fee structure. It also details the risks of leverage: forced selling if collateral drops below thresholds, currency risks on some derivatives, and counterparty risks on swaps. Denison Metals releases quarterly results and project updates, but those are only relevant to DNNG in the sense that they move DNN's stock. DNNG's real performance driver is DNN's daily and intraday price action, not Denison's business fundamentals.
+The fund's prospectus (filed with the SEC and available on the fund's website) spells out the daily reset mechanism, the decay risk, and the fee structure. It also details the risks of leverage: forced selling if collateral drops below thresholds, [currency risks](/currency-risk/) on some derivatives, and [counterparty risks](/counterparty-risk/) on swaps. Denison Metals releases quarterly results and project updates, but those are only relevant to DNNG in the sense that they move DNN's stock. DNNG's real performance driver is DNN's daily and intraday price action, not Denison's business fundamentals.
 
 Investors considering DNNG should also understand uranium markets, geopolitical supply risks (Kazakhstan and Canada), and the speculative nature of uranium stocks. DNNG amplifies all of these. It is not a conservative or diversified holding; it is a tactical bet on a volatile niche sector, leveraged 2x, and reset daily to ensure that volatility works against longer-term holders.

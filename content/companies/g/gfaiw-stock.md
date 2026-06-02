@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Guardforce AI Co., Ltd., trading over-the-counter under the ticker GFAIW, is a Chinese company operating at the intersection of physical security services and artificial intelligence. The company has evolved from a traditional security and logistics business into a technology-oriented provider of AI-based surveillance, monitoring, and automated security solutions.
+[Guardforce AI](/gfai-stock/) Co., Ltd., trading over-the-counter under the ticker GFAIW, is a Chinese company operating at the intersection of physical security services and artificial intelligence. The company has evolved from a traditional security and logistics business into a technology-oriented provider of AI-based surveillance, monitoring, and automated security solutions.
 
 ## Early operations and foundations
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Alchemy Investments Acquisition Corp 1 is a blank-check company. That means it is a publicly listed shell with no actual business. The whole point of the company is to find a private company, buy it, merge with it, and turn it into a public company. The money to buy that target comes from investors who bought shares when the SPAC first went public. Until the merger happens, the cash sits in a trust account that nobody can touch.
+[Alchemy Investments Acquisition Corp 1](/alcyf-stock/) is a blank-check company. That means it is a publicly listed shell with no actual business. The whole point of the company is to find a private company, buy it, merge with it, and turn it into a public company. The money to buy that target comes from investors who bought shares when the SPAC first went public. Until the [merger](/merger/) happens, the cash sits in a trust account that nobody can touch.
 
 <aside class="wiki-infobox">
 <table>
@@ -42,7 +42,7 @@ Many investors pull the units apart and sell the warrants immediately because th
 
 ## Two years to find a deal, or the money goes back
 
-The sponsor has a clock: find a target, negotiate, announce, and close a business combination within roughly two years. If they miss the deadline and have not closed a deal, the trust gets liquidated and cash flows back to whoever still owns shares. The sponsor loses their free 20% stake entirely.
+The sponsor has a clock: find a target, negotiate, announce, and close a [business combination](/business-combination-purchase/) within roughly two years. If they miss the deadline and have not closed a deal, the trust gets liquidated and cash flows back to whoever still owns shares. The sponsor loses their free 20% stake entirely.
 
 This deadline pressure can be good or bad. A sponsor might push hard to close a marginal deal just to beat the clock, which helps them keep their shares but may hurt you. Or they might hold out for a genuinely good target and let the clock run out, which is at least honest.
 
@@ -50,6 +50,6 @@ This deadline pressure can be good or bad. A sponsor might push hard to close a 
 
 For a few years, SPACs were everywhere. Wall Street liked them because they collected fees. Sponsors liked them because they could earn profits if the merger target succeeded. But by 2022, regulators cracked down, investors lost money on bad mergers, and the public got tired of hype that did not translate into profits.
 
-The Securities and Exchange Commission now scrutinizes SPAC filings more closely. State attorneys general sued sponsors for misleading forecasts. And the stock market punished merged SPAC companies harshly when growth slowed and the real business revealed itself as far smaller than promised.
+The [Securities and Exchange Commission](/securities-and-exchange-commission/) now scrutinizes SPAC filings more closely. State attorneys general sued sponsors for misleading forecasts. And the [stock market](/stock-market/) punished merged SPAC companies harshly when growth slowed and the real business revealed itself as far smaller than promised.
 
 For an investor today, ALCYW is a very specific bet: you believe the Alchemy Investments sponsor is skilled, you are comfortable redeeming at the merger announcement if you hate the target, and you trust that when they find a business, it will be worth more than the SPAC paid for it. That is not a small set of assumptions.

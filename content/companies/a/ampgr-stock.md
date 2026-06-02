@@ -13,7 +13,7 @@ handwritten: true
 
 ## What does AmpliTech actually make?
 
-AmpliTech Group manufactures and designs radio-frequency and microwave components — the small, specialized building blocks that process signals in satellites, military systems, 5G base stations, and quantum computers. AMPGR represents shares in the same operating company; the ticker reflects a different share class or exchange listing.
+AmpliTech Group manufactures and designs radio-frequency and microwave components — the small, specialized building blocks that process signals in satellites, military systems, 5G base stations, and quantum computers. AMPGR represents shares in the same operating company; the ticker reflects a different [share class](/share-class/) or exchange listing.
 
 The company's products are invisible to most people but essential to the systems that depend on them. A low-noise amplifier made by AmpliTech might sit inside a communications satellite, pulling weak Earth-signals out of space noise. Another amplifier might boost the transmission of a radar antenna on a military aircraft. A microwave integrated circuit might route signals in a 5G small cell that serves a city block. The application is different, but the engineering is similar: take a radio signal, amplify it, filter it, or route it with minimal added noise and maximum reliability.
 
@@ -41,7 +41,7 @@ The risk is that a larger competitor with deeper resources might enter a niche a
 
 ## What funds operations and growth?
 
-AmpliTech is less capital-intensive than chip fabrication but still requires investment in the Microwave Design Center, testing equipment, and clean-room manufacturing. The company has generally grown through a mix of organic expansion and small acquisitions, adding specialized design houses and manufacturers to the platform.
+AmpliTech is less capital-intensive than chip fabrication but still requires investment in the Microwave Design Center, testing equipment, and clean-room manufacturing. The company has generally grown through a mix of organic expansion and small [acquisitions](/acquisition/), adding specialized design houses and manufacturers to the platform.
 
 The company generates cash from operations and has historically relied on that cash for growth. Because the business operates on long program cycles, revenue is somewhat predictable once customers are signed, which makes forecasting cash flow more stable than for more cyclical businesses.
 
@@ -59,7 +59,7 @@ The company generates cash from operations and has historically relied on that c
 
 ## How is the company managed for cash?
 
-The company generates operating cash flow from component sales and services. It invests some of that cash back into R&D and manufacturing equipment. Any excess is typically available for shareholder distributions, reinvestment, or debt paydown. The capital-light nature of much of the business — especially the design and distribution arms — means the company should generate healthy free cash flow relative to its size.
+The company generates operating cash flow from component sales and services. It invests some of that cash back into R&D and manufacturing equipment. Any excess is typically available for shareholder distributions, reinvestment, or debt paydown. The capital-light nature of much of the business — especially the design and distribution arms — means the company should generate healthy [free cash flow](/free-cash-flow/) relative to its size.
 
 ## What should investors watch?
 

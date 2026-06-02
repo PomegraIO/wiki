@@ -10,13 +10,13 @@ keywords:
 handwritten: true
 ---
 
-Japan Exchange Group is the operator of the Tokyo Stock Exchange — the financial marketplace where Japanese companies and international firms raise capital and where investors buy and sell equities, bonds, derivatives, and other securities. The company trades internationally as OSCUF, and it represents a pure play on the capital markets of Japan: it owns the technology, the rules, and the relationships that allow trading to happen at scale.
+Japan Exchange Group is the operator of the [Tokyo Stock Exchange](/tokyo-stock-exchange/) — the financial marketplace where Japanese companies and international firms raise capital and where investors buy and sell equities, [bonds](/bond/), derivatives, and other securities. The company trades internationally as OSCUF, and it represents a pure play on the capital markets of Japan: it owns the technology, the rules, and the relationships that allow trading to happen at scale.
 
-The business of running a stock exchange is fundamentally different from operating a company in most other industries. Japan Exchange Group does not make products or provide services in the conventional sense. Instead, it operates a marketplace — a set of interconnected systems and rules that bring buyers and sellers together, executes trades, clears and settles them, and collects fees from each transaction. Everything that Japan Exchange Group does flows from this core function.
+The business of running a [stock exchange](/stock-exchange/) is fundamentally different from operating a company in most other industries. Japan Exchange Group does not make products or provide services in the conventional sense. Instead, it operates a marketplace — a set of interconnected systems and rules that bring buyers and sellers together, executes trades, clears and settles them, and collects fees from each transaction. Everything that Japan Exchange Group does flows from this core function.
 
 ## The monopoly structure of exchange operators
 
-Stock exchange operators exist in a state that resembles monopoly more than it resembles typical competition. Japan Exchange Group is the primary stock exchange in Japan. While traders can access equities and derivatives through alternative venues or over-the-counter markets, the vast majority of Japanese equity trading flows through Japan Exchange Group because it is the centralized, regulated marketplace recognized by law and custom as the primary venue.
+Stock exchange operators exist in a state that resembles monopoly more than it resembles typical competition. Japan Exchange Group is the primary stock exchange in Japan. While traders can access equities and derivatives through alternative venues or [over-the-counter markets](/over-the-counter-market/), the vast majority of Japanese equity trading flows through Japan Exchange Group because it is the centralized, regulated marketplace recognized by law and custom as the primary venue.
 
 This monopoly position is not accidental or precarious. It is protected by regulation. In Japan, the Financial Instruments and Exchange Act defines how securities trading can occur, and the Tokyo Stock Exchange is the designated venue for primary listing and trading of Japanese equities. Rival exchanges exist — smaller ones focusing on different segments or technologies — but they exist in the shadow of Japan Exchange Group's dominant position.
 
@@ -24,9 +24,9 @@ The monopoly nature of the business creates both advantage and constraint. The a
 
 ## Revenue streams
 
-Japan Exchange Group generates revenue primarily through transaction fees. Every time a stock is traded on the exchange, the company collects a small fee from either the buyer, the seller, or the broker facilitating the transaction. The fee is microscopic per trade — fractions of a basis point — but it adds up to enormous volume when the exchange processes millions of transactions daily.
+Japan Exchange Group generates revenue primarily through transaction fees. Every time a stock is traded on the exchange, the company collects a small fee from either the buyer, the seller, or the [broker](/broker/) facilitating the transaction. The fee is microscopic per trade — fractions of a basis point — but it adds up to enormous volume when the exchange processes millions of transactions daily.
 
-A second revenue stream comes from listing fees. When a company conducts an initial public offering or lists additional shares on the Tokyo Stock Exchange, the exchange charges a fee. These fees are one-time revenue sources but are substantial per listing, especially for large offerings. Because Japan Exchange Group is the primary venue for Japanese companies seeking public capital, listing fees are a steady, recurring revenue item — not all years are equal, as capital-raising activity depends on economic conditions and investor sentiment, but the company has rarely faced a year with zero public offerings.
+A second revenue stream comes from listing fees. When a company conducts an [initial public offering](/initial-public-offering/) or lists additional shares on the Tokyo Stock Exchange, the exchange charges a fee. These fees are one-time revenue sources but are substantial per listing, especially for large offerings. Because Japan Exchange Group is the primary venue for Japanese companies seeking public capital, listing fees are a steady, recurring revenue item — not all years are equal, as capital-raising activity depends on economic conditions and investor sentiment, but the company has rarely faced a year with zero public offerings.
 
 A third source is data and information services. Japan Exchange Group publishes real-time and historical trading data, market indices, and analytics products that traders, asset managers, and researchers pay for. This is a high-margin business because the raw data is generated by the exchange's normal operations — the exchange simply packages and sells it.
 
@@ -42,9 +42,9 @@ The capital requirements are interesting. Building an exchange requires enormous
 
 ## Challenges and opportunities
 
-Japan Exchange Group faces several structural challenges. The first is the dominance of passive investing and index funds. As investors shift money into low-cost passive strategies rather than active trading, total trading volume can decline relative to historical levels. Less trading means fewer fees and lower revenue, even if the aggregate value of assets traded stays the same or grows.
+Japan Exchange Group faces several structural challenges. The first is the dominance of passive investing and [index funds](/index-fund/). As investors shift money into low-cost passive strategies rather than active trading, total trading volume can decline relative to historical levels. Less trading means fewer fees and lower revenue, even if the aggregate value of assets traded stays the same or grows.
 
-A second challenge is technological disruption. New trading technologies, dark pools, and alternative venues have fragmented markets in the United States and Europe. While Japan's regulatory environment has protected the Tokyo Stock Exchange more effectively, the threat of fragmentation exists. If trading gradually migrates away from the main exchange to alternative platforms, Japan Exchange Group's revenue base would erode.
+A second challenge is technological disruption. New trading technologies, [dark pools](/dark-pool-detail/), and alternative venues have fragmented markets in the United States and Europe. While Japan's regulatory environment has protected the Tokyo Stock Exchange more effectively, the threat of fragmentation exists. If trading gradually migrates away from the main exchange to alternative platforms, Japan Exchange Group's revenue base would erode.
 
 A third pressure is regulatory change. The Financial Services Agency could decide to lower fee caps, require new technologies or market structures, or impose other requirements. Given the exchange's monopoly position, there is ongoing political and regulatory interest in ensuring that it operates in the public interest and does not extract excess rents.
 
@@ -52,14 +52,14 @@ On the positive side, Japan Exchange Group benefits from any increase in market 
 
 ## International and historical context
 
-Japan Exchange Group was formed in 2013 through the merger of the Tokyo Stock Exchange and the Osaka Securities Exchange. This consolidation reflected a trend globally of exchange consolidation, as technology and regulatory changes made operating multiple separate exchanges less economical. The merger created a larger, more comprehensive platform and improved operational efficiency.
+Japan Exchange Group was formed in 2013 through the [merger](/merger/) of the Tokyo Stock Exchange and the Osaka Securities Exchange. This consolidation reflected a trend globally of exchange consolidation, as technology and regulatory changes made operating multiple separate exchanges less economical. The merger created a larger, more comprehensive platform and improved operational efficiency.
 
 The company went public itself, listing shares on the Tokyo Stock Exchange in 2019. This means that the owner of the Tokyo Stock Exchange is itself a publicly traded company, creating an unusual situation where shareholders in Japan Exchange Group benefit from the profits generated by trading their own shares and others'.
 
 ## How to research Japan Exchange Group
 
-Start with the company's annual reports and SEC filings (CIK 0001600520), which detail revenue by segment, trends in trading volume, and listing activity. The quarterly reports reveal how market conditions are affecting business — watch for volatility spikes that drive trading volume and IPO activity that correlates with bull markets.
+Start with the company's [annual reports](/10-k/) and SEC filings (CIK 0001600520), which detail revenue by segment, trends in trading volume, and listing activity. The quarterly reports reveal how market conditions are affecting business — watch for volatility spikes that drive trading volume and IPO activity that correlates with [bull markets](/bull-market/).
 
-Key metrics include trading volume measured in number of transactions and notional value, average revenue per trade, the number of listings and the value of new capital raised through public offerings, and operating margins. Track the company's investments in new technology and market segments, especially derivatives and international expansion.
+Key metrics include trading volume measured in number of transactions and notional value, average revenue per trade, the number of listings and the value of new capital raised through public offerings, and [operating margins](/operating-margin/). Track the company's investments in new technology and market segments, especially derivatives and international expansion.
 
 The regulatory and competitive environment matters more here than for most companies. Watch for regulatory changes in Japan, policy shifts around market structure, and any competitive threats from alternative platforms or technological disruption. Understanding Japan Exchange Group requires understanding both the strength of its market position in Japan and the forces that could disrupt that position over time.

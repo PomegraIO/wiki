@@ -17,9 +17,9 @@ handwritten: true
 
 ## A sector of binary outcomes
 
-Consumer discretionary is cyclical by definition. When the economy strengthens, unemployment falls, and wages rise, discretionary spending rebounds before anything else. A restaurant worker seeing steady hours increases dining out; an employed person with income growth buys new clothes or upgrades the living room. Small discretionary operators — a regional restaurant chain, an emerging apparel brand, a niche home-furnishings retailer — can grow earnings 20% or more in such an environment because they operate on thin fixed costs that suddenly spread across much higher revenue.
+Consumer discretionary is cyclical by definition. When the economy strengthens, unemployment falls, and wages rise, [discretionary spending](/discretionary-spending/) rebounds before anything else. A restaurant worker seeing steady hours increases dining out; an employed person with income growth buys new clothes or upgrades the living room. Small discretionary operators — a regional restaurant chain, an emerging apparel brand, a niche home-furnishings retailer — can grow earnings 20% or more in such an environment because they operate on thin fixed costs that suddenly spread across much higher revenue.
 
-The opposite is equally dramatic. When recessions approach or unemployment rises, discretionary spending vanishes. Consumers abruptly stop buying new apparel, cutting restaurant visits, postponing home renovation. Small-cap discretionary companies, lacking the scale or cash reserves of large competitors, face stark choices: cut costs aggressively, offer promotions, or close locations. Each path erodes profitability and typically accelerates shareholder losses.
+The opposite is equally dramatic. When [recessions](/recession/) approach or unemployment rises, discretionary spending vanishes. Consumers abruptly stop buying new apparel, cutting restaurant visits, postponing home renovation. Small-cap discretionary companies, lacking the scale or cash reserves of large competitors, face stark choices: cut costs aggressively, offer promotions, or close locations. Each path erodes profitability and typically accelerates shareholder losses.
 
 PSCD amplifies this volatility: the fund holds small companies operating in a cyclical sector. Booms deliver outsized returns, but busts deliver severe drawdowns. An investor buying PSCD near a cycle trough can capture substantial gains as spending rebounds; an investor buying near a peak faces significant losses.
 
@@ -37,13 +37,13 @@ PSCD typically leads the market in expansions and leads it down in contractions.
 
 The inverse is true in contractions. Discretionary stocks decline ahead of other sectors because consumers become cautious before widespread unemployment appears. Small-cap discretionary falls further and faster because the operating leverage runs both directions: a 10% revenue decline becomes a 40% earnings collapse.
 
-Interest rates also matter sharply. Rising rates slow consumer credit availability and confidence, both of which harm discretionary spending. They also compress valuations: a mature discretionary retailer with modest growth is worth less relative to bonds if bond yields rise. Conversely, falling rates boost discretionary through both channels.
+[Interest rates](/interest-rate/) also matter sharply. Rising rates slow consumer credit availability and confidence, both of which harm discretionary spending. They also compress valuations: a mature discretionary retailer with modest growth is worth less relative to [bonds](/bond/) if bond yields rise. Conversely, falling rates boost discretionary through both channels.
 
 ## Volatility, costs, and appropriate use
 
-PSCD is among the most volatile sector ETFs because it combines cyclicality with small-cap risk. Investors should expect 30%, 40%, or even 50% declines in severe recessions and be prepared to hold through that volatility if they want to capture the subsequent recovery. The fund is not a defensive holding and not a core position.
+PSCD is among the most volatile [sector ETFs](/sector-etf/) because it combines cyclicality with small-cap risk. Investors should expect 30%, 40%, or even 50% declines in severe recessions and be prepared to hold through that volatility if they want to capture the subsequent recovery. The fund is not a defensive holding and not a core position.
 
-The expense ratio is approximately 0.39% per year, modest for a narrowly-focused fund. The fund trades on NASDAQ with good daily liquidity. The real cost is opportunity cost and timing risk: an investor who buys PSCD at a cycle peak and holds through a recession loses substantially before recovering.
+The [expense ratio](/expense-ratio/) is approximately 0.39% per year, modest for a narrowly-focused fund. The fund trades on [NASDAQ](/nasdaq/) with good daily liquidity. The real cost is opportunity cost and timing risk: an investor who buys PSCD at a cycle peak and holds through a recession loses substantially before recovering.
 
 PSCD appeals to tactical traders betting on recovery, those running systematic economic-rotation strategies, and investors with explicit cyclical convictions. It is unsuitable for conservative investors, those with short time horizons, or anyone uncomfortable with severe drawdowns.
 

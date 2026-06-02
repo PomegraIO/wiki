@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The Invesco QQQ Income Advantage ETF (ticker QQA) holds the 100 largest Nasdaq-listed stocks — the same roster as any standard Nasdaq-100 index fund — but with a deliberate modification. The fund systematically sells call options against the shares it holds. This is a covered-call strategy: the fund trades away the possibility of unlimited upside in exchange for collecting the option premiums, which it distributes to shareholders monthly as income. The result is a Nasdaq-100 fund engineered to produce regular monthly cash distributions, at the price of capping the fund's gains when the market rallies hard.*
+*The Invesco QQQ Income Advantage ETF (ticker QQA) holds the 100 largest Nasdaq-listed stocks — the same roster as any standard Nasdaq-100 [index fund](/index-fund/) — but with a deliberate modification. The fund systematically sells [call options](/call-option/) against the shares it holds. This is a covered-call strategy: the fund trades away the possibility of unlimited upside in exchange for collecting the [option premiums](/option-premium/), which it distributes to shareholders monthly as income. The result is a Nasdaq-100 fund engineered to produce regular monthly cash distributions, at the price of capping the fund's gains when the market rallies hard.*
 
 <aside class="wiki-infobox">
 
@@ -37,15 +37,15 @@ At its base, QQA holds the same 100 stocks in the same weights as a standard Nas
 
 ## The covered-call overlay and monthly income
 
-A covered call is an options strategy with a simple structure. The fund owns shares — say, 100 shares of a technology company. It then sells (writes) a call option on those shares, giving someone else the right to buy them at a specified price — the strike price — on or before a specified date, usually one month out. In exchange for granting that right, the fund collects an upfront payment: the option premium. This premium is the income the fund later distributes to shareholders.
+A [covered call](/covered-call/) is an options strategy with a simple structure. The fund owns shares — say, 100 shares of a technology company. It then sells (writes) a call option on those shares, giving someone else the right to buy them at a specified price — the [strike price](/strike-price/) — on or before a specified date, usually one month out. In exchange for granting that right, the fund collects an upfront payment: the option premium. This premium is the income the fund later distributes to shareholders.
 
-If the stock rises above the strike price by the expiration date, the call buyer will exercise, and the fund must hand over the shares at the strike. This caps the fund's profit at that strike level. If the stock stays below the strike or falls, the option expires worthless, and the fund keeps both the shares and the premium. It then writes a new call for the next month.
+If the stock rises above the strike price by the [expiration date](/expiration-date/), the call buyer will exercise, and the fund must hand over the shares at the strike. This caps the fund's profit at that strike level. If the stock stays below the strike or falls, the option expires worthless, and the fund keeps both the shares and the premium. It then writes a new call for the next month.
 
 QQA uses a systematic, mechanical approach: it writes calls at predetermined strike levels — typically slightly out of the money, meaning the current stock price is just below the strike — and rolls them monthly. This is not a tactical trade but a structural, recurring feature of how the fund operates.
 
 ## The income generation and the upside cost
 
-The appeal of the covered-call strategy lies in its consistency. If you own Nasdaq-100 stocks and expect them to trade sideways or drift upward modestly, selling calls captures premiums and boosts your return. The monthly distributions are real cash dividends, not a mere accounting artifact. In a flat or slowly rising market, QQA outperforms a standard Nasdaq-100 fund because the premiums add to returns.
+The appeal of the covered-call strategy lies in its consistency. If you own Nasdaq-100 stocks and expect them to trade sideways or drift upward modestly, selling calls captures premiums and boosts your return. The monthly distributions are real cash [dividends](/dividend/), not a mere accounting artifact. In a flat or slowly rising market, QQA outperforms a standard Nasdaq-100 fund because the premiums add to returns.
 
 The cost emerges in strong rallies. On a month when the Nasdaq-100 surges 15 percent, the call options written by the fund will likely be exercised. The fund will be forced to hand over the shares to the call buyers, and those gains will be capped at the strike price. The fund's investor never participates in the portion of the rally above the strike. Over many years and multiple market cycles, this cost — repeatedly missing the big up months — compounds into a substantial drag on total returns.
 
@@ -57,7 +57,7 @@ The fund rebalances its stock holdings quarterly, in line with the underlying Na
 
 The tax treatment differs importantly from a simple Nasdaq-100 fund. The distributions from the call premiums are ordinary income, not capital gains. This matters significantly in taxable accounts. Ordinary-income distributions face a higher tax rate than long-term capital gains in most jurisdictions. Over time, an investor in a taxable account may pay substantially more in taxes holding QQA than holding a stock-only fund, where much of the return comes as long-term gains.
 
-For this reason, QQA may be more efficient held in a tax-deferred account — a 401k, traditional IRA, or similar — where the distributions are not taxed annually.
+For this reason, QQA may be more efficient held in a tax-deferred account — a 401k, [traditional IRA](/traditional-ira/), or similar — where the distributions are not taxed annually.
 
 ## The strategic fit and when it makes sense
 
@@ -69,6 +69,6 @@ For growth-oriented investors with a long time horizon, the cost of capped upsid
 
 Start with the fund's prospectus and its monthly fact sheet. The fact sheet discloses the strike prices the fund is currently using for its call positions. This shows you concretely how much upside the fund is giving up. If calls are written 5 percent out of the money, the fund can participate in the first 5 percent of a rally; anything above that is capped.
 
-Watch the fund's distribution history over a full market cycle: periods of rising markets, flat markets, and falling markets. This reveals how the strategy actually performs in practice, not just in backtests. Then compare the cumulative return to a plain Nasdaq-100 fund over the same period, adjusting for taxes if you would hold it in a taxable account.
+Watch the fund's distribution history over a full market cycle: periods of rising markets, [flat markets](/flat-market/), and falling markets. This reveals how the strategy actually performs in practice, not just in backtests. Then compare the cumulative return to a plain Nasdaq-100 fund over the same period, adjusting for taxes if you would hold it in a taxable account.
 
 The core decision is whether your investment goal is growth, income, or some blend, and whether you believe the Nasdaq-100's largest companies will deliver strong near-term growth. That determines whether QQA or a simpler index fund is the right tool.

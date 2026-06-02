@@ -45,7 +45,7 @@ A third risk is that the major cloud operators become more self-sufficient. Amaz
 
 ## Market drivers and tailwinds
 
-Vertiv's largest end-market tailwind is the expansion of [hyperscale data](/gpus-stock/) centres globally. Amazon, Microsoft, Google, and other cloud operators are building facilities to support artificial intelligence training, inference, and general cloud services. These hyperscale facilities demand massive amounts of power conditioning and cooling equipment. A single data-centre campus might spend hundreds of millions on Vertiv equipment. The pace of that build-out is the single most important variable for Vertiv's revenue growth.
+Vertiv's largest end-market tailwind is the expansion of hyperscale data centres globally. Amazon, Microsoft, Google, and other cloud operators are building facilities to support artificial intelligence training, inference, and general cloud services. These hyperscale facilities demand massive amounts of power conditioning and cooling equipment. A single data-centre campus might spend hundreds of millions on Vertiv equipment. The pace of that build-out is the single most important variable for Vertiv's revenue growth.
 
 A second tailwind is edge computing and distributed cloud infrastructure. Rather than routing all computing to central data centres, enterprises are moving computation closer to the source — to regional micro-data-centres and edge facilities. These require less equipment volume per facility than hyperscale data centres, but there are far more of them. Vertiv is positioned to benefit from this shift.
 

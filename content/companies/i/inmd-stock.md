@@ -20,7 +20,7 @@ Yet InMode's moat is not impenetrable. The company's growth depends on penetrati
 
 ## Competitive Consolidation Risk
 
-The aesthetic-device market has consolidated significantly (Candela was bought by Synergetics, Sciton merged with Iridex). InMode has remained independent, but faces potential [acquisition](/acquisition/) by larger medtech conglomerates—or could see larger rivals acquire emerging competitors before they scale. If Bausch + Lomb, Stryker, or [Johnson & Johnson](/jnj-stock/) acquire a next-generation fractional-laser startup, they bring distribution, R&D scale, and payer relationships that InMode cannot match. InMode's moat against startups is real; its moat against acquisition-backed incumbents is thinner.
+The aesthetic-device market has consolidated significantly (Candela was bought by Synergetics, Sciton merged with Iridex). InMode has remained independent, but faces potential [acquisition](/acquisition/) by larger medtech conglomerates—or could see larger rivals acquire emerging competitors before they scale. If [Bausch + Lomb](/blco-stock/), Stryker, or [Johnson & Johnson](/jnj-stock/) acquire a next-generation fractional-laser startup, they bring distribution, R&D scale, and payer relationships that InMode cannot match. InMode's moat against startups is real; its moat against acquisition-backed incumbents is thinner.
 
 ## Regulatory and Reimbursement Layers
 

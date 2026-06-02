@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Skillsoft is a company that makes learning software for businesses. Think of it as Netflix for training. Companies buy access to Skillsoft's platform, and employees log in to take courses and complete certifications. The platform has thousands of videos, interactive modules, and exams covering everything from cloud computing and cybersecurity to management and soft skills. Skillsoft makes money by charging companies an annual fee for access, and the bigger the company, the more it pays.
+Skillsoft is a company that makes learning software for businesses. Think of it as [Netflix](/nflx-stock/) for training. Companies buy access to Skillsoft's platform, and employees log in to take courses and complete certifications. The platform has thousands of videos, interactive modules, and exams covering everything from cloud computing and cybersecurity to management and soft skills. Skillsoft makes money by charging companies an annual fee for access, and the bigger the company, the more it pays.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,25 +27,25 @@ Skillsoft is a company that makes learning software for businesses. Think of it 
 
 Skillsoft was founded in the late 1990s as companies realised they needed to train employees fast as technology changed. The internet made it possible to deliver training online instead of flying people to classrooms. The company built libraries of courses and sold subscriptions to big companies. For two decades it was a steady business — every large company needed to train workers, and Skillsoft had content covering most topics that mattered.
 
-The challenge: online training platforms are not hard to copy. Competitors popped up. YouTube made some training free. Companies started building their own learning platforms or switching to cheaper vendors. By the 2010s, Skillsoft was profitable but growth was slow. Wall Street investors wanted faster growth, so Skillsoft went public through a merger with a blank-check company (a SPAC) in 2021, bringing fresh capital and pressure to expand.
+The challenge: online training platforms are not hard to copy. Competitors popped up. YouTube made some training free. Companies started building their own learning platforms or switching to cheaper vendors. By the 2010s, Skillsoft was profitable but growth was slow. Wall Street investors wanted faster growth, so Skillsoft went public through a [merger](/merger/) with a blank-check company (a SPAC) in 2021, bringing fresh capital and pressure to expand.
 
 ## What Skillsoft actually makes
 
-The core product is a learning-management system — basically a website where employees log in, browse courses, enroll, take quizzes, and earn certificates. The content is mostly video-based. Skillsoft owns a lot of its own courses, but it also resells content from other creators. Some of the biggest categories are cloud-computing certifications (Amazon Web Services, Microsoft Azure, Google Cloud), cybersecurity, IT infrastructure, data science, and business skills like project management and leadership.
+The core product is a learning-management system — basically a website where employees log in, browse courses, enroll, take quizzes, and earn certificates. The content is mostly video-based. Skillsoft owns a lot of its own courses, but it also resells content from other creators. Some of the biggest categories are cloud-computing certifications (Amazon Web Services, [Microsoft](/msft-stock/) Azure, Google Cloud), cybersecurity, IT infrastructure, data science, and business skills like project management and leadership.
 
-Skillsoft also buys competing platforms to add their content and customer bases. In 2021, it acquired Placebase, which helps companies run apprenticeships. Before that it bought SumTotal (a learning-management platform) and Skillsoft expanded through acquisition as much as organic growth.
+Skillsoft also buys competing platforms to add their content and customer bases. In 2021, it acquired Placebase, which helps companies run apprenticeships. Before that it bought SumTotal (a learning-management platform) and Skillsoft expanded through [acquisition](/acquisition/) as much as organic growth.
 
 ## Why companies buy it
 
 Most companies have thousands or tens of thousands of employees. They need those people to learn new technical skills, stay compliant with regulations (cybersecurity training, anti-harassment), and develop leadership. Sending everyone to in-person classes is expensive and takes them away from work. With Skillsoft, HR sets up an account, employees get access on day one, and they can learn at their own pace. Skillsoft tracks who completed what, which helps HR show that training happened.
 
-The model works best for large companies with stable headcount and money to spend on employee development. Smaller companies might use cheaper alternatives or free resources. During recessions, companies cut training budgets, so Skillsoft's revenue slows.
+The model works best for large companies with stable headcount and money to spend on employee development. Smaller companies might use cheaper alternatives or free resources. During [recessions](/recession/), companies cut training budgets, so Skillsoft's revenue slows.
 
 ## The money behind it
 
 When Skillsoft went public via SPAC in 2021, it promised investors it would grow revenue by double digits a year. That didn't happen at that pace. Growth was there but bumpy — some years organic growth was low single digits, and the company relied on acquisitions to boost numbers. The business is profitable in the sense that it does not burn cash, but margins are not spectacular. A lot of revenue goes to paying for content creators, technology infrastructure, and customer support.
 
-The shares have been volatile because the company has not met growth targets consistently, and because education and training budgets are discretionary spending that swings with the economy.
+The shares have been volatile because the company has not met growth targets consistently, and because education and training budgets are [discretionary spending](/discretionary-spending/) that swings with the economy.
 
 ## Competition from all sides
 

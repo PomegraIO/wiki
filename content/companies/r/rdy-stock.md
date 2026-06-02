@@ -71,7 +71,7 @@ The company generates revenue from most of the world's major markets, with the U
 
 ## What makes Dr. Reddy's distinctive—and what constrains it
 
-Dr. Reddy's sits in an odd middle ground in global pharmaceuticals. It is far too large and capable to be ignored, yet not so large that it competes head-to-head with Merck, [Pfizer](/pfe-stock/), or other megacap pharma companies that generate billions in R&D and can pursue breakthrough drugs. Instead, it exploits the gap between true generics makers (who are smaller, less integrated, or less geographically diverse) and integrated research-based companies.
+Dr. Reddy's sits in an odd middle ground in global pharmaceuticals. It is far too large and capable to be ignored, yet not so large that it competes head-to-head with [Merck](/mrk-stock/), [Pfizer](/pfe-stock/), or other megacap pharma companies that generate billions in R&D and can pursue breakthrough drugs. Instead, it exploits the gap between true generics makers (who are smaller, less integrated, or less geographically diverse) and integrated research-based companies.
 
 Its distinctive advantages are:
 

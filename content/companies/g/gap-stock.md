@@ -68,7 +68,7 @@ Banana Republic's aspirational positioning has also dimmed. Office culture has s
 
 **Execution risk on turnarounds.** Banana Republic has been in steady decline for a decade despite repeated repositioning attempts. Old Navy and Gap themselves require continuous reinvention to stay relevant. Missteps in product assortment, merchandising, or pricing are costly and slow to correct.
 
-**E-commerce saturation and customer [acquisition](/acquisition/).** [Direct digital](/drct-stock/) channels offer higher margins but face brutal competition and rising customer acquisition costs. Loyalty is weak; customers shop across many retailers.
+**E-commerce saturation and customer [acquisition](/acquisition/).** Direct digital channels offer higher margins but face brutal competition and rising customer acquisition costs. Loyalty is weak; customers shop across many retailers.
 
 ## How to Research It
 

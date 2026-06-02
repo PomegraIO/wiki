@@ -27,7 +27,7 @@ Taiwan Fund Inc. is a closed-end fund — a publicly traded investment company �
 
 ## Semiconductors and the concentration risk
 
-Taiwan's economy and [stock market](/stock-market/) are dominated by semiconductors and semiconductor equipment. Taiwan Semiconductor Manufacturing Company (TSMC), the world's largest foundry, is the largest company by [market capitalization](/market-capitalization/) on the Taiwan [Stock Exchange](/stock-exchange/) and is likely a significant holding in any Taiwan-focused fund. MediaTek, a chip design company, and numerous semiconductor equipment suppliers round out the sector. This concentration creates both opportunity and risk.
+Taiwan's economy and [stock market](/stock-market/) are dominated by semiconductors and semiconductor equipment. [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company (TSMC), the world's largest foundry, is the largest company by [market capitalization](/market-capitalization/) on the Taiwan [Stock Exchange](/stock-exchange/) and is likely a significant holding in any Taiwan-focused fund. MediaTek, a chip design company, and numerous semiconductor equipment suppliers round out the sector. This concentration creates both opportunity and risk.
 
 The opportunity is that Taiwan sits at the center of the global semiconductor supply chain. As long as demand for chips remains strong — driven by artificial intelligence, computing, consumer electronics, and industrial applications — Taiwan benefits. Taiwan Fund therefore offers investors an indirect way to bet on the semiconductor super-cycle without owning individual tech stocks.
 

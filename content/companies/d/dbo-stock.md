@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Invesco DB Oil Fund is a simple idea wrapped in surprising complexity. You buy a share of DBO. That share represents a chunk of oil futures contracts held in a vault somewhere. When oil prices go up, your share goes up with them. When oil falls, so does your share. No oil barrels in your closet, no calls to a broker, no expiration dates to worry about. Just a ticker that tracks the price of crude. That simplicity is appealing. It is also hiding some costs you might not see.
+Invesco DB Oil Fund is a simple idea wrapped in surprising complexity. You buy a share of DBO. That share represents a chunk of oil [futures contracts](/futures-contract/) held in a vault somewhere. When oil prices go up, your share goes up with them. When oil falls, so does your share. No oil barrels in your closet, no calls to a [broker](/broker/), no [expiration dates](/expiration-contracts/) to worry about. Just a ticker that tracks the price of crude. That simplicity is appealing. It is also hiding some costs you might not see.
 
 ## What you are really buying
 
@@ -23,7 +23,7 @@ This is not DBO's fault. It is how futures markets work. But it is something you
 
 ## What moves the price
 
-Oil price changes day to day for simple reasons. If a refinery explodes and can no longer process oil, there is less demand for it — prices fall. If a hurricane shuts down production in the Gulf of Mexico, there is less supply — prices rise. If China's economy is booming and factories are humming, demand for oil goes up — prices rise. If recession is coming and people are nervous, demand might fall — prices go down.
+Oil price changes day to day for simple reasons. If a refinery explodes and can no longer process oil, there is less demand for it — prices fall. If a hurricane shuts down production in the Gulf of Mexico, there is less supply — prices rise. If China's economy is booming and factories are humming, demand for oil goes up — prices rise. If [recession](/recession/) is coming and people are nervous, demand might fall — prices go down.
 
 DBO's price follows the price of oil almost exactly, which is the whole point. But DBO will not rise or fall as much as oil itself might if you held real barrels, because of that rolling cost baked in. It is like buying a gallon of gas but having to pay a small fee every month for the privilege of holding it. The longer you hold, the more fees you pay.
 
@@ -33,7 +33,7 @@ Some people buy DBO because they think oil is going to go up in the next few mon
 
 Some people buy DBO thinking they are protecting themselves. If stocks fall, maybe oil will go up, they think. Sometimes that is true. But just as often, when stocks fall because the economy is getting weaker, oil falls too because people use less gasoline. So DBO is not as good a hedge as you might hope.
 
-Some people buy it thinking they are buying insurance against inflation or energy shortages. That can work. If inflation takes off and energy becomes scarce, oil prices will probably rise and DBO will rise with them. But you are betting on that specific scenario, and you are paying a rolling cost the whole time you wait for it.
+Some people buy it thinking they are buying insurance against [inflation](/inflation/) or energy shortages. That can work. If inflation takes off and energy becomes scarce, oil prices will probably rise and DBO will rise with them. But you are betting on that specific scenario, and you are paying a rolling cost the whole time you wait for it.
 
 ## The big risks
 
@@ -43,7 +43,7 @@ The second risk is the rolling cost eating into your returns quietly. Over ten y
 
 The third risk is that DBO is not actually more convenient than just buying and holding futures if you know how. If you bought a six-month oil futures contract and held it to expiry, you would not roll it and pay that cost. You would just own it and wait. The problem is that retail investors cannot easily buy futures contracts — you need a special account and knowledge — so DBO is convenient. But convenience costs money.
 
-The fourth risk is that your time horizon is wrong. If you are planning to hold DBO for five years, that rolling cost becomes a much bigger deal. If you are planning to hold it for three months, the rolling cost is a rounding error. Know how long you intend to hold before you buy, because the holding period changes whether DBO is a reasonable investment or a poor one.
+The fourth risk is that your time horizon is wrong. If you are planning to hold DBO for five years, that rolling cost becomes a much bigger deal. If you are planning to hold it for three months, the rolling cost is a rounding error. Know how long you intend to hold before you buy, because the [holding period](/holding-period/) changes whether DBO is a reasonable investment or a poor one.
 
 ## When DBO makes sense
 

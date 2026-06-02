@@ -21,7 +21,7 @@ handwritten: true
 </table>
 </aside>
 
-QDTY is an actively managed exchange-traded fund that owns the hundred largest non-financial companies on the Nasdaq stock exchange, then systematically sells call options against those holdings to generate additional income. The strategy is known as a covered call — the fund owns the stock and has the right to call it away, capping its upside in exchange for immediate premium cash.
+QDTY is an actively managed exchange-traded fund that owns the hundred largest non-financial companies on the [Nasdaq](/nasdaq/) [stock exchange](/stock-exchange/), then systematically sells [call options](/call-option/) against those holdings to generate additional income. The strategy is known as a [covered call](/covered-call/) — the fund owns the stock and has the right to call it away, capping its upside in exchange for immediate premium cash.
 
 ## What the strategy is
 
@@ -31,18 +31,18 @@ QDTY focuses on 0DTE — zero days to expiration — call options. These are opt
 
 ## The income-versus-upside tradeoff
 
-The core tension in any covered-call strategy is that income and capital appreciation work against each other. Selling calls caps the fund's upside. In a roaring bull market where Nasdaq 100 stocks surge, QDTY will lag because its gains are capped at the strike prices the fund chose for each day's option sales. Over the long run, the function of covered calls is to smooth returns: lower the peaks and raise the troughs by trading away some bull-market upsides for steady income in flat or down markets.
+The core tension in any covered-call strategy is that income and capital appreciation work against each other. Selling calls caps the fund's upside. In a roaring [bull market](/bull-market/) where Nasdaq 100 stocks surge, QDTY will lag because its gains are capped at the [strike prices](/strike-price/) the fund chose for each day's option sales. Over the long run, the function of covered calls is to smooth returns: lower the peaks and raise the troughs by trading away some bull-market upsides for steady income in flat or down markets.
 
-In practice, 0DTE call selling is a high-frequency income play. The premiums are tiny per contract, so the fund must roll constantly — selling new calls every trading day — to accumulate meaningful income. This is purely mechanical and does not involve market timing or stock picking by a traditional fund manager.
+In practice, 0DTE call selling is a high-frequency income play. The premiums are tiny per contract, so the fund must roll constantly — selling new calls every trading day — to accumulate meaningful income. This is purely mechanical and does not involve [market timing](/market-timing/) or stock picking by a traditional fund manager.
 
 ## Who manages it and how
 
-YieldMax operates QDTY and handles the daily 0DTE call-selling mechanics, deciding which strike prices to use and managing the rolls. This is an active decision process, not a passive index tracker, so the fund carries a fee higher than a standard Nasdaq 100 index ETF. That extra fee must be justified by the income the strategy generates. In quiet markets with low volatility, 0DTE premiums can be thin, and the fund's total return (income plus stock gains minus fee) may underperform a plain index fund. In volatile markets, premiums are fatter, and the strategy can shine.
+YieldMax operates QDTY and handles the daily 0DTE call-selling mechanics, deciding which strike prices to use and managing the rolls. This is an active decision process, not a passive index tracker, so the fund carries a fee higher than a standard Nasdaq 100 index ETF. That extra fee must be justified by the income the strategy generates. In quiet markets with low volatility, 0DTE premiums can be thin, and the fund's total return (income plus stock gains minus fee) may underperform a plain [index fund](/index-fund/). In volatile markets, premiums are fatter, and the strategy can shine.
 
 ## Risks and costs
 
 The fund tracks the Nasdaq 100, so it inherits the concentration and sector bets of that index — a heavy weighting toward technology and growth stocks. When technology falters, QDTY does too. The covered-call overlay does not remove that core risk; it only tilts the return profile toward income and away from appreciation.
 
-Additionally, the fund's 0DTE call sales can result in rapid stock turnover if strikes are breached (though daily resets mean that turnover is constant anyway). Option markets occasionally freeze or have wide bid-ask spreads during high-volatility spikes, which can impair the fund's ability to sell calls at reasonable prices.
+Additionally, the fund's 0DTE call sales can result in rapid stock turnover if strikes are breached (though daily resets mean that turnover is constant anyway). Option markets occasionally freeze or have wide [bid-ask spreads](/bid-ask-spread/) during high-volatility spikes, which can impair the fund's ability to sell calls at reasonable prices.
 
-The fund's prospectus and fact sheet on YieldMax's website detail the expense ratio, the historical distribution rate, and the strategy's past performance. Anyone considering QDTY should compare its long-term returns and income yield against a simple Nasdaq 100 index fund, then decide whether the extra fee and income focus align with their goals.
+The fund's prospectus and fact sheet on YieldMax's website detail the [expense ratio](/expense-ratio/), the historical distribution rate, and the strategy's past performance. Anyone considering QDTY should compare its long-term returns and income yield against a simple Nasdaq 100 index fund, then decide whether the extra fee and income focus align with their goals.

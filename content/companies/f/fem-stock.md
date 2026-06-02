@@ -27,9 +27,9 @@ handwritten: true
 
 ## What emerging markets are and why people invest in them
 
-Emerging markets are countries whose economies are growing quickly but are not yet as wealthy or stable as the United States or Western Europe. Think of nations like India, Brazil, Vietnam, and Poland. Their companies can be great investments because the economies are expanding, wages are rising, and more people are getting jobs and buying goods. The stock markets in these countries can move faster (and more dramatically) than mature markets, which means bigger potential gains but also bigger potential losses.
+Emerging markets are countries whose economies are growing quickly but are not yet as wealthy or stable as the United States or Western Europe. Think of nations like India, Brazil, Vietnam, and Poland. Their companies can be great investments because the economies are expanding, wages are rising, and more people are getting jobs and buying goods. The [stock markets](/stock-market/) in these countries can move faster (and more dramatically) than mature markets, which means bigger potential gains but also bigger potential losses.
 
-FEM gives you a way to own a slice of hundreds of companies across these emerging markets without having to buy each stock individually. Instead of betting on one country or one company, you get diversification across many countries and many different industries.
+FEM gives you a way to own a slice of hundreds of companies across these emerging markets without having to buy each stock individually. Instead of betting on one country or one company, you get [diversification](/diversification/) across many countries and many different industries.
 
 ## How FEM picks stocks
 
@@ -41,13 +41,13 @@ Once those stocks are identified, FEM gives each one equal weight — that is, t
 
 People invest in FEM because they think emerging markets will grow faster than mature economies over the next decade or more. Emerging-market companies often have younger, faster-growing customer bases and expanding opportunities. If that bet is right, FEM could deliver strong returns.
 
-The tradeoff is volatility. Emerging-market stocks bounce around more than American or European stocks. A bad day in Beijing or a political change in Brazil can send the whole fund down sharply. And because FEM is picking specific stocks based on value and quality, it can perform differently than a simple index fund that just holds every major emerging-market company proportional to its size.
+The tradeoff is volatility. Emerging-market stocks bounce around more than American or European stocks. A bad day in Beijing or a political change in Brazil can send the whole fund down sharply. And because FEM is picking specific stocks based on value and quality, it can perform differently than a simple [index fund](/index-fund/) that just holds every major emerging-market company proportional to its size.
 
 ## The real risks and costs
 
 Emerging markets come with extra risks that developed markets do not have. Governments can change policies suddenly. Currency values can swing dramatically, which matters if FEM's holdings are paid in rupees or Brazilian reals but you spend money in dollars. Some stocks have less trading volume, so it can be harder to buy or sell shares without moving the price. And some countries have lower accounting standards, so it is harder to know exactly what a company's financial statements mean.
 
-FEM charges a fee (an expense ratio) that is slightly higher than a fund tracking a simple index, because the NASDAQ AlphaDEX methodology requires more work to implement. For most investors, the fee is still quite modest, but it is worth knowing about.
+FEM charges a fee (an [expense ratio](/expense-ratio/)) that is slightly higher than a fund tracking a simple index, because the [NASDAQ](/nasdaq/) AlphaDEX methodology requires more work to implement. For most investors, the fee is still quite modest, but it is worth knowing about.
 
 ## How to think about whether FEM is right for you
 

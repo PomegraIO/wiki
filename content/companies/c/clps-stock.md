@@ -25,7 +25,7 @@ CLPS operates under multiple engagement types: time-and-materials (T&M) contract
 
 ## Customer Dependencies and Vertical Concentration
 
-CLPS's clients are predominantly [financial institutions](/fisi-stock/) (banks, insurance companies, fintech firms) modernizing legacy systems or building new digital capabilities. Client concentration is a material risk: a single bank or insurance firm may represent 10-20 percent of revenue; loss of that customer causes a material earnings miss. Additionally, CLPS's client base is cyclical—financial-services IT budgets expand in strong markets and contract during downturns or [credit events](/credit-event-sovereign/). Regulatory changes (e.g., new compliance rules for banks) can also trigger customer budget cuts. CLPS's SEC filings detail major customer concentrations and explicitly flag the risk of customer loss or budget reductions.
+CLPS's clients are predominantly financial institutions (banks, insurance companies, fintech firms) modernizing legacy systems or building new digital capabilities. Client concentration is a material risk: a single bank or insurance firm may represent 10-20 percent of revenue; loss of that customer causes a material earnings miss. Additionally, CLPS's client base is cyclical—financial-services IT budgets expand in strong markets and contract during downturns or [credit events](/credit-event-sovereign/). Regulatory changes (e.g., new compliance rules for banks) can also trigger customer budget cuts. CLPS's SEC filings detail major customer concentrations and explicitly flag the risk of customer loss or budget reductions.
 
 ## Offshore Staffing and Geopolitical Exposure
 

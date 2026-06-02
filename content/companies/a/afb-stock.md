@@ -13,7 +13,7 @@ handwritten: true
 
 > "Municipal bonds are backed by the taxing power or revenue of American governments — federal taxes pay off debt issued by states and cities — making them the safest asset class available to ordinary investors."
 
-The AllianceBernstein National Municipal Income Fund is a closed-end mutual fund focused on US [municipal bonds](/municipal-bond/). Municipalities — states, cities, counties, school districts, and other local authorities — issue bonds to finance infrastructure, schools, hospitals, and other public projects. A municipal bond's coupon is exempt from federal income tax, and often from state income tax as well, which makes the after-tax yield attractive to investors in high tax brackets. The AFB fund bundles hundreds of municipal bonds into a single tradeable security, letting investors gain diversified exposure to municipal credit without assembling their own bond portfolio.
+The AllianceBernstein National Municipal [Income Fund](/income-fund/) is a closed-end [mutual fund](/mutual-fund/) focused on US [municipal bonds](/municipal-bond/). Municipalities — states, cities, counties, school districts, and other local authorities — issue [bonds](/bond/) to finance infrastructure, schools, hospitals, and other public projects. A municipal bond's coupon is exempt from federal income tax, and often from state income tax as well, which makes the after-tax yield attractive to investors in high tax brackets. The AFB fund bundles hundreds of municipal bonds into a single tradeable security, letting investors gain diversified exposure to municipal credit without assembling their own bond portfolio.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ This tax advantage is the engine that drives the entire municipal-bond market. W
 
 ## Why a fund rather than individual bonds
 
-An investor can buy municipal bonds directly from a broker, assembling a ladder of maturities or selecting specific credits they trust. But there are operational costs to this approach: research (understanding each issuer's finances and creditworthiness), transaction costs (buying an odd-lot of a single bond), liquidity (some muni bonds are thinly traded), and [diversification](/diversification/) (assembling enough different issuers to avoid concentrated credit risk).
+An investor can buy municipal bonds directly from a [broker](/broker/), assembling a ladder of maturities or selecting specific credits they trust. But there are operational costs to this approach: research (understanding each issuer's finances and creditworthiness), transaction costs (buying an odd-lot of a single bond), liquidity (some muni bonds are thinly traded), and [diversification](/diversification/) (assembling enough different issuers to avoid concentrated [credit risk](/credit-risk/)).
 
 A closed-end municipal fund solves these problems. Professional managers research and select hundreds of bonds; the fund's size lets it trade bonds efficiently; and shareholders' capital is spread across the fund's entire portfolio. The tradeoff is that shareholders pay [management fees](/management-fee/) (typically 0.5% to 1% annually) and accept that the fund trades at a variable premium or discount to its underlying [net asset value](/net-asset-value/).
 

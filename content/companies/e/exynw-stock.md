@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Exyn Technologies builds robots and the software they run. The robots navigate and map complex environments—underground mines, collapsed buildings, dense forests, urban canyons—where GPS does not work and humans would face danger. The software figures out where the robot is, where it is going, and what it sees in real time. The company sells its platform to mining companies, mapping contractors, government agencies, and companies that need to collect data in places that are difficult or risky to reach by foot.
+[Exyn Technologies](/exyn-stock/) builds robots and the software they run. The robots navigate and map complex environments—underground mines, collapsed buildings, dense forests, urban canyons—where GPS does not work and humans would face danger. The software figures out where the robot is, where it is going, and what it sees in real time. The company sells its platform to mining companies, mapping contractors, government agencies, and companies that need to collect data in places that are difficult or risky to reach by foot.
 
 ## Why robots matter for dangerous work
 
@@ -31,7 +31,7 @@ Exyn operates in four distinct market verticals. Mining is the largest—compani
 
 ## Recent public market entry and scale
 
-Exyn went public on the Nasdaq Capital Market in May 2026, pricing its IPO at $7.75 per unit and raising about $19.4 million before expenses. The company trades as EXYN (common stock) and EXYNW (warrants). At the time of the offering, Exyn had roughly 49 customer relationships—24 in mining, 22 in geospatial work, and 3 in government—spread across more than 30 countries. The company reported that its customers flew over 1,500 autonomous missions each month.
+Exyn went public on the [Nasdaq](/nasdaq/) Capital Market in May 2026, pricing its IPO at $7.75 per unit and raising about $19.4 million before expenses. The company trades as EXYN ([common stock](/common-stock/)) and EXYNW (warrants). At the time of the offering, Exyn had roughly 49 customer relationships—24 in mining, 22 in geospatial work, and 3 in government—spread across more than 30 countries. The company reported that its customers flew over 1,500 autonomous missions each month.
 
 These numbers are small in absolute terms but meaningful for a robotics software company barely public. Mining and geospatial work are capital-intensive industries with entrenched incumbents, and breaking in requires proving the technology works in real harsh conditions, building trust with operators, and solving the unique problems each mine or site presents.
 
@@ -43,7 +43,7 @@ What sets Exyn apart is focus and founder pedigree. The company spun out from th
 
 ## Risks and open questions
 
-A young public company in a capital-intensive, specialized market faces several challenges. First, customer acquisition is slow and relationship-driven; each new mining company or mapping contractor requires pilots, proof of concept, and integration with existing workflows. Second, the market is not obviously large enough to support rapid growth without expanding into adjacent verticals or higher-volume segments that are not yet proven. Third, larger robotics and surveying firms may enter this space if margins prove attractive, bringing capital and distribution advantages Exyn does not have.
+A young public company in a capital-intensive, specialized market faces several challenges. First, customer [acquisition](/acquisition/) is slow and relationship-driven; each new mining company or mapping contractor requires pilots, proof of concept, and integration with existing workflows. Second, the market is not obviously large enough to support rapid growth without expanding into adjacent verticals or higher-volume segments that are not yet proven. Third, larger robotics and surveying firms may enter this space if margins prove attractive, bringing capital and distribution advantages Exyn does not have.
 
 The real competitive test is whether customers view Exyn's robots and software as a productivity or safety improvement worth paying for, or as a nice-to-have they can defer. Mining is capital-disciplined and cost-conscious; if adoption remains patchy, Exyn will need to find new markets or prove dramatic cost savings to justify larger deployments.
 

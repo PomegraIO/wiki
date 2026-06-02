@@ -39,7 +39,7 @@ NerdWallet competes against several categories of rival: Bankrate and LendingTre
 
 The greatest long-term threats are regulatory and structural. Regulators increasingly scrutinize affiliate models in financial services, concerned about whether disclosures of affiliate relationships are clear and whether the recommendations are truly impartial or biased toward high-commission products. The SEC and state banking regulators have periodically examined fintech companies' affiliate practices. Clearer rules could reduce commission rates or require more prominent disclaimers, compressing margins.
 
-Additionally, [financial institutions](/fisi-stock/) themselves have shifted toward direct-to-consumer digital acquisition, reducing their reliance on third-party affiliates. Banks and credit card companies now spend heavily on their own digital advertising and have improved their own user experiences, potentially making the need for a comparison platform less acute.
+Additionally, financial institutions themselves have shifted toward direct-to-consumer digital acquisition, reducing their reliance on third-party affiliates. Banks and credit card companies now spend heavily on their own digital advertising and have improved their own user experiences, potentially making the need for a comparison platform less acute.
 
 ## Upstream and downstream flows
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Trip.com is the biggest online travel site in Asia. If you are in China, India, Southeast Asia, or Australia and want to book a flight or hotel, Trip.com is usually the first place you look. The company lets you search thousands of flights and hotels, compare prices, read reviews, and book directly — all on an app or website. Trip.com does not own the planes or hotels; instead, it acts as a broker. It finds deals from airlines and hotel chains, shows them to you, takes a small cut when you book, and keeps the difference. It is a simple idea, but it is worth tens of billions of dollars because the volume is staggering. Hundreds of millions of people travel every year in Asia, and most of them use Trip.com to plan the trip.
+Trip.com is the biggest online travel site in Asia. If you are in China, India, Southeast Asia, or Australia and want to book a flight or hotel, Trip.com is usually the first place you look. The company lets you search thousands of flights and hotels, compare prices, read reviews, and book directly — all on an app or website. Trip.com does not own the planes or hotels; instead, it acts as a [broker](/broker/). It finds deals from airlines and hotel chains, shows them to you, takes a small cut when you book, and keeps the difference. It is a simple idea, but it is worth tens of billions of dollars because the volume is staggering. Hundreds of millions of people travel every year in Asia, and most of them use Trip.com to plan the trip.
 
 <aside class="wiki-infobox">
 <table>
@@ -48,9 +48,9 @@ That recovery revealed something important: the post-COVID travel boom was bigge
 
 ## How Trip.com funds growth and returns cash
 
-Trip.com is profitable and generates substantial free cash flow. The company does not have to borrow money to operate; instead, it uses profits to invest in technology, pay down debt if it has any, and return capital to shareholders. Like many American-listed tech companies that still have growth runways, Trip.com does not pay dividends but instead buys back shares, reducing the share count and boosting earnings per share.
+Trip.com is profitable and generates substantial [free cash flow](/free-cash-flow/). The company does not have to borrow money to operate; instead, it uses profits to invest in technology, pay down debt if it has any, and return capital to shareholders. Like many American-listed tech companies that still have growth runways, Trip.com does not pay [dividends](/dividend/) but instead buys back shares, reducing the share count and boosting [earnings per share](/earnings-per-share/).
 
-That capital allocation reflects the belief that the business is still growing, that investing in customer acquisition and product development will earn better returns than paying dividends, and that share buybacks are an efficient tax structure for returning cash to shareholders (compared to dividends, which are taxed as income in many jurisdictions).
+That capital allocation reflects the belief that the business is still growing, that investing in customer [acquisition](/acquisition/) and product development will earn better returns than paying dividends, and that [share buybacks](/share-buyback/) are an efficient tax structure for returning cash to shareholders (compared to dividends, which are taxed as income in many jurisdictions).
 
 ## Competition and the market
 
@@ -68,7 +68,7 @@ That platform ambition is why Trip.com pays close attention to payment methods, 
 
 Trip.com is headquartered in China, which means Chinese regulation is a constant factor. The Chinese government has cracked down on large tech companies in recent years, forcing them to ensure fair labor practices, data protection, and consumer rights. Trip.com is less sensitive to this than social-media or e-commerce platforms, but it is still a risk. Changes in data-privacy rules or new restrictions on how travel platforms are allowed to operate could force the company to invest in compliance or change its business model.
 
-The other risk is cyclical: travel is discretionary spending. If Asia's economy slows sharply, unemployment rises, or geopolitical tensions spike, travelers cut back. The post-COVID boom has been remarkable, but it will not last forever. The next recession will hit Trip.com's bookings and revenues, just as COVID-19 did. The company's ability to weather a downturn (by cutting costs, managing cash, and waiting for travel to recover) is what distinguishes good travel companies from those that fail.
+The other risk is cyclical: travel is [discretionary spending](/discretionary-spending/). If Asia's economy slows sharply, unemployment rises, or geopolitical tensions spike, travelers cut back. The post-COVID boom has been remarkable, but it will not last forever. The next [recession](/recession/) will hit Trip.com's bookings and revenues, just as COVID-19 did. The company's ability to weather a downturn (by cutting costs, managing cash, and waiting for travel to recover) is what distinguishes good travel companies from those that fail.
 
 ## How to research Trip.com
 

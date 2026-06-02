@@ -45,7 +45,7 @@ FCAP's earnings depend on its loans being repaid. A loan loss occurs when a borr
 
 FCAP must estimate its [credit risk](/credit-risk/) and set aside a loan-loss reserve: an accounting provision for expected future losses. The reserve is calculated based on historical loss rates, current loan portfolio composition, and management's assessment of future conditions. A bank that underestimates reserves is overstating profit; a bank that overestimates reserves is being overly pessimistic. The "right" reserve level is a management judgment that regulators scrutinize.
 
-Credit quality varies with economic conditions. During expansion, business revenue grows, unemployment falls, and defaults fall. During [recession](/recession/), the opposite occurs. FCAP's loan portfolio is concentrated in its geographic market; a regional economic downturn directly impacts credit quality. FCAP cannot diversify the way a [national bank](/nbhc-stock/) with assets across all 50 states can. This geographic concentration is both an advantage (intimate knowledge of the local market) and a risk (concentrated exposure to local economic shocks).
+Credit quality varies with economic conditions. During expansion, business revenue grows, unemployment falls, and defaults fall. During [recession](/recession/), the opposite occurs. FCAP's loan portfolio is concentrated in its geographic market; a regional economic downturn directly impacts credit quality. FCAP cannot diversify the way a national bank with assets across all 50 states can. This geographic concentration is both an advantage (intimate knowledge of the local market) and a risk (concentrated exposure to local economic shocks).
 
 ## Fee Income and Other Revenue
 

@@ -23,13 +23,13 @@ This reset creates a peculiar mathematical property. Suppose the index rises 5%,
 
 ## Volatility decay as the central economic cost
 
-The longer the holding period, the worse the decay compounds. A 10% loss on CONI requires an 11% gain to break even; a 20% loss requires a 25% gain. Cryptocurrency equities are inherently volatile, making CONI's decay severe and fast. A trader holding CONI through extended choppy trading in the Coinbase index will see the fund's value erode faster than fundamental price moves alone would predict.
+The longer the [holding period](/holding-period/), the worse the decay compounds. A 10% loss on CONI requires an 11% gain to break even; a 20% loss requires a 25% gain. Cryptocurrency equities are inherently volatile, making CONI's decay severe and fast. A trader holding CONI through extended choppy trading in the Coinbase index will see the fund's value erode faster than fundamental price moves alone would predict.
 
 This is not a management flaw; it is a mathematical property of daily-reset inverse leverage applied to volatile assets. CONI is engineered to nail the 2x negative target each day, and it does that mechanically. But achieving that target across multiple volatile days automatically incurs a drag from the math itself.
 
 ## Structural and counterparty risk
 
-CONI depends on derivatives counterparties to maintain its inverse leverage through swaps and options contracts. If GraniteShares or a swap dealer faces financial stress during market turmoil, the fund's ability to rebalance could be impaired. The underlying index itself has concentration risk: Coinbase dominates, so regulatory or business pressures on Coinbase ripple through immediately.
+CONI depends on derivatives counterparties to maintain its inverse leverage through swaps and options contracts. If GraniteShares or a swap dealer faces financial stress during market turmoil, the fund's ability to rebalance could be impaired. The underlying index itself has [concentration risk](/concentration-risk/): Coinbase dominates, so regulatory or business pressures on Coinbase ripple through immediately.
 
 ## Costs and suitable time horizons
 
@@ -39,4 +39,4 @@ GraniteShares charges roughly 1.50–1.60% annually, but the real cost is volati
 
 Traders use CONI to amplify a tactical short-term bet that the Coinbase-focused index will fall sharply within days or a few weeks. A trader might buy CONI after a crypto price spike they believe has gone too far, or ahead of expected negative regulatory news, then exit when the thesis plays out or the time window has passed. Some long-term crypto equity holders temporarily add CONI as a tactical hedge during a specific risk window, then close the position when the risk event has passed. Both uses require clear entry and exit discipline.
 
-Holding CONI for months courts near-certain underperformance relative to a simple short sale or a put option, both of which avoid daily reset decay.
+Holding CONI for months courts near-certain underperformance relative to a simple short sale or a [put option](/put-option/), both of which avoid daily reset decay.

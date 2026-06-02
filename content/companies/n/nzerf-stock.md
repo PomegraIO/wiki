@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-New Zealand sits on one of the world's most accessible geothermal reserves. The country's tectonic activity and geological position — straddling the Pacific Ring of Fire — mean that heat lies close enough to the surface to be economically tapped. New Zealand Energy Corp. operates within this advantage, exploring and developing geothermal assets in a country where steam and hot water rising from the earth already power significant portions of the [national grid](/ngg-stock/) and support a thermal tourism sector that stretches back generations.
+New Zealand sits on one of the world's most accessible geothermal reserves. The country's tectonic activity and geological position — straddling the Pacific Ring of Fire — mean that heat lies close enough to the surface to be economically tapped. New Zealand Energy Corp. operates within this advantage, exploring and developing geothermal assets in a country where steam and hot water rising from the earth already power significant portions of the national grid and support a thermal tourism sector that stretches back generations.
 
 <aside class="wiki-infobox">
 <table>

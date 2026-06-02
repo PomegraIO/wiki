@@ -26,7 +26,7 @@ Apollo raises capital from pension funds (the single largest investor base), ins
 
 Competitive Mosaic
 
-Apollo competes across its platforms with different sets of rivals. In PE, it faces Blackstone, Carlyle, and KKR. In credit, it competes with CLOs ([collateralized loan obligations](/collateralized-loan-obligation/)) arranged by banks and other credit specialists. In real estate, it encounters both dedicated REIT managers and the real estate arms of other alternative firms. Infrastructure attracts global mega-funds and pension managers with in-house teams. Apollo's advantage is scale and platform breadth—the ability to offer a menu of strategies to a single client relationship, cross-deploy capital efficiently between platforms, and fund operations with its own insurance subsidiary's premiums and capital base.
+Apollo competes across its platforms with different sets of rivals. In PE, it faces Blackstone, Carlyle, and [KKR](/kkr-stock/). In credit, it competes with CLOs ([collateralized loan obligations](/collateralized-loan-obligation/)) arranged by banks and other credit specialists. In real estate, it encounters both dedicated REIT managers and the real estate arms of other alternative firms. Infrastructure attracts global mega-funds and pension managers with in-house teams. Apollo's advantage is scale and platform breadth—the ability to offer a menu of strategies to a single client relationship, cross-deploy capital efficiently between platforms, and fund operations with its own insurance subsidiary's premiums and capital base.
 
 Regulatory and Market Position
 

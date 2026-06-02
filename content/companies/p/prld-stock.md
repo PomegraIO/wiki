@@ -48,7 +48,7 @@ The company's differentiation rests on its scientific team's depth in epigenetic
 
 Drug development is capital-intensive. Prelude has raised capital through venture funding, strategic partnerships, and its public listing, and it will require sustained funding through clinical development and toward commercialization. Every dollar spent funds research, manufacturing scale-up, clinical trials, and regulatory interactions — with no revenue until a drug is approved and patients begin taking it. This creates an inherent tension: the company must move programs forward efficiently, but development cannot be rushed without compromising safety and data quality.
 
-Strategic partnerships with larger pharmaceutical companies can defray costs and accelerate development. Prelude has pursued such collaborations, where larger partners contribute funding and scale while Prelude retains rights [or royalties](/or-stock/) from approved products.
+Strategic partnerships with larger pharmaceutical companies can defray costs and accelerate development. Prelude has pursued such collaborations, where larger partners contribute funding and scale while Prelude retains rights or royalties from approved products.
 
 ## Risks and what to watch
 

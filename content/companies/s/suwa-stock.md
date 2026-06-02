@@ -47,7 +47,7 @@ Sharewow's revenue comes from three related sources. The first is hardware sales
 
 The third revenue stream is licensing and software. As the 3D image processing and printing technology has matured, Sharewow has invested in its own software stack. Customers who operate booths can be charged licensing fees for software updates, new filters, and processing improvements. This creates a software-as-a-service element, which is higher-margin and recurring.
 
-The company's 2024 revenue of approximately $2 million is small, but it is all recurring or semi-recurring revenue tied to existing customer relationships. The business is not growing from acquisitions or one-time sales; it is growing from deeper penetration of existing customers and geographic expansion.
+The company's 2024 revenue of approximately $2 million is small, but it is all recurring or semi-recurring revenue tied to existing customer relationships. The business is not growing from [acquisitions](/acquisition/) or one-time sales; it is growing from deeper penetration of existing customers and geographic expansion.
 
 ## Regulatory environment and market risks
 
@@ -59,7 +59,7 @@ Competition from cheaper 2D photo booths, smartphone-based selfie services, and 
 
 ## Financial profile and IPO positioning
 
-Sharewow filed to raise $30 million in a Nasdaq IPO under the ticker SUWA, with 3,750,000 shares planned. At a $30 million valuation, the company is expected to be modestly profitable or near breakeven after listing. The IPO proceeds would fund international expansion, software development, and working capital.
+Sharewow filed to raise $30 million in a [Nasdaq](/nasdaq/) IPO under the ticker SUWA, with 3,750,000 shares planned. At a $30 million valuation, the company is expected to be modestly profitable or near breakeven after listing. The IPO proceeds would fund international expansion, software development, and working capital.
 
 The company has not yet filed detailed financial statements with the SEC, so the exact profitability level is unclear. But with $2 million in annual revenue and a planned $30 million IPO raise, the market is betting on significant growth in customer adoption and international expansion. This is a speculative bet on a niche technology finding traction beyond China.
 

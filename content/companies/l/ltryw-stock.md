@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Sports Entertainment Gaming Global Corp, trading as SEGG Media on the Nasdaq and LTRYW on the OTC markets, is a digital-first entertainment and gaming company that reinvented itself in 2026 from its origins as Lottery.com Inc. The company operates three main business segments: a lottery information platform, digital sports and entertainment properties, and partnerships with state-regulated iLottery programs. The core business model is engagement and data monetization — the company aggregates lottery players and sports fans, informs them of results and odds, and derives revenue from affiliate commissions, advertising, and content licensing.
+[Sports Entertainment Gaming Global](/segg-stock/) Corp, trading as SEGG Media on the [Nasdaq](/nasdaq/) and LTRYW on the OTC markets, is a digital-first entertainment and gaming company that reinvented itself in 2026 from its origins as Lottery.com Inc. The company operates three main business segments: a lottery information platform, digital sports and entertainment properties, and partnerships with state-regulated iLottery programs. The core business model is engagement and data monetization — the company aggregates lottery players and sports fans, informs them of results and odds, and derives revenue from affiliate commissions, advertising, and content licensing.
 
 ## The Lottery Business — data and distribution
 
@@ -28,7 +28,7 @@ The company also owns Concerts.com, a digital entertainment property. Like Sport
 
 ## Capital and acquisition strategy
 
-In late 2025 and early 2026, the company has pursued an acquisition-driven growth strategy backed by a $300 million financing facility. Notable acquisitions include the purchase of a stake in Veloce Esports Limited in February 2026 for approximately $34.2 million. The company also acquired DotCom Ventures and GXR World as part of its expansion into esports, streaming, and other high-growth gaming and entertainment niches. This acquisition-heavy approach reflects management's intention to build SEGG Media into a conglomerate by combining digital sports, entertainment, and gaming properties under one umbrella.
+In late 2025 and early 2026, the company has pursued an acquisition-driven growth strategy backed by a $300 million financing facility. Notable [acquisitions](/acquisition/) include the purchase of a stake in Veloce Esports Limited in February 2026 for approximately $34.2 million. The company also acquired DotCom Ventures and GXR World as part of its expansion into esports, streaming, and other high-growth gaming and entertainment niches. This acquisition-heavy approach reflects management's intention to build SEGG Media into a conglomerate by combining digital sports, entertainment, and gaming properties under one umbrella.
 
 ## Revenue trends and execution risks
 

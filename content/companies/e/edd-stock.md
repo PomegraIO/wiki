@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Morgan Stanley Emerging Markets Domestic Debt Fund is a closed-end investment company that pools money from individual and institutional investors to buy bonds issued in their own currencies by governments and companies in emerging economies. It trades on the stock exchange like a stock — under the ticker EDD on NASDAQ — but it is not an operating company. It is a vehicle that holds a portfolio of debt instruments and pays out the interest and any price gains to its shareholders.
+[Morgan Stanley](/morgan-stanley/) Emerging Markets Domestic Debt Fund is a closed-end investment company that pools money from individual and institutional investors to buy [bonds](/bond/) issued in their own currencies by governments and companies in emerging economies. It trades on the [stock exchange](/stock-exchange/) like a stock — under the ticker EDD on [NASDAQ](/nasdaq/) — but it is not an operating company. It is a vehicle that holds a portfolio of debt instruments and pays out the interest and any price gains to its shareholders.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,19 +26,19 @@ Morgan Stanley Emerging Markets Domestic Debt Fund is a closed-end investment co
 
 ## What makes EDD different from a bond mutual fund
 
-A closed-end fund operates under different rules than an open-ended mutual fund. When you buy EDD shares, you are buying from another shareholder on the exchange, not redeeming new shares directly from the fund itself. The fund has a fixed number of shares outstanding, and they trade at whatever price supply and demand dictate — which may be higher or lower than the underlying value of the bonds inside. This discount or premium to net asset value is a defining feature of closed-end funds and something an investor needs to understand.
+A [closed-end fund](/closed-end-fund/) operates under different rules than an open-ended [mutual fund](/mutual-fund/). When you buy EDD shares, you are buying from another shareholder on the exchange, not redeeming new shares directly from the fund itself. The fund has a fixed number of shares outstanding, and they trade at whatever price supply and demand dictate — which may be higher or lower than the underlying value of the bonds inside. This discount or premium to [net asset value](/net-asset-value/) is a defining feature of closed-end funds and something an investor needs to understand.
 
 The alternative, an open-ended mutual fund, works like most funds people encounter: you buy directly from the fund, and the price is always the calculated net asset value. But open-ended funds can be cumbersome for fixed-income managers who hold bonds from many different emerging markets, because they must be ready to redeem shares on any given day, which forces them to keep cash on hand and adds friction.
 
 ## What EDD holds and why it matters
 
-EDD holds bonds issued by emerging-market sovereigns and corporations in their local currencies — Mexican pesos, Brazilian reals, Thai baht, Indonesian rupiah, and dozens of others. This is the opposite of a dollar-denominated emerging-market bond fund, which buys bonds issued in US dollars by emerging economies. When you own EDD, you are making two simultaneous bets: one on the creditworthiness of the borrower (the government or company), and one on the value of their currency against the dollar.
+EDD holds bonds issued by emerging-market sovereigns and corporations in their local currencies — Mexican pesos, Brazilian reals, Thai baht, Indonesian rupiah, and dozens of others. This is the opposite of a dollar-denominated emerging-market bond fund, which buys bonds issued in [US dollars](/us-dollar/) by emerging economies. When you own EDD, you are making two simultaneous bets: one on the creditworthiness of the borrower (the government or company), and one on the value of their currency against the dollar.
 
 If the Mexican government issues a peso bond yielding 8 percent, and the peso strengthens against the dollar, a US investor in EDD gains on both the interest and the currency move. If the peso weakens, the currency loss offsets the interest earned. This unhedged currency exposure is both the appeal and the risk of the fund. It gives investors direct access to the yields that emerging-market borrowers offer in their home currencies — often higher than what they can borrow in dollars — but it also introduces volatility that a currency hedge would smooth out.
 
 ## Why emerging-market debt in local currency
 
-Emerging-market governments and companies borrow in their own currencies because borrowing in foreign currency exposes them to currency risk: if their currency weakens, they owe more money in local terms even though the foreign-currency amount hasn't changed. Creditors demand higher yields to compensate for this and other risks — a borrower whose currency might collapse is riskier than a borrower whose currency is stable. This higher yield is what attracts investors to EDD.
+Emerging-market governments and companies borrow in their own currencies because borrowing in foreign currency exposes them to [currency risk](/currency-risk/): if their currency weakens, they owe more money in local terms even though the foreign-currency amount hasn't changed. Creditors demand higher yields to compensate for this and other risks — a borrower whose currency might collapse is riskier than a borrower whose currency is stable. This higher yield is what attracts investors to EDD.
 
 The countries represented change over time as economic conditions shift. At any given point EDD may hold a large position in Mexico, Brazil, or Poland, with smaller stakes in countries like Colombia, Thailand, or Peru. Emerging markets themselves are not a uniform category; some are far more stable and liquid than others, and the fund must navigate that spectrum.
 

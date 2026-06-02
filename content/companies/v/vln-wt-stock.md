@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Valens Semiconductor is a fabless semiconductor company — it designs chips but outsources manufacturing — based in Israel with a focus on high-bandwidth connectivity solutions for displays and automotive applications. The company's ticker VLN-WT denotes warrants trading on over-the-counter markets, a product of its arrival to public markets through a SPAC merger. Valens competes in a niche but strategically important corner of the chip industry, where bandwidth and power efficiency determine success.
+[Valens Semiconductor](/vln-stock/) is a fabless semiconductor company — it designs chips but outsources manufacturing — based in Israel with a focus on high-bandwidth connectivity solutions for displays and automotive applications. The company's ticker VLN-WT denotes warrants trading on [over-the-counter markets](/over-the-counter-market/), a product of its arrival to public markets through a SPAC [merger](/merger/). Valens competes in a niche but strategically important corner of the chip industry, where bandwidth and power efficiency determine success.
 
 <aside class="wiki-infobox">
 <table>
@@ -36,17 +36,17 @@ In the years following its founding, Valens built relationships with display man
 
 As the company matured, automotive and 5G connectivity became its growth engines. The automotive industry, under pressure to modernize cockpits and support autonomous driving, required chips that could handle enormous amounts of video and sensor data reliably. Valens' expertise in bandwidth-efficient signaling made it well-suited to applications like transmitting camera feeds from multiple angles to a central processor, or moving high-resolution displays within a vehicle without bulky wiring.
 
-The broader connectivity market also shifted in Valens' direction. As smartphones, televisions, and data centers demanded faster data transfer, standardized approaches like USB and Thunderbolt evolved, but room remained for specialized solutions in automotive, industrial, and emerging-display applications. Valens positioned itself not as a competitor to Intel or Qualcomm, but as a specialist in one specific interface problem where proprietary solutions could command premium pricing and create switching costs.
+The broader connectivity market also shifted in Valens' direction. As smartphones, televisions, and data centers demanded faster data transfer, standardized approaches like USB and Thunderbolt evolved, but room remained for specialized solutions in automotive, industrial, and emerging-display applications. Valens positioned itself not as a competitor to [Intel](/intc-stock/) or Qualcomm, but as a specialist in one specific interface problem where proprietary solutions could command premium pricing and create switching costs.
 
 ## From private to public via SPAC merger
 
-In 2021, Valens merged with Pluto Acquisition Corporation, a SPAC, to reach public markets. This path allowed the company to raise growth capital and gain liquidity for existing investors without the time and regulatory burden of a traditional IPO. The merger valued Valens at a significant multiple, reflecting investor enthusiasm for semiconductor and automotive connectivity themes at that moment.
+In 2021, Valens merged with Pluto [Acquisition](/acquisition/) Corporation, a SPAC, to reach public markets. This path allowed the company to raise growth capital and gain liquidity for existing investors without the time and regulatory burden of a traditional IPO. The merger valued Valens at a significant multiple, reflecting investor enthusiasm for semiconductor and automotive connectivity themes at that moment.
 
 The public markets added a new dimension to the company's competition. Valens no longer competed only against Analogix, Maxim Integrated, and other interface-chip makers for customer design wins; it now competed for investor capital and credibility against thousands of other semiconductor and automotive suppliers. The stock became a vehicle for betting on the broader themes of automotive electrification, autonomous driving, and the modernization of vehicle cockpits.
 
 ## The competitive landscape: specialist versus integrated giant
 
-Valens' position is structurally different from the giants of the semiconductor industry. Intel, Qualcomm, and Broadcom all design chips across multiple markets and manufacturing scales, giving them enormous R&D budgets and manufacturing relationships. Valens' advantage is focus and speed — it can iterate on display and automotive connectivity problems faster than generalists, and it doesn't need to support a sprawling product portfolio.
+Valens' position is structurally different from the giants of the semiconductor industry. Intel, Qualcomm, and [Broadcom](/avgo-stock/) all design chips across multiple markets and manufacturing scales, giving them enormous R&D budgets and manufacturing relationships. Valens' advantage is focus and speed — it can iterate on display and automotive connectivity problems faster than generalists, and it doesn't need to support a sprawling product portfolio.
 
 But focus is also a constraint. If automotive electrification stalls, if in-vehicle displays move to fewer centralized screens instead of distributed cockpits, or if competitors license Valens' methods and build them into larger chip platforms, Valens' moat erodes quickly. The company also depends on continued demand from automotive makers and display manufacturers, meaning its fortunes are tied to the health of those industries and the pace of technology adoption.
 

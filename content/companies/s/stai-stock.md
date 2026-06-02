@@ -40,7 +40,7 @@ But the risks are equally material. Airport and border security decisions are sl
 
 A second risk is product liability. If ScanTech's system misses a real threat and a security incident occurs, the company could face lawsuits, regulatory backlash, and reputational damage that undermines customer confidence. The company's insurance and legal protections are important, but the reputational risk in security applications is severe.
 
-A third pressure is the capital intensity of scaling. Each deployment requires not just software but hardware (CT scanners, computers, networking infrastructure) and on-site training and support. Until the company reaches scale, deploying SENTINEL to each new airport will likely require significant professional services labor from ScanTech, which limits the gross margin and strains the company's balance sheet.
+A third pressure is the capital intensity of scaling. Each deployment requires not just software but hardware (CT scanners, computers, networking infrastructure) and on-site training and support. Until the company reaches scale, deploying SENTINEL to each new airport will likely require significant professional services labor from ScanTech, which limits the gross margin and strains the company's [balance sheet](/balance-sheet/).
 
 Lastly, technological disruption is possible. If a different imaging modality (e.g., terahertz, neutron imaging) emerges as superior to CT for threat detection, or if AI-based image generation and deepfakes become a security concern that undermines confidence in image-based inspection, ScanTech's technology could be sidelined. For now, CT and AI-based analysis are the leading approach, but the security technology landscape evolves.
 

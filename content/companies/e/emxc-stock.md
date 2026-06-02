@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-EMXC is an emerging-market fund. It holds stocks from many developing countries. The catch: it has zero exposure to China. That makes it different from most broad emerging-market funds, which are typically 25% to 35% China. EMXC owns India, Brazil, Taiwan, South Korea, Mexico, Indonesia, and other developing countries, but leaves China on the shelf. It is sponsored by iShares, which is owned by BlackRock, and tracks an index built by MSCI.
+EMXC is an emerging-market fund. It holds stocks from many developing countries. The catch: it has zero exposure to China. That makes it different from most broad emerging-market funds, which are typically 25% to 35% China. EMXC owns India, Brazil, Taiwan, South Korea, Mexico, Indonesia, and other developing countries, but leaves China on the shelf. It is sponsored by iShares, which is owned by [BlackRock](/blk-stock/), and tracks an index built by MSCI.
 
 <aside class="wiki-infobox">
 <table>
@@ -40,17 +40,17 @@ You also avoid China-specific problems. The Chinese government has cracked down 
 
 ## How the fund works
 
-EMXC tracks the MSCI Emerging Markets ex China index. This is not the only way to build an emerging-market fund without China — other providers use different indices — but it is the most widely used. The index gets rebalanced every quarter or every six months to stay in line with market capitalizations. You can see the exact holdings on iShares' website anytime.
+EMXC tracks the MSCI Emerging Markets ex China index. This is not the only way to build an emerging-market fund without China — other providers use different indices — but it is the most widely used. The index gets rebalanced every quarter or every six months to stay in line with [market capitalizations](/market-capitalization/). You can see the exact holdings on iShares' website anytime.
 
 The fund trades on a US exchange. It is easy to buy, easy to sell, and you can do it any time the market is open. The expenses are low — typical for a passive fund — because the fund is just copying an index.
 
 ## The risks do not go away
 
-No China means less concentration, but you still have emerging-market risks. Brazil's currency swings. India's political changes. Indonesia's less-developed stock market. Taiwan's geopolitical tensions with mainland China. Take your pick: every country in this fund has something that can go wrong.
+No China means less concentration, but you still have emerging-market risks. Brazil's currency swings. India's political changes. Indonesia's less-developed [stock market](/stock-market/). Taiwan's geopolitical tensions with mainland China. Take your pick: every country in this fund has something that can go wrong.
 
-Currency weakness hits your dollar returns. The Indian rupee weakens, the Brazilian real tumbles, the South Korean won slides — all of these hurt you if you own the fund. There is no hedge. You get the full currency hit.
+Currency weakness hits your dollar returns. The [Indian rupee](/indian-rupee/) weakens, the Brazilian real tumbles, the South Korean won slides — all of these hurt you if you own the fund. There is no hedge. You get the full currency hit.
 
-Liquidity is lower than in US markets, though EMXC itself is liquid and easy to trade. Some of the smaller countries in the index — Thailand, Philippines, Vietnam — have tight trading spreads and less reliable market depth. That does not mean you cannot trade them, but it means they are not as frictionless as owning Apple or Microsoft.
+Liquidity is lower than in US markets, though EMXC itself is liquid and easy to trade. Some of the smaller countries in the index — Thailand, Philippines, Vietnam — have tight trading spreads and less reliable market depth. That does not mean you cannot trade them, but it means they are not as frictionless as owning [Apple](/aapl-stock/) or [Microsoft](/msft-stock/).
 
 ## What you give up
 
@@ -69,7 +69,7 @@ Research this fund by reading the prospectus and checking the top 20 holdings. L
 
 EMXC is a standard ETF — non-leveraged, fully physical. It owns actual shares in the underlying companies and trades on major U.S. exchanges with good daily volume and tight spreads, making it simple to buy or sell.
 
-The expense ratio is typically 0.35% to 0.50% per year, reflecting the cost of tracking the MSCI index. That is lower than a sector-specific emerging-market fund but slightly higher than a very broad global index ETF, because emerging-market indices require more work to construct and maintain than U.S.-only indices.
+The [expense ratio](/expense-ratio/) is typically 0.35% to 0.50% per year, reflecting the cost of tracking the MSCI index. That is lower than a sector-specific emerging-market fund but slightly higher than a very broad global index ETF, because emerging-market indices require more work to construct and maintain than U.S.-only indices.
 
 ## How to research EMXC
 

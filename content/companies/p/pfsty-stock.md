@@ -55,11 +55,11 @@ The company's product portfolio spans multiple domains:
 
 Pfisterer operates in two distinct markets with different growth profiles:
 
-**The Renewal and Upgrade of Existing Grids.** Electrical infrastructure in North America and Europe is aging. Power lines, substations, and equipment installed 30, 40, or 50 years ago are reaching the end of their designed life. Utilities must replace this infrastructure. They tend to use the same suppliers and products they have always used (because switching means re-engineering and re-testing), so Pfisterer's installed base of connections on existing infrastructure creates a renewal market that is steady and relatively recession-resistant. A utility does not defer grid upgrades indefinitely; they happen on a schedule. This market is mature and grows slowly—mainly with inflation and asset-base growth.
+**The Renewal and Upgrade of Existing Grids.** Electrical infrastructure in North America and Europe is aging. Power lines, substations, and equipment installed 30, 40, or 50 years ago are reaching the end of their designed life. Utilities must replace this infrastructure. They tend to use the same suppliers and products they have always used (because switching means re-engineering and re-testing), so Pfisterer's installed base of connections on existing infrastructure creates a renewal market that is steady and relatively recession-resistant. A utility does not defer grid upgrades indefinitely; they happen on a schedule. This market is mature and grows slowly—mainly with [inflation](/inflation/) and asset-base growth.
 
 **Renewable-Energy Integration.** The transition to wind and solar is driving new demand for connection systems. A utility building a wind farm needs dozens or hundreds of specialized connectors. A solar park operator needs high-reliability systems to tie panels into the grid. Grid operators managing intermittent generation need advanced monitoring to detect faults instantly. This market is growing much faster than grid renewal—double-digit growth in many years—because renewable capacity is expanding rapidly worldwide.
 
-The two markets together mean Pfisterer has both a steady base (grid renewal and maintenance) and a growth driver (renewables). But they also expose the company to different risks: grid renewal is threatened by recession or regulatory budget cuts, while renewables growth can slow if government subsidies are withdrawn or if capital becomes expensive.
+The two markets together mean Pfisterer has both a steady base (grid renewal and maintenance) and a growth driver (renewables). But they also expose the company to different risks: grid renewal is threatened by [recession](/recession/) or regulatory budget cuts, while renewables growth can slow if government subsidies are withdrawn or if capital becomes expensive.
 
 ## Scale, competition, and the limits of the niche
 
@@ -77,15 +77,15 @@ But the transition is also a threat. As power generation becomes more distribute
 
 Pfisterer is a capital-intensive business. Manufacturing electrical equipment requires precision tooling, testing labs, and quality systems. The company is not automation-light; it has invested heavily in factories. This means growth requires significant capital investment and carries real operational execution risk—if product quality slips or if production is disrupted, it is expensive to recover.
 
-The broader electrical-equipment industry is consolidating. Larger conglomerates are acquiring smaller specialists to build portfolios and achieve scale. Pfisterer has resisted acquisition attempts and remains family-influenced (majority stakeholder is the founder's family), but consolidation pressure is real. If a much larger competitor enters the specialized connection market aggressively, Pfisterer could face margin pressure.
+The broader electrical-equipment industry is consolidating. Larger conglomerates are acquiring smaller specialists to build portfolios and achieve scale. Pfisterer has resisted [acquisition](/acquisition/) attempts and remains family-influenced (majority stakeholder is the founder's family), but consolidation pressure is real. If a much larger competitor enters the specialized connection market aggressively, Pfisterer could face margin pressure.
 
 International expansion is slow, capital-intensive, and uncertain. Pfisterer is investing in Asia but has not yet achieved strong market position there. If that investment underperforms, the company will have tied up capital without proportional returns.
 
 ## How to research Pfisterer as an investment
 
-Start with Pfisterer's annual report (SEC CIK 0002120422) and segment the revenue between grid renewal and upgrades (mature market) and renewable-energy systems (growth market). Watch the growth rate of the renewables segment and commentary on order backlogs, which indicate near-term demand.
+Start with Pfisterer's [annual report](/10-k/) (SEC CIK 0002120422) and segment the revenue between grid renewal and upgrades (mature market) and renewable-energy systems (growth market). Watch the growth rate of the renewables segment and commentary on order backlogs, which indicate near-term demand.
 
-Key metrics to track are gross margin (watch for compression as renewable customers push for price reductions), operating margin (shows efficiency), capital intensity (capital expenditure relative to revenue—high capex on modest growth is concerning), and return on invested capital (indicates how well management is deploying capital). Also monitor R&D spending and commentary on new product development, which signal how Pfisterer is positioning for future technologies.
+Key metrics to track are gross margin (watch for compression as renewable customers push for price reductions), [operating margin](/operating-margin/) (shows efficiency), capital intensity (capital expenditure relative to revenue—high capex on modest growth is concerning), and [return on invested capital](/return-on-invested-capital/) (indicates how well management is deploying capital). Also monitor R&D spending and commentary on new product development, which signal how Pfisterer is positioning for future technologies.
 
 Watch for commentary on geographic expansion and market share in Asia, North America, and other non-European regions. Slow expansion or repeated commentary on challenging conditions suggests that international growth is harder than expected.
 

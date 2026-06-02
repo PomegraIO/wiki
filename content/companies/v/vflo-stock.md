@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*Companies make money in different ways. Some grow fast. Some sit on a lot of assets. Some pay big dividends. What they all have in common, if they are healthy, is they generate cash. Free cash flow is the cash a company actually keeps after running the business and investing in its future. The VictoryShares Free Cash Flow ETF owns US large-cap companies that are good at generating it.*
+*Companies make money in different ways. Some grow fast. Some sit on a lot of assets. Some pay big [dividends](/dividend/). What they all have in common, if they are healthy, is they generate cash. [Free cash flow](/free-cash-flow/) is the cash a company actually keeps after running the business and investing in its future. The VictoryShares Free Cash Flow ETF owns US large-cap companies that are good at generating it.*
 
 Here is the idea in a sentence: if a company is truly strong, it produces more cash than it needs to spend to stay competitive. That cash can go to shareholders as dividends, get used to buy back stock, or get reinvested in growth. Either way, it is real. Earnings (the accountant's measure of profit) can be tricky — full of non-cash charges, one-time items, and accounting choices. Free cash flow is harder to fake. If you are holding cash, you are holding something tangible.
 
@@ -38,7 +38,7 @@ That does not make the fund "defensive" or "boring" — plenty of large-cap comp
 
 ## How it trades and the costs
 
-VFLO is an ETF, so you can buy and sell shares on an exchange during market hours. It trades with decent liquidity, meaning the bid-ask spread is tight. The expense ratio is reasonable — lower than an actively managed fund that employs a team of stock pickers, but higher than the cheapest passive index funds. Because it is based on a rules-based screen rather than active judgment, it sits somewhere between passive and active in cost.
+VFLO is an ETF, so you can buy and sell shares on an exchange during market hours. It trades with decent liquidity, meaning the [bid-ask spread](/bid-ask-spread/) is tight. The [expense ratio](/expense-ratio/) is reasonable — lower than an [actively managed fund](/actively-managed-fund/) that employs a team of stock pickers, but higher than the cheapest passive [index funds](/index-fund/). Because it is based on a rules-based screen rather than active judgment, it sits somewhere between passive and active in cost.
 
 The fund distributes dividends from the stocks it holds. Because it tilts toward mature, cash-generating companies, the yield (dividend per dollar invested) is often higher than the broad market. Those distributions are taxed as ordinary income, making the fund a bit more tax-efficient inside a retirement account.
 
@@ -48,8 +48,8 @@ The free cash flow screen is not perfect. A company can have strong free cash fl
 
 The tilt toward cash-generating companies means less exposure to high-growth, high-reinvestment businesses. If tech or other growth sectors outperform for years, a fund concentrated in mature companies with strong free cash flow will lag. That is a trade-off you accept — lower growth potential in exchange for steadier, more predictable cash-generating businesses.
 
-The fund holds no hedge against broad market downturns. In a recession or bear market, all stocks can fall, including those with strong free cash flow. The strength of the balance sheet and the cash generation might limit the decline, but it does not eliminate it.
+The fund holds no hedge against broad market downturns. In a [recession](/recession/) or [bear market](/bear-market/), all stocks can fall, including those with strong free cash flow. The strength of the [balance sheet](/balance-sheet/) and the cash generation might limit the decline, but it does not eliminate it.
 
 ## Researching the fund
 
-The holdings list shows you exactly which stocks the fund owns and their weights. You can see the top ten or twenty names and get a sense of the style. The fact sheet breaks down the sectors and shows you the dividend yield and the trailing free cash flow metrics for the portfolio. You can compare the fund's performance against the S&P 500 or the Russell 1000 to see how much the free cash flow tilt has helped. If you want to dig deeper, you can look at individual company cash flow statements (in the 10-K filing with the SEC) to understand what drives free cash flow for the stocks you own.
+The holdings list shows you exactly which stocks the fund owns and their weights. You can see the top ten or twenty names and get a sense of the style. The fact sheet breaks down the sectors and shows you the [dividend yield](/dividend-yield/) and the trailing free cash flow metrics for the portfolio. You can compare the fund's performance against the S&P 500 or the Russell 1000 to see how much the free cash flow tilt has helped. If you want to dig deeper, you can look at individual company [cash flow statements](/cash-flow-statement/) (in the 10-K filing with the SEC) to understand what drives free cash flow for the stocks you own.

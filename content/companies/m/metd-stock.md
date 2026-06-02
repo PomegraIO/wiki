@@ -13,11 +13,11 @@ handwritten: true
 
 METD is an inverse exchange-traded fund designed to move in the opposite direction of Meta stock. When Meta stock falls 5 percent, METD rises roughly 5 percent. When Meta rises 5 percent, METD falls roughly 5 percent. The fund is intended as a way for investors to bet against Meta — to profit if Meta's stock price declines — without having to short sell the stock directly or to hedge existing holdings.
 
-The fund is issued by Direxion, a manager specializing in leveraged and inverse ETFs, and it offers a simple 1-to-1 inverse relationship. This means METD moves in the opposite direction of Meta stock but with roughly equal magnitude, not amplified. (Direxion also offers 2X and 3X inverse versions of various stocks, but METD is the 1X version, the simplest form.)
+The fund is issued by Direxion, a manager specializing in leveraged and [inverse ETFs](/inverse-etf/), and it offers a simple 1-to-1 inverse relationship. This means METD moves in the opposite direction of Meta stock but with roughly equal magnitude, not amplified. (Direxion also offers 2X and 3X inverse versions of various stocks, but METD is the 1X version, the simplest form.)
 
 ## How inverse ETFs work and why they decay
 
-An inverse ETF holds derivatives such as put options and short positions on the underlying stock, rather than holding the stock itself. It uses these instruments to construct a portfolio that declines in value when the underlying stock rises. On any single day, this is straightforward: if Meta falls, the put options and short positions gain value.
+An inverse ETF holds derivatives such as [put options](/put-option/) and short positions on the underlying stock, rather than holding the stock itself. It uses these instruments to construct a portfolio that declines in value when the underlying stock rises. On any single day, this is straightforward: if Meta falls, the put options and short positions gain value.
 
 But over longer periods, inverse ETFs suffer from volatility decay. Suppose Meta stock follows this path: starts at one hundred dollars, rises to one hundred ten dollars (up 10 percent), then falls to 99 dollars (down 10 percent). The stock is back to nearly where it started. An investor who simply held Meta would be roughly flat.
 
@@ -37,9 +37,9 @@ Some traders use inverse ETFs in combination with other positions in complex hed
 
 ## Costs and liquidity
 
-METD charges an expense ratio covering the cost of managing the fund. Because inverse ETFs use derivatives and require daily rebalancing, the costs are not trivial. The expense ratio is deducted from the fund's value over time, which is an additional headwind against performance. When held over long periods, this fee drag compounds with the volatility decay, making long-term inverse investing expensive.
+METD charges an [expense ratio](/expense-ratio/) covering the cost of managing the fund. Because inverse ETFs use derivatives and require daily rebalancing, the costs are not trivial. The expense ratio is deducted from the fund's value over time, which is an additional headwind against performance. When held over long periods, this fee drag compounds with the volatility decay, making long-term inverse investing expensive.
 
-METD is liquid enough to trade during market hours, though the bid-ask spread can widen during periods of stress. During a major market decline, when investors may rush to buy bearish hedge funds, spreads can be wide.
+METD is liquid enough to trade during market hours, though the [bid-ask spread](/bid-ask-spread/) can widen during periods of stress. During a major market decline, when investors may rush to buy bearish [hedge funds](/hedge-fund/), spreads can be wide.
 
 ## Real risks and pitfalls
 

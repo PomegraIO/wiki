@@ -46,11 +46,11 @@ The geographic mix is biased toward the United States and developed Europe, wher
 
 ## Costs, liquidity, and performance drivers
 
-LOGO charges an expense ratio of approximately 0.55% annually — modest for a curated, custom-index approach but higher than a passive broad-market index. The fund trades on the exchange with reasonable liquidity; bid-ask spreads are typically tight for moderate positions, reflecting steady investor interest in the branded-consumer theme.
+LOGO charges an [expense ratio](/expense-ratio/) of approximately 0.55% annually — modest for a curated, custom-index approach but higher than a passive broad-market index. The fund trades on the exchange with reasonable liquidity; [bid-ask spreads](/bid-ask-spread/) are typically tight for moderate positions, reflecting steady investor interest in the branded-consumer theme.
 
-Fund performance hinges on two factors. First, the broader health of consumer spending: when households have rising incomes and confidence, they spend more on branded and premium goods. Second, whether those premium brands actually retain their pricing power through economic cycles. In recessions or periods of high inflation, even loyal customers sometimes trade down to cheaper alternatives; the brand moat narrows. Conversely, in periods of rising wealth and confidence, branded luxury and premium goods materially outperform cheaper alternatives.
+Fund performance hinges on two factors. First, the broader health of consumer spending: when households have rising incomes and confidence, they spend more on branded and premium goods. Second, whether those premium brands actually retain their pricing power through economic cycles. In [recessions](/recession/) or periods of high [inflation](/inflation/), even loyal customers sometimes trade down to cheaper alternatives; the brand moat narrows. Conversely, in periods of rising wealth and confidence, branded luxury and premium goods materially outperform cheaper alternatives.
 
-Geographic and currency exposure adds another layer. A meaningful portion of LOGO's companies earn revenue from Europe, Asia, and emerging markets but report in US dollars. Currency movements — a strong or weak dollar relative to the euro, pound, or yen — therefore introduce volatility independent of the companies' underlying business performance.
+Geographic and currency exposure adds another layer. A meaningful portion of LOGO's companies earn revenue from Europe, Asia, and emerging markets but report in [US dollars](/us-dollar/). Currency movements — a strong or weak dollar relative to the euro, pound, or yen — therefore introduce volatility independent of the companies' underlying business performance.
 
 ## Research and the branded-consumer thesis
 

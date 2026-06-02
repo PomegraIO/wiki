@@ -13,7 +13,7 @@ handwritten: true
 
 > "A pharmaceutical company is really a regulatory company with a chemistry division attached to it."
 
-This framing matters for understanding Novartis. The Zurich-based manufacturer develops, manufactures, and sells prescription medicines in more than 195 countries. Yet the business is not shaped by chemistry—it is shaped by the rules under which drugs can be discovered, tested, approved, manufactured, marketed, and sold. Different regulators (FDA in the United States, EMA in Europe, PMDA in Japan, NMPA in China) have different standards, approval timelines, and rules. Novartis navigates all of them simultaneously, and the shape of the firm's pipeline and profitability reflects those constraints.
+This framing matters for understanding [Novartis](/nvs-stock/). The Zurich-based manufacturer develops, manufactures, and sells prescription medicines in more than 195 countries. Yet the business is not shaped by chemistry—it is shaped by the rules under which drugs can be discovered, tested, approved, manufactured, marketed, and sold. Different regulators (FDA in the United States, EMA in Europe, PMDA in Japan, NMPA in China) have different standards, approval timelines, and rules. Novartis navigates all of them simultaneously, and the shape of the firm's pipeline and profitability reflects those constraints.
 
 ## The pipeline and the patent cliff
 
@@ -35,7 +35,7 @@ The regulatory environment also constrains manufacturing and marketing. Pharmace
 
 Novartis sells drugs globally, but the price it receives for the same drug varies wildly by country. The United States typically offers the highest prices; Europe negotiates lower rates; Japan pays moderate prices; many developing nations pay much less. The company's net realized price for a drug depends on the geographic mix of its sales. Drugs with high United States penetration are more profitable than drugs sold primarily in price-controlled markets.
 
-This creates a concentration risk. If a major Novartis drug is approved in the United States but rejected by European regulators, or faces price negotiation in the US (which is increasingly happening), the company's revenue and profit expectations shift materially. Conversely, a drug approved in the US, Europe, and Japan will be far more valuable than one approved only in the US.
+This creates a [concentration risk](/concentration-risk/). If a major Novartis drug is approved in the United States but rejected by European regulators, or faces price negotiation in the US (which is increasingly happening), the company's revenue and profit expectations shift materially. Conversely, a drug approved in the US, Europe, and Japan will be far more valuable than one approved only in the US.
 
 China is becoming increasingly important. The country represents a large and growing patient population, but regulatory approval is slower than in the West, manufacturing standards are evolving, and government price controls are tightening. Novartis and its peers have invested heavily in China, but the returns are uncertain as the regulatory environment shifts.
 
@@ -53,6 +53,6 @@ The conversation around innovation is tightening. Regulators in the US and Europ
 
 ## How to research Novartis
 
-Start with the annual 10-K filing (SEC CIK 0001114448) and the quarterly earnings calls and investor day presentations. Key metrics are: total revenue and revenue broken by therapeutic segment, gross margin on sold drugs (which should be very high before operating costs), operating margin (which reflects the cost of R&D and sales forces), and pipeline status—which drugs are moving through trials and when key decisions are expected.
+Start with the annual 10-K filing (SEC CIK 0001114448) and the quarterly earnings calls and investor day presentations. Key metrics are: total revenue and revenue broken by therapeutic segment, gross margin on sold drugs (which should be very high before operating costs), [operating margin](/operating-margin/) (which reflects the cost of R&D and sales forces), and pipeline status—which drugs are moving through trials and when key decisions are expected.
 
 Watch for patent expirations: when a major drug loses exclusivity, revenues will decline. Check the company's disclosure of sales by geography to understand pricing pressure in key markets. Listen for commentary on regulatory approvals and rejections; a surprise rejection or delay in a key market affects the near-term outlook. And track clinical trial readouts—a failure in a late-stage trial for a key indication depresses the stock because it eliminates a revenue expectation.

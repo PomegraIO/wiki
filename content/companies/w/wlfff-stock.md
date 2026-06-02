@@ -33,7 +33,7 @@ The early economics of the Woodjam Project, as reported by the company, indicate
 
 The fundamental tension in mineral exploration companies like Wolfden lies in the nature of their business. They spend cash on exploration and engineering work without generating revenue. The company is essentially making an bet that its geological work will uncover ore deposits of sufficient size and grade to support a mine, and that future commodity prices will justify the capital investment required to build that mine.
 
-This business model creates its own moat and weakness simultaneously. The moat is geological scarcity — if Wolfden has correctly identified a large, high-grade deposit where competitors and the market have overlooked it, the company owns an asset with real intrinsic value. The weakness is that mineral projects require years of work, billions of dollars in capital, and regulatory approvals over which the company has incomplete control. A single unfavorable environmental review, a sharp drop in commodity prices, or discovery of a competing deposit nearby can destroy the project's economics.
+This business model creates its own moat and weakness simultaneously. The moat is geological scarcity — if Wolfden has correctly identified a large, high-grade deposit where competitors and the market have overlooked it, the company owns an asset with real [intrinsic value](/intrinsic-value/). The weakness is that mineral projects require years of work, billions of dollars in capital, and regulatory approvals over which the company has incomplete control. A single unfavorable environmental review, a sharp drop in commodity prices, or discovery of a competing deposit nearby can destroy the project's economics.
 
 ## Funding the path to production
 
@@ -55,6 +55,6 @@ For long-term investors in exploration companies, the ability to predict commodi
 
 ## Where to research Wolfden
 
-Anyone considering an investment in Wolfden should begin with the company's SEC filings, particularly the annual reports (Form 10-K) and quarterly reports (Form 10-Q) filed with the SEC under CIK 0001544883. These documents lay out the technical details of the Woodjam Project, the company's exploration spending plans, and the risks the company perceives. The company's annual technical reports or prefeasibility work, if published, provide the detail on ore grades, mining methods, and economic assumptions.
+Anyone considering an investment in Wolfden should begin with the company's SEC filings, particularly the [annual reports](/10-k/) (Form 10-K) and quarterly reports (Form 10-Q) filed with the SEC under CIK 0001544883. These documents lay out the technical details of the Woodjam Project, the company's exploration spending plans, and the risks the company perceives. The company's annual technical reports or prefeasibility work, if published, provide the detail on ore grades, mining methods, and economic assumptions.
 
 Watch for announcements of exploration results (drill hole intercepts and mineralogy), permitting milestones (environmental review approvals, Indigenous consultation updates), and financing announcements (equity raises or partnership deals). Changes in commodity prices and competitor activity in the region are also material context for understanding how the project's prospects are shifting.

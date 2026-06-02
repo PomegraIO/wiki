@@ -11,19 +11,19 @@ keywords:
 handwritten: true
 ---
 
-The 2x Bitcoin Strategy ETF (BITX) is a leveraged exchange-traded fund designed to provide twice the daily return of Bitcoin spot price movements. Launched by Kucoin, a cryptocurrency exchange, BITX targets active traders who want concentrated, short-term Bitcoin exposure without holding the asset directly or managing their own leverage through derivatives.
+The 2x [Bitcoin](/bitcoin/) Strategy ETF (BITX) is a leveraged exchange-traded fund designed to provide twice the daily return of Bitcoin spot price movements. Launched by Kucoin, a [cryptocurrency exchange](/cryptocurrency-exchange/), BITX targets active traders who want concentrated, short-term Bitcoin exposure without holding the asset directly or managing their own leverage through derivatives.
 
 ## The 2x leverage mechanism
 
-BITX uses a daily-reset approach to maintain its 2x leverage ratio against Bitcoin's spot price. On days Bitcoin rises 1 percent, BITX targets a 2 percent gain; on days Bitcoin falls 1 percent, BITX targets a 2 percent loss. The fund achieves this by holding Bitcoin futures contracts and adjusting its holdings at the end of each trading day to reset the leverage ratio, ensuring that the 2x multiplier holds for the subsequent day's trading.
+BITX uses a daily-reset approach to maintain its 2x [leverage ratio](/leverage-ratio-forex/) against Bitcoin's spot price. On days Bitcoin rises 1 percent, BITX targets a 2 percent gain; on days Bitcoin falls 1 percent, BITX targets a 2 percent loss. The fund achieves this by holding Bitcoin [futures contracts](/futures-contract/) and adjusting its holdings at the end of each trading day to reset the leverage ratio, ensuring that the 2x multiplier holds for the subsequent day's trading.
 
 This daily rebalancing is the core of how BITX functions. Every afternoon, the fund's manager sells or buys futures positions to bring the leverage back to exactly 2x. This mechanical rebalancing ensures consistency but also introduces trading costs and exposes the fund to intra-day volatility that is neither captured nor fully reflected in the daily return figure.
 
 ## Costs and fees
 
-BITX charges an annual expense ratio that covers management fees, administrative costs, and the ongoing rebalancing trades required to maintain 2x leverage. Like other leveraged funds, BITX incurs implicit costs from the bid-ask spreads on the futures it buys and sells daily, and from the roll yield as expiring futures are replaced with new contracts further out the curve.
+BITX charges an annual [expense ratio](/expense-ratio/) that covers [management fees](/management-fee/), administrative costs, and the ongoing rebalancing trades required to maintain 2x leverage. Like other leveraged funds, BITX incurs implicit costs from the [bid-ask spreads](/bid-ask-spread/) on the futures it buys and sells daily, and from the [roll yield](/roll-yield/) as expiring futures are replaced with new contracts further out the curve.
 
-Shares trade on U.S. stock exchanges, making BITX accessible to any investor with a standard brokerage account. The liquidity of BITX depends on the overall depth of leveraged Bitcoin ETF trading; well-funded leveraged products typically trade with tight spreads, but less liquid times may see wider spreads.
+Shares trade on U.S. [stock exchanges](/stock-exchange/), making BITX accessible to any investor with a standard brokerage account. The liquidity of BITX depends on the overall depth of leveraged Bitcoin ETF trading; well-funded leveraged products typically trade with tight spreads, but less liquid times may see wider spreads.
 
 ## Volatility decay and the path-dependence problem
 

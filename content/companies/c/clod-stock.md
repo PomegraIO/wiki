@@ -13,7 +13,7 @@ handwritten: true
 
 > "Every company that survives the next decade will be a cloud company or a cloud customer—often both."
 
-*The **Themes Cloud Computing ETF** (ticker CLOD) is an actively managed exchange-traded fund that invests in companies whose business depends on cloud computing. It spans the full ecosystem: the hyperscale platforms that provide cloud infrastructure (Amazon Web Services, Microsoft Azure, Google Cloud), the software vendors who sell into cloud environments, the semiconductor makers who chip data centers, the infrastructure vendors who enable cloud workloads, and the security and networking specialists who protect them.*
+*The **Themes Cloud Computing ETF** (ticker CLOD) is an actively managed exchange-traded fund that invests in companies whose business depends on cloud computing. It spans the full ecosystem: the hyperscale platforms that provide cloud infrastructure (Amazon Web Services, [Microsoft](/msft-stock/) Azure, Google Cloud), the software vendors who sell into cloud environments, the semiconductor makers who chip data centers, the infrastructure vendors who enable cloud workloads, and the security and networking specialists who protect them.*
 
 <aside class="wiki-infobox">
 <table>
@@ -49,13 +49,13 @@ CLOD captures upside if enterprises deepen cloud adoption, if cloud services exp
 
 ## Costs, structure, and trading
 
-CLOD shares trade on NASDAQ throughout the day at prices set by the market. The fund does not employ leverage; it holds long positions in equities only. The fund charges an active-management expense ratio higher than a passive cloud index tracker. Investors pay this premium in exchange for the manager's judgment about which cloud-exposed companies to own and overweight.
+CLOD shares trade on [NASDAQ](/nasdaq/) throughout the day at prices set by the market. The fund does not employ leverage; it holds long positions in equities only. The fund charges an active-management [expense ratio](/expense-ratio/) higher than a passive cloud index tracker. Investors pay this premium in exchange for the manager's judgment about which cloud-exposed companies to own and overweight.
 
-The fund is typically liquid; order sizes can trade at tight bid-ask spreads during regular market hours. CLOD is appropriate for core portfolio allocations or as a thematic satellite position and can be held through any brokerage offering ETF trading.
+The fund is typically liquid; order sizes can trade at tight [bid-ask spreads](/bid-ask-spread/) during regular market hours. CLOD is appropriate for core portfolio allocations or as a thematic satellite position and can be held through any brokerage offering ETF trading.
 
 ## Risks and structural headwinds
 
-CLOD concentrates on one major structural trend. If cloud adoption slows sharply—because growth in enterprise workload migration plateaus, or because customer preferences shift back to hybrid or on-premise models—the entire ecosystem suffers together. This is single-theme concentration risk, distinct from sector risk.
+CLOD concentrates on one major structural trend. If cloud adoption slows sharply—because growth in enterprise workload migration plateaus, or because customer preferences shift back to hybrid or on-premise models—the entire ecosystem suffers together. This is single-theme [concentration risk](/concentration-risk/), distinct from sector risk.
 
 Competitive intensity is relentless. The hyperscale platforms are entrenched, with AWS and Azure commanding vast market share, but this entrenchment also limits their upside. Smaller vendors face commoditization as larger competitors add adjacent features or as customers consolidate suppliers. Many software vendors in particular face customer concentration: if a handful of large enterprises represent outsized revenue, a single customer loss can materially affect results.
 
@@ -63,7 +63,7 @@ Regulatory pressure looms in multiple jurisdictions. Data privacy rules, nationa
 
 ## How to research CLOD
 
-Start with Themes' prospectus and fact sheet, which list current holdings and the screening criteria used to identify cloud-exposed companies. This reveals which names the manager sees as most central to the ecosystem. Then examine each major holding's annual report and earnings transcripts to understand its specific cloud exposure, growth rates, and competitive position.
+Start with Themes' prospectus and fact sheet, which list current holdings and the screening criteria used to identify cloud-exposed companies. This reveals which names the manager sees as most central to the ecosystem. Then examine each major holding's [annual report](/10-k/) and earnings transcripts to understand its specific cloud exposure, growth rates, and competitive position.
 
 Cloud trends feature prominently in technology analyst reports and industry commentary. Follow discussion of cloud adoption rates, customer spending intensity, shifts in competitive positioning among major providers, and the emergence of new cloud use cases. These macro and competitive factors affect the entire portfolio collectively.
 

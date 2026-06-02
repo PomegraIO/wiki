@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*TDACW are the publicly traded warrants issued by Translational Development Acquisition Corp., the blank-check company that sought to merge with a biotech or healthcare target. Each warrant is the right to purchase one share of the combined company at a set strike price. The warrant trades independently of the common stock unit (TDACU) and carries both leverage and risk.*
+*TDACW are the publicly traded warrants issued by Translational Development [Acquisition](/acquisition/) Corp., the blank-check company that sought to merge with a biotech or healthcare target. Each warrant is the right to purchase one share of the combined company at a set [strike price](/strike-price/). The warrant trades independently of the [common stock](/common-stock/) unit (TDACU) and carries both leverage and risk.*
 
 <aside class="wiki-infobox">
 <table>
@@ -26,13 +26,13 @@ handwritten: true
 
 ## What a warrant is and why investors buy them
 
-A warrant is an instrument that grants the holder the right (but not the obligation) to purchase a share of stock at a predetermined price, called the strike price, at any time up to and including an expiration date. In the SPAC context, warrants are issued as sweetener to attract IPO investors: a SPAC unit bundled one share of common stock with one warrant, offering the buyer participation in an eventual merger at a fixed entry point plus the chance to profit if the merged company's shares rise above the strike.
+A warrant is an instrument that grants the holder the right (but not the obligation) to purchase a share of stock at a predetermined price, called the strike price, at any time up to and including an [expiration date](/expiration-date/). In the SPAC context, warrants are issued as sweetener to attract IPO investors: a SPAC unit bundled one share of common stock with one warrant, offering the buyer participation in an eventual [merger](/merger/) at a fixed entry point plus the chance to profit if the merged company's shares rise above the strike.
 
-The leverage is the appeal. Suppose TDACW has a strike of $11.50 and the merged company's shares trade at $16. An investor holding a warrant can exercise it, pay $11.50, and obtain a share worth $16, capturing a $4.50 spread. A buyer of the warrant alone risked less capital than a buyer of the underlying share but stands to gain dollar-for-dollar on moves above the strike. That asymmetry — limited downside (the premium paid for the warrant), unlimited upside — is why warrants exist and trade at a premium to their intrinsic value.
+The leverage is the appeal. Suppose TDACW has a strike of $11.50 and the merged company's shares trade at $16. An investor holding a warrant can exercise it, pay $11.50, and obtain a share worth $16, capturing a $4.50 spread. A buyer of the warrant alone risked less capital than a buyer of the underlying share but stands to gain dollar-for-dollar on moves above the strike. That asymmetry — limited downside (the premium paid for the warrant), unlimited upside — is why warrants exist and trade at a premium to their [intrinsic value](/intrinsic-value/).
 
 ## The terms and mechanics
 
-TDACW warrants, like most SPAC warrants, include terms specific to the deal. The strike price is usually set at $11.50 per share (though it varies by SPAC). The holder can exercise the warrant either by paying cash or via a cashless exercise, in which the broker automatically sells enough shares at current market prices to cover the strike and nets out the remainder — useful if an investor wants to exercise but has no cash on hand.
+TDACW warrants, like most SPAC warrants, include terms specific to the deal. The strike price is usually set at $11.50 per share (though it varies by SPAC). The holder can exercise the warrant either by paying cash or via a [cashless exercise](/cashless-exercise/), in which the [broker](/broker/) automatically sells enough shares at current market prices to cover the strike and nets out the remainder — useful if an investor wants to exercise but has no cash on hand.
 
 The expiration date for most SPAC warrants is five years from the close of the merger. Warrants can be called (redeemed) early by the company if the stock price rises above a threshold — typically 150% of the strike over a 20-day period — forcing holders to either exercise or lose the warrant. That call provision protects the company from warrant overhang and incentivizes exercise.
 

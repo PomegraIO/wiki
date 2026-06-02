@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Silexion Therapeutics is an early-stage biotechnology company focused on discovering drugs targeting disease pathways related to silica and related mechanisms. The company exemplifies the preclinical biotech model: founded to explore a scientific hypothesis about disease, funded by venture investors, and spending years conducting research and preclinical testing in pursuit of molecules that might eventually advance to human trials. The company remains pre-revenue or nearly so, meaning it survives on capital raised from investors betting on its scientific hypothesis and eventual ability to develop a successful drug candidate. Most companies at this stage will fail; a handful will advance to human trials and a smaller fraction will eventually produce an approved drug.
+[Silexion Therapeutics](/slxn-stock/) is an early-stage biotechnology company focused on discovering drugs targeting disease pathways related to silica and related mechanisms. The company exemplifies the preclinical biotech model: founded to explore a scientific hypothesis about disease, funded by venture investors, and spending years conducting research and preclinical testing in pursuit of molecules that might eventually advance to human trials. The company remains pre-revenue or nearly so, meaning it survives on capital raised from investors betting on its scientific hypothesis and eventual ability to develop a successful drug candidate. Most companies at this stage will fail; a handful will advance to human trials and a smaller fraction will eventually produce an approved drug.
 
 <aside class="wiki-infobox">
 <table>
@@ -60,7 +60,7 @@ Each step is a gate; failure at any point means the compound does not advance. T
 
 ## Business model and exit scenarios
 
-Early-stage biotech companies like Silexion have two primary exit scenarios. The first is acquisition by a larger pharma company or biotech company further along in drug development, which wants to acquire the early science and incorporate the lead compound into its pipeline. The acquirer typically sees value in the science, the intellectual property (patents on the compounds and their use), and the team. These acquisitions can occur at the preclinical stage or after early clinical data is available.
+Early-stage biotech companies like Silexion have two primary exit scenarios. The first is [acquisition](/acquisition/) by a larger pharma company or biotech company further along in drug development, which wants to acquire the early science and incorporate the lead compound into its pipeline. The acquirer typically sees value in the science, the intellectual property (patents on the compounds and their use), and the team. These acquisitions can occur at the preclinical stage or after early clinical data is available.
 
 The second scenario is eventual development and approval of a drug, followed by either independent commercialization (if the company has raised enough capital and developed commercial infrastructure) or licensing the drug to a larger company that handles marketing, distribution, and sales. Most biotech companies eventually choose licensing because manufacturing and selling pharmaceuticals at scale is capital-intensive and operationally complex.
 

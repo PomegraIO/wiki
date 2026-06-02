@@ -41,7 +41,7 @@ That durability comes with a caveat: if a fund underperforms badly, investors lo
 
 ## The competitive landscape and moat
 
-The private equity and alternatives business is concentrated among a handful of giants. Blackstone, KKR, Apollo, and Carlyle are the four biggest. TPG is a strong fifth but much smaller. Competition for capital is fierce. Investors are not loyal; they back the managers with the best recent returns.
+The private equity and alternatives business is concentrated among a handful of giants. Blackstone, [KKR](/kkr-stock/), Apollo, and Carlyle are the four biggest. TPG is a strong fifth but much smaller. Competition for capital is fierce. Investors are not loyal; they back the managers with the best recent returns.
 
 TPG's competitive edge rests on three things: track record, reputation, and operational prowess. Over decades, TPG has built a name for buying industrial and business-services companies and improving their operations. That reputation attracts capital. The second is access to capital. TPG's scale and track record mean it can raise a $10 billion fund in months; a smaller competitor might take years. The third is the network of dealmakers and operational advisors who identify opportunities and help portfolio companies improve.
 

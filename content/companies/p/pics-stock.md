@@ -55,7 +55,7 @@ PicPay's user experience is a single app. But the company structures its revenue
 
 **Audiences and Ecosystem Integration** is the segment that most people do not think about but that drives value. PicPay owns the app that 60 million Brazilians use regularly. That is advertising space. PicPay Ads is an advertising platform that lets brands and companies reach those users through contextualized placements within the app. If you are a retailer or a financial product company, you can pay to reach PicPay users at moments when they are most likely to engage. This is a high-margin, recurring revenue stream that most fintech users never notice.
 
-**Institutional** is the smallest but emerging segment. As PicPay grows, larger companies and [financial institutions](/fisi-stock/) are interested in accessing its users and data through APIs and partnerships. This segment captures those relationships.
+**Institutional** is the smallest but emerging segment. As PicPay grows, larger companies and financial institutions are interested in accessing its users and data through APIs and partnerships. This segment captures those relationships.
 
 ## The economics of fintech in Brazil
 

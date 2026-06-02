@@ -72,7 +72,7 @@ Bumrungrad competes against other private hospitals in Thailand (some owned by T
 <div class="wiki-seealso">
 
 ### Closely related
-- [Healthcare Services](/hcsg-stock/)
+- Healthcare Services
 - Medical Tourism
 - International Business
 

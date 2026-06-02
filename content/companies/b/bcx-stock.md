@@ -44,7 +44,7 @@ BCX's returns come almost entirely from the appreciation (or [depreciation](/dep
 
 The fee structure is straightforward: BlackRock charges an annual [management fee](/management-fee/) (typically 0.6–0.8% of assets) and other operating costs come out of the fund's returns. Those fees may seem small, but they compound. Over ten years, they can make a meaningful difference compared to holding an [index fund](/index-fund/).
 
-The real risk is commodity and commodity-company volatility. Oil, metals, and agriculture prices are set in global commodity markets, and they swing hard. A geopolitical disruption, a shift in [monetary policy](/monetary-policy/), a recession, or a technology breakthrough (like electric vehicles reducing oil demand) can shake commodity prices badly. When that happens, the resource stocks in BCX crater, and shareholders face losses that can last for years. The leverage in the fund amplifies those losses.
+The real risk is commodity and commodity-company volatility. Oil, metals, and agriculture prices are set in global commodity markets, and they swing hard. A geopolitical disruption, a shift in [monetary policy](/monetary-policy/), a [recession](/recession/), or a technology breakthrough (like electric vehicles reducing oil demand) can shake commodity prices badly. When that happens, the resource stocks in BCX crater, and shareholders face losses that can last for years. The leverage in the fund amplifies those losses.
 
 ## Leverage: the amplifier
 

@@ -21,7 +21,7 @@ The other major use is telecommunications. Businesses and governments use satell
 
 The third business line is operation of satellite infrastructure for other carriers. Some telecommunications companies do not own satellites but lease capacity from companies like SKY Perfect JSAT. This is a lower-margin business because it is largely pass-through, but it provides steady recurring revenue.
 
-The company also owns a stake in pay-TV and broadband in Japan, bundling those services with satellite offerings. This diversification helps, because satellite pay-TV faces competition from fibre-based offerings and streaming services.
+The company also owns a stake in pay-TV and broadband in Japan, bundling those services with satellite offerings. This [diversification](/diversification/) helps, because satellite pay-TV faces competition from fibre-based offerings and streaming services.
 
 ## How the money flows
 
@@ -37,7 +37,7 @@ Operating expenses are dominated by three things: satellite operations and maint
 
 ## The cyclical pressure: advertising and spending
 
-The company faces two cyclical headwinds. First, when Japan's economy slows or enters recession, household discretionary spending tightens. Some customers cut their pay-TV subscriptions or downgrade to cheaper packages. That pressure was acute during Japan's economic lost decades; it remains a risk whenever the broader economy weakens.
+The company faces two cyclical headwinds. First, when Japan's economy slows or enters [recession](/recession/), household [discretionary spending](/discretionary-spending/) tightens. Some customers cut their pay-TV subscriptions or downgrade to cheaper packages. That pressure was acute during Japan's economic lost decades; it remains a risk whenever the broader economy weakens.
 
 Second, advertising spending fluctuates with economic cycles. Many of the broadcast channels carried by SKY Perfect JSAT sell advertising time. Advertisers cut budgets in downturns, hurting the channels' profitability and in turn the content fees those channels pay. The company is not the advertiser, but it feels the echo through content costs and channel partnerships.
 
@@ -45,7 +45,7 @@ Third, the telecommunications business connected to Japan's broader infrastructu
 
 ## The long-term challenge: fiber and streaming
 
-SKY Perfect JSAT's core pay-TV business faces two structural headwinds that are not cyclical — they are permanent. First, fibre-optic broadband is being deployed across Japan. Fibre is faster and supports video more smoothly than older copper-based networks. As fibre becomes available, customers can switch to fibre-based television and broadband from traditional providers, reducing their use of satellite. Second, streaming services — Netflix, Amazon Prime, YouTube — offer on-demand entertainment that does not require a paid TV subscription. Younger audiences increasingly have no interest in traditional broadcast TV, whether delivered by cable, fibre, or satellite.
+SKY Perfect JSAT's core pay-TV business faces two structural headwinds that are not cyclical — they are permanent. First, fibre-optic broadband is being deployed across Japan. Fibre is faster and supports video more smoothly than older copper-based networks. As fibre becomes available, customers can switch to fibre-based television and broadband from traditional providers, reducing their use of satellite. Second, streaming services — [Netflix](/nflx-stock/), Amazon Prime, YouTube — offer on-demand entertainment that does not require a paid TV subscription. Younger audiences increasingly have no interest in traditional broadcast TV, whether delivered by cable, fibre, or satellite.
 
 These two forces have been driving cord-cutting for years. SKY Perfect JSAT has responded by bundling broadband, streaming access, and pay-TV together, trying to offer a complete entertainment package. It has also invested in its own streaming platform. But the long-term trajectory is clear: the number of subscribers to traditional pay-TV will decline.
 
@@ -63,7 +63,7 @@ The satellite telecommunications business provides some cushion because it is no
 
 The annual 10-K filing (SEC CIK 0001447108) breaks down the revenue by business segment — pay-TV, broadband, satellite telecommunications, and other. Look for trends in subscriber growth and churn, average revenue per subscriber, and margins by segment. Declining subscriber counts are a warning sign; it means cord-cutting is accelerating.
 
-Watch the satellite capacity utilization rate. If the company is not selling space on its satellites, revenue per satellite is falling. High capacity utilization suggests strong demand and pricing power.
+Watch the satellite [capacity utilization rate](/capacity-utilization-rate/). If the company is not selling space on its satellites, revenue per satellite is falling. High capacity utilization suggests strong demand and pricing power.
 
 Look at debt levels and interest coverage. Satellites are expensive; the company carries debt to finance them. If earnings fall sharply in a recession, can the company still service that debt?
 

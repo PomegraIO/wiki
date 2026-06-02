@@ -25,21 +25,21 @@ handwritten: true
 
 </aside>
 
-AVOS is an exchange-traded fund that holds dividend-paying stocks from around the world — multinational companies, industrial giants, utilities, and financial institutions that have histories of paying dividends and often raising them over time. The fund blends companies from developed economies (the United States, Europe, Japan) with quality dividend payers from emerging markets, seeking both current income and the prospect that dividends will grow in the years ahead.
+AVOS is an exchange-traded fund that holds dividend-paying stocks from around the world — multinational companies, industrial giants, utilities, and financial institutions that have histories of paying [dividends](/dividend/) and often raising them over time. The fund blends companies from developed economies (the United States, Europe, Japan) with quality dividend payers from emerging markets, seeking both current income and the prospect that dividends will grow in the years ahead.
 
-The appeal of a dividend-focused approach is straightforward: it offers investors a visible cash return (the dividend yield) alongside the hope that the underlying stocks appreciate. For retirees or income-seeking investors, the quarterly or annual dividends provide real spending money. For long-term accumulators, reinvested dividends compound into a potent return engine, especially over decades.
+The appeal of a dividend-focused approach is straightforward: it offers investors a visible cash return (the [dividend yield](/dividend-yield/)) alongside the hope that the underlying stocks appreciate. For retirees or income-seeking investors, the quarterly or annual dividends provide real spending money. For long-term accumulators, reinvested dividends compound into a potent return engine, especially over decades.
 
 ## How dividend growth works as a strategy
 
-A company that raises its dividend year after year signals confidence in its business and financial strength. It is often a sign that management sees durable cash flows, not just a cyclical upturn. AVOS screens for companies with credible dividend-growth histories, though the specific criteria vary depending on the fund's underlying index or strategy — some funds require a minimum number of consecutive years of dividend increases, others look at the pace of growth, still others examine the payout ratio (what fraction of earnings the company returns as dividends) to assess sustainability.
+A company that raises its dividend year after year signals confidence in its business and financial strength. It is often a sign that management sees durable cash flows, not just a cyclical upturn. AVOS screens for companies with credible dividend-growth histories, though the specific criteria vary depending on the fund's underlying index or strategy — some funds require a minimum number of consecutive years of dividend increases, others look at the pace of growth, still others examine the [payout ratio](/payout-ratio/) (what fraction of earnings the company returns as dividends) to assess sustainability.
 
 The compounding effect is real. A company paying a 3% dividend that grows 7% per year will double its payout in about ten years. An investor holding that stock gets both the capital appreciation (if the company's earnings and value grow) and the expanding income stream, a combination that can deliver handsome returns over long periods, particularly if the underlying companies are growing faster than the broad economy.
 
 ## Global diversification and currency
 
-By holding dividend payers across many countries, AVOS reduces the risk that weakness in any single market crushes the fund's returns. A downturn in European banks does not wipe out exposure to growing dividend payers in Asia or Canada. That diversification is a genuine strength, especially for investors who want exposure to quality dividend-growth stories beyond the United States.
+By holding dividend payers across many countries, AVOS reduces the risk that weakness in any single market crushes the fund's returns. A downturn in European banks does not wipe out exposure to growing dividend payers in Asia or Canada. That [diversification](/diversification/) is a genuine strength, especially for investors who want exposure to quality dividend-growth stories beyond the United States.
 
-Currency exposure is a subtle feature. Many of AVOS's non-U.S. holdings pay dividends in their home currencies (euros, British pounds, Japanese yen, Brazilian reals). The fund may leave that currency exposure as-is (so a rising dollar hurts returns when those foreign dividends are converted back) or hedge it away (a cost that reduces returns but stabilizes them in dollar terms). The fund's prospectus and fact sheet disclose how currency is handled.
+Currency exposure is a subtle feature. Many of AVOS's non-U.S. holdings pay dividends in their home currencies (euros, [British pounds](/british-pound/), [Japanese yen](/japanese-yen/), Brazilian reals). The fund may leave that currency exposure as-is (so a rising dollar hurts returns when those foreign dividends are converted back) or hedge it away (a cost that reduces returns but stabilizes them in dollar terms). The fund's prospectus and fact sheet disclose how currency is handled.
 
 ## Income and tax considerations
 
@@ -47,11 +47,11 @@ The quarterly or annual dividends paid by AVOS are passed through to fund shareh
 
 ## Risks and real-world mechanics
 
-Dividend-paying stocks are not immune to downturns. A company in financial distress may cut its dividend, a move that often triggers a sharp stock-price drop. AVOS's companies are usually large, stable, and less likely to cut, but nothing guarantees it. A recession or sector shock can pressure both stock prices and the dividends themselves.
+Dividend-paying stocks are not immune to downturns. A company in financial distress may cut its dividend, a move that often triggers a sharp stock-price drop. AVOS's companies are usually large, stable, and less likely to cut, but nothing guarantees it. A [recession](/recession/) or sector shock can pressure both stock prices and the dividends themselves.
 
-The fund's returns depend on both price appreciation (or decline) of the underlying holdings and the dividends they pay. In strong bull markets, dividend-focused funds sometimes lag pure growth funds because they are holding more mature, slower-growing companies. In downturns, they may hold up somewhat better because the dividend provides a floor of return even if prices fall.
+The fund's returns depend on both price appreciation (or decline) of the underlying holdings and the dividends they pay. In strong [bull markets](/bull-market/), dividend-focused funds sometimes lag pure [growth funds](/growth-fund/) because they are holding more mature, slower-growing companies. In downturns, they may hold up somewhat better because the dividend provides a floor of return even if prices fall.
 
-Expense ratios vary but are usually modest for a globally diversified equity fund, typically a fraction of a percent per year. That cost compounds over decades, so comparing it to peer funds or a broad index alternative is wise.
+[Expense ratios](/expense-ratio/) vary but are usually modest for a globally diversified equity fund, typically a fraction of a percent per year. That cost compounds over decades, so comparing it to peer funds or a broad index alternative is wise.
 
 ## How to research AVOS
 

@@ -4,7 +4,7 @@ description: "A quantum-computing hardware and software company developing super
 keywords: ["quantum computing", "quantum hardware", "quantum algorithms", "superconducting qubits", "enterprise technology"]
 ---
 
-*BTQ Technologies Corp. (BTQ) is an early-stage [quantum computing](/qubt-stock/) company engaged in the design and fabrication of superconducting quantum processors and the development of software platforms to make quantum hardware commercially useful. The company is pre-revenue or minimal-revenue, with value concentrated in its intellectual property, engineering talent, and access to foundational quantum-computing patents and research collaborations.*
+*BTQ Technologies Corp. (BTQ) is an early-stage quantum computing company engaged in the design and fabrication of superconducting quantum processors and the development of software platforms to make quantum hardware commercially useful. The company is pre-revenue or minimal-revenue, with value concentrated in its intellectual property, engineering talent, and access to foundational quantum-computing patents and research collaborations.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BTQ</td></tr>

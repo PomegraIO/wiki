@@ -52,7 +52,7 @@ As a [publicly traded](/public-company/) company on [NASDAQ](/nasdaq/), Sierra c
 
 ## Positioning Within the Sector
 
-Sierra's survival depends on remaining the preferred lender to agricultural operations, rural small business, and agribusiness in its footprint. Failure looks like: gradual margin compression from rising deposit costs, deposit outflows to higher-yield offerings elsewhere, loan losses from agricultural downturns, and eventual consolidation into a larger regional or [national bank](/nbhc-stock/). Success looks like: maintaining deposit stickiness, selective loan growth in credit-worthy segments, stable asset quality, and return on equity in the low-to-mid teens.
+Sierra's survival depends on remaining the preferred lender to agricultural operations, rural small business, and agribusiness in its footprint. Failure looks like: gradual margin compression from rising deposit costs, deposit outflows to higher-yield offerings elsewhere, loan losses from agricultural downturns, and eventual consolidation into a larger regional or national bank. Success looks like: maintaining deposit stickiness, selective loan growth in credit-worthy segments, stable asset quality, and return on equity in the low-to-mid teens.
 
 The sector itself is experiencing structural headwinds: regulatory capital requirements, climate and commodity-price volatility, and consolidation pressure. For Sierra, the questions are whether its agricultural niche is defensible long-term and whether the regulatory environment continues to favor independent regionals or accelerates consolidation.
 

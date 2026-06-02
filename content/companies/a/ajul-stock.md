@@ -13,7 +13,7 @@ handwritten: true
 
 ## What exactly is this fund protecting against?
 
-AJUL wraps U.S. large-cap stocks in a collar: a floor (put option) that stops losses at a certain level and a ceiling (call option) that caps gains. The puts protect against crashes; the short calls finance that protection. If you own AJUL, you own equities but within explicit guardrails. The floor might protect you down to, say, a 10% loss; the ceiling caps your gain at perhaps 10% or 15%. In exchange, you do not pay a separate insurance premium — the short call premium subsidizes the long put.
+AJUL wraps U.S. large-cap stocks in a collar: a floor ([put option](/put-option/)) that stops losses at a certain level and a ceiling ([call option](/call-option/)) that caps gains. The puts protect against crashes; the short calls finance that protection. If you own AJUL, you own equities but within explicit guardrails. The floor might protect you down to, say, a 10% loss; the ceiling caps your gain at perhaps 10% or 15%. In exchange, you do not pay a separate insurance premium — the short call premium subsidizes the long put.
 
 ## How does the time component work here?
 
@@ -27,9 +27,9 @@ The insurance logic applies: you buy a collar because you believe downside prote
 
 ## What are the real costs hidden in the structure?
 
-The collar structure looks elegant — you finance protection with short calls — but costs accumulate beneath the surface. There is the daily execution cost of maintaining the hedge (the bid-ask spread on options trading). There are management fees. There is tracking error from the hedge itself: as the underlying stocks move, the puts and calls drift in value, and rebalancing to keep the collar tight becomes more expensive. In years with high volatility, those costs spike. Add it all up and a 50 basis-point or higher all-in drag is not unusual.
+The collar structure looks elegant — you finance protection with short calls — but costs accumulate beneath the surface. There is the daily execution cost of maintaining the hedge (the [bid-ask spread](/bid-ask-spread/) on options trading). There are [management fees](/management-fee/). There is tracking error from the hedge itself: as the underlying stocks move, the puts and calls drift in value, and rebalancing to keep the collar tight becomes more expensive. In years with high volatility, those costs spike. Add it all up and a 50 basis-point or higher all-in drag is not unusual.
 
-That drag is invisible if the market is falling — the protection more than offsets it. In a rising market where the call cap is the binding constraint, the drag stacks on top of the lost upside, which is why direct ownership of stocks nearly always wins if the bull market is strong and long.
+That drag is invisible if the market is falling — the protection more than offsets it. In a rising market where the call cap is the binding constraint, the drag stacks on top of the lost upside, which is why direct ownership of stocks nearly always wins if the [bull market](/bull-market/) is strong and long.
 
 ## How do I decide whether to buy or hold AJUL?
 
@@ -43,4 +43,4 @@ The fund terminates automatically. You will receive cash or be offered the choic
 
 ## Where to find the details
 
-Read the prospectus and the latest fact sheet. They list the exact put and call strikes, the expense ratio, and the key dates. Compare AJUL's total return (including the cap on upside) to the S&P 500 or the Nasdaq 100 over rolling windows. If the fund has been alive long enough, you can see whether the protection delivered value in years when the market fell, and what you gave up in years it rose.
+Read the prospectus and the latest fact sheet. They list the exact put and call strikes, the [expense ratio](/expense-ratio/), and the key dates. Compare AJUL's total return (including the cap on upside) to the S&P 500 or the [Nasdaq](/nasdaq/) 100 over rolling windows. If the fund has been alive long enough, you can see whether the protection delivered value in years when the market fell, and what you gave up in years it rose.

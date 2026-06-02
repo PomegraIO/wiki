@@ -39,7 +39,7 @@ The inflection point came with clinical adoption. The company's early partnershi
 
 ## Path to profitability and the public market
 
-Renalytix pursued a traditional venture-backed path, raising capital from institutional investors and life-sciences funds, and went public on London's AIM in 2018 to fund commercialization and clinical validation studies. The company then cross-listed on NASDAQ in 2020, capitalizing on the broader market appetite for digital health and AI-enabled diagnostics. At its peak, Renalytix attracted investment from some of the largest institutional healthcare investors and biotech funds globally.
+Renalytix pursued a traditional venture-backed path, raising capital from institutional investors and life-sciences funds, and went public on London's AIM in 2018 to fund commercialization and clinical validation studies. The company then cross-listed on [NASDAQ](/nasdaq/) in 2020, capitalizing on the broader market appetite for digital health and AI-enabled diagnostics. At its peak, Renalytix attracted investment from some of the largest institutional healthcare investors and biotech funds globally.
 
 The company's strategy centered on establishing the clinical standard of care around risk-based stratification. It funded prospective studies (most notably the PREDICT trial, which enrolled thousands of patients and followed progression outcomes) to demonstrate that AI-guided risk assessment changed clinical behavior and improved long-term outcomes. The evidence was the gate to payer reimbursement: if Medicare and private insurers would reimburse a test, usage would scale accordingly.
 

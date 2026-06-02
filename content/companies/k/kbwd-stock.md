@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*Invesco KBW High Dividend Yield Financial ETF (KBWD) holds 42 financial companies chosen specifically for their above-average dividend yields. It tracks an index that filters the financial sector for income payers, pulling together banks, insurance companies, business development corporations, and mortgage real estate investment trusts. The fund is designed for investors seeking regular income from their portfolio rather than capital growth.*
+*Invesco KBW High [Dividend Yield](/dividend-yield/) Financial ETF (KBWD) holds 42 financial companies chosen specifically for their above-average [dividend](/dividend/) yields. It tracks an index that filters the financial sector for income payers, pulling together banks, insurance companies, business development corporations, and mortgage [real estate investment trusts](/real-estate-investment-trust/). The fund is designed for investors seeking regular income from their portfolio rather than capital growth.*
 
 <aside class="wiki-infobox">
 <table>
@@ -34,25 +34,25 @@ The result is a fund engineered for cash flow, not capital appreciation. Investo
 
 ## What lives in the portfolio
 
-The fund's composition skews toward very defensive, high-income financial businesses. Mortgage REITs like Invesco Mortgage Capital, AGNC Investment, and Two Harbors Investment are major holdings, offering yields of 7 to 10 per cent or higher. These companies buy pools of mortgages and collect the interest payments, distributing most of the cash to shareholders each quarter.
+The fund's composition skews toward very defensive, high-income financial businesses. [Mortgage REITs](/mortgage-reit/) like Invesco Mortgage Capital, [AGNC Investment](/agnc-stock/), and [Two Harbors Investment](/two-stock/) are major holdings, offering yields of 7 to 10 per cent or higher. These companies buy pools of mortgages and collect the interest payments, distributing most of the cash to shareholders each quarter.
 
-Regional banks like Fifth Third Bancorp and smaller lenders also appear, paying dividends of 3 to 5 per cent. Insurance companies like Reinsurance Group of America offer steadier but lower dividends. A handful of specialty finance firms round out the list. The mortgage REIT concentration means the fund is not a broadly diversified income play; it is a bet on mortgage markets and the stability of those specific businesses.
+Regional banks like [Fifth Third Bancorp](/fitb-stock/) and smaller lenders also appear, paying dividends of 3 to 5 per cent. Insurance companies like [Reinsurance Group of America](/rga-stock/) offer steadier but lower dividends. A handful of specialty finance firms round out the list. The mortgage REIT concentration means the fund is not a broadly diversified income play; it is a bet on mortgage markets and the stability of those specific businesses.
 
 ## The yield trap
 
 KBWD's dividend yield is higher than a general bank ETF like KBWB — often 5 to 7 per cent compared with 2 to 3 per cent. This higher income is attractive to income investors, but yield alone does not determine total return. A mortgage REIT yielding 8 per cent might lose 3 per cent of its capital value in a year if mortgage rates rise, leaving you with a net return of 5 per cent. A low-yielding growth stock that appreciates might deliver better long-term total returns than a high-yielding static holding.
 
-Because KBWD is a passive index fund, the dividend policy is set by index rules; the fund simply replicates the holdings. The yields are what they are. If you are buying for income and those yields fall — because the underlying companies cut dividends — you have no recourse and no manager making selective decisions.
+Because KBWD is a passive [index fund](/index-fund/), the dividend policy is set by index rules; the fund simply replicates the holdings. The yields are what they are. If you are buying for income and those yields fall — because the underlying companies cut dividends — you have no recourse and no manager making selective decisions.
 
 ## Interest rate risk
 
-The biggest danger in KBWD is interest rate sensitivity, particularly for mortgage REITs. When interest rates rise, the value of existing mortgages falls because new mortgages offer higher coupons. Mortgage REIT prices typically decline sharply when rates spike. For bank holdings, rising rates are usually positive for net interest margins — the spread between deposit rates and lending rates widens. But falling rates compress that spread and hurt bank earnings.
+The biggest danger in KBWD is [interest rate](/interest-rate/) sensitivity, particularly for mortgage REITs. When interest rates rise, the value of existing mortgages falls because new mortgages offer higher coupons. Mortgage REIT prices typically decline sharply when rates spike. For bank holdings, rising rates are usually positive for net interest margins — the spread between deposit rates and lending rates widens. But falling rates compress that spread and hurt bank earnings.
 
 KBWD is not rate-neutral. It is implicitly a bet that interest rates will remain stable or fall. In a sustained rising-rate environment, the mortgage REIT holdings could experience significant losses that swamp the income gains.
 
 ## Concentration despite 42 holdings
 
-Although KBWD holds 42 companies, the concentration in mortgage REITs creates hidden risk. All mortgage REITs move together with mortgage-market conditions and housing finance supply-demand dynamics. Owning five or six of them does not diversify away that sector risk. Similarly, regional and smaller banks have historically failed more often than megabanks during credit crises. The fund lacks the diversification of a truly all-market index to buffer concentrated losses.
+Although KBWD holds 42 companies, the concentration in mortgage REITs creates hidden risk. All mortgage REITs move together with mortgage-market conditions and housing finance supply-demand dynamics. Owning five or six of them does not diversify away that sector risk. Similarly, regional and smaller banks have historically failed more often than megabanks during credit crises. The fund lacks the [diversification](/diversification/) of a truly all-market index to buffer concentrated losses.
 
 ## Income, capital gains, and taxation
 
@@ -62,7 +62,7 @@ For tax-advantaged accounts like IRAs or 401(k)s, this tax drag disappears; you 
 
 ## Who this fund is for
 
-KBWD works for investors who need regular income from their portfolio and have a high tolerance for sector concentration and interest-rate risk. A retiree living off distributions might find the 5 to 7 per cent yield attractive. A long-term accumulator in a 401(k) might use KBWD to generate income tax-free. But a young investor in a taxable account trying to maximize total return would be better served by a broader, less concentrated, lower-yielding fund that emphasizes capital appreciation.
+KBWD works for investors who need regular income from their portfolio and have a high tolerance for sector concentration and [interest-rate risk](/interest-rate-risk/). A retiree living off distributions might find the 5 to 7 per cent yield attractive. A long-term accumulator in a 401(k) might use KBWD to generate income tax-free. But a young investor in a taxable account trying to maximize total return would be better served by a broader, less concentrated, lower-yielding fund that emphasizes capital appreciation.
 
 ## How to research the fund
 

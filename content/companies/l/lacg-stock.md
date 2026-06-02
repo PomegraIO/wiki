@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Leverage Shares 2X Long LAC Daily ETF** (LACG) amplifies exposure to Lithium Americas through daily 2x leverage, aiming to track twice the daily performance of a single stock rather than a diversified index.*
+*The **Leverage Shares 2X Long LAC Daily ETF** (LACG) amplifies exposure to [Lithium Americas](/lac-stock/) through daily 2x leverage, aiming to track twice the daily performance of a single stock rather than a diversified index.*
 
 > "A leveraged single-stock ETF trades daily amplification against compounding risk — a bet on a company's price swing over weeks, not a long-term ownership stake."
 
@@ -25,7 +25,7 @@ The appeal lies in the single-company story. A trader convinced that LAC will an
 
 ## Daily reset mechanics and volatility decay
 
-Like all leveraged ETFs, LACG uses daily rebalancing. At market close each day, the fund adjusts its derivative positions (typically options or futures) to maintain exactly 2x exposure to LAC's share price. This reset happens every night, which ensures that the fund delivers 2x the daily return, but it creates a mechanical problem in volatile markets.
+Like all [leveraged ETFs](/leveraged-etf/), LACG uses daily rebalancing. At market close each day, the fund adjusts its derivative positions (typically options or futures) to maintain exactly 2x exposure to LAC's share price. This reset happens every night, which ensures that the fund delivers 2x the daily return, but it creates a mechanical problem in volatile markets.
 
 Consider a stock that falls 20% over two days, then recovers 25% over the next three. The stock has gained 0% (nearly) over the week, with a lot of gyration in between. The leveraged fund, by contrast, falls roughly 40% on day one, rises roughly 50% on day two, falls roughly 40% on days three through five, and ends up significantly lower than where it started despite the underlying stock recovering. This volatility decay is the cost of daily leverage.
 
@@ -41,11 +41,11 @@ The fund is entirely inappropriate for buy-and-hold investors. Decay compounds o
 
 Holding a leveraged position in a single mining company concentrates numerous risks. LAC is exposed to lithium price volatility, regulatory and permitting delays, capital-project execution risk, and geopolitical factors (Argentina is a major lithium producer but has experienced political and economic instability). A negative announcement about the Maricunga project, a lithium price crash, or broader EV demand softness can all trigger large one-day moves in LAC that LACG amplifies.
 
-Liquidity in LAC itself, while reasonable, is not infinite; large trades can move the price. For LACG holders, this means that entry and exit — especially in volatile markets — can come at less-favourable prices than the fund's net asset value might suggest.
+Liquidity in LAC itself, while reasonable, is not infinite; large trades can move the price. For LACG holders, this means that entry and exit — especially in volatile markets — can come at less-favourable prices than the fund's [net asset value](/net-asset-value/) might suggest.
 
 ## Costs and mechanism
 
-LACG carries an expense ratio that reflects both the ETF structure and the cost of maintaining leverage through daily derivatives rebalancing. The cost is partially offset by financing gains when rates are low, but the net drag is material when holding periods extend beyond weeks. Bid-ask spreads are modest but wider than unleveraged single-stock ETFs because the rebalancing mechanism adds complexity. The fund does not pay dividends (LAC has historically not paid a dividend either), so there is no dividend-reinvestment consideration.
+LACG carries an [expense ratio](/expense-ratio/) that reflects both the ETF structure and the cost of maintaining leverage through daily derivatives rebalancing. The cost is partially offset by financing gains when rates are low, but the net drag is material when [holding periods](/holding-period/) extend beyond weeks. [Bid-ask spreads](/bid-ask-spread/) are modest but wider than unleveraged single-stock ETFs because the rebalancing mechanism adds complexity. The fund does not pay [dividends](/dividend/) (LAC has historically not paid a dividend either), so there is no dividend-reinvestment consideration.
 
 ## How to research LACG
 

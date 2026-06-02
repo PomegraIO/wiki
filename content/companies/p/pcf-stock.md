@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-High Income Securities Fund is a closed-end management investment company structured as a [fund of funds](/fund-of-funds/), focused on providing income by investing in other income-oriented investment vehicles at discounts to their [net asset values](/net-asset-value/). Rather than managing a portfolio of individual stocks and bonds, the fund specializes in purchasing shares of [closed-end funds](/closed-end-fund/) and business development companies when those shares trade below their underlying asset values—a structural feature of closed-end vehicles that creates periodic opportunities for arbitrage.
+High Income Securities Fund is a closed-end management investment company structured as a [fund of funds](/fund-of-funds/), focused on providing income by investing in other income-oriented investment vehicles at discounts to their [net asset values](/net-asset-value/). Rather than managing a portfolio of individual stocks and [bonds](/bond/), the fund specializes in purchasing shares of [closed-end funds](/closed-end-fund/) and business development companies when those shares trade below their underlying asset values—a structural feature of closed-end vehicles that creates periodic opportunities for arbitrage.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,11 +35,11 @@ High Income Securities identifies closed-end funds and business development comp
 
 The fund's holdings span multiple categories of income-focused investments. Closed-end funds dominate the portfolio—particularly those concentrated on bonds, [preferred stocks](/preferred-stock/), and mortgage-backed securities. These funds themselves buy and hold portfolios of individual debt instruments and hybrid securities, so High Income Securities is one layer removed from the underlying loans and bonds.
 
-Business development companies (BDCs) form another significant segment. BDCs are financial intermediaries that lend to and invest in middle-market companies, collecting interest on loans and dividends on equity stakes. They are required to distribute at least 90 percent of earnings as dividends, making them high-yielding but also sensitive to credit losses if borrowers default.
+Business development companies (BDCs) form another significant segment. BDCs are financial intermediaries that lend to and invest in middle-market companies, collecting interest on loans and [dividends](/dividend/) on equity stakes. They are required to distribute at least 90 percent of earnings as dividends, making them high-yielding but also sensitive to credit losses if borrowers default.
 
 Preferred stocks and convertible securities are a third component. Preferred shares sit between common equity and debt, paying fixed dividends but carrying less downside than common shares if the issuer faces distress. The fund may hold preferred shares of closed-end funds and other companies directly, or through other funds' portfolios.
 
-Special purpose acquisition companies and other structured products round out the mix. These represent smaller allocations but diversify the income sources and provide exposure to strategies the fund believes are undervalued.
+Special purpose [acquisition](/acquisition/) companies and other structured products round out the mix. These represent smaller allocations but diversify the income sources and provide exposure to strategies the fund believes are undervalued.
 
 ## Capital allocation and leverage
 
@@ -57,7 +57,7 @@ In November 2024, High Income Securities initiated a tender offer for its own sh
 
 The income flowing to High Income Securities' shareholders comes from the distributions paid by the underlying closed-end funds and BDCs. These flows depend on the credit quality of the borrowers and counterparties in those portfolios, market [interest rates](/interest-rate/), and the policy decisions of the fund managers overseeing them. In a rising interest-rate environment, new bond purchases and BDC loans offer higher yields, but existing bonds in portfolios may decline in value. In a declining-rate environment, the reverse occurs.
 
-The fund's income is therefore subject to both market risk (the price of underlying securities) and credit risk (the [default rates](/default-rate/) on the underlying borrowers). A recession or [credit event](/credit-event-sovereign/) can trigger losses in BDC portfolios and reduce distributions, impacting the fund's ability to pay its own dividend.
+The fund's income is therefore subject to both [market risk](/market-risk/) (the price of underlying securities) and [credit risk](/credit-risk/) (the [default rates](/default-rate/) on the underlying borrowers). A [recession](/recession/) or [credit event](/credit-event-sovereign/) can trigger losses in BDC portfolios and reduce distributions, impacting the fund's ability to pay its own dividend.
 
 ## How to evaluate the investment
 

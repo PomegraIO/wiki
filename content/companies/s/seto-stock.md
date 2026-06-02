@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-*SETO Holdings Inc. is a publicly traded holding company whose operational substance is minimal.* The company exists primarily as a legal entity with a thin layer of historical subsidiaries, no clear revenue-generating business model, and virtually no discernible path forward. It represents the kind of security that exists at the margins of public markets — listed because of a historical merger or restructuring, but effectively dormant and offering little to a potential investor beyond a name on a ticker sheet.
+*SETO Holdings Inc. is a publicly traded holding company whose operational substance is minimal.* The company exists primarily as a legal entity with a thin layer of historical subsidiaries, no clear revenue-generating business model, and virtually no discernible path forward. It represents the kind of security that exists at the margins of public markets — listed because of a historical [merger](/merger/) or restructuring, but effectively dormant and offering little to a potential investor beyond a name on a ticker sheet.
 
 The company's SEC filings reveal a structure typical of long-abandoned holding companies. SETO owns subsidiaries that were once meant to conduct business but are no longer materially active. There is minimal revenue, minimal headcount, and minimal evidence of strategic investment or redirection. The filing deadlines are met, the paperwork flows to the SEC, and the stock symbol remains tradeable — but these formalities mask what amounts to a corporate shell.
 

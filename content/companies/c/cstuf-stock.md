@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Constellation Acquisition Corp I began as a blank-check vehicle — a shell company with no operations, created to identify and merge with a private operating business. Its lifecycle traces the typical SPAC path: formation and capital raise, a period of searching for targets, announcement of a merger, and eventually combination with an acquired company. This timeline illuminates both the promise and the mechanics of the SPAC structure that became a notable alternative to traditional public offerings in the 2020s.
+Constellation [Acquisition](/acquisition/) Corp I began as a blank-check vehicle — a shell company with no operations, created to identify and merge with a private operating business. Its lifecycle traces the typical SPAC path: formation and capital raise, a period of searching for targets, announcement of a [merger](/merger/), and eventually combination with an acquired company. This timeline illuminates both the promise and the mechanics of the SPAC structure that became a notable alternative to traditional public offerings in the 2020s.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ Constellation Acquisition Corp I began as a blank-check vehicle — a shell comp
 
 ## Formation and the capital-raise phase
 
-Constellation Acquisition Corp I was incorporated as a shell company in 2021, during the second wave of SPAC popularity. The company issued founder shares to its sponsor and then conducted a public offering, raising capital from retail and institutional investors who were betting on the quality of Constellation's management team and their ability to identify a valuable acquisition target. That capital was immediately placed in trust, held separate from the sponsor's own funds, and barred from deployment until the company identified and completed a merger.
+Constellation Acquisition Corp I was incorporated as a shell company in 2021, during the second wave of SPAC popularity. The company issued [founder shares](/founder-shares/) to its sponsor and then conducted a public offering, raising capital from retail and institutional investors who were betting on the quality of Constellation's management team and their ability to identify a valuable acquisition target. That capital was immediately placed in trust, held separate from the sponsor's own funds, and barred from deployment until the company identified and completed a merger.
 
 The regulatory structure is precise: the SPAC has a set period — typically two to three years — to announce a merger target. If no deal is announced within that window, the trust must be liquidated and capital returned to public shareholders (less redemptions and expenses). This deadline creates urgency; the sponsor has a strong financial incentive to close a deal before the clock runs out.
 

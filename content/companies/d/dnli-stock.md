@@ -37,7 +37,7 @@ Unlike a conglomerate that makes toothpaste, tires, and televisions, Denali is l
 
 ## Comparison to Mature Pharma
 
-Large pharmaceutical companies like Merck or [Pfizer](/pfe-stock/) have dozens of marketed drugs and steady revenue. They spend on research because they must replace drugs that lose patent protection, but they also generate cash from existing products. Denali has no existing products and no revenue. If a big pharma firm fails one trial, it absorbs the cost and moves on with other business. If Denali fails one trial for a major program, it is a setback that affects the entire company and its ability to fund the next trial.
+Large pharmaceutical companies like [Merck](/mrk-stock/) or [Pfizer](/pfe-stock/) have dozens of marketed drugs and steady revenue. They spend on research because they must replace drugs that lose patent protection, but they also generate cash from existing products. Denali has no existing products and no revenue. If a big pharma firm fails one trial, it absorbs the cost and moves on with other business. If Denali fails one trial for a major program, it is a setback that affects the entire company and its ability to fund the next trial.
 
 ## What to Watch
 

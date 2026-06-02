@@ -11,15 +11,15 @@ keywords:
 handwritten: true
 ---
 
-**Single-stock leverage.** NFXL bets on Netflix stock, doubled. Built by Direxion for traders who want to amplify NFLX exposure without buying on margin. Holds no Netflix shares. Uses total-return swaps — the fund pays a bank a small spread, the bank pays NFXL twice the daily gain (or twice the daily loss) of Netflix common stock. Rebalances at close every day to reset the 2X multiplier.
+**Single-stock leverage.** NFXL bets on [Netflix](/nflx-stock/) stock, doubled. Built by Direxion for traders who want to amplify NFLX exposure without buying on margin. Holds no Netflix shares. Uses total-return swaps — the fund pays a bank a small spread, the bank pays NFXL twice the daily gain (or twice the daily loss) of Netflix [common stock](/common-stock/). Rebalances at close every day to reset the 2X multiplier.
 
 **The numbers game.** On a day Netflix gains 2%, NFXL targets 4%. On a 2% loss, NFXL aims for 4% down. Simple in theory. Treacherous in reality. Volatility decay hits single-stock leverage harder than diversified leverage because a single stock can swing 10% in a day. Two 5% rallies don't equal one 10% rally when you're using daily rebalancing — the math erodes the returns. Sideways trading destroys the fund: Netflix flat for a week, NFXL drops 5%.
 
 **Who uses this.** Professionals running a tactical short-term bet on Netflix earnings, product announcements, or a narrative shift. Day traders. Hedge-fund derivatives desks. No one else should own it. Definitely not for holding past earnings; definitely not for a retirement account.
 
-**The costs.** Expense ratio disclosed in the prospectus. Add financing spread on the swap, bid-ask slippage, and the daily rebalancing drag. Actual cost to the investor is never as low as the stated fee. In a volatile market, the hidden costs can double the real drag on returns.
+**The costs.** [Expense ratio](/expense-ratio/) disclosed in the prospectus. Add financing spread on the swap, bid-ask slippage, and the daily rebalancing drag. Actual cost to the investor is never as low as the stated fee. In a volatile market, the hidden costs can double the real drag on returns.
 
-**Real risks.** Netflix stock can move 10% or more in a day on earnings or product news. NFXL can move 20%. A bad quarter, a subscriber miss, or a competitive threat can sink the stock 30% in a month. NFXL falls 60%. There is also counterparty risk on the swap: the bank paying you the daily return — though if the bank is major and well-rated, this risk is very small. The bigger risk is behavioral: leverage seduces overconfidence.
+**Real risks.** Netflix stock can move 10% or more in a day on earnings or product news. NFXL can move 20%. A bad quarter, a subscriber miss, or a competitive threat can sink the stock 30% in a month. NFXL falls 60%. There is also [counterparty risk](/counterparty-risk/) on the swap: the bank paying you the daily return — though if the bank is major and well-rated, this risk is very small. The bigger risk is behavioral: leverage seduces overconfidence.
 
 **Volatility decay in slow markets.** NFLX rallies 10%, NFXL up 20%. Sounds great. Then NFLX drifts sideways or slowly down for two weeks. The leverage that amplified the gain now amplifies the decline. The fund value erodes daily from the rebalancing math, and a trader who bought at the high finds themselves substantially underwater despite being right about the direction — just not right enough, fast enough, to beat the decay.
 

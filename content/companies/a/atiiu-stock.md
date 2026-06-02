@@ -13,19 +13,19 @@ handwritten: true
 
 > "A SPAC is a capital-raising vehicle in search of an operating company — a reverse of the traditional IPO, where the business plan comes first and the shell comes second."
 
-Archimedes Tech SPAC Partners II Co., ticker ATIIU, is a special-purpose acquisition company formed to find and merge with a technology company. The sponsor is Archimedes Capital, and the unit includes both common stock and warrant. Like all SPACs, Archimedes Tech SPAC Partners II is born with cash (raised from public investors at the IPO) but with no operating business, no revenue, and a defined deadline — typically two to three years — to complete a merger or return capital to shareholders.
+[Archimedes Tech SPAC Partners II](/atii-stock/) Co., ticker ATIIU, is a [special-purpose acquisition company](/special-purpose-acquisition-company/) formed to find and merge with a technology company. The sponsor is Archimedes Capital, and the unit includes both [common stock](/common-stock/) and warrant. Like all SPACs, Archimedes Tech SPAC Partners II is born with cash (raised from public investors at the IPO) but with no operating business, no revenue, and a defined deadline — typically two to three years — to complete a [merger](/merger/) or return capital to shareholders.
 
 ## The SPAC thesis in outline
 
 The structure grew out of an appealing premise: Many promising private companies face barriers to going public. Raising capital for an IPO is expensive, time-consuming, and requires sustained investor appetite for new offerings. A SPAC offers an alternative exit for founders and early investors. Rather than a traditional IPO roadshow, a private company can merge with a public shell and emerge as a public company, often with a shorter timeline and more negotiating flexibility on valuation and terms.
 
-From the sponsor's side, the economics are also appealing. Archimedes Capital commits a small amount of capital (the sponsor stake, typically 20% of the trust) to form the SPAC, then earns management fees from the trust and a large financial interest in the eventual merged company if the merger succeeds. That alignment — where the sponsor's return depends on finding a good deal — was theoretically a check on reckless dealmaking.
+From the sponsor's side, the economics are also appealing. Archimedes Capital commits a small amount of capital (the sponsor stake, typically 20% of the trust) to form the SPAC, then earns [management fees](/management-fee/) from the trust and a large financial interest in the eventual merged company if the merger succeeds. That alignment — where the sponsor's return depends on finding a good deal — was theoretically a check on reckless dealmaking.
 
 ## The unit structure and post-split trading
 
 ATIIU is a unit that combines one share of common stock with one warrant (or, often, a fraction of a warrant). Investors can hold the unit intact or split it into the common and warrant, which then trade under separate tickers. The unit price reflects the price of both components; as the merger hunt proceeds, the common and warrant typically trade at a discount or premium to each other depending on investor sentiment and the perceived likelihood of a successful merger.
 
-When investors own ATIIU, they are betting both on Archimedes Capital's ability to identify a compelling technology target and on the merged company's post-merger performance. The warrant is a call option on the merged entity, usually exercisable for some years after the merger closes. The common stock represents direct equity ownership of the eventual merged company.
+When investors own ATIIU, they are betting both on Archimedes Capital's ability to identify a compelling technology target and on the merged company's post-merger performance. The warrant is a [call option](/call-option/) on the merged entity, usually exercisable for some years after the merger closes. The common stock represents direct equity ownership of the eventual merged company.
 
 ## A typical SPAC timeline
 

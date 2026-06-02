@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TTEQ is a basket of technology stocks. You get roughly 60 to 80 different companies covering software, semiconductors, internet, and hardware. The key difference from a plain index fund is who picks the stocks: T. Rowe Price analysts decide what to own, not an algorithm that weights by market cap. The bet is simple — humans who study tech all day can choose better companies than a passive rule.
+TTEQ is a basket of technology stocks. You get roughly 60 to 80 different companies covering software, semiconductors, internet, and hardware. The key difference from a plain [index fund](/index-fund/) is who picks the stocks: T. Rowe Price analysts decide what to own, not an algorithm that weights by [market cap](/market-capitalization/). The bet is simple — humans who study tech all day can choose better companies than a passive rule.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,13 +33,13 @@ This is the active-management argument in its purest form. In a sprawling, heter
 
 ## What's inside matters
 
-The fund typically holds 60 to 80 companies. That's enough to give you real diversification — you are not betting on three mega-caps — but not so many that the portfolio becomes a index clone. The analysts are making real choices: which semiconductor makers have durable edges, which software firms will retain customers, which hardware makers can command premium prices. The portfolio tilts toward what they think is cheap and away from what they think is expensive.
+The fund typically holds 60 to 80 companies. That's enough to give you real [diversification](/diversification/) — you are not betting on three mega-caps — but not so many that the portfolio becomes a index clone. The analysts are making real choices: which semiconductor makers have durable edges, which software firms will retain customers, which hardware makers can command premium prices. The portfolio tilts toward what they think is cheap and away from what they think is expensive.
 
-TTEQ does not try to track the broader Nasdaq or the Technology Select Sector index. The holdings differ, the weights differ. That's the whole point. If the analysts are right, the fund outperforms the index by enough to cover its costs and then some. If they are wrong, the fund trails while charging higher fees. There is no middle ground.
+TTEQ does not try to track the broader [Nasdaq](/nasdaq/) or the Technology Select Sector index. The holdings differ, the weights differ. That's the whole point. If the analysts are right, the fund outperforms the index by enough to cover its costs and then some. If they are wrong, the fund trails while charging higher fees. There is no middle ground.
 
 ## The cost of opinions
 
-TTEQ's expense ratio is higher than a passive technology index fund. You are paying salaries for the analysts who research companies, trading costs when the portfolio is rebalanced, and profit margins for T. Rowe Price. Whether you get your money's worth is the essential question. Some years active tech pickers do beat the index; some years they do not. Betting that T. Rowe Price's team is in the first group is the thesis.
+TTEQ's [expense ratio](/expense-ratio/) is higher than a passive technology index fund. You are paying salaries for the analysts who research companies, trading costs when the portfolio is rebalanced, and profit margins for T. Rowe Price. Whether you get your money's worth is the essential question. Some years active tech pickers do beat the index; some years they do not. Betting that T. Rowe Price's team is in the first group is the thesis.
 
 The fund trades on NASDAQ during market hours. Volume is decent, so buying and selling is typically smooth — no surprises on price slippage.
 
@@ -55,4 +55,4 @@ The third risk is that individual company picks might be badly wrong. Even a div
 
 Compare TTEQ to a plain technology index — the Technology Select Sector SPDR or a Nasdaq-focused fund — and look at the long-term track record. After costs, does TTEQ beat the index? That is the scorecard. Beat it consistently, and the active management is paying for itself. Trail it consistently, and you are paying for underperformance.
 
-Read T. Rowe Price's annual reports and holdings lists. See which companies they own, how the portfolio changed year to year, which bets they made and which they unwound. Check the prospectus for the exact objectives and strategy. Compare the earnings reports of the companies inside TTEQ to spot whether the analysts' bets seem to be panning out. Finally, ask yourself a hard question: do you believe humans researching technology companies can beat an index consistently enough to justify higher fees? If the answer is no, an index fund is cheaper.
+Read T. Rowe Price's [annual reports](/10-k/) and holdings lists. See which companies they own, how the portfolio changed year to year, which bets they made and which they unwound. Check the prospectus for the exact objectives and strategy. Compare the earnings reports of the companies inside TTEQ to spot whether the analysts' bets seem to be panning out. Finally, ask yourself a hard question: do you believe humans researching technology companies can beat an index consistently enough to justify higher fees? If the answer is no, an index fund is cheaper.

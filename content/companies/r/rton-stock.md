@@ -27,7 +27,7 @@ Right On Brands operates at the intersection of footwear design, licensing, and 
 
 ## The footwear distribution and design business
 
-The footwear industry is segmented into tiers: mass-market shoes with minimal brand power, premium brands (Nike, Adidas, New Balance) that command devoted followings and significant scale, and a broad middle where smaller brands compete on niches, price, or regional reputation. Right On Brands sits in that middle, making its money by designing and distributing shoes under multiple brand names and through multiple channels.
+The footwear industry is segmented into tiers: mass-market shoes with minimal brand power, premium brands ([Nike](/nke-stock/), Adidas, New Balance) that command devoted followings and significant scale, and a broad middle where smaller brands compete on niches, price, or regional reputation. Right On Brands sits in that middle, making its money by designing and distributing shoes under multiple brand names and through multiple channels.
 
 The company operates through a portfolio of brands — the most significant of which are Saucony, Brooks, and Merrell, though Right On also holds or has held interests in other footwear properties. The business model is partly vertical: Right On designs products in-house and manages manufacturing relationships, then sells the finished shoes through wholesale accounts (sporting-goods retailers, department stores, specialty shops) and through direct-to-consumer channels including the company's own websites and retail locations.
 
@@ -55,7 +55,7 @@ The company is also exposed to the wholesale channel itself. If a major retail c
 
 Like most shoe brands, Right On does not own manufacturing facilities. Instead, it sources production from contract manufacturers, mostly in Asia. This asset-light model keeps capital requirements low and lets the company scale production up or down without building new factories. The trade-off is dependence on supplier reliability and exposure to supply-chain disruptions: shipping delays, tariffs, labor costs, and geopolitical tension all ripple through the cost structure and the ability to fulfill orders on time.
 
-Footwear manufacturing also faces persistent wage inflation in the lowest-cost countries. As wages rise in Vietnam, Cambodia, and Bangladesh — the traditional low-cost bases — manufacturers either shift to even newer low-cost countries, invest in automation, or accept lower margins. Right On's profitability hinges partly on management's ability to keep manufacturing costs under control while maintaining product quality.
+Footwear manufacturing also faces persistent wage [inflation](/inflation/) in the lowest-cost countries. As wages rise in Vietnam, Cambodia, and Bangladesh — the traditional low-cost bases — manufacturers either shift to even newer low-cost countries, invest in automation, or accept lower margins. Right On's profitability hinges partly on management's ability to keep manufacturing costs under control while maintaining product quality.
 
 ## Risks and market pressures
 

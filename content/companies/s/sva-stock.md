@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Sinovac Biotech Ltd develops, manufactures, and distributes vaccines against infectious diseases, with a portfolio spanning COVID-19, influenza, poliomyelitis, hepatitis, varicella, and hand-foot-and-mouth disease. Founded in China and trading on NASDAQ under ticker SVA, Sinovac has grown into one of the world's largest vaccine producers by dose volume, serving both domestic Chinese markets and a global customer base across more than 60 countries. The company's customers — health ministries, immunisation programs, hospitals, and individual patients — buy vaccines to prevent disease in vulnerable populations from infants to the elderly.
+Sinovac Biotech Ltd develops, manufactures, and distributes vaccines against infectious diseases, with a portfolio spanning COVID-19, influenza, poliomyelitis, hepatitis, varicella, and hand-foot-and-mouth disease. Founded in China and trading on [NASDAQ](/nasdaq/) under ticker SVA, Sinovac has grown into one of the world's largest vaccine producers by dose volume, serving both domestic Chinese markets and a global customer base across more than 60 countries. The company's customers — health ministries, immunisation programs, hospitals, and individual patients — buy vaccines to prevent disease in vulnerable populations from infants to the elderly.
 
 <aside class="wiki-infobox">
 <img src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f3?w=600&q=80" alt="Medical vials and syringes arranged on a white surface." />
@@ -30,7 +30,7 @@ Sinovac Biotech Ltd develops, manufactures, and distributes vaccines against inf
 
 ## A vaccine-maker in a global supply chain
 
-Sinovac makes inactivated vaccines — a technology where the virus is chemically killed before being formulated into a vaccine. This approach contrasts with mRNA vaccines (used by Pfizer and Moderna) or live-attenuated vaccines (weakened-virus forms). Inactivated vaccines are stable at refrigerator temperatures, relatively simple to manufacture at scale, and have a long track record of safety across many disease areas. For Sinovac's customers — particularly in lower-income countries and emerging markets with limited cold-chain infrastructure — the temperature stability and manufacturing simplicity are major selling points.
+Sinovac makes inactivated vaccines — a technology where the virus is chemically killed before being formulated into a vaccine. This approach contrasts with mRNA vaccines (used by [Pfizer](/pfe-stock/) and [Moderna](/mrna-stock/)) or live-attenuated vaccines (weakened-virus forms). Inactivated vaccines are stable at refrigerator temperatures, relatively simple to manufacture at scale, and have a long track record of safety across many disease areas. For Sinovac's customers — particularly in lower-income countries and emerging markets with limited cold-chain infrastructure — the temperature stability and manufacturing simplicity are major selling points.
 
 The company's vaccine portfolio spans childhood immunisations (hepatitis A, poliomyelitis, varicella, mumps), traveller vaccines, and pandemic-response products. Each vaccine requires regulatory approval in target markets, manufacturing capacity to meet demand, and a supply-chain network to distribute to clinics and hospitals. Sinovac operates manufacturing plants in China and partnerships for international distribution, positioning it to serve both domestic Chinese immunisation programs and global buyers.
 
@@ -48,7 +48,7 @@ The cost structure includes research and development (for new vaccines and formu
 
 ## Competitive and regulatory landscape
 
-Sinovac competes with other vaccine makers globally, including large multinational companies like Merck and Sanofi Pasteur, as well as other Chinese and Indian vaccine manufacturers. The competitive dynamics vary by vaccine: in COVID-19, competition has intensified as the market matured from pandemic urgency to endemic disease management and booster campaigns. In routine vaccines like hepatitis, Sinovac competes on price and regulatory acceptance in target markets.
+Sinovac competes with other vaccine makers globally, including large multinational companies like [Merck](/mrk-stock/) and [Sanofi](/sny-stock/) Pasteur, as well as other Chinese and Indian vaccine manufacturers. The competitive dynamics vary by vaccine: in COVID-19, competition has intensified as the market matured from pandemic urgency to endemic disease management and booster campaigns. In routine vaccines like hepatitis, Sinovac competes on price and regulatory acceptance in target markets.
 
 Regulatory approval is a key constraint on growth. Each vaccine and each country require separate regulatory pathways, clinical trials, and manufacturing inspections. Sinovac has worked to secure approvals in major markets, including the European Union and the United States, though full licensing in some developed countries remains limited. The company's primary addressable markets are China (where it supplies government immunisation programs) and emerging markets where inactivated vaccines are preferred or where price is a decisive factor.
 

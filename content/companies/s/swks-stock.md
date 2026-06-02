@@ -31,7 +31,7 @@ Mobile phones and wireless devices need two kinds of chip. The processor — the
 
 Skyworks and a handful of competitors — [Broadcom](/avgo-stock/), Qorvo, MediaTek — solve this problem. They design the integrated circuits that handle these analog-to-RF conversions, and they have become so specialized and entrenched in the supply chain that replacing them would mean redesigning entire phone architectures. That is what gives the company its moat.
 
-The business is almost pure design and sales. Skyworks fabless — it owns no fabs — and contracts all manufacture to external foundries, primarily Taiwan Semiconductor Manufacturing Company (TSMC). The capital-light model means Skyworks can invest heavily in engineering without carrying the fixed cost burden of a manufacturing plant. The tradeoff is total dependence on foundry partners for yields and delivery, which has been an increasing risk as semiconductor supply chains have tightened.
+The business is almost pure design and sales. Skyworks fabless — it owns no fabs — and contracts all manufacture to external foundries, primarily [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company (TSMC). The capital-light model means Skyworks can invest heavily in engineering without carrying the fixed cost burden of a manufacturing plant. The tradeoff is total dependence on foundry partners for yields and delivery, which has been an increasing risk as semiconductor supply chains have tightened.
 
 ## The diversified dependence
 

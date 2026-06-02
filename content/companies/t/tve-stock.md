@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Tennessee Valley Authority stands as one of the most ambitious and controversial infrastructure projects in American history. Created during the Great Depression as a regional development agency by Congress, the TVA was tasked with harnessing the waters of the Tennessee River and its tributaries to generate power, prevent floods, improve navigation, and lift an impoverished region toward prosperity. Nearly a century later, it remains the largest publicly owned power company in the United States, serving millions of people across a seven-state region in the South and Southeast.
+The Tennessee Valley Authority stands as one of the most ambitious and controversial infrastructure projects in American history. Created during the [Great Depression](/great-depression/) as a regional development agency by Congress, the TVA was tasked with harnessing the waters of the Tennessee River and its tributaries to generate power, prevent floods, improve navigation, and lift an impoverished region toward prosperity. Nearly a century later, it remains the largest publicly owned power company in the United States, serving millions of people across a seven-state region in the South and Southeast.
 
 ## The founding vision and the Depression era
 
@@ -37,9 +37,9 @@ Some TVA nuclear plants were abandoned mid-construction or shut down after opera
 
 ## The modern power mix and energy transition
 
-Today, the TVA generates electricity from three main sources: hydroelectric dams, nuclear reactors, and fossil fuels. Hydropower provides reliable baseload and peak-load capacity; nuclear reactors generate steady, high-volume zero-carbon power; and coal, natural gas, and a growing renewable component make up the remainder.
+Today, the TVA generates electricity from three main sources: hydroelectric dams, nuclear reactors, and fossil fuels. Hydropower provides reliable baseload and peak-load capacity; nuclear reactors generate steady, high-volume zero-carbon power; and coal, [natural gas](/natural-gas/), and a growing renewable component make up the remainder.
 
-The agency's ownership structure remains unique: TVA is federally chartered and publicly owned, not a private corporation. This means rates are set by an appointed Board of Directors, not market forces, and the agency has a public mission beyond profit maximization. Electricity is priced to recover costs and fund improvements, but the goal is affordability for the region and reliable service, not shareholder return.
+The agency's ownership structure remains unique: TVA is federally chartered and publicly owned, not a private corporation. This means rates are set by an appointed [Board of Directors](/board-of-directors/), not market forces, and the agency has a public mission beyond profit maximization. Electricity is priced to recover costs and fund improvements, but the goal is affordability for the region and reliable service, not shareholder return.
 
 ## The challenges of an aging utility
 
@@ -63,6 +63,6 @@ The Tennessee Valley Authority remains a monument to New Deal ambition and a liv
 
 ## How to research the TVA
 
-Start with the TVA's annual report and investor relations materials, which discuss the agency's financial condition, rate decisions, and strategic priorities. The TVA files with the SEC (CIK 0001376986) and maintains public reports on its operations and long-term planning. Review the TVA's Integrated Resource Plan, which lays out the agency's vision for future generation and investments.
+Start with the TVA's [annual report](/10-k/) and investor relations materials, which discuss the agency's financial condition, rate decisions, and strategic priorities. The TVA files with the SEC (CIK 0001376986) and maintains public reports on its operations and long-term planning. Review the TVA's Integrated Resource Plan, which lays out the agency's vision for future generation and investments.
 
 Monitor announcements about rate changes, plant retirements, and new renewable-generation projects. Track the TVA's stock performance alongside broader utility-sector trends and comparisons to other major regional utilities. Follow news about the agency's governance and Board decisions, as these reflect the political environment shaping the utility's future direction. Finally, assess the TVA's strategic position: is it investing adequately in grid modernization, renewable energy, and reliability, or is it falling behind other utilities in the energy transition?

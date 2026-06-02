@@ -4,7 +4,7 @@ description: "A multinational life and property insurance operator headquartered
 keywords: ["insurance", "Asia", "China", "life-insurance", "Beijing", "Hong Kong", "CIK-1268896"]
 ---
 
-*China Life Insurance—listed in the U.S. as **CILFY**—is one of the world's largest life and property insurers by premium volume, operating across mainland China, Hong Kong, Macau, and Taiwan. Unlike Western peers built on actuarial innovation or risk-pooling efficiency, CILFY inherits its competitive position from the Chinese state insurance monopoly that governed its founding, now competing in an increasingly liberalized market where regulatory favor and branch density remain its primary moats.*
+*[China Life Insurance](/ciljf-stock/)—listed in the U.S. as **CILFY**—is one of the world's largest life and property insurers by premium volume, operating across mainland China, Hong Kong, Macau, and Taiwan. Unlike Western peers built on actuarial innovation or risk-pooling efficiency, CILFY inherits its competitive position from the Chinese state insurance monopoly that governed its founding, now competing in an increasingly liberalized market where regulatory favor and branch density remain its primary moats.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CILFY</td></tr>

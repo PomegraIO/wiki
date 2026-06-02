@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*KraneShares 2x Long BABA Daily ETF (KBAB) is a leveraged exchange-traded fund that attempts to deliver twice the daily percentage movement of Alibaba Group's shares. It is a tactical trading instrument, not a long-term investment vehicle: the daily rebalancing that creates the 2x leverage means the fund's returns diverge sharply from twice the return over longer holding periods, particularly in volatile markets.*
+*KraneShares 2x Long BABA Daily ETF (KBAB) is a leveraged exchange-traded fund that attempts to deliver twice the daily percentage movement of Alibaba Group's shares. It is a tactical trading instrument, not a long-term investment vehicle: the daily rebalancing that creates the 2x leverage means the fund's returns diverge sharply from twice the return over longer [holding periods](/holding-period/), particularly in volatile markets.*
 
 <aside class="wiki-infobox">
 <table>
@@ -28,11 +28,11 @@ handwritten: true
 
 KBAB holds Alibaba Group stock, the e-commerce and cloud-services giant. It does not diversify across other holdings; it is essentially a single-stock bet, amplified. The fund may also hold cash, futures, or swap contracts as part of its daily rebalancing mechanism, but the economic exposure is purely to Alibaba.
 
-Alibaba is a multinational company with American Depositary Receipts traded on NYSE under ticker BABA. Its core business spans online marketplaces (Taobao and Tmall), cloud computing (Alibaba Cloud), and digital payments (Alipay), with exposure to logistics, advertising, and financial services. It ranks among the largest companies globally by market capitalisation, but trades on US exchanges, making it accessible to American investors.
+Alibaba is a multinational company with [American Depositary Receipts](/adr/) traded on NYSE under ticker BABA. Its core business spans online marketplaces (Taobao and Tmall), cloud computing (Alibaba Cloud), and digital payments (Alipay), with exposure to logistics, advertising, and financial services. It ranks among the largest companies globally by market capitalisation, but trades on US exchanges, making it accessible to American investors.
 
 ## Mechanics of 2x daily leverage
 
-KBAB aims to deliver daily returns that are twice the daily returns of BABA. If BABA rises 1 per cent in a day, KBAB targets a 2 per cent rise. If BABA falls 1 per cent, KBAB targets a 2 per cent fall. This leverage is achieved through the fund manager's use of borrowing, derivatives, or futures contracts to amplify daily exposure.
+KBAB aims to deliver daily returns that are twice the daily returns of BABA. If BABA rises 1 per cent in a day, KBAB targets a 2 per cent rise. If BABA falls 1 per cent, KBAB targets a 2 per cent fall. This leverage is achieved through the fund manager's use of borrowing, derivatives, or [futures contracts](/futures-contract/) to amplify daily exposure.
 
 The fund rebalances every single trading day to maintain the 2x ratio. This daily reset is essential to understanding why KBAB behaves so differently from "twice the annual return of BABA" — even though the daily targeting is mathematically consistent.
 
@@ -44,9 +44,9 @@ This effect — leveraged funds degrading in value despite the underlying asset 
 
 ## Costs and the erosion of leverage
 
-KBAB carries a higher expense ratio than a simple single-stock holding or an unleveraged Alibaba ETF, because daily rebalancing activity, the use of leverage, and management overhead all cost money. These costs compound over time. Holding KBAB for a year is mathematically different from holding BABA and reinvesting for a year, and the difference typically works against the leveraged fund unless the underlying stock moves in a strong, consistent direction.
+KBAB carries a higher [expense ratio](/expense-ratio/) than a simple single-stock holding or an unleveraged Alibaba ETF, because daily rebalancing activity, the use of leverage, and management overhead all cost money. These costs compound over time. Holding KBAB for a year is mathematically different from holding BABA and reinvesting for a year, and the difference typically works against the leveraged fund unless the underlying stock moves in a strong, consistent direction.
 
-The fund trades on NASDAQ throughout the day with reasonable liquidity. Bid-ask spreads are typically tight, allowing quick entry and exit for traders.
+The fund trades on [NASDAQ](/nasdaq/) throughout the day with reasonable liquidity. [Bid-ask spreads](/bid-ask-spread/) are typically tight, allowing quick entry and exit for traders.
 
 ## China risk and regulatory headwinds
 
@@ -56,7 +56,7 @@ Alibaba is also subject to geopolitical tension between the US and China, which 
 
 ## Concentration and total loss risk
 
-Because the fund holds only Alibaba, the entire portfolio depends on one company's performance. There is no diversification buffer. The leverage means a 50 per cent decline in BABA results in approximately a 100 per cent loss in KBAB — the fund can be wiped out entirely from a single-stock move.
+Because the fund holds only Alibaba, the entire portfolio depends on one company's performance. There is no [diversification](/diversification/) buffer. The leverage means a 50 per cent decline in BABA results in approximately a 100 per cent loss in KBAB — the fund can be wiped out entirely from a single-stock move.
 
 ## Who this fund is for
 
@@ -66,6 +66,6 @@ Even traders should understand volatility-decay mechanics and the costs of holdi
 
 ## How to research the fund
 
-Start with the fund's factsheet and prospectus, which detail the expense ratio, rebalancing mechanism, and historical volatility. Compare the fund's performance against twice the daily returns of BABA over short periods — one week, one month — to verify it is meeting its stated daily objective. Then observe over longer periods: compare annual returns of KBAB versus twice the annual return of BABA to see the cumulative effect of volatility decay.
+Start with the fund's factsheet and prospectus, which detail the expense ratio, rebalancing mechanism, and [historical volatility](/historical-volatility/). Compare the fund's performance against twice the daily returns of BABA over short periods — one week, one month — to verify it is meeting its stated daily objective. Then observe over longer periods: compare annual returns of KBAB versus twice the annual return of BABA to see the cumulative effect of volatility decay.
 
 Monitor news about regulatory actions affecting Alibaba in China or the United States. Any material change in Alibaba's operating environment directly impacts KBAB. Understand that holding KBAB is fundamentally different from holding BABA — you are trading daily volatility and rebalancing mechanics, not simply owning the underlying company at an amplified scale.

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Ameren Illinois Co is a regulated utility that generates, transmits, and distributes electricity and natural gas to millions of customers across central and southern Illinois. Like most utilities, it operates as a monopoly within its service territory, which means its rates and major capital decisions require regulatory approval rather than surviving in a competitive market. The company descends from a series of acquisitions and mergers that consolidated smaller regional utilities into one of Illinois's largest energy providers.
+[Ameren Illinois](/ailih-stock/) Co is a regulated utility that generates, transmits, and distributes electricity and [natural gas](/natural-gas/) to millions of customers across central and southern Illinois. Like most utilities, it operates as a monopoly within its service territory, which means its rates and major capital decisions require regulatory approval rather than surviving in a competitive market. The company descends from a series of [acquisitions](/acquisition/) and [mergers](/merger/) that consolidated smaller regional utilities into one of Illinois's largest energy providers.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ The Illinois utility market was shaped in particular by the Electric Deregulatio
 
 ## How utilities make money from regulation, not markets
 
-A regulated utility like Ameren Illinois does not make money by selling electricity at a profit margin above its cost, the way a manufacturer might. Instead, it earns a stable, regulated return on the capital it invests in infrastructure. A customer pays a rate that the Illinois Commerce Commission has approved, after the utility presents detailed evidence of its costs (fuel, labor, depreciation on equipment, financing costs) and a reasonable profit margin on the assets it has deployed.
+A regulated utility like Ameren Illinois does not make money by selling electricity at a profit margin above its cost, the way a manufacturer might. Instead, it earns a stable, regulated return on the capital it invests in infrastructure. A customer pays a rate that the Illinois Commerce Commission has approved, after the utility presents detailed evidence of its costs (fuel, labor, [depreciation](/depreciation/) on equipment, financing costs) and a reasonable profit margin on the assets it has deployed.
 
 This model creates a very different business from a competitive one. There is no incentive to cut costs below the allowed level (doing so just gives away profit), so utilities face constant pressure from regulators and customer groups to justify their spending. Conversely, there is strong incentive to invest in capital — the regulatory framework rewards the company for investing in the grid and recovery of that investment, so a utility's growth comes from expanding the asset base it earns a return on.
 
@@ -43,7 +43,7 @@ The other major revenue stream is from the commodities itself: electricity gener
 
 ## The regulatory relationship and the rate case
 
-Ameren Illinois's profitability hinges on its relationship with the Illinois Commerce Commission. Every few years, the company files a rate case — a detailed proposal for new customer rates. The commission examines the utility's costs, the health of its infrastructure, its capital plans, and what return on equity is reasonable given the risk of the business and the cost of capital. That return becomes the guardrail on how much the company can earn.
+Ameren Illinois's profitability hinges on its relationship with the Illinois Commerce Commission. Every few years, the company files a rate case — a detailed proposal for new customer rates. The commission examines the utility's costs, the health of its infrastructure, its capital plans, and what [return on equity](/return-on-equity/) is reasonable given the risk of the business and the cost of capital. That return becomes the guardrail on how much the company can earn.
 
 This creates a tension. The utility wants rates high enough to cover costs and earn an attractive return. Customers and consumer advocates want rates as low as possible. Consumer groups often file testimony opposing rate increases. The commission tries to balance investment in grid reliability and future capacity against affordability. Significant rate cases can take a year or more to resolve, creating uncertainty about future revenues.
 

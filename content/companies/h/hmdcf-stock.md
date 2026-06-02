@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-HUTCHMED (China) is a biopharmaceutical company whose business revolves around the discovery, development, and commercialisation of novel drugs targeting cancer, with a growing portfolio that spans targeted small-molecule therapies and immunotherapies. The company is domiciled in Hong Kong but operates and generates the bulk of its revenue from mainland China, where it sits in a distinct niche: developing therapies for cancer indications that are either underserved in China or where the regulatory pathway moves faster than in Western markets. Its shares trade on the NASDAQ under the ticker HMDCF and are also listed in Hong Kong under SEHK: 0001.
+[HUTCHMED (China](/hcm-stock/)) is a biopharmaceutical company whose business revolves around the discovery, development, and commercialisation of novel drugs targeting cancer, with a growing portfolio that spans targeted small-molecule therapies and immunotherapies. The company is domiciled in Hong Kong but operates and generates the bulk of its revenue from mainland China, where it sits in a distinct niche: developing therapies for cancer indications that are either underserved in China or where the regulatory pathway moves faster than in Western markets. Its shares trade on the [NASDAQ](/nasdaq/) under the ticker HMDCF and are also listed in Hong Kong under SEHK: 0001.
 
 ## The business model: From discovery to Chinese commercialisation
 
@@ -30,7 +30,7 @@ HUTCHMED's pipeline has traditionally been populated with phase-2 and phase-3 ca
 
 ## Competition and the shifting landscape
 
-HUTCHMED competes in a field that has become dramatically more crowded. A decade ago, it was one of a handful of Chinese biotech firms with an in-house pipeline; today, dozens of companies have launched similar strategies, backed by more capital than HUTCHMED can access and deeper ties to academic institutions and hospitals. International oncology firms such as Pfizer, Roche, and Merck have also established substantial China operations and brought their global pipelines to the market. For HUTCHMED, differentiation depends on either moving faster to approve candidates for indications where demand is especially acute or on building a proprietary platform (such as immunotherapy) that rivals have not yet replicated at scale.
+HUTCHMED competes in a field that has become dramatically more crowded. A decade ago, it was one of a handful of Chinese biotech firms with an in-house pipeline; today, dozens of companies have launched similar strategies, backed by more capital than HUTCHMED can access and deeper ties to academic institutions and hospitals. International oncology firms such as [Pfizer](/pfe-stock/), Roche, and [Merck](/mrk-stock/) have also established substantial China operations and brought their global pipelines to the market. For HUTCHMED, differentiation depends on either moving faster to approve candidates for indications where demand is especially acute or on building a proprietary platform (such as immunotherapy) that rivals have not yet replicated at scale.
 
 ## How a reader would research it
 

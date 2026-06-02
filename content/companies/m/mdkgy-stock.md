@@ -70,7 +70,7 @@ This creates a dividend yield trap: a miner paying a 5% yield in a boom years lo
 
 ## Volatility and Sector Dynamics
 
-Merdeka's stock price is correlated with gold and copper prices, which are themselves driven by [global industrial](/gic-stock/) demand, [central bank](/central-bank/) policy, and macro risk sentiment. During [recessions](/recession/), industrial metals (copper) often fall; during inflation or geopolitical unrest, gold rallies. This creates sector-level dynamics that a shareholder must navigate.
+Merdeka's stock price is correlated with gold and copper prices, which are themselves driven by global industrial demand, [central bank](/central-bank/) policy, and macro risk sentiment. During [recessions](/recession/), industrial metals (copper) often fall; during inflation or geopolitical unrest, gold rallies. This creates sector-level dynamics that a shareholder must navigate.
 
 ---
 

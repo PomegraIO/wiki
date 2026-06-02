@@ -4,7 +4,7 @@ description: "US thermal coal producer, filed under SEC CIK 788965."
 keywords: ["coal mining", "thermal coal", "energy", "fossil fuels", "mining operations", "SEC filing"]
 ---
 
-*The US coal sector has contracted sharply since 2010, a reality reflected in the filings of surviving producers like **HALLADOR ENERGY CO (HNRG)**. Registered with the [SEC](/securities-and-exchange-commission/) under [CIK 788965](/10-k/), Hallador mines and sells thermal coal—fuel for power plants generating electricity—a business model facing structural headwinds from renewable energy adoption, tighter environmental regulation, and coal's declining share in the [US energy](/useg-stock/) mix.*
+*The US coal sector has contracted sharply since 2010, a reality reflected in the filings of surviving producers like **HALLADOR ENERGY CO (HNRG)**. Registered with the [SEC](/securities-and-exchange-commission/) under [CIK 788965](/10-k/), Hallador mines and sells thermal coal—fuel for power plants generating electricity—a business model facing structural headwinds from renewable energy adoption, tighter environmental regulation, and coal's declining share in the US energy mix.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>HNRG</td></tr>

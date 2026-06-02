@@ -47,7 +47,7 @@ The company's small size means it does not have the resources to bid on the larg
 
 ## Recent trouble and recovery
 
-In 2025, Springview ran into a compliance problem with Nasdaq, the stock exchange where it is listed. Nasdaq requires that all listed stocks trade above one dollar per share. Springview's shares had fallen below that level and stayed there for 30 consecutive business days, from March 13 to April 24, 2025. That triggered a warning from Nasdaq and put the company at risk of being delisted.
+In 2025, Springview ran into a compliance problem with [Nasdaq](/nasdaq/), the [stock exchange](/stock-exchange/) where it is listed. Nasdaq requires that all listed stocks trade above one dollar per share. Springview's shares had fallen below that level and stayed there for 30 consecutive business days, from March 13 to April 24, 2025. That triggered a warning from Nasdaq and put the company at risk of being delisted.
 
 To fix the problem, Springview executed a reverse share split on December 2, 2025. In a reverse split, the company takes a set number of existing shares and combines them into a smaller number. For example, in an 8-for-1 split, every 8 old shares become 1 new share. Owners still own the same percentage of the company, but the number of shares they hold is smaller.
 
@@ -67,7 +67,7 @@ Springview makes money through two mechanisms:
 
 **Markup on construction costs.** When the company bids for a project, it estimates the cost of labor, materials, and equipment, then adds a percentage on top to cover overhead and profit. For residential or commercial construction, this markup is typically 10 to 20 percent. For renovation and specialized work, markups can be higher because the work is more uncertain and labor-intensive.
 
-**Project management fees.** Some clients hire Springview to manage a construction project but source materials or labor themselves. In those cases, Springview charges a fee for managing the process, inspecting quality, and coordinating trades.
+**Project [management fees](/management-fee/).** Some clients hire Springview to manage a construction project but source materials or labor themselves. In those cases, Springview charges a fee for managing the process, inspecting quality, and coordinating trades.
 
 Both revenue streams depend on projects actually starting and finishing. A delayed or cancelled project means no revenue. A project that runs over budget or encounters problems can destroy profitability if the company bid too low.
 
@@ -75,8 +75,8 @@ Both revenue streams depend on projects actually starting and finishing. A delay
 
 Small construction contractors face constant pressure. Materials prices fluctuate, labor is hard to find and retain, and projects routinely encounter unexpected problems (hidden structural damage, permit delays, supply-chain disruptions). Springview must bid conservatively enough to cover these risks but competitively enough to win work.
 
-The company also depends on Singapore's property market. If developers slow construction during an economic slowdown, Springview's revenue shrinks. The company has limited geographic diversification—it operates primarily in Singapore, so it is exposed to that market's cycles.
+The company also depends on Singapore's property market. If developers slow construction during an economic slowdown, Springview's revenue shrinks. The company has limited geographic [diversification](/diversification/)—it operates primarily in Singapore, so it is exposed to that market's cycles.
 
-For anyone tracking Springview, the 10-K filing (SEC CIK 0002002236) shows which projects were active in the past year, the gross profit margins on different types of work, and how much cash the company has on hand. Watch for changes in backlog—the value of projects the company has won but not yet completed. A growing backlog suggests work ahead; a shrinking one suggests the company is struggling to win new projects.
+For anyone tracking Springview, the 10-K filing (SEC CIK 0002002236) shows which projects were active in the past year, the [gross profit margins](/gross-profit-margin/) on different types of work, and how much cash the company has on hand. Watch for changes in backlog—the value of projects the company has won but not yet completed. A growing backlog suggests work ahead; a shrinking one suggests the company is struggling to win new projects.
 
 The successful reverse split and return to Nasdaq compliance bought Springview time. The company remains listed and can still access capital markets if needed. But the real question is whether the construction market in Singapore is improving and whether Springview can win enough work to return to profitability and growth.

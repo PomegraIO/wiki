@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-WF International Limited provides integrated mechanical systems to large commercial real estate projects across China. The company designs, supplies, installs, and maintains heating, ventilation, air conditioning (HVAC) systems and water purification equipment in office towers, hotels, airports, hospitals, and manufacturing facilities. Based in Chengdu, the company was founded in 2009 and operates within the construction and building-services sector, which is tightly linked to China's real estate industry.
+WF International Limited provides integrated mechanical systems to large [commercial real estate](/commercial-real-estate/) projects across China. The company designs, supplies, installs, and maintains heating, ventilation, air conditioning (HVAC) systems and water purification equipment in office towers, hotels, airports, hospitals, and manufacturing facilities. Based in Chengdu, the company was founded in 2009 and operates within the construction and building-services sector, which is tightly linked to China's real estate industry.
 
 <aside class="wiki-infobox">
 <table>
@@ -36,7 +36,7 @@ WF's entire market is China. The company serves large-scale commercial projects 
 
 ## Financial performance and challenges
 
-WF International's most recent financial data shows trailing twelve-month revenue of $13.4 million and a trailing twelve-month net loss of $3.3 million. These figures suggest a company under stress. The narrow margin between revenue and loss indicates that WF is operating at or near breakeven on most projects, with little room for operational inefficiency, price competition, or unexpected cost overruns. Large engineering and construction projects often carry risks that project managers underestimate at the bidding stage — unexpected site conditions, material cost inflation, labor disputes, or client specification changes can erode margins quickly.
+WF International's most recent financial data shows trailing twelve-month revenue of $13.4 million and a trailing twelve-month net loss of $3.3 million. These figures suggest a company under stress. The narrow margin between revenue and loss indicates that WF is operating at or near breakeven on most projects, with little room for operational inefficiency, price competition, or unexpected cost overruns. Large engineering and construction projects often carry risks that project managers underestimate at the bidding stage — unexpected site conditions, material cost [inflation](/inflation/), labor disputes, or client specification changes can erode margins quickly.
 
 The company's small size relative to rivals and the competitive intensity of Chinese construction contracting create pricing pressure. Larger companies can absorb lower margins on individual projects because they have scale; WF cannot. This forces the company to compete on operational excellence, relationships, or specialized capabilities rather than on price alone.
 
@@ -46,4 +46,4 @@ The HVAC and building-systems market in China is fragmented, with hundreds of re
 
 ## The real estate dependency
 
-The core vulnerability for WF International is its dependence on China's real estate sector. Government policy directly affects construction activity — stimulus measures accelerate it, credit tightening slows it, and regulatory crackdowns on developer leverage can freeze entire segments of the market. WF has no geographic diversification and limited ability to pivot to other sectors. A sustained slowdown in Chinese commercial construction directly threatens the company's viability. This structural constraint makes WF a leveraged bet on the health and growth of China's real estate and construction markets.
+The core vulnerability for WF International is its dependence on China's real estate sector. Government policy directly affects construction activity — stimulus measures accelerate it, credit tightening slows it, and regulatory crackdowns on developer leverage can freeze entire segments of the market. WF has no geographic [diversification](/diversification/) and limited ability to pivot to other sectors. A sustained slowdown in Chinese commercial construction directly threatens the company's viability. This structural constraint makes WF a leveraged bet on the health and growth of China's real estate and construction markets.

@@ -23,7 +23,7 @@ The company likely grew through [acquisition](/acquisition/) — smaller local b
 
 ## Deposit Gathering Across Regions
 
-Midland States' upstream resource is deposits gathered from individuals, small businesses, and local governments in its service territories. Competitive advantages in deposit gathering are local branch presence, brand recognition in each market, and [interest rates](/interest-rate/) competitive with national and digital competitors. Unlike a true [national bank](/nbhc-stock/), Midland States cannot offer economies of scale on retail products as effectively; unlike a digital bank, it must maintain physical branches, which is costly.
+Midland States' upstream resource is deposits gathered from individuals, small businesses, and local governments in its service territories. Competitive advantages in deposit gathering are local branch presence, brand recognition in each market, and [interest rates](/interest-rate/) competitive with national and digital competitors. Unlike a true national bank, Midland States cannot offer economies of scale on retail products as effectively; unlike a digital bank, it must maintain physical branches, which is costly.
 
 Midland States likely competes by emphasizing local service and relationship: branch-based advice on loans, investment products, and financial planning. The company may also gather deposits through institutional relationships (municipal accounts, business sweep accounts) and through specialized products (brokered CDs from outside its footprint, bringing in deposits at market rates).
 

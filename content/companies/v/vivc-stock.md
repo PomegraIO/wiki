@@ -34,7 +34,7 @@ For context, those revenues place VIVIC as a small, specialized builder in a glo
 
 ## What are the risks and pressures facing VIVIC?
 
-The superyacht business is highly cyclical and sensitive to global wealth and sentiment. A recession that depresses high-net-worth spending can evaporate the order pipeline for years. Conversely, extended periods of low interest rates and rising asset values can cause a surge in orders, which can lead to capacity constraints and cost overruns if the company cannot scale production quickly.
+The superyacht business is highly cyclical and sensitive to global wealth and sentiment. A [recession](/recession/) that depresses high-net-worth spending can evaporate the order pipeline for years. Conversely, extended periods of low [interest rates](/interest-rate/) and rising asset values can cause a surge in orders, which can lead to capacity constraints and cost overruns if the company cannot scale production quickly.
 
 A second pressure is the fragmentation of VIVIC's market. Asia has many competitors in recreational and commercial marine. Larger Asian shipyards can undercut VIVIC on price; European and North American builders have stronger brand prestige; Chinese yards can compete on volume and cost. VIVIC is squeezed in the middle—smaller and less prestigious than Western heritage brands, but more expensive than pure-cost competitors in China or Korea. The company must therefore differentiate on bespoke design, quality, or service, which is profitable if it works but difficult to sustain if a larger player decides to compete in the same niche.
 
@@ -46,10 +46,10 @@ Finally, there is the concentrated-customer risk: if a few major clients represe
 
 ## How should an investor research VIVIC?
 
-Start with the company's SEC filings (CIK 0001703073), which include quarterly and annual reports on Form 10-Q and 10-K respectively. These lay out backlog (orders already placed but not yet fulfilled), revenue by customer and geography, gross margins, and cash position. For a manufacturing company, backlog is particularly important: it shows whether the order pipeline is healthy and when revenue will arrive.
+Start with the company's SEC filings (CIK 0001703073), which include quarterly and [annual reports](/10-k/) on Form 10-Q and 10-K respectively. These lay out backlog (orders already placed but not yet fulfilled), revenue by customer and geography, gross margins, and cash position. For a manufacturing company, backlog is particularly important: it shows whether the order pipeline is healthy and when revenue will arrive.
 
 Watch for announcements of major orders or customer wins in press releases and investor presentations. The company's website and social media presence reveal the yacht models in production, customization options, and the company's positioning within the market.
 
 Scan marine industry publications and superyacht trade journals for coverage of new competitors, shifts in buyer preferences (e.g., growing demand for electric yachts), and commentary on VIVIC's market share and competitive standing. Superyacht shows and marinas in Asia, where VIVIC's target buyers congregate, are also useful signals of whether orders are flowing.
 
-Finally, track the company's cash flow and balance sheet health. Yacht manufacturing requires upfront investment and carries long working-capital cycles. If VIVIC is burning cash faster than it is taking on orders, the company may need to raise capital or cut production, both of which are warning signs. Conversely, if the company is generating positive cash flow from operations and building backlog, it suggests that the current order environment is healthy and that the company has the financial runway to invest in capacity and new electric models.
+Finally, track the company's cash flow and [balance sheet](/balance-sheet/) health. Yacht manufacturing requires upfront investment and carries long working-capital cycles. If VIVIC is burning cash faster than it is taking on orders, the company may need to raise capital or cut production, both of which are warning signs. Conversely, if the company is generating positive cash flow from operations and building backlog, it suggests that the current order environment is healthy and that the company has the financial runway to invest in capacity and new electric models.

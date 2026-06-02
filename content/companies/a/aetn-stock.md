@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Aeternum Health operates in the [healthcare services](/hcsg-stock/) sector, specializing in diagnostic imaging and laboratory testing services. The company functions as a critical intermediary in the healthcare ecosystem, providing the clinical diagnostics and imaging services that physicians rely on to diagnose disease, monitor patient conditions, and guide treatment decisions. Like many companies in medical diagnostics, Aeternum's business depends fundamentally on volume, utilization rates, and payer reimbursement rates that determine profitability.
+Aeternum Health operates in the healthcare services sector, specializing in diagnostic imaging and laboratory testing services. The company functions as a critical intermediary in the healthcare ecosystem, providing the clinical diagnostics and imaging services that physicians rely on to diagnose disease, monitor patient conditions, and guide treatment decisions. Like many companies in medical diagnostics, Aeternum's business depends fundamentally on volume, utilization rates, and payer reimbursement rates that determine profitability.
 
 The company's revenue streams flow from multiple sources: direct patient billing for out-of-pocket costs, insurance reimbursement from Medicare and Medicaid (government programs), commercial insurance claims, and facility-based service agreements with healthcare systems and independent practices. The mix of payers significantly affects pricing power and margins. Medicare and Medicaid reimbursement rates are set by government and typically offer lower margins than commercial insurance, while out-of-pocket collections and facility contracts depend on volume and contractual terms.
 

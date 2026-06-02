@@ -33,19 +33,19 @@ Daily rebalancing is the mechanical heart of the fund. At the close of each trad
 
 ## The decay problem and why holding matters
 
-The fund's structure creates a subtle but devastating trap for long-term holders: volatility decay. Suppose DUOL rises 10% on day one, then falls 10% on day two—ending where it started. DUOG, by contrast, rises 20% on day one, then falls 20% on day two. A 20% gain followed by a 20% loss leaves the investor with 20% × 80% = 96% of their starting capital. The original stock investor holds 100%. Over weeks or months of normal market choppy swings, this compounding drag accumulates. Leveraged ETFs are essentially designed to leak value in sideways or volatile markets.
+The fund's structure creates a subtle but devastating trap for long-term holders: volatility decay. Suppose DUOL rises 10% on day one, then falls 10% on day two—ending where it started. DUOG, by contrast, rises 20% on day one, then falls 20% on day two. A 20% gain followed by a 20% loss leaves the investor with 20% × 80% = 96% of their starting capital. The original stock investor holds 100%. Over weeks or months of normal market choppy swings, this compounding drag accumulates. [Leveraged ETFs](/leveraged-etf/) are essentially designed to leak value in sideways or volatile markets.
 
 DUOG is intended exclusively as a single-day or multi-day tactical bet, not as a months-long position. An investor who buys DUOG expecting to hold through a Duolingo earnings season or strategic announcement is likely to see the leverage work against them if the stock swings violently in both directions along the way to any ultimate outcome.
 
 ## Catastrophic loss risk
 
-The fund's prospectus warns clearly: if Duolingo stock falls more than 50% relative to the fund, an investor could lose their entire position. With 2x leverage, a 50% decline in DUOL could wipe out DUOG. While Duolingo is a profitable company with a large market cap, no stock is immune from a sudden collapse if circumstances change dramatically. This fund amplifies both upside and downside equally.
+The fund's prospectus warns clearly: if Duolingo stock falls more than 50% relative to the fund, an investor could lose their entire position. With 2x leverage, a 50% decline in DUOL could wipe out DUOG. While Duolingo is a profitable company with a large [market cap](/market-capitalization/), no stock is immune from a sudden collapse if circumstances change dramatically. This fund amplifies both upside and downside equally.
 
 ## Who uses DUOG and how
 
-DUOG is used by active traders and sophisticated investors betting on a near-term Duolingo rally. It allows them to gain double exposure without managing a complex margin account. Some institutions use it for tactical rebalancing—gaining quick temporary overweight to a position before unwinding. Retail investors sometimes use it as a substitute for short-dated call options, though the mechanics are different.
+DUOG is used by active traders and sophisticated investors betting on a near-term Duolingo rally. It allows them to gain double exposure without managing a complex margin account. Some institutions use it for tactical rebalancing—gaining quick temporary overweight to a position before unwinding. Retail investors sometimes use it as a substitute for short-dated [call options](/call-option/), though the mechanics are different.
 
-The fund's expense ratio is moderate by leveraged-fund standards, but leverage fees and the cost of derivatives still matter. Liquidity is generally adequate because Duolingo itself is widely traded; the underlying equity provides ample opportunity to enter and exit the fund.
+The fund's [expense ratio](/expense-ratio/) is moderate by leveraged-fund standards, but leverage fees and the cost of derivatives still matter. Liquidity is generally adequate because Duolingo itself is widely traded; the underlying equity provides ample opportunity to enter and exit the fund.
 
 ## Research and position sizing
 

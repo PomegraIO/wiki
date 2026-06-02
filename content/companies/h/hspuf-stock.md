@@ -12,15 +12,15 @@ handwritten: true
 
 ## What is Horizon Space Acquisition I Corp.?
 
-Horizon Space Acquisition I Corp. is a blank-check company (or SPAC) incorporated in 2022 and headquartered in New York. The company lists on Nasdaq under several related ticker symbols: HSPOF for common stock on OTC markets, HSPOU for the original units when publicly listed, and HSPUF for the redeemable warrants. Each warrant is exercisable for one share of common stock at an exercise price of $11.50 per share, with an expiration date of March 2, 2029.
+Horizon Space [Acquisition](/acquisition/) I Corp. is a blank-check company (or SPAC) incorporated in 2022 and headquartered in New York. The company lists on [Nasdaq](/nasdaq/) under several related ticker symbols: HSPOF for [common stock](/common-stock/) on OTC markets, HSPOU for the original units when publicly listed, and HSPUF for the redeemable warrants. Each warrant is exercisable for one share of common stock at an [exercise price](/exercise-price/) of $11.50 per share, with an [expiration date](/expiration-date/) of March 2, 2029.
 
 ## Why did Horizon Space form?
 
-SPACs are vehicles designed to identify and merge with private operating companies, giving those companies rapid access to public equity capital without undergoing a traditional IPO. Horizon Space raised capital from public investors and committed to deploying that capital into a business combination within a defined timeframe. The structure offers both opportunity and risk: investors gain exposure to a company that may be early-stage or private, but they also accept dilution, management fees, and the possibility that no suitable deal materializes.
+SPACs are vehicles designed to identify and merge with private operating companies, giving those companies rapid access to public equity capital without undergoing a traditional IPO. Horizon Space raised capital from public investors and committed to deploying that capital into a [business combination](/business-combination-purchase/) within a defined timeframe. The structure offers both opportunity and risk: investors gain exposure to a company that may be early-stage or private, but they also accept dilution, [management fees](/management-fee/), and the possibility that no suitable deal materializes.
 
 ## What combination did it pursue?
 
-In September 2024, Horizon Space announced a definitive merger agreement with Squirrel Enlivened International Co., Ltd, a brand marketing and strategy consulting company operating in China. Squirrel Enlivened Media Group, based in Shenzhen, provides marketing solutions, product development, and brand image enhancement services to companies seeking to expand in Chinese markets, leveraging what the company describes as a methodology combining rational and emotional marketing approaches. The proposed transaction reflected a diversification of Horizon's target set beyond space-related companies, despite the SPAC's thematic name.
+In September 2024, Horizon Space announced a definitive [merger](/merger/) agreement with Squirrel Enlivened International Co., Ltd, a brand marketing and strategy consulting company operating in China. Squirrel Enlivened Media Group, based in Shenzhen, provides marketing solutions, product development, and brand image enhancement services to companies seeking to expand in Chinese markets, leveraging what the company describes as a methodology combining rational and emotional marketing approaches. The proposed transaction reflected a [diversification](/diversification/) of Horizon's target set beyond space-related companies, despite the SPAC's thematic name.
 
 ## What happened to the merger?
 
@@ -36,5 +36,5 @@ The core risk of any SPAC is that announced deals may fail to close, or no attra
 
 ## Where can investors research this?
 
-Horizon Space files regular reports with the Securities and Exchange Commission (SEC CIK 0001946021). Quarterly 10-Q filings and annual 10-K filings detail the status of merger discussions, the trust account balance, and updates on the deadline extension process. The SEC's EDGAR system is the authoritative source for SPAC filings and transaction announcements.
+Horizon Space files regular reports with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (SEC CIK 0001946021). Quarterly 10-Q filings and annual 10-K filings detail the status of merger discussions, the trust account balance, and updates on the deadline extension process. The SEC's EDGAR system is the authoritative source for SPAC filings and transaction announcements.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **VictoryShares Free Cash Flow Growth ETF** (ticker GFLW) is a passively managed exchange-traded fund that holds US companies selected primarily for their ability to generate free cash flow — the cash left over after a company pays the bills for running its operations and maintaining its assets.*
+*The **VictoryShares [Free Cash Flow](/free-cash-flow/) [Growth ETF](/growth-etf/)** (ticker GFLW) is a passively managed exchange-traded fund that holds US companies selected primarily for their ability to generate free cash flow — the cash left over after a company pays the bills for running its operations and maintaining its assets.*
 
 An ETF is simply a basket of stocks bundled into one ticker that trades on an exchange like a single share. You buy one unit of GFLW and you own a slice of dozens of companies. What makes GFLW distinctive is the screen it uses to pick those companies.
 
@@ -36,17 +36,17 @@ GFLW screens the large-cap US equity universe (companies with large market value
 
 VictoryShares is the sponsor, and GFLW is managed on a passive, index-tracking basis. That means the fund manager simply holds the companies the index specifies rather than making active buy-and-sell calls based on new analysis. You get no manager trying to time the market or pick winners; you get a rule-based screen that mechanically selects companies, rebalances on a schedule, and keeps turnover modest.
 
-The fund holds roughly one hundred US large-cap stocks. It trades on NASDAQ with high daily liquidity, meaning you can buy or sell shares without wide bid-ask spreads or difficulty finding a buyer on the other side of the trade. Expense costs are low — typically under 40 basis points (0.40%) per year — which means for every $10,000 you own, you pay less than $40 a year in fees. For a passively managed fund, that is a reasonable cost.
+The fund holds roughly one hundred US large-cap stocks. It trades on [NASDAQ](/nasdaq/) with high daily liquidity, meaning you can buy or sell shares without wide [bid-ask spreads](/bid-ask-spread/) or difficulty finding a buyer on the other side of the trade. Expense costs are low — typically under 40 basis points (0.40%) per year — which means for every $10,000 you own, you pay less than $40 a year in fees. For a [passively managed fund](/passively-managed-fund/), that is a reasonable cost.
 
 ## Why free cash flow matters in a portfolio
 
-Free cash flow is one of the oldest and most reliable signals of a healthy business. Companies that generate abundant free cash have leeway to invest in growth, pay dividends, buy back their own shares, or reduce debt. They are less dependent on constant capital raises from the market, which makes them more resilient in downturns. A company losing money or burning cash cannot survive long without outside capital; one generating strong free cash can flex its muscles.
+Free cash flow is one of the oldest and most reliable signals of a healthy business. Companies that generate abundant free cash have leeway to invest in growth, pay [dividends](/dividend/), buy back their own shares, or reduce debt. They are less dependent on constant capital raises from the market, which makes them more resilient in downturns. A company losing money or burning cash cannot survive long without outside capital; one generating strong free cash can flex its muscles.
 
 GFLW's approach is philosophically grounded in the idea that profitable, cash-generative companies tend to outperform the broader market over time. This is not a guarantee — the past decade has favored unprofitable growth companies that burn cash in pursuit of market share — but it is a bet supported by decades of academic research on value and quality.
 
 ## Costs, liquidity, and who this fund suits
 
-The expense ratio covers the operational cost of running the fund. At under 0.40% per year, it is competitive with other large-cap equity funds and reflects the low cost of passive management. You pay it automatically; it is deducted from your account by the fund before your returns are calculated.
+The [expense ratio](/expense-ratio/) covers the operational cost of running the fund. At under 0.40% per year, it is competitive with other large-cap equity funds and reflects the low cost of passive management. You pay it automatically; it is deducted from your account by the fund before your returns are calculated.
 
 GFLW trades on NASDAQ with solid daily volume, so you can move shares without friction. It is liquid enough for both small and large investors.
 
@@ -54,11 +54,11 @@ This fund works well for investors who believe profitable, cash-generative compa
 
 ## Risks specific to this fund
 
-GFLW carries all the risks of holding US large-cap equities: if the stock market falls broadly, this fund will fall with it. There is no way around that; it is simply part of owning stocks.
+GFLW carries all the risks of holding US large-cap equities: if the [stock market](/stock-market/) falls broadly, this fund will fall with it. There is no way around that; it is simply part of owning stocks.
 
 More subtly, the fund's screening for free cash flow and growth means it will underweight (or exclude) companies that the market temporarily prizes for other reasons — high growth with no current profitability, or cheap valuations with slowing cash flow. In years when unprofitable tech companies soar or deep-value stocks dominate, GFLW may lag the broader market. Concentrate too heavily on quality and you can lag for a time.
 
-The concentration of US large-cap companies also means you have no international diversification; a downturn specific to the US economy will hit this fund harder than a globally diversified portfolio would.
+The concentration of US large-cap companies also means you have no international [diversification](/diversification/); a downturn specific to the US economy will hit this fund harder than a globally diversified portfolio would.
 
 ## How to research this fund
 

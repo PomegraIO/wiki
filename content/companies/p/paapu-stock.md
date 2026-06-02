@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Think of Plains All American Pipeline as a moving company for oil. The company owns thousands of miles of steel pipe buried underground and underwater that carry crude oil, refined fuels, and natural gas liquids from where they come out of the ground to where they get refined or shipped to customers. It does not drill for oil, does not own refineries, and does not sell gasoline at a pump. It simply moves the stuff—and makes money by charging a fee for each barrel that flows through its pipes.
+Think of [Plains All American Pipeline](/paa-stock/) as a moving company for oil. The company owns thousands of miles of steel pipe buried underground and underwater that carry [crude oil](/crude-oil/), refined fuels, and [natural gas](/natural-gas/) liquids from where they come out of the ground to where they get refined or shipped to customers. It does not drill for oil, does not own refineries, and does not sell gasoline at a pump. It simply moves the stuff—and makes money by charging a fee for each barrel that flows through its pipes.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,15 +41,15 @@ Because the business model is so straightforward—collect fees, move volume—m
 
 ## Why the structure matters: Master Limited Partnership
 
-Plains All American is organized as a master limited partnership, or MLP. This is a tax structure where the company itself does not pay corporate income tax. Instead, investors receive partnership units (similar to shares) and get taxed on their share of the company's cash flows directly. MLPs are common in energy infrastructure because the structure allows companies to distribute most of their cash to investors, which is attractive for a business that does not reinvest heavily in growth.
+Plains All American is organized as a master limited partnership, or MLP. This is a tax structure where the company itself does not pay [corporate income tax](/corporate-income-tax/). Instead, investors receive partnership units (similar to shares) and get taxed on their share of the company's cash flows directly. MLPs are common in energy infrastructure because the structure allows companies to distribute most of their cash to investors, which is attractive for a business that does not reinvest heavily in growth.
 
-For investors, this means Plains tends to pay out a higher percentage of earnings as distributions (similar to a dividend) than a conventional corporation would. That draw is one reason investors own it.
+For investors, this means Plains tends to pay out a higher percentage of earnings as distributions (similar to a [dividend](/dividend/)) than a conventional corporation would. That draw is one reason investors own it.
 
 ## How it grew
 
-Plains All American took its current form in 1998 when Plains Resources and All American Pipeline merged, though the companies themselves had predecessors going back decades. The merged firm inherited two networks of pipes and a strong position in both crude oil and refined-product transportation. Over the next twenty years it grew through acquisitions, integrations, and expansions—building new pipes where demand existed, buying smaller pipeline companies, and extending into terminal operations and storage.
+Plains All American took its current form in 1998 when Plains Resources and All American Pipeline merged, though the companies themselves had predecessors going back decades. The merged firm inherited two networks of pipes and a strong position in both crude oil and refined-product transportation. Over the next twenty years it grew through [acquisitions](/acquisition/), integrations, and expansions—building new pipes where demand existed, buying smaller pipeline companies, and extending into terminal operations and storage.
 
-By the mid-2010s, Plains had become one of the three largest pipeline operators in North America, alongside Energy Transfer and Magellan Midstream. The shale revolution—which dramatically increased oil production in Texas, Oklahoma, and the Bakken formation—boosted volumes and required capacity expansion. Plains invested heavily in new pipes to move that crude from the wells to the coast and to refineries.
+By the mid-2010s, Plains had become one of the three largest pipeline operators in North America, alongside Energy Transfer and Magellan Midstream. The [shale revolution](/shale-revolution/)—which dramatically increased oil production in Texas, Oklahoma, and the Bakken formation—boosted volumes and required capacity expansion. Plains invested heavily in new pipes to move that crude from the wells to the coast and to refineries.
 
 ## What could threaten this business
 

@@ -12,7 +12,7 @@ handwritten: true
 
 > "We will deliver quantum computing solutions that solve real-world problems." — Pasqal's stated mission
 
-Bleichroeder [Acquisition](/acquisition/) Corp. II is a blank-check company that found its target. Unlike Cal Redwood and many other SPACs still hunting for deals, Bleichroeder announced on March 4, 2026 that it had signed a definitive agreement to merge with Pasqal Holding SAS, a French [quantum computing](/qubt-stock/) hardware company. The deal values Pasqal at $2 billion on a pre-money basis and is expected to close in the second half of 2026, subject to shareholder vote and regulatory approval.
+Bleichroeder [Acquisition](/acquisition/) Corp. II is a blank-check company that found its target. Unlike Cal Redwood and many other SPACs still hunting for deals, Bleichroeder announced on March 4, 2026 that it had signed a definitive agreement to merge with Pasqal Holding SAS, a French quantum computing hardware company. The deal values Pasqal at $2 billion on a pre-money basis and is expected to close in the second half of 2026, subject to shareholder vote and regulatory approval.
 
 ## The Pasqal combination and valuation
 

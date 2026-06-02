@@ -39,15 +39,15 @@ The screening is mechanical and transparent — there is no forecasting or judgm
 
 ## Composition and concentration risk
 
-EBI typically holds between 50 and 100 stocks, depending on how many pass the dual screen at each rebalance. That is smaller than a broad market fund but large enough to reduce idiosyncratic risk. However, equal weighting a smaller group of stocks creates more concentration than a cap-weighted broad fund. A 1/50th position in each of 50 companies is far more concentrated than a 1/500th position in 500 companies, even if you have more holdings.
+EBI typically holds between 50 and 100 stocks, depending on how many pass the dual screen at each rebalance. That is smaller than a broad market fund but large enough to reduce [idiosyncratic risk](/idiosyncratic-risk/). However, equal weighting a smaller group of stocks creates more concentration than a cap-weighted broad fund. A 1/50th position in each of 50 companies is far more concentrated than a 1/500th position in 500 companies, even if you have more holdings.
 
 The fund's sectors will shift based on which industries are in momentum. In a technology boom, EBI might become overweight tech simply because tech stocks are going up and not yet volatile. In a value rotation, defensives may dominate. That dynamic is baked into the strategy — EBI does not cap sectors to a fixed allocation.
 
 ## Costs and trading
 
-EBI's expense ratio is kept modest by the fund's straightforward, rules-based process. There are no discretionary decisions, no analyst calls, no active trading. The main costs come from quarterly rebalancing (buying and selling shares to reset positions to equal weight) and the bid-ask spread when you buy or sell ETF shares. For most investors, the spread is tight enough not to matter unless you are trading very large blocks.
+EBI's [expense ratio](/expense-ratio/) is kept modest by the fund's straightforward, rules-based process. There are no discretionary decisions, no analyst calls, no active trading. The main costs come from quarterly rebalancing (buying and selling shares to reset positions to equal weight) and the [bid-ask spread](/bid-ask-spread/) when you buy or sell ETF shares. For most investors, the spread is tight enough not to matter unless you are trading very large blocks.
 
-Dividends from holdings pass through to shareholders, usually quarterly. Because ETFs are structurally efficient at minimizing distributions, you are unlikely to face big taxable capital-gains surprises in a taxable account. The equal-weight rebalancing does mean more turnover than a passive buy-and-hold, which can matter if you are in a high tax bracket.
+[Dividends](/dividend/) from holdings pass through to shareholders, usually quarterly. Because ETFs are structurally efficient at minimizing distributions, you are unlikely to face big taxable capital-gains surprises in a taxable account. The equal-weight rebalancing does mean more turnover than a passive buy-and-hold, which can matter if you are in a high tax bracket.
 
 ## The real risks
 
@@ -55,10 +55,10 @@ Here is what can hurt EBI. If recent winners become tomorrow's losers — if the
 
 Volatility decay is not a risk here (that is only for leveraged and inverse funds). But equal weighting a smaller number of stocks means the fund is more volatile than a cap-weighted broad alternative. If you are nervous during downturns, that matters. A sharp market correction may hit EBI harder because it is overweight smaller, more volatile names.
 
-There is also a liquidity risk: some of the smaller stocks EBI may hold are not liquid. In a market panic when everyone wants to sell, EBI may face wider spreads or difficulty trading its positions smoothly.
+There is also a [liquidity risk](/liquidity-risk/): some of the smaller stocks EBI may hold are not liquid. In a market panic when everyone wants to sell, EBI may face wider spreads or difficulty trading its positions smoothly.
 
 ## Who this is for and how to research
 
-EBI fits investors who believe in momentum as a strategy, want lower volatility than the broad market, and can tolerate the extra concentration and choppiness of equal weighting. It is not for buy-and-hold investors who simply want the whole market at the lowest cost — that person should own a market index fund. EBI is also not ideal for someone who cannot handle seeing their portfolio drop 20 percent in a bad quarter, because equal-weight momentum portfolios can be volatile even with the volatility screen built in.
+EBI fits investors who believe in momentum as a strategy, want lower volatility than the broad market, and can tolerate the extra concentration and choppiness of equal weighting. It is not for buy-and-hold investors who simply want the whole market at the lowest cost — that person should own a market [index fund](/index-fund/). EBI is also not ideal for someone who cannot handle seeing their portfolio drop 20 percent in a bad quarter, because equal-weight momentum portfolios can be volatile even with the volatility screen built in.
 
 To research EBI, start with the fund's fact sheet, which will show you the exact selection criteria and the current holdings. Look at the recent performance during both up markets and downturns. Compare it to a simple momentum fund (without the volatility filter) and to a simple low-volatility fund (without the momentum filter) to see whether the combination is actually working. Check the prospectus for the exact rebalancing schedule and expense ratio. Read the fund company's white papers or research notes on why momentum and volatility together make sense — the logic should be clear and the evidence credible. Over time, track whether the fund delivers steadier returns than it would using momentum alone, or whether the volatility screen is just diluting the signal.

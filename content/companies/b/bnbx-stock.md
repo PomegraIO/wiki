@@ -31,7 +31,7 @@ The [consolidated statements](/consolidated-statements/) of earnings should clea
 
 ## If BNBX Operates Banking Subsidiaries
 
-If BNBX is a bank holding company, the [balance sheet](/balance-sheet/) and regulatory capital requirements are central. Banks must maintain minimum capital ratios (Tier 1, common equity Tier 1, [leverage ratio](/leverage-ratio-forex/)) set by regulators. The 10-K should disclose regulatory capital ratios and how they compare to well-capitalized thresholds. If BNBX is at or near minimum ratios, it has limited cushion for losses or expansion.
+If BNBX is a bank holding company, the [balance sheet](/balance-sheet/) and regulatory capital requirements are [central. Banks](/central-bank/) must maintain minimum capital ratios (Tier 1, common equity Tier 1, [leverage ratio](/leverage-ratio-forex/)) set by regulators. The 10-K should disclose regulatory capital ratios and how they compare to well-capitalized thresholds. If BNBX is at or near minimum ratios, it has limited cushion for losses or expansion.
 
 Loan portfolio composition and credit quality are critical. Pull the schedule of loans by type (commercial, consumer, real estate, etc.) and the allowance for credit losses (the reserve the bank holds for expected defaults). Compare the allowance to non-performing loans (NPLs) — loans on which the borrower is 90+ days delinquent. A loan allowance-to-NPL ratio above 100% suggests the bank is well-reserved; below 80% suggests the reserve may be inadequate. Rising NPLs quarter-over-quarter signal deteriorating credit quality.
 

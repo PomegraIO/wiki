@@ -36,13 +36,13 @@ HWAY competes in a crowded space. Investors seeking infrastructure exposure have
 
 This creates inherent tension. A construction company riding a wave of spending bills will outpace a staid utility for years; a utility will be more stable when contracts dry up. The fund's balanced approach means it neither fully captures infrastructure booms nor offers the defensive quality of pure utilities. Investors must accept that trade-off: thematic exposure that moves with infrastructure-spending trends but carries more volatility than a utility-focused fund and less growth optionality than a concentrated bet on civil engineering.
 
-Geography and policy matter enormously. HWAY's companies are shaped by US federal and state infrastructure spending, permitting timelines, labor costs, and regulation. A multiyear infrastructure bill or tax incentives can broaden the opportunity set; budget cuts or political stagnation can create headwinds that hit the portfolio months or years later.
+Geography and policy matter enormously. HWAY's companies are shaped by US federal and state infrastructure spending, permitting timelines, labor costs, and [regulation. A](/regulation-a/) multiyear infrastructure bill or tax incentives can broaden the opportunity set; budget cuts or political stagnation can create headwinds that hit the portfolio months or years later.
 
 ## Costs, structure, and how to trade
 
-HWAY is a standard open-end ETF, meaning shares are created and redeemed by authorized market participants every trading day, keeping the net asset value and the stock price tightly aligned. The fund is listed on NYSE Arca and trades during standard US market hours with typical spread — the difference between buy and sell prices — wide enough to require modest patience for large orders but narrow enough for retail traders to execute without significant slippage.
+HWAY is a standard open-end ETF, meaning shares are created and redeemed by authorized market participants every trading day, keeping the [net asset value](/net-asset-value/) and the stock price tightly aligned. The fund is listed on NYSE Arca and trades during standard US market hours with typical spread — the difference between buy and sell prices — wide enough to require modest patience for large orders but narrow enough for retail traders to execute without significant slippage.
 
-The expense ratio is modest and competitive, in the range of 0.50–0.70 percent annually — comparable to broad-market index funds but higher than some legacy utilities ETFs, reflecting the research required to maintain a custom infrastructure index. Dividends arise from the underlying companies' distributions and are passed through to shareholders, usually quarterly.
+The [expense ratio](/expense-ratio/) is modest and competitive, in the range of 0.50–0.70 percent annually — comparable to broad-market [index funds](/index-fund/) but higher than some legacy utilities ETFs, reflecting the research required to maintain a custom infrastructure index. [Dividends](/dividend/) arise from the underlying companies' distributions and are passed through to shareholders, usually quarterly.
 
 The fund itself does not employ leverage, inverse mechanics, or derivatives strategies — it is a straightforward, unleveraged, long-only vehicle holding equity stakes in underlying companies. Daily swings reflect the underlying holdings' price moves and the broader market's appetite for infrastructure and industrial stocks.
 
@@ -50,11 +50,11 @@ The fund itself does not employ leverage, inverse mechanics, or derivatives stra
 
 Infrastructure funds face several structural risks. The most obvious is policy risk: infrastructure spending hinges on government budgets, regulatory approval, and political will. A change in spending priorities or a political impasse can hollow out the outlook for the entire sector at once, affecting every holding simultaneously.
 
-There is also sector concentration risk. Because the pool of genuinely infrastructure-focused US companies is finite, HWAY may overweight a few large utilities, engineering firms, or transportation businesses, creating specific company risk that diversification cannot fully erase. If a major holding stumbles, the fund's performance suffers more than a broader market index would.
+There is also sector [concentration risk](/concentration-risk/). Because the pool of genuinely infrastructure-focused US companies is finite, HWAY may overweight a few large utilities, engineering firms, or transportation businesses, creating specific company risk that [diversification](/diversification/) cannot fully erase. If a major holding stumbles, the fund's performance suffers more than a broader market index would.
 
-Leverage and cyclicality bring additional pressure. Some infrastructure plays — construction and engineering companies especially — are economically cyclical: they contract during recessions even if infrastructure spending is steady, because their customers (private firms, real-estate developers) pull back. The fund's focus on theme, not defensive quality, means downturns can be sharp.
+Leverage and cyclicality bring additional pressure. Some infrastructure plays — construction and engineering companies especially — are economically cyclical: they contract during [recessions](/recession/) even if infrastructure spending is steady, because their customers (private firms, real-estate developers) pull back. The fund's focus on theme, not defensive quality, means downturns can be sharp.
 
-Finally, infrastructure investing is sensitive to interest rates and inflation. Long-duration infrastructure projects and the bonds that finance them become less attractive when interest rates rise. Inflation can erode project economics and push up labor and material costs. Investors should expect the fund to be volatile when monetary policy shifts rapidly.
+Finally, infrastructure investing is sensitive to [interest rates](/interest-rate/) and [inflation](/inflation/). Long-duration infrastructure projects and the [bonds](/bond/) that finance them become less attractive when interest rates rise. Inflation can erode project economics and push up labor and material costs. Investors should expect the fund to be volatile when [monetary policy](/monetary-policy/) shifts rapidly.
 
 ## How to research HWAY
 

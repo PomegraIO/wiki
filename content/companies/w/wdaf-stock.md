@@ -47,13 +47,13 @@ WDAF tracks companies headquartered in the Asia-Pacific region that derive mater
 
 ## Why Asia defense is a distinct investment theme
 
-Unlike a global defense fund, which typically holds major U.S. and European primes, WDAF is a bet on the secular growth of defense spending in Asia and on the region's strategic transition toward self-sufficiency in weapons and systems. It also provides geographic diversification for those holding U.S. defense stocks, since Asia-focused companies have different growth drivers, regulatory environments, and exposure to regional conflicts and alliances.
+Unlike a global defense fund, which typically holds major U.S. and European primes, WDAF is a bet on the secular growth of defense spending in Asia and on the region's strategic transition toward self-sufficiency in weapons and systems. It also provides geographic [diversification](/diversification/) for those holding U.S. defense stocks, since Asia-focused companies have different growth drivers, regulatory environments, and exposure to regional conflicts and alliances.
 
 Additionally, some of the technology in Asian defense systems (particularly from Japan and South Korea) is genuinely advanced, and those companies export globally, not just regionally. By holding them, WDAF captures both regional growth and the export upside as these companies compete for contracts outside their home countries.
 
 ## Fund structure and trading mechanics
 
-WDAF is a standard, non-leveraged equity ETF trading on NASDAQ. It holds equities directly and does not use leverage or derivatives. Because it tracks a specific geographic region and sector, it has less daily trading volume than a global fund, and bid-ask spreads may be slightly wider. The annual expense ratio is typical for regional and specialized-sector ETFs, typically in the range of 0.70–0.85%.
+WDAF is a standard, non-leveraged [equity ETF](/equity-etf/) trading on [NASDAQ](/nasdaq/). It holds equities directly and does not use leverage or derivatives. Because it tracks a specific geographic region and sector, it has less daily trading volume than a global fund, and [bid-ask spreads](/bid-ask-spread/) may be slightly wider. The annual [expense ratio](/expense-ratio/) is typical for regional and specialized-sector ETFs, typically in the range of 0.70–0.85%.
 
 ## Risks and drivers
 

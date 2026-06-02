@@ -17,13 +17,13 @@ Yara International is a Norwegian multinational company that produces and distri
 
 Yara's story begins with two Norwegian companies that merged in 1905. Norsk Hydro (then Norske Elektrokemiske Aktieselskab) was founded to exploit Norway's abundant hydropower — the country had cheap electricity from waterfalls and could use that electricity to split molecules. The company began producing calcium carbide and ammonia via the Haber-Bosch process, which requires enormous energy but generates the nitrogen compound essential to fertilizer.
 
-The second company, Norges Salpeterværker, was also built around electrolytic production. After the merger, the combined entity developed expertise in producing ammonia and calcium nitrate — the raw materials and precursors to fertilizers. At a time when agriculture in Europe was mechanizing and intensifying, nitrogen fertilizer from Norwegian electrochemistry became increasingly valuable. The company built production capacity, invested in distribution, and gradually became known for synthetic nitrogen fertilizers.
+The second company, Norges Salpeterværker, was also built around electrolytic production. After the [merger](/merger/), the combined entity developed expertise in producing ammonia and calcium nitrate — the raw materials and precursors to fertilizers. At a time when agriculture in Europe was mechanizing and intensifying, nitrogen fertilizer from Norwegian electrochemistry became increasingly valuable. The company built production capacity, invested in distribution, and gradually became known for synthetic nitrogen fertilizers.
 
 ## Building the fertilizer empire: 1950s onward
 
-Through the second half of the 20th century, Yara transformed from a pure chemical producer into the world's largest producer of ammonia and a major supplier of finished fertilizer products. The company built ammonia plants in Norway, and later in other countries, capitalizing on hydropower in Scandinavia and natural gas in other regions. It also acquired or built downstream capacity to convert ammonia into nitrate and urea fertilizers, and to blend these with phosphate and potash to create balanced NPK fertilizers tailored to different crops and soil types.
+Through the second half of the 20th century, Yara transformed from a pure chemical producer into the world's largest producer of ammonia and a major supplier of finished fertilizer products. The company built ammonia plants in Norway, and later in other countries, capitalizing on hydropower in Scandinavia and [natural gas](/natural-gas/) in other regions. It also acquired or built downstream capacity to convert ammonia into nitrate and urea fertilizers, and to blend these with phosphate and potash to create balanced NPK fertilizers tailored to different crops and soil types.
 
-By the 1980s, Yara was a diversified chemical company with strong positions in fertilizers, industrial chemicals, and specialty products. The company was primarily Norwegian-owned and listed on the Oslo Stock Exchange. In 1997, Norsk Hydro spun off its fertilizer business into Hydro Agri, which was then merged with Norges Hydrogenfabrikker and other entities to form Yara International in 2004 — the entity that trades today as YRAIF on over-the-counter markets in the United States.
+By the 1980s, Yara was a diversified chemical company with strong positions in fertilizers, industrial chemicals, and specialty products. The company was primarily Norwegian-owned and listed on the Oslo [Stock Exchange](/stock-exchange/). In 1997, Norsk Hydro spun off its fertilizer business into Hydro Agri, which was then merged with Norges Hydrogenfabrikker and other entities to form Yara International in 2004 — the entity that trades today as YRAIF on [over-the-counter markets](/over-the-counter-market/) in the United States.
 
 ## Business segments and the ammonia foundation
 
@@ -61,7 +61,7 @@ Yara competes against large Russian, Chinese, Indian, and North American produce
 
 ## How to research Yara International
 
-Start with Yara's annual report and financial filings, available on the Oslo Stock Exchange and in SEC filings (CIK 0001279956). The 10-K discloses segment profitability, production capacity, energy costs, and the company's capital plans. Pay particular attention to the margin trends in nitrogen, phosphate, and potash — these show how pricing and costs are moving.
+Start with Yara's [annual report](/10-k/) and financial filings, available on the Oslo Stock Exchange and in SEC filings (CIK 0001279956). The 10-K discloses segment profitability, production capacity, energy costs, and the company's capital plans. Pay particular attention to the margin trends in nitrogen, phosphate, and potash — these show how pricing and costs are moving.
 
 Monitor global fertilizer prices through industry sources like the International Plant Nutrition Institute and commodity price data. Track natural gas prices in Europe and North America; when natural gas spikes, Yara's margins compress. Watch potash and phosphate spot prices, which are more volatile than nitrogen.
 

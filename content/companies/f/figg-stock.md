@@ -27,7 +27,7 @@ FIGG is a **leveraged exchange-traded fund** that aims to deliver twice the dail
 
 ## What does FIGG actually track?
 
-FIGG holds a portfolio of U.S. financial stocks — primarily large-cap banks, insurance firms, and diversified financial services companies that make up the Financials Select Sector Index. This is the same universe of names you would own in XLF (the unleveraged financial sector ETF), but FIGG operates on leverage to amplify moves. When the Financials index rises 1% in a day, FIGG targets a 2% gain (before costs). When it falls 1%, FIGG aims to fall 2%.
+FIGG holds a portfolio of U.S. financial stocks — primarily large-cap banks, insurance firms, and diversified financial services companies that make up the Financials Select Sector Index. This is the same universe of names you would own in XLF (the unleveraged financial [sector ETF](/sector-etf/)), but FIGG operates on leverage to amplify moves. When the Financials index rises 1% in a day, FIGG targets a 2% gain (before costs). When it falls 1%, FIGG aims to fall 2%.
 
 ## How does the 2x leverage actually work?
 
@@ -43,7 +43,7 @@ FIGG is absolutely unsuitable for buy-and-hold investors. The daily reset, the a
 
 ## What are the real costs and risks?
 
-The expense ratio is very low — typical for leveraged sector ETFs — but it is not the only cost. The fund incurs daily trading and rebalancing friction, bid-ask spreads on large position rolls, and the mathematical drag of volatility decay on a leveraged portfolio. Over short holding periods these frictions barely register. Over months or years they compound into a significant drag on returns.
+The [expense ratio](/expense-ratio/) is very low — typical for leveraged sector ETFs — but it is not the only cost. The fund incurs daily trading and rebalancing friction, [bid-ask spreads](/bid-ask-spread/) on large position rolls, and the mathematical drag of volatility decay on a leveraged portfolio. Over short [holding periods](/holding-period/) these frictions barely register. Over months or years they compound into a significant drag on returns.
 
 The other core risk is what leverage always brings: concentration and amplified drawdown. A 10% fall in the Financials sector becomes a 20% loss in FIGG. That kind of swing can wipe out margin accounts or force emotional exits at the worst time. FIGG also carries counterparty and issuer risk: Leverage Shares' ability to manage the fund and keep it funded matters to holders.
 
@@ -51,4 +51,4 @@ Liquidity varies; FIGG tends to have tighter spreads when financial stocks are i
 
 ## How to research FIGG
 
-Start with the fund's prospectus and fact sheet from Leverage Shares, which lay out the precise daily reset mechanics, the fees, and the tax treatment. FIGG's NAV (net asset value) and market price are published in real time; wide divergence between them signals illiquidity or arbitrage inefficiency. The fund's historical trailing returns should show that it has tracked 2x the daily returns of the Financials index reasonably closely over short periods — but also that multi-month or annual returns lag simple 2x projection due to volatility decay. Watch the holdings and weights; they drift intraday and are reset at close, but the most recent 13F-equivalent detail is available from the fund's website. For any leveraged position, position sizing becomes critical: allocating too large a slice of a portfolio to FIGG can turn a tactical bet into a portfolio risk.
+Start with the fund's prospectus and fact sheet from Leverage Shares, which lay out the precise daily reset mechanics, the fees, and the tax treatment. FIGG's NAV ([net asset value](/net-asset-value/)) and market price are published in real time; wide divergence between them signals illiquidity or arbitrage inefficiency. The fund's historical trailing returns should show that it has tracked 2x the daily returns of the Financials index reasonably closely over short periods — but also that multi-month or annual returns lag simple 2x projection due to volatility decay. Watch the holdings and weights; they drift intraday and are reset at close, but the most recent 13F-equivalent detail is available from the fund's website. For any leveraged position, position sizing becomes critical: allocating too large a slice of a portfolio to FIGG can turn a tactical bet into a portfolio risk.

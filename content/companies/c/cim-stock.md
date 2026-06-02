@@ -4,7 +4,7 @@ description: "A mortgage real estate investment trust (mREIT) that finances resi
 keywords: ["REIT", "mortgage", "mREIT", "real-estate", "leverage", "debt", "CIK-1409493"]
 ---
 
-*Chimera Investment—trading as **CIM**—is a [mortgage REIT](/mortgage-reit/) (mREIT) that finances residential and commercial mortgages by borrowing short-term and investing long-term, a leverage play on mortgage spreads and [prepayment risk](/prepayment-risk/). Unlike larger mREIT peers that have retreated into agency mortgages (those backed by Fannie Mae, Freddie Mac, or Ginnie Mae), Chimera holds a significant non-agency (legacy) portfolio from the housing boom, making it a narrower, more specialized play on mortgage-market volatility and the durability of aging assets.*
+*Chimera Investment—trading as **CIM**—is a [mortgage REIT](/mortgage-reit/) (mREIT) that finances residential and commercial mortgages by borrowing short-term and investing long-term, a leverage play on mortgage spreads and [prepayment risk](/prepayment-risk/). Unlike larger mREIT peers that have retreated into agency mortgages (those backed by [Fannie Mae](/fannie-mae/), [Freddie Mac](/freddie-mac/), or Ginnie Mae), Chimera holds a significant non-agency (legacy) portfolio from the housing boom, making it a narrower, more specialized play on mortgage-market volatility and the durability of aging assets.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CIM</td></tr>
@@ -25,11 +25,11 @@ The appeal to investors is leverage-amplified yield. If Chimera buys a 4% mortga
 
 ## Agency vs. Non-Agency Portfolio Mix
 
-Here is where Chimera's specific competitive position matters. After the 2008 financial crisis, the mortgage REIT industry split into two strategies: "agency" players who own only government-backed mortgages (near-zero credit risk, tight spreads, high leverage), and "non-agency" or hybrid players who hold older, private-label mortgages from the 2005–2007 boom.
+Here is where Chimera's specific competitive position matters. After the 2008 financial crisis, the mortgage REIT industry split into two strategies: "agency" players who own only government-backed mortgages (near-zero [credit risk](/credit-risk/), tight spreads, high leverage), and "non-agency" or hybrid players who hold older, private-label mortgages from the 2005–2007 boom.
 
-Chimera, like New York Mortgage Trust and Two Harbors, holds both. Its non-agency exposure—mortgages where borrower credit is the only collateral—gives it exposure to wider spreads and price appreciation if those assets cure or are paid off. But it also means Chimera carries credit loss risk that agency mREITs do not. A recession that causes mortgage delinquencies can directly erode principal value on non-agency mortgages, whereas agency mortgages are explicitly guaranteed by the government.
+Chimera, like New York Mortgage Trust and Two Harbors, holds both. Its non-agency exposure—mortgages where borrower credit is the only collateral—gives it exposure to wider spreads and price appreciation if those assets cure or are paid off. But it also means Chimera carries credit loss risk that agency mREITs do not. A [recession](/recession/) that causes mortgage delinquencies can directly erode principal value on non-agency mortgages, whereas agency mortgages are explicitly guaranteed by the government.
 
-This positioning is a legacy of Chimera's founding and growth during and after the crisis. Larger peers like Annaly and [INVESCO Mortgage Capital](/ivr-stock/) have mostly exited non-agency exposures; Chimera and a smaller cohort of specialists remain. Chimera is thus betting that its non-agency portfolio—now 15+ years old—will perform steadily, that defaults will remain low, and that [credit spreads](/credit-spread/) will tighten (raising prices). That is not a reckless bet, but it is one that diversifies away from pure interest-rate and prepayment risk into specific credit and [extension risk](/extension-risk/).
+This positioning is a legacy of Chimera's founding and growth during and after the crisis. Larger peers like Annaly and INVESCO Mortgage Capital have mostly exited non-agency exposures; Chimera and a smaller cohort of specialists remain. Chimera is thus betting that its non-agency portfolio—now 15+ years old—will perform steadily, that defaults will remain low, and that [credit spreads](/credit-spread/) will tighten (raising prices). That is not a reckless bet, but it is one that diversifies away from pure interest-rate and prepayment risk into specific credit and [extension risk](/extension-risk/).
 
 ## Funding and Interest-Rate Sensitivity
 
@@ -47,7 +47,7 @@ The implication is that Chimera's total return comes from price appreciation on 
 
 ## The Secular Headwinds
 
-Chimera faces a structural challenge that affects all mREITs: mortgage [securitization](/securitization/) has become more efficient, [bid-ask spreads](/bid-ask-spread/) have tightened, and the pool of investors willing to own mortgages directly (rather than through mutual funds or ETFs) has shrunk. This shrinkage is gradual but relentless. Over time, it should compress mortgage-to-funding spreads and reduce the equity returns available to mREIT operators.
+Chimera faces a structural challenge that affects all mREITs: mortgage [securitization](/securitization/) has become more efficient, [bid-ask spreads](/bid-ask-spread/) have tightened, and the pool of investors willing to own mortgages directly (rather than through [mutual funds](/mutual-fund/) or ETFs) has shrunk. This shrinkage is gradual but relentless. Over time, it should compress mortgage-to-funding spreads and reduce the equity returns available to mREIT operators.
 
 Additionally, as housing policy shifts toward GSE reform or explicit government mortgage insurance, the non-agency mortgage market may face additional pressure. Chimera's non-agency book is not in immediate jeopardy, but if housing becomes fully government-insured or securitized, the private-label mortgage market where Chimera extracts some of its edge could shrink.
 

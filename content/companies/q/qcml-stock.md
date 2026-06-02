@@ -15,7 +15,7 @@ handwritten: true
 
 ## What does this fund actually hold?
 
-QCML does not buy Qualcomm shares. Instead, GraniteShares holds derivatives — primarily call options, long futures contracts, or equity swaps — structured to double the daily payoff of Qualcomm's price move. The fund rebalances daily to maintain that 2x target, meaning if Qualcomm rises or falls two percent in a day, QCML aims to rise or fall four percent the next day.
+QCML does not buy Qualcomm shares. Instead, GraniteShares holds derivatives — primarily [call options](/call-option/), long [futures contracts](/futures-contract/), or [equity swaps](/equity-swap/) — structured to double the daily payoff of Qualcomm's price move. The fund rebalances daily to maintain that 2x target, meaning if Qualcomm rises or falls two percent in a day, QCML aims to rise or fall four percent the next day.
 
 ## Why would anyone want double exposure?
 
@@ -33,17 +33,17 @@ This effect worsens with volatility and time. In a choppy, sideways market where
 
 ## How long should I actually hold this?
 
-QCML is strictly a short-term tactical weapon. The prospectus explicitly warns that the fund is not designed for buy-and-hold investors with multi-week or multi-month horizons. It is built for traders with a specific thesis about a near-term move — earnings disappointment, competitive loss, sector rotation — who plan to enter, capture the move, and exit within days or at most a couple of weeks.
+QCML is strictly a short-term tactical weapon. The prospectus explicitly warns that the fund is not designed for buy-and-hold investors with multi-week or multi-month horizons. It is built for traders with a specific thesis about a near-term move — earnings disappointment, competitive loss, [sector rotation](/sector-rotation/) — who plan to enter, capture the move, and exit within days or at most a couple of weeks.
 
 Traders who cannot set a clear exit target should not buy QCML. The combination of daily reset drag and leverage means that even a correct long-term thesis about Qualcomm can produce losses if you hold through a volatile, choppy period.
 
 ## What does it cost to own this, and what's the execution like?
 
-The expense ratio is higher than owning Qualcomm stock directly, reflecting the cost of managing and rebalancing the derivative positions daily. QCML trades on the exchange during market hours like any other ETF, so buying or selling is straightforward. Liquidity is decent but not as deep as the largest, most popular ETFs. Check the bid-ask spread before trading, especially if you are moving meaningful size.
+The [expense ratio](/expense-ratio/) is higher than owning Qualcomm stock directly, reflecting the cost of managing and rebalancing the derivative positions daily. QCML trades on the exchange during market hours like any other ETF, so buying or selling is straightforward. Liquidity is decent but not as deep as the largest, most popular ETFs. Check the [bid-ask spread](/bid-ask-spread/) before trading, especially if you are moving meaningful size.
 
 ## What could really go wrong?
 
-Leverage is double-edged. Qualcomm is a fundamentally sound, profitable company with entrenched market position in chip design. Over long periods, the structural wind is at the back of long positions in the stock. But using 2x leverage to bet on short-term moves is inherently speculative. A bad week or even a bad day can destroy weeks of accumulated gains. Many retail traders buy leveraged ETFs expecting to outperform and end up taking losses.
+Leverage is double-edged. Qualcomm is a fundamentally sound, profitable company with entrenched market position in chip design. Over long periods, the structural wind is at the back of long positions in the stock. But using 2x leverage to bet on short-term moves is inherently speculative. A bad week or even a bad day can destroy weeks of accumulated gains. Many retail traders buy [leveraged ETFs](/leveraged-etf/) expecting to outperform and end up taking losses.
 
 The second risk is the daily reset drag. Hold QCML for months in a volatile market and you will almost certainly lose to a simple call option or a short-dated options spread. The fund is mathematically not designed for that use.
 
@@ -53,9 +53,9 @@ The third risk is overconfidence. Retail traders often buy leveraged funds assum
 
 QCML is for a trader who believes Qualcomm will move sharply in the next few trading days, who has done homework on the catalyst driving the move, and who has the emotional discipline to set a stop-loss and a profit target before entering the trade. Set the exit targets in advance; do not try to manage the position day-to-day.
 
-For investors with a multi-week to multi-month time horizon, traditional call options, call spreads, or simply buying Qualcomm stock and holding it are better choices. They avoid daily reset decay and align better with a medium-term thesis.
+For investors with a multi-week to multi-month time horizon, traditional call options, [call spreads](/call-spread/), or simply buying Qualcomm stock and holding it are better choices. They avoid daily reset decay and align better with a medium-term thesis.
 
-Long-term investors should never own QCML. The daily rebalancing will compound losses in any choppy period, and leverage will devastate the position in a prolonged bear market. The fund will drift toward zero over years of weakness. It is a speculation tool, not an investment.
+Long-term investors should never own QCML. The daily rebalancing will compound losses in any choppy period, and leverage will devastate the position in a prolonged [bear market](/bear-market/). The fund will drift toward zero over years of weakness. It is a speculation tool, not an investment.
 
 ## How do I evaluate whether to use it?
 

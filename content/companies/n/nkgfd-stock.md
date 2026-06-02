@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Nevada King Gold trades over the counter as NKGFD and maintains a listing on Canada's TSX Venture Exchange (NKG.V). The company is a single-asset explorer focused on advancing its 100%-owned Atlanta Gold Mine project, situated 264 kilometres northeast of Las Vegas along the Battle Mountain trend in eastern Nevada. This is an exploration and resource-definition stage company—not yet a producer. The Atlanta project covers 13,000 hectares and hosts an identified oxide resource, but the company has not begun mining operations.
+[Nevada King Gold](/nkgff-stock/) trades over the counter as NKGFD and maintains a listing on Canada's TSX Venture Exchange (NKG.V). The company is a single-asset explorer focused on advancing its 100%-owned Atlanta Gold Mine project, situated 264 kilometres northeast of Las Vegas along the Battle Mountain trend in eastern Nevada. This is an exploration and resource-definition stage company—not yet a producer. The Atlanta project covers 13,000 hectares and hosts an identified oxide resource, but the company has not begun mining operations.
 
 The project's geology is straightforward. The Atlanta property sits in a prolific gold district. In 2025, Nevada King expanded its measured and indicated resources by 122%, reporting 1.02 million ounces of oxide gold in the measured and indicated category at pit-constraining grades of 1.14 grams per tonne, grading 27.7 million tonnes. An additional 99,000 ounces sit in the inferred category. These are solid grades for open-pit mining in the region—not spectacular, but economically interesting if the project can be permitted and financed.
 

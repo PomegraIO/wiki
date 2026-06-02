@@ -35,7 +35,7 @@ The regulatory timeline for vaccine approval (12–18 months post-efficacy data 
 
 ## Competitive Position and Market Context
 
-Mucosal immunology is active in academia and large pharma (Merck, GSK, and others have intranasal flu vaccine and RSV vaccine programs). Elicio's advantage, if any, lies in its proprietary adjuvants and mucosal-formulation approach. But large pharma can in-license or acquire mucosal technologies; smaller biotech rivals may pursue similar strategies. Elicio's defensibility depends on patent breadth and first-mover advantage in clinical proof. Absent clear clinical superiority, mucosal vaccines compete on cost-of-goods, distribution logistics, and regulatory approval speed—areas where large incumbents hold scale advantages.
+Mucosal immunology is active in academia and large pharma ([Merck](/mrk-stock/), GSK, and others have intranasal flu vaccine and RSV vaccine programs). Elicio's advantage, if any, lies in its proprietary adjuvants and mucosal-formulation approach. But large pharma can in-license or acquire mucosal technologies; smaller biotech rivals may pursue similar strategies. Elicio's defensibility depends on patent breadth and first-mover advantage in clinical proof. Absent clear clinical superiority, mucosal vaccines compete on cost-of-goods, distribution logistics, and regulatory approval speed—areas where large incumbents hold scale advantages.
 
 ## Where to Research Further
 

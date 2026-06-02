@@ -25,7 +25,7 @@ Over time, Perfect Medical broadened its service offerings beyond aesthetics int
 
 The company added general health services including pain management (injections, therapies for chronic pain), preventive screening and monitoring, and hair growth treatments served through dermatology and trichology expertise. The most significant expansion was into reproductive medicine and women's health, a far larger addressable market than aesthetics alone. Services in this category include infertility treatment, artificial insemination, egg freezing, prenatal diagnosis, obstetrics and gynaecology, and women's cancer screening and management.
 
-This diversification provides multiple advantages. Reproductive and women's health services are less discretionary than aesthetic treatments — they address medical conditions and life-planning decisions rather than cosmetic preferences — which potentially creates more stable recurring demand. They also command higher price points and often involve longer treatment cycles and repeat visits, improving lifetime patient value. The category is large and growing in markets where family planning, later childbearing, and greater health consciousness are shifting priorities.
+This [diversification](/diversification/) provides multiple advantages. Reproductive and women's health services are less discretionary than aesthetic treatments — they address medical conditions and life-planning decisions rather than cosmetic preferences — which potentially creates more stable recurring demand. They also command higher price points and often involve longer treatment cycles and repeat visits, improving lifetime patient value. The category is large and growing in markets where family planning, later childbearing, and greater health consciousness are shifting priorities.
 
 ## Geographic footprint and the franchise model
 
@@ -37,7 +37,7 @@ The franchise approach has trade-offs. Franchisees provide capital for clinics a
 
 The company generates revenue from patient fees for treatments, with prices varying by procedure, market, and facility. Aesthetic treatments typically command prices ranging from hundreds to thousands per treatment, depending on the scope and complexity. Reproductive medicine services, particularly longer interventions like fertility treatment cycles, can involve much higher total spending per patient. The company likely also generates revenue from related products or ancillary services — skincare lines, supplements, and follow-up treatments.
 
-Patient acquisition is managed through marketing in each local market, word-of-mouth and reputation, and relationships with referring physicians and healthcare providers. The company's ability to grow depends on building brand trust in markets where medical aesthetics and elective health services remain somewhat discretionary, and where consumers may have concerns about the legitimacy or safety of non-traditional practitioners.
+Patient [acquisition](/acquisition/) is managed through marketing in each local market, word-of-mouth and reputation, and relationships with referring physicians and healthcare providers. The company's ability to grow depends on building brand trust in markets where medical aesthetics and elective health services remain somewhat discretionary, and where consumers may have concerns about the legitimacy or safety of non-traditional practitioners.
 
 ## Market dynamics and competitive pressures
 
@@ -47,5 +47,5 @@ The reproductive medicine category is more complex — it involves sensitive med
 
 ## The American Depositary Share and investor research
 
-Perfect Medical's ADRs (PMHMY) trade over-the-counter, a much less-liquid environment than Nasdaq or NYSE listings. The SEC filings (CIK 0002030632) disclose the company's operations, service lines, financial results, and risk factors. Potential investors should review the company's annual reports and financial statements to assess profitability by service line, patient acquisition costs, retention rates, and the health of the franchisee network. The company's ability to continue expanding clinics, maintain standards across franchised locations, and capture value from reproductive medicine services will determine its long-term trajectory.
+Perfect Medical's ADRs (PMHMY) trade over-the-counter, a much less-liquid environment than [Nasdaq](/nasdaq/) or NYSE listings. The SEC filings (CIK 0002030632) disclose the company's operations, service lines, financial results, and risk factors. Potential investors should review the company's [annual reports](/10-k/) and financial statements to assess profitability by service line, patient acquisition costs, retention rates, and the health of the franchisee network. The company's ability to continue expanding clinics, maintain standards across franchised locations, and capture value from reproductive medicine services will determine its long-term trajectory.
 

@@ -24,9 +24,9 @@ IWML is designed to capture that premium with 2x leverage, in theory delivering 
 
 Small-cap outperformance is feast or famine. In periods of strong economic growth, low unemployment, and expanding credit—especially in the early stages of a recovery—small caps outperform dramatically. Investors' risk appetite is high, and smaller companies with higher leverage and faster growth appeal more than dividend-paying giants. The 2003–2007 period, the 2009–2010 recovery, and the 2021–2022 reflation trade all saw small caps lead.
 
-Conversely, in crises, recessions, or periods of economic uncertainty, small-cap stocks get hammered. They have less cash, higher debt ratios relative to assets, and lower access to capital markets. When credit tightens or growth expectations fall, they decline sharply. The 2008 crisis, the 2020 pandemic sell-off, and the 2022 rate-hike cycle all saw small caps underperform large caps.
+Conversely, in crises, [recessions](/recession/), or periods of economic uncertainty, small-cap stocks get hammered. They have less cash, higher debt ratios relative to assets, and lower access to capital markets. When credit tightens or growth expectations fall, they decline sharply. The 2008 crisis, the 2020 pandemic sell-off, and the 2022 rate-hike cycle all saw small caps underperform large caps.
 
-IWML amplifies this cycle. In a small-cap rally, a 2x product can deliver exceptional gains. In a small-cap bear market, it can lose 30, 40, or even 50 percent in months. An investor holding IWML through a recession faces not just exposure to small-cap underperformance but leverage-amplified losses.
+IWML amplifies this cycle. In a small-cap rally, a 2x product can deliver exceptional gains. In a small-cap [bear market](/bear-market/), it can lose 30, 40, or even 50 percent in months. An investor holding IWML through a recession faces not just exposure to small-cap underperformance but leverage-amplified losses.
 
 ## The rebalancing penalty in high-volatility markets
 
@@ -34,7 +34,7 @@ Small-cap stocks are far more volatile than large-cap stocks. Daily volatility c
 
 Consider a hypothetical: the underlying size index swings up 3 percent one day and down 3 percent the next. Over those two days, the index is flat. A static 2x position would also be flat. But IWML rebalances: on day one it holds 2x exposure and gains 6 percent, then rebalances down. On day two the position is smaller but the index falls 3 percent. The net result after two days is a loss—not flat—purely due to rebalancing friction. Over months, in a volatile-but-sideways market, this drag compounds to a significant underperformance.
 
-Small-cap indices are especially susceptible to this drag because the component stocks are volatile and the rebalancing costs (bid-ask spreads) are higher for smaller, less-liquid stocks.
+Small-cap indices are especially susceptible to this drag because the component stocks are volatile and the rebalancing costs ([bid-ask spreads](/bid-ask-spread/)) are higher for smaller, less-liquid stocks.
 
 ## Factor rotation and the size premium's uncertain future
 
@@ -44,11 +44,11 @@ IWML's returns depend on the size premium existing and being strong. In periods 
 
 ## Illiquidity and hidden costs
 
-Small-cap stocks trade less frequently and with wider bid-ask spreads than large-cap stocks. When IWML rebalances daily, it is trading these less-liquid securities, incurring higher spreads. The quoted expense ratio for the product does not fully capture these trading costs—they are embedded in the daily rebalancing slippage. An investor should expect that the actual annual drag from costs will exceed the stated expense ratio.
+Small-cap stocks trade less frequently and with wider bid-ask spreads than large-cap stocks. When IWML rebalances daily, it is trading these less-liquid securities, incurring higher spreads. The quoted [expense ratio](/expense-ratio/) for the product does not fully capture these trading costs—they are embedded in the daily rebalancing slippage. An investor should expect that the actual annual drag from costs will exceed the stated expense ratio.
 
 ## Credit risk and the unsecured structure
 
-IWML is an unsecured note issued by UBS. In a financial crisis or a period of extreme market stress, if UBS comes under pressure, the value of IWML could fall not only because of small-cap underperformance but also because the underlying credit quality of the issuer deteriorates. This two-way risk—market risk plus issuer risk—is often overlooked by investors focused on the small-cap exposure.
+IWML is an unsecured note issued by UBS. In a financial crisis or a period of extreme market stress, if UBS comes under pressure, the value of IWML could fall not only because of small-cap underperformance but also because the underlying credit quality of the issuer deteriorates. This two-way risk—[market risk](/market-risk/) plus issuer risk—is often overlooked by investors focused on the small-cap exposure.
 
 ## When small-cap leverage works
 

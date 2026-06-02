@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-What does Chainlink do? It solves one specific problem: blockchains do not naturally see data outside themselves. A blockchain like Ethereum can run code and hold value, but it has no way to know what the real-world price of oil is, or what the result of a sports game was, or whether a legal contract was satisfied in the physical world. Chainlink exists to bridge that gap. It is a network of computers that fetch real-world data and relay it onto the blockchain in a way that smart contracts can trust and use.
+What does Chainlink do? It solves one specific problem: blockchains do not naturally see data outside themselves. A blockchain like [Ethereum](/ethereum/) can run code and hold value, but it has no way to know what the real-world price of oil is, or what the result of a sports game was, or whether a legal contract was satisfied in the physical world. Chainlink exists to bridge that gap. It is a network of computers that fetch real-world data and relay it onto the blockchain in a way that smart contracts can trust and use.
 
 Why does that matter? Because the entire decentralized finance ecosystem—lending protocols, derivatives platforms, insurance products—depends on accurate, reliable real-world data. Without it, those systems fail or become vulnerable to manipulation.
 
-Bitwise Chainlink ETF (CLNK) gives investors a simple way to own a basket of tokens tied to the Chainlink ecosystem without dealing directly with a cryptocurrency exchange or managing their own wallet.
+Bitwise Chainlink ETF (CLNK) gives investors a simple way to own a basket of tokens tied to the Chainlink ecosystem without dealing directly with a [cryptocurrency exchange](/cryptocurrency-exchange/) or managing their own wallet.
 
 ## The problem Chainlink solves
 
@@ -36,13 +36,13 @@ Chainlink faces competition from other oracle networks: Band Protocol, Tellor, a
 
 The Chainlink ecosystem also depends on the broader smart-contract ecosystem. If the decentralized finance market shrinks because of regulation or loss of user confidence, demand for oracle services falls with it. Likewise, the smart contracts that use Chainlink data are only as good as that data; if oracle operators start providing bad information, or if there is a coordinated attack on the network, trust collapses and the token loses value.
 
-There is also technical risk. Oracle networks can be hacked or exploited if they have bugs or design flaws. A single catastrophic exploit or a major outage can destroy confidence in the entire network.
+There is also technical risk. [Oracle](/orcl-stock/) networks can be hacked or exploited if they have bugs or design flaws. A single catastrophic exploit or a major outage can destroy confidence in the entire network.
 
 ## What CLNK the ETF actually holds
 
 The ETF holds a basket of tokens associated with the Chainlink ecosystem. The core holding is typically the Chainlink native token, which is staked by oracle operators and used to pay fees. The fund may also hold secondary tokens or derivatives of Chainlink. The exact holdings vary and are spelled out in the fund's prospectus, which is the authoritative source for what you are buying.
 
-Like all crypto ETFs, CLNK holds volatile assets. The price of Chainlink tokens can swing 30% or more in a month based on sentiment about the cryptocurrency market, the decentralized finance sector, or Chainlink's own competitive position. The ETF provides a tax-efficient and convenient wrapper—you trade it on a stock exchange during normal hours, and the fund handles custody and rebalancing—but that convenience does not eliminate the underlying volatility.
+Like all crypto ETFs, CLNK holds volatile assets. The price of Chainlink tokens can swing 30% or more in a month based on sentiment about the cryptocurrency market, the decentralized finance sector, or Chainlink's own competitive position. The ETF provides a tax-efficient and convenient wrapper—you trade it on a [stock exchange](/stock-exchange/) during normal hours, and the fund handles custody and rebalancing—but that convenience does not eliminate the underlying volatility.
 
 ## How to research Chainlink as an investment
 
@@ -52,4 +52,4 @@ Watch the key on-chain metrics: the volume of data requests processed, the numbe
 
 Check the Chainlink GitHub repository for protocol updates and security audits. A well-maintained, frequently updated codebase suggests active development; a stalled repo raises red flags. Follow the conversation in the Chainlink Discord and the Smart Contract Research Forum to understand what developers and operators think about the network's direction.
 
-Understand that you are not buying a company. You are buying exposure to a protocol's token. The token has no earnings, no board of directors, and no quarterly guidance. Your returns depend on whether demand for the oracle service grows and whether the market assigns increasing value to owning the token. This is fundamentally different from buying a stock, and the risk profile is higher.
+Understand that you are not buying a company. You are buying exposure to a protocol's token. The token has no earnings, no [board of directors](/board-of-directors/), and no quarterly guidance. Your returns depend on whether demand for the oracle service grows and whether the market assigns increasing value to owning the token. This is fundamentally different from buying a stock, and the risk profile is higher.

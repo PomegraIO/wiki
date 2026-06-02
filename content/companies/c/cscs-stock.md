@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-*The **Direxion Daily CSCO Bear 1X ETF** (ticker CSCS) is an inverse fund. When Cisco stock goes down, CSCS goes up. When Cisco goes up, CSCS goes down. It is a tool for betting that Cisco will fall in price, without needing to borrow shares or use a broker's short-selling features directly.*
+*The **Direxion Daily CSCO Bear 1X ETF** (ticker CSCS) is an inverse fund. When Cisco stock goes down, CSCS goes up. When Cisco goes up, CSCS goes down. It is a tool for betting that Cisco will fall in price, without needing to borrow shares or use a [broker's](/broker/) short-selling features directly.*
 
 ## What it does
 
-Cisco is one of the largest tech companies in the world. Its stock trades on the Nasdaq exchange under the ticker CSCO. Most people who own Cisco stock hope the price goes up. CSCS is the opposite bet — it profits when Cisco falls.
+Cisco is one of the largest tech companies in the world. Its stock trades on the [Nasdaq](/nasdaq/) exchange under the ticker CSCO. Most people who own Cisco stock hope the price goes up. CSCS is the opposite bet — it profits when Cisco falls.
 
 CSCS aims to move opposite to Cisco's daily price moves, point for point. If Cisco drops 2 per cent, CSCS should gain around 2 per cent. If Cisco rises 2 per cent, CSCS should lose around 2 per cent. It is designed for traders who think Cisco is overpriced or about to fall and want to profit from that belief without needing to short the stock directly.
 
@@ -22,7 +22,7 @@ CSCS aims to move opposite to Cisco's daily price moves, point for point. If Cis
 
 CSCS uses derivatives — financial contracts called swaps and index futures — to create its inverse exposure. The fund does not actually borrow and sell Cisco shares the way a traditional short-seller does. Instead, it buys derivatives that go up when Cisco goes down. This is much more efficient for a public fund because short-selling has limits, costs, and can be hard for retail investors to arrange.
 
-The fund trades on the stock exchange just like any other ETF. You can buy it and sell it during market hours. It has reasonable bid-ask spreads, meaning you do not lose much money to trading costs when you enter or exit.
+The fund trades on the [stock exchange](/stock-exchange/) just like any other ETF. You can buy it and sell it during market hours. It has reasonable [bid-ask spreads](/bid-ask-spread/), meaning you do not lose much money to trading costs when you enter or exit.
 
 ## The catch: daily rebalancing and decay
 
@@ -34,7 +34,7 @@ The higher the volatility (the more Cisco jumps around), the worse the decay. Du
 
 ## Costs
 
-The expense ratio is higher than a simple stock ETF because the fund must manage derivatives every day. The cost is small in absolute terms — usually well under 1 per cent per year — but it is another drag on returns beyond the volatility decay.
+The [expense ratio](/expense-ratio/) is higher than a simple stock ETF because the fund must manage derivatives every day. The cost is small in absolute terms — usually well under 1 per cent per year — but it is another drag on returns beyond the volatility decay.
 
 ## Who should own CSCS
 

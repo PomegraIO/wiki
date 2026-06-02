@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Rexford Industrial Realty was founded in 2013 as a blank-slate real estate investment trust, purpose-built to acquire, operate, and improve industrial properties in Southern California. In the decade that has followed, the company has evolved from a small, focused regional player into one of the key holders of industrial real estate in one of the world's busiest logistics corridors. That evolution traces not just the company's success, but the broader structural shift in American logistics driven by e-commerce, supply-chain fragmentation, and the irreplaceable role of the Southern California ports.
+[Rexford Industrial Realty](/rexr-stock/) was founded in 2013 as a blank-slate [real estate investment trust](/real-estate-investment-trust/), purpose-built to acquire, operate, and improve industrial properties in Southern California. In the decade that has followed, the company has evolved from a small, focused regional player into one of the key holders of industrial real estate in one of the world's busiest logistics corridors. That evolution traces not just the company's success, but the broader structural shift in American logistics driven by e-commerce, supply-chain fragmentation, and the irreplaceable role of the Southern California ports.
 
 ## The founding thesis
 
@@ -21,7 +21,7 @@ The company began acquiring smaller industrial buildings — typically between 5
 
 ## Early years: Building the portfolio and brand
 
-From 2013 to 2015, Rexford operated in relative obscurity, steadily acquiring properties, integrating them into a common operating system, and beginning to manage them professionally. The company went public in late 2013 as a REIT, which gave it access to capital markets for acquisition financing and allowed it to use stock as currency for deals. Early investors were betting on the company's ability to execute its focused strategy: find undervalued or undermanaged industrial properties, improve them operationally, and grow rental income.
+From 2013 to 2015, Rexford operated in relative obscurity, steadily acquiring properties, integrating them into a common operating system, and beginning to manage them professionally. The company went public in late 2013 as a REIT, which gave it access to capital markets for [acquisition](/acquisition/) financing and allowed it to use stock as currency for deals. Early investors were betting on the company's ability to execute its focused strategy: find undervalued or undermanaged industrial properties, improve them operationally, and grow rental income.
 
 The early properties it acquired set the pattern for the company's approach. Rexford bought older buildings in suboptimal condition, improved the structural and mechanical systems, upgraded tenancy, and pushed rents toward market rates as leases renewed. The strategy worked because the properties' locations — near ports, distribution corridors, and densifying residential areas — made them valuable to tenants even at higher rents.
 
@@ -35,7 +35,7 @@ Rexford's portfolio benefited directly. Tenants competed for space; rents rose. 
 
 The pandemic intensified the trend. Lockdowns accelerated e-commerce adoption; supply chains that had been optimized for cost suddenly prioritized resilience and speed. Every shipping container and every warehouse space in the Southern California corridor was in use. Rents spiked. Rexford's portfolio was perfectly positioned — thousands of properties in the exact region where every logistics company wanted to operate.
 
-During this period, Rexford also evolved operationally. The company improved its property management systems, expanded its team, and became more visible to institutional investors. It began issuing preferred shares (like REXR-PC) as part of its capital structure, diversifying its funding sources beyond common equity and debt. The preferred shares give investors a different risk and return profile than common stock — typically lower volatility, steady dividend payment, but less upside.
+During this period, Rexford also evolved operationally. The company improved its property management systems, expanded its team, and became more visible to institutional investors. It began issuing preferred shares (like REXR-PC) as part of its capital structure, diversifying its funding sources beyond common equity and debt. The preferred shares give investors a different risk and return profile than [common stock](/common-stock/) — typically lower volatility, steady [dividend](/dividend/) payment, but less upside.
 
 The company's external growth was also shaped by acquisitions and joint ventures. Rexford acquired regional portfolios, merged with smaller operators, and in some cases structured partnerships with institutional partners who provided capital in exchange for fee income and eventual equity upside.
 
@@ -43,7 +43,7 @@ The company's external growth was also shaped by acquisitions and joint ventures
 
 Today, Rexford is a substantial REIT with a portfolio of hundreds of industrial properties across Southern California. The company has matured from a small opportunistic buyer into a scaled operator with recognized expertise in the market. Its tenant base spans last-mile delivery services, specialty manufacturers, food distribution, logistics operators, and a wide array of small industrial users.
 
-However, Rexford also faces a more complex environment than in its early years. Property valuations have compressed as interest rates rose and as the supply-chain surge that characterized 2020–2021 has moderated. Competition for industrial properties has intensified; other REITs and large institutional investors have deployed vast capital into the same market. Rent growth, while still above historical averages, has slowed from the pandemic-era pace. The company's returns on new acquisitions are therefore lower than they were when it operated in a less efficient market.
+However, Rexford also faces a more complex environment than in its early years. Property valuations have compressed as [interest rates](/interest-rate/) rose and as the supply-chain surge that characterized 2020–2021 has moderated. Competition for industrial properties has intensified; other REITs and large institutional investors have deployed vast capital into the same market. Rent growth, while still above historical averages, has slowed from the pandemic-era pace. The company's returns on new acquisitions are therefore lower than they were when it operated in a less efficient market.
 
 ## Forward trajectory
 

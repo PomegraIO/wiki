@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Cayson Acquisition Corp exists at a peculiar intersection in finance: it is a public company with zero revenue, no operations, and no products. Yet it holds something valuable—capital, credibility, and a mandate. The company raised money from public investors with a single purpose stated clearly: within a defined window (typically 24 months), identify a private operating company, negotiate its acquisition, and merge the two entities. That merger transforms Cayson from a shell into an operating business, and transforms the private company from private to public.
+[Cayson Acquisition](/capn-stock/) Corp exists at a peculiar intersection in finance: it is a public company with zero revenue, no operations, and no products. Yet it holds something valuable—capital, credibility, and a mandate. The company raised money from public investors with a single purpose stated clearly: within a defined window (typically 24 months), identify a private operating company, negotiate its [acquisition](/acquisition/), and merge the two entities. That [merger](/merger/) transforms Cayson from a shell into an operating business, and transforms the private company from private to public.
 
 CAPNU is one of the security types Cayson issued at launch. Like CAPNR, it represents ownership in Cayson Acquisition Corp, but with a slightly different configuration of rights and claims. The distinction matters for investors with different goals—some want shares alone, others want a bundle of shares plus warrants or other derivatives. Both CAPNU and CAPNR are paths into the same blank-check vehicle.
 
@@ -28,7 +28,7 @@ CAPNU is one of the security types Cayson issued at launch. Like CAPNR, it repre
 
 ## The capital pool and trust structure
 
-Cayson Acquisition Corp's entire function is capital aggregation and stewardship. When the company conducted its initial public offering, it raised cash from investors—pension funds, hedge funds, retail shareholders, anyone willing to put money into a speculative bet on the sponsor's deal-making ability. That cash does not sit in a corporate bank account vulnerable to spending for general corporate purposes. Instead, it lives in a trust account at a major bank, completely segregated. The money is untouchable except for two things: paying the modest operating expenses of running the shell company itself (legal, audit, investor relations), or closing an acquisition.
+Cayson Acquisition Corp's entire function is capital aggregation and stewardship. When the company conducted its [initial public offering](/initial-public-offering/), it raised cash from investors—pension funds, [hedge funds](/hedge-fund/), retail shareholders, anyone willing to put money into a speculative bet on the sponsor's deal-making ability. That cash does not sit in a corporate bank account vulnerable to spending for general corporate purposes. Instead, it lives in a trust account at a major bank, completely segregated. The money is untouchable except for two things: paying the modest operating expenses of running the shell company itself (legal, audit, investor relations), or closing an acquisition.
 
 This trust structure is the mechanism that makes blank-check companies credible. It tells investors: "Your money is safe. It cannot be stolen or diverted. It will either be returned to you if the sponsor fails to find a deal, or handed over to acquire a real company."
 

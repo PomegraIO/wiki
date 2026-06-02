@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-WESTERN ASSET PREMIER BOND FUND (NYSE: WEA) is a closed-end investment company that pools investor capital to purchase a diversified portfolio of investment-grade and higher-yielding fixed-income securities. Unlike open-end [mutual funds](/mutual-fund/), a [closed-end fund](/closed-end-fund/) has a fixed number of shares that trade on an exchange like ordinary stocks. The fund is managed by Western Asset, a subsidiary of [Franklin Resources](/ben-stock/) Inc., and its chief objective is to generate high current income while preserving capital.
+WESTERN ASSET PREMIER [BOND](/bond/) FUND (NYSE: WEA) is a closed-end investment company that pools investor capital to purchase a diversified portfolio of investment-grade and higher-yielding fixed-income securities. Unlike open-end [mutual funds](/mutual-fund/), a [closed-end fund](/closed-end-fund/) has a fixed number of shares that trade on an exchange like ordinary stocks. The fund is managed by Western Asset, a subsidiary of [Franklin Resources](/ben-stock/) Inc., and its chief objective is to generate high current income while preserving capital.
 
 <aside class="wiki-infobox">
 <table>

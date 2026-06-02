@@ -13,7 +13,7 @@ handwritten: true
 
 ## What is CBTO, and how does it differ from owning Bitcoin directly?
 
-CBTO is an exchange-traded fund that gives investors Bitcoin exposure without holding Bitcoin itself. Instead, it uses financial options—contracts that specify a return outcome based on Bitcoin's price—to deliver a defined set of results. Those results are: if Bitcoin rises, you capture gains up to a predetermined cap (roughly 35 percent, though the exact level changes daily). If Bitcoin falls, your maximum loss is 20 percent, enforced by an 80 percent downside protection floor. The fund references Bitcoin's price through the CME CF Bitcoin Reference Rate—New York Variant (BRRNY), a standard benchmark for spot Bitcoin pricing.
+CBTO is an exchange-traded fund that gives investors [Bitcoin](/bitcoin/) exposure without holding Bitcoin itself. Instead, it uses financial options—contracts that specify a return outcome based on Bitcoin's price—to deliver a defined set of results. Those results are: if Bitcoin rises, you capture gains up to a predetermined cap (roughly 35 percent, though the exact level changes daily). If Bitcoin falls, your maximum loss is 20 percent, enforced by an 80 percent downside protection floor. The fund references Bitcoin's price through the CME CF Bitcoin Reference Rate—New York Variant (BRRNY), a standard benchmark for spot Bitcoin pricing.
 
 The difference from direct Bitcoin ownership is profound. A Bitcoin investor owns the asset outright; they capture every percentage point of movement, up or down. A CBTO investor owns a structured package: the upside is capped, the downside is floored, and both outcomes are locked in at the beginning of the outcome period.
 
@@ -33,7 +33,7 @@ This is why Calamos offers multiple series. Investors unable or unwilling to hol
 
 ## How are the cap and floor determined, and do they ever change?
 
-The cap and floor are determined at the outset of the outcome period using options pricing. At the beginning of October, Calamos's team uses market data on Bitcoin's volatility, interest rates, and time value to set the cap and floor such that the options strategy is self-funding (the premium earned from selling upside caps pays for the cost of providing downside protection). Once October 1 arrives, those levels are locked. They do not change even if Bitcoin's volatility spikes or plummets afterward.
+The cap and floor are determined at the outset of the outcome period using options pricing. At the beginning of October, Calamos's team uses market data on Bitcoin's volatility, [interest rates](/interest-rate/), and [time value](/time-value/) to set the cap and floor such that the options strategy is self-funding (the premium earned from selling upside caps pays for the cost of providing downside protection). Once October 1 arrives, those levels are locked. They do not change even if Bitcoin's volatility spikes or plummets afterward.
 
 The cap and floor remain static for the full year. If Bitcoin tripled tomorrow, the cap would still be the same cap set on October 1. If Bitcoin crashed 80 percent in month three, the floor would still be 20 percent loss, no worse. That immutability is both a strength (certainty) and a limitation (inability to adapt to changed circumstances).
 
@@ -47,7 +47,7 @@ From a practical standpoint, investors do not need to do anything. If they want 
 
 ## How much does it cost to own CBTO, and what does the 0.69 percent expense ratio cover?
 
-CBTO charges 0.69 percent annually in operating expenses. This covers the fund's operational costs, trading commissions, and the cost of maintaining the options positions that create the cap and collar. The options are not free; Calamos is essentially paying the options market a premium to lock in a floor, and that cost flows through to the expense ratio.
+CBTO charges 0.69 percent annually in operating expenses. This covers the fund's operational costs, trading commissions, and the cost of maintaining the options positions that create the cap and collar. The options are not free; Calamos is essentially paying the options market a premium to lock in a floor, and that cost flows through to the [expense ratio](/expense-ratio/).
 
 The net cap you observe—say, 34.55 percent—is net of that 0.69 percent fee. The gross cap before the fee might be 35.16 percent. The difference between gross and net returns is the fee being charged. Over the full year, if Bitcoin gains 40 percent gross, it would be worth 39.31 percent net after the fee (but CBTO would cap at 34.55 percent, so the fee is cost on top of the cap constraint).
 
@@ -57,7 +57,7 @@ The primary risk is entry-exit timing. Buy in December, sell in April, and you d
 
 The second risk is opportunity cost. If Bitcoin rallies 70 percent during the outcome period and CBTO's cap is 35 percent, you earned 35 percent while the asset moved 70 percent. You missed the upper half of the move. That is the price of protection; over many outcome periods, a significant portion of Bitcoin's upside is sacrificed to fund downside protection.
 
-The third risk is options market risk. The options referenced in the fund are financial contracts; if they become illiquid, repriced sharply, or impaired due to market stress, the fund's performance can diverge unexpectedly from its stated outcomes. This is rare but not zero probability.
+The third risk is options [market risk](/market-risk/). The options referenced in the fund are financial contracts; if they become illiquid, repriced sharply, or impaired due to market stress, the fund's performance can diverge unexpectedly from its stated outcomes. This is rare but not zero probability.
 
 The fourth risk is that a 20 percent loss, while better than 50 percent, is still a loss. During a bitcoin drawdown, CBTO will fall, likely alongside most equity and risk assets. It is not a hedge; it is a reduced-downside play. Investors should not confuse "80 percent protected" with "safe" or "guaranteed to be positive."
 
@@ -69,6 +69,6 @@ Look at historical data on prior October series. How often did Bitcoin stay with
 
 Compare the cap to Bitcoin's recent volatility and price trends. If Bitcoin has already moved 25 percent in the first month of the outcome period, a 35 percent cap may be tight; there is less room to run. If Bitcoin is consolidating, a 35 percent cap might be generous, and CBTO could outperform spot Bitcoin.
 
-Check the underlying Bitcoin exposure. Do the embedded options reference a Bitcoin ETF (iShares, Grayscale, etc.), Bitcoin futures, or a dedicated Bitcoin index? This affects liquidity and counterparty risk.
+Check the underlying Bitcoin exposure. Do the embedded options reference a Bitcoin ETF (iShares, Grayscale, etc.), Bitcoin futures, or a dedicated Bitcoin index? This affects liquidity and [counterparty risk](/counterparty-risk/).
 
 Finally, calculate the true cost. Compare CBTO's expense ratio to a spot Bitcoin ETF's fee (often 0.2 percent or less), then add the opportunity cost of a capped upside. Over time, that cost accumulates; CBTO is a defensive position, appropriate for investors who value downside certainty over upside capture.

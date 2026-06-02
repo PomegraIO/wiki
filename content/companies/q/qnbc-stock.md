@@ -19,7 +19,7 @@ The bank operates through a network of branch offices positioned to serve Bucks,
 
 ## A Durable but Narrow Moat
 
-QNB competes in one of the most commoditized and consolidating sectors of American finance. Its competitive moat is locality and relationship. A Pennsylvania customer with a mortgage or a home equity line can shop rates online and may find a [national bank](/nbhc-stock/) cheaper; QNB survives by being known, accessible, and aligned with the customer's local context. Many commercial borrowers likewise value the convenience of walking into a branch to discuss a renewal or expansion.
+QNB competes in one of the most commoditized and consolidating sectors of American finance. Its competitive moat is locality and relationship. A Pennsylvania customer with a mortgage or a home equity line can shop rates online and may find a national bank cheaper; QNB survives by being known, accessible, and aligned with the customer's local context. Many commercial borrowers likewise value the convenience of walking into a branch to discuss a renewal or expansion.
 
 That moat is durable against national competitors—those are not eager to staff a dozen small-town branches to chase QNB's deposit base. It is fragile against other local banks or credit unions, or against digital upstarts offering no-nonsense lending. QNB's scale (roughly $2–3 billion in assets) is large enough to support modern core processing and meet regulatory requirements, but small enough that a major economic downturn or a rise in competition from credit unions or fintechs could squeeze margins and market share.
 

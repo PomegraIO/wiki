@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Avantis Responsible U.S. Equity ETF (AVSU) holds shares in hundreds of U.S. companies that pass an environmental, social, and governance screening. It is not a pure ESG fund that avoids entire industries like oil and gas. Instead, it filters for companies within those industries that score higher on responsible business practices, then applies a value overlay to pick stocks trading at cheaper prices relative to their earnings or assets.
+The Avantis Responsible U.S. [Equity ETF](/equity-etf/) (AVSU) holds shares in hundreds of U.S. companies that pass an environmental, social, and governance screening. It is not a pure ESG fund that avoids entire industries like oil and gas. Instead, it filters for companies within those industries that score higher on responsible business practices, then applies a value overlay to pick stocks trading at cheaper prices relative to their earnings or assets.
 
 <aside class="wiki-infobox">
 <table>
@@ -39,15 +39,15 @@ The combination means AVSU can hold companies in old-line industries like bankin
 
 ## Holdings and composition
 
-AVSU holds roughly 500 U.S. companies across all major sectors. The largest holdings typically include financial services, technology, industrials, and healthcare companies — the same rough mix as the broader U.S. stock market, but skewed toward the cheaper and more responsible within each category. Turnover is moderate, as American Century's managers rebalance quarterly to maintain the value characteristics.
+AVSU holds roughly 500 U.S. companies across all major sectors. The largest holdings typically include financial services, technology, industrials, and healthcare companies — the same rough mix as the broader U.S. [stock market](/stock-market/), but skewed toward the cheaper and more responsible within each category. Turnover is moderate, as American Century's managers rebalance quarterly to maintain the value characteristics.
 
 The fund is diversified across company sizes. It includes large-cap names familiar to most investors, mid-cap companies that are widely followed but less dominant, and smaller large-caps that the value tilt can illuminate. This range delivers broad U.S. market exposure without being a pure market-weighted index.
 
 ## Costs and how it trades
 
-The expense ratio is around 0.20% annually — a small fee that reflects the cost of the ESG screening and value-factor analysis but remains competitive compared to both active managers and more specialist ESG-only funds. The fund trades on NASDAQ with solid daily volume and tight spreads, making it straightforward to buy and sell in almost any size.
+The [expense ratio](/expense-ratio/) is around 0.20% annually — a small fee that reflects the cost of the ESG screening and value-factor analysis but remains competitive compared to both active managers and more specialist ESG-only funds. The fund trades on [NASDAQ](/nasdaq/) with solid daily volume and tight spreads, making it straightforward to buy and sell in almost any size.
 
-AVSU reinvests dividends automatically unless an investor chooses otherwise, so the fund compounds its holdings' income without additional action. The tax efficiency is reasonable for an actively managed equity fund, though it is not as tax-optimized as pure passive index funds.
+AVSU reinvests [dividends](/dividend/) automatically unless an investor chooses otherwise, so the fund compounds its holdings' income without additional action. The tax efficiency is reasonable for an actively managed equity fund, though it is not as tax-optimized as pure passive [index funds](/index-fund/).
 
 ## Who AVSU is for
 

@@ -17,7 +17,7 @@ keywords: [laser, medical device, ophthalmic, surgical, aesthetic, FDA, manufact
 
 ## How IRIDEX Produces Its Devices
 
-IRIX manufactures laser systems in its own facilities, where components are assembled into integrated platforms. The manufacturing process involves [precision optics](/poci-stock/)—mirrors, lenses, fiber-optic cables—sourced from specialized suppliers, combined with laser tubes or solid-state laser modules that require calibration and safety certification before shipment. Each unit must pass [FDA](/securities-and-exchange-commission/) clearance as a Class II or III medical device, a regulatory hurdle that takes months and creates switching costs for competitors seeking to displace installed systems. The company operates a direct sales force that calls on hospitals, surgical centers, and cosmetic clinics, educating physicians on technique and building loyalty to a specific laser platform.
+IRIX manufactures laser systems in its own facilities, where components are assembled into integrated platforms. The manufacturing process involves precision optics—mirrors, lenses, fiber-optic cables—sourced from specialized suppliers, combined with laser tubes or solid-state laser modules that require calibration and safety certification before shipment. Each unit must pass [FDA](/securities-and-exchange-commission/) clearance as a Class II or III medical device, a regulatory hurdle that takes months and creates switching costs for competitors seeking to displace installed systems. The company operates a direct sales force that calls on hospitals, surgical centers, and cosmetic clinics, educating physicians on technique and building loyalty to a specific laser platform.
 
 ## Equipment Sales and the Consumables Moat
 

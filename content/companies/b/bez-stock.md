@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Tradr 2X Short BE Daily ETF (ticker BEZ) is a short leveraged fund that inverts and amplifies emerging-market moves. For every 1 percent the underlying emerging-market index rises, BEZ aims to fall about 2 percent. For every 1 percent the index falls, BEZ aims to rise about 2 percent. The fund does this through derivatives and short selling — effectively betting that emerging-market stocks will decline while providing 2X leverage on that bet. It is built for traders hedging market exposure or tactically betting on emerging-market weakness, not for long-term holders.
+The Tradr 2X Short BE Daily ETF (ticker BEZ) is a short leveraged fund that inverts and amplifies emerging-market moves. For every 1 percent the underlying emerging-market index rises, BEZ aims to fall about 2 percent. For every 1 percent the index falls, BEZ aims to rise about 2 percent. The fund does this through derivatives and [short selling](/short-selling/) — effectively betting that emerging-market stocks will decline while providing 2X leverage on that bet. It is built for traders hedging market exposure or tactically betting on emerging-market weakness, not for long-term holders.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ The Tradr 2X Short BE Daily ETF (ticker BEZ) is a short leveraged fund that inve
 
 Most investors are familiar with buying stocks and benefiting when prices rise. Shorting is the opposite. A short seller borrows a stock, sells it immediately at the current market price, and pockets the proceeds. If the price falls, the short seller buys the stock back at the lower price, returns it to the lender, and keeps the difference as profit.
 
-BEZ does this systematically for an entire index. It holds short positions (or derivatives equivalent to short positions) on the stocks that make up an emerging-market index. When those stocks fall in price, the fund's short positions gain value. The fund's structure uses swaps or futures contracts to establish this short exposure without the mechanics of actually borrowing and selling individual stocks.
+BEZ does this systematically for an entire index. It holds short positions (or derivatives equivalent to short positions) on the stocks that make up an emerging-market index. When those stocks fall in price, the fund's short positions gain value. The fund's structure uses swaps or [futures contracts](/futures-contract/) to establish this short exposure without the mechanics of actually borrowing and selling individual stocks.
 
 The 2X leverage amplifies these gains. Rather than aiming to profit from a 1 percent decline in the index, BEZ targets a 2 percent gain when the index falls 1 percent. This requires borrowing capital and leveraging the position, just as the long leveraged fund BEX does — but in the opposite direction.
 
@@ -49,7 +49,7 @@ The critical point: this is a hedge for days or weeks, not for months or years. 
 
 ## Use case: tactical directional short
 
-Some traders believe emerging markets are about to decline sharply — perhaps due to expected central-bank tightening, recession fears, or specific regional risks. Rather than short individual emerging-market stocks or trade futures contracts, BEZ offers 2X leveraged short exposure in an ETF format. It provides a simple way to express a short-term bearish view, though it comes with decay and daily reset risk.
+Some traders believe emerging markets are about to decline sharply — perhaps due to expected central-bank tightening, [recession](/recession/) fears, or specific regional risks. Rather than short individual emerging-market stocks or trade futures contracts, BEZ offers 2X leveraged short exposure in an ETF format. It provides a simple way to express a short-term bearish view, though it comes with decay and daily reset risk.
 
 ## The emerging-market exposure and the risk of rebalancing against you
 
@@ -61,6 +61,6 @@ BEZ also faces a perverse incentive if the market is falling. As emerging-market
 
 Because BEZ is a short position with leverage, it carries special risks. If emerging markets gap higher on a geopolitical shock or extremely positive economic news, BEZ could lose much of its value in a single trading session. Leverage magnifies this risk.
 
-The fund's expense ratio and bid-ask spread are important if you plan to trade it actively. For a tactical position held over days or weeks, tight spreads matter. For a position held longer, the compounding decay from daily resets will likely exceed any benefit from 2X leverage.
+The fund's [expense ratio](/expense-ratio/) and [bid-ask spread](/bid-ask-spread/) are important if you plan to trade it actively. For a tactical position held over days or weeks, tight spreads matter. For a position held longer, the compounding decay from daily resets will likely exceed any benefit from 2X leverage.
 
 Anyone considering BEZ should read the prospectus closely, understand how the inverse and leveraged mechanics work, and simulate outcomes under various market scenarios. BEZ is a specialized tool for traders, not for long-term investors. It should be held for days or weeks at most, not months or years. Investors new to markets or uncomfortable with leveraged derivatives should avoid it entirely.

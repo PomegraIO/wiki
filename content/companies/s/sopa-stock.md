@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Society Pass Incorporated (Nasdaq: SOPA) is an acquisition-focused holding company that operates interconnected digital-commerce, travel, and lifestyle platforms across fast-growing Southeast Asian markets. Founded in 2018, the company operates a diverse portfolio of regional brands spanning Vietnam, Indonesia, the Philippines, Singapore, and Thailand. At its core lies a proprietary loyalty system — Society Points — that aims to unify customer behaviour across otherwise separate marketplaces and services. The company's geographic concentration in Southeast Asia, where rising middle-class incomes and mobile-first consumer behaviour create strong tailwinds for digital commerce, shapes both its opportunity and its exposure to regional economic volatility.
+[Society Pass](/sopaq-stock/) Incorporated ([Nasdaq](/nasdaq/): SOPA) is an acquisition-focused holding company that operates interconnected digital-commerce, travel, and lifestyle platforms across fast-growing Southeast Asian markets. Founded in 2018, the company operates a diverse portfolio of regional brands spanning Vietnam, Indonesia, the Philippines, Singapore, and Thailand. At its core lies a proprietary loyalty system — Society Points — that aims to unify customer behaviour across otherwise separate marketplaces and services. The company's geographic concentration in Southeast Asia, where rising middle-class incomes and mobile-first consumer behaviour create strong tailwinds for digital commerce, shapes both its opportunity and its exposure to regional economic volatility.
 
 <aside class="wiki-infobox">
 <table>
@@ -36,7 +36,7 @@ The loyalty-points strategy also creates a data asset. Every transaction, redemp
 
 Leflair.com is Society Pass's lifestyle e-commerce flagship, operating as Vietnam's leading marketplace for fashion, beauty, home, and lifestyle goods. The platform takes commission on sales (typically 12–15% per transaction) and drives revenue from advertising and brand partnerships. Pushkart.ph, the Philippines-based grocery delivery service, operates on similar mechanics: commissions on merchant orders, advertising from brands that want visibility to grocery shoppers, and subscription revenue from customers who pay for accelerated delivery.
 
-The Handycart and Mangan restaurant-delivery services operate the same model in Vietnam and the Philippines respectively. E-commerce and delivery are hypercompetitive segments with thin margins, high customer acquisition costs, and intense logistical challenges. Society Pass's multi-market presence lets it share learning across regions (a successful feature in the Vietnamese app can be tested in the Philippine one) and gives it some scale efficiencies, but it does not insulate it from the fundamental economics of the sector: large players like Grab and Shopee have deeper pockets and can undercut smaller competitors on pricing and delivery speed.
+The Handycart and Mangan restaurant-delivery services operate the same model in Vietnam and the Philippines respectively. E-commerce and delivery are hypercompetitive segments with thin margins, high customer [acquisition](/acquisition/) costs, and intense logistical challenges. Society Pass's multi-market presence lets it share learning across regions (a successful feature in the Vietnamese app can be tested in the Philippine one) and gives it some scale efficiencies, but it does not insulate it from the fundamental economics of the sector: large players like Grab and Shopee have deeper pockets and can undercut smaller competitors on pricing and delivery speed.
 
 ## The digital media and entertainment division
 
@@ -56,7 +56,7 @@ Society Pass reported revenues of $32.6 million in fiscal 2023, split across tra
 
 ## Geographic and regulatory exposure
 
-Southeast Asia is a high-growth but volatile region. Currency fluctuations, political instability, regulatory changes, and economic slowdowns ripple through all of Society Pass's markets. The company operates in jurisdictions with varying levels of maturity in e-commerce regulation, payment processing, and consumer-protection law. Each market requires localised operations, regulatory navigation, and culturally adapted products. This geographic concentration is both an opportunity (markets with rising incomes and mobile penetration) and a risk (exposure to regional shocks with no geographic diversification).
+Southeast Asia is a high-growth but volatile region. Currency fluctuations, political instability, regulatory changes, and economic slowdowns ripple through all of Society Pass's markets. The company operates in jurisdictions with varying levels of maturity in e-commerce regulation, payment processing, and consumer-protection law. Each market requires localised operations, regulatory navigation, and culturally adapted products. This geographic concentration is both an opportunity (markets with rising incomes and mobile penetration) and a risk (exposure to regional shocks with no geographic [diversification](/diversification/)).
 
 ## Capital structure and recent challenges
 

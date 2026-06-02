@@ -25,7 +25,7 @@ Tego Cyber, Inc. is a cybersecurity company that develops software and services 
 
 ## The Competitive Landscape
 
-Cybersecurity is dominated by a small number of fortress-like incumbents: CrowdStrike, Microsoft, Palo Alto Networks, Cisco, and others that have built moats through decades of customer relationships, integration with widely deployed tools, and heavy spending on research and development. These companies have moved from point solutions into comprehensive security platforms that try to protect every layer of a customer's environment. A large enterprise can consolidate most of its security spending with a single vendor, creating sticky, long-term relationships and high switching costs.
+Cybersecurity is dominated by a small number of fortress-like incumbents: [CrowdStrike](/crwd-stock/), [Microsoft](/msft-stock/), [Palo Alto Networks](/panw-stock/), Cisco, and others that have built moats through decades of customer relationships, integration with widely deployed tools, and heavy spending on research and development. These companies have moved from point solutions into comprehensive security platforms that try to protect every layer of a customer's environment. A large enterprise can consolidate most of its security spending with a single vendor, creating sticky, long-term relationships and high switching costs.
 
 Smaller security companies like Tego Cyber must compete by specializing — focusing on a particular threat, a particular type of asset, or a particular kind of customer where larger vendors are less focused. The theory is that deep specialization allows a smaller company to build better, more targeted solutions than a large vendor can, and to move faster when threats evolve.
 
@@ -43,7 +43,7 @@ For mid-market and smaller customers, budget constraints are real. They often ca
 
 ## The Path of Survival
 
-Tego Cyber's competitive options are limited. The company could pursue organic growth by finding and dominating a specific niche — a particular type of threat, a particular vertical industry, or a particular geography — where it can become the best and most specialized option. This path is slow and capital-intensive. Alternatively, the company could become an acquisition target. Many security companies have been acquired by larger firms seeking to add capability to their platforms. That path returns capital to shareholders but ends the company's independent existence.
+Tego Cyber's competitive options are limited. The company could pursue organic growth by finding and dominating a specific niche — a particular type of threat, a particular vertical industry, or a particular geography — where it can become the best and most specialized option. This path is slow and capital-intensive. Alternatively, the company could become an [acquisition](/acquisition/) target. Many security companies have been acquired by larger firms seeking to add capability to their platforms. That path returns capital to shareholders but ends the company's independent existence.
 
 The most challenging path is to compete head-to-head with larger vendors in large, attractive markets. History suggests this rarely succeeds. Smaller vendors that have tried to build general-purpose, broad-market security platforms have generally failed or been acquired.
 

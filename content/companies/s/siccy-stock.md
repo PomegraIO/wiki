@@ -29,7 +29,7 @@ SICC Co., Ltd. is a Chinese materials science company that manufactures silicon 
 
 ## Why silicon carbide matters
 
-Silicon, the material at the heart of almost all electronics, has dominated for decades because the manufacturing processes were mature and costs were low. But silicon has a fundamental physical limitation: it cannot sustain high voltages and high temperatures simultaneously without losing efficiency. For applications that demand both—a Tesla battery inverter switching between battery and motor, a high-power 5G amplifier, a solar farm's central inverter managing megawatt-scale flows—silicon reaches its limits.
+Silicon, the material at the heart of almost all electronics, has dominated for decades because the manufacturing processes were mature and costs were low. But silicon has a fundamental physical limitation: it cannot sustain high voltages and high temperatures simultaneously without losing efficiency. For applications that demand both—a [Tesla](/tsla-stock/) battery inverter switching between battery and motor, a high-power 5G amplifier, a solar farm's central inverter managing megawatt-scale flows—silicon reaches its limits.
 
 Silicon carbide is an alternative compound semiconductor: silicon atoms bonded with carbon atoms in a crystal lattice. It has a much wider bandgap than silicon, meaning it can tolerate higher voltages without leaking current, operates at higher temperatures without degrading, and conducts heat more efficiently. In power electronics, that means smaller devices, less cooling required, and higher efficiency. An electric-vehicle inverter built on silicon carbide can convert power more efficiently than one on silicon, which translates to longer range per charge, a critical metric in EV adoption. A 5G base station using silicon carbide amplifiers generates less heat, needs less air conditioning, and operates more reliably.
 
@@ -71,10 +71,10 @@ Finally, SICC's listing structure—American Depositary Shares representing a fr
 
 ## How to research SICC as an investment
 
-Anyone interested in SICC should start with the company's SEC filings under CIK 0002098860 and its filings with the Shanghai Stock Exchange. Pay close attention to revenue by application segment—electric vehicles, 5G, renewable energy, defense—because these reflect the company's exposure to different end-market growth rates.
+Anyone interested in SICC should start with the company's SEC filings under CIK 0002098860 and its filings with the [Shanghai Stock Exchange](/shanghai-stock-exchange/). Pay close attention to revenue by application segment—electric vehicles, 5G, renewable energy, defense—because these reflect the company's exposure to different end-market growth rates.
 
 Watch for trends in substrate specifications and pricing. An increase in average selling price suggests the company is moving toward higher-margin, higher-specification products; a decrease suggests price pressure or a shift toward commodity substrate sales. Also track capacity utilization and capacity expansion plans, because in a capital-intensive business, idled capacity is a strong signal of demand weakness.
 
-Key metrics include gross margin, operating margin, and return on invested capital, which reveal whether the business model is sustainable. The company's ability to maintain or expand margins as capacity grows is a critical test. Also monitor customer concentration: if revenue is heavily dependent on a small number of customers, the company faces concentration risk.
+Key metrics include gross margin, [operating margin](/operating-margin/), and [return on invested capital](/return-on-invested-capital/), which reveal whether the business model is sustainable. The company's ability to maintain or expand margins as capacity grows is a critical test. Also monitor customer concentration: if revenue is heavily dependent on a small number of customers, the company faces [concentration risk](/concentration-risk/).
 
 Because SICC operates in a market with strong secular growth—electric vehicles and renewable energy adoption are accelerating globally—the company benefits from structural tailwinds. But those tailwinds also attract competitors and capital, which over time compress returns. As with any security, SICC shares trade on exchanges at prices set by the market, and nothing here is a recommendation to buy or sell.

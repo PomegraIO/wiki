@@ -13,7 +13,7 @@ handwritten: true
 
 Premium Brands Holdings is a Canadian company that owns a collection of specialty food brands. It buys smaller food businesses, keeps their brand names, and runs them together as a group. Most of what it makes is meat: beef, chicken, seafood, and prepared dishes that contain those proteins. Some of what it sells goes to grocery stores. Some goes to restaurants and food service companies. Some goes to food producers who use its meat as an ingredient in their own products.
 
-The company trades on the Toronto Stock Exchange under the ticker PRBRY. It is owned by shareholders, managed by executives in Richmond, British Columbia, and employs thousands of people across Canada and the United States.
+The company trades on the [Toronto Stock Exchange](/toronto-stock-exchange/) under the ticker PRBRY. It is owned by shareholders, managed by executives in Richmond, British Columbia, and employs thousands of people across Canada and the United States.
 
 <aside class="wiki-infobox">
 <table>
@@ -37,7 +37,7 @@ Premium Brands builds revenue by two main routes. First, it can grow the brands 
 
 ## Where the supplies come from and where they go
 
-Upstream, the company depends on ranches, farms, and fisheries that raise and produce the raw meat and seafood. A meatpacker has almost no control over the price of live cattle, pigs, or chicken; those prices are set by global commodity markets. Premium Brands buys from suppliers and has to manage its costs carefully because the price it pays for an animal is often the biggest cost in the product it makes.
+Upstream, the company depends on ranches, farms, and fisheries that raise and produce the raw meat and seafood. A meatpacker has almost no control over the price of [live cattle](/live-cattle/), pigs, or chicken; those prices are set by global commodity markets. Premium Brands buys from suppliers and has to manage its costs carefully because the price it pays for an animal is often the biggest cost in the product it makes.
 
 The company also depends on people willing to work in food production. Meat processing is labor-intensive work. It requires steady staffing, and in Canada and the United States that often means competing for workers against other employers. Wages and labor availability affect the company's ability to produce at cost and at scale.
 
@@ -67,7 +67,7 @@ The fifth risk is competition from other food companies and from private-label p
 
 ## How to research Premium Brands
 
-Anyone looking at this company should read the annual report and the 10-K filing (CIK 0001503812). Those documents list all the brands the company owns, the revenue from each channel, and the major risks management sees. Quarterly earnings calls are where the company explains what happened that quarter and what it sees coming.
+Anyone looking at this company should read the [annual report](/10-k/) and the 10-K filing (CIK 0001503812). Those documents list all the brands the company owns, the revenue from each channel, and the major risks management sees. Quarterly earnings calls are where the company explains what happened that quarter and what it sees coming.
 
 Watch the company's gross margins — is the meat it is selling getting more profitable or less? Watch whether it is growing through buying new brands or just selling more of the same products. Watch its debt level and whether it is making money after paying interest. Look at food safety incidents in the industry to understand how exposed all meatpackers are. And track commodity prices for beef, chicken, and pork, because those prices will move the company's cost structure.
 

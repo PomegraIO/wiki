@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Rego Payment Architectures is a provider of payment processing infrastructure and gateway services to merchants, payment facilitators, and [financial institutions](/fisi-stock/). The company operates in the competitive payments technology space, where scale, reliability, and the ability to adapt to regulatory change determine success.
+Rego Payment Architectures is a provider of payment processing infrastructure and gateway services to merchants, payment facilitators, and financial institutions. The company operates in the competitive payments technology space, where scale, reliability, and the ability to adapt to regulatory change determine success.
 
 <aside class="wiki-infobox">
 <table>

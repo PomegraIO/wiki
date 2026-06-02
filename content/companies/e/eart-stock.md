@@ -40,13 +40,13 @@ Investors drawn to EART typically believe that mineral prices will rise over a m
 
 ## Costs and liquidity
 
-EART carries a moderate to high expense ratio for a thematic ETF, reflecting the cost of maintaining the index and the smaller universe of constituent companies relative to a broad market fund. The fund trades daily with reasonable liquidity for most investors, though not all holdings within EART are equally liquid — some smaller mining companies and specialized processors have thinner markets.
+EART carries a moderate to high [expense ratio](/expense-ratio/) for a [thematic ETF](/thematic-etf/), reflecting the cost of maintaining the index and the smaller universe of constituent companies relative to a broad market fund. The fund trades daily with reasonable liquidity for most investors, though not all holdings within EART are equally liquid — some smaller mining companies and specialized processors have thinner markets.
 
 ## Real risks embedded in the theme
 
 **Commodity price volatility**: The core holdings are mining companies and mineral processors whose profits are highly sensitive to mineral prices. Mineral commodities are notoriously volatile. A surge in lithium prices from rising EV demand can collapse just as quickly if EV adoption stalls, battery recycling scales faster than expected, or a new processing technique improves recovery rates. EART's share prices swing sharply with these movements.
 
-**Geopolitical concentration**: China dominates the processing and separation of rare earths, and several other metals are mined mainly in countries with political or regulatory risk. Any disruption — sanctions, war, sudden environmental regulations, nationalism — can disrupt supply and prices. This is a feature of the theme, not a bug, but it introduces binary tail risks that broad indices do not face.
+**Geopolitical concentration**: China dominates the processing and separation of rare earths, and several other metals are mined mainly in countries with political or regulatory risk. Any disruption — sanctions, war, sudden environmental regulations, nationalism — can disrupt supply and prices. This is a feature of the theme, not a bug, but it introduces binary [tail risks](/tail-risk/) that broad indices do not face.
 
 **Cyclical demand**: EV adoption and renewable deployment are growing trends, but they are also influenced by policy, energy prices, and economic cycles. A sharp economic slowdown can hammer demand and mineral prices. A shift in government policy (for example, reversal of EV incentives) can slow adoption and reduce mineral consumption.
 
@@ -56,7 +56,7 @@ EART carries a moderate to high expense ratio for a thematic ETF, reflecting the
 
 ## How to research EART
 
-Begin with Global X's fund prospectus and fact sheet, which list the current 50–100 holdings by company and sector. Understand what percentage of the fund is exposed to actual mining versus processing versus downstream manufacturers. A fund heavily weighted to EV makers faces different risks than one concentrated in cobalt miners.
+Begin with Global X's [fund prospectus](/fund-prospectus/) and fact sheet, which list the current 50–100 holdings by company and sector. Understand what percentage of the fund is exposed to actual mining versus processing versus downstream manufacturers. A fund heavily weighted to EV makers faces different risks than one concentrated in cobalt miners.
 
 Study the underlying mineral prices: lithium, cobalt, nickel, rare earth element prices. These are publicly traded on commodities exchanges and indices. EART's share price tends to lead or lag these commodity prices depending on investor sentiment and the company mix. Understand the supply-demand balance for each key mineral — is supply tight and expected to stay tight, or is new capacity coming online?
 

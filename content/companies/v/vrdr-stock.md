@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Verde Resources operates in the intersection of [waste management](/wm-stock/), material science, and climate remediation. The company owns and licenses proprietary pyrolysis technology — a process that heats organic waste (such as agricultural residue, food processing byproducts, or construction debris) in an oxygen-starved environment to break it down into usable products, principally biochar. Biochar is a stable, carbon-rich material that can be used as a soil amendment, a construction component, or a feedstock for further manufacturing. Verde's business is to take waste that would otherwise go to landfill and turn it into a product with commercial value. The company is small, operates primarily in emerging environmental markets, and trades on the [over-the-counter market](/over-the-counter-market/).
+Verde Resources operates in the intersection of waste management, material science, and climate remediation. The company owns and licenses proprietary pyrolysis technology — a process that heats organic waste (such as agricultural residue, food processing byproducts, or construction debris) in an oxygen-starved environment to break it down into usable products, principally biochar. Biochar is a stable, carbon-rich material that can be used as a soil amendment, a construction component, or a feedstock for further manufacturing. Verde's business is to take waste that would otherwise go to landfill and turn it into a product with commercial value. The company is small, operates primarily in emerging environmental markets, and trades on the [over-the-counter market](/over-the-counter-market/).
 
 <aside class="wiki-infobox">
 <table>
@@ -38,7 +38,7 @@ Verde holds real property, including the land where its pyrolysis facilities ope
 
 ## Technology licensing — the potentially scalable layer
 
-Verde licenses its proprietary pyrolysis technology and processing know-how to third parties, allowing other operators to build and run biochar production facilities under Verde's methods. This is a capital-light, high-margin business segment — Verde receives licensing fees [or royalties](/or-stock/) without having to operate the facilities directly. If the company can scale this segment effectively, licensing could become a more predictable, lower-capital-intensity revenue stream than direct production. However, licensing is early-stage and historically has represented a smaller portion of total revenue than direct production.
+Verde licenses its proprietary pyrolysis technology and processing know-how to third parties, allowing other operators to build and run biochar production facilities under Verde's methods. This is a capital-light, high-margin business segment — Verde receives licensing fees or royalties without having to operate the facilities directly. If the company can scale this segment effectively, licensing could become a more predictable, lower-capital-intensity revenue stream than direct production. However, licensing is early-stage and historically has represented a smaller portion of total revenue than direct production.
 
 ## Market conditions and competitive position
 

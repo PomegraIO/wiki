@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Lazard Equity Megatrends ETF (NASDAQ: THMZ) is an actively managed exchange-traded fund built around the conviction that certain structural, multi-decade trends will drive corporate earnings and stock returns. The fund identifies these megatrends—demographic shifts, climate transition, digital innovation—and selects global equities positioned to benefit.*
+*Lazard Equity Megatrends ETF ([NASDAQ](/nasdaq/): THMZ) is an actively managed exchange-traded fund built around the conviction that certain structural, multi-decade trends will drive corporate earnings and stock returns. The fund identifies these megatrends—demographic shifts, climate transition, digital innovation—and selects global equities positioned to benefit.*
 
 <aside class="wiki-infobox">
 
@@ -39,15 +39,15 @@ These are not short-term cyclical bets; they are structural shifts that will pla
 
 ## Active selection and global scope
 
-Unlike a passive index fund that holds all constituents in fixed weights, Lazard's managers actively research and select companies they believe authentically benefit from these megatrends. The fund invests globally—across developed and emerging markets—because these trends are borderless. A renewable-energy equipment maker in Germany, a semiconductor supplier in Taiwan serving AI demand, a healthcare company in Japan targeting older populations, or an infrastructure play in Brazil can all be holdings if the managers believe the thesis supports them.
+Unlike a passive [index fund](/index-fund/) that holds all constituents in fixed weights, Lazard's managers actively research and select companies they believe authentically benefit from these megatrends. The fund invests globally—across developed and emerging markets—because these trends are borderless. A renewable-energy equipment maker in Germany, a semiconductor supplier in Taiwan serving AI demand, a healthcare company in Japan targeting older populations, or an infrastructure play in Brazil can all be holdings if the managers believe the thesis supports them.
 
 This global, active approach requires judgment. The same megatrend can justify different stocks depending on competitive positioning, valuation, and growth prospects. The fund's edge, if it exists, lies in Lazard's ability to identify which companies will outperform within the broader trend.
 
 ## Costs and risks
 
-THMZ charges an expense ratio that reflects active management—measurably higher than passive global index funds. The question for investors is whether the thematic lens and stock selection produce outperformance that exceeds that cost.
+THMZ charges an [expense ratio](/expense-ratio/) that reflects active management—measurably higher than passive global index funds. The question for investors is whether the thematic lens and stock selection produce outperformance that exceeds that cost.
 
-The fund's main risk is megatrend mispricing. If digital transformation advances more slowly than the market expects, or if energy transition adoption slows, the premium prices paid today may not be justified by earnings growth tomorrow. Concentration risk is inherent in any thematic fund: fewer holdings than a broad index means both amplified upside and downside. Currency exposure and emerging-market volatility add layers of risk beyond the sector or thematic thesis itself.
+The fund's main risk is megatrend mispricing. If digital transformation advances more slowly than the market expects, or if energy transition adoption slows, the premium prices paid today may not be justified by earnings growth tomorrow. [Concentration risk](/concentration-risk/) is inherent in any thematic fund: fewer holdings than a broad index means both amplified upside and downside. Currency exposure and emerging-market volatility add layers of risk beyond the sector or thematic thesis itself.
 
 ## How to research THMZ
 

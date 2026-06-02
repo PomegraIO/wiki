@@ -52,9 +52,9 @@ A core risk of thematic funds is that the theme becomes fashionable, gets crowde
 
 ## Costs and holding periods
 
-CHPX's expense ratio is higher than a broad semiconductor fund because of the thematic screening and research involved. Quarterly or semi-annual rebalancing introduces trading costs and, in taxable accounts, potential tax drag from realized gains.
+CHPX's [expense ratio](/expense-ratio/) is higher than a broad semiconductor fund because of the thematic screening and research involved. Quarterly or semi-annual rebalancing introduces trading costs and, in taxable accounts, potential tax drag from realized gains.
 
-The fund is not for conservative investors or those seeking diversification. It is explicitly built around a narrow set of technologies. During years of strong AI enthusiasm and investment, it can soar. During periods of skepticism or recessions, it swings sharply downward. An investor should view CHPX as a concentrated, long-term conviction holding, not a core diversified position.
+The fund is not for conservative investors or those seeking [diversification](/diversification/). It is explicitly built around a narrow set of technologies. During years of strong AI enthusiasm and investment, it can soar. During periods of skepticism or [recessions](/recession/), it swings sharply downward. An investor should view CHPX as a concentrated, long-term conviction holding, not a core diversified position.
 
 ## Research and evaluation
 

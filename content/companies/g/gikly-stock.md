@@ -29,7 +29,7 @@ Grifols collects human blood plasma at donation centers and processes it into me
 
 Grifols was founded in 1909 by Josep Antoni Grifols, a physician in Barcelona who began working with blood products during an era when transfusion medicine was in its infancy. The company stayed small and family-held for most of the twentieth century, focused on Spain and later the broader European market. Its real expansion came in the 1990s and 2000s, when it acquired other plasma-processing businesses and established collection centers across Europe and eventually North America.
 
-The turning point was the 2006 acquisition of Biotest's plasma business and then, in 2018, a majority stake in Haemoservice — moves that consolidated Grifols' position as one of the world's top three plasma manufacturers. The company went public on the Spanish exchange in 2006, and its American Depositary Receipts trade OTC as GIKLY.
+The turning point was the 2006 [acquisition](/acquisition/) of Biotest's plasma business and then, in 2018, a majority stake in Haemoservice — moves that consolidated Grifols' position as one of the world's top three plasma manufacturers. The company went public on the Spanish exchange in 2006, and its [American Depositary Receipts](/adr/) trade OTC as GIKLY.
 
 ## How plasma becomes medicine
 
@@ -55,7 +55,7 @@ Grifols also has decades of regulatory relationships and technical expertise. Pl
 
 ## Pressures and risks
 
-The plasma-derived sector faces several headwinds. First, pricing pressure from hospitals and governments, especially in Europe, where healthcare systems negotiate prices tightly. Second, the ongoing cost inflation of plasma collection as competition for donors intensifies. Third, the possibility of synthetic alternatives — recombinant clotting factors made in factories rather than extracted from plasma have already displaced some traditional products, and advances in biotechnology could push that further.
+The plasma-derived sector faces several headwinds. First, pricing pressure from hospitals and governments, especially in Europe, where healthcare systems negotiate prices tightly. Second, the ongoing cost [inflation](/inflation/) of plasma collection as competition for donors intensifies. Third, the possibility of synthetic alternatives — recombinant clotting factors made in factories rather than extracted from plasma have already displaced some traditional products, and advances in biotechnology could push that further.
 
 There is also regulatory risk around plasma collection itself — countries periodically tighten rules on donor compensation or impose import restrictions, and the COVID-19 pandemic illustrated how donation centers can be disrupted by lockdowns and public-health restrictions.
 
@@ -63,6 +63,6 @@ Finally, like any blood-product company, Grifols carries reputational and legal 
 
 ## How a reader would research Grifols
 
-Grifols files annual reports and audited accounts under Spanish regulation and provides financial statements in English on its investor-relations website. The company's SEC filings as an OTC-traded entity are sparse compared to a full NASDAQ listing, but the Spanish filings are transparent. Anyone studying the company should focus on trends in plasma collection volumes, average plasma prices, manufacturing capacity utilization, and the gross-margin trajectory. Watch how the company manages the tension between plasma-collection costs and finished-product pricing. The quarterly earnings releases and quarterly financial statements provide the most useful window into these dynamics.
+Grifols files [annual reports](/10-k/) and audited accounts under Spanish regulation and provides financial statements in English on its investor-relations website. The company's SEC filings as an OTC-traded entity are sparse compared to a full [NASDAQ](/nasdaq/) listing, but the Spanish filings are transparent. Anyone studying the company should focus on trends in plasma collection volumes, average plasma prices, manufacturing capacity utilization, and the gross-margin trajectory. Watch how the company manages the tension between plasma-collection costs and finished-product pricing. The quarterly earnings releases and quarterly financial statements provide the most useful window into these dynamics.
 
-Key metrics include the number of active donors and the volume of plasma collected (growth drivers), the price per unit of finished product, and the gross and operating margins. As with any healthcare company, regulatory developments in major markets — Europe, North America — can be material. Grifols trades in relatively low volume on OTC markets, so the share price reflects less liquidity and tighter spreads than larger-cap peers.
+Key metrics include the number of active donors and the volume of plasma collected (growth drivers), the price per unit of finished product, and the gross and [operating margins](/operating-margin/). As with any healthcare company, regulatory developments in major markets — Europe, North America — can be material. Grifols trades in relatively low volume on OTC markets, so the share price reflects less liquidity and tighter spreads than larger-cap peers.

@@ -21,7 +21,7 @@ Every dollar EFSC lends originates from deposits it holds or wholesale funding i
 
 This spread is the entire foundation of EFSC's business. It is not passive: the bank must source deposits competitively (paying rates that attract and retain them), originate loans to creditworthy borrowers (underwriting, documentation, servicing), and manage the timing mismatch between deposits that can be withdrawn on demand and loans that amortize over years.
 
-A community bank like EFSC operates in a geographic niche: the St. Louis, Kansas City, and Springfield tri-state region. This means its deposit customer base and lending opportunities are localized. A large [national bank](/nbhc-stock/) might average a 2.8% net interest margin; a community bank with strong relationships and less competition for small-business loans might achieve 3.8% to 4.2%. EFSC's margin is shaped by its specific marketplace: how competitive deposits are, what rates local small businesses can sustain, and the [credit risk](/credit-risk/) of its loan portfolio.
+A community bank like EFSC operates in a geographic niche: the St. Louis, Kansas City, and Springfield tri-state region. This means its deposit customer base and lending opportunities are localized. A large national bank might average a 2.8% net interest margin; a community bank with strong relationships and less competition for small-business loans might achieve 3.8% to 4.2%. EFSC's margin is shaped by its specific marketplace: how competitive deposits are, what rates local small businesses can sustain, and the [credit risk](/credit-risk/) of its loan portfolio.
 
 ## Loan Portfolio Composition: Where Risk Concentrates
 

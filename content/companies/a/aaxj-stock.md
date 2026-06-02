@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The iShares MSCI All Country Asia ex Japan ETF (AAXJ) is a passive index-tracking fund that gives investors exposure to the stock markets of developed and rapidly emerging economies across Asia, while deliberately excluding Japan. Launched by BlackRock's iShares division, the fund tracks the MSCI All Country Asia ex Japan Index, holding dozens of companies across multiple countries and sectors. It is designed to be a simple, low-cost entry point for investors seeking broad Asian equity exposure without the need to select individual stocks or even individual country funds.
+The iShares MSCI All Country Asia ex Japan ETF (AAXJ) is a passive index-tracking fund that gives investors exposure to the [stock markets](/stock-market/) of developed and rapidly emerging economies across Asia, while deliberately excluding Japan. Launched by BlackRock's iShares division, the fund tracks the MSCI All Country Asia ex Japan Index, holding dozens of companies across multiple countries and sectors. It is designed to be a simple, low-cost entry point for investors seeking broad Asian equity exposure without the need to select individual stocks or even individual country funds.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ The iShares MSCI All Country Asia ex Japan ETF (AAXJ) is a passive index-trackin
 
 ## From iShares' growth into Asia-focused funds
 
-BlackRock's iShares brand built its reputation on simple, low-cost index ETFs, beginning in 1996 with the first iShares fund tracking the S&P 500. Over the following decade, iShares expanded globally, creating funds that tracked regional and country-specific indexes, recognizing that many investors wanted to add geographic diversification without researching individual stocks or hiring an international advisor. Asia, as a region of significant economic growth and rising equity markets, became an obvious frontier.
+BlackRock's iShares brand built its reputation on simple, low-cost index ETFs, beginning in 1996 with the first iShares fund tracking the S&P 500. Over the following decade, iShares expanded globally, creating funds that tracked regional and country-specific indexes, recognizing that many investors wanted to add geographic [diversification](/diversification/) without researching individual stocks or hiring an international advisor. Asia, as a region of significant economic growth and rising equity markets, became an obvious frontier.
 
 AAXJ was launched in 2008, a moment when Asian markets — particularly China's — were still emerging from global perception as exotic or high-risk. The fund was built on the MSCI All Country Asia ex Japan Index, a methodology that MSCI (a major index provider) had designed to capture the breadth of Asian economies while deliberately leaving out Japan, which was already mature and well-covered by other funds. The exclusion of Japan made sense from a portfolio design perspective: Japan's developed market characteristics and its weight in other indexes meant a separate Asia fund without Japan created true incremental exposure.
 
@@ -52,7 +52,7 @@ AAXJ's simplicity is also its constraint. Because it tracks an index, it is enti
 
 The fund is also concentrated by geography and sector in ways that matter. Chinese equities — both Hong Kong-listed and those in Shanghai and Shenzhen — make up a large fraction of the index. The technology and finance sectors, which dominate Asia's most profitable companies, are heavily weighted. This concentration can be a strength in periods when Asia, China, and tech are favored, and a headwind in periods when investors flee risk or when geopolitical tension between the US and China runs high.
 
-Currency exposure is another structural feature. AAXJ is denominated in US dollars, so investors face gains or losses when the dollar strengthens or weakens versus Asian currencies. A US investor who buys AAXJ gains exposure to Korean won, Indian rupee, and Chinese yuan price movements on top of the underlying stock price changes. This is not a flaw, but it is an additional layer of risk — or opportunity — that distinguishes Asian equity funds from purely domestic portfolios.
+Currency exposure is another structural feature. AAXJ is denominated in [US dollars](/us-dollar/), so investors face gains or losses when the dollar strengthens or weakens versus Asian currencies. A US investor who buys AAXJ gains exposure to Korean won, [Indian rupee](/indian-rupee/), and Chinese yuan price movements on top of the underlying stock price changes. This is not a flaw, but it is an additional layer of risk — or opportunity — that distinguishes Asian equity funds from purely domestic portfolios.
 
 ## For whom and how to evaluate it
 

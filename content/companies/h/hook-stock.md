@@ -29,7 +29,7 @@ The platform's economic value depends entirely on whether it produces drug candi
 
 ## Partnership Economics and Monetization Paths
 
-Because HOOKIPA cannot self-fund development to approval and commercialization, the standard business model includes partnering. A large pharma company (Merck, Gilead, Takeda) may license one of HOOKIPA's programs, paying cash today and taking on the cost and risk of later-phase trials and commercialization. The deal terms reflect the de-risking achieved to date. A Phase 1 program (early safety data only) might fetch $10–50 million upfront. A Phase 2 program showing early efficacy (higher confidence) might command $50–200 million upfront plus royalties on future sales.
+Because HOOKIPA cannot self-fund development to approval and commercialization, the standard business model includes partnering. A large pharma company ([Merck](/mrk-stock/), Gilead, Takeda) may license one of HOOKIPA's programs, paying cash today and taking on the cost and risk of later-phase trials and commercialization. The deal terms reflect the de-risking achieved to date. A Phase 1 program (early safety data only) might fetch $10–50 million upfront. A Phase 2 program showing early efficacy (higher confidence) might command $50–200 million upfront plus royalties on future sales.
 
 Royalties are a deferred revenue stream: if the licensed drug reaches the market and generates $1 billion in annual sales, HOOKIPA might receive 7–12% of that ($70–120 million annually). This aligns incentive: HOOKIPA and its partners succeed together. But royalties arrive years in the future, only if the program succeeds. Near-term survival depends on upfront and milestone payments.
 

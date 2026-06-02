@@ -19,7 +19,7 @@ Hyperscale Data makes money by building those "rental apartments" for computing 
 
 ## Why data centers matter right now
 
-For decades, data centers were a boring infrastructure business. Companies like Amazon Web Services and Microsoft Azure built them to offer cloud computing to customers, and it worked fine — profitable, but not exciting.
+For decades, data centers were a boring infrastructure business. Companies like Amazon Web Services and [Microsoft](/msft-stock/) Azure built them to offer cloud computing to customers, and it worked fine — profitable, but not exciting.
 
 Then artificial intelligence changed everything. Building a modern AI system like a large language model requires an enormous amount of computing power. You need to rent or buy thousands of GPUs (graphics processors, originally designed for video games but useful for AI math). You run them all at once for weeks or months. The electricity bill alone can exceed ten million dollars.
 

@@ -66,7 +66,7 @@ Beyond regulation, agricultural chemicals face public skepticism. Environmental 
 
 Corteva's ultimate customer is the farmer, and farming has been under margin pressure for years. The prices farmers receive for corn and soybeans are set by global commodity markets and are volatile. The costs of seed, chemicals, fuel, and equipment are high and rising. That squeeze means farmers are price-sensitive and often postpone [discretionary spending](/discretionary-spending/) on crop protection or new seed varieties when margins tighten. During commodity booms, farmers spend freely; during downturns, they defer purchases or switch to cheaper alternatives. This cyclicality flows directly into Corteva's revenue.
 
-Currency is another pressure. Corteva generates roughly two-thirds of revenue outside North America, so a strengthening U.S. dollar reduces the company's reported results when foreign sales are translated back to dollars. Geopolitical tensions, particularly around agricultural trade, can disrupt supply chains or create tariffs that change the economics.
+Currency is another pressure. Corteva generates roughly two-thirds of revenue outside North America, so a strengthening [U.S. dollar](/us-dollar/) reduces the company's reported results when foreign sales are translated back to dollars. Geopolitical tensions, particularly around agricultural trade, can disrupt supply chains or create tariffs that change the economics.
 
 ## How to research Corteva
 

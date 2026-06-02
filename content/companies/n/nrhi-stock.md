@@ -29,7 +29,7 @@ Natural Resource Holdings, Inc. operates as a mining exploration and development
 
 At the heart of Natural Resource Holdings is the Montreal Star Mineral Property, a 20-acre lode claim situated in the Basin/Boulder Mining District near Butte, Montana—one of the oldest and richest gold-mining regions in the United States. The property itself has a documented history of gold production, with associated silver, copper, and zinc. Butte's mining legacy stretches back to the 19th century, when it became one of the world's foremost copper producers, and the geological setting that made it rich then continues to make exploration there attractive today.
 
-The company holds 100% of the rights to the Montreal Star property, which means the financial and operational burden of development falls entirely on its shoulders. In mining, that ownership advantage is also a constraint: a company with deep pockets and global resources can afford to optionally sell partial interests or partner with larger operators to spread costs and risk. A smaller explorer like Natural Resource Holdings typically lacks that flexibility, forcing it to self-fund or seek equity financing—both of which dilute shareholders and impose time pressure.
+The company holds 100% of the rights to the Montreal Star property, which means the financial and operational burden of development falls entirely on its shoulders. In mining, that ownership advantage is also a constraint: a company with deep pockets and global resources can afford to optionally sell partial interests or partner with larger operators to spread costs and risk. A smaller explorer like Natural Resource Holdings typically lacks that flexibility, forcing it to self-fund or seek [equity financing](/equity-financing/)—both of which dilute shareholders and impose time pressure.
 
 ## The fundamental scale challenge in mining
 
@@ -60,7 +60,7 @@ Once a mine does reach production (a minority of exploration projects ever get t
 
 Natural Resource Holdings faces a series of compounding challenges that are endemic to small mining explorers:
 
-**Financing risk.** Every project milestone—from drilling to permitting to development—requires capital. In a rising-interest-rate environment or a market downturn, capital becomes scarce and expensive, or dries up entirely. Equity financing is dilutive to existing shareholders. Debt financing is expensive for pre-revenue companies, and lenders often require equity kickers or security over the mineral rights themselves.
+**Financing risk.** Every project milestone—from drilling to permitting to development—requires capital. In a rising-interest-rate environment or a market downturn, capital becomes scarce and expensive, or dries up entirely. Equity financing is dilutive to existing shareholders. [Debt financing](/debt-financing/) is expensive for pre-revenue companies, and lenders often require equity kickers or security over the mineral rights themselves.
 
 **Permitting and regulatory.** Montana mining is subject to federal (Bureau of Land Management, EPA) and state regulation. Environmental permitting for any new mine is a lengthy, contentious process that can take years and must satisfy ecological and water-quality standards. A single federal lawsuit or state regulatory objection can delay development indefinitely and dramatically increase costs.
 
@@ -68,7 +68,7 @@ Natural Resource Holdings faces a series of compounding challenges that are ende
 
 **Execution and geology risk.** Exploration depends on drilling results confirming that ore bodies are where geologists believe them to be and in quantities sufficient to justify mining. Drilling results often disappoint. A property that looks promising on the surface can yield thin or uneconomic ore zones.
 
-**Acquisition and integration risk.** If Natural Resource Holdings succeeds in raising capital to develop the Montreal Star property, or if it is acquired by a larger miner, integration into a larger operating company brings new risks—management changes, different priorities, cost overruns, or operational failures during construction.
+**[Acquisition](/acquisition/) and integration risk.** If Natural Resource Holdings succeeds in raising capital to develop the Montreal Star property, or if it is acquired by a larger miner, integration into a larger operating company brings new risks—management changes, different priorities, cost overruns, or operational failures during construction.
 
 ## How to research mining exploration companies
 

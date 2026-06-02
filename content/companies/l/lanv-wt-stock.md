@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Lanvin Group Holdings Ltd is a luxury fashion holding company that owns and operates five distinct apparel and accessories brands, each serving different customer segments within the premium and luxury market. The company was formed through a special purpose acquisition in 2022, bringing together heritage brands with histories stretching back over a century, and is headquartered in Shanghai, China. Its brands — Lanvin, Wolford, Sergio Rossi, St. John, and Caruso — are distributed through boutique networks, department stores, and owned retail locations across North America, Europe, and Asia. Unlike fast-fashion or mass-market apparel companies, Lanvin Group targets affluent consumers willing to pay premium prices for brand heritage, design, and perceived quality.
+Lanvin Group Holdings Ltd is a luxury fashion holding company that owns and operates five distinct apparel and accessories brands, each serving different customer segments within the premium and luxury market. The company was formed through a special purpose [acquisition](/acquisition/) in 2022, bringing together heritage brands with histories stretching back over a century, and is headquartered in Shanghai, China. Its brands — Lanvin, Wolford, Sergio Rossi, St. John, and Caruso — are distributed through boutique networks, department stores, and owned retail locations across North America, Europe, and Asia. Unlike fast-fashion or mass-market apparel companies, Lanvin Group targets affluent consumers willing to pay premium prices for brand heritage, design, and perceived quality.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ By the 2010s, all five brands were held by various private or institutional inve
 
 ## The SPAC merger and Shanghai headquarters
 
-In December 2022, Lanvin Group completed a merger with Primavera Capital Acquisition Corporation, a special purpose acquisition company, bringing the consolidated group to the New York Stock Exchange. The combination brought fresh capital and liquidity but also tied the company to public markets and quarterly earnings scrutiny — a significant shift for heritage brands accustomed to private ownership.
+In December 2022, Lanvin Group completed a [merger](/merger/) with Primavera Capital Acquisition Corporation, a special purpose acquisition company, bringing the consolidated group to the [New York Stock Exchange](/new-york-stock-exchange/). The combination brought fresh capital and liquidity but also tied the company to public markets and quarterly earnings scrutiny — a significant shift for heritage brands accustomed to private ownership.
 
 The decision to base the holding company in Shanghai reflects the group's strategic pivot toward Asia. China is the world's second-largest luxury market by value, and proximity to manufacturing in Asia, distribution networks through Baozun and ITOCHU, and access to affluent Chinese consumers all argued for a Shanghai headquarters rather than preserving traditional European bases for the historical brands. This geographic shift, though visually striking for European heritage houses, is pragmatic: the majority of global luxury consumption growth is happening in Asia, and ownership of manufacturing and distribution capacity in the region creates competitive advantages in speed and cost.
 
@@ -47,7 +47,7 @@ Lanvin, the flagship, continues as a premium womenswear and accessories brand, w
 
 St. John and Caruso are smaller by scale. St. John focuses on American luxury womenswear, particularly at retail price points of $200 to $1,000 per piece, and has a meaningful presence in US department stores and resort destinations. Caruso is a niche menswear player, appealing to customers who value Italian tailoring and craftsmanship in classic suiting.
 
-The portfolio breadth creates operational complexity: five separate design, supply-chain, and distribution networks must be maintained. However, it also provides revenue diversification and reduces dependence on any single brand. If Lanvin's sales weaken, Wolford's legwear or Sergio Rossi's footwear might offset the decline. Each brand also operates in different market segments (footwear, hosiery, womenswear, menswear), reducing direct internal competition.
+The portfolio breadth creates operational complexity: five separate design, supply-chain, and distribution networks must be maintained. However, it also provides revenue [diversification](/diversification/) and reduces dependence on any single brand. If Lanvin's sales weaken, Wolford's legwear or Sergio Rossi's footwear might offset the decline. Each brand also operates in different market segments (footwear, hosiery, womenswear, menswear), reducing direct internal competition.
 
 ## Manufacturing, distribution, and the outsourced model
 
@@ -63,13 +63,13 @@ Luxury apparel companies operate on gross margins typically ranging from 60% to 
 
 However, operating expenses in luxury are also substantial. Maintaining brand prestige requires investment in design, flagship retail locations in expensive markets, digital marketing, and personnel capable of subtle, refined communication. Inventory must be carefully managed to avoid seasonal discounting that undermines brand positioning. Returns and allowances to wholesale partners must be negotiated tightly to avoid eroding margins.
 
-The business is cyclical and sensitive to affluent consumer confidence. During economic downturns or market stress, even wealthy customers reduce discretionary spending on fashion. The luxury sector is also exposed to currency risk, as the company operates and sources globally while having exposure to multiple currencies.
+The business is cyclical and sensitive to affluent consumer confidence. During economic downturns or market stress, even wealthy customers reduce [discretionary spending](/discretionary-spending/) on fashion. The luxury sector is also exposed to [currency risk](/currency-risk/), as the company operates and sources globally while having exposure to multiple currencies.
 
 ## Risks and competitive pressures
 
 Lanvin Group competes against much larger luxury conglomerates with greater resources, broader brand portfolios, and more developed distribution networks. LVMH alone operates over 75 luxury brands and commands economies of scale Lanvin cannot match. Smaller scale also means less bargaining power with manufacturers and retailers.
 
-The group's reliance on a few key partners introduces concentration risk. If ITOCHU or Baozun reduce their commitment or encounter difficulties, the business is vulnerable. Geographic concentration in Asia growth is strategically sound but also means the company's fortunes are tied to China's economic trajectory and regulatory environment.
+The group's reliance on a few key partners introduces [concentration risk](/concentration-risk/). If ITOCHU or Baozun reduce their commitment or encounter difficulties, the business is vulnerable. Geographic concentration in Asia growth is strategically sound but also means the company's fortunes are tied to China's economic trajectory and regulatory environment.
 
 Finally, the fashion industry is trend-driven and talent-dependent. Heritage brand strength can become weakness if designs are perceived as outdated. The group must attract and retain creative talent capable of evolution without diluting brand identity — a difficult balance for century-old houses operating in a fast-moving market.
 

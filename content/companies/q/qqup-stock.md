@@ -17,7 +17,7 @@ QQUP seeks daily investment results corresponding to twice the daily performance
 
 ## What the Nasdaq-100 Mega Index captures
 
-The Nasdaq-100 Mega Index is not a separate published benchmark; it is constructed to represent approximately the top 45% cumulative weight of the Nasdaq-100 by market capitalization. This concentration pulls together the largest semiconductor designers, software companies, e-commerce platforms, consumer-electronics makers, and communications companies on the Nasdaq. The biggest ten to twenty holdings often account for more than a third of the index weight, making QQUP a bet on the fortunes of the ultra-megacap tech sector more than on the Nasdaq-100 as a whole.
+The Nasdaq-100 Mega Index is not a separate published benchmark; it is constructed to represent approximately the top 45% cumulative weight of the Nasdaq-100 by [market capitalization](/market-capitalization/). This concentration pulls together the largest semiconductor designers, software companies, e-commerce platforms, consumer-electronics makers, and communications companies on the [Nasdaq](/nasdaq/). The biggest ten to twenty holdings often account for more than a third of the index weight, making QQUP a bet on the fortunes of the ultra-megacap tech sector more than on the Nasdaq-100 as a whole.
 
 The distinction matters. A fund tracking the full Nasdaq-100 (like QQQ) includes many mid-cap and smaller-cap holdings that dilute the dominance of the largest firms. QQUP, by targeting the Mega subset, is a concentrated play on the largest of the large. This concentration means higher performance dispersion when megacaps rally (QQUP wins more) but also steeper losses when megacaps crack.
 
@@ -37,9 +37,9 @@ The daily reset means the fund's leverage is independent of recent price moves. 
 
 ## Costs and trading characteristics
 
-QQUP trades on the Nasdaq under its ticker and has good liquidity for a leveraged product. The expense ratio is modest relative to other leveraged funds, but the true cost to an investor is the combination of the stated expense ratio plus any tracking error between the fund's daily return and twice the daily index return. Bid-ask spreads are typically tight, making it easy to get in and out of the position, though wide spreads during market crises are a real risk.
+QQUP trades on the Nasdaq under its ticker and has good liquidity for a leveraged product. The [expense ratio](/expense-ratio/) is modest relative to other leveraged funds, but the true cost to an investor is the combination of the stated expense ratio plus any tracking error between the fund's daily return and twice the daily index return. [Bid-ask spreads](/bid-ask-spread/) are typically tight, making it easy to get in and out of the position, though wide spreads during market crises are a real risk.
 
-The fund distributes dividends from the Nasdaq-100 companies, though the dividend yield of the index is modest. Those distributions are reinvested in the form of additional shares, so the leverage applies to reinvested dividends as well. Over a long holding period with compounding, reinvested dividends accumulate meaningfully.
+The fund distributes [dividends](/dividend/) from the Nasdaq-100 companies, though the [dividend yield](/dividend-yield/) of the index is modest. Those distributions are reinvested in the form of additional shares, so the leverage applies to reinvested dividends as well. Over a long [holding period](/holding-period/) with compounding, reinvested dividends accumulate meaningfully.
 
 ## Who QQUP is for
 

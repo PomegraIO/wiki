@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Redwood Trust—established 1994, Mill Valley, California. Residential mortgage REIT operating four segments: Sequoia (private-label securitizations), CoreVest (wholesale origination), Redwood Investments (portfolio holdings), Legacy Investments (older assets). Trades on NYSE under RWT. Issues senior unsecured debt to fund mortgage acquisitions and operations. RWTO represents one tranche: 9.0% coupon, quarterly payments, unsecured ranking.
+Redwood Trust—established 1994, Mill Valley, California. Residential [mortgage REIT](/mortgage-reit/) operating four segments: Sequoia (private-label [securitizations](/securitization/)), CoreVest (wholesale origination), Redwood Investments (portfolio holdings), Legacy Investments (older assets). Trades on NYSE under RWT. Issues senior unsecured debt to fund mortgage [acquisitions](/acquisition/) and operations. RWTO represents one [tranche](/tranche/): 9.0% coupon, quarterly payments, unsecured ranking.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,7 +34,7 @@ RWTO holders are creditors to this business. The 9.0% coupon is paid semi-annual
 
 ## Interest-rate sensitivity and market context
 
-RWTO was likely issued in an environment of elevated rates—the 9.0% coupon reflects that environment. If prevailing rates fall sharply, RWTO's price will rise in the secondary market; if rates spike further, the price will compress. For a noteholder buying at par ($100) and holding to maturity, the coupon is locked; principal risk depends on whether Redwood Trust survives to 2031 and pays par at redemption.
+RWTO was likely issued in an environment of elevated rates—the 9.0% coupon reflects that environment. If prevailing rates fall sharply, RWTO's price will rise in the [secondary market](/secondary-market/); if rates spike further, the price will compress. For a noteholder buying at par ($100) and holding to maturity, the coupon is locked; principal risk depends on whether Redwood Trust survives to 2031 and pays par at redemption.
 
 Market spreads matter. RWTO will widen (price drops, yield rises) if mortgage REIT sector sentiment sours or if Redwood Trust's credit quality deteriorates. Tightens (price rises, yield falls) on improving sentiment or company-specific credit improvements.
 
@@ -46,25 +46,25 @@ Asset quality is cyclical. In favorable economic conditions and stable/declining
 
 ## Funding and leverage
 
-Redwood Trust funds its operations through equity raised in public markets, retained earnings, bank credit facilities, and debt issuances (RWTO and similar senior notes). The company is leveraged—it uses debt to amplify returns on equity but also amplifies risks. If leverage is high and assets deteriorate, equity capital can be consumed quickly, threatening the company's ability to raise capital or refinance debt.
+Redwood Trust funds its operations through equity raised in public markets, [retained earnings](/retained-earnings/), bank credit facilities, and debt issuances (RWTO and similar senior notes). The company is leveraged—it uses debt to amplify returns on equity but also amplifies risks. If leverage is high and assets deteriorate, equity capital can be consumed quickly, threatening the company's ability to raise capital or refinance debt.
 
-Noteholders should track leverage ratios, liquidity position, and refinancing needs. A company with high leverage and near-term debt maturities faces refinancing risk—if credit conditions tighten, rolling debt over becomes expensive or impossible.
+Noteholders should track [leverage ratios](/leverage-ratio-forex/), liquidity position, and refinancing needs. A company with high leverage and near-term debt maturities faces [refinancing risk](/refinancing-risk/)—if credit conditions tighten, rolling debt over becomes expensive or impossible.
 
 ## Origination market conditions
 
 Redwood Trust's origination platforms (Sequoia and CoreVest) are demand-driven. When mortgage originations are strong, platforms generate substantial fee income and source mortgages for the investment portfolio. When originations collapse (as they did in 2022–2023 during the rate-shock period), platform revenue falls sharply. The fixed coupon on RWTO must still be paid, so low-origination periods create cash-flow pressure.
 
-CoreVest, the wholesale channel, is particularly sensitive to broker demand and secondary-market mortgage spreads. Wide spreads attract borrowers; tight spreads kill volume. Redwood Trust's earnings move with market conditions, making RWTO a cyclical credit.
+CoreVest, the wholesale channel, is particularly sensitive to [broker](/broker/) demand and secondary-market mortgage spreads. Wide spreads attract borrowers; tight spreads kill volume. Redwood Trust's earnings move with market conditions, making RWTO a cyclical credit.
 
 ## Default risk and structural analysis
 
-Default on RWTO would require Redwood Trust to be unable to generate sufficient cash flow to service 9.0% annual interest through 2031 maturity. Scenarios: (1) sustained recession with mortgage originations collapsing and credit deteriorating on held mortgages, (2) geopolitical shock or regulatory change that impairs mortgage market function, (3) management failure or fraud, (4) external market shock (pandemic, financial crisis). REITs are not immune to systemic financial stress.
+Default on RWTO would require Redwood Trust to be unable to generate sufficient cash flow to service 9.0% annual interest through 2031 maturity. Scenarios: (1) sustained [recession](/recession/) with mortgage originations collapsing and credit deteriorating on held mortgages, (2) geopolitical shock or regulatory change that impairs mortgage market function, (3) management failure or fraud, (4) external market shock (pandemic, financial crisis). REITs are not immune to systemic financial stress.
 
-Recovery in default would depend on liquidation value of mortgage assets. Mortgages can be difficult to liquidate quickly without substantial discounts. Holders of RWTO would likely recover par or close to it in an orderly sale, but recovery would take time and involve uncertainty.
+Recovery in default would depend on [liquidation value](/liquidation-value/) of mortgage assets. Mortgages can be difficult to liquidate quickly without substantial discounts. Holders of RWTO would likely recover par or close to it in an orderly sale, but recovery would take time and involve uncertainty.
 
 ## Yield and comparative perspective
 
-9.0% is a material yield for unsecured debt. Reflects market's pricing of Redwood Trust credit risk—higher than investment-grade corporate debt (typically 4–7%), comparable to other mortgage REIT debt and high-yield corporates. Spread over Treasuries compensates for credit risk and illiquidity relative to government debt.
+9.0% is a material yield for unsecured debt. Reflects market's pricing of Redwood Trust [credit risk](/credit-risk/)—higher than investment-grade corporate debt (typically 4–7%), comparable to other mortgage REIT debt and high-yield corporates. Spread over Treasuries compensates for credit risk and illiquidity relative to government debt.
 
 A prospective buyer asks: Is 9.0% sufficient compensation for the risk that Redwood Trust's earnings falter and the note is impaired? The answer depends on personal risk tolerance, rate expectations, and view of the mortgage market cycle. In a strong economy with stable rates, RWTO is likely collected in full. In recession, especially one that drives mortgage defaults, Redwood Trust's earnings could vanish and noteholders could face material losses.
 

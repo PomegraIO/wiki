@@ -14,7 +14,7 @@ handwritten: true
 
 TruBridge is a healthcare software and services company. It sells technology and services to help community hospitals, rural healthcare systems, and small clinics manage their business operations, patients, and revenue. The company is not building cutting-edge AI or inventing new medical devices. Instead, it solves everyday problems that hospital administrators and finance staff face: processing insurance claims, managing patient billing, running IT networks, and keeping electronic health records systems running smoothly.
 
-TruBridge was formerly known as Computer Programs and Systems, Inc. (CPSI) until March 2024, when the company rebranded to reflect a shift toward broader [healthcare services](/hcsg-stock/). The company is based in Mobile, Alabama. It serves more than 1,500 healthcare organizations across the U.S. and internationally, employing about 3,200 people.
+TruBridge was formerly known as Computer Programs and Systems, Inc. (CPSI) until March 2024, when the company rebranded to reflect a shift toward broader healthcare services. The company is based in Mobile, Alabama. It serves more than 1,500 healthcare organizations across the U.S. and internationally, employing about 3,200 people.
 
 <aside class="wiki-infobox">
 <table>

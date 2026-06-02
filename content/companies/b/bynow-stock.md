@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-byNordic Acquisition Corp. is a special purpose acquisition company, or SPAC—a publicly-traded but operationally empty shell designed to acquire an existing business and take it public through a merger. The company's only assets are the capital raised from public investors at its inception, held in trust. Its only obligation is to identify a suitable acquisition target, negotiate a merger agreement, and put the deal to a shareholder vote within a specified timeframe, typically two to three years from the IPO.
+[byNordic Acquisition](/byno-stock/) Corp. is a special purpose [acquisition](/acquisition/) company, or SPAC—a publicly-traded but operationally empty shell designed to acquire an existing business and take it public through a [merger](/merger/). The company's only assets are the capital raised from public investors at its inception, held in trust. Its only obligation is to identify a suitable acquisition target, negotiate a merger agreement, and put the deal to a shareholder vote within a specified timeframe, typically two to three years from the IPO.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ byNordic Acquisition Corp. is a special purpose acquisition company, or SPAC—a
 
 Every SPAC is sponsored by one or more financial or operating professionals—typically experienced dealmakers, private-equity investors, entrepreneurs, or former executives—who take on the task of identifying and acquiring a business. The sponsors invest their own capital alongside public shareholders and receive a carried interest or promote (typically 20% of the shares issued at the inception of the SPAC) that vests only if the merger is completed and, in some cases, only if the stock price meets certain thresholds. This structure is meant to align the sponsors' incentives with those of public shareholders: the better the deal, the better the sponsors do.
 
-However, the incentive is not perfectly aligned. Sponsors are strongly motivated to complete a deal before the deadline (liquidation is the alternative, and they lose their entire effort). This deadline pressure can sometimes lead to compromised deal quality: a mediocre acquisition that allows the SPAC to consummate a merger and avoid liquidation might be attractive to sponsors even if it delivers modest returns to shareholders.
+However, the incentive is not perfectly aligned. Sponsors are strongly motivated to complete a deal before the deadline ([liquidation](/liquidation/) is the alternative, and they lose their entire effort). This deadline pressure can sometimes lead to compromised deal quality: a mediocre acquisition that allows the SPAC to consummate a merger and avoid liquidation might be attractive to sponsors even if it delivers modest returns to shareholders.
 
 ## The trust account and capital available
 
@@ -36,7 +36,7 @@ When a SPAC completes its IPO, the proceeds are placed into a trust account. The
 
 ## The merger announcement and shareholder vote
 
-Once the SPAC has identified a target, it will announce the deal with a definitive agreement outlining the terms. The announcement includes financial projections for the target company, details about the business, and terms of the merger (how many shares public shareholders will own post-merger, at what dilution level, etc.). Shareholders then have a window to vote on the merger. It is during this window that many shareholders decide whether to support the deal or redeem their shares (exchanging them for cash from the trust). Large redemptions can weaken the post-merger company's balance sheet.
+Once the SPAC has identified a target, it will announce the deal with a definitive agreement outlining the terms. The announcement includes financial projections for the target company, details about the business, and terms of the merger (how many shares public shareholders will own post-merger, at what dilution level, etc.). Shareholders then have a window to vote on the merger. It is during this window that many shareholders decide whether to support the deal or redeem their shares (exchanging them for cash from the trust). Large redemptions can weaken the post-merger company's [balance sheet](/balance-sheet/).
 
 ## Merger completion and the public listing
 

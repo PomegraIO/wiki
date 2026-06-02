@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-VSEE Health began as a startup developing simple, reliable videoconferencing software for telehealth and has since expanded into a broader remote patient monitoring and virtual care platform. The company serves clinicians and healthcare providers who need to deliver care beyond the walls of a physical office or hospital — using secure video visits, continuous monitoring of patient vitals and symptoms, and asynchronous messaging to maintain the continuity of care that remote models require.
+[VSEE Health](/vsee-stock/) began as a startup developing simple, reliable videoconferencing software for telehealth and has since expanded into a broader remote patient monitoring and virtual care platform. The company serves clinicians and healthcare providers who need to deliver care beyond the walls of a physical office or hospital — using secure video visits, continuous monitoring of patient vitals and symptoms, and asynchronous messaging to maintain the continuity of care that remote models require.
 
 <div class="wiki-hatnote">
 

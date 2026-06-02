@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Peraso builds wireless networking gear and semiconductors. The company focuses on millimeter-wave technology — a way to send a lot of data through the air over short distances, very quickly. Think of it as super-fast Wi-Fi that works in homes, offices, and vehicles. The company is public on the NASDAQ under the ticker PRSO, based in San Jose, California, and sells its products to equipment makers and network operators around the world.
+Peraso builds wireless networking gear and semiconductors. The company focuses on millimeter-wave technology — a way to send a lot of data through the air over short distances, very quickly. Think of it as super-fast Wi-Fi that works in homes, offices, and vehicles. The company is public on the [NASDAQ](/nasdaq/) under the ticker PRSO, based in San Jose, California, and sells its products to equipment makers and network operators around the world.
 
 <aside class="wiki-infobox">
 <table>
@@ -51,9 +51,9 @@ Automotive is another growing market. Self-driving cars and advanced driver-assi
 
 ## The scale and margin picture
 
-Peraso is small compared to giants like Qualcomm or Broadcom, which make mainstream Wi-Fi and mobile chips for billions of devices. Peraso operates in a narrower niche. That means lower absolute revenue but potentially higher margins if the company can sell to customers building large volumes. A semiconductor company that lands a contract to supply chips for a major telecom's broadband rollout or an automotive maker's next-generation vehicle can see its revenue jump quickly.
+Peraso is small compared to giants like Qualcomm or [Broadcom](/avgo-stock/), which make mainstream Wi-Fi and mobile chips for billions of devices. Peraso operates in a narrower niche. That means lower absolute revenue but potentially higher margins if the company can sell to customers building large volumes. A semiconductor company that lands a contract to supply chips for a major telecom's broadband rollout or an automotive maker's next-generation vehicle can see its revenue jump quickly.
 
-The downside is concentration risk. If one or two major customers account for a large chunk of revenue, then a contract loss or a product cycle hiccup can cause a sharp decline. This is a perpetual tension for specialized chip companies — they need scale to be sustainable, but they start small because their technology serves a narrow use case.
+The downside is [concentration risk](/concentration-risk/). If one or two major customers account for a large chunk of revenue, then a contract loss or a product cycle hiccup can cause a sharp decline. This is a perpetual tension for specialized chip companies — they need scale to be sustainable, but they start small because their technology serves a narrow use case.
 
 ## Competition and the long game
 

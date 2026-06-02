@@ -60,7 +60,7 @@ Insurance and risk management round out the portfolio. ORIX underwrites property
 
 ## The Competitive Position
 
-ORIX operates in markets where scale, credit expertise, and cost of capital matter intensely. In equipment leasing, the company competes against larger [financial institutions](/fisi-stock/), specialized leasing firms, and direct manufacturer financing programs. ORIX's advantage lies not in being the cheapest but in rapid underwriting, creative deal structuring, and willingness to finance assets and sectors that traditional banks de-emphasize. The firm's global platform allows it to service multinational corporations and complex cross-border transactions with a level of operational sophistication that smaller competitors cannot match.
+ORIX operates in markets where scale, credit expertise, and cost of capital matter intensely. In equipment leasing, the company competes against larger financial institutions, specialized leasing firms, and direct manufacturer financing programs. ORIX's advantage lies not in being the cheapest but in rapid underwriting, creative deal structuring, and willingness to finance assets and sectors that traditional banks de-emphasize. The firm's global platform allows it to service multinational corporations and complex cross-border transactions with a level of operational sophistication that smaller competitors cannot match.
 
 In venture capital and asset management, ORIX is a capable participant but not a market leader. The venture business is crowded, and ORIX's returns have been decent but not exceptional. That said, the company's financial depth allows it to be a patient capital provider, an advantage in venture-backed technology and deep-tech sectors where winners take time to reach maturity.
 

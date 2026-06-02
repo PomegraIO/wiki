@@ -32,7 +32,7 @@ Regenerative medicine itself is not a single approach. It encompasses several di
 
 ## The biotech funding cycle
 
-Preclinical-stage biotech companies like Regenerex cannot generate revenue — they have only expenses. They survive through capital raises: initial founders' investment, angel funding, venture capital, and strategic partnerships. At the micro-cap public stage, Regenerex likely raised funds via initial public offering to extend its runway and fund development. Each funding round dilutes existing shareholders but provides the cash to keep the research program alive.
+Preclinical-stage biotech companies like Regenerex cannot generate revenue — they have only expenses. They survive through capital raises: initial founders' investment, angel funding, venture capital, and strategic partnerships. At the micro-cap public stage, Regenerex likely raised funds via [initial public offering](/initial-public-offering/) to extend its runway and fund development. Each funding round dilutes existing shareholders but provides the cash to keep the research program alive.
 
 The company's future depends on demonstrating scientific progress sufficient to justify the next round of funding. In boom years, when venture capital and institutional investors are optimistic about biotech, a promising early-stage company can raise capital relatively easily. In busts, when risk appetite falls and biotech valuations compress, companies with weak data or unclear clinical paths face funding droughts. A company that cannot raise capital cannot continue development and may be forced to shut down, partner away its assets, or merge.
 
@@ -40,7 +40,7 @@ The company's future depends on demonstrating scientific progress sufficient to 
 
 Moving from preclinical to clinical development requires regulatory approval (in the United States, an Investigational New Drug application to the FDA) and enormous capital: Phase 1 trials (safety and dosage) cost tens of millions; Phase 2 (efficacy signals) hundreds of millions; Phase 3 (large-scale efficacy and safety) billions. A company the size of Regenerex cannot fund this alone. The typical path is to partner with a larger pharmaceutical company that can shoulder the clinical and manufacturing costs in exchange for commercialization rights and royalties.
 
-Alternatively, the company might be acquired outright by a larger firm seeking to acquire its pipeline. This is common in biotech: large pharmaceutical companies maintain pipelines partly through internal R&D and partly through acquisition of promising earlier-stage companies. For a micro-cap biotech, acquisition is often the exit — the founders and investors realize returns, and the company's programs continue (or are discontinued) under new ownership.
+Alternatively, the company might be acquired outright by a larger firm seeking to acquire its pipeline. This is common in biotech: large pharmaceutical companies maintain pipelines partly through internal R&D and partly through [acquisition](/acquisition/) of promising earlier-stage companies. For a micro-cap biotech, acquisition is often the exit — the founders and investors realize returns, and the company's programs continue (or are discontinued) under new ownership.
 
 ## The economics of failed programs
 

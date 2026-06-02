@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Tamboran Resources is an exploration and production company operating in the oil and gas sector, with particular exposure to natural gas development in frontier or less-developed basins. The company trades over-the-counter (the RL ticker suffix denotes a restricted or pink-sheet listing) and operates assets primarily in Australia and Africa, where it holds exploration rights and is developing gas resources for eventual monetization.
+[Tamboran Resources](/tbn-stock/) is an exploration and production company operating in the oil and gas sector, with particular exposure to [natural gas](/natural-gas/) development in frontier or less-developed basins. The company trades over-the-counter (the RL ticker suffix denotes a restricted or pink-sheet listing) and operates assets primarily in Australia and Africa, where it holds exploration rights and is developing gas resources for eventual monetization.
 
 ## Exploration and resource base
 
@@ -20,7 +20,7 @@ The company's assets in Australia and Africa are in areas with significant natur
 
 ## Natural gas focus and market dynamics
 
-Tamboran's emphasis on natural gas distinguishes it from companies focused on oil. Natural gas is chemically simpler than crude oil and requires specialized infrastructure to extract, compress, and transport. In liquid form (liquefied natural gas, or LNG), it can be shipped globally in specialized vessels. In pipeline form, it is a regional product, valuable only if nearby markets can absorb it.
+Tamboran's emphasis on natural gas distinguishes it from companies focused on oil. Natural gas is chemically simpler than [crude oil](/crude-oil/) and requires specialized infrastructure to extract, compress, and transport. In liquid form (liquefied natural gas, or LNG), it can be shipped globally in specialized vessels. In pipeline form, it is a regional product, valuable only if nearby markets can absorb it.
 
 Global natural gas prices have become increasingly volatile. Asian LNG markets have been willing to pay substantial premiums for reliable supply; European and North American markets have experienced boom and bust cycles driven by weather, production, and geopolitical disruptions. A company like Tamboran betting on LNG exports depends on global market prices, which it cannot control, and on its ability to complete long-lead-time projects (5+ years from discovery to first LNG export) amid changing market and political conditions.
 
@@ -50,7 +50,7 @@ Large gas projects typically require long-term sales contracts (15–20 years) b
 
 ## Risks and regulatory headwinds
 
-Beyond commercial and market risks, Tamboran and its peers face increasing regulatory scrutiny around greenhouse-gas emissions and climate impact. New natural gas projects face political opposition in many jurisdictions. Export approvals or project financing may depend on environmental assessments or climate considerations. These regulatory headwinds increase both the cost and the timeline for project development.
+Beyond commercial and [market risks](/market-risk/), Tamboran and its peers face increasing regulatory scrutiny around greenhouse-gas emissions and climate impact. New natural gas projects face political opposition in many jurisdictions. Export approvals or project financing may depend on environmental assessments or climate considerations. These regulatory headwinds increase both the cost and the timeline for project development.
 
 ## Reading Tamboran Resources
 

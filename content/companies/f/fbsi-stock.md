@@ -17,7 +17,7 @@ keywords: ["community bank", "Missouri banking", "retail banking", "commercial l
 
 ## The Small-Business Borrower and the Relationship Model
 
-FBSI's core customer is the small-to-medium business operating in Missouri. These are not Fortune 500 companies with treasury departments and relationships at [JPMorgan Chase](/jpmorgan-chase/). They are local operations—manufacturing shops, construction firms, professional services, retail, distribution, [healthcare services](/hcsg-stock/)—where the owner or manager knows the business intimately and needs credit to manage working capital, buy equipment, or fund expansion.
+FBSI's core customer is the small-to-medium business operating in Missouri. These are not Fortune 500 companies with treasury departments and relationships at [JPMorgan Chase](/jpmorgan-chase/). They are local operations—manufacturing shops, construction firms, professional services, retail, distribution, healthcare services—where the owner or manager knows the business intimately and needs credit to manage working capital, buy equipment, or fund expansion.
 
 For this customer, the loan decision is not a black box. A loan officer at FBSI meets the owner, visits the facility, reviews tax returns and financial statements, and forms a judgment about whether the business will be able to repay. This judgment relies on knowledge of the local market, understanding of the business type, and assessment of the owner's character and competence. A contractor building homes in Springfield needs a different evaluation than a manufacturing firm selling regionally. FBSI's strength is that its loan officers can make these distinctions and adjust terms, structure, and covenants to the specific circumstance.
 

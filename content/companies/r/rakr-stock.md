@@ -37,7 +37,7 @@ The company's smaller scale compared to major water utilities or infrastructure 
 
 ## Financial reorganization
 
-In September 2024, Rainmaker effected a 1-for-25 share consolidation of its common stock. This move is typical of small-cap companies whose shares have fallen to very low prices — a consolidation reduces the share count and raises the per-share price, making the stock eligible for listing on higher-tier markets like the OTCQB or potentially larger exchanges. The consolidation was explicitly framed as part of a strategy to enhance market position and requalify for trading on the OTCQB Venture Market, a step up in visibility and liquidity from the current pink sheets.
+In September 2024, Rainmaker effected a 1-for-25 [share consolidation](/share-consolidation/) of its [common stock](/common-stock/). This move is typical of small-cap companies whose shares have fallen to very low prices — a consolidation reduces the share count and raises the per-share price, making the stock eligible for listing on higher-tier markets like the OTCQB or potentially larger exchanges. The consolidation was explicitly framed as part of a strategy to enhance market position and requalify for trading on the OTCQB Venture Market, a step up in visibility and liquidity from the current pink sheets.
 
 ## How to research Rainmaker
 

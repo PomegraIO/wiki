@@ -28,7 +28,7 @@ This is not a company that builds houses or owns apartment buildings. It is a fu
 
 Real-estate stocks (companies that own office buildings, data centers, apartment complexes, shopping centers, or other properties) tend to throw off steady cash because they collect rent. A lot of that cash gets paid out as dividends. But if you want to own real-estate stocks, you have to pick individual companies: do you buy a shopping-center owner, an apartment builder, a data-center player? Each has different risks, different tenant types, different exposure to economic cycles.
 
-The [Cohen &](/cohn-stock/) Steers Quality Income Realty Fund solves this by letting you buy one share and own a basket of many different real-estate stocks, all picked by experienced fund managers. You get [diversification](/diversification/) — if one real-estate company stumbles, you still hold thirty others — and you get the dividends, which the fund mails out to you every month.
+The Cohen & Steers Quality Income Realty Fund solves this by letting you buy one share and own a basket of many different real-estate stocks, all picked by experienced fund managers. You get [diversification](/diversification/) — if one real-estate company stumbles, you still hold thirty others — and you get the dividends, which the fund mails out to you every month.
 
 ## How it works, in simple terms
 

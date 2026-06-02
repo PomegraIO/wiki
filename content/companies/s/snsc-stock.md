@@ -30,7 +30,7 @@ handwritten: true
 
 Lawn mowing is tedious. Most people either buy a gas-powered mower and spend weekends pushing it around, or they hire someone to do it. Gas mowers are noisy, require maintenance, burn fossil fuel, and emit exhaust. Electric mowers solve the emissions problem but introduce a new headache: they need to be plugged in or moved to a charging station when the battery runs down. For a large property or an institution managing open grounds, a mower that can work for hours without returning to base is attractive.
 
-The robotics revolution has created autonomous mowers that roam your lawn without a driver, trimming as they go. But all of them—from Husqvarna to Deere to dozens of startups—still need charging infrastructure. You install a docking station, and the robot returns there when battery runs low. What if you didn't need a dock? What if the robot just sat in the sun, pulled in energy, and went back to work?
+The robotics revolution has created autonomous mowers that roam your lawn without a driver, trimming as they go. But all of them—from Husqvarna to [Deere](/de-stock/) to dozens of startups—still need charging infrastructure. You install a docking station, and the robot returns there when battery runs low. What if you didn't need a dock? What if the robot just sat in the sun, pulled in energy, and went back to work?
 
 ## The Technology
 
@@ -62,7 +62,7 @@ Third, SunScout operates in a space where entrenched players—John Deere, Husqv
 
 Start with the company's SEC filings under CIK 0002101240. The S-1 registration statement will detail the technology, the customer base to date, the manufacturing strategy, and detailed risk factors.
 
-The crucial documents are the financials. Look at gross margin on mowers sold, customer acquisition cost, and retention rates. Early-stage hardware companies often sell at a loss initially to drive volume and market share. Understand whether SunScout has a path to profitability as it scales.
+The crucial documents are the financials. Look at gross margin on mowers sold, customer [acquisition](/acquisition/) cost, and retention rates. Early-stage hardware companies often sell at a loss initially to drive volume and market share. Understand whether SunScout has a path to profitability as it scales.
 
 Watch for real customer deployment—universities, municipalities, or commercial grounds-maintenance companies that have ordered mowers and are actively using them. Third-party reviews and testimonials from actual users are far more reliable than marketing claims about theoretical runtime.
 

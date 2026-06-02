@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-*The **Optimize Strategy Index ETF** (OPTZ) is a multi-factor index fund that screens US large-cap stocks for quality, value, and momentum, holding roughly 100 to 200 names that pass all three tests. It is a rules-based alternative to cap-weighting, designed to systematically favor stocks with certain quantifiable characteristics that have historically carried return premiums.*
+*The **Optimize Strategy Index ETF** (OPTZ) is a multi-factor [index fund](/index-fund/) that screens US large-cap stocks for quality, value, and momentum, holding roughly 100 to 200 names that pass all three tests. It is a rules-based alternative to cap-weighting, designed to systematically favor stocks with certain quantifiable characteristics that have historically carried return premiums.*
 
 ## The Quality Segment
 
-OPTZ's quality screen selects large-cap companies that demonstrate profitable operations and efficient capital use. Specifically, it favours stocks with strong earnings growth, high return on equity, stable earnings, and manageable debt levels. A company passing the quality test typically has predictable cash flows, expanding margins, and a track record of delivering on promises. This segment filters out distressed firms, turnarounds, and businesses with deteriorating fundamentals. In the portfolio, quality holdings tend to be market leaders in their sectors—established firms with competitive advantages and disciplined management. Quality stocks have historically delivered lower volatility and steadier returns than the broad market, though they may lag in speculative rallies.
+OPTZ's quality screen selects large-cap companies that demonstrate profitable operations and efficient capital use. Specifically, it favours stocks with strong earnings growth, high [return on equity](/return-on-equity/), stable earnings, and manageable debt levels. A company passing the quality test typically has predictable cash flows, expanding margins, and a track record of delivering on promises. This segment filters out distressed firms, turnarounds, and businesses with deteriorating fundamentals. In the portfolio, quality holdings tend to be market leaders in their sectors—established firms with competitive advantages and disciplined management. Quality stocks have historically delivered lower volatility and steadier returns than the broad market, though they may lag in speculative rallies.
 
 ## The Value Segment
 
@@ -23,7 +23,7 @@ Value stocks, as screened by OPTZ, trade at depressed multiples relative to thei
 
 ## The Momentum Segment
 
-Momentum stocks are those whose prices have been outperforming the broader market over a defined recent period. The idea is that stocks already moving higher tend to continue moving higher in the near term, whether due to genuine business acceleration or shifting investor sentiment. OPTZ's momentum screen identifies companies whose price trends are positive, not just those with profitable businesses. Momentum holdings tend to be more volatile and expensive by traditional metrics, but they capture the energy of market rotations and trending markets. In strong bull markets, momentum-heavy portfolios outperform; in corrections or reversals, they often underperform more sharply.
+Momentum stocks are those whose prices have been outperforming the broader market over a defined recent period. The idea is that stocks already moving higher tend to continue moving higher in the near term, whether due to genuine business acceleration or shifting investor sentiment. OPTZ's momentum screen identifies companies whose price trends are positive, not just those with profitable businesses. Momentum holdings tend to be more volatile and expensive by traditional metrics, but they capture the energy of market rotations and trending markets. In strong [bull markets](/bull-market/), momentum-heavy portfolios outperform; in corrections or reversals, they often underperform more sharply.
 
 ## How the Three Factors Interact
 
@@ -35,15 +35,15 @@ OPTZ is managed by an ETF sponsor and trades as a standard exchange-traded fund 
 
 ## Costs and Competitive Position
 
-OPTZ charges an expense ratio that reflects index administration and quarterly rebalancing. Because the underlying stocks are large and liquid, portfolio trading costs are modest. The fee structure reflects the cost of running a rules-based index, not active management. OPTZ trades on exchange with solid liquidity and tight spreads, making entry and exit efficient for most investors.
+OPTZ charges an [expense ratio](/expense-ratio/) that reflects index administration and quarterly rebalancing. Because the underlying stocks are large and liquid, portfolio trading costs are modest. The fee structure reflects the cost of running a rules-based index, not active management. OPTZ trades on exchange with solid liquidity and tight spreads, making entry and exit efficient for most investors.
 
-Relative to a simple S&P 500 index fund, OPTZ adds cost and complexity in exchange for a systematic tilt toward factors that have historically carried return premiums. The payoff depends on whether those factors continue to perform and whether the specific screening rules capture them effectively.
+Relative to a simple [S&P 500 index](/sp-500-index/) fund, OPTZ adds cost and complexity in exchange for a systematic tilt toward factors that have historically carried return premiums. The payoff depends on whether those factors continue to perform and whether the specific screening rules capture them effectively.
 
 ## Risks and Performance Dependence
 
 OPTZ's returns depend entirely on whether quality, value, and momentum premiums persist and whether the fund's screens successfully identify them. These factors have delivered excess returns historically, but there are extended periods—such as the 2010s mega-cap growth boom—where quality-value-momentum tilts badly underperformed cap-weighting. A prolonged rally in expensive, high-momentum mega-cap technology stocks would leave OPTZ trailing.
 
-The fund is also a US large-cap-only vehicle, carrying no international diversification and no small-cap or microcap exposure. For a global investor, OPTZ is a US-only piece of a broader allocation.
+The fund is also a US large-cap-only vehicle, carrying no international [diversification](/diversification/) and no small-cap or microcap exposure. For a global investor, OPTZ is a US-only piece of a broader allocation.
 
 ## Monitoring and Research
 

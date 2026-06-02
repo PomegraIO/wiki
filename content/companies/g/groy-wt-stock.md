@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Gold Royalty Corp buys financial slices of mining operations. Here's the simple version: miners need money to dig for gold. Instead of borrowing from a bank, they can sell Gold Royalty a royalty—a contract that says "for every ounce of gold you dig up, I get a chunk of the proceeds." Gold Royalty collects those payments, not by digging anything itself, but by holding these royalty agreements. The company owns no mines. It owns the right to be paid from mines.*
+*[Gold Royalty](/groy-stock/) Corp buys financial slices of mining operations. Here's the simple version: miners need money to dig for gold. Instead of borrowing from a bank, they can sell Gold Royalty a royalty—a contract that says "for every ounce of gold you dig up, I get a chunk of the proceeds." Gold Royalty collects those payments, not by digging anything itself, but by holding these royalty agreements. The company owns no mines. It owns the right to be paid from mines.*
 
 The appeal is straightforward. Mining is expensive and risky. A gold mine costs hundreds of millions of dollars to build and takes years to get running. If you dig it up and sell the gold, you make money, but there's a lot of capital tied up and the price of gold is volatile. Gold Royalty offers miners a way to get financing without taking on all that risk themselves. A miner might sell Gold Royalty a royalty on five percent of the gold produced from a specific property. When the mine starts producing, Gold Royalty starts getting paid. The miner gets upfront capital and can focus on running the mine. Gold Royalty gets a stream of payments for decades.
 
@@ -33,7 +33,7 @@ This sensitivity to gold prices is by design. Investors in Gold Royalty are ofte
 
 ## Risk and concentration
 
-A royalty company's health depends on the mines it's backed by. If a major mine floods or fails, that royalty stream stops. Gold Royalty's portfolio has diversification—spread across many mines and countries—which reduces the impact of any single failure. But if the gold market crashes or if mining becomes uneconomical, all of the company's royalties suffer together.
+A royalty company's health depends on the mines it's backed by. If a major mine floods or fails, that royalty stream stops. Gold Royalty's portfolio has [diversification](/diversification/)—spread across many mines and countries—which reduces the impact of any single failure. But if the gold market crashes or if mining becomes uneconomical, all of the company's royalties suffer together.
 
 Geopolitical risk is real. Some of Gold Royalty's royalties are on mines in countries with political or regulatory uncertainty. A change in government or a new tax on mining could cut into profitability.
 

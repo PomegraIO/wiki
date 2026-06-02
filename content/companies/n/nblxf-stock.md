@@ -37,7 +37,7 @@ Noble Plains was incorporated in 2008 during a uranium boom and survived the sub
 
 Noble Plains' assets are all in Wyoming, concentrated in two world-class uranium districts: the Shirley Basin and the Powder River Basin. These are not theoretical prospects—they are proven, prolific uranium regions where major producers have operated successfully in the past and continue to explore today.
 
-The company has built a district-scale position totaling approximately 4,965 acres (roughly 20 square kilometers) through acquisition of three main properties:
+The company has built a district-scale position totaling approximately 4,965 acres (roughly 20 square kilometers) through [acquisition](/acquisition/) of three main properties:
 
 **Shirley East** (100% owned by Noble Plains) sits in one of Wyoming's most consistent uranium-producing areas. The East property is relatively mature—geological work has been done, past drilling data exists, and preliminary resource estimates are available.
 

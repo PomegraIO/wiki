@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Quhuo Limited** (ticker QH on NASDAQ, traded as American Depositary Shares) is a Chinese platform company that connects freelancers and on-demand workers with short-term employment and service opportunities. The company has pivoted from its origins as a micro-tasking platform toward higher-value service categories — delivery, local services, field work — where vetting, insurance, and payment processing create meaningful margins and differentiation.*
+*The **Quhuo Limited** (ticker QH on [NASDAQ](/nasdaq/), traded as American Depositary Shares) is a Chinese platform company that connects freelancers and on-demand workers with short-term employment and service opportunities. The company has pivoted from its origins as a micro-tasking platform toward higher-value service categories — delivery, local services, field work — where vetting, insurance, and payment processing create meaningful margins and differentiation.*
 
 ## Founding and the micro-tasking era
 
@@ -25,7 +25,7 @@ By the late 2010s, Quhuo's leadership recognized the limitations of micro-taskin
 
 This shift meant moving into on-demand delivery, housekeeping and domestic services, handyman work, and field-based tasks that required more vetting and liability considerations. Customers trusting someone inside their home demanded background checks and ratings. Workers doing hazardous work needed insurance. Quhuo began to invest in these trust and safety mechanisms, rebranding itself not as a quick-cash marketplace but as a workforce-platform that solved coordination and trust problems in China's fragmented services sector.
 
-The pivot was strategic but not painless. It required upfront investment in vetting infrastructure, insurance partnerships, and customer acquisition for these new service categories. It also meant focusing narrowly on categories where the platform had defensible advantages rather than competing on price alone.
+The pivot was strategic but not painless. It required upfront investment in vetting infrastructure, insurance partnerships, and customer [acquisition](/acquisition/) for these new service categories. It also meant focusing narrowly on categories where the platform had defensible advantages rather than competing on price alone.
 
 ## The revenue engine and take-rate dynamics
 
@@ -37,7 +37,7 @@ This model gives Quhuo leverage as it scales. Additional workers make the platfo
 
 ## 2018 public offering and the ADS structure
 
-Quhuo sought capital to accelerate growth and went public on NASDAQ in 2018 through an initial public offering, issuing American Depositary Shares. Each ADS represents an indirect ownership stake in the Chinese operating company, held through a Variable Interest Entity (VIE) structure — a legally complex but common arrangement that allows Chinese companies to raise capital from foreign investors while navigating China's restrictions on foreign ownership and capital outflows.
+Quhuo sought capital to accelerate growth and went public on NASDAQ in 2018 through an [initial public offering](/initial-public-offering/), issuing American Depositary Shares. Each ADS represents an indirect ownership stake in the Chinese operating company, held through a Variable Interest Entity (VIE) structure — a legally complex but common arrangement that allows Chinese companies to raise capital from foreign investors while navigating China's restrictions on foreign ownership and capital outflows.
 
 Under the VIE structure, foreign ADS holders do not directly own the Chinese entity. Instead, they own shares of a Cayman Islands holding company, which has a contractual relationship (not ownership) with the operating company in China. This creates regulatory and political risk: if the Chinese government changes its stance on VIEs or on foreign listings, the ADS holders' rights could be impaired. In recent years, Chinese regulators have increased scrutiny of VIE structures, creating long-term uncertainty for holders of Chinese company ADSs.
 
@@ -55,6 +55,6 @@ The company operates at a much smaller scale than mega-cap American platform com
 
 ## How to research the company
 
-The company's annual 20-F filing with the U.S. Securities and Exchange Commission is the primary source for financial statements, detailed segment performance, and risk disclosures. Key metrics to track are the gross take-rate (revenue as a percentage of transaction value), worker and customer retention, customer acquisition costs, and any commentary on regulatory changes in China.
+The company's annual 20-F filing with the U.S. [Securities and Exchange Commission](/securities-and-exchange-commission/) is the primary source for financial statements, detailed segment performance, and risk disclosures. Key metrics to track are the gross take-rate (revenue as a percentage of transaction value), worker and customer retention, customer acquisition costs, and any commentary on regulatory changes in China.
 
 Quarterly earnings calls provide additional color on business trends, competitive dynamics, and capital allocation decisions. Because Quhuo operates in renminbi and reports to two regulatory regimes, serious investors must also monitor Chinese government statements on gig-economy regulation, tax policy, and the broader stance on VIE-structured foreign listings. Currency fluctuations between the renminbi and the dollar also affect ADS holders directly.

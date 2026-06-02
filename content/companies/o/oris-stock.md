@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ORIENTAL RISE HOLDINGS Ltd (ticker ORIS) is a holding company with roots in Asian real estate. The company operates through subsidiaries engaged in property development, management of commercial and residential real estate, and hospitality operations. It is structured as a conglomerate where the parent company owns stakes in multiple operating businesses rather than running a single line of business itself — a model that gives the parent company strategic optionality but also makes it more complex to understand and value.
+ORIENTAL RISE HOLDINGS Ltd (ticker ORIS) is a holding company with roots in Asian real estate. The company operates through subsidiaries engaged in property development, management of commercial and [residential real estate](/residential-real-estate/), and hospitality operations. It is structured as a conglomerate where the parent company owns stakes in multiple operating businesses rather than running a single line of business itself — a model that gives the parent company strategic optionality but also makes it more complex to understand and value.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ ORIENTAL RISE HOLDINGS Ltd (ticker ORIS) is a holding company with roots in Asia
 
 ORIENTAL RISE HOLDINGS operates as an investment holding company. This means the parent entity does not directly develop properties or run hotels; instead, it owns equity stakes in subsidiary companies that do those things. This structure has both advantages and disadvantages for investors and for the company itself. The advantage is flexibility: the parent company can allocate capital to whichever subsidiary or project offers the best returns at any moment, and it can divest poorly performing assets without dismantling the entire firm. The disadvantage is opacity — holding companies can be difficult to value because the market must estimate the value of each subsidiary, then sum them, then account for any debt or overhead at the parent level.
 
-In practice, this means ORIENTAL RISE HOLDINGS functions as a vehicles for its founder or leadership team to own and operate a portfolio of real estate and hospitality assets. The parent company provides capital, strategic guidance, and operational support to subsidiaries, while allowing each subsidiary to operate semi-independently. This is a common structure in Asian conglomerates, where founder-led companies often build across multiple sectors through acquisition and investment rather than organic growth in a single business.
+In practice, this means ORIENTAL RISE HOLDINGS functions as a vehicles for its founder or leadership team to own and operate a portfolio of real estate and hospitality assets. The parent company provides capital, strategic guidance, and operational support to subsidiaries, while allowing each subsidiary to operate semi-independently. This is a common structure in Asian conglomerates, where founder-led companies often build across multiple sectors through [acquisition](/acquisition/) and investment rather than organic growth in a single business.
 
 ## The core businesses within the group
 
@@ -60,7 +60,7 @@ ORIENTAL RISE HOLDINGS is exposed to real estate market cycles in the regions wh
 
 The company is also exposed to regulatory risk. Property markets and hospitality are heavily regulated in most countries. Changes in property taxes, foreign ownership rules, environmental regulations, or labour laws can materially affect profitability. In some of the regions where ORIENTAL RISE HOLDINGS operates, regulatory change can happen quickly and unpredictably.
 
-Finally, the company carries execution risk. Real estate development, in particular, is littered with examples of companies that misread market demand, encountered construction problems, or failed to successfully exit projects at the prices needed to turn a profit. This risk is partially mitigated by the leadership team's experience and the diversification across multiple projects, but it is never eliminated.
+Finally, the company carries execution risk. Real estate development, in particular, is littered with examples of companies that misread market demand, encountered construction problems, or failed to successfully exit projects at the prices needed to turn a profit. This risk is partially mitigated by the leadership team's experience and the [diversification](/diversification/) across multiple projects, but it is never eliminated.
 
 ## How to research ORIENTAL RISE HOLDINGS as an investment
 

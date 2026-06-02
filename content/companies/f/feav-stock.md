@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-5E Advanced Materials, Inc. is a mineral exploration and development company pursuing two projects in the southwestern United States. The company was incorporated in 2021 and is based in Hesperia, California. It is still in the exploration and feasibility phase of development—not yet producing ore, not yet generating revenue from mining operations. Its shares trade on the OTC market under FEAV and on the Australian Securities Exchange as FEAM. The company's future depends on successfully developing commercially viable mines on properties it controls in California and Nevada.
+[5E Advanced Materials](/feam-stock/), Inc. is a mineral exploration and development company pursuing two projects in the southwestern United States. The company was incorporated in 2021 and is based in Hesperia, California. It is still in the exploration and feasibility phase of development—not yet producing ore, not yet generating revenue from mining operations. Its shares trade on the OTC market under FEAV and on the [Australian Securities Exchange](/australian-securities-exchange/) as FEAM. The company's future depends on successfully developing commercially viable mines on properties it controls in California and Nevada.
 
 ## The Fort Cady project: boron in the Mojave
 
@@ -39,7 +39,7 @@ The risks are equally substantial. Mining projects face permitting delays, envir
 
 ## Geographic contingency and resource nationalism
 
-5E's geographic focus on the United States is deliberate. Domestic boron supply reduces dependence on Turkish and South American imports; domestic lithium strengthens the battery supply chain. U.S. federal policy—including provisions in the Inflation Reduction Act favoring critical mineral production in the United States—creates tailwinds for domestic mining projects. However, it also means the company faces U.S. environmental regulation and labor costs, which can push project economics downward relative to mining in countries with less stringent rules.
+5E's geographic focus on the United States is deliberate. Domestic boron supply reduces dependence on Turkish and South American imports; domestic lithium strengthens the battery supply chain. U.S. federal policy—including provisions in the [Inflation](/inflation/) Reduction Act favoring critical mineral production in the United States—creates tailwinds for domestic mining projects. However, it also means the company faces U.S. environmental regulation and labor costs, which can push project economics downward relative to mining in countries with less stringent rules.
 
 The Mojave location, while geologically favorable, sits in a water-stressed region. Mining and mineral processing require water, a resource that is constrained in the desert southwest. The company's in-situ mining approach partly addresses this by reducing water-intensive crushing and milling, but water availability remains a potential long-term constraint and a source of local opposition to expanded mining.
 

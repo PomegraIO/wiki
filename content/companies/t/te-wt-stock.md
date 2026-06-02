@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-T1 Energy operates in the nuclear energy space, specifically pursuing molten salt reactor technology — a category of advanced nuclear that has been studied for decades but remained largely theoretical until recently. The company is pre-revenue and pre-commercial, building toward a first-of-a-kind demonstration project while navigating the lengthy regulatory path that defines the nuclear industry. Like most advanced reactor ventures, it is capital-intensive, long-duration, and entirely dependent on securing funding and regulatory approval before any commercial operation becomes possible.
+[T1 Energy](/te-stock/) operates in the nuclear energy space, specifically pursuing molten salt reactor technology — a category of advanced nuclear that has been studied for decades but remained largely theoretical until recently. The company is pre-revenue and pre-commercial, building toward a first-of-a-kind demonstration project while navigating the lengthy regulatory path that defines the nuclear industry. Like most advanced reactor ventures, it is capital-intensive, long-duration, and entirely dependent on securing funding and regulatory approval before any commercial operation becomes possible.
 
 <aside class="wiki-infobox">
 <table>

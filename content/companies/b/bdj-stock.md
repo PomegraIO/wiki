@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*BDJ is a closed-end management company that invests in dividend-paying stocks and uses options strategies to generate additional income on top of dividends — a systematic attempt to boost cash yield for income-focused investors willing to accept the constraints that option writing imposes.*
+*BDJ is a closed-end management company that invests in dividend-paying stocks and uses options strategies to generate additional income on top of [dividends](/dividend/) — a systematic attempt to boost cash yield for income-focused investors willing to accept the constraints that option writing imposes.*
 
 <aside class="wiki-infobox">
 <table>

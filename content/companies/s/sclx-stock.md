@@ -38,7 +38,7 @@ Specialty pharmaceuticals typically carry higher gross margins than commoditized
 
 ## What makes Scilex different?
 
-Scilex's niche is in specialty injections and pain management, where it can offer clinical or convenience advantages over oral alternatives or existing injectables. The company's ability to win in this space depends almost entirely on the efficacy and safety profile of its products, the strength of its clinical evidence, and its partnerships with providers and payers. Being a smaller player means Scilex lacks the R&D pipeline depth or sales reach of a [Pfizer](/pfe-stock/) or Eli Lilly, but it also means the company can focus tightly on a few high-value drugs rather than managing a sprawling portfolio.
+Scilex's niche is in specialty injections and pain management, where it can offer clinical or convenience advantages over oral alternatives or existing injectables. The company's ability to win in this space depends almost entirely on the efficacy and safety profile of its products, the strength of its clinical evidence, and its partnerships with providers and payers. Being a smaller player means Scilex lacks the R&D pipeline depth or sales reach of a [Pfizer](/pfe-stock/) or [Eli Lilly](/lly-stock/), but it also means the company can focus tightly on a few high-value drugs rather than managing a sprawling portfolio.
 
 Manufacturing and supply-chain excellence matter more for specialty drugs than for commodity generics, because a supply interruption can mean a physician loses access to a critical pain-management tool for patients, potentially damaging the product's market position. Scilex's manufacturing footprint and supply agreements are therefore competitive assets.
 

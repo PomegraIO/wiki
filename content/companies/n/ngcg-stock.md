@@ -47,7 +47,7 @@ Finally, the company trades on the OTC Markets, indicating limited scale and vis
 
 ## Researching NGCG as an investment
 
-Anyone studying NGCG should start with the company's annual filings and quarterly reports, which detail revenue by product line, distribution channels, gross margin trends, and cash burn. Look for evidence of customer concentration: if a few bars or chains account for the majority of sales, that concentration risk matters. Watch for marketing spend and how it translates into repeat orders.
+Anyone studying NGCG should start with the company's annual filings and quarterly reports, which detail revenue by product line, distribution channels, gross margin trends, and cash burn. Look for evidence of customer concentration: if a few bars or chains account for the majority of sales, that [concentration risk](/concentration-risk/) matters. Watch for marketing spend and how it translates into repeat orders.
 
 Key metrics to track include revenue growth, gross margin (how much is left after direct product costs), and the cash position. A beverage startup needs capital to fund inventory, marketing, and sales staff, and without clear evidence of customer traction or improving unit economics, the cash runway is the limiting factor. Also examine the cost of goods sold relative to revenue: if NGCG is giving away margin to distributors or venues, the ultimate profit potential is limited.
 

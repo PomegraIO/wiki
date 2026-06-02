@@ -41,7 +41,7 @@ Nutrien's three main products are straightforward to describe, harder to make at
 
 **Nitrogen** comes from synthesised ammonia. Nutrien owns or operates ammonia plants that take [natural gas](/natural-gas/) (methane) and use industrial chemistry to turn it into ammonia. This is more energy-intensive and higher-cost than mining potash, but it is the only way to make nitrogen fertiliser at scale. Those ammonia plants are in places like the United States, Trinidad, and Russia.
 
-**Phosphate** is made by mining phosphate rock and processing it into usable compounds. Phosphate is essential for root development and [energy transfer](/et-stock/) in plants. Nutrien mines phosphate in Florida and other locations, then processes it into concentrated products.
+**Phosphate** is made by mining phosphate rock and processing it into usable compounds. Phosphate is essential for root development and energy transfer in plants. Nutrien mines phosphate in Florida and other locations, then processes it into concentrated products.
 
 ## The merger and the modern company
 

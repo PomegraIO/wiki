@@ -12,7 +12,7 @@ handwritten: true
 
 ## What is Valuence Merger Corp. I exactly?
 
-Valuence Merger Corp. I is a special-purpose acquisition company — a blank-check shell created to raise capital through an initial public offering and then deploy it to acquire or merge with a private company. When a SPAC goes public, it is effectively an empty container with a wad of cash raised from public shareholders, held in trust, waiting for a deal. The sponsoring team has a limited window (typically 24 months from IPO, extendable) to find and close a merger target. If they do, the private company becomes public overnight. If they don't find a deal, the cash is returned to shareholders.
+[Valuence Merger Corp. I](/vmcaf-stock/) is a [special-purpose acquisition company](/special-purpose-acquisition-company/) — a blank-check shell created to raise capital through an [initial public offering](/initial-public-offering/) and then deploy it to acquire or merge with a private company. When a SPAC goes public, it is effectively an empty container with a wad of cash raised from public shareholders, held in trust, waiting for a deal. The sponsoring team has a limited window (typically 24 months from IPO, extendable) to find and close a [merger](/merger/) target. If they do, the private company becomes public overnight. If they don't find a deal, the cash is returned to shareholders.
 
 ## How did Valuence Merger get its capital?
 
@@ -20,7 +20,7 @@ Valuence raised money the standard SPAC way: it sold shares and warrants to publ
 
 ## What is the purpose of a SPAC structure?
 
-SPACs were created as an alternative path to market for private companies that wanted to go public but did not want to navigate the year-long process of a traditional IPO. A SPAC can move faster (months rather than a year) and the private-company founders often have more control over the post-merger structure and valuation. For the public shareholders, the SPAC story is a bet on the sponsoring team's ability to find a good acquisition at a fair price — the original shareholders are funding that hunt, and they hope the acquired company will outperform the public markets and reward their patience.
+SPACs were created as an alternative path to market for private companies that wanted to go public but did not want to navigate the year-long process of a traditional IPO. A SPAC can move faster (months rather than a year) and the private-company founders often have more control over the post-merger structure and valuation. For the public shareholders, the SPAC story is a bet on the sponsoring team's ability to find a good [acquisition](/acquisition/) at a fair price — the original shareholders are funding that hunt, and they hope the acquired company will outperform the public markets and reward their patience.
 
 ## What actually happens in a de-SPAC deal?
 
@@ -28,7 +28,7 @@ When the SPAC sponsor team identifies a target company and agrees to terms, the 
 
 ## What is the status of Valuence Merger Corp. I?
 
-Valuence Merger Corp. I, as a blank-check company, is a shell with limited operational assets. Without more recent information, it likely either completed a de-SPAC transaction and the entity is now a publicly traded operating company (in which case the SPAC shell itself no longer exists, replaced by the acquired company), or it remains in search mode waiting for a target, or it has liquidated its trust account and returned capital to shareholders because no deal closed within the window.
+Valuence Merger Corp. I, as a blank-check company, is a shell with limited operational assets. Without more recent information, it likely either completed a [de-SPAC transaction](/de-spac-transaction/) and the entity is now a publicly traded operating company (in which case the SPAC shell itself no longer exists, replaced by the acquired company), or it remains in search mode waiting for a target, or it has liquidated its trust account and returned capital to shareholders because no deal closed within the window.
 
 ## How do you evaluate whether a SPAC deal is worth your money?
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-LifeMD is a telehealth operator running a direct-to-consumer platform that connects patients to licensed physicians and nurse practitioners for remote consultations. The company targets chronic conditions — weight loss, dermatology, hair loss, sexual health, depression, anxiety — where patients prefer the discretion and convenience of virtual care and where repeat visits generate recurring revenue. It is a small-cap, capital-light healthcare technology play operating in an increasingly crowded segment where regulatory compliance, patient acquisition cost discipline, and unit economics have become the main gates to survival.
+LifeMD is a telehealth operator running a direct-to-consumer platform that connects patients to licensed physicians and nurse practitioners for remote consultations. The company targets chronic conditions — weight loss, dermatology, hair loss, sexual health, depression, anxiety — where patients prefer the discretion and convenience of virtual care and where repeat visits generate recurring revenue. It is a small-cap, capital-light healthcare technology play operating in an increasingly crowded segment where regulatory compliance, patient [acquisition](/acquisition/) cost discipline, and unit economics have become the main gates to survival.
 
 <aside class="wiki-infobox">
 <table>

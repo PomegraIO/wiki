@@ -31,7 +31,7 @@ Why split your bet between metal and miners? Simple. Physical silver moves with 
 
 SLVR holds about 30% of its assets in actual physical silver bars and coins, stored in secure vaults. This is real metal. When silver prices rise, you own more silver directly. You benefit penny-for-penny from spot price moves. When they fall, you lose the same way. There is no leverage, no derivative, no bet — it is just the commodity.
 
-Sprott uses major bullion dealers and custodians to hold and verify this silver. You can look up how much silver the fund actually owns. It is not hypothetical. This matters because it separates SLVR from funds that track silver through futures contracts or other derivatives that can drift from the actual metal price.
+Sprott uses major bullion dealers and [custodians](/custodian/) to hold and verify this silver. You can look up how much silver the fund actually owns. It is not hypothetical. This matters because it separates SLVR from funds that track silver through [futures contracts](/futures-contract/) or other derivatives that can drift from the actual metal price.
 
 ## The mining stock piece
 
@@ -49,9 +49,9 @@ The fund rebalances quarterly. That means when mining stocks have rocketed up, S
 
 ## Costs and liquidity
 
-SLVR's expense ratio runs about 0.50% per year. On USD 100,000 invested, that is USD 500 annually. It is moderate. A pure physical silver ETF might cost 0.25%, while an active mining fund might cost 0.75% or more, so SLVR sits in the middle.
+SLVR's [expense ratio](/expense-ratio/) runs about 0.50% per year. On USD 100,000 invested, that is USD 500 annually. It is moderate. A pure physical silver ETF might cost 0.25%, while an active mining fund might cost 0.75% or more, so SLVR sits in the middle.
 
-The fund is liquid. It trades millions of shares daily on NYSE, so you can buy or sell a meaningful position without moving the market. The bid-ask spread is usually tight.
+The fund is liquid. It trades millions of shares daily on NYSE, so you can buy or sell a meaningful position without moving the market. The [bid-ask spread](/bid-ask-spread/) is usually tight.
 
 ## The risks
 
@@ -59,9 +59,9 @@ Silver price risk is the obvious one. If the spot price falls, both pieces of SL
 
 Mining-specific risks are real. A major mine can face geological surprises (ore quality drops, depth increases, drilling becomes harder). Labor disputes, permitting delays, or environmental challenges can shut production. Geopolitical instability in mining regions (Peru, Mexico, China, Indonesia, Russia) can disrupt supply. A single bad quarter for a major holding can move SLVR meaningfully.
 
-There is also operational risk in holding physical metal. Sprott uses custodians and vaults, and those institutions have their own solvency and security requirements. In an extreme scenario — a major custodian failure or theft — there could be loss. This is rare but not zero.
+There is also [operational risk](/operational-risk/) in holding physical metal. Sprott uses custodians and vaults, and those institutions have their own solvency and security requirements. In an extreme scenario — a major custodian failure or theft — there could be loss. This is rare but not zero.
 
-Mining equities also depend on management and capital allocation. A company can waste shareholder money on poor acquisitions or fail to reinvest in expanding reserves. Over time, reserves deplete, and mines must find new ore bodies or face decline.
+Mining equities also depend on management and capital allocation. A company can waste shareholder money on poor [acquisitions](/acquisition/) or fail to reinvest in expanding reserves. Over time, reserves deplete, and mines must find new ore bodies or face decline.
 
 ## How to research SLVR
 

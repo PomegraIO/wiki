@@ -15,15 +15,15 @@ The JPMorgan Equity Focus ETF (ticker JPEF) is built around a simple idea: own t
 
 ## What the fund does
 
-JPEF holds a concentrated portfolio. Most funds aim for broad diversification — the S&P 500 has 500 stocks, and many large-cap funds hold most of them. JPEF holds fewer than one-tenth that number. That concentration is intentional. The logic goes like this: if you own 500 stocks, you are essentially saying they are all equally good. You are betting on the market average. But if you pick 35, you are saying these 35 are genuinely the best opportunities available. You live and die by those choices.
+JPEF holds a concentrated portfolio. Most funds aim for broad [diversification](/diversification/) — the S&P 500 has 500 stocks, and many large-cap funds hold most of them. JPEF holds fewer than one-tenth that number. That concentration is intentional. The logic goes like this: if you own 500 stocks, you are essentially saying they are all equally good. You are betting on the market average. But if you pick 35, you are saying these 35 are genuinely the best opportunities available. You live and die by those choices.
 
-The fund's managers define best through a disciplined process centered on earnings quality and competitive strength. They ask: Is this company actually profitable, or is it bleeding money while promising future returns? Can it sustain its margins, or is it vulnerable to competition? Does management have a track record of executing, or are they good storytellers?
+The fund's managers define best through a disciplined process centered on [earnings quality](/earnings-quality/) and competitive strength. They ask: Is this company actually profitable, or is it bleeding money while promising future returns? Can it sustain its margins, or is it vulnerable to competition? Does management have a track record of executing, or are they good storytellers?
 
 ## How the managers pick
 
 From this screening, the managers build a portfolio tilted toward profitable, growing companies with durable advantages in their markets. The portfolio is not a pure growth portfolio or a pure value portfolio — it is quality-focused first, with a willingness to own both a pricey company with genuinely superior growth and a reasonably priced stable business with good margins and steady earnings.
 
-Sector and size are not constrained. If the manager finds the best opportunities are concentrated in technology or healthcare, that is where the fund overweights. If mid-caps look more attractive than mega-caps, the fund will own more of them. This flexibility is what differentiates active management from an index. The expense ratio reflects the work of research and analysis, and it is higher than a passive S&P 500 tracker. But if the manager is genuinely good at picking stocks, that higher cost can be worth it.
+Sector and size are not constrained. If the manager finds the best opportunities are concentrated in technology or healthcare, that is where the fund overweights. If mid-caps look more attractive than mega-caps, the fund will own more of them. This flexibility is what differentiates active management from an index. The [expense ratio](/expense-ratio/) reflects the work of research and analysis, and it is higher than a passive S&P 500 tracker. But if the manager is genuinely good at picking stocks, that higher cost can be worth it.
 
 ## Why concentration matters
 
@@ -35,7 +35,7 @@ When the manager's best picks work out, JPEF can beat the broad market smartly. 
 
 The managers do not hold stocks forever. They sell when a thesis breaks — when a company's competitive position weakens, when valuation becomes stretched, or when a better opportunity appears. Turnover is typically moderate. The fund trades hourly on an exchange like all ETFs, so you can buy or sell during the market day at a price reflecting its holdings' real-time values. That liquidity is useful for investors who want to move in or out quickly without waiting until day-end pricing.
 
-The fund's performance depends entirely on whether JPMorgan's stock pickers are skilled. Some actively managed funds outperform consistently; others do not. The only real way to know is to look at actual returns over a full market cycle — including a bull market, a bear market, and a recovery.
+The fund's performance depends entirely on whether JPMorgan's stock pickers are skilled. Some [actively managed funds](/actively-managed-fund/) outperform consistently; others do not. The only real way to know is to look at actual returns over a full market cycle — including a [bull market](/bull-market/), a [bear market](/bear-market/), and a recovery.
 
 ## Before you invest
 
@@ -43,4 +43,4 @@ Ask yourself: Do you trust JPMorgan's process? Read the fund's prospectus to und
 
 Check the fund's performance relative to a broad U.S. index like the S&P 500 over several years. Did the concentrated approach add value, or did it subtract? Review the expense ratio. The higher cost of active management is only worth paying if the manager is consistently adding returns above that fee. Look at portfolio turnover to get a sense of how frequently positions are changed. If turnover is very high, trading costs and taxes eat into returns.
 
-JPEF is for investors who believe some stock pickers are genuinely skilled and who are comfortable with less diversification in exchange for the chance of better returns. If you want simplicity and low fees, an index fund is the better choice. If you want a manager picking the best stocks and you can accept the risk and fees that come with that, JPEF deserves consideration.
+JPEF is for investors who believe some stock pickers are genuinely skilled and who are comfortable with less diversification in exchange for the chance of better returns. If you want simplicity and low fees, an [index fund](/index-fund/) is the better choice. If you want a manager picking the best stocks and you can accept the risk and fees that come with that, JPEF deserves consideration.

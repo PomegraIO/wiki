@@ -32,7 +32,7 @@ The company's name references Portsmouth Square itself, a public plaza in Chinat
 
 ## The era of stable rentals and appreciation
 
-Throughout the 1970s and 1980s, Portsmouth Square accumulated a portfolio of residential apartment buildings in and around Chinatown. The San Francisco real estate market, especially in central neighborhoods, appreciated steadily over decades; rents rose with inflation and demographic demand. Portsmouth Square, as a landlord, benefited from both the rental cash flow and the underlying property appreciation.
+Throughout the 1970s and 1980s, Portsmouth Square accumulated a portfolio of residential apartment buildings in and around Chinatown. The San Francisco real estate market, especially in central neighborhoods, appreciated steadily over decades; rents rose with [inflation](/inflation/) and demographic demand. Portsmouth Square, as a landlord, benefited from both the rental cash flow and the underlying property appreciation.
 
 California's rent-control laws, particularly stringent in San Francisco, shaped Portsmouth Square's operational reality. The company's leases were governed by municipal rent-control ordinances that capped how much landlords could raise rents each year, creating predictable but limited rental income growth. Rent control protects long-term tenants from displacement but reduces a landlord's flexibility to raise prices with market demand. For a company holding properties for 30+ years, rent control meant stable, though modest, cash flows and an incentive to hold rather than sell.
 
@@ -40,7 +40,7 @@ California's rent-control laws, particularly stringent in San Francisco, shaped 
 
 By the 2000s and 2010s, Portsmouth Square's business had stabilized into a straightforward model: collect rental income from a largely fixed portfolio of buildings and, when strategic or financial circumstances warrant, sell portions of the holdings to raise capital or simplify operations.
 
-San Francisco's real estate market underwent dramatic changes in the 2010s as tech industry growth drove property values to historic highs. Portsmouth Square's properties in Chinatown appreciated in theoretical value, but the rent-control ordinances meant actual rental income grew only at the legal maximum each year — typically 2 to 5 percent, far below market rates if the company could have freely re-leased units. This created a structural tension: the assets were valuable on a balance sheet, but constrained by regulation in terms of cash generation.
+San Francisco's real estate market underwent dramatic changes in the 2010s as tech industry growth drove property values to historic highs. Portsmouth Square's properties in Chinatown appreciated in theoretical value, but the rent-control ordinances meant actual rental income grew only at the legal maximum each year — typically 2 to 5 percent, far below market rates if the company could have freely re-leased units. This created a structural tension: the assets were valuable on a [balance sheet](/balance-sheet/), but constrained by regulation in terms of cash generation.
 
 The company has occasionally monetized portions of its portfolio through sales, particularly when development interests sought to acquire buildings for redevelopment or conversion. These sales generate one-time capital events but reduce the underlying asset base and future rental streams.
 
@@ -48,7 +48,7 @@ The company has occasionally monetized portions of its portfolio through sales, 
 
 Portsmouth Square today is a landlord of older, rent-controlled apartment buildings in one of San Francisco's most distinctive neighborhoods. Its revenue is almost entirely rental income, collected under municipal rent-control regimes that limit annual increases. The company has no growth business, no new product development, and no expansion into new markets — it is a property manager and occasional asset seller.
 
-The company's balance sheet consists primarily of real estate (both the buildings and the land beneath them) and bank accounts. The income statement is straightforward: rental revenue less operating costs (maintenance, property taxes, insurance, management) yields taxable income. Tenants in rent-controlled units are typically long-term residents, some of whom have occupied the same apartment for decades.
+The company's balance sheet consists primarily of real estate (both the buildings and the land beneath them) and bank accounts. The [income statement](/income-statement/) is straightforward: rental revenue less operating costs (maintenance, property taxes, insurance, management) yields taxable income. Tenants in rent-controlled units are typically long-term residents, some of whom have occupied the same apartment for decades.
 
 ## Stability and constraints
 
@@ -56,12 +56,12 @@ The advantage of Portsmouth Square's model is stability and simplicity. Real est
 
 The constraints are equally clear. Rent control caps upside on the cash-generation side. San Francisco real estate regulations also restrict what landlords can do with properties — conversion to condominiums, major renovations, or other capital projects face regulatory and legal constraints that make big portfolio changes difficult. Portsmouth Square cannot easily pivot to a different business or real estate focus; it is tied to the specific geography and regulatory environment of San Francisco's Chinatown.
 
-Additionally, as a micro-cap OTC company with minimal institutional following, Portsmouth Square likely faces a wide bid-ask spread and limited liquidity in its shares. Shareholders seeking to exit their positions may find it difficult to do so at fair value.
+Additionally, as a micro-cap OTC company with minimal institutional following, Portsmouth Square likely faces a wide [bid-ask spread](/bid-ask-spread/) and limited liquidity in its shares. Shareholders seeking to exit their positions may find it difficult to do so at [fair value](/fair-value/).
 
 ## How to research Portsmouth Square
 
 Portsmouth Square's annual 10-K filing (SEC CIK 0000079661) is the primary source for understanding the business. The filing details the portfolio of properties, rents collected, operating expenses, and any changes in holdings. Because the business is so straightforward, the financial statements are transparent: look at total rental income, property-operating costs, and net operating cash flow.
 
-Key metrics to monitor: the count and condition of properties in the portfolio, average rents (noting rent-control constraints), tenant turnover and occupancy rates, and any sales or acquisitions of buildings. For a company of this type and size, the most relevant insight comes from comparing property values (estimated by real estate markets) to the company's balance-sheet equity — the gap between the two often reflects the discount at which small real estate companies trade versus larger REITs.
+Key metrics to monitor: the count and condition of properties in the portfolio, average rents (noting rent-control constraints), tenant turnover and occupancy rates, and any sales or [acquisitions](/acquisition/) of buildings. For a company of this type and size, the most relevant insight comes from comparing property values (estimated by real estate markets) to the company's balance-sheet equity — the gap between the two often reflects the discount at which small real estate companies trade versus larger REITs.
 
 Portsmouth Square is best understood not as a growth investment but as a stable, slow-moving asset holder tied to San Francisco real estate and local rent regulations. Investors are essentially purchasing a share of the underlying real estate portfolio at a historically deep discount to market value, on the bet that eventually the shares will revalue upward or the properties will be sold at a price that reflects their true market worth.

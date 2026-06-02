@@ -25,7 +25,7 @@ keywords:
 
 ## Credit Enhancement and Synthetic Leverage
 
-The trust's name includes "cred enhance," signaling that the capital appreciation right is structured as a credit-linked security. Credit-linked securities are synthetic instruments: the holder transfers credit risk from the issuer (Aon, in this case) to the investor. In exchange, the investor is offered enhanced returns or leverage—the capital appreciation payoff is typically larger than a conventional bond coupon would be.
+The trust's name includes "cred enhance," signaling that the capital appreciation right is structured as a credit-linked security. Credit-linked securities are synthetic instruments: the holder transfers credit risk from the issuer (Aon, in this case) to the investor. In exchange, the investor is offered enhanced returns or leverage—the capital appreciation payoff is typically larger than a conventional [bond](/bond/) coupon would be.
 
 This structure allows Aon to access capital markets while isolating the credit risk in a bankruptcy-remote trust. If Aon faces financial distress, KTN holders bear first loss. If Aon thrives and its enterprise value rises sharply, KTN holders capture a leveraged gain. The tradeoff is typical for synthetic instruments: higher potential upside, but concentrated downside risk.
 

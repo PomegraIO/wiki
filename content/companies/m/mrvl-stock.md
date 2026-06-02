@@ -47,7 +47,7 @@ The composition of Marvell's revenue reflects the company's migration away from 
 
 ## Why this business is capital-intensive without owning a factory
 
-Marvell does not own a semiconductor fabrication plant. Instead, it designs chips at its offices in California and other locations, then contracts the actual manufacturing to foundries — primarily Taiwan Semiconductor Manufacturing Company (TSMC) and Samsung. This fabless model is standard for many chip-design companies because building and maintaining a fab is enormously expensive and requires continuous heavy investment just to stay current with the latest manufacturing technology.
+Marvell does not own a semiconductor fabrication plant. Instead, it designs chips at its offices in California and other locations, then contracts the actual manufacturing to foundries — primarily [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company (TSMC) and Samsung. This fabless model is standard for many chip-design companies because building and maintaining a fab is enormously expensive and requires continuous heavy investment just to stay current with the latest manufacturing technology.
 
 But fabless does not mean capital-light. Designing the chips that customers demand requires hundreds of engineers, spending on research and development year after year, and the ability to take on risk when you commission a large production run and discover that the chips have a flaw or that the customer's product roadmap changed. Marvell has invested billions in acquiring other chip companies to expand its product lines — acquiring Cavium in 2017, acquiring Inphi in 2021 — which accelerated its shift from storage-focused toward a broader infrastructure player.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Innovator Equity Defined Protection ETF - 2 Yr to October 2026 (ticker: AOCT, traded on NYSE Arca) is part of a newer class of exchange-traded products called defined-outcome ETFs — funds that promise a specific risk-return profile over a defined time window, then reset. AOCT's promise is straightforward: it protects your principal against losses in the S&P 500 through October 2026, but it caps how much you can gain in the same period. It is neither a traditional stock fund nor a bond fund, but something built out of options and other derivatives — a financial machine engineered to deliver a precise outcome if you hold until the protection period ends.
+The Innovator Equity Defined Protection ETF - 2 Yr to October 2026 (ticker: AOCT, traded on NYSE Arca) is part of a newer class of exchange-traded products called defined-outcome ETFs — funds that promise a specific risk-return profile over a defined time window, then reset. AOCT's promise is straightforward: it protects your principal against losses in the S&P 500 through October 2026, but it caps how much you can gain in the same period. It is neither a traditional stock fund nor a [bond](/bond/) fund, but something built out of options and other derivatives — a financial machine engineered to deliver a precise outcome if you hold until the protection period ends.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,13 +27,13 @@ The Innovator Equity Defined Protection ETF - 2 Yr to October 2026 (ticker: AOCT
 
 ## What a defined-outcome ETF actually is
 
-Defined-outcome ETFs are a recent innovation — the first appeared around 2015 — that use options strategies to promise a specific payoff structure. Instead of owning stocks and hoping for the best, these funds engineer their exposure using call options (contracts that let the holder profit if the market rises) and put options (contracts that protect against losses). The engineering is transparent: a fund prospectus lays out the exact cap and floor on your returns for the stated period.
+Defined-outcome ETFs are a recent innovation — the first appeared around 2015 — that use options strategies to promise a specific payoff structure. Instead of owning stocks and hoping for the best, these funds engineer their exposure using [call options](/call-option/) (contracts that let the holder profit if the market rises) and [put options](/put-option/) (contracts that protect against losses). The engineering is transparent: a [fund prospectus](/fund-prospectus/) lays out the exact cap and floor on your returns for the stated period.
 
 AOCT specifically offers 100% principal protection. If you put $10,000 in AOCT in January 2024 and hold it through October 2026, you are guaranteed to get at least $10,000 back, even if the S&P 500 crashes to zero. In exchange for that floor, the upside is capped — if the S&P 500 surges, your gain will be limited, typically to somewhere in the range of 9% to 12% annualized (the exact cap changes with market conditions and is set when the fund year begins).
 
 ## How the protection works
 
-The mechanism relies on options. AOCT's managers use the fund's cash to buy protective puts — options that pay off if the market falls — while simultaneously selling call options to finance that protection. The puts set the floor (principal protection), and the calls set the ceiling (the capped upside). The cost of the puts is covered by the premium the fund receives from selling calls, creating a zero-cost (or near-zero-cost) hedge.
+The mechanism relies on options. AOCT's managers use the fund's cash to buy [protective puts](/protective-put/) — options that pay off if the market falls — while simultaneously selling call options to finance that protection. The puts set the floor (principal protection), and the calls set the ceiling (the capped upside). The cost of the puts is covered by the premium the fund receives from selling calls, creating a zero-cost (or near-zero-cost) hedge.
 
 This trade-off only works if you hold to the end of the period. If you sell AOCT midway, you are selling at whatever the market price happens to be that day, and that price may be above or below your original investment depending on whether stocks have rallied or fallen. The protection is only realized if you hold until October 2026, at which point the options expire and the promise is settled.
 
@@ -43,7 +43,7 @@ On October 16, 2026, the current protection period expires and a new one begins.
 
 ## Costs and tax implications
 
-The expense ratio for a defined-outcome ETF is typically higher than a plain-vanilla index fund — 0.75% to 1% annually is common — because the fund must actively manage the options positions. AOCT's cost is usually in that range. The extra cost reflects the complexity of sourcing, monitoring, and rolling the options as they age.
+The [expense ratio](/expense-ratio/) for a defined-outcome ETF is typically higher than a plain-vanilla [index fund](/index-fund/) — 0.75% to 1% annually is common — because the fund must actively manage the options positions. AOCT's cost is usually in that range. The extra cost reflects the complexity of sourcing, monitoring, and rolling the options as they age.
 
 Tax treatment is also worth understanding. Because the fund is constantly buying and selling options to maintain its structure, there can be higher turnover and potentially more taxable distributions than a simple index fund. However, unlike a structured note (a similar product issued as a debt instrument), a defined-outcome ETF is not taxed as a straddle or paired investment — it is treated as a regular fund for tax purposes, which simplifies things relative to direct option positions.
 
@@ -53,13 +53,13 @@ The first risk is obvious: if you sell before October 2026, you lose the protect
 
 A second risk is concentration in one index. AOCT is entirely dependent on the S&P 500. If the S&P 500 falls but a broader market measure (including small-cap or international stocks) has held up, AOCT might underperform your true diversified portfolio. The protection only applies to the S&P 500, not to other markets.
 
-A third is opportunity cost. In years where the stock market surges 30% or more, AOCT's capped returns mean you miss out on most of the upside. You traded that potential gain for the peace of mind of protection. That is a legitimate trade-off, but it is a trade-off nonetheless.
+A third is opportunity cost. In years where the [stock market](/stock-market/) surges 30% or more, AOCT's capped returns mean you miss out on most of the upside. You traded that potential gain for the peace of mind of protection. That is a legitimate trade-off, but it is a trade-off nonetheless.
 
 Finally, defined-outcome ETFs depend on the issuer's ability to manage the options book correctly. While options markets are deep and liquid, edge cases (extreme rallies, sudden dislocations) can make the hedges imperfect. Over a single two-year period this is unlikely to matter, but it is worth knowing that the protection is not absolute — it is only as good as the options market and the issuer's execution.
 
 ## Who AOCT is for
 
-This fund appeals to investors who want to participate in stock-market gains but feel uneasy about the risk of a sharp decline. It is particularly useful during periods of high uncertainty — when recession fears or geopolitical risks loom — because it trades sleep for some upside. A retiree who needs the principal for living expenses in two years might buy AOCT to get some market exposure without the risk of a late-period crash that could derail their plan. A nervous investor stepping into equities for the first time might use AOCT as a low-stress way to learn how stock markets behave.
+This fund appeals to investors who want to participate in stock-market gains but feel uneasy about the risk of a sharp decline. It is particularly useful during periods of high uncertainty — when [recession](/recession/) fears or geopolitical risks loom — because it trades sleep for some upside. A retiree who needs the principal for living expenses in two years might buy AOCT to get some market exposure without the risk of a late-period crash that could derail their plan. A nervous investor stepping into equities for the first time might use AOCT as a low-stress way to learn how stock markets behave.
 
 AOCT is not suitable for long-term investors who can stomach volatility and believe that equity market losses over time are temporary; those investors are better served by holding the S&P 500 directly and capturing the full upside. It is also not suitable for traders or tactical investors who plan to trade in and out repeatedly, since the benefit only accrues at the reset date.
 

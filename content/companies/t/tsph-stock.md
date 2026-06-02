@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TuSimple is building autonomous driving software for heavy trucks, focusing on long-haul freight routes where a driverless or reduced-driver model could meaningfully shift the economics of transport. The company went public via a SPAC merger in 2021 and is listed on NASDAQ under TSPH. Unlike robotaxi companies chasing cities and unpredictable streets, TuSimple is pursuing a narrower target: highway trucking on predictable routes between distribution centers, where the case for autonomy and the adoption barriers are structurally different.
+TuSimple is building autonomous driving software for heavy trucks, focusing on long-haul freight routes where a driverless or reduced-driver model could meaningfully shift the economics of transport. The company went public via a SPAC [merger](/merger/) in 2021 and is listed on [NASDAQ](/nasdaq/) under TSPH. Unlike robotaxi companies chasing cities and unpredictable streets, TuSimple is pursuing a narrower target: highway trucking on predictable routes between distribution centers, where the case for autonomy and the adoption barriers are structurally different.
 
 <aside class="wiki-infobox">
 <table>
@@ -56,4 +56,4 @@ The company is one of a small number of focused autonomous trucking plays, compe
 
 ## How to follow TuSimple
 
-Start with the company's quarterly 10-Q filings and the annual 10-K (SEC CIK 0001823593) to understand the current state of operations, the cash burn rate, and management's revised timeline for commercial deployment. Watch for announcements of new customer partnerships and expanded operational footprint — any move from pilot to higher volumes would be a clear signal of progress. Earnings calls will clarify whether the company is still aiming for full autonomy or doubling down on the driver-assistance pivot. Key metrics include fleet size, miles logged, customer acquisition, and cash runway. As with all autonomous-vehicle companies, the gap between technical capability and actual deployment tends to be larger than initially promised.
+Start with the company's quarterly 10-Q filings and the annual 10-K (SEC CIK 0001823593) to understand the current state of operations, the cash burn rate, and management's revised timeline for commercial deployment. Watch for announcements of new customer partnerships and expanded operational footprint — any move from pilot to higher volumes would be a clear signal of progress. Earnings calls will clarify whether the company is still aiming for full autonomy or doubling down on the driver-assistance pivot. Key metrics include fleet size, miles logged, customer [acquisition](/acquisition/), and cash runway. As with all autonomous-vehicle companies, the gap between technical capability and actual deployment tends to be larger than initially promised.

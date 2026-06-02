@@ -16,7 +16,7 @@ The core business centers on **SpiderNet**, a decentralized network infrastructu
 
 ## The 2022 Valuation Phenomenon
 
-AMTD Digital became widely known not for operational milestones but for an extraordinary stock-price movement in the weeks following its Hong Kong listing. On its first trading day in late July 2022, shares traded within reasonable range of the offering price. Over the following three to four weeks, the stock surged over 600%, briefly reaching a [market capitalization](/wiki/market-capitalization/) that exceeded USD 70 billion. By some measures, AMTD's market value temporarily rivaled that of established global [financial institutions](/fisi-stock/).
+AMTD Digital became widely known not for operational milestones but for an extraordinary stock-price movement in the weeks following its Hong Kong listing. On its first trading day in late July 2022, shares traded within reasonable range of the offering price. Over the following three to four weeks, the stock surged over 600%, briefly reaching a [market capitalization](/wiki/market-capitalization/) that exceeded USD 70 billion. By some measures, AMTD's market value temporarily rivaled that of established global financial institutions.
 
 This episode occurred amid a thin, illiquid float and intense retail demand in Hong Kong and Singapore. Several factors converged: limited initial public shares, extreme leverage use among retail investors, apparent retail FOMO (fear of missing out), and potential pump-and-dump dynamics involving social media hype. The company had disclosed minimal financial metrics prior to listing, and retail enthusiasm for digital asset exposure may have masked a lack of clarity about actual revenues and profitability.
 

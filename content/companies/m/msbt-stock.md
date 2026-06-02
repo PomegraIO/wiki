@@ -12,21 +12,21 @@ handwritten: true
 
 ## What Is Morgan Stanley Bitcoin Trust?
 
-Morgan Stanley Bitcoin Trust (NYSE Arca: MSBT) is an exchange-traded product, or ETP, that holds bitcoin directly and is traded on a public exchange like any other stock. Launched on April 8, 2026, by Morgan Stanley Investment Management, MSBT represents one of the first major steps by a large, traditionally regulated asset manager into cryptocurrency investing.
+[Morgan Stanley](/morgan-stanley/) [Bitcoin](/bitcoin/) Trust (NYSE Arca: MSBT) is an exchange-traded product, or ETP, that holds bitcoin directly and is traded on a public exchange like any other stock. Launched on April 8, 2026, by Morgan Stanley Investment Management, MSBT represents one of the first major steps by a large, traditionally regulated asset manager into cryptocurrency investing.
 
-The trust holds bitcoin—the cryptocurrency itself—not shares in a bitcoin company or futures contracts. This is called a "spot" bitcoin product. When you buy a share of MSBT, you own a proportional stake in the bitcoin held in the trust's vaults. When you sell, you receive the market price of that stake. The trust aims to track the price of bitcoin as closely as possible, net of fees and operating expenses.
+The trust holds bitcoin—the cryptocurrency itself—not shares in a bitcoin company or [futures contracts](/futures-contract/). This is called a "spot" bitcoin product. When you buy a share of MSBT, you own a proportional stake in the bitcoin held in the trust's vaults. When you sell, you receive the market price of that stake. The trust aims to track the price of bitcoin as closely as possible, net of fees and operating expenses.
 
 ## Why This Matters
 
-For the first decade and a half of bitcoin's existence, individuals who wanted to own it had to do two things: find a cryptocurrency exchange (like Coinbase or Kraken) and learn to custody the asset themselves or trust the exchange to hold it. This process was foreign to traditional investors and inaccessible to most retirement accounts and institutional portfolios, which require securities registered and traded through familiar channels.
+For the first decade and a half of bitcoin's existence, individuals who wanted to own it had to do two things: find a [cryptocurrency exchange](/cryptocurrency-exchange/) (like Coinbase or Kraken) and learn to custody the asset themselves or trust the exchange to hold it. This process was foreign to traditional investors and inaccessible to most retirement accounts and institutional portfolios, which require securities registered and traded through familiar channels.
 
-Spot bitcoin ETFs began to change this landscape starting in the U.S. in early 2024, when regulators approved the first ones. These products package bitcoin into a familiar wrapper—a tradable security that behaves like a stock or bond fund. Someone can buy bitcoin through a conventional brokerage account, hold it in an IRA, and sell it without ever creating a cryptocurrency exchange account or managing a private key.
+Spot bitcoin ETFs began to change this landscape starting in the U.S. in early 2024, when regulators approved the first ones. These products package bitcoin into a familiar wrapper—a tradable security that behaves like a stock or [bond](/bond/) fund. Someone can buy bitcoin through a conventional brokerage account, hold it in an IRA, and sell it without ever creating a cryptocurrency exchange account or managing a private key.
 
 Morgan Stanley's entry into the space is significant because the firm is one of the world's largest wealth managers. MSIM, its investment-management division, has vast distribution to retail and institutional clients. The launch of MSBT signals that bitcoin—once a niche, counterculture asset—is now considered legitimate enough for inclusion in a portfolio managed by one of the oldest and most established financial institutions on Earth.
 
 ## Product Features and the Fee Advantage
 
-MSBT carries an expense ratio of 0.14% per year, the lowest among major U.S. spot bitcoin ETFs. For context, competitors like iShares Bitcoin Mini Trust (IBIT) charge 0.20%. That small difference matters when compounded over years. An investor in MSBT pays $14 per year for every $10,000 invested, versus $20 for a competitor. That 0.06 percentage point difference sounds trivial until it is evaluated over a decade: compound savings accumulate.
+MSBT carries an [expense ratio](/expense-ratio/) of 0.14% per year, the lowest among major U.S. spot bitcoin ETFs. For context, competitors like iShares Bitcoin Mini Trust (IBIT) charge 0.20%. That small difference matters when compounded over years. An investor in MSBT pays $14 per year for every $10,000 invested, versus $20 for a competitor. That 0.06 percentage point difference sounds trivial until it is evaluated over a decade: compound savings accumulate.
 
 Morgan Stanley's large asset base and infrastructure gave it an advantage in launching at such a low fee. Bigger providers can spread fixed operational costs across larger asset pools, pulling down the per-unit cost. The firm also used its low-cost positioning as a explicit marketing edge: the trust advertised itself as offering the cheapest way to hold bitcoin through a traditional asset manager.
 
@@ -36,7 +36,7 @@ In its first week of trading, MSBT attracted more than $100 million in assets un
 
 ## What Investors Own
 
-When an investor buys MSBT, the trust holds bitcoin in a custody arrangement designed to keep the asset secure. Bitcoin, unlike securities, exists as entries on a distributed ledger (the blockchain). The trust's custodian—responsible for safeguarding the private keys that authorize transactions—works to prevent theft, hacking, or operational loss. Reputable custodians like Fidelity Digital Assets and Coinbase Custody have built infrastructure and insurance specifically for this purpose.
+When an investor buys MSBT, the trust holds bitcoin in a custody arrangement designed to keep the asset secure. Bitcoin, unlike securities, exists as entries on a [distributed ledger](/distributed-ledger/) (the blockchain). The trust's [custodian](/custodian/)—responsible for safeguarding the private keys that authorize transactions—works to prevent theft, hacking, or operational loss. Reputable custodians like Fidelity Digital Assets and Coinbase Custody have built infrastructure and insurance specifically for this purpose.
 
 The investor owns no claim on Morgan Stanley itself; the investor owns a claim on the bitcoin held by the trust. If Morgan Stanley were to go bankrupt, the bitcoin would not be part of the company's assets available to creditors. That legal isolation is a deliberate feature of the ETF structure, designed to ensure that shareholder assets are truly separate.
 
@@ -46,7 +46,7 @@ Bitcoin is among the highest-volatility asset classes available to retail invest
 
 That volatility is both a risk and a potential source of returns. Bitcoin has historically appreciated sharply over multi-year periods, including periods when traditional assets like stocks and bonds underperformed. But those periods have been punctuated by 50%, 70%, or steeper drawdowns. An investor holding bitcoin through a downturn experiences significant mark-to-market losses.
 
-The other risks are operational and regulatory. Custody remains a source of occasional losses in the cryptocurrency ecosystem, though established custodians have significant insurance and redundancy to minimize the probability. Regulatory change is an open question: if governments around the world decided to heavily restrict bitcoin ownership or trading, the trust could be forced to shut down, and shareholders would receive the fair value of their bitcoin stake at the time of closure. That scenario remains unlikely but is not zero-probability.
+The other risks are operational and regulatory. Custody remains a source of occasional losses in the cryptocurrency ecosystem, though established custodians have significant insurance and redundancy to minimize the probability. Regulatory change is an open question: if governments around the world decided to heavily restrict bitcoin ownership or trading, the trust could be forced to shut down, and shareholders would receive the [fair value](/fair-value/) of their bitcoin stake at the time of closure. That scenario remains unlikely but is not zero-probability.
 
 ## Market Context and Competitive Landscape
 

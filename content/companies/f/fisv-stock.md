@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Fiserv is an American technology and services company that powers financial transactions and operations for banks, credit unions, merchants, and other [financial institutions](/fisi-stock/) worldwide. The company processes trillions of dollars in payments annually, provides the software platforms that run credit unions and regional banks, and is involved in nearly every corner of the financial plumbing that invisible to ordinary customers but absolutely essential to how money moves.*
+*Fiserv is an American technology and services company that powers financial transactions and operations for banks, credit unions, merchants, and other financial institutions worldwide. The company processes trillions of dollars in payments annually, provides the software platforms that run credit unions and regional banks, and is involved in nearly every corner of the financial plumbing that invisible to ordinary customers but absolutely essential to how money moves.*
 
 <aside class="wiki-infobox">
 <table>

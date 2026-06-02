@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Vicarious Surgical is making robots that help surgeons perform less invasive abdominal surgery. The company went public via SPAC in 2021 and trades under RBOTW. Here's what you need to know: surgery through tiny holes beats big cuts. Less tissue damage means less pain, faster recovery, shorter hospital stays, and lower infection risk. The catch is that operating through a camera the size of a pencil is hard — it requires skill and custom-built tools. Vicarious is betting that robots can make the hard part easier, and that doctors and hospitals will pay for robots that make their patients healthier faster.
+[Vicarious Surgical](/rbot-stock/) is making robots that help surgeons perform less invasive abdominal surgery. The company went public via SPAC in 2021 and trades under RBOTW. Here's what you need to know: surgery through tiny holes beats big cuts. Less tissue damage means less pain, faster recovery, shorter hospital stays, and lower infection risk. The catch is that operating through a camera the size of a pencil is hard — it requires skill and custom-built tools. Vicarious is betting that robots can make the hard part easier, and that doctors and hospitals will pay for robots that make their patients healthier faster.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,7 +33,7 @@ Surgical robots are supposed to bridge that gap. The robot holds tools, moves th
 
 ## Vicarious's approach and what makes it different
 
-Intuitive Surgical dominates surgical robotics. Its da Vinci system is in thousands of hospitals worldwide and generated billions in revenue. Vicarious is much younger and smaller, but it is trying a different angle. Rather than retrofit robotic arms onto the surgeon's console, Vicarious is building a system purpose-built for soft-tissue surgery — liver resections, kidney surgery, spleen removal, and other abdominal work. The company's robot is more compact than da Vinci, designed to fit through smaller incisions, and the control system is supposed to be more intuitive for surgeons trained on traditional laparoscopic tools.
+[Intuitive Surgical](/isrg-stock/) dominates surgical robotics. Its da Vinci system is in thousands of hospitals worldwide and generated billions in revenue. Vicarious is much younger and smaller, but it is trying a different angle. Rather than retrofit robotic arms onto the surgeon's console, Vicarious is building a system purpose-built for soft-tissue surgery — liver resections, kidney surgery, spleen removal, and other abdominal work. The company's robot is more compact than da Vinci, designed to fit through smaller incisions, and the control system is supposed to be more intuitive for surgeons trained on traditional laparoscopic tools.
 
 Smaller surgical footprint is not trivial. It reduces patient trauma further, opens up procedures and hospitals where space is tight, and potentially makes the economics work for lower-margin, less-wealthy healthcare systems. The system is also being designed with affordability in mind — Vicarious wants to be cheaper than da Vinci on a per-case basis, making the math work for hospitals operating on thinner margins than the high-end surgical centers where da Vinci is mostly found today.
 

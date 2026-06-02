@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Strategy Inc., trading under the preferred stock ticker STRD, is one of several capital-raising instruments that the company uses to fund its transformation from traditional software vendor to what it now brands as the world's largest corporate bitcoin holder. STRD is the company's Stride preferred class, issued to raise capital specifically for bitcoin purchases while allowing investors to choose their risk profile and exposure level. The company itself remains publicly traded on NASDAQ under the symbol MSTR, but its preferred offerings—Stretch, Stride, Strife, and Stream—represent a deliberate reshaping of its capital structure.
+Strategy Inc., trading under the [preferred stock](/preferred-stock/) ticker STRD, is one of several capital-raising instruments that the company uses to fund its transformation from traditional software vendor to what it now brands as the world's largest corporate [bitcoin](/bitcoin/) holder. STRD is the company's Stride preferred class, issued to raise capital specifically for bitcoin purchases while allowing investors to choose their risk profile and exposure level. The company itself remains publicly traded on [NASDAQ](/nasdaq/) under the symbol MSTR, but its preferred offerings—Stretch, Stride, Strife, and Stream—represent a deliberate reshaping of its capital structure.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,17 +28,17 @@ Strategy Inc., trading under the preferred stock ticker STRD, is one of several 
 
 Strategy Inc was founded in 1989 as MicroStrategy, a business intelligence company that built software for enterprise data analytics. For three decades, it operated as a conventional software vendor—selling licenses to large corporations for tools to query, visualize, and analyse data. The business generated consistent, high-margin revenue (gross margins in the range of 77–81 percent) and attracted a loyal customer base in the enterprise space. Growth was moderate but stable, with annual revenues in the half-billion-dollar range.
 
-In August 2020, CEO Michael Saylor announced that the company would invest $250 million of its treasury in bitcoin. This was not a hedging move or a diversification; it was a strategic bet on bitcoin's long-term value as the company's primary capital allocation target. The announcement shocked the market and the software industry alike. Since then, Strategy Inc has pursued an aggressive acquisition strategy, raising capital through multiple channels—debt issuance, preferred stock offerings, and direct share offerings—to purchase bitcoin in sustained volume.
+In August 2020, CEO Michael Saylor announced that the company would invest $250 million of its treasury in bitcoin. This was not a hedging move or a [diversification](/diversification/); it was a strategic bet on bitcoin's long-term value as the company's primary capital allocation target. The announcement shocked the market and the software industry alike. Since then, Strategy Inc has pursued an aggressive [acquisition](/acquisition/) strategy, raising capital through multiple channels—debt issuance, preferred stock offerings, and direct share offerings—to purchase bitcoin in sustained volume.
 
 The shift was existential. The company rebranded itself strategically from "MicroStrategy, a software company that also holds bitcoin" to "Strategy Inc, a bitcoin treasury company that operates software alongside." The software business continues—renamed Strategy One and Strategy Mosaic, it provides AI-assisted analytics and data governance tools—but it is now framed as a secondary cash generator funding the primary mission: accumulating and holding bitcoin.
 
 ## The capital structure and the role of STRD
 
-Strategy Inc's preferred stock classes are not traditional preferred shares designed to provide stable dividend income. They are structured as fixed-income instruments that track bitcoin exposure at varying leverage and risk levels. STRD, the Stride class, sits in the middle of this offering spectrum, providing investors with a fixed coupon or conversion feature while allowing the company to raise capital for continued bitcoin purchases without diluting common equity proportionally.
+Strategy Inc's preferred stock classes are not traditional preferred shares designed to provide stable [dividend](/dividend/) income. They are structured as fixed-income instruments that track bitcoin exposure at varying leverage and risk levels. STRD, the Stride class, sits in the middle of this offering spectrum, providing investors with a fixed coupon or conversion feature while allowing the company to raise capital for continued bitcoin purchases without diluting common equity proportionally.
 
 The mechanics are complex but purposeful. By issuing multiple preferred classes with different risk profiles, the company can access different investor bases simultaneously—those seeking leveraged bitcoin exposure through STRD might accept lower safety margins than those buying the lower-risk tiers. This layered capital structure lets Strategy Inc raise billions while calibrating which cohorts of investors bear which portions of the bitcoin volatility.
 
-The risk profile is twofold: bitcoin price volatility is the obvious one, but structural leverage is the sharper edge. If bitcoin declines sharply and the company has issued debt or leveraged preferred stock to purchase it, the preferred shares absorb losses before common equity. The company's balance sheet becomes a leveraged bitcoin bet rather than a traditional corporate balance sheet.
+The risk profile is twofold: bitcoin price volatility is the obvious one, but structural leverage is the sharper edge. If bitcoin declines sharply and the company has issued debt or leveraged preferred stock to purchase it, the preferred shares absorb losses before common equity. The company's [balance sheet](/balance-sheet/) becomes a leveraged bitcoin bet rather than a traditional corporate balance sheet.
 
 ## The software business today
 
@@ -52,7 +52,7 @@ The primary risk to STRD holders is not that the software business will fail—i
 
 A secondary risk is leverage and covenant structure. Preferred shareholders are subordinated to debt holders. If the company has issued convertible debt or secured borrowing against bitcoin, the senior creditors have claims ahead of preferred equity. In a severe bitcoin downturn, the company could face covenant violations or forced asset sales.
 
-A third risk is concentration. The company's fate is now substantially determined by a single asset class—bitcoin. Unlike a diversified corporation that spreads risk across multiple products and markets, Strategy Inc's return profile is directionally correlated with one highly volatile commodity. Preferred shareholders bear this concentration risk directly.
+A third risk is concentration. The company's fate is now substantially determined by a single asset class—bitcoin. Unlike a diversified corporation that spreads risk across multiple products and markets, Strategy Inc's return profile is directionally correlated with one highly volatile commodity. Preferred shareholders bear this [concentration risk](/concentration-risk/) directly.
 
 ## How to assess the investment
 

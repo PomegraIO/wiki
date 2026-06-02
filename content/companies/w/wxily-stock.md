@@ -45,7 +45,7 @@ Wuxi Lead operates across several equipment categories that map roughly to the p
 
 ## Market position: China-focused, with global growth ambitions
 
-Wuxi Lead's primary market is China, where a vast and growing pharmaceutical industry continuously upgrades equipment and builds new capacity. Chinese drug makers face relentless pressure to improve efficiency and reduce contamination risk, and newer facilities often choose local suppliers for cost and agility. The company also supplies equipment to other Asian markets—India, Southeast Asia, Japan—where pharmaceutical and chemical production is significant.
+Wuxi Lead's [primary market](/primary-market/) is China, where a vast and growing pharmaceutical industry continuously upgrades equipment and builds new capacity. Chinese drug makers face relentless pressure to improve efficiency and reduce contamination risk, and newer facilities often choose local suppliers for cost and agility. The company also supplies equipment to other Asian markets—India, Southeast Asia, Japan—where pharmaceutical and chemical production is significant.
 
 Export business to North America and Europe is a smaller fraction of revenue but growing. Wuxi Lead's competitive position in developed markets is more constrained than at home; foreign customers have established relationships with Swiss, German, and Japanese suppliers, and they often perceive Chinese equipment as lower-cost but potentially lower-reliability. Yet price sensitivity in some market segments (contract manufacturers, generic-drug makers) creates openings, and Wuxi Lead's willingness to customize and invest in customer-specific engineering has won it share in niche applications.
 

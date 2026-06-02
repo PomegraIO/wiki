@@ -14,9 +14,9 @@ handwritten: true
 
 ## What SOFA is and what it tracks
 
-SOFA, issued by Direxion Shares, tracks SoFi Technologies (SOFI), a fintech company offering personal loans, student-loan refinancing, investing tools, and digital banking services to retail customers. The fund targets a 2x daily return — if SOFI rises 1% on a given day, SOFA aims to rise approximately 2%; if SOFI falls 1%, SOFA targets a 2% decline.
+SOFA, issued by Direxion Shares, tracks [SoFi Technologies](/sofi-stock/) (SOFI), a fintech company offering personal loans, student-loan refinancing, investing tools, and digital banking services to retail customers. The fund targets a 2x daily return — if SOFI rises 1% on a given day, SOFA aims to rise approximately 2%; if SOFI falls 1%, SOFA targets a 2% decline.
 
-SoFi itself is a relatively young fintech company that went public in 2021 via special-purpose acquisition company merger. The company operates as a digital platform for personal lending, wealth management, and savings products, competing against both traditional banks and other fintech lenders. SoFi's business model depends on customer acquisition, retention, and profitability — a challenging combination in a competitive lending market.
+SoFi itself is a relatively young fintech company that went public in 2021 via [special-purpose acquisition company](/special-purpose-acquisition-company/) [merger](/merger/). The company operates as a digital platform for personal lending, wealth management, and savings products, competing against both traditional banks and other fintech lenders. SoFi's business model depends on customer [acquisition](/acquisition/), retention, and profitability — a challenging combination in a competitive lending market.
 
 ## Daily reset and the leverage mechanics
 
@@ -32,12 +32,12 @@ This dynamic worsens in high-volatility environments. SoFi, as a fintech company
 
 ## Costs and the rebalancing burden
 
-SOFA charges an expense ratio to cover ongoing administration and fund operations. Beyond this explicit cost, the daily rebalancing process itself incurs transaction costs — buying and selling shares of SOFI or related instruments to rebalance exposure. These costs are absorbed by the fund and reduce returns, on top of the mathematical effect of volatility decay.
+SOFA charges an [expense ratio](/expense-ratio/) to cover ongoing administration and fund operations. Beyond this explicit cost, the daily rebalancing process itself incurs transaction costs — buying and selling shares of SOFI or related instruments to rebalance exposure. These costs are absorbed by the fund and reduce returns, on top of the mathematical effect of volatility decay.
 
-The fund trades on exchanges during regular market hours, like any ETF. Shares can be bought and sold at market prices throughout the day. Liquidity depends on trading volume; investors should check the bid-ask spread before entering or exiting a large position.
+The fund trades on exchanges during regular market hours, like any ETF. Shares can be bought and sold at market prices throughout the day. Liquidity depends on trading volume; investors should check the [bid-ask spread](/bid-ask-spread/) before entering or exiting a large position.
 
 ## Who SOFA is for and how to research it
 
-SOFA is designed for short-term traders and tactical investors who understand leveraged ETFs and volatility decay. A trader expecting SOFI to rise sharply over the next few days or a week might use SOFA to amplify that directional bet. A buy-and-hold investor, a retirement account holder, or anyone intending to hold for more than a few weeks should avoid SOFA.
+SOFA is designed for short-term traders and tactical investors who understand [leveraged ETFs](/leveraged-etf/) and volatility decay. A trader expecting SOFI to rise sharply over the next few days or a week might use SOFA to amplify that directional bet. A buy-and-hold investor, a retirement account holder, or anyone intending to hold for more than a few weeks should avoid SOFA.
 
-Prospective investors should read SOFA's prospectus and factsheet carefully, paying particular attention to the daily reset mechanism and the explanation of volatility decay. Understanding SoFi's business — its loan origination volumes, customer acquisition costs, net margins, and competitive position in fintech lending — is essential to deciding whether to bet on the company at all. But SOFA holders must also understand SOFI's price volatility, because that volatility is what drives decay. Historical volatility data and realized volatility going forward are as important to the SOFA calculus as the company's fundamentals.
+Prospective investors should read SOFA's prospectus and factsheet carefully, paying particular attention to the daily reset mechanism and the explanation of volatility decay. Understanding SoFi's business — its loan origination volumes, customer acquisition costs, net margins, and competitive position in fintech lending — is essential to deciding whether to bet on the company at all. But SOFA holders must also understand SOFI's price volatility, because that volatility is what drives decay. [Historical volatility](/historical-volatility/) data and realized volatility going forward are as important to the SOFA calculus as the company's fundamentals.

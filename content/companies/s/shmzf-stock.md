@@ -45,7 +45,7 @@ At the same time, Shimadzu's analytical-instruments division continued to evolve
 
 ## Global competition intensifies (1990s–2010s)
 
-By the 1990s, the global consolidation of laboratory-equipment suppliers was well underway. Thermo Electron acquired multiple instrument companies and became the market leader. Agilent Technologies (spun off from Hewlett-Packard) aggressively pursued market share. Waters and Perkin Elmer established themselves in specific segments. Shimadzu competed by maintaining technical excellence and building a loyal customer base, especially in Asia where Japanese manufacturing reputation carried extra weight.
+By the 1990s, the global consolidation of laboratory-equipment suppliers was well underway. Thermo Electron acquired multiple instrument companies and became the market leader. [Agilent Technologies](/a-stock/) (spun off from Hewlett-Packard) aggressively pursued market share. Waters and Perkin Elmer established themselves in specific segments. Shimadzu competed by maintaining technical excellence and building a loyal customer base, especially in Asia where Japanese manufacturing reputation carried extra weight.
 
 The company's Japanese roots became both asset and liability in this era. Japanese manufacturing was synonymous with quality and precision, which helped Shimadzu compete. But the high cost of labor and operations in Japan versus lower-cost competitors in South Korea and China created pressure to rationalize manufacturing and move some production offshore — a painful process for a company rooted in Kyoto craftsmanship.
 
@@ -71,7 +71,7 @@ Against this, Shimadzu has resilience: a 150-year track record, a trusted brand 
 
 ## How to research Shimadzu
 
-For an investor or analyst tracking Shimadzu, the most important documents are the annual report (available from Shimadzu's investor relations site) and the SEC filings for the ADR (CIK 0001648512). Monitor the company's revenue breakdown by product line and geography — this shows which markets are growing and where competitive pressure is mounting.
+For an investor or analyst tracking Shimadzu, the most important documents are the [annual report](/10-k/) (available from Shimadzu's investor relations site) and the SEC filings for the ADR (CIK 0001648512). Monitor the company's revenue breakdown by product line and geography — this shows which markets are growing and where competitive pressure is mounting.
 
 Watch earnings guidance and commentary on R&D spending. A company investing aggressively in new analytical platforms and software might be positioning for the next wave of growth; a company cutting R&D is likely defending rather than attacking. The company's success in medical imaging, which is more concentrated and fast-moving than analytical instruments, is also a bellwether for management's ability to compete in rapidly evolving markets.
 

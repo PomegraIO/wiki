@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*MINEBEA MITSUMI makes tiny metal and plastic parts that go into bigger things. Ball bearings the size of a pinhead. Miniature motors. Connectors and cables. Mechanical switches. These parts are invisible inside your phone, laptop, car, and printer, but they make those devices actually work. The company is one of the world's largest makers of these kinds of precision components and sells almost everything it makes to other manufacturers who build the consumer devices and industrial equipment people buy.*
+*[MINEBEA MITSUMI](/minby-stock/) makes tiny metal and plastic parts that go into bigger things. Ball bearings the size of a pinhead. Miniature motors. Connectors and cables. Mechanical switches. These parts are invisible inside your phone, laptop, car, and printer, but they make those devices actually work. The company is one of the world's largest makers of these kinds of precision components and sells almost everything it makes to other manufacturers who build the consumer devices and industrial equipment people buy.*
 
 <aside class="wiki-infobox">
 <table>
@@ -43,7 +43,7 @@ The company makes these things in an enormous variety. Miniature ball bearings w
 
 ## How MINEBEA MITSUMI makes money
 
-The company makes money in a straightforward way. It designs components, manufactures them in factories, and sells them to companies that use them in their products. The customers are not individuals; they are other manufacturers. Apple buys millions of MINEBEA components for iPhones. HP buys them for printers. Tesla buys them for cars. Lenovo buys them for laptops.
+The company makes money in a straightforward way. It designs components, manufactures them in factories, and sells them to companies that use them in their products. The customers are not individuals; they are other manufacturers. [Apple](/aapl-stock/) buys millions of MINEBEA components for iPhones. HP buys them for printers. [Tesla](/tsla-stock/) buys them for cars. Lenovo buys them for laptops.
 
 Revenue comes from selling these components at prices tied to the cost of materials plus a margin for manufacturing labor, overhead, and profit. Prices are usually set in long-term contracts. A customer might commit to buying 50 million ball bearings per year at a specified price, adjusted quarterly based on raw-material costs. The company's responsibility is to deliver on time, at quality, and at the cost specified in the contract.
 
@@ -55,7 +55,7 @@ The profit comes from volume and efficiency. If the company can manufacture 500 
 
 MINEBEA MITSUMI's costs are dominated by raw materials (steel, copper, aluminum, plastics) and labor. The company operates factories in countries with lower wage costs (China, Thailand, Vietnam) but also maintains factories in Japan and developed countries for specialized, high-precision work and to serve customers that demand local sourcing.
 
-When the price of steel or copper swings, the company's profit margins move too. If steel prices spike, the cost to make ball bearings rises. The company tries to pass cost increases to customers, but contracts often specify fixed prices for set periods, so there is a lag. During periods of material-price inflation, MINEBEA MITSUMI's margins get squeezed. During deflation, margins widen.
+When the price of steel or copper swings, the company's profit margins move too. If steel prices spike, the cost to make ball bearings rises. The company tries to pass cost increases to customers, but contracts often specify fixed prices for set periods, so there is a lag. During periods of material-price [inflation](/inflation/), MINEBEA MITSUMI's margins get squeezed. During [deflation](/deflation/), margins widen.
 
 Supply-chain resilience matters enormously. The company sources materials from multiple suppliers, maintains inventory buffers, and diversifies production across geographies to reduce the risk of disruption. The pandemic and semiconductor shortages in 2020-2021 exposed how fragile the global supply chain is; MINEBEA MITSUMI, like all component makers, faced shortages and had to scramble to secure materials and meet delivery commitments.
 
@@ -81,10 +81,10 @@ The company has some hedges: industrial and automotive components are more stabl
 
 The core competitive dynamic in the precision-components business is that customers want lower prices, higher quality, and faster delivery. MINEBEA MITSUMI competes by being an extremely efficient manufacturer with reliable quality and responsive delivery. The company invests heavily in automation, process control, and supply-chain efficiency to drive down cost per unit.
 
-Operating margins are typically in the high single digits (five to ten percent), respectable for a low-cost manufacturer but not spectacular. The company is highly profitable in absolute terms because of the enormous scale—even a five percent margin on billions of dollars of revenue produces substantial earnings—but the margin percentages are compressed by competition.
+[Operating margins](/operating-margin/) are typically in the high single digits (five to ten percent), respectable for a low-cost manufacturer but not spectacular. The company is highly profitable in absolute terms because of the enormous scale—even a five percent margin on billions of dollars of revenue produces substantial earnings—but the margin percentages are compressed by competition.
 
 ## Research and how to think about the company
 
-MINEBEA MITSUMI trades on the Tokyo Stock Exchange and as an ADR in the United States (MNBEF). The company files an annual 10-K with the SEC, breaking out revenue by product segment (bearings, motors, connectors, mechanical components, and others) and by geography. Key metrics include gross margins (which reveal the cost structure and pricing power), operating leverage (how much revenue growth falls through to profit), and customer concentration (how much revenue comes from the top five customers).
+MINEBEA MITSUMI trades on the [Tokyo Stock Exchange](/tokyo-stock-exchange/) and as an ADR in the United States (MNBEF). The company files an annual 10-K with the SEC, breaking out revenue by product segment (bearings, motors, connectors, mechanical components, and others) and by geography. Key metrics include gross margins (which reveal the cost structure and pricing power), operating leverage (how much revenue growth falls through to profit), and customer concentration (how much revenue comes from the top five customers).
 
 Understanding MINEBEA MITSUMI requires tracking the underlying electronics and automotive cycles that drive demand, and monitoring the company's ability to maintain margins against price pressure from customers and cost inflation in materials and labor. The company's innovation pipeline and ability to win designs in next-generation products matters for long-term growth. As with any manufacturer competing on cost and scale, MINEBEA MITSUMI is profitable when it can keep factories running efficiently and factories are most efficient when the end customers (Apple, Samsung, automakers) are ordering heavily and launching new products.

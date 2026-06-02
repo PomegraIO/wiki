@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Themes Cybersecurity ETF (ticker SPAM, managed by Themes Investment) gives investors broad exposure to the business of defending digital systems. It holds a basket of publicly traded firms across the full stack of cybersecurity — from the engineers building encryption and intrusion-detection tools to the consultants advising enterprises on risk, from makers of hardware security keys to companies licensing threat intelligence. It is a sector-focused, actively managed fund designed for investors who believe cybersecurity vendors will outpace the broader market as data breaches, ransomware, and regulatory pressure push enterprises to spend more on defense.
+The Themes Cybersecurity ETF (ticker SPAM, managed by Themes Investment) gives investors broad exposure to the business of defending digital systems. It holds a basket of publicly traded firms across the full stack of cybersecurity — from the engineers building encryption and intrusion-detection tools to the consultants advising enterprises on risk, from makers of hardware security keys to companies licensing threat intelligence. It is a sector-focused, [actively managed fund](/actively-managed-fund/) designed for investors who believe cybersecurity vendors will outpace the broader market as data breaches, ransomware, and regulatory pressure push enterprises to spend more on defense.
 
 ## What the fund holds
 
@@ -21,13 +21,13 @@ The fund's active-management mandate means the portfolio is curated, not automat
 
 ## Structure and costs
 
-SPAM is a conventional ETF — shares are created and redeemed at the fund's net asset value, and it trades throughout the day on a stock exchange. There is no leverage or inverse mechanics; it is a long-only exposure. The fund carries an expense ratio, the annual cost charged to shareholders as a percentage of assets. Like all actively managed ETFs, SPAM's ratio is higher than a passive index tracker in the same space would charge, reflecting the cost of the managers and the research behind the stock selection.
+SPAM is a conventional ETF — shares are created and redeemed at the fund's [net asset value](/net-asset-value/), and it trades throughout the day on a [stock exchange](/stock-exchange/). There is no leverage or inverse mechanics; it is a long-only exposure. The fund carries an [expense ratio](/expense-ratio/), the annual cost charged to shareholders as a percentage of assets. Like all actively managed ETFs, SPAM's ratio is higher than a passive index tracker in the same space would charge, reflecting the cost of the managers and the research behind the stock selection.
 
 ## What moves the price
 
-A cybersecurity ETF's value swings with two forces: the health of its holdings' businesses and the market's appetite for the sector itself. When enterprises see rising threats and increase spending on defense, the stocks inside tend to perform well. When recession fears emerge or companies cut capital spending, cybersecurity vendors often feel the pressure as projects get postponed. Geopolitical shocks — high-profile breaches, new regulations like data-protection laws, or feared cyberattacks — can drive rapid swings in sentiment toward the sector.
+A cybersecurity ETF's value swings with two forces: the health of its holdings' businesses and the market's appetite for the sector itself. When enterprises see rising threats and increase spending on defense, the stocks inside tend to perform well. When [recession](/recession/) fears emerge or companies cut capital spending, cybersecurity vendors often feel the pressure as projects get postponed. Geopolitical shocks — high-profile breaches, new regulations like data-protection laws, or feared cyberattacks — can drive rapid swings in sentiment toward the sector.
 
-The fund's holdings are mostly large-cap and mid-cap names with stable revenue, which means SPAM is less volatile than a concentrated bet on a single cybersecurity startup would be. Still, investors in thematic sector ETFs should expect larger swings than a diversified index fund.
+The fund's holdings are mostly large-cap and mid-cap names with stable revenue, which means SPAM is less volatile than a concentrated bet on a single cybersecurity startup would be. Still, investors in thematic [sector ETFs](/sector-etf/) should expect larger swings than a diversified [index fund](/index-fund/).
 
 ## Who this is for
 
@@ -37,4 +37,4 @@ The fund is not appropriate as a core equity holding for buy-and-hold investors 
 
 ## Researching the fund
 
-A prospectus and fact sheet lay out SPAM's holdings, strategy, and fees in detail. Key metrics to watch are the fund's year-to-date and trailing-year performance relative to the broader information-technology sector and the overall stock market, the expense ratio versus competing cybersecurity-focused products, and the turnover rate (how often managers buy and sell positions). High turnover can hide tax inefficiency for taxable investors. Tracking error — the difference between the fund's returns and an index of cybersecurity stocks — reveals whether active management is adding or subtracting value.
+A prospectus and fact sheet lay out SPAM's holdings, strategy, and fees in detail. Key metrics to watch are the fund's year-to-date and trailing-year performance relative to the broader information-technology sector and the overall [stock market](/stock-market/), the expense ratio versus competing cybersecurity-focused products, and the turnover rate (how often managers buy and sell positions). High turnover can hide tax inefficiency for taxable investors. Tracking error — the difference between the fund's returns and an index of cybersecurity stocks — reveals whether active management is adding or subtracting value.

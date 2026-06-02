@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Dave Inc. operates a mobile financial platform designed for working people living paycheck to paycheck, offering overdraft advances, budget management, gig-work tools, and a digital checking account. The company went public on Nasdaq in January 2024, combining the ticker DAVE (common shares) with DAVEW (warrants). Founded in Los Angeles in 2015, Dave has focused on a market segment that traditional banking has always underserved—the part of the working population that faces overdraft fees as a matter of routine, not accident.
+Dave Inc. operates a mobile financial platform designed for working people living paycheck to paycheck, offering overdraft advances, budget management, gig-work tools, and a digital checking account. The company went public on [Nasdaq](/nasdaq/) in January 2024, combining the ticker DAVE (common shares) with DAVEW (warrants). Founded in Los Angeles in 2015, Dave has focused on a market segment that traditional banking has always underserved—the part of the working population that faces overdraft fees as a matter of routine, not accident.
 
 <aside class="wiki-infobox">
 <table>
@@ -50,7 +50,7 @@ Dave faces pressure from multiple directions. Other fintech platforms—SoFi, Ch
 
 The more immediate pressure comes from the realities of the low-income customer's budget. A member who successfully uses ExtraCash might eventually stabilize cash flow and need it less often. That creates a ceiling on how much any single feature can grow. To grow beyond that, Dave must expand its platform—making Side Hustle a genuine job-finding engine, building Dave Banking into a full alternative to traditional checking, or introducing other financial products that keep users engaged.
 
-The regulatory environment also carries risk. Overdraft lending, particularly short-term lending to low-income borrowers, sits under scrutiny from the Consumer Financial Protection Bureau. Changes to how overdraft products are classified or what disclosures are required could alter Dave's unit economics overnight. Similarly, if regulators restrict the fees a fintech company can charge on advances or subscriptions, the entire revenue model becomes less resilient.
+The regulatory environment also carries risk. Overdraft lending, particularly short-term lending to low-income borrowers, sits under scrutiny from the [Consumer Financial Protection Bureau](/consumer-financial-protection-bureau/). Changes to how overdraft products are classified or what disclosures are required could alter Dave's unit economics overnight. Similarly, if regulators restrict the fees a fintech company can charge on advances or subscriptions, the entire revenue model becomes less resilient.
 
 ## Capital and sustainability
 
@@ -58,7 +58,7 @@ Dave has raised capital through a 2024 public offering, and the company has had 
 
 ## How to research Dave as an investment
 
-Anyone studying Dave should begin with the company's 10-K filing (SEC CIK 0001841408), which details the customer composition, the breakdown of revenue by product line, and the operating margins on each. Watch the growth in Dave Banking—a fully functional digital checking account is a more defensible and higher-margin business than overdraft advances alone.
+Anyone studying Dave should begin with the company's 10-K filing (SEC CIK 0001841408), which details the customer composition, the breakdown of revenue by product line, and the [operating margins](/operating-margin/) on each. Watch the growth in Dave Banking—a fully functional digital checking account is a more defensible and higher-margin business than overdraft advances alone.
 
 Key metrics to track: the number of monthly active users and the repeat-usage rate for ExtraCash (are advances growing because of new users or because each user is taking more advances?); the breakdown of revenue between fees on advances, subscriptions, and other products; and the company's path to profitability. The earnings calls are where management typically discusses churn risk, the effect of new competitors, and how regulatory changes might reshape the model.
 

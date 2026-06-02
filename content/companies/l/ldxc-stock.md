@@ -54,7 +54,7 @@ Start with the company's [10-K](/10-k/) filing (CIK 1985554) to understand reven
 <div class="wiki-seealso">
 ### Closely related
 - Staffing services
-- [Healthcare services](/hcsg-stock/)
+- Healthcare services
 - Labor economics
 
 ### Wider context

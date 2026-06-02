@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Think of Annaly as a giant bond buyer with a debt problem — but that debt is the whole strategy. The company borrows money as cheaply as it can, uses that money to buy mortgage bonds backed by the U.S. government, and keeps whatever is left over as profit. When it works, it works really well. When it doesn't, shareholders feel it fast.
+Think of Annaly as a giant [bond](/bond/) buyer with a debt problem — but that debt is the whole strategy. The company borrows money as cheaply as it can, uses that money to buy mortgage bonds backed by the U.S. government, and keeps whatever is left over as profit. When it works, it works really well. When it doesn't, shareholders feel it fast.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,13 +27,13 @@ Think of Annaly as a giant bond buyer with a debt problem — but that debt is t
 
 ## The simple machine that runs Annaly
 
-Start with a number: Annaly borrows money at, say, 5 percent per year. It then turns around and buys mortgage bonds that pay 5.5 percent per year. That 0.5 percent — 50 basis points — is the spread. On a $400 billion portfolio, 50 basis points is real money. Annaly uses that spread to cover its operating costs, pay its employees, and the leftover goes to shareholders as a dividend.
+Start with a number: Annaly borrows money at, say, 5 percent per year. It then turns around and buys mortgage bonds that pay 5.5 percent per year. That 0.5 percent — 50 basis points — is the spread. On a $400 billion portfolio, 50 basis points is real money. Annaly uses that spread to cover its operating costs, pay its employees, and the leftover goes to shareholders as a [dividend](/dividend/).
 
 This is called net interest margin. It is the heartbeat of the company. When the spread is fat, Annaly thrives. When it shrinks to 10 or 20 basis points, the company barely breaks even. Annaly cannot control what spreads are — that is set by markets — but it can control how much money it deploys and how cheaply it can borrow.
 
 ## Why Annaly is so much bigger than its competitors
 
-Annaly has been around since 1997, and it is now the largest mortgage REIT in the United States by a long way. Size matters here because it lets the company borrow at the best available rates. When Annaly goes to the debt markets and offers to borrow a billion dollars, it gets a favorable price. A smaller competitor has to pay more. Over time, that half-point advantage in borrowing costs compounds and compounds.
+Annaly has been around since 1997, and it is now the largest [mortgage REIT](/mortgage-reit/) in the United States by a long way. Size matters here because it lets the company borrow at the best available rates. When Annaly goes to the debt markets and offers to borrow a billion dollars, it gets a favorable price. A smaller competitor has to pay more. Over time, that half-point advantage in borrowing costs compounds and compounds.
 
 The company started small, but it grew steadily through the 2000s and then exploded after the 2008 crisis. When the credit markets froze in 2008, most mortgage REITs went bust. Annaly survived, and better yet, it was standing there with cash while all the bonds around it were crashing in price. It bought those discounted bonds, and then when rates came back down and prices recovered, Annaly made a fortune. By 2010 it was already enormous.
 
@@ -41,11 +41,11 @@ Size also comes with a downside: Annaly is now so large that there is not much r
 
 ## The interest-rate trap
 
-Here is where it gets tricky. Annaly makes money from the spread, but it is also exposed to interest rates themselves. When interest rates rise, two things happen at once. The spread between what Annaly borrows at and what it earns usually gets *wider* — that is good. But the bonds Annaly owns drop in value, because bond values and interest rates move in opposite directions. If Annaly marks its bonds to market, it has a big loss on paper even though the bonds will pay their promised cash if held to maturity.
+Here is where it gets tricky. Annaly makes money from the spread, but it is also exposed to [interest rates](/interest-rate/) themselves. When interest rates rise, two things happen at once. The spread between what Annaly borrows at and what it earns usually gets *wider* — that is good. But the bonds Annaly owns drop in value, because bond values and interest rates move in opposite directions. If Annaly marks its bonds to market, it has a big loss on paper even though the bonds will pay their promised cash if held to maturity.
 
 When interest rates fall, the opposite happens. The spread *narrows* — that is bad. But the bonds rise in value — that is good. And Annaly can feel like it is losing on the current income even as the portfolio is gaining value.
 
-The company cannot solve this problem because both sides of it are baked into the business model. Annaly hedges some of the interest-rate risk with financial derivatives, but hedging is expensive and imperfect. The best Annaly can do is manage the risk.
+The company cannot solve this problem because both sides of it are baked into the business model. Annaly hedges some of the [interest-rate risk](/interest-rate-risk/) with financial derivatives, but hedging is expensive and imperfect. The best Annaly can do is manage the risk.
 
 ## Leverage cuts both ways
 
@@ -65,10 +65,10 @@ Competition in the mortgage REIT space is fierce. Insurance companies, pension f
 
 Annaly pays a large dividend — often 8, 10, or even 12 percent of the stock price. This makes it attractive to income investors, retired people, pension funds, and anyone seeking cash payments rather than price appreciation. But that dividend is not safe in the way a dividend from a stable industrial company is. It depends on the spread, the interest-rate environment, and how much mark-to-market pain the company takes. In bad years, Annaly has cut its dividend sharply. In good years, it has raised it.
 
-The dividend is also mandated by tax law. Annaly is a REIT, which means it has to distribute at least 90 percent of its taxable income to shareholders. That is why there is such a fat dividend — it is not a choice. So anyone buying Annaly for income is also locked in to the business cycle of mortgage REITs, which is brutal.
+The dividend is also mandated by tax law. Annaly is a REIT, which means it has to distribute at least 90 percent of its taxable income to shareholders. That is why there is such a fat dividend — it is not a choice. So anyone buying Annaly for income is also locked in to the [business cycle](/business-cycle/) of mortgage REITs, which is brutal.
 
 ## Reading Annaly
 
-Start with the 10-K (SEC CIK 0001043219). The company breaks down its portfolio — what bonds it owns, what maturity, what coupon rate, how much leverage it is carrying, and how it is hedging. The quarterly earnings report tells you the net interest margin — the spread Annaly is actually earning. That number tells the whole story. If it is stable and healthy, Annaly is fine. If it is narrowing, the company is getting squeezed.
+Start with the 10-K (SEC CIK 0001043219). The company breaks down its portfolio — what bonds it owns, what maturity, what [coupon rate](/coupon-rate/), how much leverage it is carrying, and how it is hedging. The quarterly earnings report tells you the net interest margin — the spread Annaly is actually earning. That number tells the whole story. If it is stable and healthy, Annaly is fine. If it is narrowing, the company is getting squeezed.
 
 Watch also for the book value per share — that tells you the value of the portfolio as the company sees it. In quarters where rates spike, you may see big mark-to-market losses that send book value down, even if the underlying bonds are performing fine. Understand the difference between the quarterly loss and the long-term holding. That is the key to investing in Annaly without panic.

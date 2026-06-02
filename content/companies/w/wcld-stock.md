@@ -31,7 +31,7 @@ The WisdomTree Cloud Computing Fund (WCLD) holds publicly traded companies whose
 
 ## Cloud infrastructure — the foundation
 
-Cloud infrastructure means the raw compute, storage, and networking that companies sell to customers on a pay-as-you-go basis. The largest providers (Amazon Web Services, Microsoft Azure, Google Cloud) have become some of the most valuable companies in the world. Smaller regional or specialized cloud providers also serve specific industries or geographies. WCLD holds equity in these infrastructure operators — both the major hyperscalers and smaller, pure-play cloud infrastructure vendors. Infrastructure companies typically have lower gross margins than software companies but generate large, recurring revenue streams and enjoy network effects as their platforms become stickier.
+Cloud infrastructure means the raw compute, storage, and networking that companies sell to customers on a pay-as-you-go basis. The largest providers (Amazon Web Services, [Microsoft](/msft-stock/) Azure, Google Cloud) have become some of the most valuable companies in the world. Smaller regional or specialized cloud providers also serve specific industries or geographies. WCLD holds equity in these infrastructure operators — both the major hyperscalers and smaller, pure-play cloud infrastructure vendors. Infrastructure companies typically have lower gross margins than software companies but generate large, recurring revenue streams and enjoy network effects as their platforms become stickier.
 
 ## Cloud software and applications (SaaS)
 
@@ -49,11 +49,11 @@ This shift is decades old but still ongoing; many enterprises have only partiall
 
 ## Fund structure and costs
 
-WCLD is a standard, non-leveraged exchange-traded fund holding equities directly. It trades on NASDAQ throughout the trading day at market prices. The fund's portfolio typically includes 30–50 companies, though the exact count varies as the index is updated. The annual expense ratio covers management and operations and is typically in the range of 0.60–0.75%, competitive for a thematic software and cloud-focused fund.
+WCLD is a standard, non-leveraged exchange-traded fund holding equities directly. It trades on [NASDAQ](/nasdaq/) throughout the trading day at market prices. The fund's portfolio typically includes 30–50 companies, though the exact count varies as the index is updated. The annual [expense ratio](/expense-ratio/) covers management and operations and is typically in the range of 0.60–0.75%, competitive for a thematic software and cloud-focused fund.
 
 ## Risks and volatility considerations
 
-**Growth and valuation cycles.** Cloud and software stocks are growth-oriented and sensitive to interest-rate changes and sentiment shifts. In periods of rising rates or recession, they often decline more sharply than mature or defensive sectors.
+**Growth and valuation cycles.** Cloud and software stocks are growth-oriented and sensitive to interest-rate changes and sentiment shifts. In periods of rising rates or [recession](/recession/), they often decline more sharply than mature or defensive sectors.
 
 **Concentration in large-cap tech.** The cloud sector is dominated by a few very large companies (Microsoft, Amazon, Google). WCLD's portfolio is diversified across the ecosystem, but much of the cloud industry's profit and revenue is still concentrated in those large public companies.
 
@@ -67,4 +67,4 @@ WCLD is a standard, non-leveraged exchange-traded fund holding equities directly
 
 WCLD suits investors who believe cloud computing will remain a secular growth story and who want diversified exposure without selecting individual cloud vendors. It is appropriate for growth-oriented portfolios and long-term investors but not for those seeking stability or low volatility.
 
-To research WCLD, start with the fund's fact sheet and prospectus. Then review the major holdings and track their earnings, focusing on growth rates, profitability trends, and customer acquisition costs. Follow industry research on cloud spending patterns and competitive dynamics. The cloud sector moves quickly, so quarterly earnings calls and analyst reports provide essential color on near-term drivers and emerging risks.
+To research WCLD, start with the fund's fact sheet and prospectus. Then review the major holdings and track their earnings, focusing on growth rates, profitability trends, and customer [acquisition](/acquisition/) costs. Follow industry research on cloud spending patterns and competitive dynamics. The cloud sector moves quickly, so quarterly earnings calls and analyst reports provide essential color on near-term drivers and emerging risks.

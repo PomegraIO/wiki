@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Xenous Holdings is a Special Purpose Acquisition Company—a shell company created to raise capital from public investors with the intent to acquire and merge with an operating business, thereby taking that business public. Incorporated in 1980 and formally reorganized as Xenous Holdings in 2019, the company describes itself as an investment holding company headquartered in Tsim Sha Tsui, Hong Kong, with interests in biotech innovation and renewable energy logistics. Unlike traditional operating companies that generate revenue from products or services, Xenous exists primarily as a financial instrument: it holds cash and equity, seeks acquisition targets, and negotiates mergers and strategic partnerships.
+Xenous Holdings is a Special Purpose [Acquisition](/acquisition/) Company—a shell company created to raise capital from public investors with the intent to acquire and merge with an operating business, thereby taking that business public. Incorporated in 1980 and formally reorganized as Xenous Holdings in 2019, the company describes itself as an investment holding company headquartered in Tsim Sha Tsui, Hong Kong, with interests in biotech innovation and renewable energy logistics. Unlike traditional operating companies that generate revenue from products or services, Xenous exists primarily as a financial instrument: it holds cash and equity, seeks acquisition targets, and negotiates [mergers](/merger/) and strategic partnerships.
 
 <aside class="wiki-infobox">
 <table>
@@ -50,9 +50,9 @@ This inverted relationship is the essence of SPAC risk. The SPAC is not a busine
 
 ## Risk and uncertainty inherent to the structure
 
-SPACs carry several structural risks that distinguish them from operating companies. First is **deal risk**: management may fail to find an attractive acquisition, or shareholders may vote down a proposed merger if they view the target's valuation as unfavourable. Second is **redemption risk**: if a SPAC announces a deal that investors dislike, large redemptions can strip the company of capital and force the acquisition to be re-sized or the deal to be abandoned. Third is **litigation risk**: SPAC mergers often attract shareholder lawsuits alleging misrepresentation or conflicts of interest, adding legal costs and uncertainty. Fourth is **market risk**: the combined company's post-merger stock price depends on the actual operating performance of the acquired business and market sentiment about its growth prospects.
+SPACs carry several structural risks that distinguish them from operating companies. First is **deal risk**: management may fail to find an attractive acquisition, or shareholders may vote down a proposed merger if they view the target's valuation as unfavourable. Second is **redemption risk**: if a SPAC announces a deal that investors dislike, large redemptions can strip the company of capital and force the acquisition to be re-sized or the deal to be abandoned. Third is **litigation risk**: SPAC mergers often attract shareholder lawsuits alleging misrepresentation or conflicts of interest, adding legal costs and uncertainty. Fourth is **[market risk](/market-risk/)**: the combined company's post-merger stock price depends on the actual operating performance of the acquired business and market sentiment about its growth prospects.
 
-Xenous, as a publicly traded SPAC, is subject to all these risks. The company trades over-the-counter on the OTC Pink Markets, which signals reduced liquidity and visibility compared to major exchanges. This is typical for SPACs that have not yet completed a merger or have merged with targets that investors view as speculative.
+Xenous, as a publicly traded SPAC, is subject to all these risks. The company trades over-the-counter on the [OTC Pink](/otc-pink/) Markets, which signals reduced liquidity and visibility compared to major exchanges. This is typical for SPACs that have not yet completed a merger or have merged with targets that investors view as speculative.
 
 ## How to research Xenous Holdings as an investment
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Gas Transporter of the South Inc, known locally as Transportadora de Gas del Sur S.A., operates Argentina's largest network of [natural gas](/natural-gas/) pipelines and has grown into a [diversified energy](/dec-stock/) infrastructure company. The business is built on a foundation of regulated, predictable cash flows from transporting gas under government-approved tariff structures, supplemented by expanding revenues from liquids production and midstream processing services in the Vaca Muerta shale formation — one of the world's largest unconventional gas reserves.
+Gas Transporter of the South Inc, known locally as Transportadora de Gas del Sur S.A., operates Argentina's largest network of [natural gas](/natural-gas/) pipelines and has grown into a diversified energy infrastructure company. The business is built on a foundation of regulated, predictable cash flows from transporting gas under government-approved tariff structures, supplemented by expanding revenues from liquids production and midstream processing services in the Vaca Muerta shale formation — one of the world's largest unconventional gas reserves.
 
 <aside class="wiki-infobox">
 <table>

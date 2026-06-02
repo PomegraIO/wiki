@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Vystar Corp develops and sells cleaning and disinfection products based on electrolyzed water technology — a process that converts saltwater into a hypochlorous acid solution without harsh chemicals. The company targets commercial customers, healthcare facilities, and government buyers, positioning its products as alternatives to bleach and quaternary ammonium compounds. Vystar trades on the NASDAQ under the ticker VYST.
+Vystar Corp develops and sells cleaning and disinfection products based on electrolyzed water technology — a process that converts saltwater into a hypochlorous acid solution without harsh chemicals. The company targets commercial customers, healthcare facilities, and government buyers, positioning its products as alternatives to bleach and quaternary ammonium compounds. Vystar trades on the [NASDAQ](/nasdaq/) under the ticker VYST.
 
 <aside class="wiki-infobox">
 <table>
@@ -42,7 +42,7 @@ Manufacturing is centered in Nevada, where the company controls the production p
 
 The thesis for Vystar rests on three pillars. First, electrolyzed water is genuinely safer than bleach and many industrial disinfectants — a fact supported by EPA registration and growing awareness of occupational health in institutional settings. Second, military and government procurement operates on long cycles and contract lock-in; once Vystar wins a military base or healthcare system, repeat orders tend to follow. Third, the company's technology represents real differentiation at a time when cleaning-solution markets are consolidating around commodity players.
 
-Against this, Vystar faces headwinds. The company is small, with limited resources for marketing compared to established chemical manufacturers like Clorox or Ecolab. Electrolyzed water technology, while effective, is not patentable in the way pharmaceuticals are — competitors can enter the space with their own electrochemical processes, making the technology a competitive advantage only as long as Vystar executes better than challengers. Additionally, Vystar's dependence on institutional sales, particularly military contracts, creates concentration risk: loss of a major contract can swing quarterly results significantly. The consumer channel has proven slower to develop than early optimists imagined, since retail buyers default to what they know.
+Against this, Vystar faces headwinds. The company is small, with limited resources for marketing compared to established chemical manufacturers like Clorox or Ecolab. Electrolyzed water technology, while effective, is not patentable in the way pharmaceuticals are — competitors can enter the space with their own electrochemical processes, making the technology a competitive advantage only as long as Vystar executes better than challengers. Additionally, Vystar's dependence on institutional sales, particularly military contracts, creates [concentration risk](/concentration-risk/): loss of a major contract can swing quarterly results significantly. The consumer channel has proven slower to develop than early optimists imagined, since retail buyers default to what they know.
 
 ## What to watch
 

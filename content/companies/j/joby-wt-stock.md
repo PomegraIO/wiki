@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Joby Aviation is an aerospace company focused on developing electric vertical takeoff and landing aircraft, often called eVTOL, with the goal of launching a commercial air taxi service for short urban trips and airport transfers. The company represents one of the boldest bets in mobility: that electric motors can replace combustion engines in aircraft, that the regulatory and infrastructure hurdles can be overcome, and that urban passengers will pay premium prices for a five-minute flight over an hour-long ground commute. It is a technology company working within one of the most heavily regulated industries on Earth, facing formidable technical challenges alongside regulatory uncertainty and intense competition from other well-funded eVTOL startups.
+[Joby Aviation](/joby-stock/) is an aerospace company focused on developing electric vertical takeoff and landing aircraft, often called eVTOL, with the goal of launching a commercial air taxi service for short urban trips and airport transfers. The company represents one of the boldest bets in mobility: that electric motors can replace combustion engines in aircraft, that the regulatory and infrastructure hurdles can be overcome, and that urban passengers will pay premium prices for a five-minute flight over an hour-long ground commute. It is a technology company working within one of the most heavily regulated industries on Earth, facing formidable technical challenges alongside regulatory uncertainty and intense competition from other well-funded eVTOL startups.
 
 <aside class="wiki-infobox">
 <table>
@@ -50,9 +50,9 @@ Joby is structured as both an aircraft manufacturer and an intended operator of 
 
 ## Capital requirements and the cash-burn challenge
 
-Developing a new aircraft category and launching a commercial airline is extraordinarily capital intensive. Joby has raised substantial funding from public markets after a 2023 merger that took it public, and from investors including Toyota, JetBlue, and others betting on the eVTOL future. The company faces a long period of cash burn before commercialization and an even longer period before the operation becomes cash-flow positive. The timeline to meaningful revenue is counted in years; successful execution on regulatory approval, manufacturing scale-up, pilot training, and customer acquisition all must align.
+Developing a new aircraft category and launching a commercial airline is extraordinarily capital intensive. Joby has raised substantial funding from public markets after a 2023 [merger](/merger/) that took it public, and from investors including Toyota, JetBlue, and others betting on the eVTOL future. The company faces a long period of cash burn before commercialization and an even longer period before the operation becomes cash-flow positive. The timeline to meaningful revenue is counted in years; successful execution on regulatory approval, manufacturing scale-up, pilot training, and customer [acquisition](/acquisition/) all must align.
 
-The company operates under the same technological and market risks as other eVTOL startups. Certification might take longer than expected; the cost of manufacturing at scale might exceed projections; cities might prove unwilling to license vertiports; or customers might be unwilling to pay the prices required to make the economics work. Each of these is a known risk; the uncertainty is merely about timing and severity.
+The company operates under the same technological and [market risks](/market-risk/) as other eVTOL startups. Certification might take longer than expected; the cost of manufacturing at scale might exceed projections; cities might prove unwilling to license vertiports; or customers might be unwilling to pay the prices required to make the economics work. Each of these is a known risk; the uncertainty is merely about timing and severity.
 
 ## Understanding Joby's financial and technical trajectory
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The iShares FinTech Active ETF (BPAY, listed on NASDAQ) is an exchange-traded fund that gives investors exposure to financial technology companies through an actively managed portfolio. Unlike a passive index fund that follows a preset list of holdings weighted by market capitalization, BPAY relies on a manager who makes discretionary decisions about which fintech firms to own and in what proportion. The fund is designed for investors who want to participate in the growth of digital finance — payment networks, lending platforms, wealth management software, blockchain infrastructure, and similar businesses — without having to pick individual stocks.
+The iShares FinTech [Active ETF](/active-etf/) (BPAY, listed on [NASDAQ](/nasdaq/)) is an exchange-traded fund that gives investors exposure to financial technology companies through an actively managed portfolio. Unlike a passive [index fund](/index-fund/) that follows a preset list of holdings weighted by [market capitalization](/market-capitalization/), BPAY relies on a manager who makes discretionary decisions about which fintech firms to own and in what proportion. The fund is designed for investors who want to participate in the growth of digital finance — payment networks, lending platforms, wealth management software, blockchain infrastructure, and similar businesses — without having to pick individual stocks.
 
 ## What defines active fintech investing?
 
@@ -19,15 +19,15 @@ Active management means the fund is not bound to a specific index formula. The m
 
 ## Who issues BPAY and how does it work?
 
-iShares, the exchange-traded fund division of BlackRock, sponsors BPAY. The fund is structured as a standard US ETF — investors buy and sell shares on a stock exchange throughout the trading day at market prices, not at a fixed net asset value calculated once per day like a traditional mutual fund. This structure provides liquidity: if you want to sell, you do not have to wait for a fund to process your redemption. The fund's shares track the aggregate value of its underlying holdings plus or minus cash and expenses.
+iShares, the exchange-traded fund division of [BlackRock](/blk-stock/), sponsors BPAY. The fund is structured as a standard US ETF — investors buy and sell shares on a [stock exchange](/stock-exchange/) throughout the trading day at market prices, not at a fixed [net asset value](/net-asset-value/) calculated once per day like a traditional [mutual fund](/mutual-fund/). This structure provides liquidity: if you want to sell, you do not have to wait for a fund to process your redemption. The fund's shares track the aggregate value of its underlying holdings plus or minus cash and expenses.
 
 ## What is the fintech universe?
 
-Fintech is not a formal stock-market sector but rather a thematic category that spans multiple traditional industries. A typical fintech-focused fund holds companies that operate digital payments (like Square or payment processors), online lending platforms, robo-advisors and wealth management software, cryptocurrency exchanges and infrastructure firms, and digital banking platforms. The portfolio may also include established financial institutions that have pivoted toward digital capabilities, or software companies that primarily serve financial firms. The specific mix depends on the manager's definition and strategy.
+Fintech is not a formal stock-market sector but rather a thematic category that spans multiple traditional industries. A typical fintech-focused fund holds companies that operate digital payments (like Square or payment processors), online lending platforms, robo-advisors and wealth management software, [cryptocurrency exchanges](/cryptocurrency-exchange/) and infrastructure firms, and digital banking platforms. The portfolio may also include established financial institutions that have pivoted toward digital capabilities, or software companies that primarily serve financial firms. The specific mix depends on the manager's definition and strategy.
 
 ## What are the costs and how do you access it?
 
-Like all ETFs, BPAY charges an expense ratio — an annual percentage of assets taken to cover management fees, trading, and administration. Active fintech ETFs generally charge more than a passive index fund tracking the same space, reflecting the cost of research and active decision-making. The fund trades on NASDAQ under the ticker BPAY, so you can buy or sell it through any brokerage account that offers stock trading, with no transaction fee at most major brokers. Typical bid-ask spreads (the cost of the transaction itself) are tight given the fund's size and liquidity.
+Like all ETFs, BPAY charges an [expense ratio](/expense-ratio/) — an annual percentage of assets taken to cover [management fees](/management-fee/), trading, and administration. Active fintech ETFs generally charge more than a passive index fund tracking the same space, reflecting the cost of research and active decision-making. The fund trades on NASDAQ under the ticker BPAY, so you can buy or sell it through any brokerage account that offers stock trading, with no transaction fee at most major [brokers](/broker/). Typical [bid-ask spreads](/bid-ask-spread/) (the cost of the transaction itself) are tight given the fund's size and liquidity.
 
 ## Who is BPAY for, and how do you research it?
 

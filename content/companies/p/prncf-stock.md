@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Prince Silver Corp. is a mineral exploration and development company focused on the discovery and advancement of silver deposits and related precious-metal projects. The company does not operate a producing mine; instead, it holds exploration and early-stage development projects at various stages of maturity, betting that patient capital, technical expertise, and favorable commodity cycles will ultimately generate a valuable producing asset or an attractive acquisition target for a larger mining operator.
+Prince Silver Corp. is a mineral exploration and development company focused on the discovery and advancement of silver deposits and related precious-metal projects. The company does not operate a producing mine; instead, it holds exploration and early-stage development projects at various stages of maturity, betting that patient capital, technical expertise, and favorable commodity cycles will ultimately generate a valuable producing asset or an attractive [acquisition](/acquisition/) target for a larger mining operator.
 
 The company's business model is inherently speculative. Unlike an operating gold or silver mine generating quarterly revenue, an exploration company produces no cash from operations. Its value derives from the geological merit of its properties, the price of silver (and any associated metals like gold or copper), and investors' willingness to fund the long and expensive process of taking a discovery from grassroots exploration through permitting and into production.
 
@@ -18,7 +18,7 @@ The company's business model is inherently speculative. Unlike an operating gold
 
 Prince Silver's assets are spread across multiple projects, each at different stages of maturity. Some may be at the grassroots stage — early geologic surveying to confirm that mineralization exists. Others may have moved to the advanced exploration phase, where the company has drilled and defined a resource estimate (a calculation of tonnage and grade, subject to large uncertainty). A few projects may have reached the prefeasibility or feasibility-study phase, where engineering and economics are being refined in preparation for potential production decisions.
 
-This portfolio approach is deliberate. By holding multiple projects, Prince Silver avoids the all-in bet on a single deposit. A disappointing drill result at one property is offset by encouraging results elsewhere; a permitting setback in one jurisdiction does not halt all activity. This diversification also allows the company to allocate capital opportunistically, accelerating work on the most promising prospects and letting slower ones progress methodically.
+This portfolio approach is deliberate. By holding multiple projects, Prince Silver avoids the all-in bet on a single deposit. A disappointing drill result at one property is offset by encouraging results elsewhere; a permitting setback in one jurisdiction does not halt all activity. This [diversification](/diversification/) also allows the company to allocate capital opportunistically, accelerating work on the most promising prospects and letting slower ones progress methodically.
 
 The geographic focus on North America — likely the western United States and Canada — offers stability in the regulatory environment and access to established mining infrastructure and supply chains. North American jurisdictions offer clear permitting processes, well-understood environmental regulations, and a deep talent pool of geologists, engineers, and contractors familiar with mineral exploration.
 
@@ -28,13 +28,13 @@ Silver is a precious metal with both investment demand (bars and coins, held by 
 
 Prince Silver's thesis is that silver will remain economically important and that patient exploration will uncover economically viable deposits. This is a multi-year, capital-intensive bet. From initial discovery to a producing mine typically takes 8–10 years and hundreds of millions of dollars, with no guarantee of success. Permitting delays, technical challenges, or a sustained collapse in silver prices can render a project uneconomic, wiping out shareholder value.
 
-Conversely, a major discovery or a sustained period of rising silver prices can unlock enormous value, making a single successful property worth many times the company's initial market capitalization.
+Conversely, a major discovery or a sustained period of rising silver prices can unlock enormous value, making a single successful property worth many times the company's initial [market capitalization](/market-capitalization/).
 
 ## Exploration and development spending
 
 Prince Silver's annual spending is largely determined by its capital-raising ability. In robust markets, the company can raise equity capital or secure joint-venture partners willing to fund exploration. In weak markets or bear cycles, spending may be curtailed, slowing the advancement of projects but preserving the company's runway.
 
-The company's balance sheet — the amount of cash on hand relative to annual burn rate — is a critical metric for exploration companies. A well-capitalized explorer can fund several years of work and weather commodity downturns. One with limited cash may be forced to dilute shareholders by raising capital at unfavorable terms or even to abandon promising properties for lack of funds.
+The company's [balance sheet](/balance-sheet/) — the amount of cash on hand relative to annual burn rate — is a critical metric for exploration companies. A well-capitalized explorer can fund several years of work and weather commodity downturns. One with limited cash may be forced to dilute shareholders by raising capital at unfavorable terms or even to abandon promising properties for lack of funds.
 
 Prince Silver's management team likely consists of geologists, mining engineers, and former mine operators who bring technical credibility and industry relationships. The quality and track record of this team is often more important to shareholders than any single property, because the team's judgment determines which projects to pursue, which to drop, and how to allocate limited capital for maximum impact.
 

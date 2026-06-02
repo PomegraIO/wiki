@@ -32,7 +32,7 @@ A portfolio of private corporate debt concentrates risk in ways that public equi
 
 **Competitive landscape and risks**
 
-Barings is a global asset manager with deep credit expertise, but the closed-end fund space for corporate debt includes competitors like [Ares Capital](/arcc-stock/), Golding Capital Partners, and others pursuing similar strategies. The key differentiator is the manager's skill in sourcing deals, underwriting credit, and negotiating terms favorable to the fund. When defaults spike or illiquid positions take years to resolve, that skill becomes test. During stable credit environments, many such funds generate steady returns; during downturns, they can suffer acute losses.
+Barings is a global asset manager with deep credit expertise, but the closed-end fund space for corporate debt includes competitors like Ares Capital, Golding Capital Partners, and others pursuing similar strategies. The key differentiator is the manager's skill in sourcing deals, underwriting credit, and negotiating terms favorable to the fund. When defaults spike or illiquid positions take years to resolve, that skill becomes test. During stable credit environments, many such funds generate steady returns; during downturns, they can suffer acute losses.
 
 [Interest rate](/interest-rate/) risk presents another dimension. Because MCI holds fixed-income instruments, a rising-rate environment erodes the present value of its holdings. Floating-rate debt mitigates this, but many private placements are fixed-rate. [Refinancing risk](/refinancing-risk/) matters too; if a borrower must roll over maturing debt into a higher-rate environment, its ability to service existing obligations may deteriorate.
 

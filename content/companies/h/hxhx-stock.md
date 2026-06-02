@@ -4,7 +4,7 @@ description: "China-focused healthcare and financial services platform operating
 keywords: ["China", "healthcare", "fintech", "Asia", "cross-border payments", "medical tourism"]
 ---
 
-*[Haoxin Holdings Ltd](/hxhx-stock/) (HXHX) is a multinational holding company with deep geographic roots in China and significant operations across Southeast Asia and the greater Asia-Pacific region. The firm operates through subsidiaries in [healthcare services](/hcsg-stock/), financial technology, and digital payment infrastructure, positioning itself at the intersection of Chinese capital and Asian market demand.*
+*[Haoxin Holdings Ltd](/hxhx-stock/) (HXHX) is a multinational holding company with deep geographic roots in China and significant operations across Southeast Asia and the greater Asia-Pacific region. The firm operates through subsidiaries in healthcare services, financial technology, and digital payment infrastructure, positioning itself at the intersection of Chinese capital and Asian market demand.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>HXHX</td></tr>

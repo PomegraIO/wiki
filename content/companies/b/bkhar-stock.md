@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-*Black Hawk Acquisition Corp. is a publicly traded special-purpose acquisition company (SPAC) capitalized to identify and execute a merger with an operating company, enabling a private business to access public markets and capital.*
+*[Black Hawk Acquisition](/bkha-stock/) Corp. is a publicly traded [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC) capitalized to identify and execute a [merger](/merger/) with an operating company, enabling a private business to access public markets and capital.*
 
 <aside class="wiki-infobox">
 <table>
@@ -25,7 +25,7 @@ handwritten: true
 
 ## What Black Hawk is and what it is not
 
-Black Hawk Acquisition Corp. is a shell company. It has no employees, no revenue, no products, and no business operations. The company exists solely to hold cash raised from public investors and deploy that capital to acquire or merge with an operating company. This is intentional. The SPAC structure is a mechanism by which a private company can go public without undergoing a traditional IPO process.
+Black Hawk [Acquisition](/acquisition/) Corp. is a shell company. It has no employees, no revenue, no products, and no business operations. The company exists solely to hold cash raised from public investors and deploy that capital to acquire or merge with an operating company. This is intentional. The SPAC structure is a mechanism by which a private company can go public without undergoing a traditional IPO process.
 
 When an investor buys Black Hawk shares, they are not buying a stake in an operating business. They are buying a claim on capital held in trust and a vote on whether to approve the sponsors' choice of merger target. The warrants—derivative securities that give the holder the right to buy additional shares at a fixed price—are a separate asset class and have their own trading dynamics distinct from the common shares.
 
@@ -39,12 +39,12 @@ Black Hawk Acquisition Corp. was sponsored by Black Hawk Capital, an investor gr
 
 ## The warrant and capital structure
 
-Black Hawk issued both common shares and warrants to public investors at IPO. The warrant structure—how many warrants per share, at what strike price, in what ratio to common shares—directly determines how much existing shareholders will be diluted when warrants are exercised post-merger. A SPAC with a high warrant-to-share ratio will see large dilution; one with lower ratio will see less. Additionally, the strike price matters: warrants with high strike prices may never be exercised if the stock price fails to rise, while warrants struck near or below the IPO price are likely to be exercised by holders seeking to acquire additional shares at a discount to the market price.
+Black Hawk issued both common shares and warrants to public investors at IPO. The warrant structure—how many warrants per share, at what [strike price](/strike-price/), in what ratio to common shares—directly determines how much existing shareholders will be diluted when warrants are exercised post-merger. A SPAC with a high warrant-to-share ratio will see large dilution; one with lower ratio will see less. Additionally, the strike price matters: warrants with high strike prices may never be exercised if the stock price fails to rise, while warrants struck near or below the IPO price are likely to be exercised by holders seeking to acquire additional shares at a discount to the market price.
 
 ## What happens if no merger occurs
 
-If Black Hawk fails to announce and close a business combination before the deadline (or any extended deadline), the company typically liquidates. Cash held in trust is returned to public shareholders. Sponsors lose their invested capital (though some sponsors retain equity, which would be worthless after liquidation) and the opportunity to earn promote shares (additional shares granted to sponsors upon merger closing). For public shareholders, liquidation is not a disaster—it returns their capital—but it results in a capital loss for those who bought shares above the IPO price or sold short after IPO.
+If Black Hawk fails to announce and close a [business combination](/business-combination-purchase/) before the deadline (or any extended deadline), the company typically liquidates. Cash held in trust is returned to public shareholders. Sponsors lose their invested capital (though some sponsors retain equity, which would be worthless after [liquidation](/liquidation/)) and the opportunity to earn promote shares (additional shares granted to sponsors upon merger closing). For public shareholders, liquidation is not a disaster—it returns their capital—but it results in a capital loss for those who bought shares above the IPO price or sold short after IPO.
 
 ## The research task ahead
 
-No analysis of Black Hawk is possible until a merger target is announced. At that moment, the real work begins: understanding the target company's competitive position, financial stability, growth prospects, and whether the price negotiated by sponsors represents fair value or a bargain or overpayment. Until then, Black Hawk is capital in search of a thesis—worth following only if the sponsors' reputation justifies the wait.
+No analysis of Black Hawk is possible until a merger target is announced. At that moment, the real work begins: understanding the target company's competitive position, financial stability, growth prospects, and whether the price negotiated by sponsors represents [fair value](/fair-value/) or a bargain or overpayment. Until then, Black Hawk is capital in search of a thesis—worth following only if the sponsors' reputation justifies the wait.

@@ -13,7 +13,7 @@ Eastern Bankshares, Inc., trading as EBC, is the holding company for Eastern Ban
 
 ## The mutual heritage
 
-Eastern Bank's story begins in 1818, making it one of America's oldest [financial institutions](/fisi-stock/). For nearly two centuries, the bank operated as a mutual institution, meaning it was owned by its depositors rather than by outside shareholders. This ownership structure shaped the organization's identity: decisions were made with an emphasis on member welfare rather than profit maximization, and excess earnings were retained to strengthen the institution or returned to customers through favorable terms.
+Eastern Bank's story begins in 1818, making it one of America's oldest financial institutions. For nearly two centuries, the bank operated as a mutual institution, meaning it was owned by its depositors rather than by outside shareholders. This ownership structure shaped the organization's identity: decisions were made with an emphasis on member welfare rather than profit maximization, and excess earnings were retained to strengthen the institution or returned to customers through favorable terms.
 
 The mutual form conferred certain advantages. Without the pressure to generate returns for external shareholders, mutual institutions can take a longer-term view of risk and lending decisions. They can serve communities that might be less profitable than large metropolitan centers. Eastern Bank built a reputation as a steady, conservative lender tied to the communities it served, accumulating substantial capital reserves over its long operating history.
 

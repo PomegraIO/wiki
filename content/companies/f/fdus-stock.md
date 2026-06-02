@@ -47,7 +47,7 @@ Diversification also protects FDUS against sector shocks. If one industry faces 
 
 ## Capital Access and Scale Constraints
 
-FDUS's defensibility faces headwinds from capital market conditions. The BDC must raise capital from investors—both debt (typically leveraged loans or bonds) and equity (shares sold to public investors). In favorable capital markets, FDUS can easily raise growth capital. In tightened markets, FDUS faces constraints on its lending capacity. This creates asymmetric competition: larger, diversified [financial institutions](/fisi-stock/) ([Goldman Sachs](/goldman-sachs/), Apollo, KKR) have deeper capital bases and less reliance on equity raises, allowing them to dominate during capital crunches.
+FDUS's defensibility faces headwinds from capital market conditions. The BDC must raise capital from investors—both debt (typically leveraged loans or bonds) and equity (shares sold to public investors). In favorable capital markets, FDUS can easily raise growth capital. In tightened markets, FDUS faces constraints on its lending capacity. This creates asymmetric competition: larger, diversified financial institutions ([Goldman Sachs](/goldman-sachs/), Apollo, [KKR](/kkr-stock/)) have deeper capital bases and less reliance on equity raises, allowing them to dominate during capital crunches.
 
 FDUS's moat is therefore conditional on having access to capital on reasonable terms. A tightening of capital markets could reduce FDUS's competitive advantage, as capital becomes scarce and large competitors outbid FDUS for limited funding.
 

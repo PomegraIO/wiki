@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-OPKO Health, Inc. is a [diversified healthcare](/dhc-stock/) company that operates across diagnostics, pharmaceuticals, and medical devices. The company's portfolio includes proprietary diagnostic tests (most notably the BioReference laboratory business), specialty and generic pharmaceuticals (under brands like Rayaldee), and medical devices and related products. This multi-segment structure gives OPKO revenue from both recurring diagnostic services and discrete pharmaceutical sales, though managing diverse healthcare businesses under one roof creates coordination complexity.
+OPKO Health, Inc. is a diversified healthcare company that operates across diagnostics, pharmaceuticals, and medical devices. The company's portfolio includes proprietary diagnostic tests (most notably the BioReference laboratory business), specialty and generic pharmaceuticals (under brands like Rayaldee), and medical devices and related products. This multi-segment structure gives OPKO revenue from both recurring diagnostic services and discrete pharmaceutical sales, though managing diverse healthcare businesses under one roof creates coordination complexity.
 
 > A diagnostics company is a recurring-revenue machine once the tests gain acceptance; a pharma company is a lottery ticket on a handful of drugs. OPKO is trying to be both.
 

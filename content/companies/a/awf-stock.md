@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-AllianceBernstein Global High Income Fund Inc trades on the [stock exchange](/stock-exchange/) under the ticker AWF. It is a closed-end investment fund, which means it is run like a company that invests money instead of making products. The fund takes money from shareholders, invests it in bonds and dividend-paying stocks around the world, and sends back monthly paychecks to those shareholders. That monthly payment—called a distribution—is the main draw for people who own AWF shares.
+AllianceBernstein Global High Income Fund Inc trades on the [stock exchange](/stock-exchange/) under the ticker AWF. It is a closed-end investment fund, which means it is run like a company that invests money instead of making products. The fund takes money from shareholders, invests it in [bonds](/bond/) and dividend-paying stocks around the world, and sends back monthly paychecks to those shareholders. That monthly payment—called a distribution—is the main draw for people who own AWF shares.
 
 <aside class="wiki-infobox">
 <table>
@@ -67,7 +67,7 @@ The other thing to know: AWF trades on the stock exchange at a price. That price
 
 ## Risks and what can go wrong
 
-The biggest risk is that bonds in the portfolio default. If a borrower stops paying interest and principal, the fund loses money. The fund owns many bonds, so one default does not kill it, but a widespread default—such as happens in a severe recession—can be painful.
+The biggest risk is that bonds in the portfolio default. If a borrower stops paying interest and principal, the fund loses money. The fund owns many bonds, so one default does not kill it, but a widespread default—such as happens in a severe [recession](/recession/)—can be painful.
 
 Interest rates are a second risk. When interest rates rise, the value of existing bonds falls. If you own a bond paying three percent and new bonds are being issued at five percent, your bond becomes less valuable. If you had to sell it early, you would sell at a loss. In a rising-rate environment, the fund's portfolio takes a hit.
 

@@ -38,7 +38,7 @@ Biotech valuations are volatile and tied tightly to clinical trial results. A po
 
 ## Competitive context and differentiation
 
-Protagonist competes indirectly with established GPCR drug makers (Merck, [Pfizer](/pfe-stock/), GSK) and more directly with other clinical-stage biotech firms pursuing peptide therapies or novel GPCR modulation. The broader IBD space is crowded, but Protagonist's mechanism is distinct. The peptide platform itself — the ability to generate selective, stable peptides — is proprietary and patented, which provides some moat. However, intellectual property in biotech is always vulnerable to design-around solutions or new competing approaches.
+Protagonist competes indirectly with established GPCR drug makers ([Merck](/mrk-stock/), [Pfizer](/pfe-stock/), GSK) and more directly with other clinical-stage biotech firms pursuing peptide therapies or novel GPCR modulation. The broader IBD space is crowded, but Protagonist's mechanism is distinct. The peptide platform itself — the ability to generate selective, stable peptides — is proprietary and patented, which provides some moat. However, intellectual property in biotech is always vulnerable to design-around solutions or new competing approaches.
 
 The major threat is clinical failure or unacceptable side effects in Phase 2b/3 trials. Any serious adverse signal in a large population would terminate development of that candidate. The company is also dependent on its scientific advisors and the underlying biology of its targets being clinically relevant — if the GPCR pathway targeted in IBD proves less important in human disease than in animal models, the entire lead program could fail.
 

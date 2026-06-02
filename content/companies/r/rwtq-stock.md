@@ -28,17 +28,17 @@ Redwood Trust is a specialty finance company that operates mortgage banking plat
 
 ## What is Redwood Trust and why does it issue debt?
 
-Redwood Trust is a residential mortgage REIT founded in 1994 in Mill Valley, California. The company runs mortgage origination platforms (Sequoia and CoreVest) that source residential mortgages, securitize them into mortgage-backed securities, and sell or hold those securities for investment. It also holds a portfolio of mortgages and securities that generate net interest income. To fund these operations—to pay for mortgages it acquires, to cover operating expenses, and to return capital to equity holders—Redwood Trust borrows money through bank credit lines, equity offerings, and debt issuances like RWTQ.
+Redwood Trust is a residential [mortgage REIT](/mortgage-reit/) founded in 1994 in Mill Valley, California. The company runs mortgage origination platforms (Sequoia and CoreVest) that source residential mortgages, securitize them into mortgage-backed securities, and sell or hold those securities for investment. It also holds a portfolio of mortgages and securities that generate net interest income. To fund these operations—to pay for mortgages it acquires, to cover operating expenses, and to return capital to equity holders—Redwood Trust borrows money through bank credit lines, equity offerings, and debt issuances like RWTQ.
 
-The senior notes are unsecured, meaning they are not collateralized by specific mortgages. Instead, noteholders have a claim against Redwood Trust's general assets and earnings. The 9.5% coupon reflects the market's assessment of Redwood Trust's credit quality and the returns investors demand for bearing that credit risk.
+The senior notes are unsecured, meaning they are not collateralized by specific mortgages. Instead, noteholders have a claim against Redwood Trust's general assets and earnings. The 9.5% coupon reflects the market's assessment of Redwood Trust's credit quality and the returns investors demand for bearing that [credit risk](/credit-risk/).
 
 ## How does the 9.5% coupon compare to alternatives?
 
-A 9.5% fixed coupon was attractive in the environment when RWTQ was issued—likely a period when general interest rates were elevated and credit spreads on REITs were wide. The coupon is substantially higher than investment-grade corporate debt (which typically yields 4–7%) and higher than government-backed debt, but comparable to other mortgage REIT debt and sub-investment-grade corporate bonds. Investors buying RWTQ are accepting the risk that Redwood Trust's ability to service the debt could be impaired if mortgage markets deteriorate, in exchange for that higher yield.
+A 9.5% fixed coupon was attractive in the environment when RWTQ was issued—likely a period when general [interest rates](/interest-rate/) were elevated and [credit spreads](/credit-spread/) on REITs were wide. The coupon is substantially higher than investment-grade corporate debt (which typically yields 4–7%) and higher than government-backed debt, but comparable to other mortgage REIT debt and sub-investment-grade [corporate bonds](/corporate-bond/). Investors buying RWTQ are accepting the risk that Redwood Trust's ability to service the debt could be impaired if mortgage markets deteriorate, in exchange for that higher yield.
 
 ## What is Redwood Trust's mortgage business actually like?
 
-Redwood Trust operates in the residential mortgage space, focusing on mortgages that fall outside the conforming loan limits handled by Fannie Mae and Freddie Mac—jumbo mortgages, mortgages for non-standard credit profiles, and loans in underserved geographic niches. The company earns fees on originating and securitizing mortgages, holds some mortgages for investment yield, and services mortgages it has originated. Revenue is therefore tied directly to the volume of mortgage originations, the spread between what mortgages yield and what Redwood Trust pays to fund them, and the credit performance of the mortgages it holds.
+Redwood Trust operates in the residential mortgage space, focusing on mortgages that fall outside the [conforming loan](/conforming-loan/) limits handled by [Fannie Mae](/fannie-mae/) and [Freddie Mac](/freddie-mac/)—jumbo mortgages, mortgages for non-standard credit profiles, and loans in underserved geographic niches. The company earns fees on originating and securitizing mortgages, holds some mortgages for investment yield, and services mortgages it has originated. Revenue is therefore tied directly to the volume of mortgage originations, the spread between what mortgages yield and what Redwood Trust pays to fund them, and the credit performance of the mortgages it holds.
 
 The business is cyclical: when interest rates are low and borrowers can access credit, originations surge and Redwood Trust's platforms thrive. When rates spike or credit tightens, origination volume collapses and revenue falls. The company must therefore weather periods of very low earnings.
 
@@ -46,7 +46,7 @@ The business is cyclical: when interest rates are low and borrowers can access c
 
 The coupon on RWTQ is fixed at 9.5% per year, so RWTQ holders always receive that 9.5% unless Redwood Trust defaults. However, the market price of RWTQ will fluctuate based on interest rates and credit conditions. If prevailing interest rates fall, RWTQ becomes more valuable (its 9.5% coupon looks attractive compared to new debt yielding less), and its market price rises. If rates rise, RWTQ becomes less valuable, and its price falls. Similarly, if the market perceives Redwood Trust's credit quality improving, RWTQ could tighten (the price rises and the yield falls). If credit quality deteriorates, RWTQ widens (the price falls and the yield rises).
 
-For someone buying RWTQ in the secondary market and holding to maturity, the fixed coupon is locked in, but the purchase price matters enormously to total return. Someone buying at a discount to par will earn above 9.5% if held to maturity; someone buying at a premium will earn below 9.5%.
+For someone buying RWTQ in the [secondary market](/secondary-market/) and holding to maturity, the fixed coupon is locked in, but the purchase price matters enormously to total return. Someone buying at a discount to par will earn above 9.5% if held to maturity; someone buying at a premium will earn below 9.5%.
 
 ## What are the risks to Redwood Trust's ability to pay RWTQ?
 
@@ -56,7 +56,7 @@ Mortgage REITs are also sensitive to interest-rate volatility. If rates move aga
 
 ## How does RWTQ rank in a liquidation?
 
-RWTQ are senior unsecured notes, meaning they rank above equity holders but behind secured creditors (such as bank credit facilities backed by mortgages). In a liquidation scenario, Redwood Trust would sell assets, use proceeds to pay secured lenders first, then pay senior noteholders like RWTQ holders on a pro-rata basis, and only then return anything to equity holders. The unsecured ranking means RWTQ holders could face substantial losses if Redwood Trust's assets are worth far less than its debt obligations.
+RWTQ are senior unsecured notes, meaning they rank above equity holders but behind secured creditors (such as bank credit facilities backed by mortgages). In a [liquidation](/liquidation/) scenario, Redwood Trust would sell assets, use proceeds to pay secured lenders first, then pay senior noteholders like RWTQ holders on a pro-rata basis, and only then return anything to equity holders. The unsecured ranking means RWTQ holders could face substantial losses if Redwood Trust's assets are worth far less than its debt obligations.
 
 ## How would a prospective buyer research RWTQ?
 

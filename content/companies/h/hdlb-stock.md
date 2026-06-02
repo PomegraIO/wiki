@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-HDLB is a UBS-issued structured product with a defined maturity date (September 30, 2044) that combines two seemingly opposite goals: monthly income payments and 2x leverage to a low-volatility dividend-stock index. It rebalances daily to maintain 2x exposure to an index of US large-cap stocks selected for high dividend yield and low historical volatility, distributing cash monthly while the underlying leverage compounds within the note.
+HDLB is a UBS-issued structured product with a defined maturity date (September 30, 2044) that combines two seemingly opposite goals: monthly income payments and 2x leverage to a low-volatility dividend-stock index. It rebalances daily to maintain 2x exposure to an index of US large-cap stocks selected for high [dividend yield](/dividend-yield/) and low [historical volatility](/historical-volatility/), distributing cash monthly while the underlying leverage compounds within the note.
 
 ## The strategy: Dividends plus leverage
 
-The underlying index for HDLB selects large-cap US stocks based on two criteria: high dividend yield (typically in the top quartile by payout) and low historical volatility (typically in the bottom quartile). These are often large, mature, stable businesses: utilities, real estate investment trusts, consumer staples, established industrials, and high-yielding financials. The combination of high dividends and low volatility appeals to income-focused investors.
+The underlying index for HDLB selects large-cap US stocks based on two criteria: high [dividend](/dividend/) yield (typically in the top quartile by payout) and low historical volatility (typically in the bottom quartile). These are often large, mature, stable businesses: utilities, [real estate investment trusts](/real-estate-investment-trust/), consumer staples, established industrials, and high-yielding financials. The combination of high dividends and low volatility appeals to income-focused investors.
 
 HDLB applies 2x leverage to this stable universe, in theory producing 2x the dividend income while 2x amplifying price appreciation. The product pays out the dividends monthly rather than reinvesting them, creating a regular income stream. The 2x leverage itself operates on total return (including reinvested dividends), so the underlying leverage compounds while the cash distributions are extracted and paid to holders.
 
@@ -23,12 +23,12 @@ This structure aims to appeal to retirees and income seekers who want both curre
 ## Dividend-yielding stocks and the cycle
 
 High-dividend stocks perform well when:
-- Interest rates are stable or falling, making fixed-income less attractive and pushing investors toward yield.
+- [Interest rates](/interest-rate/) are stable or falling, making fixed-income less attractive and pushing investors toward yield.
 - Economic growth is moderate and stable, so dividend cuts are unlikely.
 - Volatility is low, creating an appetite for "defensive" dividend stocks.
 
 They underperform when:
-- Interest rates are rising, making bonds more attractive than stocks on an absolute basis.
+- Interest rates are rising, making [bonds](/bond/) more attractive than stocks on an absolute basis.
 - Economic growth is slowing, raising the risk of dividend cuts.
 - Volatility is elevated, encouraging flight to safety (cash, bonds) rather than dividend stocks.
 
@@ -52,13 +52,13 @@ Each monthly distribution represents a cash withdrawal from the pool, which redu
 
 Unlike open-ended products, HDLB has a scheduled maturity date of September 30, 2044, roughly 18 years from 2026. As the maturity date approaches, the product winds down, and holders must decide whether to let it mature (receiving cash) or exit before the final dates.
 
-This creates a hidden risk: as the product approaches maturity, liquidity and trading volumes may decline, and bid-ask spreads could widen. An investor buying HDLB in 2040 would be buying a product with only 4 years left to live, a much less attractive proposition than one with 18 years.
+This creates a hidden risk: as the product approaches maturity, liquidity and trading volumes may decline, and [bid-ask spreads](/bid-ask-spread/) could widen. An investor buying HDLB in 2040 would be buying a product with only 4 years left to live, a much less attractive proposition than one with 18 years.
 
 Additionally, UBS maintains the option to call the note early in certain circumstances, which could occur if the underlying index performance makes the leverage untenable or if credit conditions worsen. An investor holding HDLB should be aware of the call provisions and the final maturity date.
 
 ## The interest-rate sensitivity
 
-A high-dividend, low-volatility index is often heavy in interest-rate-sensitive sectors: utilities, REITs, and consumer staples. When interest rates rise, the present value of these long-duration cash flows declines, and the dividend yields rise (prices fall) to compensate. The 2x leverage amplifies this interest-rate risk.
+A high-dividend, low-volatility index is often heavy in interest-rate-sensitive sectors: utilities, REITs, and consumer staples. When interest rates rise, the present value of these long-duration cash flows declines, and the dividend yields rise (prices fall) to compensate. The 2x leverage amplifies this [interest-rate risk](/interest-rate-risk/).
 
 In an environment of rising rates, HDLB can face a double hit: the underlying index declines as dividend yields rise, and the monthly distributions decline because the underlying companies cut payouts (utilities and REITs are especially prone to cutting dividends in high-rate environments). The leverage amplifies both losses.
 

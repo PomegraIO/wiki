@@ -55,7 +55,7 @@ This capital-market penalty affects Battalion's cost of capital: debt is more ex
 
 ## Peer Dynamics and M&A Risk
 
-The E&P industry has consolidated significantly. Larger, [diversified energy](/dec-stock/) companies ([Chevron](/cvx-stock/), Exxon, Equinor) have acquired smaller E&P firms, built scale, and achieved cost advantages. Smaller E&P companies like Battalion face a choice: (1) grow through disciplined exploration and organic development, (2) acquire peers to achieve critical mass, or (3) become acquisition targets themselves. Option 1 requires exceptional geological luck and execution over many years. Option 2 requires access to capital and integration skill. Option 3 may be inevitable if capital markets grow more hostile to small, undiversified fossil-fuel producers.
+The E&P industry has consolidated significantly. Larger, diversified energy companies ([Chevron](/cvx-stock/), Exxon, Equinor) have acquired smaller E&P firms, built scale, and achieved cost advantages. Smaller E&P companies like Battalion face a choice: (1) grow through disciplined exploration and organic development, (2) acquire peers to achieve critical mass, or (3) become acquisition targets themselves. Option 1 requires exceptional geological luck and execution over many years. Option 2 requires access to capital and integration skill. Option 3 may be inevitable if capital markets grow more hostile to small, undiversified fossil-fuel producers.
 
 If Battalion is acquired during an industry downturn, shareholders may receive depressed valuations. Alternatively, if the company remains independent and secular pressure on energy demand accelerates, it may face prolonged value destruction.
 

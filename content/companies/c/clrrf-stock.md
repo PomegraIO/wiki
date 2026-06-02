@@ -33,7 +33,7 @@ The company is betting that it can identify a target that has been successful an
 
 ## How Blank-Check Companies Work
 
-When ClimateRock raised its initial capital, investors gave money to a holding company with no operating business. That money sits in a trust account, largely untouched. The company then has a set amount of time—usually two or three years—to find a target and complete a merger or acquisition deal. If the deal succeeds, the blank-check company combines with the target company, and the target becomes the public company. Investors in the blank-check company become shareholders in the merged entity.
+When ClimateRock raised its initial capital, investors gave money to a holding company with no operating business. That money sits in a trust account, largely untouched. The company then has a set amount of time—usually two or three years—to find a target and complete a [merger](/merger/) or [acquisition](/acquisition/) deal. If the deal succeeds, the blank-check company combines with the target company, and the target becomes the public company. Investors in the blank-check company become shareholders in the merged entity.
 
 If no deal gets done in time, the money is returned to investors and the company dissolves.
 

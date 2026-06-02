@@ -32,7 +32,7 @@ Cannaisseur's mix of retail and wholesale revenue matters for understanding the 
 
 The cannabis industry operates under fragmented state regulation. Adult-use (recreational) cannabis is legal in a growing number of states; medical cannabis is legal in more. Each state sets its own rules on licensing, taxation, testing, packaging, and other requirements. A company like Cannaisseur must maintain compliance with every state in which it operates — no small task given that regulations differ and change frequently.
 
-Tax is a critical variable. Many states impose excise taxes (in addition to regular sales tax) on cannabis, sometimes at very high rates. Some states tax cultivation, some tax wholesale, some tax retail, some tax all three. A company operating across multiple states with different tax regimes faces complexity and variable unit economics. A 20% excise tax in one state and a 45% excise tax in another means the same product sells at different effective prices to consumers, affecting demand and competitiveness.
+Tax is a critical variable. Many states impose excise taxes (in addition to regular [sales tax](/sales-tax/)) on cannabis, sometimes at very high rates. Some states tax cultivation, some tax wholesale, some tax retail, some tax all three. A company operating across multiple states with different tax regimes faces complexity and variable unit economics. A 20% excise tax in one state and a 45% excise tax in another means the same product sells at different effective prices to consumers, affecting demand and competitiveness.
 
 Licensing availability also varies widely. Some states limit retail licenses and competition, protecting margins for existing license-holders; others issue many licenses and accept lower margins as a result. Cannaisseur's returns depend substantially on which states it operates in and how crowded those states' markets are.
 
@@ -46,7 +46,7 @@ Branding is also relevant. In a crowded market, dispensaries that build customer
 
 Cannabis companies face a unique operational challenge: most mainstream banks avoid the business because cannabis remains federally illegal. This forces cannabis companies to hold cash or use smaller, specialty banks willing to work with the industry, raising costs and complicating cash management. A company like Cannaisseur that operates in multiple states faces greater complexity managing capital and liquidity than a traditional retailer.
 
-Growth in this industry requires capital for licenses, build-outs of new retail locations, and working capital to stock inventory. Raising that capital is harder for cannabis companies than for other retailers because public markets have been selective and debt financing from traditional lenders is mostly unavailable. Equity raises and reinvestment of profits are the primary funding sources.
+Growth in this industry requires capital for licenses, build-outs of new retail locations, and working capital to stock inventory. Raising that capital is harder for cannabis companies than for other retailers because public markets have been selective and [debt financing](/debt-financing/) from traditional lenders is mostly unavailable. Equity raises and reinvestment of profits are the primary funding sources.
 
 ## Monitoring and research
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[National Healthcare](/nhc-stock/) Properties is a real estate company with a simple core idea: buy buildings that hospitals, doctors' offices, and senior-care facilities need, then collect rent from the tenants who operate them. The company owns and operates more than 30 senior housing communities with thousands of beds and over 100 medical office buildings scattered across the United States. It is not a hospital operator or a care provider — it is the landlord. That distinction matters because it means NHP's business hinges on property management, maintenance, and rent collection rather than on the clinical or operational complexity of running a facility where people are cared for.
+National Healthcare Properties is a real estate company with a simple core idea: buy buildings that hospitals, doctors' offices, and senior-care facilities need, then collect rent from the tenants who operate them. The company owns and operates more than 30 senior housing communities with thousands of beds and over 100 medical office buildings scattered across the United States. It is not a hospital operator or a care provider — it is the landlord. That distinction matters because it means NHP's business hinges on property management, maintenance, and rent collection rather than on the clinical or operational complexity of running a facility where people are cared for.
 
 <aside class="wiki-infobox">
 <table>
@@ -30,7 +30,7 @@ NHP splits its portfolio into two halves. The first is senior housing — assist
 
 The second is outpatient medical buildings — doctors' offices, urgent-care facilities, imaging centers, pharmacies, laboratories. These are commercial office buildings leased to medical practices and healthcare service providers. A dermatologist might rent three suites; a physical therapy clinic might rent a whole floor. NHP collects monthly rent from each tenant.
 
-This two-part portfolio gives NHP some hedge against risk. If the senior housing market softens because fewer older adults are choosing assisted living, medical offices might be growing because an aging population drives demand for doctors and [healthcare services](/hcsg-stock/). Neither property type is recession-proof, but they move on different cycles.
+This two-part portfolio gives NHP some hedge against risk. If the senior housing market softens because fewer older adults are choosing assisted living, medical offices might be growing because an aging population drives demand for doctors and healthcare services. Neither property type is recession-proof, but they move on different cycles.
 
 ## How the company makes money
 

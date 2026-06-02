@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Connecticut Light & Power Co is an electric utility. It owns the wires, poles, and equipment that deliver electricity to about 1.2 million customers across Connecticut. The company does not generate the power — it buys power from generators and delivers it to your house or business. It is a regulated utility, which means a government agency (the Connecticut Public Utilities Regulatory Authority) approves its rates and decides what profit it is allowed to make.
+[Connecticut Light & Power](/cnthp-stock/) Co is an electric utility. It owns the wires, poles, and equipment that deliver electricity to about 1.2 million customers across Connecticut. The company does not generate the power — it buys power from generators and delivers it to your house or business. It is a regulated utility, which means a government agency (the Connecticut Public Utilities Regulatory Authority) approves its rates and decides what profit it is allowed to make.
 
 ## How it works, simply
 
@@ -33,11 +33,11 @@ During cold winters, residential heating demand goes up and the company sells mo
 
 ## Regulated returns and what it means
 
-Connecticut Light & Power is owned by Eversource Energy, a larger regional utility company. Eversource owns several utilities across the Northeast. The parent company handles much of the financing, accounting, and regulatory interaction, while Connecticut Light & Power focuses on running the local distribution network.
+Connecticut Light & Power is owned by [Eversource Energy](/es-stock/), a larger regional utility company. Eversource owns several utilities across the Northeast. The parent company handles much of the financing, accounting, and regulatory interaction, while Connecticut Light & Power focuses on running the local distribution network.
 
 A regulated utility's profit is not a secret. The regulator decides what return the company is allowed to earn on its invested capital. For example, the regulator might say: "You have invested $10 billion in infrastructure, and you are allowed to earn a 9 percent return on that." That means the company expects to earn about $900 million per year in profit, assuming the utility can recover all its costs.
 
-This is very different from competitive businesses. Apple or Amazon can cut costs or raise prices to increase profit. A regulated utility cannot. Its profit is predetermined by the regulator. This makes utility stocks stable but not exciting. You know roughly what you will earn over time.
+This is very different from competitive businesses. [Apple](/aapl-stock/) or Amazon can cut costs or raise prices to increase profit. A regulated utility cannot. Its profit is predetermined by the regulator. This makes utility stocks stable but not exciting. You know roughly what you will earn over time.
 
 ## Grid modernization and renewable energy
 
@@ -47,7 +47,7 @@ This is important for utility investors because it means capital spending on new
 
 ## What can go wrong
 
-The main risks for a utility are regulatory and economic. If the regulator decides to cut the allowed return, profit declines. If the economy enters a recession and customers use less power, revenue falls. If costs rise faster than the regulator allows rate increases, profit margins shrink. Major storms or infrastructure failures can trigger unexpected costs.
+The main risks for a utility are regulatory and economic. If the regulator decides to cut the allowed return, profit declines. If the economy enters a [recession](/recession/) and customers use less power, revenue falls. If costs rise faster than the regulator allows rate increases, profit margins shrink. Major storms or infrastructure failures can trigger unexpected costs.
 
 On the other hand, utilities are generally resilient because electricity is essential. People do not stop buying power during recessions — they just try to use less. This makes utilities defensive stocks that hold value when the economy is weak.
 

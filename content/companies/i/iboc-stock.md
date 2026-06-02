@@ -29,7 +29,7 @@ The 2008 financial crisis and subsequent [recession](/recession/) hit border reg
 
 ## Deposit franchise and peso holdings
 
-A distinctive aspect of border banking is peso exposure. Mexican businesses and individuals hold peso accounts at U.S. banks for convenience and safety. IBOC accepts peso deposits, which it must convert, invest, or lend. Peso-denominated assets and liabilities create balance-sheet exposure to peso [depreciation](/depreciation/): if the peso weakens against the dollar, IBOC's U.S. dollar net worth declines, affecting shareholder [equity](/common-stock/). The bank hedges this risk through [forward contracts](/forward-contract/) and natural offsets (peso deposits funding peso loans), but some exposure remains.
+A distinctive aspect of border banking is peso exposure. Mexican businesses and individuals hold peso accounts at U.S. banks for convenience and safety. IBOC accepts peso deposits, which it must convert, invest, or lend. Peso-denominated assets and liabilities create balance-sheet exposure to peso [depreciation](/depreciation/): if the peso weakens against the dollar, IBOC's [U.S. dollar](/us-dollar/) net worth declines, affecting shareholder [equity](/common-stock/). The bank hedges this risk through [forward contracts](/forward-contract/) and natural offsets (peso deposits funding peso loans), but some exposure remains.
 
 IBOC's deposit gathering in the region is a competitive strength. Local families and small businesses keep deposits at IBOC for service, relationship history, and trust. The bank competes with larger regional banks (like Compass Bancshares or Cullen/Frost) and national banks for deposits, but benefits from historical ties and understanding of local needs.
 

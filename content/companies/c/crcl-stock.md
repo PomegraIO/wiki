@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Circle Internet Group is a San Francisco-based fintech company building [stablecoins](/stablecoin/) (cryptocurrencies pegged to the value of traditional currencies like the U.S. dollar) and payment infrastructure on [public blockchains](/public-blockchain/). The company occupies a niche at the intersection of traditional finance and cryptocurrency, operating within a regulatory environment that is still taking shape and facing technology adoption challenges that have long frustrated the crypto sector.*
+*Circle Internet Group is a San Francisco-based fintech company building [stablecoins](/stablecoin/) (cryptocurrencies pegged to the value of traditional currencies like the [U.S. dollar](/us-dollar/)) and payment infrastructure on [public blockchains](/public-blockchain/). The company occupies a niche at the intersection of traditional finance and cryptocurrency, operating within a regulatory environment that is still taking shape and facing technology adoption challenges that have long frustrated the crypto sector.*
 
 <aside class="wiki-infobox">
 <table>

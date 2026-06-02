@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-West Red Lake Gold Mines Ltd. is a mineral exploration and development company operating in Ontario's Red Lake mining district in Canada. The company holds exploration claims and conducts development work on gold properties in a region with a storied history of precious metals mining, including some of Canada's largest and longest-operating gold mines. Its business model is typical of junior mining companies: acquire exploration rights to promising geological formations, conduct exploration and feasibility work, and develop the properties toward commercial production—though most junior explorers never reach that stage.
+[West Red Lake Gold Mines](/wrlgf-stock/) Ltd. is a mineral exploration and development company operating in Ontario's Red Lake mining district in Canada. The company holds exploration claims and conducts development work on gold properties in a region with a storied history of precious metals mining, including some of Canada's largest and longest-operating gold mines. Its business model is typical of junior mining companies: acquire exploration rights to promising geological formations, conduct exploration and feasibility work, and develop the properties toward commercial production—though most junior explorers never reach that stage.
 
 The customer for a junior mining company is not a consumer of gold or a purchaser of finished product. Instead, the value flows to three audiences: larger mining companies that might acquire the junior's properties and move them into production, the investment community that funds exploration through equity offerings and debt, and potentially, if the company reaches production, the global gold market and industrial consumers of the metal.
 
@@ -28,9 +28,9 @@ Success is measured by resource discovery—the identification and quantificatio
 
 ## The junior mining risk profile
 
-Junior mining companies face several structural challenges. Exploration is high-risk: the vast majority of exploration projects never reach production. Funding is uncertain and dilutive to existing shareholders—each capital raise issues new shares, so investors are always being diluted unless the company discovers something valuable enough to warrant major acquisition or partnership.
+Junior mining companies face several structural challenges. Exploration is high-risk: the vast majority of exploration projects never reach production. Funding is uncertain and dilutive to existing shareholders—each capital raise issues new shares, so investors are always being diluted unless the company discovers something valuable enough to warrant major [acquisition](/acquisition/) or partnership.
 
-Permitting and environmental approval for mining in Canada can be lengthy and contentious, involving community consultation and regulatory approval at multiple levels. Commodity prices matter enormously: if gold prices fall sharply, the economics of even a discovered ore body can become unworkable, and funding dries up. Share price and funding availability are tightly coupled—share price weakness makes equity financing more expensive and harder to complete.
+Permitting and environmental approval for mining in Canada can be lengthy and contentious, involving community consultation and regulatory approval at multiple levels. Commodity prices matter enormously: if gold prices fall sharply, the economics of even a discovered ore body can become unworkable, and funding dries up. Share price and funding availability are tightly coupled—share price weakness makes [equity financing](/equity-financing/) more expensive and harder to complete.
 
 West Red Lake, as a junior explorer, operates under these structural conditions. The company's success depends on meaningful exploration results that attract either major industry interest or sustained investor support.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Fresenius Medical Care is the world's largest provider of dialysis services, treating millions of patients with chronic kidney disease across more than 150 countries. It is a German multinational with a sprawling portfolio: it operates dialysis clinics and provides treatment, manufactures dialysis equipment and consumables, develops drugs used in kidney care, and manages insurance and pharmacy services in certain markets. The business is anchored by a simple, durable medical reality: roughly two million people globally have end-stage renal disease and need dialysis three times a week, every week, for the rest of their lives. That is a guaranteed, recurring patient base, and Fresenius has positioned itself to profit from nearly every point in that care chain.
+[Fresenius Medical Care](/fms-stock/) is the world's largest provider of dialysis services, treating millions of patients with chronic kidney disease across more than 150 countries. It is a German multinational with a sprawling portfolio: it operates dialysis clinics and provides treatment, manufactures dialysis equipment and consumables, develops drugs used in kidney care, and manages insurance and pharmacy services in certain markets. The business is anchored by a simple, durable medical reality: roughly two million people globally have end-stage renal disease and need dialysis three times a week, every week, for the rest of their lives. That is a guaranteed, recurring patient base, and Fresenius has positioned itself to profit from nearly every point in that care chain.
 
 ## The problem and the solution
 
@@ -23,7 +23,7 @@ Transplantation is the best long-term outcome for patients who can access it, bu
 
 ## Fresenius's dominance
 
-Fresenius Medical Care emerged from the merger of Fresenius (a German healthcare conglomerate) and RENAL Treatment Centers in 1996. The German parent company was already in medical device manufacturing; the U.S. partner brought in thousands of clinic operations. Together they created a vertically integrated dialysis business: Fresenius owns and operates thousands of clinics worldwide, manufactures the dialysis machines that run in those clinics, produces the dialysate (the solution used in treatment), and develops and manufactures pharmaceuticals used in kidney care.
+Fresenius Medical Care emerged from the [merger](/merger/) of Fresenius (a German healthcare conglomerate) and RENAL Treatment Centers in 1996. The German parent company was already in medical device manufacturing; the U.S. partner brought in thousands of clinic operations. Together they created a vertically integrated dialysis business: Fresenius owns and operates thousands of clinics worldwide, manufactures the dialysis machines that run in those clinics, produces the dialysate (the solution used in treatment), and develops and manufactures pharmaceuticals used in kidney care.
 
 This integration is powerful. Fresenius can ensure that its clinics use its equipment and products, generating recurring revenue streams. A patient entering a Fresenius clinic pays for the dialysis session (usually through insurance or government programs like Medicare in the United States). Fresenius collects that payment from the payer, then pays itself internally for the machine, the dialysate, and other supplies consumed. The internal pricing can be adjusted to move profit between business units and optimize tax or reimbursement outcomes.
 
@@ -61,7 +61,7 @@ The pharmaceuticals and devices business carries higher margins but faces generi
 
 ## Understanding Fresenius as an investment
 
-The company's annual report (SEC CIK 0001333141, though note that Fresenius is German-listed and filings may be in German or English depending on the document) breaks down revenue by segment and geography, shows patient census trends, and discusses reimbursement dynamics.
+The company's [annual report](/10-k/) (SEC CIK 0001333141, though note that Fresenius is German-listed and filings may be in German or English depending on the document) breaks down revenue by segment and geography, shows patient census trends, and discusses reimbursement dynamics.
 
 Key metrics to watch are patient census (how many people Fresenius is treating) and revenue per treatment (what it collects per dialysis session). Growth in census in emerging markets is favorable; flat or declining census in developed markets is a headwind. Revenue per treatment reflects reimbursement pressure; if it is falling faster than volume is growing, earnings will disappoint.
 

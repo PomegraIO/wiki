@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*NIXT buys stocks that just got deleted from the S&P 500 and other major indices. The idea is that when a stock gets kicked out, index funds sell it, the stock falls, and the market forgets about it. NIXT bets that investors are overreacting and the stock will bounce back. It is a contrarian play on index-driven forced selling.*
+*NIXT buys stocks that just got deleted from the S&P 500 and other major indices. The idea is that when a stock gets kicked out, [index funds](/index-fund/) sell it, the stock falls, and the market forgets about it. NIXT bets that investors are overreacting and the stock will bounce back. It is a contrarian play on index-driven forced selling.*
 
 <aside class="wiki-infobox">
 <table>
@@ -50,19 +50,19 @@ But deletions also signal real trouble. A company might be deleted because it is
 
 NIXT's holdings tilt toward small and mid-cap companies. Big companies rarely get deleted—they have to really fall apart to drop out of the S&P 500. Small companies get deleted more often and for simpler reasons: they grew too large and got deleted because they crossed a threshold, or they shrank and fell below the minimum. Smaller companies are also harder for investors to track and easier to misprice.
 
-Because of this size bias, NIXT swings more than the overall stock market. You are getting exposure to smaller, less-covered companies. That means higher volatility.
+Because of this size bias, NIXT swings more than the overall [stock market](/stock-market/). You are getting exposure to smaller, less-covered companies. That means higher volatility.
 
-The fund also trades its holdings frequently as new deletions come in and old positions age out of the strategy. This turnover costs money. Every time the fund buys and sells, there are fees and spreads. Your expense ratio covers these costs, so you pay for the turnover whether the strategy makes money or not.
+The fund also trades its holdings frequently as new deletions come in and old positions age out of the strategy. This turnover costs money. Every time the fund buys and sells, there are fees and spreads. Your [expense ratio](/expense-ratio/) covers these costs, so you pay for the turnover whether the strategy makes money or not.
 
 ## Costs and trading the fund
 
-The expense ratio is higher than a plain index fund but reasonable for a specialized strategy. NIXT trades on major exchanges. The trading volume is modest compared to mega-cap ETFs, so bid-ask spreads are wider. You will pay more to buy or sell than you would in a mega-cap fund.
+The expense ratio is higher than a plain index fund but reasonable for a specialized strategy. NIXT trades on major exchanges. The trading volume is modest compared to mega-cap ETFs, so [bid-ask spreads](/bid-ask-spread/) are wider. You will pay more to buy or sell than you would in a mega-cap fund.
 
 ## Who should own NIXT
 
 Own it if you believe index-driven selling creates real mispricings. Own it if you are willing to hold smaller, less-covered stocks and accept higher volatility. Own it if you think the market's reaction to index deletions is irrational and that a systematic approach to buying the rejected will work over time.
 
-Do not own it if you want broad diversification or if you need your portfolio to be stable. Do not own it if you are uncomfortable with the idea that you will sometimes buy genuinely troubled companies that do not recover. Do not own it as a core holding; it works best as a small, tactical satellite position.
+Do not own it if you want broad [diversification](/diversification/) or if you need your portfolio to be stable. Do not own it if you are uncomfortable with the idea that you will sometimes buy genuinely troubled companies that do not recover. Do not own it as a core holding; it works best as a small, tactical satellite position.
 
 ## How to think about it
 

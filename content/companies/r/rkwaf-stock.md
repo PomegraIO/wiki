@@ -34,7 +34,7 @@ The business rides the construction cycle directly. When builders are confident 
 
 ## Capital-intensive roots, funded through debt and retained earnings
 
-Rockwool operates factories across Europe, the Americas, and Asia. Manufacturing insulation requires kilns, extrusion equipment, and steady inputs of raw stone, energy, and labor. That infrastructure is expensive to build and slow to change. The company has funded its expansion historically through debt and reinvested profits — classic patterns for industrial manufacturers. Its balance sheet carries debt, which is normal for the sector but means interest costs reduce the cash available for returns to shareholders or expansion into new markets.
+Rockwool operates factories across Europe, the Americas, and Asia. Manufacturing insulation requires kilns, extrusion equipment, and steady inputs of raw stone, energy, and labor. That infrastructure is expensive to build and slow to change. The company has funded its expansion historically through debt and reinvested profits — classic patterns for industrial manufacturers. Its [balance sheet](/balance-sheet/) carries debt, which is normal for the sector but means interest costs reduce the cash available for returns to shareholders or expansion into new markets.
 
 The company has spent consistently on capital expenditure to upgrade plants, improve efficiency, and expand production in growing regions. Stone-wool insulation is not a high-technology product, but modern plants do reduce costs and improve quality. That reinvestment is necessary to stay competitive against other insulation makers and to keep pace with stricter building codes that drive higher insulation demand.
 
@@ -48,7 +48,7 @@ Building codes are shifting toward better thermal performance, which should incr
 
 ## How capital flows and returns
 
-Rockwool generates cash from operations — the difference between revenue and the costs of goods and operations — and then allocates it among three uses: maintenance and growth capital expenditure, debt service, and distributions to shareholders. In strong construction years, cash generation is robust, and the company may raise its dividend or buy back shares. In weak years, cash declines, and the company may cut the dividend or pause buybacks to preserve balance-sheet strength.
+Rockwool generates cash from operations — the difference between revenue and the costs of goods and operations — and then allocates it among three uses: maintenance and growth capital expenditure, debt service, and distributions to shareholders. In strong construction years, cash generation is robust, and the company may raise its [dividend](/dividend/) or buy back shares. In weak years, cash declines, and the company may cut the dividend or pause buybacks to preserve balance-sheet strength.
 
 The company's return on capital is typical for heavy industrials — moderate rather than extraordinary. Stone-wool insulation does not command premium margins the way specialty chemicals or branded consumer products do, so returns are constrained by the underlying economics of bulk manufacturing. That is a structural feature, not a sign of poor management. Investors in Rockwool accept those returns in exchange for a business that is stable, necessary, and anchored to long-term building-code trends.
 
@@ -58,6 +58,6 @@ Rockwool does not carry the debt burden of some industrial peers, but it also do
 
 Start with the company's annual 10-K filing (SEC CIK 0001969729) and pay attention to the geographic breakdown of sales. Europe and North America are the largest markets, and their construction momentum will drive near-term results. Watch the gross-margin trend — improvements signal successful price increases or cost reductions, while compression suggests intense competition or rising input costs. Quarterly earnings calls reveal management commentary on building-permit trends, backlog, and input costs.
 
-Key metrics include return on invested capital (a modest figure in the stone-wool business is not alarming), the debt-to-EBITDA ratio (which shows financial flexibility), and the capital-expenditure intensity (as a percentage of sales). Compare Rockwool's margins to other insulation makers and industrial-materials producers to gauge competitive position. The dividend yield and growth rate reflect management's confidence in cash generation.
+Key metrics include [return on invested capital](/return-on-invested-capital/) (a modest figure in the stone-wool business is not alarming), the [debt-to-EBITDA ratio](/debt-to-ebitda-ratio/) (which shows financial flexibility), and the capital-expenditure intensity (as a percentage of sales). Compare Rockwool's margins to other insulation makers and industrial-materials producers to gauge competitive position. The [dividend yield](/dividend-yield/) and growth rate reflect management's confidence in cash generation.
 
 Because Rockwool is a cyclical industrial, its share price will swing with construction sentiment. Understanding that cycle — building permits, mortgage rates, developer confidence — helps explain valuation swings independent of the company's operations.

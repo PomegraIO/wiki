@@ -13,7 +13,7 @@ handwritten: true
 
 Lennar builds houses and sells them to people who want to live in them. That is the core business, and it is straightforward: Lennar acquires land, secures local permits, builds homes, and sells them to buyers, mostly through its own sales force. A typical Lennar home sells for anything from $300,000 to $1 million or more, depending on the region and the market. The company is one of the largest homebuilders in the United States by number of homes delivered each year. It also owns mortgage and title companies — Lennar Financial Services and Home Equity Insurance — which lend money to buyers and insure titles. These financial services are not separate businesses; they exist to make it easier for Lennar's own customers to buy and finance the homes Lennar builds.
 
-What is shifting for Lennar right now is the mismatch between the homes it builds and what buyers can actually afford. Rising interest rates and housing prices have put homeownership out of reach for millions of Americans, and Lennar's sales have felt that squeeze.
+What is shifting for Lennar right now is the mismatch between the homes it builds and what buyers can actually afford. Rising [interest rates](/interest-rate/) and housing prices have put homeownership out of reach for millions of Americans, and Lennar's sales have felt that squeeze.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,7 +33,7 @@ A homebuilder's job is to buy land, navigate the local zoning and permitting pro
 
 Lennar operates on a regional basis, with divisions in every major metropolitan area. Each division decides which markets to enter, which pieces of land to buy, what kind of homes to build, and at what price to target. This local autonomy matters because housing markets are incredibly local — a neighborhood in Denver does not compete with a neighborhood in Tampa. A division manager in Phoenix needs to understand Phoenix, not follow orders from Miami. Lennar's structure gives them that freedom.
 
-The other thing you need to know is that most Lennar customers do not pay cash. They get a mortgage — a loan from a bank or Lennar Financial Services — to finance the purchase. Interest rates on that mortgage matter enormously to whether the buyer can afford the house. When the Federal Reserve raises interest rates, the monthly payment on a $400,000 mortgage jumps. When rates come down, payment drops and suddenly many more people can afford to buy. Lennar does not control interest rates, but it lives and dies by them.
+The other thing you need to know is that most Lennar customers do not pay cash. They get a mortgage — a loan from a bank or Lennar Financial Services — to finance the purchase. Interest rates on that mortgage matter enormously to whether the buyer can afford the house. When the [Federal Reserve](/federal-reserve/) raises interest rates, the monthly payment on a $400,000 mortgage jumps. When rates come down, payment drops and suddenly many more people can afford to buy. Lennar does not control interest rates, but it lives and dies by them.
 
 ## The permitting bottleneck
 
@@ -57,7 +57,7 @@ Lennar's title-insurance business is similar. Title insurance protects the buyer
 
 Lennar's profitability also depends on how much it pays construction workers, and construction is labor-intensive. Home building is one of the few U.S. industries where a significant share of the workforce is undocumented or relies on contractor networks vulnerable to immigration enforcement. Starting in 2016 and accelerating after 2020, construction-labor costs rose sharply — partly from wage pressures, partly from immigration enforcement that reduced available labor. Lennar has raised home prices to absorb higher labor costs, but there are limits. Pay too much and the buyer cannot afford it.
 
-Materials like lumber and steel also spiked post-pandemic. Lumber prices, for instance, roughly doubled from 2020 to 2022. Lennar's cost of goods sold includes all of this. Some of the cost inflation has reversed, but labor costs have not, and energy costs remain elevated.
+Materials like lumber and steel also spiked post-pandemic. Lumber prices, for instance, roughly doubled from 2020 to 2022. Lennar's cost of goods sold includes all of this. Some of the cost [inflation](/inflation/) has reversed, but labor costs have not, and energy costs remain elevated.
 
 ## How to research Lennar
 
@@ -65,4 +65,4 @@ Start with the 10-K (SEC CIK 0000920760) to understand the backlog of homes orde
 
 Pay attention to interest rates and housing-affordability indices. When 30-year mortgage rates are above 7%, fewer buyers can afford to buy, and Lennar's sales will slow. When rates drop, demand bounces back fast. Watch local home-price trends and permit data in the markets where Lennar is most active — Phoenix, Las Vegas, Miami, Jacksonville, Texas — because those regional trends move faster than national housing data.
 
-The company's operating margin — profit as a percentage of revenue — tells you whether the builder is pricing homes above its cost or is getting squeezed. In years of strong demand and rising prices, margins expand. In years of weak demand or rising costs, margins compress. Track that trend along with the gross margin in homebuilding (the profit per home delivered, before operating expenses). As with all cyclical businesses, Lennar is inexpensive when the industry is pessimistic and expensive when it is euphoric, and the best returns often come from buying when the situation looks worst.
+The company's [operating margin](/operating-margin/) — profit as a percentage of revenue — tells you whether the builder is pricing homes above its cost or is getting squeezed. In years of strong demand and rising prices, margins expand. In years of weak demand or rising costs, margins compress. Track that trend along with the gross margin in homebuilding (the profit per home delivered, before operating expenses). As with all cyclical businesses, Lennar is inexpensive when the industry is pessimistic and expensive when it is euphoric, and the best returns often come from buying when the situation looks worst.

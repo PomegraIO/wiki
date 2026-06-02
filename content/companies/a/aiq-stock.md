@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Global X Artificial Intelligence & Technology ETF** (ticker AIQ) is a passive index fund that holds companies across the artificial intelligence ecosystem: software makers, chip designers, cloud platforms, data firms, and hardware specialists—every publicly traded company whose business depends on AI technology.*
+*The **Global X Artificial Intelligence & Technology ETF** (ticker AIQ) is a passive [index fund](/index-fund/) that holds companies across the artificial intelligence ecosystem: software makers, chip designers, cloud platforms, data firms, and hardware specialists—every publicly traded company whose business depends on AI technology.*
 
 ## What exactly is in this fund?
 
@@ -22,9 +22,9 @@ The index is capitalization-weighted, so larger companies carry more weight than
 
 ## Why choose a passive approach to an emerging theme?
 
-Passive indexing offers two things: simplicity and cost. AIQ's expense ratio is typically a fraction of what an actively managed AI fund would charge. You get instant exposure to the entire AI ecosystem as the index constructor defines it, without paying anyone to pick stocks. You own the breadth, not one manager's bet on which companies will win.
+Passive indexing offers two things: simplicity and cost. AIQ's [expense ratio](/expense-ratio/) is typically a fraction of what an actively managed AI fund would charge. You get instant exposure to the entire AI ecosystem as the index constructor defines it, without paying anyone to pick stocks. You own the breadth, not one manager's bet on which companies will win.
 
-The weakness is that you also own the entire defined universe, including companies the index constructor included at the wrong moment, plays that are overvalued, and segments that turn out not to matter. A passive fund can do nothing about concentration risk within the theme. If the index bunches its holdings in software and neglects hardware, or if it overweights the largest companies, you get what the index gives you.
+The weakness is that you also own the entire defined universe, including companies the index constructor included at the wrong moment, plays that are overvalued, and segments that turn out not to matter. A passive fund can do nothing about [concentration risk](/concentration-risk/) within the theme. If the index bunches its holdings in software and neglects hardware, or if it overweights the largest companies, you get what the index gives you.
 
 Over long periods in mature markets, passive funds typically beat active ones after fees. But AI is young and fast-moving. Whether passive or active selection proves better depends entirely on whether the AI market becomes efficient (passive wins) or whether genuine edges exist in picking winners (active could win if done skillfully).
 
@@ -38,7 +38,7 @@ Within the AI theme itself, the fund's exact holdings shift with index rebalanci
 
 ## How liquid is AIQ and what does it cost?
 
-AIQ trades on a major exchange, so you can buy or sell anytime the market is open. The fund maintains reasonable trading volume, which keeps bid-ask spreads (the gap between buy and sell prices) tight. The fund's net asset value is published continuously during market hours, and because it tracks a published index, tracking error (the difference between the fund's return and the index's return) is usually small.
+AIQ trades on a major exchange, so you can buy or sell anytime the market is open. The fund maintains reasonable trading volume, which keeps [bid-ask spreads](/bid-ask-spread/) (the gap between buy and sell prices) tight. The fund's [net asset value](/net-asset-value/) is published continuously during market hours, and because it tracks a published index, tracking error (the difference between the fund's return and the index's return) is usually small.
 
 The expense ratio is the main cost. Beyond that, there are no sales loads, and you pay ordinary trading costs if you buy or sell the shares on the exchange.
 

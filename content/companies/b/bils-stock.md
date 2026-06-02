@@ -11,17 +11,17 @@ keywords:
 handwritten: true
 ---
 
-*The **State Street SPDR Bloomberg 3-12 Month T-Bill ETF** (ticker BILS) is the mid-point between pure cash and longer bonds. It holds US Treasury bills and shorter-dated notes that mature within three to twelve months — a sweet spot that captures better yields than the ultra-short BIL (one-to-three-month bills) while avoiding the meaningful duration risk that kicks in beyond a year. For investors seeking a liquid Treasury vehicle with modest income potential and virtually no credit risk, BILS sits at the pivot.*
+*The **[State Street](/stt-stock/) SPDR Bloomberg 3-12 Month T-Bill ETF** (ticker BILS) is the mid-point between pure cash and longer [bonds](/bond/). It holds US [Treasury bills](/treasury-bill/) and shorter-dated notes that mature within three to twelve months — a sweet spot that captures better yields than the ultra-short BIL (one-to-three-month bills) while avoiding the meaningful duration risk that kicks in beyond a year. For investors seeking a liquid Treasury vehicle with modest income potential and virtually no [credit risk](/credit-risk/), BILS sits at the pivot.*
 
 ## The mechanics
 
 The fund rolls Treasury bills within the three-to-twelve-month window. As holdings mature, they are replaced with new bills further out on the curve, keeping the portfolio in the target maturity band. Holdings are actual Treasuries, not derivatives or synthetics — government debt, nothing more.
 
-Share prices move slightly as interest accrues. NAV updates daily. Distributions are paid daily and typically reinvested automatically by brokers. The effect is silent compounding — you do not see the daily drips, only the growing balance.
+Share prices move slightly as interest accrues. NAV updates daily. Distributions are paid daily and typically reinvested automatically by [brokers](/broker/). The effect is silent compounding — you do not see the daily drips, only the growing balance.
 
 ## Yield and the curve
 
-BILS captures the yield spread between one-to-three-month Treasuries and three-to-twelve-month Treasuries. In a normal upward-sloping yield curve (longer maturities paying more), BILS yields more than BIL. The difference varies — sometimes a percentage point or more, sometimes a few basis points — depending on the curve's shape and level.
+BILS captures the yield spread between one-to-three-month Treasuries and three-to-twelve-month Treasuries. In a normal upward-sloping [yield curve](/yield-curve/) (longer maturities paying more), BILS yields more than BIL. The difference varies — sometimes a percentage point or more, sometimes a few basis points — depending on the curve's shape and level.
 
 When the Fed is in a hiking cycle, three-to-twelve-month yields rise rapidly. BILS benefits as its portfolio rolls into higher-yielding bills. When cuts are underway, yields fall, and BILS's yield compresses. Buy timing matters. Buy on the eve of cuts, and you lock in a yield that will shrink shortly. Buy on the heels of cuts, and you are entering a lower-yield environment.
 
@@ -35,7 +35,7 @@ The yield-curve shape also matters. In a steep curve (short rates low, longer ra
 
 ## Trading and costs
 
-BILS trades on US exchanges with tight spreads. Volume is sufficient for retail investors. The expense ratio is minimal — a handful of basis points at most. Currency risk: none, assuming you are a US-based investor and account is in dollars.
+BILS trades on US exchanges with tight spreads. Volume is sufficient for retail investors. The [expense ratio](/expense-ratio/) is minimal — a handful of basis points at most. [Currency risk](/currency-risk/): none, assuming you are a US-based investor and account is in dollars.
 
 Distributions are taxed as ordinary income for federal purposes. Treasury interest is exempt from state and local income tax, a feature shared with BIL and all Treasury-holding funds. Tax-advantaged accounts (IRAs, 401ks) eliminate tax considerations; the fund's efficiency does not matter in those wrappers.
 
@@ -49,7 +49,7 @@ BILS is a better choice than BIL if:
 
 BILS is worse than BIL if:
 
-- You need liquid, rock-stable value (a true emergency fund in a brokerage account).
+- You need liquid, rock-stable value (a true [emergency fund](/emergency-fund/) in a brokerage account).
 - Rates are about to rise sharply (your share price will take a hit).
 - You are comparing BILS to BIL in an inverted-curve environment where short bills actually yield more.
 
@@ -61,13 +61,13 @@ Compare BILS to:
 
 **Money-market funds**: Traditional money-market funds hold similar short-term debt but fix the share price at $1 and hide the daily accrual. BILS is more transparent — rates are visible in the share price. Both are very safe; BILS is slightly more liquid and easier to trade.
 
-**Treasury ETFs with longer duration**: A fund holding one-to-five-year Treasuries yields even more but has meaningfully more interest-rate risk. BILS is the sweet spot between stability and yield.
+**Treasury ETFs with longer duration**: A fund holding one-to-five-year Treasuries yields even more but has meaningfully more [interest-rate risk](/interest-rate-risk/). BILS is the sweet spot between stability and yield.
 
 **Savings accounts or CDs**: BILS captures Treasury yields (often higher) in exchange for needing a brokerage account. Convenience versus return — a real trade.
 
 ## Research checklist
 
-- Current yield on BILS vs. BIL. What is the curve slope telling you?
+- [Current yield](/current-yield/) on BILS vs. BIL. What is the curve slope telling you?
 - Historical performance in rising-rate and falling-rate environments. How much has the share price moved?
 - Your time horizon. Can you afford to hold three months? A year?
 - Tax treatment. Are you in a taxable or tax-advantaged account? For taxable, BILS's Treasury status (state-tax-exempt) is a genuine edge over other money-market vehicles.

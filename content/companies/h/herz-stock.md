@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Herzfeld Credit Income Fund is a closed-end mutual fund that invests primarily in corporate credit instruments, with a mandate to generate current income and long-term capital appreciation. The fund pools investor capital to build a diversified portfolio of bonds, secured and unsecured corporate debt, and other fixed-income securities, operating under a permanent capital structure that sets it apart from [open-end funds](/open-end-fund/). It trades on the NASDAQ under the ticker HERZ.
+Herzfeld Credit [Income Fund](/income-fund/) is a closed-end [mutual fund](/mutual-fund/) that invests primarily in corporate credit instruments, with a mandate to generate current income and long-term capital appreciation. The fund pools investor capital to build a diversified portfolio of [bonds](/bond/), secured and unsecured corporate debt, and other fixed-income securities, operating under a permanent capital structure that sets it apart from [open-end funds](/open-end-fund/). It trades on the [NASDAQ](/nasdaq/) under the ticker HERZ.
 
 ## What a closed-end credit fund actually does
 

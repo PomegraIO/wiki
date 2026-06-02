@@ -13,7 +13,7 @@ handwritten: true
 
 > *Not all stock strategies work equally in all markets. AUSF rotates between them automatically.*
 
-*The **Global X Adaptive U.S. Factor ETF** (ticker AUSF) is an ETF that selects and weights U.S. large-cap stocks based on a dynamic algorithm that tilts toward value, growth, or momentum depending on which factors are historically most attractive given recent market conditions.*
+*The **Global X Adaptive U.S. [Factor ETF](/factor-etf/)** (ticker AUSF) is an ETF that selects and weights U.S. large-cap stocks based on a dynamic algorithm that tilts toward value, growth, or momentum depending on which factors are historically most attractive given recent market conditions.*
 
 <aside class="wiki-infobox">
 
@@ -38,7 +38,7 @@ handwritten: true
 
 ## What factor investing means
 
-At its core, factor investing is the idea that stock returns are not random. Academic research has identified patterns — called factors — that correlate with long-term outperformance. The most widely studied are value (cheap stocks), growth (rising earnings), quality (profitable, stable firms), momentum (stocks trending upward), and low volatility (less-wild price swings). Funds that systematically overweight a single factor are called factor funds; they aim to capture the return premium associated with that factor over time.
+At its core, [factor investing](/factor-investing/) is the idea that stock returns are not random. Academic research has identified patterns — called factors — that correlate with long-term outperformance. The most widely studied are value (cheap stocks), growth (rising [earnings), quality](/earnings-quality/) (profitable, stable firms), momentum (stocks trending upward), and low volatility (less-wild price swings). Funds that systematically overweight a single factor are called factor funds; they aim to capture the return premium associated with that factor over time.
 
 The question AUSF answers is: which factor should you overweight now? Rather than committing to one factor for years, AUSF uses an algorithm to score how attractive each factor is based on recent market history — valuations, trend strength, economic data. The fund then tiltsto the factor or factors that the model deems most likely to outperform in the coming months. When the market regimes shift, so does the tilt.
 
@@ -52,7 +52,7 @@ The fund rebalances monthly or quarterly, depending on how much the signals have
 
 The appeal is obvious: capture value premiums when value is cheap, pivot to growth when growth is accelerating, harvest momentum when it is strong. In practice, several things go wrong.
 
-First, factor performance is cyclical but not predictable with precision. A model can be right about the direction of the tilt and still be early or late, missing the best part of the rally or catching the tail end of a reversal. Second, the factors themselves are correlated; in some market regimes, rotation signals conflict (value cheap but momentum weak), forcing the algorithm to choose. Third, rebalancing has costs. Turning over the portfolio every quarter means trading commissions, bid-ask spreads, and tax drag that reduce the net benefit of the tilt.
+First, factor performance is cyclical but not predictable with precision. A model can be right about the direction of the tilt and still be early or late, missing the best part of the rally or catching the tail end of a reversal. Second, the factors themselves are correlated; in some market regimes, rotation signals conflict (value cheap but momentum weak), forcing the algorithm to choose. Third, rebalancing has costs. Turning over the portfolio every quarter means trading commissions, [bid-ask spreads](/bid-ask-spread/), and tax drag that reduce the net benefit of the tilt.
 
 Empirical evidence suggests that simple, passive factor tilts (hold one factor for years) often outperform complex dynamic allocation models because the latter's costs and missteps erode gains. Yet some investors believe that a disciplined, systematic approach can capture regime shifts often enough to justify the costs.
 
@@ -70,6 +70,6 @@ The real cost is opportunity: in a market where a single factor outperforms dram
 
 ## How to research AUSF
 
-Start with Global X's fact sheet and documentation of the algorithm. Ask explicitly: what metrics drive the tilt, how often does the fund rebalance, and what are the typical turnover and cost breakdown? Look at the fund's returns versus a passive blend of value and growth funds over rolling three- and five-year periods. Check whether AUSF's composition right now makes sense given current valuation levels and economic conditions — if the fund is 80% growth-tilted when growth valuations are near all-time highs, that is a red flag or a bold call depending on your view.
+Start with Global X's fact sheet and documentation of the algorithm. Ask explicitly: what metrics drive the tilt, how often does the fund rebalance, and what are the typical turnover and cost breakdown? Look at the fund's returns versus a passive blend of value and [growth funds](/growth-fund/) over rolling three- and five-year periods. Check whether AUSF's composition right now makes sense given current valuation levels and economic conditions — if the fund is 80% growth-tilted when growth valuations are near all-time highs, that is a red flag or a bold call depending on your view.
 
 Finally, consider the simpler alternative: a passive core holding in a broad U.S. stock fund with a smaller satellite position in a single factor the investor believes in right now. That approach gives up the automated rebalancing but often costs less and imposes fewer surprises.

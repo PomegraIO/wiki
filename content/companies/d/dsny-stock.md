@@ -49,7 +49,7 @@ Destiny Media's value extends beyond basic distribution; the platform offers pro
 
 ## Regulatory and Licensing Risks
 
-The music industry involves complex licensing, copyright, and [royalty management](/rmco-stock/). Destiny Media must ensure compliance with multiple distribution partners' requirements and various territorial music licensing rules. A competitor entering the market faces similar regulatory complexity, which creates a modest moat. However, the regulatory barriers are not proprietary to Destiny Media; any competent operator can navigate them given sufficient resources and time.
+The music industry involves complex licensing, copyright, and royalty management. Destiny Media must ensure compliance with multiple distribution partners' requirements and various territorial music licensing rules. A competitor entering the market faces similar regulatory complexity, which creates a modest moat. However, the regulatory barriers are not proprietary to Destiny Media; any competent operator can navigate them given sufficient resources and time.
 
 ## Vulnerability to Consolidation
 

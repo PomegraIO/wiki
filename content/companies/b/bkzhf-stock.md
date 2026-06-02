@@ -4,7 +4,7 @@ description: "Polish banking subsidiary of Banco Santander serving individuals a
 keywords: [banking, Poland, Santander, retail-banking, commercial-banking, financial-services, emerging-markets]
 ---
 
-*The **Santander Bank Polska SA/ADR (BKZHF)** operates as the Polish retail and commercial banking arm of Spain's [Banco Santander](/san-stock/), anchored in a European market recovering from post-pandemic economic pressures and navigating rising [interest rates](/interest-rate/). While the parent company maintains global scale and [diversification](/diversification/), Santander Bank Polska is fundamentally a regional competitor shaped by Poland's particular credit landscape, regulatory environment, and macroeconomic cycles.*
+*The **[Santander Bank Polska SA/ADR](/bkzhy-stock/) (BKZHF)** operates as the Polish retail and commercial banking arm of Spain's [Banco Santander](/san-stock/), anchored in a European market recovering from post-pandemic economic pressures and navigating rising [interest rates](/interest-rate/). While the parent company maintains global scale and [diversification](/diversification/), Santander Bank Polska is fundamentally a regional competitor shaped by Poland's particular credit landscape, regulatory environment, and macroeconomic cycles.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>BKZHF</td></tr>
@@ -37,7 +37,7 @@ Retail deposits are Santander Bank Polska's most stable funding source, and the 
 
 ## Regulatory and Macroeconomic Context
 
-Santander Bank Polska operates under Polish banking regulation (administered by the Financial Supervision Authority) and European regulatory frameworks (including [Basel III](/basel-iii/) capital rules and the Capital Requirements Regulation). These rules constrain leverage and require minimum capital ratios that Santander Bank Polska must maintain. Polish interest rates and inflation are set by the [National Bank](/nbhc-stock/) of Poland; the bank is thus exposed to [monetary policy](/monetary-policy/) shifts. In 2024–2025, Poland navigated elevated inflation and the prospect of rate cuts, which could compress margins again after the widening period of 2022–2024. Additionally, the zloty's exchange rate against the euro and dollar affects reported results when converted to parent-company financials.
+Santander Bank Polska operates under Polish banking regulation (administered by the Financial Supervision Authority) and European regulatory frameworks (including [Basel III](/basel-iii/) capital rules and the Capital Requirements Regulation). These rules constrain leverage and require minimum capital ratios that Santander Bank Polska must maintain. Polish interest rates and inflation are set by the National Bank of Poland; the bank is thus exposed to [monetary policy](/monetary-policy/) shifts. In 2024–2025, Poland navigated elevated inflation and the prospect of rate cuts, which could compress margins again after the widening period of 2022–2024. Additionally, the zloty's exchange rate against the euro and dollar affects reported results when converted to parent-company financials.
 
 ## Research Path
 

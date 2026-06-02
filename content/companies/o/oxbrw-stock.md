@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-OXBRIDGE RE HOLDINGS is an insurance company that insures other insurance companies. That is, it is a reinsurer. When a homeowner's insurance company gets hit with thousands of claims from a hurricane, it can turn to a reinsurer like OXBRIDGE to share the losses. The reinsurer takes on part of the risk, collects a premium for doing so, and hopes that claims turn out smaller than the premium it collected.
+[OXBRIDGE RE](/oxbr-stock/) HOLDINGS is an insurance company that insures other insurance companies. That is, it is a reinsurer. When a [homeowner's insurance](/homeowners-insurance/) company gets hit with thousands of claims from a hurricane, it can turn to a reinsurer like OXBRIDGE to share the losses. The reinsurer takes on part of the risk, collects a premium for doing so, and hopes that claims turn out smaller than the premium it collected.
 
 <aside class="wiki-infobox">
 <table>
@@ -55,7 +55,7 @@ Reinsurers must hold capital — financial reserves — to absorb losses. If OXB
 
 The capital requirement is the main constraint on how much business a reinsurer can write. To grow, a reinsurer must raise additional capital, typically by issuing equity or debt. OXBRIDGE, as a smaller reinsurer, may find it difficult and expensive to raise capital compared to larger, better-known competitors.
 
-Reinsurers also use leverage strategically. They borrow money, invest it in high-yielding assets, and hope the returns exceed the cost of borrowing. This works during periods of low interest rates and stable investment markets; it fails when markets decline or rates rise.
+Reinsurers also use leverage strategically. They borrow money, invest it in high-yielding assets, and hope the returns exceed the cost of borrowing. This works during periods of low [interest rates](/interest-rate/) and stable investment markets; it fails when markets decline or rates rise.
 
 ## Uncertainty and natural catastrophes
 
@@ -67,7 +67,7 @@ These risks are not theoretical. In bad years, reinsurers have failed or require
 
 ## Market and competitive dynamics
 
-The reinsurance market is segmented by tier. The largest, most-capitalized reinsurers like Swiss Re, Munich Re, and Berkshire Hathaway have pricing power and can take on enormous exposures. Smaller reinsurers like OXBRIDGE compete by specializing in niches where bigger competitors do not or by offering better terms and service on particular segments.
+The reinsurance market is segmented by tier. The largest, most-capitalized reinsurers like Swiss Re, Munich Re, and [Berkshire Hathaway](/brk-b-stock/) have pricing power and can take on enormous exposures. Smaller reinsurers like OXBRIDGE compete by specializing in niches where bigger competitors do not or by offering better terms and service on particular segments.
 
 The market is also cyclical. After a catastrophic year with large losses, reinsurance premiums spike because capacity is reduced and buyers are desperate. Prices stay high until capital returns to the market, competition increases, and premiums fall again. This cycle repeats.
 

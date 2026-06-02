@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*PG&E Corporation is the holding company of Pacific Gas and Electric Company, the utility that delivers electricity and natural gas to roughly 16 million residents across California's Bay Area and Central Valley. As a regulated monopoly operating in one of the world's wealthiest regions, it is ordinarily a predictable, dividend-paying business—except that California's changing climate has introduced a risk that threatens the entire enterprise: the company's power lines ignite some of the state's largest and most destructive wildfires.*
+*PG&E Corporation is the holding company of Pacific Gas and Electric Company, the utility that delivers electricity and [natural gas](/natural-gas/) to roughly 16 million residents across California's Bay Area and Central Valley. As a regulated monopoly operating in one of the world's wealthiest regions, it is ordinarily a predictable, dividend-paying business—except that California's changing climate has introduced a risk that threatens the entire enterprise: the company's power lines ignite some of the state's largest and most destructive wildfires.*
 
 <aside class="wiki-infobox">
 <table>
@@ -25,7 +25,7 @@ handwritten: true
 </table>
 </aside>
 
-PG&E is the second-largest investor-owned utility in the United States by revenue and the largest by customer count. It is a natural monopoly—there is only one set of power and gas lines serving a given territory—and so it operates under strict regulatory oversight. The California Public Utilities Commission sets the rates PG&E can charge and the return on equity it earns, which in practice has meant a stable, predictable utility business for shareholders: steady cash flow, modest but reliable dividend growth, and the kind of inflation-hedging characteristics that pension funds and conservative portfolios value.
+PG&E is the second-largest investor-owned utility in the United States by revenue and the largest by customer count. It is a natural monopoly—there is only one set of power and gas lines serving a given territory—and so it operates under strict regulatory oversight. The California Public Utilities Commission sets the rates PG&E can charge and the [return on equity](/return-on-equity/) it earns, which in practice has meant a stable, predictable utility business for shareholders: steady cash flow, modest but reliable [dividend](/dividend/) growth, and the kind of inflation-hedging characteristics that pension funds and conservative portfolios value.
 
 But beginning around 2017, the nature of PG&E's business changed. The company's transmission and distribution lines ignited some of California's most destructive wildfires. In 2018, the Camp Fire—the deadliest wildfire in California history—burned over 150,000 acres and killed 85 people, and PG&E's equipment was found to be the ignition source. In subsequent years, power lines owned or operated by the utility were again found responsible for major fires, including the 2019 Kincade Fire and the 2020 North Complex Fire. These are not edge cases in California's fire ecology anymore—they are regular occurrences, and the company's liability is staggering.
 

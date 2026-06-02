@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-BeOne Medicines is a biopharmaceutical company in the business of discovering and developing small-molecule drugs, primarily for cancer and related diseases. Like most early-stage biotech firms, BeOne burns cash while its scientists run clinical trials and seek regulatory approval for candidate drugs. The company has no revenue from marketed products; instead, its value rests on the promise that one or more of its development programs will reach patients and repay the years of investment required to get there.
+[BeOne Medicines](/onc-stock/) is a biopharmaceutical company in the business of discovering and developing small-molecule drugs, primarily for cancer and related diseases. Like most early-stage biotech firms, BeOne burns cash while its scientists run clinical trials and seek regulatory approval for candidate drugs. The company has no revenue from marketed products; instead, its value rests on the promise that one or more of its development programs will reach patients and repay the years of investment required to get there.
 
 <aside class="wiki-infobox">
 <table>

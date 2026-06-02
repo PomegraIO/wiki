@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-*A **dynamic bond fund** is a fund that holds bonds (debt issued by governments or companies) but does not lock itself into a fixed portfolio. Instead, it adjusts how much risk it takes and what types of bonds it holds based on market conditions and the fund manager's view of where interest rates are heading. CMBO does this with U.S. government and corporate bonds, shifting its bets as conditions change.*
+*A **dynamic [bond](/bond/) fund** is a fund that holds bonds (debt issued by governments or companies) but does not lock itself into a fixed portfolio. Instead, it adjusts how much risk it takes and what types of bonds it holds based on market conditions and the fund manager's view of where [interest rates](/interest-rate/) are heading. CMBO does this with U.S. government and [corporate bonds](/corporate-bond/), shifting its bets as conditions change.*
 
 ## What it holds and why
 
-CMBO's portfolio is made up of two basic building blocks: U.S. Treasury bonds (debt issued by the federal government) and investment-grade corporate bonds (debt issued by large, financially stable companies). The fund does not buy junk bonds or international debt. It sticks to the safest corner of the bond market.
+CMBO's portfolio is made up of two basic building blocks: U.S. [Treasury bonds](/treasury-bond/) (debt issued by the federal government) and investment-grade corporate bonds (debt issued by large, financially stable companies). The fund does not buy [junk bonds](/junk-bond/) or international debt. It sticks to the safest corner of the bond market.
 
-But here is the key difference from a plain bond index fund: CMBO's manager (or the fund's stated methodology, depending on how it is structured) adjusts how much of the portfolio sits in Treasuries versus corporates, and how long-dated the bonds are, based on where interest rates are likely to go. If rates are expected to fall, the fund leans toward longer-dated bonds (which rise more when rates drop). If rates are expected to climb, the fund shortens up — buying bonds that mature sooner, so the damage from rising rates is smaller. This flexibility is the "dynamic" part.
+But here is the key difference from a plain bond [index fund](/index-fund/): CMBO's manager (or the fund's stated methodology, depending on how it is structured) adjusts how much of the portfolio sits in Treasuries versus corporates, and how long-dated the bonds are, based on where interest rates are likely to go. If rates are expected to fall, the fund leans toward longer-dated bonds (which rise more when rates drop). If rates are expected to climb, the fund shortens up — buying bonds that mature sooner, so the damage from rising rates is smaller. This flexibility is the "dynamic" part.
 
 ## How interest rates affect the fund
 
@@ -27,15 +27,15 @@ CMBO's job is to make these shifts before the market does, catching the wave of 
 
 ## The structure: actively managed or rules-based
 
-CMBO is structured as an active ETF, meaning a professional manager (or team) makes the calls on where to position the fund based on their view of the economy and the interest-rate outlook. This is different from an index bond ETF, which simply holds all the bonds in a fixed index in fixed weights and rebalances mechanically. An active manager has discretion and takes bets.
+CMBO is structured as an [active ETF](/active-etf/), meaning a professional manager (or team) makes the calls on where to position the fund based on their view of the economy and the interest-rate outlook. This is different from an index [bond ETF](/bond-etf/), which simply holds all the bonds in a fixed index in fixed weights and rebalances mechanically. An active manager has discretion and takes bets.
 
 This means CMBO's performance depends on the skill of the manager. If the manager consistently reads interest-rate trends correctly, the fund wins. If not, it merely charges higher fees than an index fund and underperforms for it.
 
 ## Costs and liquidity
 
-CMBO trades as an exchange-traded fund on a stock exchange, so you can buy and sell shares intraday at market prices rather than waiting for end-of-day pricing. This is more convenient than a traditional mutual fund. The expense ratio covers the cost of the active management team and the fund's operations. Because active management costs more than passive indexing, CMBO's fee is higher than a Treasury index ETF would charge.
+CMBO trades as an exchange-traded fund on a [stock exchange](/stock-exchange/), so you can buy and sell shares intraday at market prices rather than waiting for end-of-day pricing. This is more convenient than a traditional [mutual fund](/mutual-fund/). The [expense ratio](/expense-ratio/) covers the cost of the active management team and the fund's operations. Because active management costs more than passive indexing, CMBO's fee is higher than a Treasury index ETF would charge.
 
-The fund should have good liquidity on the exchange, meaning the bid-ask spread (the gap between the buy and sell prices at any moment) should be tight enough that you do not lose much money getting in or out.
+The fund should have good liquidity on the exchange, meaning the [bid-ask spread](/bid-ask-spread/) (the gap between the buy and sell prices at any moment) should be tight enough that you do not lose much money getting in or out.
 
 ## The real risks
 
@@ -55,4 +55,4 @@ It is not suitable for investors who simply want the lowest-cost, most passive b
 
 Read the fund's prospectus carefully. It should spell out the manager's philosophy for adjusting duration (how long-dated the bonds are) and the corporate-to-Treasury split. Check the fund's fact sheet for its current holdings, duration, and credit-quality profile. Compare CMBO's returns over the past three to five years to a simple Treasury index ETF and a static corporate-bond index ETF. If CMBO has not meaningfully outperformed after fees, the active bet is not paying off.
 
-Also track the fund's annual reports and the manager's commentary to understand what bets are being made and whether they align with your expectations. A fund manager who is clearly thinking about the interest-rate environment and making intentional, explainable shifts is more trustworthy than one making moves that seem reactive or unclear.
+Also track the fund's [annual reports](/10-k/) and the manager's commentary to understand what bets are being made and whether they align with your expectations. A fund manager who is clearly thinking about the interest-rate environment and making intentional, explainable shifts is more trustworthy than one making moves that seem reactive or unclear.

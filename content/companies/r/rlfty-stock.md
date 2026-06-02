@@ -37,7 +37,7 @@ This hybrid model creates complexity. Revenue is lumpy and episodic—a major co
 
 ## Cyclicality through the lens of healthcare spending and innovation adoption
 
-Digital therapeutics are countercyclical to some healthcare spending patterns. During recessions, when health systems and payers face budget pressure, they may accelerate adoption of cost-effective digital solutions to reduce expensive in-person therapy and rehab services. A digital therapeutic that can halve the cost of stroke rehabilitation while maintaining outcomes would be attractive during a belt-tightening period. Conversely, digital therapeutics are also adoption-driven—they succeed or fail based on the pace of innovation adoption in healthcare, which slows in downturns when budget-conscious health systems defer new technology purchases.
+Digital therapeutics are countercyclical to some healthcare spending patterns. During [recessions](/recession/), when health systems and payers face budget pressure, they may accelerate adoption of cost-effective digital solutions to reduce expensive in-person therapy and rehab services. A digital therapeutic that can halve the cost of stroke rehabilitation while maintaining outcomes would be attractive during a belt-tightening period. Conversely, digital therapeutics are also adoption-driven—they succeed or fail based on the pace of innovation adoption in healthcare, which slows in downturns when budget-conscious health systems defer new technology purchases.
 
 The tension is between cost savings (which favor adoption in downturns) and capital availability (which favors adoption in booms). MindMaze will grow if hospitals and payers believe the product is valuable and if they have the budget to experiment. In a deep recession, adoption might slow even though the economic argument for the product strengthens. In a boom, budget availability is high but so is the attention being paid to digital health, which could accelerate adoption.
 
@@ -45,7 +45,7 @@ The company is also subject to the investment cycle of digital health and medica
 
 ## What investors and researchers should track
 
-A reader researching MindMaze Therapeutics should begin with the company's annual report and quarterly earnings releases (SEC CIK 0001854078), which disclose the status of clinical trials, regulatory milestones, reimbursement decisions, and revenue by product and geography. The company will report on the number of patients treated and the geographic mix of revenue, which indicates traction in core markets.
+A reader researching MindMaze Therapeutics should begin with the company's [annual report](/10-k/) and quarterly earnings releases (SEC CIK 0001854078), which disclose the status of clinical trials, regulatory milestones, reimbursement decisions, and revenue by product and geography. The company will report on the number of patients treated and the geographic mix of revenue, which indicates traction in core markets.
 
 Key metrics to follow: the status and results of ongoing clinical trials (positive results accelerate adoption; negative or neutral results delay it), any new reimbursement decisions from major payers (each reimbursement win potentially unlocks significant revenue), regulatory clearances or approvals in new products or geographies, and the trajectory of revenue by product (which products are being adopted and which are stalling). The company's cash position and burn rate matter because clinical development and regulatory approval are capital-intensive.
 

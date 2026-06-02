@@ -28,7 +28,7 @@ Grayscale Solana Staking ETF is an exchange-traded fund that holds Solana tokens
 
 ## Solana and the staking opportunity
 
-Solana is a blockchain network designed for speed and low cost, built on a different architecture than Ethereum. Rather than relying solely on proof-of-work mining (which requires computational brute-force), Solana uses proof-of-stake, a system in which token holders stake their coins to secure the network and validate transactions. In return for staking their tokens and taking on the risk that comes with network operation, stakers earn rewards — freshly minted tokens and transaction fees. For a token holder, staking is an opportunity to earn ongoing income in addition to any price appreciation.
+Solana is a blockchain network designed for speed and low cost, built on a different architecture than [Ethereum](/ethereum/). Rather than relying solely on proof-of-work mining (which requires computational brute-force), Solana uses proof-of-stake, a system in which token holders stake their coins to secure the network and validate transactions. In return for staking their tokens and taking on the risk that comes with network operation, stakers earn rewards — freshly minted tokens and transaction fees. For a token holder, staking is an opportunity to earn ongoing income in addition to any price appreciation.
 
 ## How the fund works
 
@@ -42,7 +42,7 @@ Solana competes with Ethereum and a long list of alternative blockchains by prom
 
 ## Returns, risks, and complications
 
-The total return on GSOL depends on two components: the price movement of Solana tokens and the staking rewards earned. Neither is guaranteed. Solana's price can fall as sharply as it can rise, and staking rewards can fluctuate based on network factors (the total amount staked by all validators, inflation adjustments, and changes to the protocol). Additionally, staking locks tokens for periods and introduces slashing risk — in some proof-of-stake protocols, validators who behave dishonestly can have a portion of their stake destroyed. Solana's slashing rules are relatively lenient, but the risk exists.
+The total return on GSOL depends on two components: the price movement of Solana tokens and the staking rewards earned. Neither is guaranteed. Solana's price can fall as sharply as it can rise, and staking rewards can fluctuate based on network factors (the total amount staked by all validators, [inflation](/inflation/) adjustments, and changes to the protocol). Additionally, staking locks tokens for periods and introduces slashing risk — in some proof-of-stake protocols, validators who behave dishonestly can have a portion of their stake destroyed. Solana's slashing rules are relatively lenient, but the risk exists.
 
 From an investor perspective, the tax treatment of staking rewards can be complex, depending on jurisdiction. The automatic reinvestment of rewards may also create taxable events in countries where deemed income rules apply.
 

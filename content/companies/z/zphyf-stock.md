@@ -22,13 +22,13 @@ For Zephyr, the appeal is simple. Colorado has a known mineral endowment — the
 
 ## The MAP Gold Mine Option
 
-In Zimbabwe, Zephyr holds an option agreement to earn up to an 80 percent interest in the MAP Gold Mine property in Mashonaland Central. The structure is typical for junior explorers: Zephyr can increase its stake by meeting spending commitments and completing certain milestones. Zimbabwe offers exploration potential — the country has substantial gold resources and sits at the southern edge of the African Great Lakes rift, a region prospective for mineralization. However, Zimbabwe also presents sovereign and operational risks that Colorado does not.
+In Zimbabwe, Zephyr holds an option agreement to earn up to an 80 percent interest in the MAP Gold Mine property in Mashonaland Central. The structure is typical for junior explorers: Zephyr can increase its stake by meeting spending commitments and completing certain milestones. Zimbabwe offers exploration potential — the country has substantial gold resources and sits at the southern edge of the African Great Lakes rift, a region prospective for mineralization. However, Zimbabwe also presents sovereign and [operational risks](/operational-risk/) that Colorado does not.
 
 ## The Long Game
 
 Exploration is a venture capital business pretending to be a mining business. The company commits money and time to a play, knowing that most exploration projects will fail to become mines. The few that succeed can repay the losses on many that do not. Zephyr's model therefore relies on finding compelling mineral targets, maintaining control of those properties long enough to explore them meaningfully, and then either hitting a discovery that attracts larger capital or finding a buyer for the rights.
 
-That capital must come from equity investors. Zephyr is pre-revenue — it has no mining operation selling ore and generating cash. Instead, it burns cash on drilling, assays, permitting, and personnel. Existing shareholders fund the company through share issuances, which dilutes their ownership each time. A discovery that proves the property worth exploring would justify higher valuation and make future financing easier. A dry hole, or a property that shows promise but lacks economic significance, means the capital has simply been spent.
+That capital must come from equity investors. Zephyr is pre-revenue — it has no mining operation selling ore and generating cash. Instead, it burns cash on drilling, assays, permitting, and personnel. Existing shareholders fund the company through [share issuances](/share-issuance/), which dilutes their ownership each time. A discovery that proves the property worth exploring would justify higher valuation and make future financing easier. A dry hole, or a property that shows promise but lacks economic significance, means the capital has simply been spent.
 
 ## What Makes It Distinctive
 

@@ -52,7 +52,7 @@ Regulatory compliance is a cost—legal, audit, reporting, remediation if violat
 
 ## Competitive threats and substitution
 
-FGNX's niche exists because large [financial institutions](/fisi-stock/) find it unprofitable or uninteresting to serve that segment. However, if FGNX demonstrates the niche's profitability, larger institutions may enter and out-compete the niche player through scale. Alternatively, fintech or platform-based competitors may emerge, offering lower costs or better user experience. FGNX's long-term viability depends on whether it can scale faster than potential competitors, build sufficient customer lock-in and switching costs that retention is high, and maintain competitive pricing or service advantages.
+FGNX's niche exists because large financial institutions find it unprofitable or uninteresting to serve that segment. However, if FGNX demonstrates the niche's profitability, larger institutions may enter and out-compete the niche player through scale. Alternatively, fintech or platform-based competitors may emerge, offering lower costs or better user experience. FGNX's long-term viability depends on whether it can scale faster than potential competitors, build sufficient customer lock-in and switching costs that retention is high, and maintain competitive pricing or service advantages.
 
 Some niche financial services businesses prove to be durable independent entities, while others are acquired by larger institutions seeking to add capabilities and customer bases. A successful FGNX may either scale to become a meaningful mid-size financial services company, or it may be acquired at a strategic premium by a larger institution seeking exposure to the niche.
 

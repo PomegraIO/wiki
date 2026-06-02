@@ -36,7 +36,7 @@ The risk in this segment is customer concentration and price pressure. Industria
 
 ## Information Technology and Data Storage
 
-NVE also manufactures devices for [data storage](/dtst-stock/) and information-technology applications, particularly spin-valve and magnetoresistive read heads used in hard-disk drives. As the market has shifted toward solid-state storage (SSDs), the hard-disk market has contracted and consolidated. NVE's business in this segment has shriveled — it is no longer a growth area, and the customers (major disk manufacturers) have consolidated to a handful of suppliers.
+NVE also manufactures devices for data storage and information-technology applications, particularly spin-valve and magnetoresistive read heads used in hard-disk drives. As the market has shifted toward solid-state storage (SSDs), the hard-disk market has contracted and consolidated. NVE's business in this segment has shriveled — it is no longer a growth area, and the customers (major disk manufacturers) have consolidated to a handful of suppliers.
 
 This segment is in managed decline. NVE still serves a few niche applications where hard drives remain necessary, but the trajectory is clear: the world is moving to SSDs, and the spintronic read-head market is shrinking. The company has acknowledged this and is not investing heavily in growth here.
 

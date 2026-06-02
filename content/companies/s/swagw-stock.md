@@ -13,7 +13,7 @@ handwritten: true
 
 ### What does Stran actually sell?
 
-Stran & Company is a provider of outsourced marketing services. The company designs and executes marketing campaigns built around promotional products — branded merchandise like t-shirts, hats, pens, and mugs — combined with loyalty programs, trade-show logistics, print collateral, and e-commerce solutions. In other words: a company wants to run a customer acquisition campaign; Stran sources the merchandise, designs it, handles fulfillment, integrates it into the customer's systems, and measures the results. Stran does not make the products; it buys them (mostly from overseas manufacturers) and marks them up, adding design and project management on top.
+[Stran](/swag-stock/) & Company is a provider of outsourced marketing services. The company designs and executes marketing campaigns built around promotional products — branded merchandise like t-shirts, hats, pens, and mugs — combined with loyalty programs, trade-show logistics, print collateral, and e-commerce solutions. In other words: a company wants to run a customer [acquisition](/acquisition/) campaign; Stran sources the merchandise, designs it, handles fulfillment, integrates it into the customer's systems, and measures the results. Stran does not make the products; it buys them (mostly from overseas manufacturers) and marks them up, adding design and project management on top.
 
 ### Who competes with Stran, and where is the actual battle?
 

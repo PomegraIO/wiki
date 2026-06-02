@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Enbridge Inc is one of the world's largest energy infrastructure operators, running the continent's crude oil pipeline network, natural gas distribution systems, and an expanding renewable-energy portfolio. The company is headquartered in Calgary, Alberta, and operates across Canada and the United States, moving energy reliably to millions of customers and generating revenue through tariffs, utility rates, and asset sales.
+Enbridge Inc is one of the world's largest energy infrastructure operators, running the continent's [crude oil](/crude-oil/) pipeline network, [natural gas](/natural-gas/) distribution systems, and an expanding renewable-energy portfolio. The company is headquartered in Calgary, Alberta, and operates across Canada and the United States, moving energy reliably to millions of customers and generating revenue through tariffs, utility rates, and asset sales.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,13 +35,13 @@ Complementing this, the **Gas Distribution** segment serves approximately 2 mill
 
 Enbridge's size is not incidental to its profitability. The company benefits from economies of density: a pipeline carrying 3 million barrels per day spreads its operational and capital costs across a vast throughput, generating revenue per unit that smaller or less-utilized systems cannot match. Similarly, its utility business scales across millions of customer accounts, spreading fixed costs over a large revenue base.
 
-Revenue is earned primarily through two mechanisms. In pipelines, Enbridge charges tariffs per barrel transported — either regulated tariffs set by Canadian regulators or negotiated rates and cost-plus formulas with shippers. In utilities, rates are set by public utility commissions and recover operating costs, depreciation, maintenance, and a regulated return on equity. This structure provides predictability: the company knows that customers must move their energy through the pipeline or purchase gas from the utility, and regulators ensure that rates remain reasonable enough to keep the infrastructure in good financial health.
+Revenue is earned primarily through two mechanisms. In pipelines, Enbridge charges tariffs per barrel transported — either regulated tariffs set by Canadian regulators or negotiated rates and cost-plus formulas with shippers. In utilities, rates are set by public utility commissions and recover operating costs, [depreciation](/depreciation/), maintenance, and a regulated [return on equity](/return-on-equity/). This structure provides predictability: the company knows that customers must move their energy through the pipeline or purchase gas from the utility, and regulators ensure that rates remain reasonable enough to keep the infrastructure in good financial health.
 
 The diversity across segments also provides stability. When crude oil volumes soften due to lower drilling activity, natural gas distribution can continue generating steady revenue. When one geographic market faces slower demand, operations in another may offset the slowdown.
 
 ## Investment and the constraint of regulation
 
-Enbridge's capital expenditure is substantial — billions annually — reflecting the need to maintain aging pipelines, replace aging utility infrastructure, and build out new capacity and renewable-energy assets. The scale of this investment would be impossible for a smaller company to finance, and it underscores why the incumbent position is defensible: only a company of Enbridge's size, credit rating, and access to capital can manage the continuing renewal of North American energy infrastructure.
+Enbridge's capital expenditure is substantial — billions annually — reflecting the need to maintain aging pipelines, replace aging utility infrastructure, and build out new capacity and renewable-energy assets. The scale of this investment would be impossible for a smaller company to finance, and it underscores why the incumbent position is defensible: only a company of Enbridge's size, [credit rating](/credit-rating/), and access to capital can manage the continuing renewal of North American energy infrastructure.
 
 However, this capital intensity comes with regulatory strings. In Canada, the National Energy Board (now part of the Canadian Energy Regulator) reviews major pipeline projects and sets tariff frameworks. In the U.S., the Interstate Commerce Commission and state regulators oversee rates and expansion plans. Any large expansion requires environmental review and navigating the concerns of Indigenous communities and landowners. This process can take years and is not guaranteed to succeed. Recent Enbridge projects have faced delays or been abandoned due to regulatory or public opposition, a reminder that the company's growth is constrained by more than just economics.
 
@@ -58,7 +58,7 @@ However, this capital intensity comes with regulatory strings. In Canada, the Na
 
 The deepest uncertainty facing Enbridge is the long-term demand for crude oil and natural gas. The company is exposed to the energy transition: as oil consumption moderates and natural gas faces policy pressure in some markets, the volumes flowing through its infrastructure may decline. Enbridge has acknowledged this and is investing in renewable energy and exploring hydrogen and carbon-capture opportunities, but these new businesses are unproven economically and do not yet offset the mature cash generation of the core assets.
 
-Pipeline and utility operations also carry operational risk: ruptures, leaks, or service interruptions can be costly and can trigger regulatory or public backlash. The company manages this through maintenance, inspection, and operational discipline, but the risk is inherent to the business.
+Pipeline and utility operations also carry [operational risk](/operational-risk/): ruptures, leaks, or service interruptions can be costly and can trigger regulatory or public backlash. The company manages this through maintenance, inspection, and operational discipline, but the risk is inherent to the business.
 
 Environmental and Indigenous relations represent a growing source of friction. Major pipeline expansions face sustained opposition from environmental groups and Indigenous communities, and this opposition is increasingly consequential in regulatory and political deliberations.
 
@@ -66,6 +66,6 @@ Environmental and Indigenous relations represent a growing source of friction. M
 
 Begin with the annual 10-K filing (SEC CIK 0000895728), which provides detailed segment performance, capital allocation, and risk disclosures. The quarterly earnings call transcripts offer management's outlook on volumes, rates, and major projects.
 
-Track crude oil volumes moving through the Mainline and other major systems — these are reported regularly and indicate the health of Canadian production and refinery demand. Monitor regulatory developments in Canada and the U.S. on pipeline expansions and rate decisions. Watch the company's dividend coverage and free cash flow to understand the sustainability of shareholder returns.
+Track crude oil volumes moving through the Mainline and other major systems — these are reported regularly and indicate the health of Canadian production and refinery demand. Monitor regulatory developments in Canada and the U.S. on pipeline expansions and rate decisions. Watch the company's [dividend](/dividend/) coverage and [free cash flow](/free-cash-flow/) to understand the sustainability of shareholder returns.
 
-Key financial metrics include operating margins (revealing pricing power), return on invested capital (showing efficiency of capital deployment), and the ratio of regulated to merchant revenue (indicating stability versus cyclicality). The renewable-energy investment rate signals how seriously management is moving toward diversification.
+Key financial metrics include [operating margins](/operating-margin/) (revealing pricing power), [return on invested capital](/return-on-invested-capital/) (showing efficiency of capital deployment), and the ratio of regulated to merchant revenue (indicating stability versus cyclicality). The renewable-energy investment rate signals how seriously management is moving toward [diversification](/diversification/).

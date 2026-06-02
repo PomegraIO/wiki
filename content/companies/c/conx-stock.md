@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-*CONX (Direxion Daily COIN Bull 2X ETF) tracks Coinbase stock with 2x daily-reset leverage, using derivatives and daily rebalancing. A product born from the 2000s innovation in leveraged ETFs, applied to the 2020s cryptocurrency trading boom.*
+*CONX (Direxion Daily COIN Bull 2X ETF) tracks Coinbase stock with 2x daily-reset leverage, using derivatives and daily rebalancing. A product born from the 2000s innovation in [leveraged ETFs](/leveraged-etf/), applied to the 2020s cryptocurrency trading boom.*
 
 ## The origins of daily-reset leverage (2000s)
 
-The modern leveraged ETF industry began in the early 2000s when a structural gap became clear: retail investors wanted leverage without the friction of margin accounts and options chains. Before then, leverage was a professional domain — hedge funds used futures and swaps, active traders managed margin loans through brokers, and retail participants had almost no clean path to amplified returns on public exchanges.
+The modern leveraged ETF industry began in the early 2000s when a structural gap became clear: retail investors wanted leverage without the friction of margin accounts and options chains. Before then, leverage was a professional domain — [hedge funds](/hedge-fund/) used futures and swaps, active traders managed margin loans through [brokers](/broker/), and retail participants had almost no clean path to amplified returns on public exchanges.
 
-Direxion Shares, founded in 2006, entered this gap with a deceptively simple innovation: automate daily rebalancing of leverage inside an ETF wrapper. The concept: hold a portfolio of an index or stock and its derivatives such that, at each market close, the fund resets to maintain exactly a stated leverage ratio (2x, 3x, or negative multiples for inverse funds). The next trading day opens with clean leverage, ready for that day's move. This mechanical approach avoided the need for traders to manage margin or options strategies themselves. By the late 2000s, Direxion, ProShares, and a handful of other issuers had launched hundreds of leveraged and inverse products, transforming a niche tool into a multi-billion-dollar market category.
+Direxion Shares, founded in 2006, entered this gap with a deceptively simple innovation: automate daily rebalancing of leverage inside an ETF wrapper. The concept: hold a portfolio of an index or stock and its derivatives such that, at each market close, the fund resets to maintain exactly a stated [leverage ratio](/leverage-ratio-forex/) (2x, 3x, or negative multiples for inverse funds). The next trading day opens with clean leverage, ready for that day's move. This mechanical approach avoided the need for traders to manage margin or options strategies themselves. By the late 2000s, Direxion, ProShares, and a handful of other issuers had launched hundreds of leveraged and inverse products, transforming a niche tool into a multi-billion-dollar market category.
 
 ## Expansion through bull and bear markets (2010s)
 
@@ -39,7 +39,7 @@ This daily reset is both the fund's feature and its cost. In volatile markets, t
 
 ## Concentrated exposure and operational risks
 
-CONX is entirely dependent on Coinbase's business and stock price. Regulatory action against Coinbase, trading platform outages, shifts in cryptocurrency prices, or competitive pressure from decentralized exchanges all cascade through CONX with 2x amplification. There is no diversification — only a tactical bet on Coinbase with doubled volatility.
+CONX is entirely dependent on Coinbase's business and stock price. Regulatory action against Coinbase, trading platform outages, shifts in cryptocurrency prices, or competitive pressure from decentralized exchanges all cascade through CONX with 2x amplification. There is no [diversification](/diversification/) — only a tactical bet on Coinbase with doubled volatility.
 
 CONX's leverage depends on derivatives counterparties. If Direxion or a major swap dealer faces financial stress, the fund's ability to maintain or even access its leverage could be impaired during market turmoil.
 
@@ -53,4 +53,4 @@ CONX trades on major exchanges with reasonable liquidity, allowing traders to en
 
 CONX represents the direct lineage from Direxion's 2006 innovation — the daily-reset leveraged ETF — applied to a 2020s market: cryptocurrency-driven retail trading in a volatile, highly-liquid single equity. The fund does exactly what it is designed to do: reset leverage daily and provide 2x daily amplification. The mathematics of volatility decay are unchanged from 2006; traders simply understand and accept that decay as the price of tactical leverage with daily reset.
 
-For traders with clear entry and exit plans measured in days or a few weeks, CONX works as intended. For buy-and-hold investors or those without exit discipline, decay becomes the fund's dominant driver, and extended holding periods virtually guarantee underperformance relative to holding Coinbase stock directly.
+For traders with clear entry and exit plans measured in days or a few weeks, CONX works as intended. For buy-and-hold investors or those without exit discipline, decay becomes the fund's dominant driver, and extended [holding periods](/holding-period/) virtually guarantee underperformance relative to holding Coinbase stock directly.

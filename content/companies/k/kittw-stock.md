@@ -13,7 +13,7 @@ handwritten: true
 
 ### What does Nauticus do?
 
-Nauticus Robotics develops and operates electric autonomous underwater vehicles (AUVs) designed to inspect, observe, and work on subsea infrastructure. The company is based in Houston, Texas, a hub for the offshore energy industry, and trades on the Nasdaq under the symbol KITT, with warrants trading as KITTW. Unlike most robotics companies, Nauticus is not primarily a manufacturer selling hardware to customers. Instead, it builds robots and operates them as a service—Nauticus teams deploy Aquanaut robots to customer sites, conduct the required underwater work, and return with data or completed tasks. This service-oriented model differs from the traditional robotics sale-and-ship-it-out pattern.
+[Nauticus Robotics](/kitt-stock/) develops and operates electric autonomous underwater vehicles (AUVs) designed to inspect, observe, and work on subsea infrastructure. The company is based in Houston, Texas, a hub for the offshore energy industry, and trades on the [Nasdaq](/nasdaq/) under the symbol KITT, with warrants trading as KITTW. Unlike most robotics companies, Nauticus is not primarily a manufacturer selling hardware to customers. Instead, it builds robots and operates them as a service—Nauticus teams deploy Aquanaut robots to customer sites, conduct the required underwater work, and return with data or completed tasks. This service-oriented model differs from the traditional robotics sale-and-ship-it-out pattern.
 
 ### What is Aquanaut and how is it unique?
 

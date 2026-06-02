@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-If you got a mortgage for a house, a company like Freddie Mac probably touched that loan. Freddie Mac is the business that sits between your bank and the investors who ultimately own your mortgage. It is a government-created company that has one main job: keep the flow of money for home loans moving.
+If you got a mortgage for a house, a company like [Freddie Mac](/freddie-mac/) probably touched that loan. Freddie Mac is the business that sits between your bank and the investors who ultimately own your mortgage. It is a government-created company that has one main job: keep the flow of money for home loans moving.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ For doing this work, Freddie Mac charges a fee. It takes a small cut of the mort
 
 ## Why it matters
 
-Without Freddie Mac and Fannie Mae, the mortgage market would work very differently. Banks would have to hold all the mortgages they made, which means they would run out of money to lend. Interest rates would probably be higher because lenders would keep the full risk on their own books. The mortgage market would be broken into regional pieces instead of being national. Home loans would be harder to get and more expensive.
+Without Freddie Mac and [Fannie Mae](/fannie-mae/), the mortgage market would work very differently. Banks would have to hold all the mortgages they made, which means they would run out of money to lend. [Interest rates](/interest-rate/) would probably be higher because lenders would keep the full risk on their own books. The mortgage market would be broken into regional pieces instead of being national. Home loans would be harder to get and more expensive.
 
 Freddie Mac pools risk. No single investor owns the full risk of a single mortgage defaulting. The risk is spread across thousands of mortgages and thousands of investors. This makes mortgages cheaper and easier to buy because no investor has to worry about losing everything on one bad loan.
 
@@ -61,4 +61,4 @@ The company takes on different levels of risk depending on the mortgages it buys
 
 Anyone interested in Freddie Mac should watch the mortgage market. Watch interest rates — when rates fall, homeowners refinance their mortgages, which creates opportunities for fees but also turns over the portfolio. Watch housing prices and employment — they determine whether people can keep paying their mortgages. Watch the Federal Housing Finance Agency, which regulates Freddie Mac and decides what changes to the company's rules or structure might happen.
 
-You can read Freddie Mac's annual filings to the SEC to see how many mortgages it owns, what the delinquency rate is, and how its profits and losses are moving. These documents show you where the risks are building.
+You can read Freddie Mac's annual filings to the SEC to see how many mortgages it owns, what the [delinquency](/delinquency/) rate is, and how its profits and losses are moving. These documents show you where the risks are building.

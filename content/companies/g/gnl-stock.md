@@ -24,7 +24,7 @@ This spread is the foundation of profitability per asset. Tighter spreads (6% le
 
 ## Portfolio Composition and Geographic Diversification
 
-GNL's strength is the breadth of its portfolio — hundreds of properties across the US and international markets, occupied by dozens of different tenant types. A recession that crushes retail demand does not affect industrial or office properties equally. A tenant failure in one property impacts only a fraction of GNL's cash flow. This [diversification](/diversification/) smooths volatility.
+GNL's strength is the breadth of its portfolio — hundreds of properties across the US and international markets, occupied by dozens of different tenant types. A [recession](/recession/) that crushes retail demand does not affect industrial or office properties equally. A tenant failure in one property impacts only a fraction of GNL's cash flow. This [diversification](/diversification/) smooths volatility.
 
 However, it also fragments GNL's expertise. Managing hundreds of geographically scattered, single-tenant properties requires systems, staff, and tenant-relationship infrastructure. GNL must monitor each lease's renewal, negotiate escalations, handle tenant distress (when a tenant cannot pay), and manage property maintenance issues. A large tenant (5–10% of cash flow) that defaults is a serious blow; GNL must then find a new tenant or sell the property, both costly and time-consuming.
 
@@ -42,7 +42,7 @@ GNL's properties are not occupied uniformly. Some are occupied by national credi
 
 The lease structure also matters. A [triple-net lease](/triple-net-lease/) places all property operating cost on the tenant; GNL receives only base rent. A double-net lease splits some costs with the tenant. A single-net lease requires the tenant to cover certain but not all costs. The tighter the net, the lower GNL's ongoing operating burden but also the higher the required lease spread to justify acquisition.
 
-GNL must also monitor whether leases have escalation clauses tied to inflation or fixed step-ups. In an inflationary environment, inflation-escalated leases protect GNL's real cash flow; fixed-rent leases erode GNL's margin over time. The company's lease portfolio composition (what percentage is inflation-indexed) affects its hedging against [inflation risk](/inflation-risk/).
+GNL must also monitor whether leases have escalation clauses tied to [inflation](/inflation/) or fixed step-ups. In an inflationary environment, inflation-escalated leases protect GNL's real cash flow; fixed-rent leases erode GNL's margin over time. The company's lease portfolio composition (what percentage is inflation-indexed) affects its hedging against [inflation risk](/inflation-risk/).
 
 ## Acquisition Cycle and Market Timing
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-GJO is a STRATS trust — the acronym stands for Separately Tradable Registered Accounts Securities — built around Walmart Inc. stock. STRATS trusts are a niche product created by brokerage firms that bundle securities into trusts and issue receipts that trade on exchanges. They were popular in the 1990s and 2000s but have largely been superseded by simpler alternatives. GJO specifically dates to 2005 and continues to exist primarily because terminating a trust is complex.
+GJO is a STRATS trust — the acronym stands for Separately Tradable Registered Accounts Securities — built around [Walmart](/wmt-stock/) Inc. stock. STRATS trusts are a niche product created by brokerage firms that bundle securities into trusts and issue receipts that trade on exchanges. They were popular in the 1990s and 2000s but have largely been superseded by simpler alternatives. GJO specifically dates to 2005 and continues to exist primarily because terminating a trust is complex.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,13 +26,13 @@ GJO is a STRATS trust — the acronym stands for Separately Tradable Registered 
 
 ## How STRATS trusts work
 
-A STRATS trust separates dividend income from principal appreciation. When you buy GJO, you own a trust unit that represents a fractional claim on both the Walmart shares held in the trust and the accumulated dividends those shares have paid. The trust receives Walmart's quarterly dividend payments and either reinvests them by buying more Walmart stock or accumulates them as cash depending on the trust's terms.
+A STRATS trust separates [dividend](/dividend/) income from principal appreciation. When you buy GJO, you own a trust unit that represents a fractional claim on both the Walmart shares held in the trust and the accumulated dividends those shares have paid. The trust receives Walmart's quarterly dividend payments and either reinvests them by buying more Walmart stock or accumulates them as cash depending on the trust's terms.
 
-The mechanical structure matters because it creates layers of fees and administrative costs. The trust must file annual reports with the SEC, maintain banking relationships, and reconcile accounts. Those costs are borne by the trust holders and reduce returns compared to owning Walmart stock directly. For an individual investor, GJO is more expensive than simply buying Walmart Inc. stock on the exchange.
+The mechanical structure matters because it creates layers of fees and administrative costs. The trust must file [annual reports](/10-k/) with the SEC, maintain banking relationships, and reconcile accounts. Those costs are borne by the trust holders and reduce returns compared to owning Walmart stock directly. For an individual investor, GJO is more expensive than simply buying Walmart Inc. stock on the exchange.
 
 ## Why STRATS trusts were created and why they persist
 
-STRATS trusts were marketed primarily to dividend-focused investors in the 1990s and early 2000s, when financial engineering was fashionable and separating securities into income and principal components appealed to some portfolio managers. The pitch was that investors could tailor their exposure: buy the principal portion if you wanted capital appreciation, buy the dividend portion if you wanted income. But tax treatment was complicated, and simpler alternatives like dividend-focused mutual funds emerged.
+STRATS trusts were marketed primarily to dividend-focused investors in the 1990s and early 2000s, when financial engineering was fashionable and separating securities into income and principal components appealed to some portfolio managers. The pitch was that investors could tailor their exposure: buy the principal portion if you wanted capital appreciation, buy the dividend portion if you wanted income. But tax treatment was complicated, and simpler alternatives like dividend-focused [mutual funds](/mutual-fund/) emerged.
 
 GJO persists because unwinding a trust is legally cumbersome. Trustees must account for every share, all dividends, all costs, and all tax implications. Rather than go through that process, the trust continues to exist and trade. Investors who own it may do so because they inherited it, because it trades through their brokerage without friction, or because they are simply unaware that more efficient alternatives exist.
 
@@ -50,10 +50,10 @@ For a long-term Walmart holder, those fees compound. Over thirty years, modest a
 
 ## Trading mechanics and valuation
 
-GJO shares trade on the NASDAQ and are liquid — there are buyers and sellers most trading days. But GJO does not always trade at its net asset value. The trust units represent a claim on Walmart stock plus accumulated dividend value. In theory, GJO's price should equal the value of those holdings divided by the number of trust units outstanding. In practice, supply and demand in GJO shares sometimes push the price higher or lower than that calculated net asset value. If GJO trades at a significant discount to its intrinsic value, it becomes attractive to arbitrageurs; if it trades at a large premium, that opportunity also exists. Small premiums and discounts persist because transaction costs and structural features of the trust make arbitrage incomplete.
+GJO shares trade on the [NASDAQ](/nasdaq/) and are liquid — there are buyers and sellers most trading days. But GJO does not always trade at its [net asset value](/net-asset-value/). The trust units represent a claim on Walmart stock plus accumulated dividend value. In theory, GJO's price should equal the value of those holdings divided by the number of trust units outstanding. In practice, supply and demand in GJO shares sometimes push the price higher or lower than that calculated net asset value. If GJO trades at a significant discount to its [intrinsic value](/intrinsic-value/), it becomes attractive to arbitrageurs; if it trades at a large premium, that opportunity also exists. Small premiums and discounts persist because transaction costs and structural features of the trust make arbitrage incomplete.
 
 ## What owning GJO actually means
 
 Investors in GJO are indirect owners of Walmart stock. They do not vote as Walmart shareholders. They cannot attend Walmart's annual meeting. They have no direct relationship with Walmart. Instead, they own a trust unit that gives them the economic right to the dividends and price appreciation of the Walmart shares the trust holds.
 
-For most investors, the direct route — buying Walmart Inc. stock — is simpler and cheaper. But GJO exists as a historical artifact and continues to serve investors who are comfortable with the structure. As with any single security, GJO shares trade at prices set by supply and demand on the stock exchange, and nothing here is a recommendation to buy or sell — only an explanation of what STRATS trusts are and how they interact with the underlying Walmart business.
+For most investors, the direct route — buying Walmart Inc. stock — is simpler and cheaper. But GJO exists as a historical artifact and continues to serve investors who are comfortable with the structure. As with any single security, GJO shares trade at prices set by supply and demand on the [stock exchange](/stock-exchange/), and nothing here is a recommendation to buy or sell — only an explanation of what STRATS trusts are and how they interact with the underlying Walmart business.

@@ -35,7 +35,7 @@ Larger, integrated providers (asset-owning carriers or freight platforms) can ab
 
 ELOG's international operations expose it to currency fluctuations. A transaction invoiced in foreign currency—euros, yuan, pesos—may be worth less by the time it is collected, directly reducing profitability. Large logistics providers hedge currency exposure through financial instruments or by netting revenues and costs in the same currency. ELOG, as a smaller operator, may lack the hedging expertise or transaction volume to hedge efficiently, making it more exposed to [currency volatility](/currency-volatility/).
 
-This is particularly acute for smaller operators with concentrated geographic footprints. If ELOG derives a large share of revenue from Asia, it is exposed to U.S. dollar strength against the Chinese yuan; if ELOG has limited offsetting expenses in yuan, it cannot naturally hedge this exposure.
+This is particularly acute for smaller operators with concentrated geographic footprints. If ELOG derives a large share of revenue from Asia, it is exposed to [U.S. dollar](/us-dollar/) strength against the Chinese yuan; if ELOG has limited offsetting expenses in yuan, it cannot naturally hedge this exposure.
 
 ## Customer Concentration and Switching Cost
 

@@ -13,7 +13,7 @@ handwritten: true
 
 > The homebuilder trades the most dangerous bet in real estate: that labor, materials, and land will be cheaper when the house sells than they were when construction began.
 
-Hovnanian Enterprises is one of the largest homebuilders in the United States, operating across dozens of markets from California to the Northeast. The company buys land, develops it, constructs houses according to standard designs, and sells them to owner-occupants and institutional buyers. Hovnanian competes on price, location, and brand reputation, and it operates in one of the most cyclical sectors in the economy — one where the difference between boom and bust can be the difference between a business generating billions in cash and one burning cash against shrinking asset values.
+[Hovnanian Enterprises](/hov-stock/) is one of the largest homebuilders in the United States, operating across dozens of markets from California to the Northeast. The company buys land, develops it, constructs houses according to standard designs, and sells them to owner-occupants and institutional buyers. Hovnanian competes on price, location, and brand reputation, and it operates in one of the most cyclical sectors in the economy — one where the difference between boom and bust can be the difference between a business generating billions in cash and one burning cash against shrinking asset values.
 
 The company is caught in the middle of a fundamental imbalance in U.S. housing: demand for new homes is high, but the supply is constrained by labor shortages, material costs, land availability, and regulations that limit how quickly builders can produce homes. That imbalance has recently created unusual conditions for homebuilders: strong sales, high prices, and the ability to sell homes at strong margins even in years when labor and materials are expensive. But those conditions are not permanent, and Hovnanian's story right now is largely a bet on what happens when housing demand softens or when builders flood the market with inventory again.
 
@@ -27,11 +27,11 @@ Hovnanian's ability to navigate that cycle depends on several things: access to 
 
 ## The land equation
 
-A homebuilder's profitability is heavily dependent on the price it pays for land relative to the eventual selling price of homes built on that land. Land is typically the largest single component of a homebuilder's balance sheet. If Hovnanian overpaid for land in a given market and subsequent home prices fall, the company faces the choice of selling homes at a loss to clear the land, writing down the value of land still in inventory, or holding and hoping for a recovery.
+A homebuilder's profitability is heavily dependent on the price it pays for land relative to the eventual selling price of homes built on that land. Land is typically the largest single component of a homebuilder's [balance sheet](/balance-sheet/). If Hovnanian overpaid for land in a given market and subsequent home prices fall, the company faces the choice of selling homes at a loss to clear the land, writing down the value of land still in inventory, or holding and hoping for a recovery.
 
 The company's strategy has been to maintain significant land holdings across multiple markets, allowing it to pursue opportunities where supply and demand are favorable. But that land is an asset that fluctuates in value with the housing market. In recent years, strong home price appreciation has kept Hovnanian's land values attractive; in a downturn, that could reverse quickly.
 
-The time from land acquisition to completed sale is typically one to three years, depending on the size of the project and local permitting timelines. That creates an inherent lag: Hovnanian must decide how much land to buy and develop based on current and expected future market conditions, but by the time homes are completed, the market may have shifted. Getting that timing right is one of the core skills that separates successful homebuilders from struggling ones.
+The time from land [acquisition](/acquisition/) to completed sale is typically one to three years, depending on the size of the project and local permitting timelines. That creates an inherent lag: Hovnanian must decide how much land to buy and develop based on current and expected future market conditions, but by the time homes are completed, the market may have shifted. Getting that timing right is one of the core skills that separates successful homebuilders from struggling ones.
 
 ## Capital intensity and balance sheet management
 
@@ -39,7 +39,7 @@ Homebuilding is capital-intensive. Hovnanian must fund land purchases and constr
 
 The company's balance sheet is therefore not a static measure of strength but a dynamic reflection of the construction cycle. In good years, Hovnanian carries substantial inventory of partially completed homes and owned land; in bad years, much of that is sold off or written down. The debt that funds the company's operations can be a source of leverage in good years — using debt to amplify returns — and a constraint in bad years, when shrinking cash flow meets debt service obligations.
 
-Hovnanian's ability to navigate cycles depends partly on its access to capital markets. Credit during a housing boom is abundant and cheap; during a bust, it evaporates and existing credit lines tighten. The company's relationships with lenders, its credit rating, and its operating results all affect how much capital it can access and at what cost.
+Hovnanian's ability to navigate cycles depends partly on its access to capital markets. Credit during a housing boom is abundant and cheap; during a bust, it evaporates and existing credit lines tighten. The company's relationships with lenders, its [credit rating](/credit-rating/), and its operating results all affect how much capital it can access and at what cost.
 
 ## The labor and materials squeeze
 

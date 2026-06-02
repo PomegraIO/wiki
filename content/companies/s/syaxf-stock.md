@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Elevra Lithium Limited (ASX: ELV; OTCQB: SYAXF) is North America's largest hard-rock lithium producer, dominating the lithium supply chain at a moment when demand for battery-grade materials is soaring. The company operates the North American Lithium mine in Quebec, alongside exploration stakes across Ghana, Western Australia, and the United States. It changed its name from Sayona Mining in August 2025, shedding a history of exploration to signal its transformation into a producing asset company.
+[Elevra Lithium](/elvr-stock/) Limited (ASX: ELV; OTCQB: SYAXF) is North America's largest hard-rock lithium producer, dominating the lithium supply chain at a moment when demand for battery-grade materials is soaring. The company operates the North [American Lithium](/amlif-stock/) mine in Quebec, alongside exploration stakes across Ghana, Western Australia, and the United States. It changed its name from Sayona Mining in August 2025, shedding a history of exploration to signal its transformation into a producing asset company.
 
 ## The North American Lithium mine: the core operation
 
@@ -23,7 +23,7 @@ This concentration is the most mechanically simple part of the lithium supply ch
 
 A hard-rock mine cannot be built or run on operating cash flow alone. Elevra is funded through two channels that cycle through the capital markets. First, equity. Shareholders own the business and accept the volatility in lithium prices and mining costs in exchange for potential upside over decades. Second, debt. Banks and institutional lenders have underwritten Elevra's debt to finance construction, expansions, and working capital. The company has also tapped securitisation and project finance — structures that tie repayment to the mine's future cash flow.
 
-This capital stack creates an ongoing tension. Lithium prices swing sharply with global battery demand and supply decisions by competitors. When prices are high, margins widen and Elevra's debt becomes easier to service. When prices fall, the company must choose between cutting costs, raising capital, or letting leverage climb. The company has navigated volatile cycles since acquiring North American Lithium, each one leaving marks on the balance sheet.
+This capital stack creates an ongoing tension. Lithium prices swing sharply with global battery demand and supply decisions by competitors. When prices are high, margins widen and Elevra's debt becomes easier to service. When prices fall, the company must choose between cutting costs, raising capital, or letting leverage climb. The company has navigated volatile cycles since acquiring North American Lithium, each one leaving marks on the [balance sheet](/balance-sheet/).
 
 ## Geographic diversification: assets beyond Quebec
 
@@ -41,6 +41,6 @@ Commodity price risk is existential. If global lithium supply surges (from compe
 
 ## How to research Elevra as an investment
 
-Elevra files with both the ASX and the SEC. The annual reports provide segment breakdowns by asset, updates on mill capacity and utilisation, and commodity price sensitivities. Quarterly production reports show spodumene concentrate shipped and milled — the operational heartbeat of the business. Watch the grade of ore being milled (higher grade means lower dilution) and the recovery rate achieved.
+Elevra files with both the ASX and the SEC. The [annual reports](/10-k/) provide segment breakdowns by asset, updates on mill capacity and utilisation, and commodity price sensitivities. Quarterly production reports show spodumene concentrate shipped and milled — the operational heartbeat of the business. Watch the grade of ore being milled (higher grade means lower dilution) and the recovery rate achieved.
 
 Key metrics to monitor: the cost per tonne of spodumene concentrate produced (a measure of operational efficiency), lithium prices on the spot market, global battery demand trends, and any commentary from lithium producers on supply-demand balance. Elevra's value is tied to long-term lithium demand for batteries, but mining investments reward those who understand short-term commodity cycles and capital discipline.

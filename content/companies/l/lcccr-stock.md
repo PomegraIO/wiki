@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Lakeshore Acquisition III Corp. (LCCCR) is the ticker for the rights component of Lakeshore Acquisition III. When the company's units separated in June 2025, the rights began trading independently on the Nasdaq Global Market. Unlike warrants, which are traded standardly across SPACs, rights are less common and their terms vary company by company. A right entitles the holder to buy additional shares when the SPAC closes its business combination, usually at a specified price per share set at the time of the IPO.
+Lakeshore [Acquisition](/acquisition/) III Corp. (LCCCR) is the ticker for the rights component of Lakeshore Acquisition III. When the company's units separated in June 2025, the rights began trading independently on the [Nasdaq](/nasdaq/) Global Market. Unlike warrants, which are traded standardly across SPACs, rights are less common and their terms vary company by company. A right entitles the holder to buy additional shares when the SPAC closes its [business combination](/business-combination-purchase/), usually at a specified price per share set at the time of the IPO.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Lakeshore Acquisition III Corp. (LCCCR) is the ticker for the rights component o
 
 ## How rights work in a SPAC structure
 
-The mechanics are straightforward in principle. A holder of Lakeshore rights receives the contractual ability to purchase a fixed number of additional shares of Lakeshore at a set price — typically between 10 and 11.50 dollars per share, depending on how the rights were structured in the IPO prospectus — at or shortly after the business combination closes. That fixed price is the exercise price or strike price.
+The mechanics are straightforward in principle. A holder of Lakeshore rights receives the contractual ability to purchase a fixed number of additional shares of Lakeshore at a set price — typically between 10 and 11.50 dollars per share, depending on how the rights were structured in the IPO prospectus — at or shortly after the business combination closes. That fixed price is the [exercise price](/exercise-price/) or [strike price](/strike-price/).
 
 If the combined company's stock trades at $15 per share after the deal closes, a right to buy one share at $11 is worth approximately $4. If the stock trades at $8, the right is worthless; the holder will not exercise it. This is pure leverage: a right holder who buys the right for, say, $1 can potentially make a large return if the deal succeeds and the stock soars, or lose the entire $1 if the deal fails or the stock flatlines.
 
@@ -45,4 +45,4 @@ The relevant documents are the IPO prospectus for Lakeshore Acquisition III, whi
 
 Once Lakeshore announces a business combination, the proxy statement filed with the SEC will reveal the deal's valuation and structure. At that moment, rights holders can attempt to estimate whether the combined company's stock is likely to trade high enough to make the rights in-the-money. Watch the redemption rate: if more than 50 percent of public shares redeem, the combined company will have less capital than the original SPAC raised, a structural weakness that often depresses stock performance and makes rights worthless.
 
-Finally, note that rights have an expiration date. Unlike a stock, which can be held indefinitely, a right to purchase shares expires on a specified date. After that date, the right has no value. This time limit creates urgency: rights holders must monitor the combined company's stock price and exercise or sell before expiration, adding complexity and trading risk compared to holding ordinary shares.
+Finally, note that rights have an [expiration date](/expiration-date/). Unlike a stock, which can be held indefinitely, a right to purchase shares expires on a specified date. After that date, the right has no value. This time limit creates urgency: rights holders must monitor the combined company's stock price and exercise or sell before expiration, adding complexity and trading risk compared to holding ordinary shares.

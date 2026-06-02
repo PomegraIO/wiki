@@ -34,7 +34,7 @@ Stem cell manufacturing has evolved substantially. Early methods were labor-inte
 
 ## Market position and competitive dynamics
 
-NovelStem competes in a space that is rapidly consolidating. Larger pharmaceutical and medical device companies have begun to move into cell therapy and regenerative medicine, either through in-licensing deals or through acquisitions of smaller companies. This creates both opportunity and pressure: successful smaller companies like NovelStem may be acquisition targets for larger firms, but they must also compete for capital, talent, and clinical partnerships against much larger competitors.
+NovelStem competes in a space that is rapidly consolidating. Larger pharmaceutical and medical device companies have begun to move into cell therapy and regenerative medicine, either through in-licensing deals or through [acquisitions](/acquisition/) of smaller companies. This creates both opportunity and pressure: successful smaller companies like NovelStem may be acquisition targets for larger firms, but they must also compete for capital, talent, and clinical partnerships against much larger competitors.
 
 The cell banking and storage market has its own competitive dynamics. Multiple companies offer cryopreservation services, and the service is not highly differentiated — what matters is reliability, quality, and responsiveness. NovelStem must compete on service quality and the trust it builds with customers who are entrusting valuable cell samples to the company.
 
@@ -48,6 +48,6 @@ Intellectual property in stem cell technology is also shifting. Some foundationa
 
 ## How to research NovelStem
 
-NovelStem files quarterly and annual reports with the SEC (CIK 0000912544). The 10-K and 10-Q should detail the company's clinical programs, the stage of each, capital position, and the scale and profitability of the cell banking business. Press releases announcing clinical milestones — patient enrollment, trial completions, regulatory feedback — are material.
+NovelStem files quarterly and [annual reports](/10-k/) with the SEC (CIK 0000912544). The 10-K and 10-Q should detail the company's clinical programs, the stage of each, capital position, and the scale and profitability of the cell banking business. Press releases announcing clinical milestones — patient enrollment, trial completions, regulatory feedback — are material.
 
 The cell therapy field is monitored by equity analysts, and reports from major investment banks often provide competitive positioning and regulatory outlook. Clinical trial information is available at https://clinicaltrials.gov. For a company like NovelStem, investors should track both the progress of clinical programs (which are high-risk, high-reward) and the cash generation from the cell banking business (which is lower-risk but lower-margin). The balance between these segments is part of how the company positions itself strategically.

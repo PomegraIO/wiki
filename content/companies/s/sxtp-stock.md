@@ -47,7 +47,7 @@ The company's financial model depends on sustained pricing power for ARAKODA, gr
 
 ## Risks and competitive dynamics
 
-60 Degrees faces several headwinds. Generic tafenoquine will eventually reach the market when patents expire, eroding ARAKODA's exclusivity. The company's later pipeline programs are unproven, and development of novel antibiotics and antiparasitic drugs has notoriously high failure rates. Regulatory and scientific standards for infectious-disease drugs continue to tighten. The global malaria-prevention market is relatively small and vulnerable to shifts in travel patterns — a prolonged recession or geopolitical crisis that reduces international travel would immediately depress demand.
+60 Degrees faces several headwinds. Generic tafenoquine will eventually reach the market when patents expire, eroding ARAKODA's exclusivity. The company's later pipeline programs are unproven, and development of novel antibiotics and antiparasitic drugs has notoriously high failure rates. Regulatory and scientific standards for infectious-disease drugs continue to tighten. The global malaria-prevention market is relatively small and vulnerable to shifts in travel patterns — a prolonged [recession](/recession/) or geopolitical crisis that reduces international travel would immediately depress demand.
 
 Larger pharmaceutical companies with greater resources could enter the malaria-prevention space or the babesiosis market at any time, though the relatively small market size makes it less attractive to blockbuster-focused firms. 60 Degrees' competitive advantage lies in its focused expertise and ARAKODA's pharmacological properties, but neither is insurmountable.
 

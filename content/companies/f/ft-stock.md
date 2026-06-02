@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Franklin Universal Trust is a closed-end mutual fund that pools investor money to buy a diversified portfolio of stocks from around the world. Like all [closed-end funds](/closed-end-fund/), it trades on an exchange (NYSE: FT) at a price determined by supply and demand, not simply by the underlying value of its holdings. It is managed by Franklin Advisors, a division of Franklin Templeton, one of the largest investment managers in the world.
+Franklin Universal Trust is a closed-end mutual fund that pools investor money to buy a diversified portfolio of stocks from around the world. Like all [closed-end funds](/closed-end-fund/), it trades on an exchange (NYSE: FT) at a price determined by supply and demand, not simply by the underlying value of its holdings. It is managed by Franklin Advisors, a division of [Franklin Templeton](/fgdl-stock/), one of the largest investment managers in the world.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,7 +34,7 @@ Geographic reach shapes Franklin Universal Trust's case. The portfolio spans dev
 
 ## How the fund makes money and returns it to shareholders
 
-Franklin Universal Trust buys individual stocks. Those stocks deliver two streams: dividends (cash paid to shareholders) and capital appreciation (or [depreciation](/depreciation/)) if the stock price rises or falls. The fund collects the dividends, minus the costs of management and operation, and distributes most of them monthly to shareholders. If the underlying stocks rise in value, the fund captures that gain; if they fall, the fund loses value.
+Franklin Universal Trust buys individual stocks. Those stocks deliver two streams: [dividends](/dividend/) (cash paid to shareholders) and capital appreciation (or [depreciation](/depreciation/)) if the stock price rises or falls. The fund collects the dividends, minus the costs of management and operation, and distributes most of them monthly to shareholders. If the underlying stocks rise in value, the fund captures that gain; if they fall, the fund loses value.
 
 The distribution is the main appeal to income-seeking investors. A retiree or a living-off-assets investor can buy FT partly for the hope of capital growth but mainly for the monthly check. Franklin Templeton runs the fund to prioritize that income, which means holding a portfolio tilted toward stocks that pay dividends — reducing turnover and tax drag in the process.
 
@@ -56,7 +56,7 @@ The discount to NAV is an equally thorny feature. If FT trades at a 10 percent d
 
 ## Competition and the landscape
 
-Franklin Universal Trust competes for investor attention against thousands of other funds. Passive, low-cost index funds have eaten the lunch of [actively managed funds](/actively-managed-fund/) over the past two decades. A retiree or income investor now has the option of buying a diversified dividend exchange-traded fund with a rock-bottom fee, eliminating the cost and the discount-to-NAV premium of a closed-end structure. FT's appeal rests on the belief that Franklin Advisors adds value through stock-picking and that the monthly distribution structure and potential for a discount create trading opportunities.
+Franklin Universal Trust competes for investor attention against thousands of other funds. Passive, low-cost [index funds](/index-fund/) have eaten the lunch of [actively managed funds](/actively-managed-fund/) over the past two decades. A retiree or income investor now has the option of buying a diversified dividend exchange-traded fund with a rock-bottom fee, eliminating the cost and the discount-to-NAV premium of a closed-end structure. FT's appeal rests on the belief that Franklin Advisors adds value through stock-picking and that the monthly distribution structure and potential for a discount create trading opportunities.
 
 That appeal is smaller than it was 20 years ago, when closed-end funds were more fashionable. The fund persists because Franklin Templeton is a large manager with a long track record, and because some investors are committed to the monthly-income model. But assets under management have not grown, and new inflows are rare.
 

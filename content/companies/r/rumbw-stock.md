@@ -37,11 +37,11 @@ This revenue matters for survival, but it does not yet make Rumble profitable. R
 
 ## The cloud business: mining and beyond
 
-Rumble also sells computing capacity. A cryptocurrency miner is someone who runs specialized software on powerful computers to solve math problems and earn Bitcoin or other digital currency. These miners need a lot of computing power, which costs money in electricity and hardware. Rumble set up servers that miners can rent rather than owning computers outright. Miners pay Rumble to use those servers. This business is much higher margin than advertising because the cost to set up and run the servers does not scale linearly with usage — one good server can serve many miners, and the energy cost is more or less fixed.
+Rumble also sells computing capacity. A cryptocurrency miner is someone who runs specialized software on powerful computers to solve math problems and earn [Bitcoin](/bitcoin/) or other digital currency. These miners need a lot of computing power, which costs money in electricity and hardware. Rumble set up servers that miners can rent rather than owning computers outright. Miners pay Rumble to use those servers. This business is much higher margin than advertising because the cost to set up and run the servers does not scale linearly with usage — one good server can serve many miners, and the energy cost is more or less fixed.
 
-Rumble's cloud business also serves non-mining use cases — companies doing artificial intelligence training, scientific computing, or other work that needs a lot of processing power. This diversification matters because it means Rumble is not dependent solely on cryptocurrency popularity. When Bitcoin crashes, miners have less incentive to pay for computing capacity, but Rumble still has revenue from other users.
+Rumble's cloud business also serves non-mining use cases — companies doing artificial intelligence training, scientific computing, or other work that needs a lot of processing power. This [diversification](/diversification/) matters because it means Rumble is not dependent solely on cryptocurrency popularity. When Bitcoin crashes, miners have less incentive to pay for computing capacity, but Rumble still has revenue from other users.
 
-The company announced a transformative acquisition in late 2025 that would substantially grow its computing infrastructure business. The details are still coming into focus, but the direction is clear: Rumble wants to be a serious player in the cloud-computing market, not just a sideline to the video business.
+The company announced a transformative [acquisition](/acquisition/) in late 2025 that would substantially grow its computing infrastructure business. The details are still coming into focus, but the direction is clear: Rumble wants to be a serious player in the cloud-computing market, not just a sideline to the video business.
 
 ## Cash flow and capital allocation
 

@@ -10,17 +10,17 @@ keywords:
 handwritten: true
 ---
 
-LaFayette Acquisition Corp. is a blank-check company. Think of it as a shell with a checkbook. The company raises cash from investors, deposits it into a trust account, and then goes hunting for a real business to buy or merge with. Until that deal closes, there is no operating company, no products, no customers, and no revenue. It is a vehicle, not a business.
+LaFayette [Acquisition](/acquisition/) Corp. is a blank-check company. Think of it as a shell with a checkbook. The company raises cash from investors, deposits it into a trust account, and then goes hunting for a real business to buy or merge with. Until that deal closes, there is no operating company, no products, no customers, and no revenue. It is a vehicle, not a business.
 
-The company was formed in Paris and listed on Nasdaq in October 2025, raising $115 million. Its securities trade in three forms: units (combining an ordinary share and a warrant), ordinary shares under the ticker LAFA, and warrants under LAFAR. Each warrant gives the holder the right to buy a share at $11.50.
+The company was formed in Paris and listed on [Nasdaq](/nasdaq/) in October 2025, raising $115 million. Its securities trade in three forms: units (combining an ordinary share and a warrant), ordinary shares under the ticker LAFA, and warrants under LAFAR. Each warrant gives the holder the right to buy a share at $11.50.
 
 ## How a SPAC works — and why it matters in cycles
 
-A SPAC exists to compress the path from private business to public market. Normally, a private company that wants to go public spends months on a traditional IPO roadshow, hiring underwriters, filing registration statements, and facing scrutiny from regulators and investors. A SPAC skips most of that. The shell goes public first, raising capital in a traditional public offering. Investors in that offering own shares and warrants. If the SPAC fails to complete a merger within a set time window (typically 24 months), it must return the trust account money to shareholders and dissolve.
+A SPAC exists to compress the path from private business to public market. Normally, a private company that wants to go public spends months on a traditional IPO roadshow, hiring underwriters, filing registration statements, and facing scrutiny from regulators and investors. A SPAC skips most of that. The shell goes public first, raising capital in a traditional public offering. Investors in that offering own shares and warrants. If the SPAC fails to complete a [merger](/merger/) within a set time window (typically 24 months), it must return the trust account money to shareholders and dissolve.
 
-This structure creates a cyclical pattern. When capital is plentiful and investors are hungry for growth, SPACs proliferate. Companies eager to access public markets — especially those the traditional IPO market might reject — will sponsor or merge with SPACs. The SPAC sponsors (the insiders who formed the company) have skin in the game through founder shares that are worthless unless a deal closes. That creates alignment with public shareholders in hunting for targets.
+This structure creates a cyclical pattern. When capital is plentiful and investors are hungry for growth, SPACs proliferate. Companies eager to access public markets — especially those the traditional IPO market might reject — will sponsor or merge with SPACs. The SPAC sponsors (the insiders who formed the company) have skin in the game through [founder shares](/founder-shares/) that are worthless unless a deal closes. That creates alignment with public shareholders in hunting for targets.
 
-When capital freezes — during downturns, rate spikes, or broad equity sell-offs — SPAC funding dries up. Fewer sponsors form new shells, fewer companies consider SPAC mergers as an exit route, and existing SPACs struggle to complete deals before their clocks run out. Blank-check stocks become pariahs. Mergers that would have been celebratory in a bull market become liability dump sales in a bear market.
+When capital freezes — during downturns, rate spikes, or broad equity sell-offs — SPAC funding dries up. Fewer sponsors form new shells, fewer companies consider SPAC mergers as an exit route, and existing SPACs struggle to complete deals before their clocks run out. Blank-check stocks become pariahs. Mergers that would have been celebratory in a [bull market](/bull-market/) become liability dump sales in a [bear market](/bear-market/).
 
 ## LaFayette's position and strategy
 
@@ -32,7 +32,7 @@ That is a wide net. The breadth itself signals the realities of SPAC searching: 
 
 For holders of LAFAR shares or warrants, the cyclical risk is real. If the current bull market in growth stocks falters, or if capital becomes scarce, LaFayette's odds of completing a deal in attractive terms shrink sharply. A prolonged market downturn could force a rushed merger on weaker terms than the sponsors would have negotiated two years prior. Alternatively, if no deal emerges before the deadline, the company liquidates and shareholders get trust account assets only — with any upside from the merged entity erased.
 
-Warrants carry additional leverage to both the upside and downside. They expire worthless if the underlying share never reaches the strike price, and they offer outsized gains if a successful merger drives the share price well above $11.50. But that leverage cuts both ways in a downturn.
+Warrants carry additional leverage to both the upside and downside. They expire worthless if the underlying share never reaches the [strike price](/strike-price/), and they offer outsized gains if a successful merger drives the share price well above $11.50. But that leverage cuts both ways in a downturn.
 
 ## What to watch
 

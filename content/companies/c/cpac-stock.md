@@ -29,7 +29,7 @@ Like all cement makers, Pacasmayo is capital-intensive—mills require substanti
 
 ## Currency and Country Risk
 
-A significant layer of complexity arises because Pacasmayo's revenues are primarily in Peruvian and Bolivian soles, while its New York-listed [ADR](/preferred-stock/) is denominated in dollars. Exchange fluctuations between the U.S. dollar and the sol directly affect the dollar-equivalent value of the company's earnings when reported to U.S. shareholders. During periods of emerging-market weakness or flight to safety, the sol can weaken sharply, eroding returns for U.S. investors even if Pacasmayo's cement sales remain strong in local currency. Beyond currency, Peru and Bolivia face periodic political and regulatory uncertainty—tax policy changes, labor disputes, or shifts in public infrastructure spending can materially alter the company's operating environment with little notice.
+A significant layer of complexity arises because Pacasmayo's revenues are primarily in Peruvian and Bolivian soles, while its New York-listed [ADR](/preferred-stock/) is denominated in dollars. Exchange fluctuations between the [U.S. dollar](/us-dollar/) and the sol directly affect the dollar-equivalent value of the company's earnings when reported to U.S. shareholders. During periods of emerging-market weakness or flight to safety, the sol can weaken sharply, eroding returns for U.S. investors even if Pacasmayo's cement sales remain strong in local currency. Beyond currency, Peru and Bolivia face periodic political and regulatory uncertainty—tax policy changes, labor disputes, or shifts in public infrastructure spending can materially alter the company's operating environment with little notice.
 
 ## Competitive Position and Market Share
 

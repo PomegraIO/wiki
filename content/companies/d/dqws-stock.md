@@ -48,7 +48,7 @@ The company must therefore invest in AML and sanctions-screening infrastructure.
 
 ## Currency and Capital Controls
 
-While Switzerland does not restrict most [capital flows](/capital-flows/), the Swiss [National Bank](/nbhc-stock/) (SNB) monitors flows and can impose restrictions in extreme circumstances. More relevantly, DSwiss must navigate foreign-exchange regulation if it converts [Swiss Francs](/swiss-franc/) to US Dollars or other currencies at scale. The SNB regulates Swiss banks' currency operations and imposes liquidity requirements denominated in Swiss Francs.
+While Switzerland does not restrict most [capital flows](/capital-flows/), the Swiss National Bank (SNB) monitors flows and can impose restrictions in extreme circumstances. More relevantly, DSwiss must navigate foreign-exchange regulation if it converts [Swiss Francs](/swiss-franc/) to US Dollars or other currencies at scale. The SNB regulates Swiss banks' currency operations and imposes liquidity requirements denominated in Swiss Francs.
 
 For a company generating revenue in multiple currencies (Swiss Francs, US Dollars, Euros) and paying investors in multiple currencies, currency management is both a financial decision and a regulatory one. The company must maintain sufficient Swiss Franc liquidity to satisfy SNB requirements, even if deploying capital in other currencies would be more profitable. This creates hidden drag on returns for international shareholders.
 

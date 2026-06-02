@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Itau Unibanco is Brazil's largest bank and among the most profitable [financial institutions](/fisi-stock/) in Latin America. The company traces its lineage to Itau Bank, founded in 1945, and Unibanco, founded in 1924, which merged in 2008 to create the modern Itau Unibanco. It operates across Brazil with a vast network of branches and digital channels, serving individuals, small and medium-sized businesses, large corporations, and institutional investors. The business is traditional: take deposits from customers, lend money to borrowers at higher rates, and capture the spread as profit. But Itau is much more than that simple description. It is a wealth manager for the richest Brazilians, an investment banker for large corporations, an insurance company, an asset manager, and a trading operation. The [diversification](/diversification/) and scale have made it remarkably profitable even in an environment where Brazil's economic growth has been uneven and its currency has been volatile.
+Itau Unibanco is Brazil's largest bank and among the most profitable financial institutions in Latin America. The company traces its lineage to Itau Bank, founded in 1945, and Unibanco, founded in 1924, which merged in 2008 to create the modern Itau Unibanco. It operates across Brazil with a vast network of branches and digital channels, serving individuals, small and medium-sized businesses, large corporations, and institutional investors. The business is traditional: take deposits from customers, lend money to borrowers at higher rates, and capture the spread as profit. But Itau is much more than that simple description. It is a wealth manager for the richest Brazilians, an investment banker for large corporations, an insurance company, an asset manager, and a trading operation. The [diversification](/diversification/) and scale have made it remarkably profitable even in an environment where Brazil's economic growth has been uneven and its currency has been volatile.
 
 ## The Brazilian banking tradition
 
@@ -45,7 +45,7 @@ The result is that Itau generates returns on equity that are among the highest i
 
 ## The currency and geopolitical dimension
 
-Itau is incorporated in Brazil and reports in Brazilian reais. Its earnings, its assets, and its liabilities are predominantly in reais. When the real weakens against the U.S. dollar — which it has done significantly over the past decade — the dollar-value of Itau's earnings and book value decline. For an American investor holding the ADR ([American Depositary Receipt](/adr/)), this means that Itau shares offer currency exposure to Brazil alongside financial exposure to the bank.
+Itau is incorporated in Brazil and reports in Brazilian reais. Its earnings, its assets, and its liabilities are predominantly in reais. When the real weakens against the [U.S. dollar](/us-dollar/) — which it has done significantly over the past decade — the dollar-value of Itau's earnings and book value decline. For an American investor holding the ADR ([American Depositary Receipt](/adr/)), this means that Itau shares offer currency exposure to Brazil alongside financial exposure to the bank.
 
 That currency exposure is significant. Brazil's [external debt](/external-debt/) is dollar-denominated. When the real weakens, servicing that debt becomes more expensive, which puts pressure on the government and the economy. For Itau, a weak real can increase credit losses as borrowers struggle to service dollar debt and economic growth slows.
 

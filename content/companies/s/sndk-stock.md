@@ -17,7 +17,7 @@ The story of SanDisk is the story of flash memory's rise from novelty to ubiquit
 
 ## The founding and the emergence of flash
 
-SanDisk was co-founded by Eli Harari and Shoji Ariizumi in Santa Clara, California. Harari was an electrical engineer who had worked [on semiconductor](/on-stock/) memory; Ariizumi was a Japanese businessman with experience in the memory sector. Their insight was simple but prescient: flash memory would become the dominant form of non-volatile storage in mobile and portable devices, and they could build a major company by designing, manufacturing, and selling flash products.
+SanDisk was co-founded by Eli Harari and Shoji Ariizumi in Santa Clara, California. Harari was an electrical engineer who had worked on semiconductor memory; Ariizumi was a Japanese businessman with experience in the memory sector. Their insight was simple but prescient: flash memory would become the dominant form of non-volatile storage in mobile and portable devices, and they could build a major company by designing, manufacturing, and selling flash products.
 
 The first products were memory cards — initially PCMCIA cards, then the more familiar CompactFlash and Secure Digital (SD) cards that became standard in digital cameras in the 1990s and 2000s. These cards were simple to understand: a digital camera needed somewhere to store photos, and a flash memory card was the solution. SanDisk's cards worked reliably, and the company executed well on manufacturing, supply chain, and customer relationships with camera makers.
 

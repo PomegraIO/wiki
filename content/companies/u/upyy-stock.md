@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-UPAY Inc. is a fintech holding company listed in the United States ([NASDAQ](/nasdaq/): UPYY) that bundles together loan management, payment infrastructure, and compliance technologies through a collection of operating subsidiaries. The company does not operate as a unified consumer brand but rather as a platform provider serving [financial institutions](/fisi-stock/), lenders, and retail channels in emerging markets — predominantly South Africa — and expanding into adjacent geographies.
+UPAY Inc. is a fintech holding company listed in the United States ([NASDAQ](/nasdaq/): UPYY) that bundles together loan management, payment infrastructure, and compliance technologies through a collection of operating subsidiaries. The company does not operate as a unified consumer brand but rather as a platform provider serving financial institutions, lenders, and retail channels in emerging markets — predominantly South Africa — and expanding into adjacent geographies.
 
 The holding company model allows UPAY to acquire or develop specialized tools and then deploy them across the group. A customer in one subsidiary's vertical might use services from another. The architecture is typical of holding companies in fintech: buy or build a capability, license it to partners, earn fees as transactions flow through, and reinvest in newer technologies or adjacent verticals.
 

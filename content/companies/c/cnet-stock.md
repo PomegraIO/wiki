@@ -27,7 +27,7 @@ Before diving into the business fundamentals, you must understand that ZW Data o
 Key documents to find:
 - **Foreign Private Issuer status**: Does the company file with auditor attestation requirements similar to U.S. firms, or is there an exemption? This affects financial statement reliability.
 - **China compliance representations**: What data residency rules apply to the company's operations? Are there restrictions on what Chinese government client data can flow to the U.S.?
-- **Currency exposure**: If the company earns revenue in Chinese yuan (CNY) or other regional currencies and reports in U.S. dollars (USD), currency translation risk will show up in the [consolidated statements](/consolidated-statements/).
+- **Currency exposure**: If the company earns revenue in Chinese yuan (CNY) or other regional currencies and reports in [U.S. dollars](/us-dollar/) (USD), currency translation risk will show up in the [consolidated statements](/consolidated-statements/).
 
 This geopolitical layer is not peripheral—it shapes the entire investment thesis. A shift in U.S.-China policy, a new export control rule, or a Chinese government order can materially reduce the addressable market overnight.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Atlanta Braves Holdings, Inc. is the parent company of the Atlanta Braves baseball team, one of the oldest and most storied franchises in Major League Baseball. The company is majority-owned by Liberty Media Corporation and trades on the NASDAQ under the ticker BATRK. Unlike a typical manufacturing or service company, the Braves' business model rests on its ability to draw fans to a stadium, sell broadcast rights to media outlets, and monetize the brand through sponsorships and merchandise. The business is intensely cyclical — tied to the team's on-field performance, fan enthusiasm, and broader economic conditions — but has proven durable across more than a century of operation. The company generates revenue from five main sources: ticket sales, broadcasting rights, concessions, sponsorships, and venue rentals.
+[Atlanta Braves](/batra-stock/) Holdings, Inc. is the parent company of the Atlanta Braves baseball team, one of the oldest and most storied franchises in Major League Baseball. The company is majority-owned by [Liberty Media](/fwona-stock/) Corporation and trades on the [NASDAQ](/nasdaq/) under the ticker BATRK. Unlike a typical manufacturing or service company, the Braves' business model rests on its ability to draw fans to a stadium, sell broadcast rights to media outlets, and monetize the brand through sponsorships and merchandise. The business is intensely cyclical — tied to the team's on-field performance, fan enthusiasm, and broader economic conditions — but has proven durable across more than a century of operation. The company generates revenue from five main sources: ticket sales, broadcasting rights, concessions, sponsorships, and venue rentals.
 
 <aside class="wiki-infobox">
 <table>
@@ -50,7 +50,7 @@ The goal of concession and merchandise revenue is to maximize the per-fan yield:
 
 ## Sponsorships and naming rights
 
-Corporate sponsors pay the Braves to be associated with the team and the stadium. Truist Park is named after Truist Financial Corporation, the major bank that holds the naming rights. Sponsors also partner with the team for specific programs (a health insurance company sponsors the team's health-and-wellness initiatives, a soft-drink company becomes the "official beverage," etc.). Sponsorship deals range from modest five-figure packages to multi-million-dollar, multi-year agreements.
+Corporate sponsors pay the Braves to be associated with the team and the stadium. Truist Park is named after [Truist Financial](/tfc-stock/) Corporation, the major bank that holds the naming rights. Sponsors also partner with the team for specific programs (a health insurance company sponsors the team's health-and-wellness initiatives, a soft-drink company becomes the "official beverage," etc.). Sponsorship deals range from modest five-figure packages to multi-million-dollar, multi-year agreements.
 
 The value of sponsorships is tied to the team's visibility, fan engagement, and the quality of the partnership experience. Teams that perform well and draw large audiences are more attractive to sponsors; teams that underperform or draw small crowds have less sponsorship value. Sponsorships also provide media opportunities — the sponsor's logo appears on the field, in broadcasts, and at the stadium, providing brand visibility.
 
@@ -62,7 +62,7 @@ The second major cost category is stadium operations and maintenance. The Braves
 
 Administrative and marketing costs support the front office, coaching staff, and efforts to promote the team and sell tickets and sponsorships.
 
-The team has historically carried some debt, particularly related to the stadium financing, though Liberty Media has provided capital to keep the balance sheet manageable. The company does not pay a dividend; instead, any cash generated is either reinvested in the team (higher payroll, facility improvements) or consolidated into Liberty Media's corporate results.
+The team has historically carried some debt, particularly related to the stadium financing, though Liberty Media has provided capital to keep the [balance sheet](/balance-sheet/) manageable. The company does not pay a [dividend](/dividend/); instead, any cash generated is either reinvested in the team (higher payroll, facility improvements) or consolidated into Liberty Media's corporate results.
 
 ## Competitive dynamics and the MLB ecosystem
 
@@ -76,6 +76,6 @@ The Braves are also subject to the economics of Major League Baseball as a whole
 
 The company files a 10-K (CIK 0001958140) that details revenue by category (tickets, broadcast, sponsorships, other) and discusses trends in attendance, payroll, and strategic initiatives. The quarterly 10-Q filings are often more relevant because sports franchises' revenues are heavily seasonal: home games are concentrated in spring through fall, so quarterly earnings can swing significantly.
 
-Critical metrics: attendance trends show whether the team is drawing fans or losing them. Average ticket price indicates pricing power and fan demand. Payroll (disclosed in team salary databases and league reports) shows management's spending philosophy and competitive ambitions. Broadcast revenue and sponsorship revenue are key indicators of commercial success beyond the ticket window. Operating margins show whether the business is generating profit or running at a loss.
+Critical metrics: attendance trends show whether the team is drawing fans or losing them. Average ticket price indicates pricing power and fan demand. Payroll (disclosed in team salary databases and league reports) shows management's spending philosophy and competitive ambitions. Broadcast revenue and sponsorship revenue are key indicators of commercial success beyond the ticket window. [Operating margins](/operating-margin/) show whether the business is generating profit or running at a loss.
 
-Investors should also track the team's on-field performance and the strength of the roster, as these drive fan engagement and ultimately revenue. A team in a prolonged rebuilding phase may suffer declining attendance and sponsorship value that offsets any long-term competitive benefit. The Braves' investment case depends on a combination of business-side execution (stadium, marketing, partnerships) and baseball-side success (competitive team, player development, smart acquisitions).
+Investors should also track the team's on-field performance and the strength of the roster, as these drive fan engagement and ultimately revenue. A team in a prolonged rebuilding phase may suffer declining attendance and sponsorship value that offsets any long-term competitive benefit. The Braves' investment case depends on a combination of business-side execution (stadium, marketing, partnerships) and baseball-side success (competitive team, player development, smart [acquisitions](/acquisition/)).

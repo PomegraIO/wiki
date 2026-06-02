@@ -42,7 +42,7 @@ BGSI offers repair warranties (often for paint, labor, or parts) that create ong
 
 ## Data Privacy and Digital Records
 
-Modern collision repair facilities maintain digital records of customer vehicles, insurance claims, owner contact information, and repair histories. These records are private and potentially subject to state privacy laws, data breach notification statutes, and insurance regulation. A data breach exposing customer information can trigger notification obligations, regulatory investigation, and reputational damage. BGSI must maintain cybersecurity controls and incident response procedures.
+Modern collision repair facilities maintain digital records of customer vehicles, insurance claims, owner contact information, and repair histories. These records are private and potentially subject to state privacy laws, data breach notification statutes, and insurance [regulation. A](/regulation-a/) data breach exposing customer information can trigger notification obligations, regulatory investigation, and reputational damage. BGSI must maintain cybersecurity controls and incident response procedures.
 
 ## Cross-Border Complexity for Canadian Operations
 

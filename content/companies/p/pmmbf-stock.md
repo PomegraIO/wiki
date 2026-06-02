@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Pembina Pipeline Corp is a Canadian energy company. It owns pipes, plants, and storage facilities. These pipes move oil and natural gas. The company makes money when customers pay to use the pipes.
+[Pembina Pipeline](/pba-stock/) Corp is a Canadian energy company. It owns pipes, plants, and storage facilities. These pipes move oil and [natural gas](/natural-gas/). The company makes money when customers pay to use the pipes.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Pembina Pipeline Corp is a Canadian energy company. It owns pipes, plants, and s
 
 ## What Pembina owns
 
-Pembina owns thousands of kilometers of pipeline. Some pipes carry crude oil. Some carry natural gas. Some carry byproducts like propane and butane. The company also owns plants where raw natural gas is processed to remove unwanted substances. It owns storage tanks where oil sits before being shipped. It owns terminals where oil is transferred from one mode of transport to another.
+Pembina owns thousands of kilometers of pipeline. Some pipes carry [crude oil](/crude-oil/). Some carry natural gas. Some carry byproducts like propane and butane. The company also owns plants where raw natural gas is processed to remove unwanted substances. It owns storage tanks where oil sits before being shipped. It owns terminals where oil is transferred from one mode of transport to another.
 
 ## How it makes money
 
@@ -65,4 +65,4 @@ A fourth risk is the long-term shift away from oil and gas. As the world uses le
 
 ## How to learn more
 
-Pembina files annual reports (10-K) with the US Securities and Exchange Commission. The report (SEC CIK 0001546066) explains what pipes Pembina owns, where they are, which customers use them, and how much revenue they generate. Quarterly earnings reports show whether revenue is stable or declining. Watch for news about new pipelines being approved or canceled. Watch for producers announcing whether they will drill more or less. As with any single security, nothing here is a recommendation to buy or sell — only an explanation of how Pembina works.
+Pembina files [annual reports](/10-k/) (10-K) with the US [Securities and Exchange Commission](/securities-and-exchange-commission/). The report (SEC CIK 0001546066) explains what pipes Pembina owns, where they are, which customers use them, and how much revenue they generate. Quarterly earnings reports show whether revenue is stable or declining. Watch for news about new pipelines being approved or canceled. Watch for producers announcing whether they will drill more or less. As with any single security, nothing here is a recommendation to buy or sell — only an explanation of how Pembina works.

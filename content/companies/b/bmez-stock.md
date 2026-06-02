@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-[BlackRock Health Sciences](/bme-stock/) Term Trust is a closed-end investment fund—a fixed pool of capital that trades on an exchange like a stock—dedicated to investing in publicly traded healthcare and life-sciences companies. Managed by [BlackRock](/blk-stock/), one of the world's largest asset managers, the fund seeks to deliver returns to shareholders through a combination of dividend income and capital appreciation, focusing on companies engaged in pharmaceuticals, biotechnology, medical devices, [healthcare services](/hcsg-stock/), and related segments.
+[BlackRock Health Sciences](/bme-stock/) Term Trust is a closed-end investment fund—a fixed pool of capital that trades on an exchange like a stock—dedicated to investing in publicly traded healthcare and life-sciences companies. Managed by [BlackRock](/blk-stock/), one of the world's largest asset managers, the fund seeks to deliver returns to shareholders through a combination of [dividend](/dividend/) income and capital appreciation, focusing on companies engaged in pharmaceuticals, biotechnology, medical devices, healthcare services, and related segments.
 
 <aside class="wiki-infobox">
 <table>
@@ -67,6 +67,6 @@ The fund's performance is sensitive to healthcare-sector performance broadly. In
 
 Begin with the fund's prospectus and most recent [annual report](/10-k/), available through BlackRock's website and the SEC (CIK 0001785971). These documents detail the portfolio holdings, the leverage structure, distribution policy, and management strategy. The fact sheet, updated monthly or quarterly, shows the current NAV, the premium or discount to NAV at which shares trade, and recent distribution history.
 
-Watch the NAV performance relative to a healthcare-sector benchmark such as the S&P Health Care Index or the Nasdaq Biotechnology Index. If the fund consistently underperforms its peer index, the active management is not adding value. Compare the fund's monthly distribution to the dividend yield of a passive healthcare ETF; a significantly higher distribution may signal return of capital rather than pure yield, which is unsustainable long-term.
+Watch the NAV performance relative to a healthcare-sector benchmark such as the S&P Health Care Index or the [Nasdaq](/nasdaq/) Biotechnology Index. If the fund consistently underperforms its peer index, the active management is not adding value. Compare the fund's monthly distribution to the dividend yield of a passive healthcare ETF; a significantly higher distribution may signal return of capital rather than pure yield, which is unsustainable long-term.
 
 Monitor the [leverage ratio](/leverage-ratio-forex/) and the interest rates the fund is paying on borrowed capital. As rates rise, the cost of leverage becomes clearer. Also watch for commentary from BlackRock's management on the healthcare sector outlook and any changes to the investment team or strategy. Major pharmaceutical or biotechnology holdings and their performance are visible in the portfolio; tracking clinical trial results, regulatory approvals, and competitive dynamics in those companies is essential to understanding downside and upside.

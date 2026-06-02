@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Erayak Power Solution Group Inc., trading on the NASDAQ under RAYA, manufactures power generation equipment and energy management systems. The company's trajectory has been shaped by a fundamental shift in how the world thinks about electricity—from a straightforward extraction-and-burn model toward a complex mix of renewable sources, grid modernization, and distributed power solutions. What began as a manufacturer of conventional power equipment has had to adapt, investing in new technologies while managing the decline of its core legacy business.
+Erayak Power Solution Group Inc., trading on the [NASDAQ](/nasdaq/) under RAYA, manufactures power generation equipment and energy management systems. The company's trajectory has been shaped by a fundamental shift in how the world thinks about electricity—from a straightforward extraction-and-burn model toward a complex mix of renewable sources, grid modernization, and distributed power solutions. What began as a manufacturer of conventional power equipment has had to adapt, investing in new technologies while managing the decline of its core legacy business.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ Erayak Power Solution Group Inc., trading on the NASDAQ under RAYA, manufactures
 
 Erayak was founded to serve a straightforward market: industrial and commercial customers who needed reliable backup power and primary power generation. Diesel generators and natural-gas-powered systems were the backbone of that business. Power outages are costly for factories, data centres, hospitals, and other critical facilities, so demand for backup generation has always been robust. The company built products, established distribution channels, and developed service relationships that kept equipment running.
 
-For decades, this was a stable, predictable business. Oil and natural gas were commodities bought and used; the company's job was to engineer efficient engines that burned them reliably. Margins were reasonable, and the addressable market was broad—any facility that could not afford downtime was a potential customer. Erayak grew through that era, establishing manufacturing capacity and regional service networks.
+For decades, this was a stable, predictable business. Oil and [natural gas](/natural-gas/) were commodities bought and used; the company's job was to engineer efficient engines that burned them reliably. Margins were reasonable, and the addressable market was broad—any facility that could not afford downtime was a potential customer. Erayak grew through that era, establishing manufacturing capacity and regional service networks.
 
 ## The energy transition complicates the picture
 
@@ -54,7 +54,7 @@ Utility companies—the largest power-generation customers—are facing their ow
 
 ## Capital and investment pressures
 
-Transitioning a manufacturing company from one technology paradigm to another requires sustained capital investment. Erayak has had to invest in new manufacturing capabilities, software development, and talent acquisition. These investments depress near-term profitability but are necessary to compete in the emerging business lines.
+Transitioning a manufacturing company from one technology paradigm to another requires sustained capital investment. Erayak has had to invest in new manufacturing capabilities, software development, and talent [acquisition](/acquisition/). These investments depress near-term profitability but are necessary to compete in the emerging business lines.
 
 At the same time, the company is managing the cash-generation profile of a maturing legacy business alongside the cash burn of newer, pre-scale segments. This creates constant tension in capital allocation: reinvest heavily to capture the long-term opportunity, or preserve cash and gradually shrink. The company has tried to balance both, which sometimes means underinvesting in either direction.
 
@@ -68,7 +68,7 @@ The company's competitive advantage, if sustainable, lies in its existing custom
 
 Erayak's future depends on whether it can establish genuine leadership in hybrid and distributed power systems before larger players (such as traditional power-equipment manufacturers or energy companies) consolidate the market. The company also needs to demonstrate that its software and service businesses can scale and sustain margins competitive with software companies rather than traditional equipment manufacturers.
 
-For investors, the company is neither a pure-play on the energy transition nor a mature cash-generator. It is a company caught between two eras, trying to manage decline in one business while building scale in another. The value in holding the stock depends on whether management's strategic bets prove correct and whether the balance sheet can absorb the transition costs without forcing capital-raising at distressed prices.
+For investors, the company is neither a pure-play on the energy transition nor a mature cash-generator. It is a company caught between two eras, trying to manage decline in one business while building scale in another. The value in holding the stock depends on whether management's strategic bets prove correct and whether the [balance sheet](/balance-sheet/) can absorb the transition costs without forcing capital-raising at distressed prices.
 
 ## How to research Erayak
 

@@ -17,7 +17,7 @@ The universe starts broad — all developed markets outside North America — an
 
 Currency exposure is present and unhedged. Holding shares denominated in euros, pounds, yen, and other developed-market currencies means the portfolio moves with both the stocks themselves and the foreign exchange rates at which those currencies trade against the dollar. Over long periods, currency movements smooth out. In any given year, they can be meaningful.
 
-The expense ratio reflects the specialization. It sits comfortably above a plain global index but is reasonable for a fund carrying a defined ethical mandate. Liquidity during normal trading hours is solid; the fund trades with tight spreads and moves meaningful volume, so a buyer or seller of typical size will not move the price significantly.
+The [expense ratio](/expense-ratio/) reflects the specialization. It sits comfortably above a plain global index but is reasonable for a fund carrying a defined ethical mandate. Liquidity during normal trading hours is solid; the fund trades with tight spreads and moves meaningful volume, so a buyer or seller of typical size will not move the price significantly.
 
 The real test of any values-based fund is whether the values work against returns. By construction, CEFA will miss out on gains in the industries it excludes, no matter how profitable those sectors become. A surge in defense stocks during geopolitical tension simply does not benefit the fund. The exclusion of contraceptive makers removes some healthcare companies from the possible holdings. These are features, not flaws, from the fund's perspective. But an investor needs to understand that values-based screening carries a return cost.
 

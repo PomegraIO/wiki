@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-*A **leveraged ETF** uses derivatives and borrowing to amplify the daily returns of an underlying security. ABNG (Leverage Shares 2x Long ABNB Daily ETF) is a fund that aims to deliver twice the daily return of Airbnb Inc. (ABNB) by combining equity positions and equity swaps. It is issued by Leverage Shares, a London-based provider of structured products, and is built explicitly for tactical traders making short-term directional bets, not for buy-and-hold investors.*
+*A **[leveraged ETF](/leveraged-etf/)** uses derivatives and borrowing to amplify the daily returns of an underlying security. ABNG (Leverage Shares 2x Long ABNB Daily ETF) is a fund that aims to deliver twice the daily return of [Airbnb](/abnb-stock/) Inc. (ABNB) by combining equity positions and [equity swaps](/equity-swap/). It is issued by Leverage Shares, a London-based provider of structured products, and is built explicitly for tactical traders making short-term directional bets, not for buy-and-hold investors.*
 
 ## Is this a 2x bet on Airbnb, or something else?
 
 ABNG holds Airbnb stock and uses equity swaps—financial contracts with banks—to create 2x leveraged exposure without margin borrowing. If ABNB rises by 1 percent on a given trading day, ABNG aims to rise by 2 percent. If ABNB falls by 1 percent, ABNG targets a 2 percent decline. The fund resets its leverage position at the close of each trading day to maintain the constant 2x ratio heading into the next session.
 
-The swap structure is the mechanical heart of the fund. Leverage Shares enters into agreements with banks in which the fund receives twice the daily return of ABNB in exchange for paying financing rates and the fund's fees. This arrangement avoids margin debt and the associated risks, but it introduces counterparty risk: the fund is only as safe as the banks providing the swaps.
+The swap structure is the mechanical heart of the fund. Leverage Shares enters into agreements with banks in which the fund receives twice the daily return of ABNB in exchange for paying financing rates and the fund's fees. This arrangement avoids margin debt and the associated risks, but it introduces [counterparty risk](/counterparty-risk/): the fund is only as safe as the banks providing the swaps.
 
 ## Why does daily rebalancing destroy value in volatile markets?
 
@@ -35,9 +35,9 @@ The critical rule is this: hold ABNG only as long as your trade thesis is active
 
 ## What are the costs and how does counterparty risk work?
 
-ABNG carries an expense ratio of approximately 1.5 percent annually, which is steep compared to an unleveraged ABNB holding but standard for single-stock leveraged products. The high cost reflects the continuous derivative hedging and rebalancing required each day. Additionally, the fund has a bid-ask spread—the gap between buy and sell prices—which adds a friction cost on entry and exit. Over days or weeks, these costs are small relative to the leverage benefit; over months, they accumulate into drag.
+ABNG carries an [expense ratio](/expense-ratio/) of approximately 1.5 percent annually, which is steep compared to an unleveraged ABNB holding but standard for single-stock leveraged products. The high cost reflects the continuous derivative hedging and rebalancing required each day. Additionally, the fund has a [bid-ask spread](/bid-ask-spread/)—the gap between buy and sell prices—which adds a friction cost on entry and exit. Over days or weeks, these costs are small relative to the leverage benefit; over months, they accumulate into drag.
 
-The fund depends on banks to honor the swap agreements. If a major swap provider were to face severe financial stress, the fund could face losses or disruption. This is not a high-probability scenario, but it is a tail risk inherent in the structure. The prospectus discloses the counterparties, which are typically major global banks.
+The fund depends on banks to honor the swap agreements. If a major swap provider were to face severe financial stress, the fund could face losses or disruption. This is not a high-probability scenario, but it is a [tail risk](/tail-risk/) inherent in the structure. The prospectus discloses the counterparties, which are typically major global banks.
 
 ## What happens if I hold ABNG through different market conditions?
 

@@ -23,7 +23,7 @@ The company also generates income from software and financing. It sells point-of
 
 ## History and consolidation
 
-Watsco traces its roots to 1946, when it was founded as a small Miami-based air conditioning supply house. For decades it remained a regional player. The real transformation came in the 1990s and 2000s when a series of acquisitions—some organic growth, some by bolt-on purchases—consolidated Watsco into the dominant national player. The fragmented HVAC distribution market was full of regional competitors and family-run operations. Watsco bought many of them: Air Conditioning Supply, Baker Distributing, HD Supply's HVAC business, and dozens of smaller players. Each acquisition added warehouses, product expertise, brand relationships, and customer accounts.
+Watsco traces its roots to 1946, when it was founded as a small Miami-based air conditioning supply house. For decades it remained a regional player. The real transformation came in the 1990s and 2000s when a series of [acquisitions](/acquisition/)—some organic growth, some by bolt-on purchases—consolidated Watsco into the dominant national player. The fragmented HVAC distribution market was full of regional competitors and family-run operations. Watsco bought many of them: Air Conditioning Supply, Baker Distributing, HD Supply's HVAC business, and dozens of smaller players. Each acquisition added warehouses, product expertise, brand relationships, and customer accounts.
 
 This consolidation was not accidental. Management deliberately pursued a strategy of buying up smaller regional distributors and integrating them into Watsco's platform. The rationale was straightforward: larger scale means better terms from manufacturers, broader product selection, more efficient logistics, and the ability to invest in systems and talent that independent shops could not afford. Over time Watsco became the default choice for contractors across North America because of that scale.
 
@@ -43,9 +43,9 @@ These advantages are genuine but are not absolute. A well-capitalized competitor
 
 ## Challenges and headwinds
 
-Watsco is not risk-free. The residential HVAC market is tied to housing demand and interest rates. When mortgage rates spike, fewer people buy new homes or replace aging systems, and HVAC sales fall. Commercial and industrial refrigeration are more stable but still cyclical.
+Watsco is not risk-free. The residential HVAC market is tied to housing demand and [interest rates](/interest-rate/). When mortgage rates spike, fewer people buy new homes or replace aging systems, and HVAC sales fall. Commercial and industrial refrigeration are more stable but still cyclical.
 
-The company also faces pressure from big-box retailers and online ordering. Home Depot and Lowes sell some HVAC equipment to do-it-yourselfers, and the internet has made price transparency much higher. Some contractors now shop online and have equipment shipped directly rather than using a local wholesaler. This disintermediation is slow but real.
+The company also faces pressure from big-box retailers and online ordering. [Home Depot](/hd-stock/) and Lowes sell some HVAC equipment to do-it-yourselfers, and the internet has made price transparency much higher. Some contractors now shop online and have equipment shipped directly rather than using a local wholesaler. This disintermediation is slow but real.
 
 Manufacturer integration is another risk. If a major brand like Lennox or Carrier decided to bypass distributors and sell directly to contractors, Watsco would lose that revenue. So far this has not happened at scale, but manufacturers have experimented with direct channels. Watsco's relationships, services, and local presence give it some protection, but the threat exists.
 

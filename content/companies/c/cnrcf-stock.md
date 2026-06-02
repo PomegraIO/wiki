@@ -49,7 +49,7 @@ Reclamation standards in Canada are strict: the site must be left in a condition
 
 ## Provincial Fiscal Regime and Mining Taxes
 
-Canadian provinces impose mining taxes [or royalties](/or-stock/) on production. While Canter is currently exploring, not mining, future royalties or mining taxes will reduce the after-tax [return-on-equity](/return-on-equity/) on any deposit the company develops. Some provinces (such as Ontario) have low or no mining royalties, while others (Quebec, British Columbia) have higher rates or complex progressive royalty schemes that increase with commodity prices.
+Canadian provinces impose mining taxes or royalties on production. While Canter is currently exploring, not mining, future royalties or mining taxes will reduce the after-tax [return-on-equity](/return-on-equity/) on any deposit the company develops. Some provinces (such as Ontario) have low or no mining royalties, while others (Quebec, British Columbia) have higher rates or complex progressive royalty schemes that increase with commodity prices.
 
 Canter's choice of jurisdiction shapes its long-term economics. A rich deposit in a high-royalty province may be less economically attractive than a smaller deposit in a low-royalty province. The company's exploration strategy is thus partly a navigation of fiscal and regulatory geography.
 

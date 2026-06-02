@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Rogers Communications operates the largest wireless network in Canada and runs a sprawling portfolio of internet, television, and media properties across the country. The company is at the heart of Canada's telecom infrastructure, carrying roughly one-third of the nation's mobile subscribers. It is vertically integrated in ways few North American carriers are: it owns both wireless spectrum and a major sports broadcaster, giving it a rare bundle of media and connectivity assets. The business is fundamentally cyclical — fixed-cost networks prosper when the economy is strong and customers can afford service upgrades, yet they are resilient when the economy tightens, because telecom is a necessity good with high customer switching costs.
+[Rogers Communications](/rci-stock/) operates the largest wireless network in Canada and runs a sprawling portfolio of internet, television, and media properties across the country. The company is at the heart of Canada's telecom infrastructure, carrying roughly one-third of the nation's mobile subscribers. It is vertically integrated in ways few North American carriers are: it owns both wireless spectrum and a major sports broadcaster, giving it a rare bundle of media and connectivity assets. The business is fundamentally cyclical — fixed-cost networks prosper when the economy is strong and customers can afford service upgrades, yet they are resilient when the economy tightens, because telecom is a necessity good with high customer switching costs.
 
 <aside class="wiki-infobox">
 <table>
@@ -37,7 +37,7 @@ The wireless business is the growth and profit engine. Rogers Wireless sells con
 
 The company's cyclicality is visible in how these segments perform across the economic cycle. In boom years, consumers upgrade devices faster, churn to competitors falls, and average revenue per user climbs as customers move to pricier plans. In downturns, upgrade cycles stretch, churn rises, and the company must work harder to retain subscribers. The fixed-cost nature of the network — the spectrum license, the towers, the fiber backbone — means that even in a downturn the company must continue major capex to stay competitive, yet revenue may not grow. This mismatch between fixed costs and variable revenue is the defining risk in mature telecom.
 
-Media earnings are even more cyclical: advertising spending dries up in recessions, and the cost of sports rights is sticky upward (teams raise fees whether the economy is good or bad). Yet Sportsnet also attracts customer loyalty — sports fans value the content enough to stay with Rogers even if a rival offers a slightly cheaper phone plan.
+Media earnings are even more cyclical: advertising spending dries up in [recessions](/recession/), and the cost of sports rights is sticky upward (teams raise fees whether the economy is good or bad). Yet Sportsnet also attracts customer loyalty — sports fans value the content enough to stay with Rogers even if a rival offers a slightly cheaper phone plan.
 
 ## Competition and consolidation pressure
 
@@ -49,12 +49,12 @@ The question facing Rogers is whether it can sustain high margins on both wirele
 
 ## Cash flows and shareholder returns
 
-Rogers generates strong operating cash flow, and the company has been willing to return it to shareholders. It has maintained a dividend and occasionally bought back shares, though the capital-intensive nature of telecom limits how much cash is left over after reinvestment and interest on debt. The company carries moderate debt, typical for a regulated utility-like incumbent, and debt repayment is a standing use of free cash flow.
+Rogers generates strong operating cash flow, and the company has been willing to return it to shareholders. It has maintained a [dividend](/dividend/) and occasionally bought back shares, though the capital-intensive nature of telecom limits how much cash is left over after reinvestment and interest on debt. The company carries moderate debt, typical for a regulated utility-like incumbent, and debt repayment is a standing use of [free cash flow](/free-cash-flow/).
 
-In downturns, the dividend becomes a point of pressure — cutting it signals distress and alienates long-term holders, but maintaining it while the business weakens can strain the balance sheet. Rogers has historically tried to preserve dividends as a signal of stability, though the company has occasional resets when circumstances force it.
+In downturns, the dividend becomes a point of pressure — cutting it signals distress and alienates long-term holders, but maintaining it while the business weakens can strain the [balance sheet](/balance-sheet/). Rogers has historically tried to preserve dividends as a signal of stability, though the company has occasional resets when circumstances force it.
 
 ## Understanding Rogers as an investment
 
 Rogers is best understood as a mature incumbent with a portfolio hedging strategy — the wireless business provides recurring, oligopolistic profits, while Sportsnet offers upside in good years and distraction in weak ones. Anyone researching the company should start with the 10-K (SEC CIK 0000733099), which breaks revenue by segment and explains the regulatory and competitive landscape clearly. Pay attention to wireless subscriber trends (net additions and churn), average revenue per user, and the trend in media margins. Watch commentary on spectrum and 5G capex to gauge whether management expects to maintain its network leadership. The cost of sports rights is often disclosed in earnings calls and should be tracked, as it is the most volatile piece of the media portfolio.
 
-The price-to-earnings ratio frames how the market values the recurring cash flow relative to growth companies. Compare it to Bell and Telus to see whether Rogers is trading at a premium or discount relative to peers. Free cash flow yield indicates how much cash the business is producing relative to the share price — a metric that matters more for a mature incumbent than growth rate. Like all stocks, Rogers shares trade at market prices set by supply and demand, and nothing here is advice to buy or sell.
+The [price-to-earnings ratio](/price-to-earnings-ratio/) frames how the market values the recurring cash flow relative to growth companies. Compare it to Bell and Telus to see whether Rogers is trading at a premium or discount relative to peers. Free cash flow yield indicates how much cash the business is producing relative to the share price — a metric that matters more for a mature incumbent than growth rate. Like all stocks, Rogers shares trade at market prices set by supply and demand, and nothing here is advice to buy or sell.

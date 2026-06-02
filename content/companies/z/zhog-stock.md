@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The F/m Opportunistic Income ETF — ticker ZHOG — is a U.S. equity fund designed for investors who view the stock market as an income-generating asset rather than purely a vehicle for capital appreciation. It invests in common stocks selected for their capacity to pay dividends or create other cash distributions, with a particular eye toward dividend growth and sustainability rather than yield alone.*
+*The F/m Opportunistic [Income ETF](/income-etf/) — ticker ZHOG — is a U.S. equity fund designed for investors who view the [stock market](/stock-market/) as an income-generating asset rather than purely a vehicle for capital appreciation. It invests in [common stocks](/common-stock/) selected for their capacity to pay [dividends](/dividend/) or create other cash distributions, with a particular eye toward dividend growth and sustainability rather than yield alone.*
 
 <div class="wiki-hatnote">
 
@@ -32,18 +32,18 @@ This flexibility comes at a cost: the fund's composition can differ significantl
 
 ## Holdings and distribution frequency
 
-The fund's holdings typically span dividend-paying stocks across sectors: large-cap banks, energy companies, utilities, real estate investment trusts, and diversified industrials all commonly appear in the roster. The fund aims to deliver a monthly distribution to shareholders, though the amount varies month to month rather than being fixed — a reflection of the lumpy timing of actual corporate dividend payments and the fund's rebalancing activity.
+The fund's holdings typically span dividend-paying stocks across sectors: large-cap banks, energy companies, utilities, [real estate investment trusts](/real-estate-investment-trust/), and diversified industrials all commonly appear in the roster. The fund aims to deliver a monthly distribution to shareholders, though the amount varies month to month rather than being fixed — a reflection of the lumpy timing of actual corporate dividend payments and the fund's rebalancing activity.
 
 The monthly frequency appeals to investors who value a steady income rhythm and reduces the temptation to sell positions in a down market simply to meet a cash-flow need. Because distributions occur regularly, some shareholders use ZHOG as a source of living expenses or as a way to "feed" other parts of their portfolio without selling shares.
 
 ## Expenses and tax considerations
 
-Like most actively managed income-focused funds, ZHOG carries a modest expense ratio that reflects the ongoing analysis required to identify and monitor dividend-growth candidates. The annual cost is typical for the active-equity category — higher than a passive dividend-index fund, but lower than traditional actively managed mutual funds given ZHOG's ETF structure and the lower trading costs that entails.
+Like most actively managed income-focused funds, ZHOG carries a modest [expense ratio](/expense-ratio/) that reflects the ongoing analysis required to identify and monitor dividend-growth candidates. The annual cost is typical for the active-equity category — higher than a passive dividend-index fund, but lower than traditional actively managed [mutual funds](/mutual-fund/) given ZHOG's ETF structure and the lower trading costs that entails.
 
 Investors should understand that monthly distributions are not all return of capital; most will be taxable as ordinary income at federal and potentially state levels in the year received, even if reinvested. Some portion may occasionally be treated as return of capital or long-term capital gains depending on the fund's trading activity, but the baseline tax assumption is that distributions are income. Investors in taxable accounts, particularly those in high tax brackets, should model the after-tax impact of regular distributions.
 
 ## Who this fund serves
 
-ZHOG suits investors in or near retirement who need cash flow from their portfolio and want equity exposure for inflation protection and growth rather than retreating into bonds alone. It is also useful for investors who philosophically believe that great companies should return cash to shareholders and want to concentrate in that subset of the market. The fund is less suitable for investors in early accumulation phases seeking maximum long-term growth or those investing in tax-deferred retirement accounts where the monthly distribution schedule offers no practical benefit.
+ZHOG suits investors in or near retirement who need cash flow from their portfolio and want equity exposure for [inflation](/inflation/) protection and growth rather than retreating into [bonds](/bond/) alone. It is also useful for investors who philosophically believe that great companies should return cash to shareholders and want to concentrate in that subset of the market. The fund is less suitable for investors in early accumulation phases seeking maximum long-term growth or those investing in tax-deferred retirement accounts where the monthly distribution schedule offers no practical benefit.
 
 The key research step is reviewing the fund's actual holdings and the dividend-payment history of its largest positions. The prospectus and fact sheet reveal the yield calculation method and the historical distribution amounts, allowing investors to model expected annual income and compare it to competing income-focused products.

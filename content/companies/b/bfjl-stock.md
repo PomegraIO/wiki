@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-BFJL is operationally identical to BFJA — a monthly-reset Bitcoin collar with a minus 15% floor and a monthly ceiling — except for one detail: the collar resets on the first trading day of July instead of January. For most investors, this distinction is invisible; the fund behaves the same way from month to month. For some specialized investors holding multiple FT Vest Bitcoin buffer ETFs, the different reset dates allow laddering — staggering the collar expiries so the risk of a sharp move coinciding with a reset is spread across multiple reset dates throughout the year.
+BFJL is operationally identical to BFJA — a monthly-reset [Bitcoin](/bitcoin/) collar with a minus 15% floor and a monthly ceiling — except for one detail: the collar resets on the first trading day of July instead of January. For most investors, this distinction is invisible; the fund behaves the same way from month to month. For some specialized investors holding multiple FT Vest Bitcoin buffer ETFs, the different reset dates allow laddering — staggering the collar expiries so the risk of a sharp move coinciding with a reset is spread across multiple reset dates throughout the year.
 
 ## The structure: collar around Bitcoin exposure
 
-Like BFJA, BFJL gains Bitcoin exposure through a derivative position — likely a total-return swap, futures, or a holding in a fund that tracks Bitcoin — and wraps it in a monthly options collar. The fund purchases a protective put at a strike corresponding to a minus 15% monthly loss and sells a call at a higher strike that caps the monthly gain. Each month the collar expires and a new one is written. The mechanics are mechanical, not discretionary; the floor and ceiling are reset on the same relative terms each month.
+Like BFJA, BFJL gains Bitcoin exposure through a derivative position — likely a total-return swap, futures, or a holding in a fund that tracks Bitcoin — and wraps it in a monthly options collar. The fund purchases a [protective put](/protective-put/) at a strike corresponding to a minus 15% monthly loss and sells a call at a higher strike that caps the monthly gain. Each month the collar expires and a new one is written. The mechanics are mechanical, not discretionary; the floor and ceiling are reset on the same relative terms each month.
 
 ## Why separate January and July ETFs?
 
@@ -32,7 +32,7 @@ Volatility decay is also real. Inside the collar, the value of the protective pu
 
 ## Cryptocurrency-specific operational risks
 
-Bitcoin does not have a central clearing house or a traditional exchange. The fund's exposure is through derivatives or a fund-of-funds structure, not direct Bitcoin ownership. If the counterparty or sponsor of the swap fails, or if the Bitcoin held by a custodian is lost, the monthly floor disappears. Review the prospectus for the exact structure and the creditworthiness of the counterparties and custodian.
+Bitcoin does not have a central clearing house or a traditional exchange. The fund's exposure is through derivatives or a fund-of-funds structure, not direct Bitcoin ownership. If the counterparty or sponsor of the swap fails, or if the Bitcoin held by a [custodian](/custodian/) is lost, the monthly floor disappears. Review the prospectus for the exact structure and the creditworthiness of the counterparties and custodian.
 
 Bitcoin is also less liquid than equity markets outside of the spot trading venues. If BFJL needs to adjust the collar midmonth or unwind a position, the slippage on Bitcoin futures or swaps can be larger than on equities. This is typically built into the fund's operational model, but it is a cost.
 
@@ -42,7 +42,7 @@ Unlike January, which has year-end-related market volatility and January effects
 
 ## How to use BFJL in a portfolio
 
-BFJL is a satellite position, not a core holding. A Bitcoin allocation to a portfolio might be 1% to 5% of total assets, and BFJL could represent all or part of that. If you are taking the Bitcoin position at all, you are betting on its long-term appreciation or its hedge properties against inflation or currency debasement. The monthly collar manages the volatility shock, not the long-term direction. Over a multi-year period, if Bitcoin is a winner, BFJL will lag a direct Bitcoin position by the cost of the buffer. If Bitcoin is a loser, BFJL will be less of a loser because the floor limited monthly drawdowns.
+BFJL is a satellite position, not a core holding. A Bitcoin allocation to a portfolio might be 1% to 5% of total assets, and BFJL could represent all or part of that. If you are taking the Bitcoin position at all, you are betting on its long-term appreciation or its hedge properties against [inflation](/inflation/) or currency debasement. The monthly collar manages the volatility shock, not the long-term direction. Over a multi-year period, if Bitcoin is a winner, BFJL will lag a direct Bitcoin position by the cost of the buffer. If Bitcoin is a loser, BFJL will be less of a loser because the floor limited monthly drawdowns.
 
 The July timing is most useful if you are systematically accumulating a Bitcoin position over the course of a year and you want the reset dates staggered. If you are holding a single fund, the reset date is almost cosmetic.
 

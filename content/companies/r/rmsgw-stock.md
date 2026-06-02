@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-Real Messenger is a messaging and collaboration platform built for real estate. It sits in the middle of a fragmented industry where agents, brokers, title companies, lenders, and buyers all need to talk to each other quickly and securely, but they use different tools, different messaging apps, and often spend time repeating information. Real Messenger wants to be the single place where that conversation happens within the real estate ecosystem.
+[Real Messenger](/rmsg-stock/) is a messaging and collaboration platform built for real estate. It sits in the middle of a fragmented industry where agents, [brokers](/broker/), title companies, lenders, and buyers all need to talk to each other quickly and securely, but they use different tools, different messaging apps, and often spend time repeating information. Real Messenger wants to be the single place where that conversation happens within the real estate ecosystem.
 
-The company was founded in 2022 and began trading on Nasdaq in November 2024 after a merger with Nova Vision Acquisition Corp. It operates in 35 countries, with the bulk of its users in the United States, United Kingdom, and Australia. The business model is straightforward: charge real estate professionals a monthly subscription to use the platform, and license the underlying chat technology to real estate software providers who embed it into their own products.
+The company was founded in 2022 and began trading on [Nasdaq](/nasdaq/) in November 2024 after a [merger](/merger/) with Nova Vision [Acquisition](/acquisition/) Corp. It operates in 35 countries, with the bulk of its users in the United States, United Kingdom, and Australia. The business model is straightforward: charge real estate professionals a monthly subscription to use the platform, and license the underlying chat technology to real estate software providers who embed it into their own products.
 
 ## What the platform does
 
@@ -37,6 +37,6 @@ The company is pre-profitability and was burning cash at a rate of roughly four 
 
 ## Researching Real Messenger as an investor
 
-Anyone interested in understanding the company should start with the annual report filed with the SEC under CIK 0001983324, which will detail the revenue breakdown between subscriptions and licensing, the number of active users, and the geographic split of revenue. Real estate technology is a subcategory with consistent recurring demand — every property transaction requires communication — but it is fragmented and competitive.
+Anyone interested in understanding the company should start with the [annual report](/10-k/) filed with the SEC under CIK 0001983324, which will detail the revenue breakdown between subscriptions and licensing, the number of active users, and the geographic split of revenue. Real estate technology is a subcategory with consistent recurring demand — every property transaction requires communication — but it is fragmented and competitive.
 
 The key questions are whether adoption is accelerating, whether the licensing partnerships are generating meaningful revenue, whether the company can reach profitability before cash runs out, and whether the network effects that could come from broad adoption are beginning to show up in the data. Real Messenger trades on Nasdaq; nothing here is a recommendation to buy or sell.

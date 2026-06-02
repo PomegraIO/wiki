@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Terrestrial Energy is a company building small nuclear reactors — specifically, molten salt reactors — to produce electricity and industrial heat without carbon emissions. The company went public through a merger with HCM II Acquisition Corp in October 2025, beginning to trade on the Nasdaq under the ticker IMSR (for its signature reactor design, the Integral Molten Salt Reactor) with warrants trading as IMSRW. Think of Terrestrial Energy as an early-stage nuclear engineering firm: it has a novel reactor design it believes works, federal funding to prove it, a path to build an actual power plant in the next few years, and the challenge of scaling from prototype to commercial operation while competing against both traditional nuclear plants and renewable energy.
+Terrestrial Energy is a company building small nuclear reactors — specifically, molten salt reactors — to produce electricity and industrial heat without carbon emissions. The company went public through a [merger](/merger/) with HCM II [Acquisition](/acquisition/) Corp in October 2025, beginning to trade on the [Nasdaq](/nasdaq/) under the ticker IMSR (for its signature reactor design, the Integral Molten Salt Reactor) with warrants trading as IMSRW. Think of Terrestrial Energy as an early-stage nuclear engineering firm: it has a novel reactor design it believes works, federal funding to prove it, a path to build an actual power plant in the next few years, and the challenge of scaling from prototype to commercial operation while competing against both traditional nuclear plants and renewable energy.
 
 ## What is a molten salt reactor and why it matters
 

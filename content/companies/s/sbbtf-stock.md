@@ -57,6 +57,6 @@ The company has stated ambitions to expand into new categories and geographies. 
 
 ## How a reader would research Vend
 
-Vend is listed on the Oslo Exchange under the ticker VEND and trades as an ADR (SBBTF) on over-the-counter markets in the United States. Start with the company's annual reports and quarterly presentations, which are typically published in English and available through the Oslo Exchange. The financial statements show gross merchandise volume (the total value of goods transacted on the platform), take rate (the commission as a percentage of volume), and unit economics by category.
+Vend is listed on the Oslo Exchange under the ticker VEND and trades as an ADR (SBBTF) on [over-the-counter markets](/over-the-counter-market/) in the United States. Start with the company's [annual reports](/10-k/) and quarterly presentations, which are typically published in English and available through the Oslo Exchange. The financial statements show gross merchandise volume (the total value of goods transacted on the platform), take rate (the commission as a percentage of volume), and unit economics by category.
 
 Pay attention to active seller and buyer metrics, the trend in average order values, and which categories are driving growth. Authentication costs and customer-acquisition spending are also important — if these are rising as a percentage of revenue, it signals margin pressure. The company's commentary on competitive dynamics and category expansion plans reveals strategic priorities and the management's assessment of moat durability.

@@ -19,7 +19,7 @@ MicroStrategy is volatile. That volatility means big moves happen, and some trad
 
 Think of it this way: you have one thousand dollars. You could buy one share of MicroStrategy with it. Or you could buy two shares' worth of MicroStrategy exposure through MSTX using that same one thousand dollars. The second approach lets you feel bigger price moves, up or down, without margin.
 
-The fund is also straightforward to own. You buy it like any stock on an exchange. You can hold it in a regular brokerage account. You can sell it anytime the market is open. No special permissions, no options expirations, no margin calls. Just a standard exchange-traded fund that you trade during market hours.
+The fund is also straightforward to own. You buy it like any stock on an exchange. You can hold it in a regular brokerage account. You can sell it anytime the market is open. No special permissions, no options expirations, no [margin calls](/margin-call-forex/). Just a standard exchange-traded fund that you trade during market hours.
 
 ## How the daily reset works
 
@@ -49,6 +49,6 @@ The prospectus contains the exact annual fee the fund charges, typically small â
 
 Look at MSTX's performance history during periods when MicroStrategy bounced around significantly. You will see MSTX underperform what 2x MicroStrategy would mathematically predict. That gap is volatility decay.
 
-Check the trading volume before you buy. MSTX needs enough daily volume that you can buy and sell without the bid-ask spread eating up a meaningful chunk of your return. A wide spread between buy and sell prices means you lose money just entering and exiting the position.
+Check the trading volume before you buy. MSTX needs enough daily volume that you can buy and sell without the [bid-ask spread](/bid-ask-spread/) eating up a meaningful chunk of your return. A wide spread between buy and sell prices means you lose money just entering and exiting the position.
 
 If you are new to trading, paper-trade MSTX first. It is easy to understand conceptually but easy to get wrong in practice. Make sure you understand volatility decay and agree to accept it before you commit real capital.

@@ -13,7 +13,7 @@ handwritten: true
 
 Nuvve Holding Corp operates a software and hardware platform that turns electric vehicle batteries into mobile energy-storage assets. The company's core innovation is vehicle-to-grid technology — V2G — which allows an electric vehicle not just to draw power from the grid but to deliver stored energy back to it. When a delivery truck sits parked overnight, or a transit bus waits between routes, its battery can sell power to a utility or to a building operator trying to shave peak energy demand. The economics work because utilities and large energy consumers pay meaningful prices for power delivered at useful times, and vehicles sit idle most of the day.
 
-Nuvve was formed through a 2020 merger between the original Nuvve Inc. and Newborn Acquisition Corp., a SPAC (special purpose acquisition company). The SPAC path provided rapid capital and public-market access but also came with the typical SPAC baggage: aggressive forecasts, management promises that proved optimistic, and an early stock price that was likely overheated. Since going public, the company has navigated the difficult transition from pilot programs to commercial scale.
+Nuvve was formed through a 2020 [merger](/merger/) between the original Nuvve Inc. and Newborn [Acquisition](/acquisition/) Corp., a SPAC (special purpose acquisition company). The SPAC path provided rapid capital and public-market access but also came with the typical SPAC baggage: aggressive forecasts, management promises that proved optimistic, and an early stock price that was likely overheated. Since going public, the company has navigated the difficult transition from pilot programs to commercial scale.
 
 ## The V2G technology platform and integration services
 
@@ -41,12 +41,12 @@ The company is betting that this regulatory and infrastructure landscape will ev
 
 ## The capital intensity and path to profitability
 
-Nuvve has raised substantial capital to build the platform, secure partnerships, and fund pilot programs. The company announced a 1-for-40 reverse stock split effective December 2025, a signal that the stock price had deteriorated significantly from its post-SPAC levels and the company needed to consolidate shares to maintain listing standards. That is a negative sign, suggesting the early growth expectations have not been met.
+Nuvve has raised substantial capital to build the platform, secure partnerships, and fund pilot programs. The company announced a 1-for-40 [reverse stock split](/reverse-stock-split/) effective December 2025, a signal that the stock price had deteriorated significantly from its post-SPAC levels and the company needed to consolidate shares to maintain listing standards. That is a negative sign, suggesting the early growth expectations have not been met.
 
 The path to profitability requires either (1) a significant increase in revenue from existing pilots reaching commercial scale, or (2) new customer wins and geographies opening up. Neither is guaranteed. The company is likely still cash-negative or barely cash-positive, meaning it continues to burn capital and is dependent on either profitability reaching quickly or access to additional capital.
 
 ## What to watch
 
-For anyone researching Nuvve, the key indicators are quarterly revenue by geography and customer segment (fleet operators, utilities, stationary storage), the pipeline of new customer commitments, and any regulatory or infrastructure breakthroughs that accelerate adoption. The 10-K and 10-Q filings (CIK 0001836875) will show cash burn rates and balance-sheet strength. Watch for management commentary on customer traction and profitability timelines. And watch the stock split — if it is followed by further dilutive capital raises or additional reverse splits, the company is in financial distress.
+For anyone researching Nuvve, the key indicators are quarterly revenue by geography and customer segment (fleet operators, utilities, stationary storage), the pipeline of new customer commitments, and any regulatory or infrastructure breakthroughs that accelerate adoption. The 10-K and 10-Q filings (CIK 0001836875) will show cash burn rates and balance-sheet strength. Watch for management commentary on customer traction and profitability timelines. And watch the [stock split](/stock-split/) — if it is followed by further dilutive capital raises or additional reverse splits, the company is in financial distress.
 
 V2G is a credible technology solving a real problem, but it remains early and depends on forces (EV adoption, grid modernization, regulatory evolution) that move at infrastructure pace, not tech-startup pace. Nuvve may become important in a decade; today it is a company still waiting for its market to arrive.

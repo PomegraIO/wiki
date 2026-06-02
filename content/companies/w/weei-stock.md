@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The Westwood Salient Enhanced Energy Income ETF (NASDAQ: WEEI) is an actively managed exchange-traded fund designed to track the energy sector while prioritising companies with established dividend-paying profiles. Rather than passively holding a fixed index, the fund's managers select individual energy companies that meet both sector exposure and income criteria, offering a middle ground between broad-based energy indexing and stock-picking strategies.
+The Westwood Salient Enhanced Energy [Income ETF](/income-etf/) ([NASDAQ](/nasdaq/): WEEI) is an actively managed exchange-traded fund designed to track the energy sector while prioritising companies with established dividend-paying profiles. Rather than passively holding a fixed index, the fund's managers select individual energy companies that meet both sector exposure and income criteria, offering a middle ground between broad-based energy indexing and stock-picking strategies.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ The Westwood Salient Enhanced Energy Income ETF (NASDAQ: WEEI) is an actively ma
 
 ## The strategy: active selection within energy
 
-WEEI's approach differs from passive energy index funds, which hold every stock in a defined basket regardless of dividend history. Instead, Westwood's managers screen the energy universe—integrated oil and gas majors, independent oil and gas producers, midstream companies, and utilities with energy operations—and weight toward those demonstrating consistent dividend payments and yield. The fund is not a pure dividend aristocrat vehicle, but it carries a deliberate tilt toward income-generating securities within the broader energy landscape.
+WEEI's approach differs from passive energy [index funds](/index-fund/), which hold every stock in a defined basket regardless of [dividend](/dividend/) history. Instead, Westwood's managers screen the energy universe—integrated oil and gas majors, independent oil and gas producers, midstream companies, and utilities with energy operations—and weight toward those demonstrating consistent dividend payments and yield. The fund is not a pure dividend aristocrat vehicle, but it carries a deliberate tilt toward income-generating securities within the broader energy landscape.
 
 This matters because the energy sector encompasses both income plays and growth-oriented or cyclical companies. A passive energy index might include upstream explorers or volatile specialty oil services companies that have little history of returning cash to shareholders. WEEI's filtering step reduces exposure to those names, allowing investors to gain energy sector leverage with a smoother income stream.
 
@@ -38,9 +38,9 @@ Because WEEI is actively managed, its holdings shift over time as managers respo
 
 ## Costs and trading
 
-Active management commands a higher expense ratio than a passive energy index fund. While the exact fee is documented in the prospectus, investors should expect to pay meaningfully more than they would for a low-cost energy sector ETF that simply holds all constituent members of the SPDR S&P 500 or Russell indices. That premium is justified only if the managers' selection skill and dividend emphasis add sufficient returns or income to offset it—a claim investors must evaluate against the fund's long-term track record, which appears in SEC filings and fact sheets.
+Active management commands a higher [expense ratio](/expense-ratio/) than a passive energy index fund. While the exact fee is documented in the prospectus, investors should expect to pay meaningfully more than they would for a low-cost energy [sector ETF](/sector-etf/) that simply holds all constituent members of the SPDR S&P 500 or Russell indices. That premium is justified only if the managers' selection skill and dividend emphasis add sufficient returns or income to offset it—a claim investors must evaluate against the fund's long-term track record, which appears in SEC filings and fact sheets.
 
-WEEI trades on a major exchange like any equity ETF, with bid-ask spreads that reflect the underlying liquidity of its energy holdings. As a moderately popular, actively managed fund, it typically benefits from reasonable liquidity for most investors, though smaller trades may experience tighter fills than in mega-cap passive alternatives.
+WEEI trades on a major exchange like any [equity ETF](/equity-etf/), with [bid-ask spreads](/bid-ask-spread/) that reflect the underlying liquidity of its energy holdings. As a moderately popular, [actively managed fund](/actively-managed-fund/), it typically benefits from reasonable liquidity for most investors, though smaller trades may experience tighter fills than in mega-cap passive alternatives.
 
 ## Who the fund is for and its limitations
 

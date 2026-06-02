@@ -11,19 +11,19 @@ keywords:
 handwritten: true
 ---
 
-The Global X MSCI Argentina ETF (ARGT) tracks a single emerging market — Argentina — through the MSCI Argentina index, which holds the largest publicly listed Argentine companies by market capitalization. It is one of the narrower country-specific ETFs available to US investors, betting on Argentine equities rather than bonds or commodities, and carries the outsized volatility and political risk that comes with such a concentrated geographic wager.
+The Global X MSCI Argentina ETF (ARGT) tracks a single emerging market — Argentina — through the MSCI Argentina index, which holds the largest publicly listed Argentine companies by [market capitalization](/market-capitalization/). It is one of the narrower country-specific ETFs available to US investors, betting on Argentine equities rather than [bonds](/bond/) or commodities, and carries the outsized volatility and political risk that comes with such a concentrated geographic wager.
 
 ## What the fund holds
 
-The MSCI Argentina index includes large and mid-cap companies traded on the Buenos Aires Stock Exchange. The typical holdings span energy (YPF, the state-owned oil company), banking (BBVA Argentina, Banco Santander Argentina), consumer staples, and industrial companies. The index itself is weighted by market capitalization, meaning the largest companies dominate the fund's portfolio. Absolute holdings are modest — the index cap is comparatively small — so concentration is inherent to the structure.
+The MSCI Argentina index includes large and mid-cap companies traded on the Buenos Aires [Stock Exchange](/stock-exchange/). The typical holdings span energy (YPF, the state-owned oil company), banking (BBVA Argentina, [Banco Santander](/san-stock/) Argentina), consumer staples, and industrial companies. The index itself is weighted by market capitalization, meaning the largest companies dominate the fund's portfolio. Absolute holdings are modest — the index cap is comparatively small — so concentration is inherent to the structure.
 
-Argentina's economy and stock market remain volatile. Commodity price swings (particularly in grains and energy) move both the companies and the currency significantly. The Argentine peso has historically depreciated in periods of inflation and capital flight, meaning a US investor holding ARGT faces both equity risk and currency risk. A fall in the peso reduces the dollar value of holdings even if the underlying companies hold steady.
+Argentina's economy and [stock market](/stock-market/) remain volatile. Commodity price swings (particularly in grains and energy) move both the companies and the currency significantly. The Argentine peso has historically depreciated in periods of [inflation](/inflation/) and [capital flight](/capital-flight-sovereign/), meaning a US investor holding ARGT faces both equity risk and [currency risk](/currency-risk/). A fall in the peso reduces the dollar value of holdings even if the underlying companies hold steady.
 
 ## The sponsor and structure
 
-Global X is a subsidiary of Mirae Asset, a Korean asset manager, and issues ARGT as a standard equity ETF traded on the NASDAQ under the ticker symbol ARGT. The fund trades regularly but with lower volume than mega-cap country funds like INDA (India) or MCHI (China), meaning bid-ask spreads may be wider. The structure is a standard passively managed ETF replicating the index, not leveraged or inverse.
+Global X is a subsidiary of Mirae Asset, a Korean asset manager, and issues ARGT as a standard [equity ETF](/equity-etf/) traded on the [NASDAQ](/nasdaq/) under the ticker symbol ARGT. The fund trades regularly but with lower volume than mega-cap country funds like INDA (India) or MCHI (China), meaning [bid-ask spreads](/bid-ask-spread/) may be wider. The structure is a standard passively managed ETF replicating the index, not leveraged or inverse.
 
-Expenses are modest, with a low expense ratio typical of country-tracking funds, though the absolute fee is modest in the context of emerging-market exposure where investors typically demand more diversification.
+Expenses are modest, with a low [expense ratio](/expense-ratio/) typical of country-tracking funds, though the absolute fee is modest in the context of emerging-market exposure where investors typically demand more [diversification](/diversification/).
 
 ## Who it is for and the risks
 

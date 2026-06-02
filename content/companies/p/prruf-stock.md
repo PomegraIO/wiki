@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-IMMUTEP Limited is a biotechnology company developing immunotherapies based on LAG-3 biology, a pathway in the immune system that is distinct from but complementary to the checkpoint-inhibitor drugs that have defined cancer immunotherapy over the past decade. The company is headquartered in Sydney, Australia, and trades on NASDAQ (IMMP) and over-the-counter in the United States (PRRUF). Its fundamental premise is that many cancers that do not respond well to existing immune checkpoint drugs might respond to a different immune mechanism — one that activates antigen-presenting cells rather than directly stimulating T-cells — and that LAG-3 offers a way to do it.
+IMMUTEP Limited is a biotechnology company developing immunotherapies based on LAG-3 biology, a pathway in the immune system that is distinct from but complementary to the checkpoint-inhibitor drugs that have defined cancer immunotherapy over the past decade. The company is headquartered in Sydney, Australia, and trades on [NASDAQ](/nasdaq/) (IMMP) and over-the-counter in the United States (PRRUF). Its fundamental premise is that many cancers that do not respond well to existing immune checkpoint drugs might respond to a different immune mechanism — one that activates antigen-presenting cells rather than directly stimulating T-cells — and that LAG-3 offers a way to do it.
 
 <aside class="wiki-infobox">
 <table>

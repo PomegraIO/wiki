@@ -17,7 +17,7 @@ AUGW is built for the investor who has already lived through a crash. It tracks 
 
 ## Russell 1000 base
 
-The underlying index is broad. Two thousand-plus companies in the Russell 1000, weighted by market cap. You own Apple and McDonald's and a hundred smaller large-caps nobody discusses. The index carries most of the systematic risk of U.S. equities but smooths out company-specific shocks. Dividends are reinvested. It is the standard vehicle for core U.S. equity exposure.
+The underlying index is broad. Two thousand-plus companies in the Russell 1000, weighted by [market cap](/market-capitalization/). You own [Apple](/aapl-stock/) and McDonald's and a hundred smaller large-caps nobody discusses. The index carries most of the [systematic risk](/systematic-risk/) of U.S. equities but smooths out company-specific shocks. [Dividends](/dividend/) are reinvested. It is the standard vehicle for core U.S. equity exposure.
 
 ## The 20% buffer in context
 
@@ -33,13 +33,13 @@ The options trade is daily. You do not see it; the fund manager handles it. You 
 
 ## Who owns this
 
-The forced retiree. The widow who needs income but cannot take a 40% loss. The business owner who sold and put the proceeds here, not in bonds or real estate, because they want equities but with training wheels. Someone who has watched a portfolio cut in half and will not let it happen again.
+The forced retiree. The widow who needs income but cannot take a 40% loss. The business owner who sold and put the proceeds here, not in [bonds](/bond/) or real estate, because they want equities but with training wheels. Someone who has watched a portfolio cut in half and will not let it happen again.
 
 Not for the young. Not for the trader. Not for anyone with a three-year time horizon trying to make it grow. This is about sleeping through crashes, not beating the market.
 
 ## The costs
 
-Expense ratio is higher than a plain Russell 1000 fund — you are paying for options, and a 20% buffer costs more than a 10% one. Call it an extra 0.30% to 0.50% annually. In a year the market rises 30% and AUGW rises 15%, that fee stings. In a year the market falls 35% and AUGW falls 20%, the fee is not the story — the protection is.
+[Expense ratio](/expense-ratio/) is higher than a plain Russell 1000 fund — you are paying for options, and a 20% buffer costs more than a 10% one. Call it an extra 0.30% to 0.50% annually. In a year the market rises 30% and AUGW rises 15%, that fee stings. In a year the market falls 35% and AUGW falls 20%, the fee is not the story — the protection is.
 
 ## Volatility decay and reset timing
 

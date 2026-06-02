@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-ASPAC II Acquisition Corp. is a shell company—a vessel created for the sole purpose of acquiring, merging with, or somehow combining with an operating private company. The company has no ongoing business, no revenue, and no employees. It exists to raise capital from investors and use that capital to take a private company public by buying it. The ticker is ASII on Nasdaq (formerly), but as of September 2024, the company's shares, warrants, and units are quoted on over-the-counter markets under the symbols ASCBF, ASCWF, and ASUUF. This is a company in the waiting room, not yet transformed into what it will become.
+ASPAC II [Acquisition](/acquisition/) Corp. is a shell company—a vessel created for the sole purpose of acquiring, merging with, or somehow combining with an operating private company. The company has no ongoing business, no revenue, and no employees. It exists to raise capital from investors and use that capital to take a private company public by buying it. The ticker is ASII on [Nasdaq](/nasdaq/) (formerly), but as of September 2024, the company's shares, warrants, and units are quoted on [over-the-counter markets](/over-the-counter-market/) under the symbols ASCBF, ASCWF, and ASUUF. This is a company in the waiting room, not yet transformed into what it will become.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ ASPAC II Acquisition Corp. is a shell company—a vessel created for the sole pu
 
 A SPAC is a financing trick dressed up as a company. Here is how it works. A sponsor (usually an investment group or a wealthy individual) forms a shell company with a name like "ASPAC II Acquisition Corp." and takes it public through a traditional IPO. Investors buy units—bundles that typically include one share of stock, one-half or one warrant (a right to buy more shares at a fixed price), and sometimes a right to redeem cash if things go badly.
 
-The cash raised goes into a trust account. The sponsor gets a slice of the company's shares for free (called sponsor shares or founder shares) as compensation for putting together the deal. The sponsor then has a limited window—typically 24 months—to identify a private company, negotiate a deal, and complete the acquisition or merger.
+The cash raised goes into a trust account. The sponsor gets a slice of the company's shares for free (called sponsor shares or [founder shares](/founder-shares/)) as compensation for putting together the deal. The sponsor then has a limited window—typically 24 months—to identify a private company, negotiate a deal, and complete the acquisition or [merger](/merger/).
 
 If a deal is completed, the private company becomes the new operating company, the SPAC shareholders either accept the deal or redeem their shares for cash, and the newly public company begins trading under a new ticker. If no deal is completed within the time limit, the SPAC is liquidated and the money is returned to investors.
 
@@ -50,7 +50,7 @@ To stay alive, the SPAC required continued funding to pay legal, accounting, and
 
 ## The mechanics of redemption and risk
 
-SPACs carry a structural trap for public investors. When a SPAC announces a business combination, shareholders can vote to approve the deal. If you do not like the deal, you can redeem your shares—the company returns your original cash investment to you, and you walk away. In theory, this gives shareholders downside protection.
+SPACs carry a structural trap for public investors. When a SPAC announces a [business combination](/business-combination-purchase/), shareholders can vote to approve the deal. If you do not like the deal, you can redeem your shares—the company returns your original cash investment to you, and you walk away. In theory, this gives shareholders downside protection.
 
 In practice, large-scale redemptions can create perverse outcomes. If most shareholders redeem, the company has far less cash to close the deal. That makes the acquisition harder to finance and often requires the target company to accept a worse valuation or more dilutive terms. Additionally, investors who do not redeem end up with a smaller ownership stake because the SPAC's overhead costs (legal fees, trustee fees) eat into the cash in trust.
 

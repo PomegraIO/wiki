@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Janus Henderson Small/Mid Cap Growth Alpha ETF** (JSMD) is an exchange-traded fund holding a concentrated portfolio of small- and mid-cap US equities selected by Janus Henderson's research team. The fund aims to identify growth-oriented companies trading at reasonable valuations and outperform a broad small-cap benchmark through disciplined stock selection and conviction-based holding decisions.*
+*The **[Janus Henderson](/jhg-stock/) Small/Mid Cap Growth Alpha ETF** (JSMD) is an exchange-traded fund holding a concentrated portfolio of small- and mid-cap US equities selected by Janus Henderson's research team. The fund aims to identify growth-oriented companies trading at reasonable valuations and outperform a broad small-cap benchmark through disciplined stock selection and conviction-based holding decisions.*
 
 ## What does the fund actually invest in?
 
@@ -34,6 +34,6 @@ Tax drag is a third. Active trading can spin off short-term capital gains, which
 
 Start by comparing the fund's returns to the Russell 2500 Growth Index over rolling periods of three, five, and ten years. The central question is whether active management has added value after expenses and taxes. If the fund has materially outperformed over multiple full cycles, the edge may be real; if it has merely matched or trailed the index, active management is not earning its keep.
 
-Review the fund's holdings and sector positioning to understand what Janus Henderson's team currently believes will drive returns. Check the prospectus for the portfolio's average market cap, price-to-earnings multiple, and earnings growth rate relative to the Russell 2500; these metrics reveal whether the team is tilting toward cheap or expensive growth, smaller or larger small-caps.
+Review the fund's holdings and sector positioning to understand what Janus Henderson's team currently believes will drive returns. Check the prospectus for the portfolio's average [market cap](/market-capitalization/), price-to-earnings multiple, and earnings growth rate relative to the Russell 2500; these metrics reveal whether the team is tilting toward cheap or expensive growth, smaller or larger small-caps.
 
-Assess your own conviction in Janus Henderson's small-cap growth research. Do you believe the team has identified a durable edge in finding growth companies before the market does? Can you tolerate the higher volatility that comes with small-cap ownership and concentrated stock selection? If the answers are yes, JSMD may merit a satellite position. If you doubt the skill or cannot stomach the drawdowns, a low-cost broad small-cap index fund is the safer choice.
+Assess your own conviction in Janus Henderson's small-cap growth research. Do you believe the team has identified a durable edge in finding growth companies before the market does? Can you tolerate the higher volatility that comes with small-cap ownership and concentrated stock selection? If the answers are yes, JSMD may merit a satellite position. If you doubt the skill or cannot stomach the drawdowns, a low-cost broad small-cap [index fund](/index-fund/) is the safer choice.

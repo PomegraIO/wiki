@@ -11,15 +11,15 @@ keywords:
 handwritten: true
 ---
 
-*Public Storage owns and operates the largest network of climate-controlled self-storage facilities in the United States, collecting monthly rent from millions of individuals and small businesses who need a secure place to store belongings.*
+*[Public Storage](/psa-stock/) owns and operates the largest network of climate-controlled self-storage facilities in the United States, collecting monthly rent from millions of individuals and small businesses who need a secure place to store belongings.*
 
 > "People do not move, downsize, or relocate because the economy is strong. They move because their lives change — a job move, a divorce, a child leaving home, a business needing overflow space."
 
 This observation captures the core of Public Storage's advantage. The company operates roughly 2,900 facilities across 47 states, housing approximately 230 million square feet of rentable space. One in five self-storage units in America is a Public Storage unit. The business is simple: lease a room, collect rent, keep the building maintained. Yet this simplicity masks a durable competitive position.
 
-Self-storage demand flows from life events that are largely independent of the business cycle. When the economy booms, people relocate for better opportunities, businesses expand and need overflow space, households accumulate more goods. When the economy contracts, people downsize, go through divorces, relocate to find work in cheaper cities, or move in with family. Both scenarios drive someone to rent storage. The demand curve does not track GDP; it tracks demographic churn.
+Self-storage demand flows from life events that are largely independent of the [business cycle](/business-cycle/). When the economy booms, people relocate for better opportunities, businesses expand and need overflow space, households accumulate more goods. When the economy contracts, people downsize, go through divorces, relocate to find work in cheaper cities, or move in with family. Both scenarios drive someone to rent storage. The demand curve does not track GDP; it tracks demographic churn.
 
-This is why Public Storage's occupancy rates remain stable across recessions. A facility might average 85 per cent occupancy in a boom and drop to 75–80 per cent in a downturn. That is a modest swing. The customer base is also diffuse — tens of thousands of individuals rather than a handful of corporate tenants vulnerable to a single industry collapse. The loss of any one customer barely registers.
+This is why Public Storage's occupancy rates remain stable across [recessions](/recession/). A facility might average 85 per cent occupancy in a boom and drop to 75–80 per cent in a downturn. That is a modest swing. The customer base is also diffuse — tens of thousands of individuals rather than a handful of corporate tenants vulnerable to a single industry collapse. The loss of any one customer barely registers.
 
 ## Why the business generates such strong returns
 
@@ -41,19 +41,19 @@ The company also generates ancillary revenue from locks, boxes, packing tape, cl
 
 ## Capital returns and the REIT structure
 
-Public Storage is organized as a Real Estate Investment Trust, which means it must distribute at least 90 per cent of its taxable income to shareholders as dividends. This constraint shapes the business: the company favours returning cash to shareholders over retaining it to fund aggressive expansions.
+Public Storage is organized as a [Real Estate Investment Trust](/real-estate-investment-trust/), which means it must distribute at least 90 per cent of its taxable income to shareholders as [dividends](/dividend/). This constraint shapes the business: the company favours returning cash to shareholders over retaining it to fund aggressive expansions.
 
 The result is that Public Storage is primarily a dividend stock. Shareholders buy it expecting a steady, reliable dividend that grows gently over time. The company has raised its dividend consistently over decades — a selling point for income-focused investors and institutions that need reliable cash flow.
 
-The company can still expand through acquisitions and development by issuing debt or new shares, but the default capital-allocation posture is to grow the dividend, not to hoard cash for investments. This alignment makes management focus on cash generation and efficiency rather than on empire-building.
+The company can still expand through [acquisitions](/acquisition/) and development by issuing debt or new shares, but the default capital-allocation posture is to grow the dividend, not to hoard cash for investments. This alignment makes management focus on cash generation and efficiency rather than on empire-building.
 
 ## Risks that vary with economic cycles
 
-The primary risk is overbuilding. Self-storage is attractive as an investment, so competitors will build new facilities. If too many units come online in a market simultaneously, occupancy rates fall, operators cut rents or offer move-in specials, and returns compress. Public Storage's scale and balance sheet allow it to weather periods of oversupply, but the risk persists. A deep recession that simultaneously reduces household relocations and business expansion could depress both occupancy and rents.
+The primary risk is overbuilding. Self-storage is attractive as an investment, so competitors will build new facilities. If too many units come online in a market simultaneously, occupancy rates fall, operators cut rents or offer move-in specials, and returns compress. Public Storage's scale and [balance sheet](/balance-sheet/) allow it to weather periods of oversupply, but the risk persists. A deep recession that simultaneously reduces household relocations and business expansion could depress both occupancy and rents.
 
-Interest-rate risk matters. Public Storage finances its real estate with debt. When rates rise, refinancing becomes expensive. The company's debt is substantial but manageable given strong cash flows. A rapid, sustained rise in rates could pressure returns and slow expansion plans.
+[Interest-rate risk](/interest-rate-risk/) matters. Public Storage finances its real estate with debt. When rates rise, refinancing becomes expensive. The company's debt is substantial but manageable given strong cash flows. A rapid, sustained rise in rates could pressure returns and slow expansion plans.
 
-Technological disruption is a longer-term tail risk. If a company developed a robust on-demand warehousing service — say, a network of pods scattered across cities, or a service that picks up items from homes and stores them in a centralized facility — that could cannibalize traditional self-storage. So far, no such service has materially dented demand, but the possibility exists.
+Technological disruption is a longer-term [tail risk](/tail-risk/). If a company developed a robust on-demand warehousing service — say, a network of pods scattered across cities, or a service that picks up items from homes and stores them in a centralized facility — that could cannibalize traditional self-storage. So far, no such service has materially dented demand, but the possibility exists.
 
 Climate change poses a slow-growing risk. Severe hurricanes or wildfires could damage facilities or displace customers. Rising climate volatility could push insurance costs higher over time, compressing margins.
 

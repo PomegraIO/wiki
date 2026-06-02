@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*Central North Airport Group (Grupo de Aeroportos, Centro-Norte) is a Brazilian airport operator holding concessions to three regional airports: Palmas International Airport (in Tocantins), Brasília International Airport (in the capital district), and Brasília/Galeão Airport (technically a smaller facility serving the capital region). The company generates revenue from passenger charges, aeronautical fees, and non-aeronautical services like parking, retail, and food and beverage—the standard airport-operator model in a secondary market.*
+*[Central North Airport](/omab-stock/) Group (Grupo de Aeroportos, Centro-Norte) is a Brazilian airport operator holding concessions to three regional airports: Palmas International Airport (in Tocantins), Brasília International Airport (in the capital district), and Brasília/Galeão Airport (technically a smaller facility serving the capital region). The company generates revenue from passenger charges, aeronautical fees, and non-aeronautical services like parking, retail, and food and beverage—the standard airport-operator model in a [secondary market](/secondary-market/).*
 
 <aside class="wiki-infobox">
 <table>
@@ -38,10 +38,10 @@ Currency fluctuations also matter. Much of Central North's passenger base includ
 
 ## Who owns it and how liquid are the shares?
 
-Central North trades over-the-counter on the OTC Pink Sheets, a highly illiquid venue. The shares are not listed on a major exchange, and trading volume is minimal. This means that price discovery is poor, bid-ask spreads are wide, and any investor contemplating a position must understand that exit liquidity cannot be guaranteed. The company is essentially a small-cap play with infrastructure-level operational fundamentals but a penny-stock-like trading environment.
+Central North trades over-the-counter on the [OTC Pink](/otc-pink/) Sheets, a highly illiquid venue. The shares are not listed on a major exchange, and trading volume is minimal. This means that [price discovery](/price-discovery/) is poor, [bid-ask spreads](/bid-ask-spread/) are wide, and any investor contemplating a position must understand that exit liquidity cannot be guaranteed. The company is essentially a small-cap play with infrastructure-level operational fundamentals but a penny-stock-like trading environment.
 
 ## What should a researcher focus on?
 
-Read the annual reports and regulatory filings (available through the SEC as EDGAR 0001378239 and through Brazilian authorities if available). Focus on passenger traffic trends at each of the three airports—are they growing or declining relative to the broader Brazilian economy? Watch the concession contract terms: when does each agreement renew, and what are the regulatory conditions for renewal?
+Read the [annual reports](/10-k/) and regulatory filings (available through the SEC as EDGAR 0001378239 and through Brazilian authorities if available). Focus on passenger traffic trends at each of the three airports—are they growing or declining relative to the broader Brazilian economy? Watch the concession contract terms: when does each agreement renew, and what are the regulatory conditions for renewal?
 
-Monitor for commentary on new tourism initiatives or economic development in the regions served—infrastructure projects, new airlines, tourism campaigns. These drive traffic and justify fare increases during concession renegotiations. Finally, track currency movements; a significant real depreciation can help the company if it attracts more international travel, but it can also increase import costs for terminal upgrades and equipment.
+Monitor for commentary on new tourism initiatives or economic development in the regions served—infrastructure projects, new airlines, tourism campaigns. These drive traffic and justify fare increases during concession renegotiations. Finally, track currency movements; a significant real [depreciation](/depreciation/) can help the company if it attracts more international travel, but it can also increase import costs for terminal upgrades and equipment.

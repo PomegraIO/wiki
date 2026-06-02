@@ -37,7 +37,7 @@ This is where many small robotics companies run into trouble. The customer signs
 
 Large automation and robotics firms (ABB, KUKA, Fanuc) dominate the market with strong customer relationships, global support networks, and decades of operational experience. They can offer bundled solutions—robot, integration, maintenance contracts, software updates—at scales that a microcap cannot match. A customer considering GMEX against a major established player must weigh the risk of betting on a smaller company against the cost premium and bureaucracy of working with a giant.
 
-GMEX's competitive position therefore rests on serving niches or smaller customers that the major players do not prioritize. This might include specialized applications (medical device assembly, [precision optics](/poci-stock/), food packaging), geographic markets underserved by major players, or customized solutions for customers with atypical production needs. These niches are defensible only if GMEX can execute faster and more flexibly than incumbents, which is a high bar.
+GMEX's competitive position therefore rests on serving niches or smaller customers that the major players do not prioritize. This might include specialized applications (medical device assembly, precision optics, food packaging), geographic markets underserved by major players, or customized solutions for customers with atypical production needs. These niches are defensible only if GMEX can execute faster and more flexibly than incumbents, which is a high bar.
 
 ## Customer Concentration and Cyclicality
 

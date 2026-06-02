@@ -15,7 +15,7 @@ handwritten: true
 
 [Blue Owl Capital](/owl-stock/) Corp (previously Dyal Company, Inc.) is a [Business Development Company](/business-development-company/) (BDC) — a type of investment firm regulated by the U.S. [Securities and Exchange Commission](/securities-and-exchange-commission/) that invests in the debt of private companies. Rather than lending money directly, Blue Owl buys the loans and debt instruments that finance mid-sized privately held businesses. It earns returns through interest payments and, occasionally, equity stakes or restructuring gains. The firm is externally managed by Blue Owl Capital, a large alternative-asset manager with expertise in private credit, private equity, and hedge-fund strategies.
 
-The BDC structure is purposefully constrained by regulation. A BDC must invest at least seventy percent of its assets into qualifying investments — typically debt of private companies — and must distribute ninety percent of taxable income to shareholders as [dividends](/dividend/). This structure makes it a vehicle for dividend-focused investors who want exposure to private credit without buying a fund directly.
+The BDC structure is purposefully constrained by [regulation. A](/regulation-a/) BDC must invest at least seventy percent of its assets into qualifying investments — typically debt of private companies — and must distribute ninety percent of taxable income to shareholders as [dividends](/dividend/). This structure makes it a vehicle for dividend-focused investors who want exposure to private credit without buying a fund directly.
 
 ## The middle-market lending opportunity
 

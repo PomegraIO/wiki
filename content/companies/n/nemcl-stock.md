@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Newmont Corporation is the world's leading gold mining company by annual production. The firm operates a globally diversified portfolio of mines and development projects on multiple continents, producing gold and copper, and generating substantial revenue from the sale of these commodities. Unlike small-cap explorers, Newmont operates a mix of mature, cash-generative mines alongside development and exploration assets, positioning it as both a commodity producer and a long-term gold franchiser. Its shares trade on the New York Stock Exchange (NEMCL) and the Toronto Stock Exchange (NGD).
+Newmont Corporation is the world's leading gold mining company by annual production. The firm operates a globally diversified portfolio of mines and development projects on multiple continents, producing gold and copper, and generating substantial revenue from the sale of these commodities. Unlike small-cap explorers, Newmont operates a mix of mature, cash-generative mines alongside development and exploration assets, positioning it as both a commodity producer and a long-term gold franchiser. Its shares trade on the [New York Stock Exchange](/new-york-stock-exchange/) (NEMCL) and the [Toronto Stock Exchange](/toronto-stock-exchange/) (NGD).
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ Newmont Corporation is the world's leading gold mining company by annual product
 
 ## Gold Mining: the core business
 
-Newmont's primary business is extracting gold from the earth and selling it to refiners, jewelry makers, central banks, and industrial users. The company operates open-pit and underground mines, processes ore through crushing, grinding, and chemical extraction to isolate gold, refines the metal, and sells it at prevailing market prices. Gold production is measured in ounces; Newmont produces millions of ounces annually across its operating mines.
+Newmont's primary business is extracting gold from the earth and selling it to refiners, jewelry makers, [central banks](/central-bank/), and industrial users. The company operates open-pit and underground mines, processes ore through crushing, grinding, and chemical extraction to isolate gold, refines the metal, and sells it at prevailing market prices. Gold production is measured in ounces; Newmont produces millions of ounces annually across its operating mines.
 
 The economic model is straightforward: revenue is the ounces produced multiplied by the price per ounce; costs are mining and processing expenses, including labor, energy, explosives, fuel, and equipment. The gap between revenue and costs is gross profit (or loss, in a down market). Because gold is a global commodity with a transparent price set on exchanges (primarily the London Bullion Market), Newmont cannot influence the selling price — its only lever is operational efficiency and cost control.
 
@@ -44,17 +44,17 @@ Newmont's upstream dependencies are geological and regulatory. The company depen
 
 Operationally, Newmont depends on a steady supply of energy (electricity or fuel), water (critical for ore processing), mining equipment and explosives, and a trained workforce. Energy costs are a material portion of mining economics; a spike in fuel or electricity prices erodes margins. The company also depends on contract miners, equipment manufacturers, and logistics providers. Any disruption to equipment supply or a major shortage of skilled labor can slow production.
 
-Downstream, Newmont sells gold to refineries and traders, and depends on maintaining these relationships and access to commodity markets. Gold is sold either in physical form or through commodity futures contracts, so Newmont has access to price discovery and hedging tools. Unlike many commodities, gold does not depend on a complex supply chain of customers; buyers are abundant, and gold's universal utility ensures demand.
+Downstream, Newmont sells gold to refineries and traders, and depends on maintaining these relationships and access to commodity markets. Gold is sold either in physical form or through commodity [futures contracts](/futures-contract/), so Newmont has access to [price discovery](/price-discovery/) and hedging tools. Unlike many commodities, gold does not depend on a complex supply chain of customers; buyers are abundant, and gold's universal utility ensures demand.
 
 ## Geographic and political risk
 
-Newmont operates in politically and geographically diverse regions — the United States, Canada, South America, West Africa, and Australia. This diversification reduces dependence on any single country's stability, but it also means the company faces a patchwork of regulatory regimes, tax codes, labor laws, and political risk. A major mine in Ghana or Peru is exposed to government policy changes, nationalization risk, social unrest, and infrastructure disruptions.
+Newmont operates in politically and geographically diverse regions — the United States, Canada, South America, West Africa, and Australia. This [diversification](/diversification/) reduces dependence on any single country's stability, but it also means the company faces a patchwork of regulatory regimes, tax codes, labor laws, and political risk. A major mine in Ghana or Peru is exposed to government policy changes, nationalization risk, social unrest, and infrastructure disruptions.
 
 Environmental regulation is an increasing constraint, particularly in developed countries. Mining requires moving massive volumes of rock, managing waste rock and mine tailings, and addressing water quality and land reclamation concerns. Stricter environmental standards can raise operating costs, delay permitting of new projects, or force closure of mines deemed too damaging to continue. Community opposition to mining, particularly in regions with Indigenous land claims or pristine ecosystems, can halt or slow projects.
 
 ## Gold's role in Newmont's supply chain
 
-Gold itself is unusual among commodities: it is a store of value (held by central banks and individuals as insurance against inflation and currency debasement), a luxury good (jewelry and collectibles), and an industrial input (electronics, dentistry). The price reflects a blend of these uses, but the investment demand component often dominates short-term price movements. In periods of geopolitical uncertainty or high inflation, central banks and investors buy gold as a hedge, pushing prices up. In strong economic expansions with low inflation, gold can underperform.
+Gold itself is unusual among commodities: it is a store of value (held by central banks and individuals as insurance against [inflation](/inflation/) and currency debasement), a luxury good (jewelry and collectibles), and an industrial input (electronics, dentistry). The price reflects a blend of these uses, but the investment demand component often dominates short-term price movements. In periods of geopolitical uncertainty or high inflation, central banks and investors buy gold as a hedge, pushing prices up. In strong economic expansions with low inflation, gold can underperform.
 
 Newmont's revenue therefore depends critically on the gold price, which is exogenous to the company's operations. A 20 percent drop in gold prices immediately stresses Newmont's margins and can make high-cost mines uneconomical, forcing cutbacks. Conversely, a gold-price surge can transform marginal projects into attractive investments.
 
@@ -64,9 +64,9 @@ Newmont's competitive position depends on operational efficiency and cost discip
 
 ## Measuring performance
 
-Newmont's key operational metrics are gold ounces produced (annually and per mine), the all-in cost of production per ounce, and the free cash flow generated from operations. The annual 10-K filing (SEC CIK 0001164727) breaks production by mine and geography, details reserve and resource estimates, and outlines development projects in the pipeline. Quarterly earnings reports reveal production trends, cost management, and cash generation.
+Newmont's key operational metrics are gold ounces produced (annually and per mine), the all-in cost of production per ounce, and the [free cash flow](/free-cash-flow/) generated from operations. The annual 10-K filing (SEC CIK 0001164727) breaks production by mine and geography, details reserve and resource estimates, and outlines development projects in the pipeline. Quarterly earnings reports reveal production trends, cost management, and cash generation.
 
-For investors, the company's valuation often depends on the gold price (a variable beyond Newmont's control) and the market's confidence in management's capital discipline and operational execution. The dividend, which Newmont has historically paid out of free cash flow, is an important component of shareholder returns and reflects the company's cash-generation strength.
+For investors, the company's valuation often depends on the gold price (a variable beyond Newmont's control) and the market's confidence in management's capital discipline and operational execution. The [dividend](/dividend/), which Newmont has historically paid out of free cash flow, is an important component of shareholder returns and reflects the company's cash-generation strength.
 
 ## Research framework
 

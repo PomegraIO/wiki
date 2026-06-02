@@ -4,7 +4,7 @@ description: "Diversified industrial holding company; may include operations in 
 keywords: ["industrial", "holding company", "manufacturing", "diversified", "global"]
 ---
 
-*The [global industrial](/gic-stock/) economy continues to fragment, as vertically integrated conglomerates break apart and focus narrows to specific supply chains or geographies. **Graf Global Corp. (GRAF)** occupies an intermediate position within this transformation: a holding structure that attempts to maintain ties across industrial operations that once might have shared a parent but increasingly operate as distinct businesses serving different end markets and geographies. Parsing its value requires understanding both what it owns today and what market forces are reshaping the industrial landscape in which it competes.*
+*The global industrial economy continues to fragment, as vertically integrated conglomerates break apart and focus narrows to specific supply chains or geographies. **Graf Global Corp. (GRAF)** occupies an intermediate position within this transformation: a holding structure that attempts to maintain ties across industrial operations that once might have shared a parent but increasingly operate as distinct businesses serving different end markets and geographies. Parsing its value requires understanding both what it owns today and what market forces are reshaping the industrial landscape in which it competes.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>GRAF</td></tr>

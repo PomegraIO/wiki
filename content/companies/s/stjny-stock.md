@@ -51,7 +51,7 @@ There is also periodic scrutiny around whether treated lumber is safe for reside
 
 ## The cash and the shareholder returns
 
-Stella-Jones generates steady cash flow from operations. The company has historically returned capital to shareholders through dividends and buybacks. A portion of earnings is reinvested in the business to maintain and expand facilities, but the cash-generation profile allows for significant shareholder returns. This makes the stock attractive to income investors who want a yield and some upside from growing cash flow over time.
+Stella-Jones generates steady cash flow from operations. The company has historically returned capital to shareholders through [dividends](/dividend/) and buybacks. A portion of earnings is reinvested in the business to maintain and expand facilities, but the cash-generation profile allows for significant shareholder returns. This makes the stock attractive to income investors who want a yield and some upside from growing cash flow over time.
 
 The cyclicality of the construction business and the commodity exposure of lumber prices mean that earnings are not perfectly smooth. In weak years, the dividend may be at risk or earnings may contract sharply. But over a multi-year cycle, the business is stable enough to support reliable shareholder distributions.
 

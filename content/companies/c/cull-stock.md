@@ -17,7 +17,7 @@ keywords: ["community bank", "regional bank", "interest rates", "credit risk", "
 
 ## Geographic Concentration and Economic Dependency
 
-Cullman Bancorp's earnings depend almost entirely on the health of its Maryland footprint. The bank cannot diversify across regions the way a [national bank](/nbhc-stock/) does. If Maryland's economy deteriorates—manufacturing decline, job losses, real-estate [recession](/recession/)—Cullman's loan portfolio suffers. Borrowers lose income and default. Commercial real-estate collateral loses value. The bank's capital erodes. A regional recession in Maryland is a full-scale crisis for Cullman; for a national bank, it's a manageable headwind. Cullman cannot manage away local economic risk by moving deposits or assets elsewhere. Its fate is bound to its region.
+Cullman Bancorp's earnings depend almost entirely on the health of its Maryland footprint. The bank cannot diversify across regions the way a national bank does. If Maryland's economy deteriorates—manufacturing decline, job losses, real-estate [recession](/recession/)—Cullman's loan portfolio suffers. Borrowers lose income and default. Commercial real-estate collateral loses value. The bank's capital erodes. A regional recession in Maryland is a full-scale crisis for Cullman; for a national bank, it's a manageable headwind. Cullman cannot manage away local economic risk by moving deposits or assets elsewhere. Its fate is bound to its region.
 
 ## Interest-Rate Sensitivity and Margin Compression
 

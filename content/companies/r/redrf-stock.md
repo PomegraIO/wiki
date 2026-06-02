@@ -21,7 +21,7 @@ Red Canyon's job is to systematically test its claims. The company identifies ge
 
 ## Red Canyon's portfolio and geographic focus
 
-The company holds exploration claims and mineral properties across multiple districts in the southwestern United States and Canada, with a concentration in known metallurgical belts where historical mining activity or favourable geology suggests economic mineralization is plausible. Specific properties reflect a mix of acquisitions and staked ground. Some are early-stage — geological mapping and sampling only — while others have benefited from years of drilling and have moved into the stage where a resource estimate is possible.
+The company holds exploration claims and mineral properties across multiple districts in the southwestern United States and Canada, with a concentration in known metallurgical belts where historical mining activity or favourable geology suggests economic mineralization is plausible. Specific properties reflect a mix of [acquisitions](/acquisition/) and staked ground. Some are early-stage — geological mapping and sampling only — while others have benefited from years of drilling and have moved into the stage where a resource estimate is possible.
 
 The portfolio is deliberately diversified across metals and jurisdictions. Copper is the primary target — it is higher-value, globally demanded, and the subject of intense supply-focused investment given the shift toward electric vehicles and renewable energy. But Red Canyon also pursues zinc and other base metals where geological setting and economics align. Geographic spread across stable mining jurisdictions (US and Canada) hedges regulatory and political risk, though it also means the company competes for exploration capital and investor attention in a crowded sector.
 
@@ -29,7 +29,7 @@ The portfolio is deliberately diversified across metals and jurisdictions. Coppe
 
 Junior miners do not earn profit — they burn cash. Red Canyon sustains itself through capital raises: equity offerings to retail investors, strategic investments from larger mining companies or royalty trusts that see value in the portfolio, and occasionally debt (though heavily equity-financed firms are the norm in juniors). The pace and size of exploration programs expand or contract based on the company's cash balance and capital-raise success.
 
-Successful exploration results can act as capital catalysts. A standout drill hole or an upgraded resource estimate can drive the stock higher, making equity raises cheaper. Conversely, disappointing results or negative macro shifts (falling metal prices, rising interest rates, recession fears) can freeze capital markets, forcing the company to cut spending, consolidate properties, or merge with peers to survive.
+Successful exploration results can act as capital catalysts. A standout drill hole or an upgraded resource estimate can drive the stock higher, making equity raises cheaper. Conversely, disappointing results or negative macro shifts (falling metal prices, rising [interest rates](/interest-rate/), [recession](/recession/) fears) can freeze capital markets, forcing the company to cut spending, consolidate properties, or merge with peers to survive.
 
 ## The risks that define junior mining
 
@@ -45,7 +45,7 @@ Successful exploration results can act as capital catalysts. A standout drill ho
 
 ## Tracking Red Canyon as an investment
 
-Annual reports and quarterly updates lay out the company's cash position, the exploration programs underway, and any drilling results. Watch the cash burn rate relative to the cash balance — this reveals how long the company can operate before the next raise. Drill-hole maps and tables of assay results are technical, but the headlines matter: widening mineralization, higher grades, or larger tonnages in a resource estimate drive valuation.
+[Annual reports](/10-k/) and quarterly updates lay out the company's cash position, the exploration programs underway, and any drilling results. Watch the cash burn rate relative to the cash balance — this reveals how long the company can operate before the next raise. Drill-hole maps and tables of assay results are technical, but the headlines matter: widening mineralization, higher grades, or larger tonnages in a resource estimate drive valuation.
 
 Peer comparison is useful. What are other juniors exploring copper in similar districts spending per acre? What drill densities are peers using? Are Red Canyon's expenditures in line with industry practice, or is the company exploring more or less aggressively than peers? Underspending suggests a need to raise capital soon; overspending could signal confidence in the portfolio or misallocation.
 

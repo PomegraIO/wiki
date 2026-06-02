@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Safepoint Holdings, Inc. was founded in 2013 as a Tampa, Florida-based specialty insurance company focused on coastal property and homeowners insurance. The company has evolved from a simple insurance writer into a complex, capital-efficient operating model centred around a managing general agent platform that underwrites and manages policies for both a wholly owned insurance subsidiary and policyholder-owned reciprocal insurance exchanges. The firm was in preparation for an initial public offering as of mid-2026, seeking to bring this innovative insurance structure to public market investors.
+Safepoint Holdings, Inc. was founded in 2013 as a Tampa, Florida-based specialty insurance company focused on coastal property and [homeowners insurance](/homeowners-insurance/). The company has evolved from a simple insurance writer into a complex, capital-efficient operating model centred around a managing general agent platform that underwrites and manages policies for both a wholly owned insurance subsidiary and policyholder-owned reciprocal insurance exchanges. The firm was in preparation for an [initial public offering](/initial-public-offering/) as of mid-2026, seeking to bring this innovative insurance structure to public market investors.
 
 ## The Founding and Early Years
 
@@ -23,7 +23,7 @@ The coastal property insurance market is inherently cyclical and volatile. Major
 
 As Safepoint grew, management recognised that the traditional insurance subsidiary model — where the company bears all the underwriting risk and must maintain sufficient capital — constrained growth. In the mid-2010s, Safepoint pioneered a different structure: managing reciprocal insurance exchanges, also called reciprocals, on behalf of policyholders who collectively own the exchange.
 
-A reciprocal exchange is a mutual insurance structure in which policyholders are both the customers and the owners. Rather than a stock insurance company (owned by shareholders who profit from underwriting gains), a reciprocal pools premiums and pays claims from that pool. Any surplus belongs to the policyholders collectively. Safepoint, as attorney-in-fact and managing general agent, operates the exchange day-to-day — underwriting policies, managing claims, and investing assets — in exchange for management fees. The policyholders own the capital and bear the underwriting risk.
+A reciprocal exchange is a mutual insurance structure in which policyholders are both the customers and the owners. Rather than a stock insurance company (owned by shareholders who profit from underwriting gains), a reciprocal pools premiums and pays claims from that pool. Any surplus belongs to the policyholders collectively. Safepoint, as attorney-in-fact and managing general agent, operates the exchange day-to-day — underwriting policies, managing claims, and investing assets — in exchange for [management fees](/management-fee/). The policyholders own the capital and bear the underwriting risk.
 
 This structure was a turning point. Safepoint could now grow by managing reciprocal exchanges without needing to raise equity capital for each new dollar of premium. The company earns fees based on premiums managed, not on underwriting profit. This fee-based model is more stable and more scalable than traditional insurance; it also aligns management's interests with policyholders' interests rather than with shareholders' desire for maximum underwriting gain.
 
@@ -37,7 +37,7 @@ By the early 2020s, Safepoint operated three distinct business segments, though 
 
 **Reciprocal Exchange Operations.** Safepoint manages two policyholder-owned reciprocal exchanges as attorney-in-fact. These exchanges write policies and collect premiums, and Safepoint earns management fees from the premiums managed. The policyholders collectively own the capital and bear the underwriting risk; Safepoint carries no balance-sheet risk but earns predictable fee income.
 
-The combination is powerful. The exchange model generates fee revenue that is not exposed to underwriting loss, while the subsidiary and MGA businesses provide underwriting income and client diversification. Total gross written premium reached $927.2 million in fiscal 2025, up 44.3 percent from $642.6 million in 2024 — a steep trajectory driven partly by management's operational scale and partly by the favorable market cycle for coastal insurance following major hurricane seasons that reset industry rates.
+The combination is powerful. The exchange model generates fee revenue that is not exposed to underwriting loss, while the subsidiary and MGA businesses provide underwriting income and client [diversification](/diversification/). Total gross written premium reached $927.2 million in fiscal 2025, up 44.3 percent from $642.6 million in 2024 — a steep trajectory driven partly by management's operational scale and partly by the favorable market cycle for coastal insurance following major hurricane seasons that reset industry rates.
 
 ## Financial Performance and Scaling
 

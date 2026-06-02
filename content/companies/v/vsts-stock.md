@@ -41,7 +41,7 @@ But the moat is not absolute. A large, efficient competitor or an incumbent loca
 
 Revenue is straightforward: Vestis charges a per-item rental fee. The exact price depends on the type of uniform, the volume the customer uses, and regional pricing. A chain of hotels paying for thousands of uniforms negotiates better pricing than a small restaurant.
 
-Costs are mostly variable and some are fixed. Variable costs include laundry (water, chemicals, utilities, labour to wash and fold), the uniforms themselves (fabric, manufacturing), and transportation for pickups and deliveries. Fixed costs include the laundry facilities (buildings, equipment), [regional management](/rm-stock/) overhead, and customer service. High fixed costs mean the business does better when utilization is high — when laundry plants are running full.
+Costs are mostly variable and some are fixed. Variable costs include laundry (water, chemicals, utilities, labour to wash and fold), the uniforms themselves (fabric, manufacturing), and transportation for pickups and deliveries. Fixed costs include the laundry facilities (buildings, equipment), regional management overhead, and customer service. High fixed costs mean the business does better when utilization is high — when laundry plants are running full.
 
 Gross margin (revenue minus the cost of the uniforms and laundry) is typically in the 40–50 percent range for uniform rental. That leaves plenty to cover the fixed operating costs, labour, and other expenses. If the business is running efficiently and customers are using the service heavily, [operating margins](/operating-margin/) can be healthy.
 

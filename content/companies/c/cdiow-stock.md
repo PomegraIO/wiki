@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Cardio Diagnostics is a small medical diagnostics company. Its basic job is to build blood tests that tell doctors whether a patient is at high risk for a heart attack, stroke, or other cardiac events. If a doctor can identify a high-risk patient early, they can start treatment before something bad happens. That prevention is worth money — for the patient (who avoids a crisis), for the doctor (who avoids an emergency), and for the insurance company or hospital (who avoids a costly hospitalization). So Cardio Diagnostics exists in a straightforward market: develop accurate, useful tests; get doctors and labs to use them; get paid.
+[Cardio Diagnostics](/cdio-stock/) is a small medical diagnostics company. Its basic job is to build blood tests that tell doctors whether a patient is at high risk for a heart attack, stroke, or other cardiac events. If a doctor can identify a high-risk patient early, they can start treatment before something bad happens. That prevention is worth money — for the patient (who avoids a crisis), for the doctor (who avoids an emergency), and for the insurance company or hospital (who avoids a costly hospitalization). So Cardio Diagnostics exists in a straightforward market: develop accurate, useful tests; get doctors and labs to use them; get paid.
 
 ## How the test works and why it matters
 
@@ -28,11 +28,11 @@ The problem is that diagnostic tests have low margins and take years to build ad
 
 ## The warrant complication
 
-The CDIOW ticker represents warrants, not the common stock. These are rights to buy shares at a set strike price. For Cardio Diagnostics, warrants were a way to raise capital when the company was younger or when the common stock was unproven. A holder of CDIOW is betting that the common stock will trade above the warrant's strike price, making the warrant valuable. But warrants on a tiny medical-device company are speculative: if the tests never get adopted, or if a big competitor develops something better, the common stock might never recover, and the warrant will expire worthless.
+The CDIOW ticker represents warrants, not the [common stock](/common-stock/). These are rights to buy shares at a set [strike price](/strike-price/). For Cardio Diagnostics, warrants were a way to raise capital when the company was younger or when the common stock was unproven. A holder of CDIOW is betting that the common stock will trade above the warrant's strike price, making the warrant valuable. But warrants on a tiny medical-device company are speculative: if the tests never get adopted, or if a big competitor develops something better, the common stock might never recover, and the warrant will expire worthless.
 
 ## The risks
 
-Medical diagnostics is risky in several ways. First, clinical adoption is uncertain. Even if a test is accurate, doctors do not automatically start using it. There is inertia, skepticism, and the simple fact that changing clinical practice takes years. Second, competition is real. Larger diagnostics companies like Quest Diagnostics, LabCorp, and even biotech giants like Roche or Illumina can decide to move into cardiac risk and outspend a small firm. Third, regulation can change: if the FDA tightens approval standards for tests, or if insurance companies stop reimbursing, revenue can vanish. Fourth, there is the risk of being wrong: if the test simply is not as good as the company believed, or if other markers are discovered that predict risk better, the test becomes obsolete.
+Medical diagnostics is risky in several ways. First, clinical adoption is uncertain. Even if a test is accurate, doctors do not automatically start using it. There is inertia, skepticism, and the simple fact that changing clinical practice takes years. Second, competition is real. Larger diagnostics companies like [Quest Diagnostics](/dgx-stock/), LabCorp, and even biotech giants like Roche or Illumina can decide to move into cardiac risk and outspend a small firm. Third, regulation can change: if the FDA tightens approval standards for tests, or if insurance companies stop reimbursing, revenue can vanish. Fourth, there is the risk of being wrong: if the test simply is not as good as the company believed, or if other markers are discovered that predict risk better, the test becomes obsolete.
 
 ## How investors can think about it
 

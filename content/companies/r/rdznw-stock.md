@@ -31,7 +31,7 @@ Roadzen's moat is its dataset and the models trained on it. The company has accu
 
 The competitive advantage flows from two sources: (1) the dataset and the predictive models trained on it become more accurate the larger they grow, creating network effects; and (2) regulatory approval in multiple jurisdictions creates switching costs—carriers already using an approved system have less reason to rip it out and replace it than to expand usage of what they know works.
 
-Roadzen also benefits from distribution breadth. By servicing insurers, carmakers (selling DrivebuddyAI as an embedded safety feature), and fleet operators simultaneously, it can amortize the cost of platform development across multiple customer types. A single insurer might use the claims automation piece; a carmaker might use the in-vehicle driver monitoring; a fleet might use the telematics data and analytics. This bundling reduces customer acquisition cost and increases lifetime value.
+Roadzen also benefits from distribution breadth. By servicing insurers, carmakers (selling DrivebuddyAI as an embedded safety feature), and fleet operators simultaneously, it can amortize the cost of platform development across multiple customer types. A single insurer might use the claims automation piece; a carmaker might use the in-vehicle driver monitoring; a fleet might use the telematics data and analytics. This bundling reduces customer [acquisition](/acquisition/) cost and increases lifetime value.
 
 ## What are the risks and pressures?
 
@@ -39,7 +39,7 @@ The insurance industry is highly regulated, and regulators take a conservative v
 
 Roadzen also faces competitive pressure from two directions. Large insurance carriers have begun investing in their own AI underwriting capabilities; they might use Roadzen initially, then build in-house versions and disintermediate the vendor. Secondly, specialized competitors are emerging in specific niches—computer vision for claims (to automate damage assessment), telematics alone (not bundled with underwriting), or agent-based customer engagement. Roadzen's full-stack bet assumes insurers value integration, but if they value best-of-breed specialists more, Roadzen's bundling advantage erodes.
 
-The MGA revenue model also carries a risk: if a carrier partner decides the policies Roadzen is writing for them are unprofitable, they can terminate the relationship with minimal notice, cutting off a significant revenue stream. The company is working to diversify its carrier partners to reduce concentration risk, but the model remains carrier-dependent.
+The MGA revenue model also carries a risk: if a carrier partner decides the policies Roadzen is writing for them are unprofitable, they can terminate the relationship with minimal notice, cutting off a significant revenue stream. The company is working to diversify its carrier partners to reduce [concentration risk](/concentration-risk/), but the model remains carrier-dependent.
 
 ## How should an investor research Roadzen?
 

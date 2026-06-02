@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The Innovator Equity Defined Protection ETF - 2 Yr to January 2028 (AJAN) is an exchange-traded fund designed to hold U.S. large-cap stocks while systematically hedging downside losses through a collar structure: long put options (insurance against drops) financed by short call options (caps on gains). The entire structure unwinds and the fund liquidates or converts on a preset date two years forward.*
+*The Innovator Equity Defined Protection ETF - 2 Yr to January 2028 (AJAN) is an exchange-traded fund designed to hold U.S. large-cap stocks while systematically hedging downside losses through a collar structure: long [put options](/put-option/) (insurance against drops) financed by short [call options](/call-option/) (caps on gains). The entire structure unwinds and the fund liquidates or converts on a preset date two years forward.*
 
 ## The mechanics and the hedging logic
 
@@ -19,13 +19,13 @@ AJAN holds a diversified portfolio of large-cap U.S. equities. Rather than buyin
 
 Picture it concretely. If the fund holds stocks with an aggregate value of 100, it might buy puts struck at 90 (protecting against more than a 10% fall) and sell calls at 110 (capping gains at 10%). That put is expensive; the short call premium helps pay for it. The result is a range: if stocks fall to 80, the puts protect the portfolio down to 90, absorbing the loss. If stocks rally to 120, the calls are exercised and the portfolio stops participating above 110. The investor gets defined protection and defined cap, with the costs largely offsetting.
 
-The date matters. This is not an evergreen fund. AJAN is explicitly time-limited: it will terminate and distribute proceeds (or convert to something else) in January 2028. That sunset feature is deliberate — it lets Innovator reset the collar, rebalance, and offer a new vintage with updated strike prices reflecting current market levels. You do not own this fund as a permanent holding; you own it for a defined period with known endpoints.
+The date matters. This is not an evergreen fund. AJAN is explicitly time-limited: it will terminate and distribute proceeds (or convert to something else) in January 2028. That sunset feature is deliberate — it lets Innovator reset the collar, rebalance, and offer a new vintage with updated [strike prices](/strike-price/) reflecting current market levels. You do not own this fund as a permanent holding; you own it for a defined period with known endpoints.
 
 ## The insurance metaphor and what it costs
 
-Think of AJAN as equity insurance packaged as an ETF. You get the upside and downside exposure of owning U.S. large-cap stocks, but within guardrails. The protection is genuine: in a major market correction, the puts keep losses contained. The tradeoff is equally real: in a bull market, the calls cap your gains. Neither the protection nor the cap is free — they involve fees, option slippage, and the day-to-day mechanics of rolling positions.
+Think of AJAN as equity insurance packaged as an ETF. You get the upside and downside exposure of owning U.S. large-cap stocks, but within guardrails. The protection is genuine: in a major market correction, the puts keep losses contained. The tradeoff is equally real: in a [bull market](/bull-market/), the calls cap your gains. Neither the protection nor the cap is free — they involve fees, option slippage, and the day-to-day mechanics of rolling positions.
 
-The expense ratio reflects not just the fund's operating costs but also the embedded cost of maintaining the hedges: buying new puts, selling new calls, rebalancing, and managing the collar as the underlying stocks move. Those costs do not show as a line item on each monthly statement, but they erode returns. In flat to falling markets, where the put protection is valuable, those costs are offset or exceeded by the protection. In rallying markets, where the call cap is a drag, those same costs stack on top of the lost upside.
+The [expense ratio](/expense-ratio/) reflects not just the fund's operating costs but also the embedded cost of maintaining the hedges: buying new puts, selling new calls, rebalancing, and managing the collar as the underlying stocks move. Those costs do not show as a line item on each monthly statement, but they erode returns. In flat to falling markets, where the put protection is valuable, those costs are offset or exceeded by the protection. In rallying markets, where the call cap is a drag, those same costs stack on top of the lost upside.
 
 ## Who buys this and why
 
@@ -41,4 +41,4 @@ That termination is not a bug; it is the feature. Innovator uses the reset to gi
 
 ## How to evaluate the trade and research it
 
-Start with the fund's prospectus to see the exact strike prices of the puts and calls and how they relate to the market price on the date of issuance. The fact sheet shows current valuations. Watch the fund's performance against the S&P 500 in different market conditions: in a rising market you will underperform due to the cap; in a falling market you should outperform due to the floor. The key question is whether the protection and cap are sensibly calibrated for a two-year holding period, and whether you are comfortable with the explicit endpoint and the reset required thereafter.
+Start with the fund's prospectus to see the exact strike prices of the puts and calls and how they relate to the market price on the date of issuance. The fact sheet shows current valuations. Watch the fund's performance against the S&P 500 in different market conditions: in a rising market you will underperform due to the cap; in a falling market you should outperform due to the floor. The key question is whether the protection and cap are sensibly calibrated for a two-year [holding period](/holding-period/), and whether you are comfortable with the explicit endpoint and the reset required thereafter.

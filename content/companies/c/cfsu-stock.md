@@ -10,7 +10,7 @@ keywords:
   - small-cap
 ---
 
-*The **Complete Financial Solutions Inc.** (CFSU) ticker marks a niche player in the payments software ecosystem—a company that rents transaction-processing and card-management tools to [financial institutions](/fisi-stock/) and merchant processors. Its [10-K](/10-k/) reveals a recurring-revenue model built on modest scale and narrow geographic or product focus, the kind of understated profile that yields high operating leverage when execution is disciplined.*
+*The **Complete Financial Solutions Inc.** (CFSU) ticker marks a niche player in the payments software ecosystem—a company that rents transaction-processing and card-management tools to financial institutions and merchant processors. Its [10-K](/10-k/) reveals a recurring-revenue model built on modest scale and narrow geographic or product focus, the kind of understated profile that yields high operating leverage when execution is disciplined.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CFSU</td></tr>

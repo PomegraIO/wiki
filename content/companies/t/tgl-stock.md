@@ -42,7 +42,7 @@ The geography also limits it. The company's moat is fundamentally regional. It c
 
 Treasure Global is one of several regional fintech players in Southeast Asia, but it has a particular angle: it focuses on cross-border payments and e-commerce. Other regional players may focus on domestic money transfers, savings products, or lending. Treasure Global's focus on merchants and transactions gives it a specific niche.
 
-Its main competitors include other payment processors, some of which are larger and operate across the region (Stripe, for example, entered Southeast Asia), and some of which are smaller and more local. Global payment platforms like PayPal and 2Checkout also operate in the region but often with less localized sophistication. Regional banks and mobile-money operators like GCash also process payments but typically focus on their home market or a narrower set of services.
+Its main competitors include other payment processors, some of which are larger and operate across the region (Stripe, for example, entered Southeast Asia), and some of which are smaller and more local. Global payment platforms like [PayPal](/pypl-stock/) and 2Checkout also operate in the region but often with less localized sophistication. Regional banks and mobile-money operators like GCash also process payments but typically focus on their home market or a narrower set of services.
 
 Treasure Global's edge is that it combined payment processing with an e-commerce lens and a deep regional focus. It understands what matters to a small merchant in Jakarta or Ho Chi Minh City in a way that a global platform may not.
 
@@ -52,7 +52,7 @@ The company's growth depends on sustained e-commerce expansion in the region, an
 
 Regulatory risk is also present. Payment processing is highly regulated everywhere. Changes to currency-exchange rules, consumer-protection requirements, or licensing standards in any of the key markets could affect the business. Southeast Asia's regulatory environment is also less stable in some ways than developed markets, creating uncertainty.
 
-Currency risk affects merchants and the platform alike. When the rupiah weakens against the dollar, for example, it affects the cost basis for merchants buying goods internationally and can reduce their willingness to spend on merchant services. Cross-border transaction demand is sensitive to exchange rates.
+[Currency risk](/currency-risk/) affects merchants and the platform alike. When the rupiah weakens against the dollar, for example, it affects the [cost basis](/cost-basis/) for merchants buying goods internationally and can reduce their willingness to spend on merchant services. Cross-border transaction demand is sensitive to exchange rates.
 
 ## How to research Treasure Global
 

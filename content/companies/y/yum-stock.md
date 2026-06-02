@@ -74,7 +74,7 @@ Labor costs remain a structural headwind. While Yum does not employ restaurant s
 
 Consumer preferences are shifting toward healthier, fresher options, and competition in the value quick-service segment is intense. Yum relies on menu innovation and local adaptation to keep brands relevant, but missteps (such as failed menu items or tone-deaf marketing) are visible and costly.
 
-International exposure, while a growth driver, introduces currency and geopolitical risk. A strong U.S. dollar reduces overseas earnings when translated back to dollars; political or trade tensions can restrict expansion or franchisee operations.
+International exposure, while a growth driver, introduces currency and geopolitical risk. A strong [U.S. dollar](/us-dollar/) reduces overseas earnings when translated back to dollars; political or trade tensions can restrict expansion or franchisee operations.
 
 Finally, the company's high leverage on franchisee networks means that economic downturns that constrain consumer dining-out behavior, or disruptions (pandemic lockdowns, for example) that force restaurant closures, directly threaten the revenue stream.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-MFS Charter Income Trust is a [closed-end fund](/closed-end-fund/) — a type of investment company that pools capital from shareholders and deploys it into a portfolio of bonds, [preferred stocks](/preferred-stock/), and other fixed-income securities. Unlike an open-end mutual fund, a closed-end fund has a fixed number of shares outstanding, and those shares trade on an exchange like a stock. The fund's primary purpose is to generate current income from interest and dividends and distribute that income to shareholders regularly, typically monthly or quarterly.
+MFS Charter Income Trust is a [closed-end fund](/closed-end-fund/) — a type of investment company that pools capital from shareholders and deploys it into a portfolio of [bonds](/bond/), [preferred stocks](/preferred-stock/), and other fixed-income securities. Unlike an open-end mutual fund, a closed-end fund has a fixed number of shares outstanding, and those shares trade on an exchange like a stock. The fund's primary purpose is to generate current income from interest and [dividends](/dividend/) and distribute that income to shareholders regularly, typically monthly or quarterly.
 
 <aside class="wiki-infobox">
 <table>
@@ -31,7 +31,7 @@ This structure has important implications. Because the fund can borrow money at 
 
 ## What MFS Charter Income Trust invests in
 
-MFS Charter Income Trust invests in a diversified portfolio of fixed-income securities. This typically includes investment-grade [corporate bonds](/corporate-bond/), government bonds, preferred stocks, and sometimes lower-rated (high-yield) bonds. The fund's managers make decisions about how much to allocate to each sector and credit quality based on their views of market conditions and relative value.
+MFS Charter Income Trust invests in a diversified portfolio of fixed-income securities. This typically includes investment-grade [corporate bonds](/corporate-bond/), government bonds, preferred stocks, and sometimes lower-rated ([high-yield) bonds](/high-yield-bond/). The fund's managers make decisions about how much to allocate to each sector and credit quality based on their views of market conditions and relative value.
 
 The goal is straightforward: find securities that generate income today. Interest on bonds, dividends on preferred stocks, and other current cash flows are collected and distributed to shareholders. The fund does not primarily aim to generate capital appreciation; it aims to provide a high [current yield](/current-yield/), and that income is the main reason shareholders own the fund.
 
@@ -47,7 +47,7 @@ The core risk is interest-rate sensitivity. When [interest rates](/interest-rate
 
 A second risk is market price versus net asset value (NAV). Because MCR trades on an exchange like a stock, its market price can diverge from the underlying value of its portfolio. Sometimes the fund trades at a discount to NAV (investors are pessimistic and willing to buy shares for less than the portfolio is worth), and sometimes at a premium (optimism drives the price up). If you buy at a premium, you are paying more than the portfolio is worth, which is a headwind on returns.
 
-Credit risk is a third concern. If the bonds or preferred stocks the fund holds deteriorate in credit quality, their value falls. A recession or sector downturn can hurt the issuers the fund has lent to, and in the worst case, default and principal loss are possible.
+[Credit risk](/credit-risk/) is a third concern. If the bonds or preferred stocks the fund holds deteriorate in credit quality, their value falls. A [recession](/recession/) or sector downturn can hurt the issuers the fund has lent to, and in the worst case, default and principal loss are possible.
 
 Finally, there is distribution risk. The fund's ability to pay its stated distribution depends on both the income from its portfolio and its ability to access leverage and manage its [balance sheet](/balance-sheet/). If spreads widen dramatically or credit conditions tighten, the fund's cost of leverage can rise, squeezing the income available for distribution. In extreme cases, the board may reduce the distribution to preserve capital.
 
@@ -63,4 +63,4 @@ Because MFS Charter Income Trust is part of a larger family of funds and a profe
 
 ## The appeal and the caveat
 
-Closed-end bond funds like MCR appeal to investors seeking higher income in a low-rate environment or to those seeking exposure to leverage to amplify income. The distributions are often higher than what an individual could assemble buying bonds directly. However, that higher income comes with higher risk and the possibility of principal loss. The steady distribution can mask the fact that the underlying asset base is shrinking if distributions exceed income, or that leverage is increasing market sensitivity. A careful investor should understand whether the distribution is sustainable and whether the price they are paying for the fund's shares reflects fair value or includes an inflated premium.
+Closed-end bond funds like MCR appeal to investors seeking higher income in a low-rate environment or to those seeking exposure to leverage to amplify income. The distributions are often higher than what an individual could assemble buying bonds directly. However, that higher income comes with higher risk and the possibility of principal loss. The steady distribution can mask the fact that the underlying asset base is shrinking if distributions exceed income, or that leverage is increasing market sensitivity. A careful investor should understand whether the distribution is sustainable and whether the price they are paying for the fund's shares reflects [fair value](/fair-value/) or includes an inflated premium.

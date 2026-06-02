@@ -61,7 +61,7 @@ The company's strategy has evolved with the cycles. During [bear markets](/bear-
 
 Galaxy Digital is heavily capitalized, relying on periodic equity and debt offerings to fund growth. The company has raised capital through stock offerings, [convertible bonds](/convertible-bond/), and other instruments to finance mining operations, [acquisitions](/acquisition/), and inventory building. This capital-intensive approach creates leverage: when cryptocurrency prices are strong, Galaxy's returns are amplified; when prices fall, the company faces pressure on valuations and may need to manage debt carefully.
 
-The company has occasionally pursued strategic partnerships and joint ventures—for example, with traditional [financial institutions](/fisi-stock/) or other crypto firms—to co-invest and reduce balance-sheet strain.
+The company has occasionally pursued strategic partnerships and joint ventures—for example, with traditional financial institutions or other crypto firms—to co-invest and reduce balance-sheet strain.
 
 ## Competition and industry positioning
 

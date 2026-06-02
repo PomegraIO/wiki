@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Shreya Acquisition Group is a Special Purpose Acquisition Company—a vehicle designed to raise capital from public markets and use that capital to acquire a private business, thereby taking it public without a traditional IPO. The company closed an $110 million initial public offering in May 2026, issuing 11 million units at $10 each, with sponsors investing an additional $1.9 million to demonstrate commitment. Like all SPACs, Shreya has no operating assets, no revenue, and no business of its own. The management team's task is to identify, negotiate, and close an acquisition within a defined window.
+Shreya [Acquisition](/acquisition/) Group is a Special Purpose Acquisition Company—a vehicle designed to raise capital from public markets and use that capital to acquire a private business, thereby taking it public without a traditional IPO. The company closed an $110 million [initial public offering](/initial-public-offering/) in May 2026, issuing 11 million units at $10 each, with sponsors investing an additional $1.9 million to demonstrate commitment. Like all SPACs, Shreya has no operating assets, no revenue, and no business of its own. The management team's task is to identify, negotiate, and close an acquisition within a defined window.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,9 +28,9 @@ Shreya Acquisition Group is a Special Purpose Acquisition Company—a vehicle de
 
 ## The structure and mechanics
 
-Each unit purchased in the IPO entitled the investor to one Class A ordinary share, one warrant exercisable at $11.50, and one right representing a quarter of a Class A share that vests upon merger completion. Beginning May 22, 2026, these components separated and trade under their own ticker symbols: SAGU for shares, SAGU WS for warrants, and SAGU RT for rights. An investor can hold all three components together or trade them separately, giving market participants flexibility in how they construct their position.
+Each unit purchased in the IPO entitled the investor to one Class A ordinary share, one warrant exercisable at $11.50, and one right representing a quarter of a Class A share that vests upon [merger](/merger/) completion. Beginning May 22, 2026, these components separated and trade under their own ticker symbols: SAGU for shares, SAGU WS for warrants, and SAGU RT for rights. An investor can hold all three components together or trade them separately, giving market participants flexibility in how they construct their position.
 
-Shreya's sponsors—the management group and investors who founded the SPAC—received 2.75 million founder shares for free, a stake worth roughly 25 percent of the company once the IPO closed. These shares do not count toward the $110 million raised; they are the sponsors' skin in the game. If the sponsors negotiate a valuable merger, their founder shares become valuable. If the company fails to close a deal or the deal fails, the sponsors lose time and reputation but recover some upside. This structure is meant to align sponsor incentives with shareholder interests.
+Shreya's sponsors—the management group and investors who founded the SPAC—received 2.75 million [founder shares](/founder-shares/) for free, a stake worth roughly 25 percent of the company once the IPO closed. These shares do not count toward the $110 million raised; they are the sponsors' skin in the game. If the sponsors negotiate a valuable merger, their founder shares become valuable. If the company fails to close a deal or the deal fails, the sponsors lose time and reputation but recover some upside. This structure is meant to align sponsor incentives with shareholder interests.
 
 ## Sector focus and targets
 

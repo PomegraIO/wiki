@@ -45,7 +45,7 @@ The third factor is the installed base and switching costs. Thousands of commerc
 
 ## Supply, margins, and risks
 
-Like all semiconductor makers, Lattice is exposed to chip supply cycles and manufacturing capacity constraints. The company does not own fabs; it designs chips and outsources production to Taiwan Semiconductor Manufacturing Company and other specialized foundries. This asset-light approach keeps margins higher than vertically integrated competitors enjoy, but it also means Lattice has no priority in times of scarcity and must negotiate allocation like everyone else.
+Like all semiconductor makers, Lattice is exposed to chip supply cycles and manufacturing capacity constraints. The company does not own fabs; it designs chips and outsources production to [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company and other specialized foundries. This asset-light approach keeps margins higher than vertically integrated competitors enjoy, but it also means Lattice has no priority in times of scarcity and must negotiate allocation like everyone else.
 
 The profit margin on a Lattice chip is healthy — gross margins typically run above 50 percent because the company is not competing on raw cost but on specificity and customer preference. [Operating margins](/operating-margin/) are driven by how efficiently the company can spread its engineering and support costs across its revenue base. Both improve as the embedded software and IP licensing business grows, because recurring licensing revenue carries lower delivery costs than hardware.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The iShares ESG Advanced MSCI EM ETF (EMXF) is an exchange-traded fund that gives investors exposure to publicly traded companies across emerging markets — countries like Mexico, Brazil, South Korea, Taiwan, India, and Indonesia — while filtering through environmental, social, and governance standards. It is managed by BlackRock's iShares division and trades on major U.S. exchanges. The fund does not try to beat the market through active stock-picking; instead, it tracks an index constructed by MSCI that selects emerging-market companies and weights them by market capitalization while applying ESG-based screening and tilting.
+The iShares ESG Advanced MSCI EM ETF (EMXF) is an exchange-traded fund that gives investors exposure to publicly traded companies across emerging markets — countries like Mexico, Brazil, South Korea, Taiwan, India, and Indonesia — while filtering through environmental, social, and governance standards. It is managed by BlackRock's iShares division and trades on major U.S. exchanges. The fund does not try to beat the market through active stock-picking; instead, it tracks an index constructed by MSCI that selects emerging-market companies and weights them by [market capitalization](/market-capitalization/) while applying ESG-based screening and tilting.
 
 ## What EMXF holds and tracks
 
@@ -21,7 +21,7 @@ The fund's geographic weight is distributed across Asia (roughly half the index)
 
 ## Cost structure and how it trades
 
-EMXF trades with a low expense ratio, making it cost-efficient for emerging-market exposure. Like other index-tracking ETFs, it charges an annual fee on assets under management — typically less than 0.5 percent — which is competitive within the emerging-markets category. The fund trades throughout the day on U.S. exchanges as an ordinary stock, so investors can buy and sell at market prices without the timing or trade-size constraints that affect traditional mutual funds. Bid-ask spreads are generally tight because EMXF has a substantial asset base and continuous market maker participation.
+EMXF trades with a low [expense ratio](/expense-ratio/), making it cost-efficient for emerging-market exposure. Like other index-tracking ETFs, it charges an annual fee on assets under management — typically less than 0.5 percent — which is competitive within the emerging-markets category. The fund trades throughout the day on U.S. exchanges as an ordinary stock, so investors can buy and sell at market prices without the timing or trade-size constraints that affect traditional [mutual funds](/mutual-fund/). [Bid-ask spreads](/bid-ask-spread/) are generally tight because EMXF has a substantial asset base and continuous [market maker](/market-maker-trading/) participation.
 
 ## Objective and strategy
 
@@ -35,7 +35,7 @@ However, ESG exclusions carry trade-offs. By underweighting or excluding sectors
 
 ## Risks: currency, geopolitics, and volatility
 
-Emerging-market funds inherently carry more volatility than developed-market indices. These economies and their currencies fluctuate more sharply, so EMXF's value will swing more than a fund tracking U.S. or European stocks. Currency risk is material: if the Indian rupee, Brazilian real, and other local currencies weaken against the dollar, the fund's dollar value falls even if underlying stocks hold their local prices. Political risk — government changes, regulatory shifts, capital controls — can affect holdings across the portfolio. During market stress, some holdings may face liquidity challenges, and concentration in certain countries or sectors can amplify drawdowns.
+Emerging-market funds inherently carry more volatility than developed-market indices. These economies and their currencies fluctuate more sharply, so EMXF's value will swing more than a fund tracking U.S. or European stocks. [Currency risk](/currency-risk/) is material: if the [Indian rupee](/indian-rupee/), Brazilian real, and other local currencies weaken against the dollar, the fund's dollar value falls even if underlying stocks hold their local prices. Political risk — government changes, regulatory shifts, capital controls — can affect holdings across the portfolio. During market stress, some holdings may face liquidity challenges, and concentration in certain countries or sectors can amplify drawdowns.
 
 The ESG screen itself introduces a subtle risk: by restricting to companies that meet ESG criteria, EMXF may underrepresent some of the fastest-growing sectors in emerging economies, potentially missing alpha during periods when those excluded areas outperform.
 

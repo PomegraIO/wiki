@@ -52,11 +52,11 @@ The company's path from current development stage to profitability is long and u
 
 ## Key inflection points and risks
 
-The most obvious risk is clinical failure. Any drug candidate can fail in trials—efficacy can be inadequate, safety concerns can emerge, or the regulatory bar can move. A company betting its future on one or two candidates faces existential risk if those candidates fail. Diversification across multiple programs reduces, but does not eliminate, this risk.
+The most obvious risk is clinical failure. Any drug candidate can fail in trials—efficacy can be inadequate, safety concerns can emerge, or the regulatory bar can move. A company betting its future on one or two candidates faces existential risk if those candidates fail. [Diversification](/diversification/) across multiple programs reduces, but does not eliminate, this risk.
 
 Regulatory risk is also material. The FDA or other regulators can request additional data, longer follow-up studies, or manufacturing changes that delay approval and consume additional resources. A company with limited cash cannot sustain a multi-year regulatory delay without raising new capital or partnering.
 
-The funding risk is continuous. If Pulmatrix's pipeline disappoints or if sentiment turns against small-cap biotech generally, the company may find equity financing difficult and expensive. Debt is rarely an option for a pre-revenue biotech (lenders want cash flow to service debt). A company that runs out of cash and cannot raise more faces dilutive emergency financing or bankruptcy.
+The funding risk is continuous. If Pulmatrix's pipeline disappoints or if sentiment turns against small-cap biotech generally, the company may find [equity financing](/equity-financing/) difficult and expensive. Debt is rarely an option for a pre-revenue biotech (lenders want cash flow to service debt). A company that runs out of cash and cannot raise more faces dilutive emergency financing or bankruptcy.
 
 Clinical success is not the same as commercial success. Even if a drug is approved, it must still compete for prescriptions, insurance coverage, and patient adoption. A drug that works but is harder to use than competitors, or more expensive, or only marginally better may not achieve significant sales. Clinical success also does not guarantee profitability—a drug approved and selling millions of dollars annually can still be unprofitable if manufacturing cost or marketing expense is high.
 
@@ -76,6 +76,6 @@ Examine the clinical-program summary. What stage is each candidate at? What are 
 
 Look for partnerships or licensing agreements. If Pulmatrix has inked a partnership with a larger pharma company or a specialized contract partner, that is a positive signal of external validation and a source of non-dilutive funding.
 
-Track the composition of the balance sheet. Does the company hold cash or short-term investments? Is there outstanding debt? What is the share count, and how much dilution has occurred through equity offerings? Heavy dilution suggests the company has struggled to raise capital or has taken aggressive financing terms.
+Track the composition of the [balance sheet](/balance-sheet/). Does the company hold cash or short-term investments? Is there outstanding debt? What is the share count, and how much dilution has occurred through equity offerings? Heavy dilution suggests the company has struggled to raise capital or has taken aggressive financing terms.
 
 Finally, follow the clinical data as it is released. Results from trials are the largest drivers of value change in biotech companies. A Phase 2 readout showing efficacy and a manageable safety profile is encouraging; mediocre results or safety signals are concerning. Clinical data interpretation requires some biomedical knowledge, but press releases and FDA feedback letters provide layperson-accessible summaries.

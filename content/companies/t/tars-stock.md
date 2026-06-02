@@ -29,7 +29,7 @@ Tarsus Pharmaceuticals is a biopharmaceutical company in the business of turning
 
 Tarsus identifies compounds that might treat eye diseases, tests them in the lab, then moves them into clinical trials in human patients. If a drug passes all phases of clinical testing and demonstrates safety and efficacy, the company seeks FDA approval. If approval comes, the company can then market and sell the drug. That entire journey—from compound identification to approved, sold medication—typically takes a decade and costs hundreds of millions of dollars. Tarsus' role is to navigate as much of that journey as its cash and capabilities allow.
 
-Most of Tarsus's portfolio sits in early and mid-stage clinical development. That means the company is testing compounds in small groups of patients to establish whether they are safe and show signs of working. It is not yet selling drugs to the market. That creates a key difference from an established pharmaceutical company: Tarsus has no meaningful product revenue. The company survives on investor capital and milestone payments [or royalties](/or-stock/) from partnerships with larger pharmaceutical firms.
+Most of Tarsus's portfolio sits in early and mid-stage clinical development. That means the company is testing compounds in small groups of patients to establish whether they are safe and show signs of working. It is not yet selling drugs to the market. That creates a key difference from an established pharmaceutical company: Tarsus has no meaningful product revenue. The company survives on investor capital and milestone payments or royalties from partnerships with larger pharmaceutical firms.
 
 ### Why focus on eye diseases?
 

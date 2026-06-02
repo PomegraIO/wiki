@@ -40,7 +40,7 @@ Then there is used vehicles. When Ryder's leased trucks roll off their contracts
 
 ## What makes Ryder different in its market?
 
-Scale matters enormously in this business. Ryder owns and manages the second-largest [commercial vehicle](/cvgi-stock/) fleet in North America—roughly 267,000 vehicles as of recent years. That scale generates economies in procurement (buying thousands of trucks annually gives negotiating leverage with manufacturers), maintenance (standardized parts, centralized training), and asset recovery (disposal networks for used vehicles). A smaller competitor cannot compete here.
+Scale matters enormously in this business. Ryder owns and manages the second-largest commercial vehicle fleet in North America—roughly 267,000 vehicles as of recent years. That scale generates economies in procurement (buying thousands of trucks annually gives negotiating leverage with manufacturers), maintenance (standardized parts, centralized training), and asset recovery (disposal networks for used vehicles). A smaller competitor cannot compete here.
 
 Network and relationships form a second moat. Ryder has built a century of trust with blue-chip customers. Large companies have integrated Ryder logistics into their supply chains; switching requires renegotiating contracts, retraining staff, and absorbing transition costs. Ryder's nationwide service network—maintenance facilities, distribution hubs, rental locations—makes it the obvious choice for a national company.
 

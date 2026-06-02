@@ -13,7 +13,7 @@ handwritten: true
 
 ## What is Inspira Technologies and what problem does it address?
 
-Inspira Technologies OXY B.H.N. Ltd is an Israeli medical device company developing extracorporeal membrane oxygenation (ECMO) systems. ECMO is a critical-care technology that oxygenates and pumps blood outside the body when a patient's heart or lungs fail. Inspira's focus is on miniaturized, point-of-care systems that can function at a smaller scale and with less clinical overhead than traditional hospital ECMO machines.
+[Inspira Technologies OXY B.H.N](/qtex-stock/). Ltd is an Israeli medical device company developing extracorporeal membrane oxygenation (ECMO) systems. ECMO is a critical-care technology that oxygenates and pumps blood outside the body when a patient's heart or lungs fail. Inspira's focus is on miniaturized, point-of-care systems that can function at a smaller scale and with less clinical overhead than traditional hospital ECMO machines.
 
 The market it serves is acute cardiac or respiratory failure in critical-care settings—patients who would otherwise die without artificial support. ECMO is an established technology with products from larger medical-device makers, but traditional systems are large, require specialized teams, and are typically found only in major cardiac hospitals. Inspira's value proposition is to miniaturize and simplify the technology, making it deployable in more settings and manageable by smaller teams.
 
@@ -55,10 +55,10 @@ Finally, even with regulatory approval and capital, commercial traction is not a
 
 ## What ticker is IINNW and what is it?
 
-IINNW are warrants—derivative securities that give the holder the right to buy shares of Inspira at a specified price over a specified time period. Warrants are often issued alongside shares as an incentive for investors in early-stage or pre-revenue companies. They are more speculative than shares because they are leveraged bets on the underlying stock and can expire worthless if the stock never reaches the strike price. An investor in IINNW is betting not only that Inspira will succeed but that the shares will appreciate enough to make the warrants in-the-money and valuable.
+IINNW are warrants—derivative securities that give the holder the right to buy shares of Inspira at a specified price over a specified time period. Warrants are often issued alongside shares as an incentive for investors in early-stage or pre-revenue companies. They are more speculative than shares because they are leveraged bets on the underlying stock and can expire worthless if the stock never reaches the [strike price](/strike-price/). An investor in IINNW is betting not only that Inspira will succeed but that the shares will appreciate enough to make the warrants in-the-money and valuable.
 
 ## How would an investor research Inspira?
 
-Start with the company's SEC filings (Form 10-K for annual reports, 10-Q for quarterly) filed under SEC CIK 0001837493. Pay particular attention to the "Risk Factors" section, which details the regulatory, capital, and competition risks. Look for updates on regulatory progress—any FDA correspondence, clinical trial results, or approval timelines are critical signals. Monitor burn rate (cash spent per period) and total cash on hand to understand how long the company can operate before needing more capital.
+Start with the company's SEC filings (Form 10-K for [annual reports](/10-k/), 10-Q for quarterly) filed under SEC CIK 0001837493. Pay particular attention to the "Risk Factors" section, which details the regulatory, capital, and competition risks. Look for updates on regulatory progress—any FDA correspondence, clinical trial results, or approval timelines are critical signals. Monitor burn rate (cash spent per period) and total cash on hand to understand how long the company can operate before needing more capital.
 
 Clinical publications in medical journals that include data on Inspira's devices are also valuable. These papers provide independent evidence (or lack thereof) of safety and efficacy claims. Finally, watch for announcements of clinical partnerships or pilot deployments—these signal growing hospital interest and de-risk the commercial path.

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ProShares Ultra Russell 2000 is a leveraged exchange-traded fund that aims to deliver three times the daily return of the Russell 2000 index, a widely followed benchmark of around 2,000 small-cap and micro-cap US companies. It trades on the NASDAQ under the ticker ULE and is structured as an ETF that holds a portfolio designed to track its index and use financial instruments such as futures and swaps to amplify the result.
+ProShares Ultra Russell 2000 is a leveraged exchange-traded fund that aims to deliver three times the daily return of the [Russell 2000 index](/russell-2000/), a widely followed benchmark of around 2,000 small-cap and micro-cap US companies. It trades on the [NASDAQ](/nasdaq/) under the ticker ULE and is structured as an ETF that holds a portfolio designed to track its index and use financial instruments such as futures and swaps to amplify the result.
 
 <aside class="wiki-infobox">
 <table>
@@ -30,11 +30,11 @@ ULE does not own 2,000 small-cap stocks. Instead, ProShares constructs a smaller
 
 ## Who buys it and why
 
-ULE attracts traders placing a short-term bullish bet on small-cap stocks — a sector that is historically more volatile than large-cap stocks and more sensitive to changes in interest rates and corporate profitability. Small caps are also less liquid and less widely followed than blue-chip names, so they can offer outsized moves in either direction. For a trader who expects the Russell 2000 to rally in the next few days or weeks and is willing to accept 3x the downside if wrong, ULE offers a way to amplify that conviction without having to use margin on an individual brokerage account.
+ULE attracts traders placing a short-term bullish bet on small-cap stocks — a sector that is historically more volatile than large-cap stocks and more sensitive to changes in [interest rates](/interest-rate/) and corporate profitability. Small caps are also less liquid and less widely followed than blue-chip names, so they can offer outsized moves in either direction. For a trader who expects the Russell 2000 to rally in the next few days or weeks and is willing to accept 3x the downside if wrong, ULE offers a way to amplify that conviction without having to use margin on an individual brokerage account.
 
 It also attracts investors looking for a rapid hedge. A fund manager heavy in large-cap stocks might buy ULE for a few days if she believes a narrow rally in small caps is coming, as a way to rotate some capital without the friction of selling and rebuying positions.
 
-Retail traders and speculators are the dominant buyers. ULE has relatively low assets under management compared to mainstream ETFs, thin trading volume at times, and wide bid-ask spreads, making it expensive to enter and exit. A professional trader or large institution would construct leverage more cheaply through futures or options; ULE is meant for the trader with a small account and a specific short-term directional view.
+Retail traders and speculators are the dominant buyers. ULE has relatively low assets under management compared to mainstream ETFs, thin trading volume at times, and wide [bid-ask spreads](/bid-ask-spread/), making it expensive to enter and exit. A professional trader or large institution would construct leverage more cheaply through futures or options; ULE is meant for the trader with a small account and a specific short-term directional view.
 
 ## The leverage decay trap
 

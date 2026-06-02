@@ -43,7 +43,7 @@ The business is fundamentally recurring: once a loan or deposit is on the books,
 
 ## What moves the stock and why investors watch
 
-For a regional bank like Parke, the key metrics are the net interest margin, asset quality (how many loans go bad), the loan-to-deposit ratio, and whether the bank is growing deposits and loans in its market. Rising interest rates typically expand the margin, all else equal, because banks often pay deposits a sticky rate while they can price new loans higher. Falling rates squeeze the margin. Credit quality matters enormously; even a well-run bank can take a severe loss if its borrowers hit trouble and cannot repay. The stock also reflects the risk that unexpected regulation, a severe [recession](/recession/), or a funding crisis could force the bank to raise capital, diluting existing shareholders.
+For a regional bank like Parke, the key metrics are the net interest margin, asset quality (how many loans go bad), the loan-to-deposit ratio, and whether the bank is growing deposits and loans in its market. Rising interest rates typically expand the margin, all else equal, because banks often pay deposits a sticky rate while they can price new loans higher. Falling rates squeeze the margin. Credit quality matters enormously; even a well-run bank can take a severe loss if its borrowers hit trouble and cannot repay. The stock also reflects the risk that unexpected [regulation, a](/regulation-a/) severe [recession](/recession/), or a funding crisis could force the bank to raise capital, diluting existing shareholders.
 
 ## How to research Parke as an investment
 

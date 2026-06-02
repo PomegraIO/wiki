@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Vornado Realty Trust is a company that owns buildings. Big buildings, in important cities. It buys them, fixes them up, rents them out, and collects the money that tenants pay every month. That is the core idea, and everything else flows from it.
+[Vornado Realty](/vno-stock/) Trust is a company that owns buildings. Big buildings, in important cities. It buys them, fixes them up, rents them out, and collects the money that tenants pay every month. That is the core idea, and everything else flows from it.
 
 The company owns office buildings, shopping centers, and apartments. Most of them are in New York City, Washington D.C., and San Francisco — the expensive, dense places where there are a lot of people who need somewhere to work and live. These are not small properties. Vornado's buildings are the kind you have probably walked past or worked in. They are downtown addresses that matter.
 
@@ -44,7 +44,7 @@ The best retail property is in places where people still go to shop and spend ti
 
 ## Residential and stable cash flow
 
-Residential apartments are a different story. People always need somewhere to live. An apartment in a good city with good schools and good transit will have tenants, and those tenants will pay rent. Residential real estate is generally less risky than office or retail because demand is simpler and less affected by economic fashion.
+Residential apartments are a different story. People always need somewhere to live. An apartment in a good city with good schools and good transit will have tenants, and those tenants will pay rent. [Residential real estate](/residential-real-estate/) is generally less risky than office or retail because demand is simpler and less affected by economic fashion.
 
 Vornado owns apartment buildings, primarily in the major cities where its other buildings are. Residential rents in these cities tend to be high, meaning that even with normal vacancy and maintenance costs, the cash flow is usually positive and stable. This segment helps offset the uncertainty in office and retail.
 
@@ -56,10 +56,10 @@ Vornado also borrows money to buy and improve buildings. Like most real estate c
 
 ## How to research Vornado
 
-Start with the company's quarterly and annual reports to the SEC. The filings (CIK 0000899689) list every major building Vornado owns, along with occupancy rates, rent per square foot, and lease terms. These specifics matter because you can see how concentrated the portfolio is, where the vacancy is highest, and which leases are expiring soon.
+Start with the company's quarterly and [annual reports](/10-k/) to the SEC. The filings (CIK 0000899689) list every major building Vornado owns, along with occupancy rates, rent per square foot, and lease terms. These specifics matter because you can see how concentrated the portfolio is, where the vacancy is highest, and which leases are expiring soon.
 
 Watch the trends in occupancy rates, especially for office properties. That is the clearest indicator of whether Vornado's most important asset class is recovering or continuing to struggle. Look at rent growth in residential — that tells you whether the company can raise prices or is under pressure.
 
-The company's debt level matters. Real estate companies can be highly leveraged, so understand what Vornado owes and how soon major loans mature. Rising interest rates make debt more expensive to refinance. Real estate values fall when yields rise.
+The company's debt level matters. Real estate companies can be highly leveraged, so understand what Vornado owes and how soon major loans mature. Rising [interest rates](/interest-rate/) make debt more expensive to refinance. Real estate values fall when yields rise.
 
 Ultimately, Vornado is a play on the health of major American cities. If you think New York and Washington will keep being prosperous, dense places where companies and people want to be and where rents will stay high, then Vornado's buildings should earn good returns. If you think office is permanently damaged or that urban real estate is at risk, then Vornado is riskier. The company's fundamentals turn on the answer to that question.

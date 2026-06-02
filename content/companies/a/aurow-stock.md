@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Aurora Innovation is a software and hardware company that builds autonomous driving systems for trucks and, eventually, passenger vehicles. The core product is the Aurora Driver, a unified self-driving platform designed to work across different vehicle types and road conditions. The company has moved beyond research and prototyping to commercial operation, having launched driverless trucking services on public roads.*
+*[Aurora Innovation](/aur-stock/) is a software and hardware company that builds autonomous driving systems for trucks and, eventually, passenger vehicles. The core product is the Aurora Driver, a unified self-driving platform designed to work across different vehicle types and road conditions. The company has moved beyond research and prototyping to commercial operation, having launched driverless trucking services on public roads.*
 
 Aurora was founded in 2016 by Chris Urmson, Sterling Anderson, and Drew Bagley, three of the leading engineers who had worked on Google's self-driving car project. Rather than chasing the consumer car market where dozens of companies were already building autonomous vehicles, Aurora chose to focus on heavy-duty trucking—a segment with clearer economics and where the technology could generate measurable value. Trucking moves the goods that keep the economy running, but it is constrained by driver shortages, driver fatigue regulations, and the cost of paying professional drivers. Autonomous trucks promised to address all three problems at once.
 
@@ -31,13 +31,13 @@ The company's go-to-market strategy is to start with high-volume routes that mov
 
 ## The path to profitability and expansion
 
-Aurora has stated it expects to generate approximately eighty million dollars in revenue by the end of 2026, with breakeven gross margins and positive free cash flow by 2028. These targets imply a rapid scaling: the company plans to expand from a handful of driverless trucks operating today to hundreds by 2026, and to enter new geographic markets including El Paso, Phoenix, and beyond. Whether these targets will be met depends on factors beyond Aurora's control: the regulatory environment, insurance and liability questions that have not yet been fully resolved, and the health of the trucking market itself.
+Aurora has stated it expects to generate approximately eighty million dollars in revenue by the end of 2026, with breakeven gross margins and positive [free cash flow](/free-cash-flow/) by 2028. These targets imply a rapid scaling: the company plans to expand from a handful of driverless trucks operating today to hundreds by 2026, and to enter new geographic markets including El Paso, Phoenix, and beyond. Whether these targets will be met depends on factors beyond Aurora's control: the regulatory environment, insurance and liability questions that have not yet been fully resolved, and the health of the trucking market itself.
 
 ## Risks and uncertainties
 
 The most significant risk is regulatory. Each state has different rules about autonomous vehicles, and the federal government has not yet issued comprehensive regulations for driverless trucks. If regulators impose strict requirements or limit deployment, growth could stall. Insurance and liability are unresolved. Who is responsible if a driverless truck causes an accident—the software company, the truck owner, the logistics partner, or the shipper? These questions have not been fully litigated or insured, and adverse outcomes could be extremely expensive.
 
-There is also competitive risk. Other companies including Tesla, Waymo, and startups like Kodiak Robotics are also working on autonomous trucking. Although Aurora is currently ahead in terms of actual deployment on public roads, that advantage could be temporary.
+There is also competitive risk. Other companies including [Tesla](/tsla-stock/), Waymo, and startups like Kodiak Robotics are also working on autonomous trucking. Although Aurora is currently ahead in terms of actual deployment on public roads, that advantage could be temporary.
 
 The technology itself must continue to improve. The Aurora Driver works well on highways in clear conditions, but severe weather, complex construction zones, and edge cases that occur rarely but are catastrophic when they do remain challenges. Each new challenge revealed in operation requires updated algorithms and retesting.
 

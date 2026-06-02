@@ -4,7 +4,7 @@ description: "Healthcare holding company providing telemedicine and digital heal
 keywords: ["telemedicine", "digital health", "healthcare IT", "Southeast Asia", "medical services", "health technology", "virtual care"]
 ---
 
-*Incorporated in the Cayman Islands and trading over-the-counter under the ticker **EUDA**, **EUDA Health Holdings Ltd** is a [healthcare services](/hcsg-stock/) company delivering telemedicine, virtual consultations, and digital health solutions to patients and providers across Southeast Asia. The company's SEC reporting profile reflects a technology-enabled healthcare model positioned between traditional clinic networks and purely digital-native competitors.*
+*Incorporated in the Cayman Islands and trading over-the-counter under the ticker **EUDA**, **EUDA Health Holdings Ltd** is a healthcare services company delivering telemedicine, virtual consultations, and digital health solutions to patients and providers across Southeast Asia. The company's SEC reporting profile reflects a technology-enabled healthcare model positioned between traditional clinic networks and purely digital-native competitors.*
 
 <aside class="wiki-infobox"><table>
 <tbody>

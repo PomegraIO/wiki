@@ -10,7 +10,7 @@ keywords:
   - handwritten: true
 ---
 
-*The **iShares Biotechnology ETF** (Nasdaq: IBB) is an exchange-traded fund tracking the Nasdaq Biotechnology Index, holding roughly 200 publicly listed companies whose primary business is discovering, developing, or commercialising drugs, biologics, diagnostics, and medical devices. It is one of the oldest sector ETFs, launched in 2001, and trades throughout the day on an exchange, offering investors a liquid way to own a diversified slice of the global life-sciences industry.*
+*The **iShares Biotechnology ETF** ([Nasdaq](/nasdaq/): IBB) is an exchange-traded fund tracking the Nasdaq Biotechnology Index, holding roughly 200 publicly listed companies whose primary business is discovering, developing, or commercialising drugs, biologics, diagnostics, and medical devices. It is one of the oldest [sector ETFs](/sector-etf/), launched in 2001, and trades throughout the day on an exchange, offering investors a liquid way to own a diversified slice of the global life-sciences industry.*
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ keywords:
 
 ## Large-cap anchors and the weighting structure
 
-The fund's heaviest holdings are mature pharmaceutical and biotech firms with established drug franchises and recurring revenue: companies like Eli Lilly, Regeneron, and Vertex Pharmaceuticals. These names typically comprise 30–40% of IBB's total assets because the Nasdaq Biotechnology Index weights holdings by market capitalisation. This concentration means that major clinical trial announcements or regulatory decisions at just a handful of companies can move the entire fund's daily returns by a percentage point or more. An FDA approval for a blockbuster candidate at a mega-cap holding can drive IBB higher; a failed trial at another can pressure it lower. The large-cap tilt also gives the fund some stability relative to pure small-cap biotech vehicles—larger companies have diverse pipelines and established revenue streams that cushion the impact of individual drug setbacks.
+The fund's heaviest holdings are mature pharmaceutical and biotech firms with established drug franchises and recurring revenue: companies like [Eli Lilly](/lly-stock/), Regeneron, and Vertex Pharmaceuticals. These names typically comprise 30–40% of IBB's total assets because the Nasdaq Biotechnology Index weights holdings by market capitalisation. This concentration means that major clinical trial announcements or regulatory decisions at just a handful of companies can move the entire fund's daily returns by a percentage point or more. An FDA approval for a blockbuster candidate at a mega-cap holding can drive IBB higher; a failed trial at another can pressure it lower. The large-cap tilt also gives the fund some stability relative to pure small-cap biotech vehicles—larger companies have diverse pipelines and established revenue streams that cushion the impact of individual drug setbacks.
 
 ## Middle-tier drug developers and pipeline risk
 
@@ -42,7 +42,7 @@ What ties these three segments together is a shared dependence on clinical event
 
 ## Structure and costs
 
-BlackRock sponsors IBB and runs it as a passively managed index fund, holding all constituents of the Nasdaq Biotechnology Index in proportion to their weights and rebalancing quarterly. The expense ratio is competitive for a large, liquid sector fund, typically running 0.35–0.45% annually. The fund trades with tight bid-ask spreads and high daily volume, so investors can enter and exit efficiently without paying significant transaction costs.
+[BlackRock](/blk-stock/) sponsors IBB and runs it as a passively managed [index fund](/index-fund/), holding all constituents of the Nasdaq Biotechnology Index in proportion to their weights and rebalancing quarterly. The [expense ratio](/expense-ratio/) is competitive for a large, liquid [sector fund](/sector-fund/), typically running 0.35–0.45% annually. The fund trades with tight [bid-ask spreads](/bid-ask-spread/) and high daily volume, so investors can enter and exit efficiently without paying significant transaction costs.
 
 ## How to research IBB
 

@@ -34,7 +34,7 @@ The total addressable market depends on the eVTOL actually working as promised a
 
 Eve is a capital-intensive venture. Aircraft development, certification, manufacturing, and support network buildout all require sustained funding. The company has raised capital through multiple rounds, including a 2024 equity offering in which it issued new shares and warrants. As of that offering, the company reported liquidity of approximately $541 million, sufficient for near-term operations but not indefinite. Reaching cash flow breakeven will require either a sale of aircraft at commercial scale or additional capital raises.
 
-The company's warrants trade separately from its common stock, embodying a high-risk, high-reward bet. If eVTOL technology achieves its vision and Eve captures a significant share of the market, warrant holders participate in that success. If the eVTOL market develops slowly or an unexpected competitor overtakes Eve, warrant value could decline substantially.
+The company's warrants trade separately from its [common stock](/common-stock/), embodying a high-risk, high-reward bet. If eVTOL technology achieves its vision and Eve captures a significant share of the market, warrant holders participate in that success. If the eVTOL market develops slowly or an unexpected competitor overtakes Eve, warrant value could decline substantially.
 
 ## Competition and regulatory uncertainty
 

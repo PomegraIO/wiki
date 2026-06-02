@@ -31,7 +31,7 @@ Prysmian's origins lie in the 19th century, when the company began making cables
 
 A pivotal transformation came in 2007 when Prysmian and the German cable manufacturer Draka merged, creating the world's largest cable manufacturer by revenue. The combination was strategically powerful: Prysmian brought strength in European energy and infrastructure, while Draka brought North American presence and specialization in submarine cables and telecom networks. The merged entity became a near-monopoly in many cable categories, with scale that no smaller competitor could match.
 
-Prysmian is now listed on the Italian stock exchange and trades as an ADR in the United States. The company operates manufacturing facilities across six continents and maintains a vast supply chain for raw materials (copper, aluminum, plastics, rubber, glass fiber) that feed its factories.
+Prysmian is now listed on the Italian [stock exchange](/stock-exchange/) and trades as an ADR in the United States. The company operates manufacturing facilities across six continents and maintains a vast supply chain for raw materials (copper, aluminum, plastics, rubber, glass fiber) that feed its factories.
 
 ## Energy cables: the backbone of electrical infrastructure
 
@@ -47,7 +47,7 @@ Medium and low-voltage cables for industrial facilities, renewable-energy instal
 
 Prysmian's second major segment is optical fiber and copper cables for telecommunications and data networks. The explosion of internet usage, mobile networks, and cloud computing has driven relentless demand for the physical infrastructure that connects them: submarine fiber cables that link continents, terrestrial fiber networks that connect cities, and copper cables for backhaul and local distribution.
 
-Submarine cables are strategic assets: a single transatlantic or transpacific fiber cable might cost $300 million to $400 million to lay and represent years of engineering and planning. These cables are built to extremely exacting standards (they must survive earthquakes, ship anchors, currents, and biological fouling) and carry the bulk of intercontinental data traffic. Prysmian is one of only a handful of suppliers globally and bids on large consortiums involving multiple telecom operators and technology companies (Google, Meta, Microsoft often fund these projects jointly).
+Submarine cables are strategic assets: a single transatlantic or transpacific fiber cable might cost $300 million to $400 million to lay and represent years of engineering and planning. These cables are built to extremely exacting standards (they must survive earthquakes, ship anchors, currents, and biological fouling) and carry the bulk of intercontinental data traffic. Prysmian is one of only a handful of suppliers globally and bids on large consortiums involving multiple telecom operators and technology companies (Google, Meta, [Microsoft](/msft-stock/) often fund these projects jointly).
 
 Terrestrial telecom cables are simpler but no less critical: fiber routes alongside roads and railways, is buried underground or strung on poles. Telecom carriers and internet service providers build networks continuously, replacing old copper with fiber and expanding capacity to meet growing data demand. This segment is more commoditized than submarine cables, with lower margins but steady volume.
 
@@ -75,9 +75,9 @@ Long-term, Prysmian benefits from the structural shift to renewable energy, elec
 
 ## Profitability, capital structure, and competition
 
-Prysmian generates the bulk of its profit from the energy and telecom cable segments, with narrow margins in commodity cables and higher margins in specialty products. The company is capital-intensive: factories, raw-material inventories, and working capital all require significant investment. Operating margins typically run in the mid-single-digit range, reflecting the manufacturing-heavy nature of the business.
+Prysmian generates the bulk of its profit from the energy and telecom cable segments, with narrow margins in commodity cables and higher margins in specialty products. The company is capital-intensive: factories, raw-material inventories, and working capital all require significant investment. [Operating margins](/operating-margin/) typically run in the mid-single-digit range, reflecting the manufacturing-heavy nature of the business.
 
-The company is profitable and cash-generative, which has allowed it to maintain a dividend and reduce debt over time. However, Prysmian is also exposed to leverage when commodity prices spike or project delays occur; the company has periodically refinanced debt at higher rates when interest-rate environments tightened.
+The company is profitable and cash-generative, which has allowed it to maintain a [dividend](/dividend/) and reduce debt over time. However, Prysmian is also exposed to leverage when commodity prices spike or project delays occur; the company has periodically refinanced debt at higher rates when interest-rate environments tightened.
 
 Competition comes from regional cable makers (smaller, lower-cost producers in Asia and Eastern Europe), vertically integrated manufacturers (like Southwire in North America), and other large European and Asian cable groups. Prysmian's advantages are scale, technology, and the ability to serve multinational clients globally. Disadvantages include high fixed costs and the commoditized nature of some cable categories, which makes pricing power elusive.
 
@@ -85,6 +85,6 @@ Competition comes from regional cable makers (smaller, lower-cost producers in A
 
 Prysmian files comprehensive financial disclosures with the Italian stock exchange and with U.S. regulators (SEC CIK 0001437672). Key metrics to track include revenue by segment (energy, telecom, industrial, other), gross margin trends, operating margins, and capital expenditure. The company's ability to secure large submarine-cable contracts is worth monitoring, as is the health of renewable-energy investment globally (which drives wind-farm cable demand).
 
-Order backlogs reveal the company's near-term visibility into revenue, and management commentary on copper and commodity prices indicates where margin pressure may lie. Prysmian's debt levels and interest coverage should be watched, particularly in environments where both commodity prices and interest rates are rising simultaneously.
+Order backlogs reveal the company's near-term visibility into revenue, and management commentary on copper and commodity prices indicates where margin pressure may lie. Prysmian's debt levels and interest coverage should be watched, particularly in environments where both commodity prices and [interest rates](/interest-rate/) are rising simultaneously.
 
 The company's strategic focus on high-voltage and submarine cables—the highest-margin, most technologically demanding categories—versus commodity transmission and distribution cables reveals how management intends to defend profitability in a low-margin industry. Success depends on maintaining technology leadership and multinational customer relationships while managing commodity cost volatility and capital intensity.

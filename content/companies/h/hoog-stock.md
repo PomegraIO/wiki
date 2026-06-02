@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Leverage Shares 2X Long HOOD Daily ETF** (HOOG) aims to multiply Robinhood Markets stock's daily price movement by two using derivatives and daily rebalancing. It is built for traders holding positions measured in hours or days, not months or years.*
+*The **Leverage Shares 2X Long HOOD Daily ETF** (HOOG) aims to multiply [Robinhood Markets](/hood-stock/) stock's daily price movement by two using derivatives and daily rebalancing. It is built for traders holding positions measured in hours or days, not months or years.*
 
 ## What you're actually buying
 
@@ -19,7 +19,7 @@ HOOG doesn't own two shares of Robinhood for every one share you'd normally hold
 
 ## Robinhood's business: the underlying stock
 
-Robinhood Markets is a brokerage platform that lets ordinary people trade stocks, options, and cryptocurrency without commission fees. The company makes money from payment for order flow (market makers pay for access to its customer orders), interest earned on cash customers keep in accounts, premium subscription tiers, and commissions on crypto trading. Robinhood's earnings swing wildly depending on market conditions. When retail investors are active — during rallies or periods of panic — trading volume surges and Robinhood's revenue booms. When markets are calm and trading quiet, Robinhood suffers. This volatility in the underlying stock is the reason leveraged products like HOOG exist in the first place.
+Robinhood Markets is a brokerage platform that lets ordinary people trade stocks, options, and cryptocurrency without commission fees. The company makes money from [payment for order flow](/payment-for-order-flow/) ([market makers](/market-maker-trading/) pay for access to its customer orders), interest earned on cash customers keep in accounts, premium subscription tiers, and commissions on crypto trading. Robinhood's earnings swing wildly depending on market conditions. When retail investors are active — during rallies or periods of panic — trading volume surges and Robinhood's revenue booms. When markets are calm and trading quiet, Robinhood suffers. This volatility in the underlying stock is the reason leveraged products like HOOG exist in the first place.
 
 ## The hidden cost: volatility decay
 
@@ -29,7 +29,7 @@ This is called volatility decay. It is not a glitch or a market anomaly. It is p
 
 ## Costs that mount quickly
 
-On top of decay, HOOG charges a management fee of approximately 0.75% annually. The fund also incurs transaction costs every single day it rebalances, and financing costs for holding derivative positions. These costs compound. A Robinhood stock that stays flat for a year will almost certainly lose value in HOOG form due to decay and fees combined. If Robinhood falls 20% over a year, a 2x leveraged position could fall 40% or worse after decay and costs.
+On top of decay, HOOG charges a [management fee](/management-fee/) of approximately 0.75% annually. The fund also incurs transaction costs every single day it rebalances, and financing costs for holding derivative positions. These costs compound. A Robinhood stock that stays flat for a year will almost certainly lose value in HOOG form due to decay and fees combined. If Robinhood falls 20% over a year, a 2x leveraged position could fall 40% or worse after decay and costs.
 
 ## Risk in plain terms
 
@@ -37,7 +37,7 @@ Leverage multiplies loss. A 10% drop in Robinhood becomes a 20% drop in HOOG. Af
 
 ## Who should actually use it
 
-HOOG is a tool for professional traders with a specific playbook. A trader believes Robinhood will rise in the next few hours or days and wants magnified profits to justify the bet. If Robinhood rises 5% and the trader is right, doubling to 10% in HOOG is attractive. But if the trader is wrong and Robinhood falls 5%, doubling to 10% loss stings. This is why leveraged ETFs are only appropriate for professionals who understand leverage, calculate decay scenarios beforehand, and plan to hold for hours or days at most.
+HOOG is a tool for professional traders with a specific playbook. A trader believes Robinhood will rise in the next few hours or days and wants magnified profits to justify the bet. If Robinhood rises 5% and the trader is right, doubling to 10% in HOOG is attractive. But if the trader is wrong and Robinhood falls 5%, doubling to 10% loss stings. This is why [leveraged ETFs](/leveraged-etf/) are only appropriate for professionals who understand leverage, calculate decay scenarios beforehand, and plan to hold for hours or days at most.
 
 HOOG is not suitable for investors. Investors build wealth over years. They hold for decades. Volatility decay guarantees that a 2x leveraged position on a volatile stock will lose value over long periods, no matter whether the underlying stock rises modestly or stays flat. A 10-year plan to own Robinhood should mean owning Robinhood shares directly, never HOOG. Financial advisers uniformly discourage leveraged ETFs as core holdings or for retirement accounts.
 

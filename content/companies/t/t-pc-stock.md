@@ -21,7 +21,7 @@ That new shape is purely services-based: AT&T no longer manufactures telecom equ
 
 ## The wireless priority
 
-Wireless is everything to modern AT&T. The segment contributes the largest portion of revenue and the highest margins of any business unit. The company serves roughly 130 million postpaid and prepaid mobile customers across the United States through its own nationwide network, competing directly with Verizon and T-Mobile (which emerged after T-Mobile's 2020 acquisition of Sprint).
+Wireless is everything to modern AT&T. The segment contributes the largest portion of revenue and the highest margins of any business unit. The company serves roughly 130 million postpaid and prepaid mobile customers across the United States through its own nationwide network, competing directly with Verizon and T-Mobile (which emerged after T-Mobile's 2020 [acquisition](/acquisition/) of Sprint).
 
 Winning in wireless requires constant technology reinvestment. AT&T was a late mover to 4G LTE but has invested heavily in 5G buildout, a standards-based network that promises higher speeds and lower latency. Every major carrier is doing the same, so none has a durable advantage; the game is simply about reaching parity in speed and coverage while keeping costs under control. The installed base of customers is so large that even modest per-customer profitability scales to enormous total earnings. A one-dollar monthly improvement in average revenue per user across 130 million accounts is a significant cash-flow number.
 
@@ -37,15 +37,15 @@ Video (television and entertainment) remains a large business but is in permanen
 
 ## The legacy problem
 
-AT&T's structure today reflects decades of acquisition and integration. The company carries substantial debt incurred partly from the acquisition of Cingular Wireless (which was itself a merger of earlier carriers) and later diversifications. While the debt remains investment-grade and manageable given the steady cash flow telecommunications generates, it does constrain flexibility — for example, limiting the pace of capital investment or share buybacks without cutting the dividend or raising equity.
+AT&T's structure today reflects decades of acquisition and integration. The company carries substantial debt incurred partly from the acquisition of Cingular Wireless (which was itself a [merger](/merger/) of earlier carriers) and later [diversifications](/diversification/). While the debt remains investment-grade and manageable given the steady cash flow telecommunications generates, it does constrain flexibility — for example, limiting the pace of capital investment or [share buybacks](/share-buyback/) without cutting the [dividend](/dividend/) or raising equity.
 
 The company also operates under constant regulatory oversight. Telecom carriers in the United States are regulated by the Federal Communications Commission and by state public utility commissions, which can control pricing, mandate network investments, and impose consumer protections. That regulatory burden is not unique to AT&T, but the company's size and market dominance sometimes make it a target for intervention.
 
 ## Capital intensity and returns
 
-AT&T is a capital-intensive business. The company must spend roughly 15–20 percent of revenue annually on network infrastructure, maintenance, and upgrades — a requirement that competing carriers face as well. That high capital intensity means the business generates less free cash flow than its operating earnings might suggest.
+AT&T is a capital-intensive business. The company must spend roughly 15–20 percent of revenue annually on network infrastructure, maintenance, and upgrades — a requirement that competing carriers face as well. That high capital intensity means the business generates less [free cash flow](/free-cash-flow/) than its operating earnings might suggest.
 
-For shareholders, the company has historically prioritized dividend payments and modest share buybacks over growth reinvestment. The dividend yield is an attraction for income investors, but it also reflects the market's view that the business is mature and unlikely to grow rapidly. Dividends and buybacks together return a large portion of cash flow to shareholders, which is a classic capital-allocation strategy for mature utilities and telecom operators facing limited growth opportunities.
+For shareholders, the company has historically prioritized dividend payments and modest share buybacks over growth reinvestment. The [dividend yield](/dividend-yield/) is an attraction for income investors, but it also reflects the market's view that the business is mature and unlikely to grow rapidly. Dividends and buybacks together return a large portion of cash flow to shareholders, which is a classic capital-allocation strategy for mature utilities and telecom operators facing limited growth opportunities.
 
 ## Where to look
 

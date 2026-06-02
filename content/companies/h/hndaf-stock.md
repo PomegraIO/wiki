@@ -46,7 +46,7 @@ This weakness was compounded by a strategic error that Honda executives have sin
 
 ## The push toward electrification and new divisions
 
-By the mid-2010s, Honda recognized it had fallen behind on electrics. The company launched a series of electric vehicles: the e-city car in Europe, the Clarity plug-in hybrid, and increasingly, pure-battery-electric models. Progress was steady but laboured; Honda lacked the design language and manufacturing expertise of Tesla or the cost advantage of Chinese EV makers, and it faced entrenched competition from established rivals like Volkswagen and Nissan that had also invested heavily in the transition.
+By the mid-2010s, Honda recognized it had fallen behind on electrics. The company launched a series of electric vehicles: the e-city car in Europe, the Clarity plug-in hybrid, and increasingly, pure-battery-electric models. Progress was steady but laboured; Honda lacked the design language and manufacturing expertise of [Tesla](/tsla-stock/) or the cost advantage of Chinese EV makers, and it faced entrenched competition from established rivals like Volkswagen and Nissan that had also invested heavily in the transition.
 
 Aware that vehicles alone might not sustain growth, Honda diversified into robotics and home-energy products. The company developed the Asimo humanoid robot (now retired, but a landmark in robotic engineering), industrial robots for manufacturing, and power products like small generators and yard equipment. More recently, the company positioned itself in the electric-vehicle supply ecosystem: batteries, electric motors, and eventually, full vehicles as part of a broader energy and mobility strategy.
 
@@ -60,7 +60,7 @@ The company's manufacturing culture remains a competitive asset: Honda plants ar
 
 ## Products, segments, and the revenue picture
 
-Honda's revenue divides into four main segments: Automobiles (sedans, SUVs, trucks, and minivans sold globally), Motorcycles (off-road, street bikes, scooters, and utility bikes sold in every market), Power Products and Other (small engines, generators, lawn equipment, and robotics), and Financial Services (dealer financing and insurance). Automobiles account for the vast majority of revenue and profit, motorcycles remain a respectable margin contributor with devoted global audiences, and Power Products and Other remain small but are strategic for brand diversification.
+Honda's revenue divides into four main segments: Automobiles (sedans, SUVs, trucks, and minivans sold globally), Motorcycles (off-road, street bikes, scooters, and utility bikes sold in every market), Power Products and Other (small engines, generators, lawn equipment, and robotics), and Financial Services (dealer financing and insurance). Automobiles account for the vast majority of revenue and profit, motorcycles remain a respectable margin contributor with devoted global audiences, and Power Products and Other remain small but are strategic for brand [diversification](/diversification/).
 
 In recent years, the company has emphasized that motorcycles are a growth market, especially in developing markets where two and three-wheelers are primary transportation. The motorcycle business requires less capital per unit revenue than automobiles and, in emerging markets, is expanding as incomes rise. This segment is a source of genuine competitive advantage for Honda, which has no rival of comparable scale in both cars and motorcycles.
 
@@ -70,10 +70,10 @@ Honda's central long-term risk is execution on the electric-vehicle transition. 
 
 A second risk is exposure to China and the volatility of that market. Honda depends on China for significant sales and manufacturing, and the Chinese EV market is intensely competitive with local champions like BYD and NIO gaining share. A sustained downturn in China or further regulatory pressure on foreign automakers would hurt Honda more than some rivals.
 
-Thirdly, the company's entrenched cost structure—ageing plants, legacy pension obligations, and the cost of simultaneous development across combustion and electric vehicles—makes it less nimble than pure-play EV startups or traditional competitors like Volkswagen that have more capital to allocate to transformation.
+Thirdly, the company's entrenched cost structure—ageing plants, legacy [pension obligations](/pension-obligation/), and the cost of simultaneous development across combustion and electric vehicles—makes it less nimble than pure-play EV startups or traditional competitors like Volkswagen that have more capital to allocate to transformation.
 
 ## How to research Honda as an investment
 
-Begin with the company's annual report filed with the SEC (CIK 0000715153) and its Japanese financial filings, which provide detailed segment breakdowns by geography and product line. Quarterly earnings calls offer colour on production volumes, regional demand, and the pace of the EV transition. Watch the gross margin in the Automobiles segment closely: margin compression signals a company losing pricing power or struggling with costs, while margin expansion shows successful pricing of new models or cost discipline.
+Begin with the company's [annual report](/10-k/) filed with the SEC (CIK 0000715153) and its Japanese financial filings, which provide detailed segment breakdowns by geography and product line. Quarterly earnings calls offer colour on production volumes, regional demand, and the pace of the EV transition. Watch the gross margin in the Automobiles segment closely: margin compression signals a company losing pricing power or struggling with costs, while margin expansion shows successful pricing of new models or cost discipline.
 
 Track capital expenditure and R&D spending devoted to EVs versus traditional vehicles to gauge the company's investment intensity in the transition. Monitor the company's battery partnerships and supply agreements—these contracts signal confidence in the EV ramp and visibility into battery costs, the single largest input cost for electric vehicles. As always, this is a map of how the business works, not a recommendation to buy or sell.

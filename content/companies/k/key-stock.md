@@ -14,7 +14,7 @@ KeyCorp is a financial holding company headquartered in Cleveland, Ohio, whose p
 
 ## The Midwest Banking Legacy
 
-KeyBank traces its lineage to 1849 when the Ohio Life Insurance and Trust Company was founded in Columbus as an insurance and financial institution. The company evolved significantly throughout the nineteenth and twentieth centuries, becoming one of the region's anchor [financial institutions](/fisi-stock/). By mid-century, what would become KeyCorp had grown into a network of community banks serving Ohio, Pennsylvania, and neighboring states—the kind of deeply local, relationship-focused banking that characterizes regional institutions.
+KeyBank traces its lineage to 1849 when the Ohio Life Insurance and Trust Company was founded in Columbus as an insurance and financial institution. The company evolved significantly throughout the nineteenth and twentieth centuries, becoming one of the region's anchor financial institutions. By mid-century, what would become KeyCorp had grown into a network of community banks serving Ohio, Pennsylvania, and neighboring states—the kind of deeply local, relationship-focused banking that characterizes regional institutions.
 
 The modern KeyCorp took shape through the series of consolidations and name changes common to regional banking over recent decades. The strategic combination created a unified brand under the "KeyBank" name, positioning the institution as a coherent retail and commercial force. The company's long operating history in industrial and agricultural regions of the Midwest embedded it in the financing patterns of those economies: factory expansion, equipment purchases, working capital for manufacturers and food processors, small-business growth tied to local conditions.
 

@@ -13,9 +13,9 @@ handwritten: true
 
 ## What is Nvni Group?
 
-Nvni Group Limited (trading on Nasdaq under NVNIW for warrants and NVNI for common shares) is a software consolidation company, often called a roll-up, focused on the Brazilian market. The company acquires small to medium-sized software-as-a-service companies — businesses that sell software subscriptions to other businesses — and operates them under a single corporate structure. The bet is that by consolidating these fragmented companies, Nvni can drive efficiencies, cross-sell products to existing customer bases, and create a larger, more investable platform than any individual company could be on its own.
+Nvni Group Limited (trading on [Nasdaq](/nasdaq/) under NVNIW for warrants and NVNI for common shares) is a software consolidation company, often called a roll-up, focused on the Brazilian market. The company acquires small to medium-sized software-as-a-service companies — businesses that sell software subscriptions to other businesses — and operates them under a single corporate structure. The bet is that by consolidating these fragmented companies, Nvni can drive efficiencies, cross-sell products to existing customer bases, and create a larger, more investable platform than any individual company could be on its own.
 
-The company went public in October 2023 following a merger with Mercato Partners Acquisition Corp, a blank-check company. Nvni Group's headquarters are in Brazil, and its portfolio of software companies are all based in Brazil, primarily serving Brazilian small and medium enterprises that need software tools for sales, marketing, customer relationship management, hiring, and data management.
+The company went public in October 2023 following a [merger](/merger/) with Mercato Partners [Acquisition](/acquisition/) Corp, a blank-check company. Nvni Group's headquarters are in Brazil, and its portfolio of software companies are all based in Brazil, primarily serving Brazilian small and medium enterprises that need software tools for sales, marketing, customer relationship management, hiring, and data management.
 
 ## What companies does Nvni own?
 

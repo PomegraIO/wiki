@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **ERShares Private-Public Crossover ETF** (ticker XOVR) is designed to capture a specific moment in a company's life: the crossover phase where it is either private but approaching an initial public offering, or recently public but still operating at the speed and burn rate of a private company. The thesis is simple — some of the best returns come from companies in transition from private to public status, and a diversified portfolio of such crossovers can offer outsized growth potential.*
+*The **ERShares Private-Public Crossover ETF** (ticker XOVR) is designed to capture a specific moment in a company's life: the crossover phase where it is either private but approaching an [initial public offering](/initial-public-offering/), or recently public but still operating at the speed and burn rate of a private company. The thesis is simple — some of the best returns come from companies in transition from private to public status, and a diversified portfolio of such crossovers can offer outsized growth potential.*
 
 <aside class="wiki-infobox">
 
@@ -35,7 +35,7 @@ ERShares manages XOVR with a stated philosophy of identifying companies at the i
 
 ## The appeal and the reality
 
-The allure of crossover investing is intuitive: ride the wave as private companies discover the public markets, and capture the outsized returns that come from being early in a breakout trajectory. Companies like Amazon or Apple, studied in retrospect, generated enormous multiples for early shareholders. XOVR tries to capture that same dynamic by staying in the cohort of companies at that growth inflection.
+The allure of crossover investing is intuitive: ride the wave as private companies discover the public markets, and capture the outsized returns that come from being early in a breakout trajectory. Companies like Amazon or [Apple](/aapl-stock/), studied in retrospect, generated enormous multiples for early shareholders. XOVR tries to capture that same dynamic by staying in the cohort of companies at that growth inflection.
 
 The reality is harsher. Most companies in the crossover phase do not turn into Amazon or Apple. Many fail outright. Some grow steadily but without spectacular returns. The activity of picking winners among dozens of candidates is difficult, and XOVR's performance depends entirely on the skill of ERShares' portfolio manager in making those calls. The fund has no inherent advantage — it is only as good as the stock picks inside it.
 
@@ -49,7 +49,7 @@ The second complication is that crossover investing is concentrated in a narrow 
 
 Companies in the crossover phase are typically valued on growth and potential, not earnings. Valuations can be aggressive — 20x, 50x, or more times projected sales, especially during periods when investors are optimistic about growth. When growth expectations cool, or when a broader market correction occurs, crossover stocks can fall sharply because their value depended on that growth thesis. XOVR will therefore move more than the broader market in both directions.
 
-The expense ratio for an actively managed ETF is higher than a passive index fund — ERShares charges for the research and stock-picking involved. Over long periods, that fee drag compounds, and it is a headwind that the fund's outperformance must overcome.
+The [expense ratio](/expense-ratio/) for an actively managed ETF is higher than a passive [index fund](/index-fund/) — ERShares charges for the research and stock-picking involved. Over long periods, that fee drag compounds, and it is a headwind that the fund's outperformance must overcome.
 
 ## Who XOVR fits, and what to monitor
 

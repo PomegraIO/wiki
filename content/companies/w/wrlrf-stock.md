@@ -20,7 +20,7 @@ Red Lake is one of Canada's historically significant gold-mining regions, with m
 
 ## How does West Red Lake make money, if it doesn't produce anything?
 
-It doesn't—at least not yet. The company is pre-revenue. It exists because investors believe that exploration work will discover ore bodies of commercial value. Those investors own shares and fund the exploration through equity offerings. If the company discovers a significant deposit, the property becomes valuable, and a larger mining company typically acquires it at a premium price. Shareholders who bought early profit from that acquisition. If exploration fails to discover anything worthwhile, the shares become worthless, and investors lose their capital.
+It doesn't—at least not yet. The company is pre-revenue. It exists because investors believe that exploration work will discover ore bodies of commercial value. Those investors own shares and fund the exploration through equity offerings. If the company discovers a significant deposit, the property becomes valuable, and a larger mining company typically acquires it at a premium price. Shareholders who bought early profit from that [acquisition](/acquisition/). If exploration fails to discover anything worthwhile, the shares become worthless, and investors lose their capital.
 
 ## What does the company's money go toward?
 

@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-*Level Four Large Cap Growth Active ETF is an actively managed large-cap growth vehicle offering concentrated exposure to the manager's conviction ideas — a portfolio of large-cap US equities positioned to benefit from durable, long-term growth trends rather than cyclical value or momentum rotations.*
+*Level Four Large Cap Growth [Active ETF](/active-etf/) is an actively managed large-cap growth vehicle offering concentrated exposure to the manager's conviction ideas — a portfolio of large-cap US equities positioned to benefit from durable, long-term growth trends rather than cyclical value or momentum rotations.*
 
 ## The origin of active large-cap growth
 
-Active large-cap growth investing became a distinct discipline in the 1990s, as the information age dawned and investors began separating growth from value on the basis of secular trends — Moore's Law, globalization, network effects, structural disruption — rather than business cycles. The archetype was a fund manager who believed that technology companies, and later consumer platforms and financial systems, would compound earnings at high single- or low-double-digit rates for decades. This contrasted with value investors, who hunted for cheap stocks trading below book value, and with market-cap-weighted indexing, which treated all large companies as equals regardless of growth trajectory.
+Active large-cap [growth investing](/growth-investing/) became a distinct discipline in the 1990s, as the information age dawned and investors began separating growth from value on the basis of secular trends — Moore's Law, globalization, network effects, structural disruption — rather than [business cycles](/business-cycle/). The archetype was a fund manager who believed that technology companies, and later consumer platforms and financial systems, would compound earnings at high single- or low-double-digit rates for decades. This contrasted with value investors, who hunted for cheap stocks trading below book value, and with market-cap-weighted indexing, which treated all large companies as equals regardless of growth trajectory.
 
-Active growth managers built processes around identifying companies with structurally high returns on capital, durable competitive advantages, and visible secular growth drivers. A technology company selling software as a subscription, with recurring revenue and network effects, was worth more than a cyclical industrial paying the same earnings yield because the software company's earnings would compound; the industrial's would not.
+Active growth managers built processes around identifying companies with structurally high returns on capital, durable competitive advantages, and visible secular growth drivers. A technology company selling software as a subscription, with recurring revenue and network effects, was worth more than a cyclical industrial paying the same [earnings yield](/earnings-yield/) because the software company's earnings would compound; the industrial's would not.
 
 ## LGRO's positioning in the active-growth landscape
 
@@ -33,13 +33,13 @@ Historical track records matter, but they can be misleading. A growth manager wh
 
 ## The cost of active management
 
-LGRO carries an active-management expense ratio, higher than passive alternatives but lower than many active mutual funds. The question is whether the manager's outperformance net of fees justifies the cost. A manager charging 0.50 percent and beating the market by 0.30 percent annually destroys shareholder value; one beating by 1.50 percent creates it. For large-cap growth — a relatively efficient market — the empirical bar is high.
+LGRO carries an active-management [expense ratio](/expense-ratio/), higher than passive alternatives but lower than many active [mutual funds](/mutual-fund/). The question is whether the manager's outperformance net of fees justifies the cost. A manager charging 0.50 percent and beating the market by 0.30 percent annually destroys shareholder value; one beating by 1.50 percent creates it. For large-cap growth — a relatively efficient market — the empirical bar is high.
 
 Additionally, concentrated portfolios can generate higher trading costs internally. Rebalancing in and out of 30-50 positions can be costly, and in taxable accounts, the realizations of gains create tax friction. A manager who turned over his portfolio at high rates destroyed after-tax returns, even if pre-tax returns were strong.
 
 ## Volatility and drawdown characteristics
 
-LGRO's growth tilt means it typically exhibits higher volatility than the broad market in normal periods. In bear markets driven by rising interest rates, equity risk premiums, or recession fears, growth stocks often fall harder than value stocks. LGRO shareholders should expect double-digit drawdowns with regularity and be prepared for periods when the fund significantly underperforms broad market indices.
+LGRO's growth tilt means it typically exhibits higher volatility than the broad market in normal periods. In [bear markets](/bear-market/) driven by rising [interest rates](/interest-rate/), [equity risk premiums](/equity-risk-premium/), or [recession](/recession/) fears, growth stocks often fall harder than value stocks. LGRO shareholders should expect double-digit drawdowns with regularity and be prepared for periods when the fund significantly underperforms broad market indices.
 
 The flip side: in periods when secular growth narratives are in favor — falling rates, broadening technological adoption, strong corporate earnings — growth stocks rally sharply, and LGRO can meaningfully outperform. The performance is cyclical and regime-dependent.
 
@@ -53,10 +53,10 @@ LGRO's current positioning reflects the manager's current view of which large-ca
 
 LGRO suits growth-oriented investors with a multi-year time horizon who believe that large-cap technology and high-quality growth companies will continue driving market returns. It is not suitable for retirees or those in drawdown phases; the volatility and the lack of income make it unsuitable for stable distributions. It is also not suitable for those uncomfortable with manager risk — the possibility that the manager's selection thesis proves wrong and the fund underperforms for years.
 
-It is best used as a portion of a diversified portfolio, not as a sole holding. A balanced allocation mixing LGRO with value, dividend, and international exposure provides better risk-adjusted returns than a 100 percent concentration in a single manager's growth bet.
+It is best used as a portion of a diversified portfolio, not as a sole holding. A balanced allocation mixing LGRO with value, [dividend](/dividend/), and international exposure provides better risk-adjusted returns than a 100 percent concentration in a single manager's growth bet.
 
 ## How to research LGRO
 
-Start by reading the prospectus and the manager's latest commentary on the fund's positioning. Understand the current top holdings and sector weights; if the fund is 60 percent technology, you are making a bet on technology. Compare the fund's performance net of fees to a large-cap growth index and to a passive broad-market index over various periods — bull markets, bear markets, and recessions. That honest comparison reveals whether the manager has delivered genuine alpha or merely charged fees for market exposure.
+Start by reading the prospectus and the manager's latest commentary on the fund's positioning. Understand the current top holdings and sector weights; if the fund is 60 percent technology, you are making a bet on technology. Compare the fund's performance net of fees to a large-cap growth index and to a passive broad-market index over various periods — [bull markets](/bull-market/), bear markets, and recessions. That honest comparison reveals whether the manager has delivered genuine alpha or merely charged fees for market exposure.
 
 Review the fund's turnover and trading costs; high turnover signals expensive management. In a taxable account, audit the distribution of capital gains; a fund realizing gains annually has higher tax costs than one allowing positions to compound. Finally, examine the manager's 10-year commentary to understand whether the current positioning is rooted in a coherent framework or reflects reactive chasing of recent trends.

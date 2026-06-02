@@ -55,7 +55,7 @@ The commercial viability of Retrieve Passport depends on adoption. Healthcare re
 
 ## Revenue model and scale challenges
 
-Retrieve Medical's revenue comes from licensing software to hospitals and health systems on a subscription basis, often bundled with implementation services and support. The company is profitable at the product level but operates at relatively small scale—estimated market cap in the 27 million dollar range and a few hundred customer institutions at most, compared to Epic's thousands of health systems.
+Retrieve Medical's revenue comes from licensing software to hospitals and health systems on a subscription basis, often bundled with implementation services and support. The company is profitable at the product level but operates at relatively small scale—estimated [market cap](/market-capitalization/) in the 27 million dollar range and a few hundred customer institutions at most, compared to Epic's thousands of health systems.
 
 Scaling healthcare software is difficult. Each customer integration is custom; training is required; clinical buy-in is essential. The sales cycle is long. Retrieve Medical competes against larger, more established vendors who can offer integrated suites of tools, dedicated implementation teams, and deeper integration with existing customer infrastructure. The advantage of a specialist vendor is focus and domain depth; the disadvantage is that hospital IT departments prefer to consolidate vendors and reduce integration complexity.
 
@@ -63,7 +63,7 @@ Revenue growth depends on three levers: acquiring new ED customer hospitals, exp
 
 ## Financial constraints and market position
 
-Retrieve Medical is a micro-cap stock with minimal analyst coverage and limited institutional investment. Access to capital is constrained compared to larger software companies. This limits the company's ability to fund aggressive sales expansion, product development, or acquisitions. The company must operate lean and demonstrate unit economics (revenue per customer, gross margin) sufficient to support growth without burning cash.
+Retrieve Medical is a micro-cap stock with minimal analyst coverage and limited institutional investment. Access to capital is constrained compared to larger software companies. This limits the company's ability to fund aggressive sales expansion, product development, or [acquisitions](/acquisition/). The company must operate lean and demonstrate unit economics (revenue per customer, gross margin) sufficient to support growth without burning cash.
 
 The absence of positive unit economics would be a death knell; the company would eventually exhaust capital and be forced to sell, merge, or shut down. The presence of positive unit economics but slow growth is a viable but unglamorous position: the company remains solvent, generates modest returns for shareholders, but does not capture significant value or market share.
 

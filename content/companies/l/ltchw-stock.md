@@ -53,7 +53,7 @@ Another form of competition is simply inertia: many buildings continue to operat
 
 ## Capital requirements and growth headwinds
 
-Hardware-plus-platform businesses are notoriously capital-intensive during the growth phase. Latch must fund manufacturing, inventory, installation, and sales infrastructure before the recurring software revenue becomes large enough to fund the business. The path to profitability is therefore long and dependent on achieving sufficient scale. During periods of rising interest rates or constrained capital markets, hardware-software startups face profound pressure.
+Hardware-plus-platform businesses are notoriously capital-intensive during the growth phase. Latch must fund manufacturing, inventory, installation, and sales infrastructure before the recurring software revenue becomes large enough to fund the business. The path to profitability is therefore long and dependent on achieving sufficient scale. During periods of rising [interest rates](/interest-rate/) or constrained capital markets, hardware-software startups face profound pressure.
 
 Latch has also navigated the practical challenges of physical-world deployment: installation quality varies, integration with legacy building systems is messier than anticipated, and the trust required to grant access is higher than it is for most consumer software products. Any widely reported security breach, lock failure, or integration failure would damage the brand irreparably.
 

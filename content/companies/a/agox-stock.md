@@ -33,17 +33,17 @@ The fund's core idea is simple: use math to find stocks worth more than they tra
 
 This is not a magic formula. Markets are competitive and efficient most of the time. But on the edges — especially in less-watched stocks or in times of panic when prices overshoot — mispricings do emerge. AGOX's angle is that its models can spot them faster and more reliably than most humans can.
 
-The adaptive part means the fund does not run the same strategy in all conditions. When market volatility is very high and correlations are extreme (almost everything moves together), the models might emphasize defensive, lower-risk picks. In calm conditions, the manager might be more aggressive. In some periods, the fund might hold many stocks across many countries. In others, it might concentrate more. The adaptation is not whimsical — it flows from the models' assessment of what opportunities exist and how much tail risk the portfolio faces.
+The adaptive part means the fund does not run the same strategy in all conditions. When market volatility is very high and correlations are extreme (almost everything moves together), the models might emphasize defensive, lower-risk picks. In calm conditions, the manager might be more aggressive. In some periods, the fund might hold many stocks across many countries. In others, it might concentrate more. The adaptation is not whimsical — it flows from the models' assessment of what opportunities exist and how much [tail risk](/tail-risk/) the portfolio faces.
 
 ## What separates it from a plain index fund
 
-An index fund is passive. You pick your index — say, the S&P 500 or the world — and you own all of it at the weights that index defines. You pay a tiny fee and you get exactly what you bought. AGOX is active. You pay a higher fee and you are betting that the portfolio manager's models and judgment will beat the index over time. That is a real gamble. Many active funds underperform their benchmarks, especially after fees.
+An [index fund](/index-fund/) is passive. You pick your index — say, the S&P 500 or the world — and you own all of it at the weights that index defines. You pay a tiny fee and you get exactly what you bought. AGOX is active. You pay a higher fee and you are betting that the portfolio manager's models and judgment will beat the index over time. That is a real gamble. Many active funds underperform their benchmarks, especially after fees.
 
 The promise AGOX makes is that quantitative rigor can improve the odds. By removing emotion and relying on data, the approach avoids some mistakes humans make. But it introduces other risks — models can be wrong, data can be misleading, and past patterns do not always repeat. A market crash or a regime shift that breaks the historical relationships the model learned from can hurt AGOX's performance sharply.
 
 ## Risks and what to watch
 
-The main risks are performance risk (the models do not find alpha and the fund underperforms), concentration risk (if the models all agree on a few big ideas, the portfolio can be exposed more than expected to a single bet), and model risk (the mathematical relationships the models learned from historical data might not hold in the future). 
+The main risks are performance risk (the models do not find alpha and the fund underperforms), [concentration risk](/concentration-risk/) (if the models all agree on a few big ideas, the portfolio can be exposed more than expected to a single bet), and [model risk](/model-risk/) (the mathematical relationships the models learned from historical data might not hold in the future). 
 
 A second, quieter risk is that even if AGOX's models are good, they are competing against thousands of other quant funds and AI-powered trading systems that have similar ideas. The opportunities the models spot might be arbitraged away by other quant funds before AGOX has time to profit from them.
 

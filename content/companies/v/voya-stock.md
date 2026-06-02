@@ -47,7 +47,7 @@ This [diversification](/diversification/) of revenue sources is economically sta
 
 ## The competitive landscape and key advantages
 
-Voya competes against larger diversified financial firms like Fidelity, Mercer (part of Marsh McLennan), and major insurers, as well as smaller specialist pension consultancies. The company's advantages are its integrated platform (combining administration, investment management, and advisory), its long relationships with large employers and pension plans, and its insurance expertise — a legacy of its heritage in insurance that many pure investment managers lack.
+Voya competes against larger diversified financial firms like Fidelity, Mercer (part of [Marsh McLennan](/mrsh-stock/)), and major insurers, as well as smaller specialist pension consultancies. The company's advantages are its integrated platform (combining administration, investment management, and advisory), its long relationships with large employers and pension plans, and its insurance expertise — a legacy of its heritage in insurance that many pure investment managers lack.
 
 The business is sticky. Once an employer has set up a retirement plan and thousands of employees have enrolled, the switching cost is high. Changing recordkeepers means reconfiguring all the administrative systems, educating employees about a new interface, and managing the transition of account data. Because of that friction, clients tend to stay for many years. That retention allows Voya to grow through cross-selling — taking a client where it administers a 401k and then selling that same client a pension-consulting project or a health-benefits package.
 

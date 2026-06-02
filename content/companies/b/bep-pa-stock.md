@@ -13,17 +13,17 @@ handwritten: true
 
 ## The company at a glance
 
-Brookfield Renewable Partners owns and operates renewable-energy generating assets globally. Hydroelectric plants dominate the portfolio in terms of both total capacity and cash generation. Wind farms constitute the second pillar. Solar and battery storage are emerging. The company is a limited partnership domiciled in Canada and listed on the NYSE. BEP-PA is a preferred-unit class — units that carry a fixed distribution and priority claim on cash relative to common units.
+[Brookfield Renewable Partners](/bep-stock/) owns and operates renewable-energy generating assets globally. Hydroelectric plants dominate the portfolio in terms of both total capacity and cash generation. Wind farms constitute the second pillar. Solar and battery storage are emerging. The company is a limited partnership domiciled in Canada and listed on the NYSE. BEP-PA is a preferred-unit class — units that carry a fixed distribution and priority claim on cash relative to common units.
 
 ## The core assets
 
-Hydroelectric dams are the backbone. Seventy-plus-year asset lives. Minimal fuel costs. High capacity factors — typically sixty to eighty percent utilization. Capital intensity front-loaded into construction; then decades of margin harvest. The company's inherited hydro portfolio (from predecessors and legacy Brookfield operations) was already fully constructed before Brookfield Renewable Partners became a public entity. Growth came later through acquisitions of additional hydro sites, then through building or acquiring wind capacity.
+Hydroelectric dams are the backbone. Seventy-plus-year asset lives. Minimal fuel costs. High capacity factors — typically sixty to eighty percent utilization. Capital intensity front-loaded into construction; then decades of margin harvest. The company's inherited hydro portfolio (from predecessors and legacy Brookfield operations) was already fully constructed before [Brookfield Renewable](/bepc-stock/) Partners became a public entity. Growth came later through [acquisitions](/acquisition/) of additional hydro sites, then through building or acquiring wind capacity.
 
 Wind farms offer lower capacity factors (typically thirty to forty percent utilization) but are faster to build and increasingly cost-competitive. Solar is lower-margin than hydro or wind in most geographies, but deployment is faster and capital requirements are lower. Battery storage is new, capital-intensive, but addresses grid flexibility — the ability to shift power across hours and days to match demand patterns.
 
 ## Cash generation and contracts
 
-Revenue comes from long-term power-purchase agreements. Fifteen-year, twenty-year, sometimes thirty-year contracts with utilities or large industrial purchasers. Many include inflation escalation — revenue rises with input prices, insulating the company from losing purchasing power over time. Contract stacking — multiple geographies, multiple technologies, multiple contract durations — smooths cash flows and reduces exposure to any single counterparty or region.
+Revenue comes from long-term power-purchase agreements. Fifteen-year, twenty-year, sometimes thirty-year contracts with utilities or large industrial purchasers. Many include [inflation](/inflation/) escalation — revenue rises with input prices, insulating the company from losing purchasing power over time. Contract stacking — multiple geographies, multiple technologies, multiple contract durations — smooths cash flows and reduces exposure to any single counterparty or region.
 
 Hydroelectric cash is the steadiest. Wind is more intermittent but still contracted. The company's revenue visibility stretches well into the future.
 
@@ -37,9 +37,9 @@ BEP-PA sits in the capital structure junior to debt but senior to common units. 
 
 ## Geographic and technology diversification
 
-Operations span North America, South America, Europe, and other regions. Multiple countries, multiple currencies, multiple regulatory regimes. A drought in British Columbia is offset by normal rainfall in Brazil. A wind drought in Europe is offset by wind generation in North America. This mosaic of assets reduces idiosyncratic risk.
+Operations span North America, South America, Europe, and other regions. Multiple countries, multiple currencies, multiple regulatory regimes. A drought in British Columbia is offset by normal rainfall in Brazil. A wind drought in Europe is offset by wind generation in North America. This mosaic of assets reduces [idiosyncratic risk](/idiosyncratic-risk/).
 
-Technology diversification — hydro, wind, solar, emerging storage — hedges against policy shifts. If a government reduces subsidies for wind, the hydro fleet is unaffected. If solar becomes dominant and prices collapse, the hydro and wind cash is still strong.
+Technology [diversification](/diversification/) — hydro, wind, solar, emerging storage — hedges against policy shifts. If a government reduces subsidies for wind, the hydro fleet is unaffected. If solar becomes dominant and prices collapse, the hydro and wind cash is still strong.
 
 ## Capital deployment and refinancing
 
@@ -63,19 +63,19 @@ Hydrological risk exists but is hedged by geography. A multi-year drought in one
 
 Regulatory and commodity-price risk is secondary but real. Governments set electricity prices in some regions; a structural shift toward lower prices compresses returns on new projects. Policy changes in subsidies or carbon pricing can shift the relative economics of different technologies.
 
-Currency risk is material but partially hedged. Cash flows come in multiple currencies; distributions are paid in USD. Large currency moves affect reported results.
+[Currency risk](/currency-risk/) is material but partially hedged. Cash flows come in multiple currencies; distributions are paid in USD. Large currency moves affect reported results.
 
-Counterparty credit risk is low; most contract counterparties are utilities with strong credit ratings.
+[Counterparty credit risk](/counterparty-credit-risk/) is low; most contract counterparties are utilities with strong [credit ratings](/credit-rating/).
 
 ## Following the business
 
 Quarterly earnings releases lay out operating metrics: total generation, average realized prices, capacity additions, capital deployment. Check if contracted revenue is growing, capacity is expanding, and distributions are being maintained or increased.
 
-Investor disclosures detail the contract pipeline, asset portfolio composition, and refinancing plans. Compare the distribution yield to alternative income-generating securities — utilities, bonds, other infrastructure plays. Is the yield compensation adequate for the specific risks?
+Investor disclosures detail the contract pipeline, asset portfolio composition, and refinancing plans. Compare the distribution yield to alternative income-generating securities — utilities, [bonds](/bond/), other infrastructure plays. Is the yield compensation adequate for the specific risks?
 
 Monitor electricity price trends in key regions. If prices are rising structurally due to scarcity or climate events, upside may be higher. If renewable capacity is exploding and crushing prices, returns compress.
 
-Track parent-company health. Brookfield Asset Management's balance sheet and liquidity matter because the parent supports some operations and guarantees some obligations.
+Track parent-company health. Brookfield Asset Management's [balance sheet](/balance-sheet/) and liquidity matter because the parent supports some operations and guarantees some obligations.
 
 ---
 

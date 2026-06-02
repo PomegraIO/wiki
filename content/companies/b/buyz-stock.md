@@ -28,7 +28,7 @@ The fund uses the word "disruptive" to describe companies fundamentally changing
 
 ## Who picks the stocks and how?
 
-Unlike a passive index fund that automatically holds all stocks in a predetermined list, BUYZ employs active managers at Franklin Templeton who research companies and decide which ones belong in the fund. The managers are looking for two things: (1) companies that are driving some form of commerce innovation, whether through enabling technology, direct selling power, or marketplace creation; and (2) stocks that they believe are mispriced relative to the company's potential. This is stock-picking based on a thematic lens.
+Unlike a passive [index fund](/index-fund/) that automatically holds all stocks in a predetermined list, BUYZ employs active managers at [Franklin Templeton](/fgdl-stock/) who research companies and decide which ones belong in the fund. The managers are looking for two things: (1) companies that are driving some form of commerce innovation, whether through enabling technology, direct selling power, or marketplace creation; and (2) stocks that they believe are mispriced relative to the company's potential. This is stock-picking based on a thematic lens.
 
 The managers read company reports, visit management teams, attend industry conferences, and conduct deep research on trends in how commerce is being reorganized. They place bets on the companies they believe are best positioned to benefit from the shift to digital and algorithmic buying and selling. Because this is active management, the fund does not hold every conceivable disruptive-commerce company, and it can concentrate bets on a smaller number of convictions.
 
@@ -40,19 +40,19 @@ The portfolio is weighted toward companies with strong growth prospects and the 
 
 ## Growth versus value and market-timing risk
 
-The disruptive-commerce theme is inherently growth-focused. Companies reshaping commerce are often in hypergrowth mode, have premium valuations, and are betting their future on new technologies rather than harvesting the cash from existing business models. This means BUYZ will tend to outperform in bull markets where growth stocks are favored and will lag or suffer in sell-offs where investors flee anything expensive and risky.
+The disruptive-commerce theme is inherently growth-focused. Companies reshaping commerce are often in hypergrowth mode, have premium valuations, and are betting their future on new technologies rather than harvesting the cash from existing business models. This means BUYZ will tend to outperform in [bull markets](/bull-market/) where growth stocks are favored and will lag or suffer in sell-offs where investors flee anything expensive and risky.
 
-This was painfully evident in 2022, when rising interest rates made growth stocks uncompetitive relative to dividend-paying, slow-growing value stocks. BUYZ declined sharply, not because the companies stopped innovating, but because the market's appetite for expensive growth stocks vanished. Over the long term, if disruptive commerce truly reshapes how people buy and sell, such companies should create wealth. But the path will include multi-year periods of underperformance.
+This was painfully evident in 2022, when rising [interest rates](/interest-rate/) made growth stocks uncompetitive relative to dividend-paying, slow-growing value stocks. BUYZ declined sharply, not because the companies stopped innovating, but because the market's appetite for expensive growth stocks vanished. Over the long term, if disruptive commerce truly reshapes how people buy and sell, such companies should create wealth. But the path will include multi-year periods of underperformance.
 
 ## Expense ratio and costs
 
-BUYZ carries an annual expense ratio in the 0.60% to 0.75% range, typical for an actively managed thematic fund. That is higher than a passive index fund (which might cost 0.03% to 0.20%), reflecting the cost of the research team, the trading to build and adjust the portfolio, and the operational overhead of active management. The fund needs to deliver excess returns — outperformance beyond its expenses and its benchmark — to justify that fee. As with any active fund, investors should monitor whether BUYZ is actually beating a simpler alternative (a low-cost technology index fund, for instance) or lagging because the managers are underperforming their fees.
+BUYZ carries an annual [expense ratio](/expense-ratio/) in the 0.60% to 0.75% range, typical for an actively managed thematic fund. That is higher than a passive index fund (which might cost 0.03% to 0.20%), reflecting the cost of the research team, the trading to build and adjust the portfolio, and the operational overhead of active management. The fund needs to deliver excess returns — outperformance beyond its expenses and its benchmark — to justify that fee. As with any active fund, investors should monitor whether BUYZ is actually beating a simpler alternative (a low-cost technology index fund, for instance) or lagging because the managers are underperforming their fees.
 
 ## Who should consider BUYZ?
 
 This fund appeals to investors with a conviction that digital and algorithmic innovation in commerce will create outsized wealth over the next decade and beyond, and who are willing to tolerate the volatility that high-growth, innovation-focused portfolios experience. It also appeals to someone who trusts active managers to make thoughtful stock picks within the disruptive-commerce theme rather than wanting to own everything in a pre-set index.
 
-For a young investor building a growth-oriented portfolio, BUYZ can serve as a satellite position that captures the upside of commerce innovation while maintaining diversification elsewhere. For a retiree or conservative investor, the volatility and expense ratio make it less suitable. The fund shines when high-growth stocks are in favor and stumbles when they are not.
+For a young investor building a growth-oriented portfolio, BUYZ can serve as a satellite position that captures the upside of commerce innovation while maintaining [diversification](/diversification/) elsewhere. For a retiree or conservative investor, the volatility and expense ratio make it less suitable. The fund shines when high-growth stocks are in favor and stumbles when they are not.
 
 ## Key risks and considerations
 

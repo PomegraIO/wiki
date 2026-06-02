@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Most Treasury bond funds buy a broad range of maturities and reweight them constantly. USIN takes a different approach: it holds a ladder of U.S. Treasury bonds all maturing between 7 and 10 years from now, with the bonds spaced so that some mature each year. This ladder structure is a time-tested strategy used by buy-and-hold investors, and by offering it in an ETF form, WisdomTree makes it accessible to anyone with a brokerage account.
+Most [Treasury bond](/treasury-bond/) funds buy a broad range of maturities and reweight them constantly. USIN takes a different approach: it holds a ladder of U.S. Treasury [bonds](/bond/) all maturing between 7 and 10 years from now, with the bonds spaced so that some mature each year. This ladder structure is a time-tested strategy used by buy-and-hold investors, and by offering it in an ETF form, WisdomTree makes it accessible to anyone with a brokerage account.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,9 +26,9 @@ Most Treasury bond funds buy a broad range of maturities and reweight them const
 
 ## The ladder concept and why it matters
 
-A bond ladder is a portfolio of bonds arranged so that each rung matures at a different time. If a fund holds bonds maturing in 2027, 2028, 2029, and 2030, it has a four-year ladder. Each year, one bond reaches maturity, the fund collects principal, and it reinvests that money — usually in a new bond at the long end of the ladder, to keep the structure intact. This continuous maturity schedule creates a dependable stream of cash flow.
+A [bond ladder](/bond-ladder/) is a portfolio of bonds arranged so that each rung matures at a different time. If a fund holds bonds maturing in 2027, 2028, 2029, and 2030, it has a four-year ladder. Each year, one bond reaches maturity, the fund collects principal, and it reinvests that money — usually in a new bond at the long end of the ladder, to keep the structure intact. This continuous maturity schedule creates a dependable stream of cash flow.
 
-The appeal of laddering is threefold. First, it reduces reinvestment risk. Instead of rolling over all your principal at once when a single bond matures (and hoping rates are favorable), you reinvest a portion every year. This smooths out the luck or ill luck of timing. Second, it provides a natural income stream — each year you get cash back and can deploy it however you choose. Third, it simplifies the management problem: you do not have to forecast how long to buy or whether rates will rise; the ladder's structure does some of that thinking for you.
+The appeal of laddering is threefold. First, it reduces [reinvestment risk](/reinvestment-risk/). Instead of rolling over all your principal at once when a single bond matures (and hoping rates are favorable), you reinvest a portion every year. This smooths out the luck or ill luck of timing. Second, it provides a natural income stream — each year you get cash back and can deploy it however you choose. Third, it simplifies the management problem: you do not have to forecast how long to buy or whether rates will rise; the ladder's structure does some of that thinking for you.
 
 USIN automates the laddering process. WisdomTree constructs a portfolio that replicates a 7-10 year ladder, and it manages the rebalancing so the ladder persists. As an investor, you buy shares and own a slice of that ladder without having to assemble individual Treasury bonds or monitor maturities.
 
@@ -36,11 +36,11 @@ USIN automates the laddering process. WisdomTree constructs a portfolio that rep
 
 The 7-10 year maturity band is an intermediate zone in the bond market. It is shorter than long-duration bonds (20+ years), so it is less vulnerable to interest-rate shocks; a 1% rise in rates causes less price damage to a 7-10 year bond than to a 30-year bond. But it is longer than short-term Treasuries (1-3 years), so it captures more yield from the upward-sloping Treasury curve — the typical pattern where longer bonds pay higher coupons than shorter ones.
 
-Treasuries in this band are issued directly by the U.S. government and backed by the full faith and credit of the federal government. Default risk is zero (barring a U.S. default, which would be a systemic catastrophe affecting all dollar assets). This makes USIN very safe from a credit perspective. The only material risks are interest-rate risk and inflation risk — the normal bond market risks, not credit-specific ones.
+Treasuries in this band are issued directly by the U.S. government and backed by the full faith and credit of the federal government. Default risk is zero (barring a U.S. default, which would be a systemic catastrophe affecting all dollar assets). This makes USIN very safe from a credit perspective. The only material risks are [interest-rate risk](/interest-rate-risk/) and [inflation risk](/inflation-risk/) — the normal bond [market risks](/market-risk/), not credit-specific ones.
 
 ## How the ladder performs under different rate scenarios
 
-When interest rates rise, all bonds lose value — USIN is not immune. But because a 7-10 year bond has intermediate duration (roughly five to six years, depending on the exact composition), the damage is moderate. A 1% rise in rates causes roughly a 5-6% loss in USIN's price. This is real and uncomfortable, but less severe than the 10-15% loss that a long-bond fund would suffer.
+When [interest rates](/interest-rate/) rise, all bonds lose value — USIN is not immune. But because a 7-10 year bond has intermediate duration (roughly five to six years, depending on the exact composition), the damage is moderate. A 1% rise in rates causes roughly a 5-6% loss in USIN's price. This is real and uncomfortable, but less severe than the 10-15% loss that a long-bond fund would suffer.
 
 When interest rates fall, USIN gains. A 1% fall in rates produces roughly a 5-6% gain. Investors who bought into rising-rate environments and held on saw those temporary losses recover over time as reinvestment at higher rates accumulated.
 
@@ -54,15 +54,15 @@ There is a subtle benefit here called the rolling-down effect. As a bond ages, a
 
 ## Costs and trading mechanics
 
-USIN's expense ratio is low, reflecting the fund's passive, rules-based construction. There is no active manager making yield forecasts; WisdomTree simply rebalances the ladder mechanically to maintain its structure. The fund trades on an exchange, so you can buy or sell shares during market hours at a market price. Treasury markets are deep and liquid, and USIN's shares typically trade with a tight spread.
+USIN's [expense ratio](/expense-ratio/) is low, reflecting the fund's passive, rules-based construction. There is no active manager making yield forecasts; WisdomTree simply rebalances the ladder mechanically to maintain its structure. The fund trades on an exchange, so you can buy or sell shares during market hours at a market price. Treasury markets are deep and liquid, and USIN's shares typically trade with a tight spread.
 
 ## Risks and caveats
 
 Interest-rate risk is the main hazard. If you buy USIN and interest rates rise sharply the next week, your fund loses value. If you must sell within a few months, you realize a loss. For a long-term holder, this is manageable because reinvestment and rolling-down eventually recover losses. But for someone with a tight timeline, it is a real constraint.
 
-Inflation risk is structural. If inflation rises substantially, the fixed coupon payments Treasuries make become worth less in real purchasing-power terms, and the fund's total return lags behind the pace of price increases. This is not a failure of the fund; it is a feature of nominal bonds during inflationary periods.
+[Inflation](/inflation/) risk is structural. If inflation rises substantially, the fixed [coupon payments](/coupon-payment/) Treasuries make become worth less in real purchasing-power terms, and the fund's total return lags behind the pace of price increases. This is not a failure of the fund; it is a feature of nominal bonds during inflationary periods.
 
-There is also concentration risk. USIN holds only U.S. Treasury bonds — no corporate bonds, no international bonds, no other diversifiers. A structural shift in the Treasury market, or a shock that moves the 7-10 year part of the curve differently than others, will affect the fund specifically. For most conservative portfolios this is fine; for investors seeking broad bond diversification, it is a limitation.
+There is also [concentration risk](/concentration-risk/). USIN holds only U.S. Treasury bonds — no [corporate bonds](/corporate-bond/), no international bonds, no other diversifiers. A structural shift in the Treasury market, or a shock that moves the 7-10 year part of the curve differently than others, will affect the fund specifically. For most conservative portfolios this is fine; for investors seeking broad bond [diversification](/diversification/), it is a limitation.
 
 ## Who USIN is for and how to research it
 

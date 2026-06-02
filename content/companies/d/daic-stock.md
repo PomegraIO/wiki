@@ -55,7 +55,7 @@ This is a structural risk for consolidation platforms: they live on acquisition-
 
 ### Closely related
 - Practice consolidation
-- [Healthcare services](/hcsg-stock/)
+- Healthcare services
 - Back-office efficiency
 
 ### Wider context

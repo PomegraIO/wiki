@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Bread Financial operates at the intersection of retail and lending, offering financing solutions to consumers at the point of purchase and managing credit on behalf of merchants and financial partners. The company's origins lie in point-of-sale lending networks that became essential infrastructure for retail, but Bread's modern form reflects a shift from simple transaction processing toward a full operating company controlling the credit risk, customer data, and platform technology that underpins the business.
+[Bread Financial](/bfh-stock/) operates at the intersection of retail and lending, offering financing solutions to consumers at the point of purchase and managing credit on behalf of merchants and financial partners. The company's origins lie in point-of-sale lending networks that became essential infrastructure for retail, but Bread's modern form reflects a shift from simple transaction processing toward a full operating company controlling the [credit risk](/credit-risk/), customer data, and platform technology that underpins the business.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,11 +29,11 @@ Bread Financial operates at the intersection of retail and lending, offering fin
 
 Bread's first life was as Comenity, founded in 1988 as a specialist in managing private-label credit card programs for retailers. For decades it sat in the background: Comenity processed the credit card that a shopper swiped at checkout, but a consumer rarely knew the name. The company built its moat through operational excellence — scaling the infrastructure, keeping fraud rates low, and becoming trusted enough that major retailers would outsource not just the mechanics of card issuance but the data and customer relationships that went with it.
 
-In 2018, Bread Financial was formed when Comenity Bank became a standalone entity under new ownership, giving the company direct control of the bank charter and with it the balance sheet and authority to make the lending decisions that had previously belonged to its retail partners. That move — from processor to principal — was foundational. It meant Bread was no longer just skimming transaction fees; it was directly absorbing credit risk and had incentive to be rigorous about it.
+In 2018, Bread Financial was formed when Comenity Bank became a standalone entity under new ownership, giving the company direct control of the bank charter and with it the [balance sheet](/balance-sheet/) and authority to make the lending decisions that had previously belonged to its retail partners. That move — from processor to principal — was foundational. It meant Bread was no longer just skimming transaction fees; it was directly absorbing credit risk and had incentive to be rigorous about it.
 
 The next chapter brought integration and expansion. Bread moved beyond passive card administration into offering products at the moment of purchase, partnering with merchants to offer immediate financing to any shopper — not just the ones who already had a card on file. The platform evolved to handle not only credit cards but also installment loans (so a consumer could split a purchase into smaller monthly payments), layaway programs, and other flexible payment options that retail needed but traditional banks were too conservative to offer at scale.
 
-The company's growth has come not from inventing new financial products but from operating existing ones better and at lower cost than traditional competitors. It standardised the infrastructure, automated customer acquisition and underwriting, and maintained the culture of risk management that made retailers trust it with their customers' data.
+The company's growth has come not from inventing new financial products but from operating existing ones better and at lower cost than traditional competitors. It standardised the infrastructure, automated customer [acquisition](/acquisition/) and underwriting, and maintained the culture of risk management that made retailers trust it with their customers' data.
 
 ## How the business actually works
 
@@ -57,7 +57,7 @@ Bread controls its own credit decisions, which means the company bears the risk 
 
 The securitisation markets matter deeply to Bread. When credit risk is cheap and investors are hungry for consumer-loan securities, Bread can originate loans, package them quickly, and move the credit risk off the balance sheet while keeping the servicing revenue — a highly profitable model. When credit markets tighten (as they did during financial stress periods), Bread is forced to hold more loans on its balance sheet, which consumes capital and constrains how much new lending it can do.
 
-Underwriting discipline is survival. Bread's brand with retailers and investors rests on keeping delinquency and loss rates low. A spike in charge-offs can trigger faster payoff demands from investors, reduce the appetite for Bread securities, and weaken retailer confidence. That discipline has meant Bread historically resists the temptation to loosen standards chasing volume, even when the market is hot.
+Underwriting discipline is survival. Bread's brand with retailers and investors rests on keeping [delinquency](/delinquency/) and loss rates low. A spike in charge-offs can trigger faster payoff demands from investors, reduce the appetite for Bread securities, and weaken retailer confidence. That discipline has meant Bread historically resists the temptation to loosen standards chasing volume, even when the market is hot.
 
 ## Watching Bread as a proxy for retail and consumer health
 

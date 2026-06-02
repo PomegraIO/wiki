@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-YY Group Holding Limited is a technology-enabled workforce and facility management company headquartered in Singapore that operates across Asia-Pacific, Europe, and the Middle East. Founded in 2010 as a regional staffing provider and listed on NASDAQ in April 2024 under ticker YYGH, the company has evolved into a dual-platform business: a digital labor marketplace connecting businesses with flexible workers on one side, and a comprehensive facility management company providing cleaning and maintenance services on the other. It operates at the intersection of labour logistics and facility operations, serving industries from hospitality to transportation to retail.
+YY Group Holding Limited is a technology-enabled workforce and facility management company headquartered in Singapore that operates across Asia-Pacific, Europe, and the Middle East. Founded in 2010 as a regional staffing provider and listed on [NASDAQ](/nasdaq/) in April 2024 under ticker YYGH, the company has evolved into a dual-platform business: a digital labor marketplace connecting businesses with flexible workers on one side, and a comprehensive facility management company providing cleaning and maintenance services on the other. It operates at the intersection of labour logistics and facility operations, serving industries from hospitality to transportation to retail.
 
 <aside class="wiki-infobox">
 <table>
@@ -42,7 +42,7 @@ Recent contract wins signal continued expansion. In April 2026, YY Group's IFM s
 
 ## Technology and automation
 
-A distinguishing feature of YY Group's approach is its commitment to technology integration. The company is not simply a labour broker or cleaning contractor; it has embedded digital tools throughout its operations. YY Circle uses data analytics and algorithmic matching to optimise worker deployment. The facility management side operates the YY Smart iClean App, an IoT-enabled platform that uses real-time data analytics, automated sensors, and scheduling optimisation to improve cleaning efficiency, reduce waste, and enhance quality control.
+A distinguishing feature of YY Group's approach is its commitment to technology integration. The company is not simply a labour [broker](/broker/) or cleaning contractor; it has embedded digital tools throughout its operations. YY Circle uses data analytics and algorithmic matching to optimise worker deployment. The facility management side operates the YY Smart iClean App, an IoT-enabled platform that uses real-time data analytics, automated sensors, and scheduling optimisation to improve cleaning efficiency, reduce waste, and enhance quality control.
 
 This technology layer serves two purposes: it improves the company's own operational efficiency and margins, and it creates switching costs and competitive advantage for customers who become integrated with the platform. A client using YY Circle for labour and 24IFM for facility management faces meaningful costs to migrate away, making the relationship more durable.
 
@@ -60,7 +60,7 @@ The company has signalled a focus on AI-native evolution, having announced a str
 
 ## Scale and competitive positioning
 
-YY Group is a growth-stage operator with meaningful regional presence but not yet megacap scale. Its market capitalisation is modest relative to global facility management and staffing giants. Growth requires capital investment, geographic expansion, technology refinement, and client acquisition — all capital-intensive endeavours. The company will likely need to demonstrate consistent growth, margin improvement, and strategic clarity to sustain a premium valuation.
+YY Group is a growth-stage operator with meaningful regional presence but not yet megacap scale. Its market capitalisation is modest relative to global facility management and staffing giants. Growth requires capital investment, geographic expansion, technology refinement, and client [acquisition](/acquisition/) — all capital-intensive endeavours. The company will likely need to demonstrate consistent growth, margin improvement, and strategic clarity to sustain a premium valuation.
 
 ## Researching YY Group as an investor
 

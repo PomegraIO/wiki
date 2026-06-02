@@ -39,9 +39,9 @@ The index is rules-based. The holdings are transparent. They are companies meeti
 
 ## A steady, recession-resistant business
 
-Data companies have a defensive quality. During normal times, institutions subscribe to data services. During downturns, when financial firms shrink, they do not cancel data subscriptions. They cut hiring instead. They cut discretionary spending instead. Data is too critical to risk losing.
+Data companies have a defensive quality. During normal times, institutions subscribe to data services. During downturns, when financial firms shrink, they do not cancel data subscriptions. They cut hiring instead. They cut [discretionary spending](/discretionary-spending/) instead. Data is too critical to risk losing.
 
-This stability gives data-provider stocks a defensive quality. They do not outpace the market in bull markets. But they tend to hold up better in downturns.
+This stability gives data-provider stocks a defensive quality. They do not outpace the market in [bull markets](/bull-market/). But they tend to hold up better in downturns.
 
 The business also benefits from industry growth. More markets open. More assets get managed. More trades happen. More data is needed. Regulatory change often increases demand for data. Banks need more granular risk reporting. Asset managers need better portfolio analytics. Compliance teams need better monitoring data.
 
@@ -51,7 +51,7 @@ Leading data providers have built strong moats. Once a trader is trained to use 
 
 The biggest data providers have large installed bases. Switching them costs money. Switching them costs time. Switching them disrupts operations. This makes them durable franchises.
 
-Newer data providers focus on niches. Alternative data for hedge funds. Real-time credit analysis. Geopolitical risk data. They can offer advantages over incumbents in their niche. But breaking into financial services is slow. Building a customer base is capital-intensive.
+Newer data providers focus on niches. Alternative data for [hedge funds](/hedge-fund/). Real-time credit analysis. Geopolitical risk data. They can offer advantages over incumbents in their niche. But breaking into financial services is slow. Building a customer base is capital-intensive.
 
 ## FDIQ is a passive index fund
 
@@ -59,7 +59,7 @@ FDIQ is passive. There is no active manager trying to pick winners. The fund sim
 
 The fund does not outperform if the index definition misses the true data-provider leaders. The fund does not underperform because a manager makes bad calls. The fund is simple and transparent.
 
-The expense ratio is low because there is no research. There is no active trading. The fund simply replicates the index.
+The [expense ratio](/expense-ratio/) is low because there is no research. There is no active trading. The fund simply replicates the index.
 
 ## Risks and limitations
 
@@ -75,6 +75,6 @@ FDIQ is straightforward. For investors wanting stable, recurring-revenue exposur
 
 The main question is whether financial data services will continue growing or stay stable over your investment horizon.
 
-Review the index top holdings. Check fund performance relative to broad financial-services indices. Read the prospectus from Invesco. Confirm the index construction. Confirm the expense ratio. Monitor news about the largest holding companies. Mergers matter. Acquisitions matter. Regulatory changes matter.
+Review the index top holdings. Check fund performance relative to broad financial-services indices. Read the prospectus from Invesco. Confirm the index construction. Confirm the expense ratio. Monitor news about the largest holding companies. [Mergers](/merger/) matter. [Acquisitions](/acquisition/) matter. Regulatory changes matter.
 
 Because the fund is index-based, there is nothing to monitor about manager skill. It is about whether the data-provider business itself is healthy.

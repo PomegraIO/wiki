@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Leverage Shares 2X Long AMD Daily ETF** (ticker AMDG) is an exchange-traded fund designed to move at twice the daily performance of Advanced Micro Devices stock. If AMD rises 2% on a trading day, AMDG aims to rise 4%. If AMD falls 1%, AMDG aims to fall 2%. Like all leveraged ETFs, this is a tactical short-term tool, not a vehicle for buy-and-hold investors — the daily reset mechanism that creates the leverage also erodes returns across longer holding periods through a process known as volatility decay.*
+*The **Leverage Shares 2X Long AMD Daily ETF** (ticker AMDG) is an exchange-traded fund designed to move at twice the daily performance of [Advanced Micro Devices](/amd-stock/) stock. If AMD rises 2% on a trading day, AMDG aims to rise 4%. If AMD falls 1%, AMDG aims to fall 2%. Like all [leveraged ETFs](/leveraged-etf/), this is a tactical short-term tool, not a vehicle for buy-and-hold investors — the daily reset mechanism that creates the leverage also erodes returns across longer [holding periods](/holding-period/) through a process known as volatility decay.*
 
 <aside class="wiki-infobox">
 <table>
@@ -24,9 +24,9 @@ handwritten: true
 </table>
 </aside>
 
-AMDG holds a basket of derivatives — principally futures contracts and swaps — that collectively track twice the daily percentage move of AMD stock. The fund resets its positions each day at market close to ensure it maintains exactly 2x leverage to the next trading session's move. This daily reset is the mechanism that allows the fund to deliver 2x leverage without holding 2x the underlying stock.
+AMDG holds a basket of derivatives — principally [futures contracts](/futures-contract/) and swaps — that collectively track twice the daily percentage move of AMD stock. The fund resets its positions each day at market close to ensure it maintains exactly 2x leverage to the next trading session's move. This daily reset is the mechanism that allows the fund to deliver 2x leverage without holding 2x the underlying stock.
 
-The reset structure works cleanly on a single day. Suppose an investor buys AMDG at the opening and holds it for exactly one trading session. If AMD rises 3%, AMDG should rise approximately 6%, minus the daily portion of the 0.95% expense ratio. The doubling is straightforward and reliable. The investor pockets the amplified gain and, if desired, sells at the close. This is where the fund shines — as a vehicle for traders with a directional view over a single trading session or, for the more risk-tolerant, a small number of consecutive days.
+The reset structure works cleanly on a single day. Suppose an investor buys AMDG at the opening and holds it for exactly one trading session. If AMD rises 3%, AMDG should rise approximately 6%, minus the daily portion of the 0.95% [expense ratio](/expense-ratio/). The doubling is straightforward and reliable. The investor pockets the amplified gain and, if desired, sells at the close. This is where the fund shines — as a vehicle for traders with a directional view over a single trading session or, for the more risk-tolerant, a small number of consecutive days.
 
 The problem emerges the moment the holding period extends beyond one or two days, and it stems from a subtle mathematical property of compound percentage returns. Suppose AMD follows this three-day path: up 5% on day one, down 4% on day two, and up 3% on day three. A 2x leveraged fund holding this entire path would achieve returns of +10%, -8%, and +6%, compounding to an end value of 1.047 times its starting price, or 4.7% total return. Plain AMD stock, following the same three-day path, returns to 1.0382 times its starting price, or 3.82% total return. The leveraged fund outperformed in this scenario because the largest single-day move (the 5% gain) occurred first, followed by smaller moves in both directions.
 
@@ -36,7 +36,7 @@ This phenomenon is called volatility decay, and it is the price paid for daily r
 
 Leverage Shares publishes detailed facts sheets and prospectuses specifying the expense ratio, the daily rebalancing schedule (typically after the 4 p.m. closing bell), and the types of derivatives used to maintain the 2x ratio. The expense ratio of approximately 0.95% is higher than most unleveraged sector or technology ETFs, and this cost compounds daily. Over a month of holdings, the combination of leverage decay and the ongoing expense ratio can result in meaningful underperformance relative to holding AMD stock itself, even in markets where AMD posts a net gain.
 
-The fund trades on NYSE Arca with good liquidity during regular market hours. Bid-ask spreads are typically tight, making it easy and inexpensive to enter or exit intraday or across a few days. The tight spreads make AMDG attractive for day traders and short-term swing traders who want to amplify a bullish near-term bet without the friction of borrowing AMD shares to create leverage manually.
+The fund trades on NYSE Arca with good liquidity during regular market hours. [Bid-ask spreads](/bid-ask-spread/) are typically tight, making it easy and inexpensive to enter or exit intraday or across a few days. The tight spreads make AMDG attractive for day traders and short-term swing traders who want to amplify a bullish near-term bet without the friction of borrowing AMD shares to create leverage manually.
 
 AMDG is most suitable for traders who believe AMD stock will rise over the next few hours to a few days and are willing to actively monitor the position. The 2x leverage means a 5% fall in AMD results in a 10% loss in the fund — a material drawdown on any significant position. Traders with higher conviction and shorter time horizons can use AMDG to achieve more outsized returns than holding AMD outright; those with weaker conviction or longer horizons should avoid the daily reset mechanics entirely.
 

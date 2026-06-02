@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-SUNEVISION is Hong Kong's biggest data center company. The company runs buildings in Hong Kong where internet companies, phone companies, and cloud services keep their servers. Think of it as real estate for the internet: SUNEVISION owns the buildings, pays the electricity bills, keeps the air conditioning running, and rents rack space to the companies that run websites and apps. It is listed on the Hong Kong Stock Exchange and also offers American Depositary Receipts (ADRs) that trade on U.S. markets under the ticker SNEVY, allowing overseas investors to own shares without dealing with foreign stock exchanges.
+SUNEVISION is Hong Kong's biggest data center company. The company runs buildings in Hong Kong where internet companies, phone companies, and cloud services keep their servers. Think of it as real estate for the internet: SUNEVISION owns the buildings, pays the electricity bills, keeps the air conditioning running, and rents rack space to the companies that run websites and apps. It is listed on the [Hong Kong Stock Exchange](/hong-kong-stock-exchange/) and also offers [American Depositary Receipts](/adr/) (ADRs) that trade on U.S. markets under the ticker SNEVY, allowing overseas investors to own shares without dealing with foreign [stock exchanges](/stock-exchange/).
 
 ## What data centers do
 
@@ -49,7 +49,7 @@ This ownership structure is helpful and occasionally constraining. Helpful becau
 
 ## Customers and the competitive landscape
 
-SUNEVISION's customers are the backbone of Hong Kong's internet economy. Telecommunications companies like China Mobile, China Telecom, and PCCW use SUNEVISION's facilities. Cloud providers like Amazon Web Services, Microsoft Azure, and Alibaba operate servers there. Content delivery networks and streaming services keep copies of video and software in MEGA-i to serve users in Asia. The customer base is diversified, meaning no single customer can threaten the business by pulling out. That diversification is a strength.
+SUNEVISION's customers are the backbone of Hong Kong's internet economy. Telecommunications companies like China Mobile, China Telecom, and PCCW use SUNEVISION's facilities. Cloud providers like Amazon Web Services, [Microsoft](/msft-stock/) Azure, and Alibaba operate servers there. Content delivery networks and streaming services keep copies of video and software in MEGA-i to serve users in Asia. The customer base is diversified, meaning no single customer can threaten the business by pulling out. That [diversification](/diversification/) is a strength.
 
 The main competitor is Equinix, an American data center company with a presence in Hong Kong. Equinix is large, well-capitalized, and operates data centers globally. It competes fiercely on price. But SUNEVISION has the advantage of owning MEGA-i, the single largest interconnection point in Hong Kong, with the most carriers and providers. Equinix has capacity in Hong Kong, but it is not the default destination for companies building Asia-facing infrastructure. SUNEVISION's advantages in the Hong Kong market are real and durable.
 
@@ -69,4 +69,4 @@ Additionally, SUNEVISION's largest customers include Chinese state-owned telecom
 
 To evaluate SUNEVISION, focus on three things. First, occupancy rates: how full are the existing facilities? Filling MEGA-i and MEGA Gateway faster than competitors means faster profit growth. Second, the MEGA IDC timeline and budget: is construction on schedule? Cost overruns or delays are red flags. Third, price trends: is SUNEVISION able to raise prices as capacity tightens, or is competition forcing prices down? Rising prices per megawatt show pricing power; falling prices show a weak bargaining position.
 
-The company's annual reports and earnings calls will provide these metrics. For a company whose entire future depends on Asia's data consumption growing, it is also worth reading about cloud adoption trends, artificial intelligence data center demand, and streaming video growth in the Asia-Pacific region. Understanding the demand side is as important as understanding SUNEVISION's supply.
+The company's [annual reports](/10-k/) and earnings calls will provide these metrics. For a company whose entire future depends on Asia's data consumption growing, it is also worth reading about cloud adoption trends, artificial intelligence data center demand, and streaming video growth in the Asia-Pacific region. Understanding the demand side is as important as understanding SUNEVISION's supply.

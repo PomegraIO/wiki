@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-*APIE is an international equity ETF that combines a low-cost index foundation tracking developed markets outside the United States with an active management layer, aiming to reduce costs while preserving opportunity for outperformance.*
+*APIE is an international [equity ETF](/equity-etf/) that combines a low-cost index foundation tracking developed markets outside the United States with an active management layer, aiming to reduce costs while preserving opportunity for outperformance.*
 
-The fund's name signals its structure: a core passive holding in developed-market international stocks provides the base exposure, while a smaller active allocation seeks to exploit pricing inefficiencies. APIE targets investors who want broad geographic diversification beyond U.S. equities but are frustrated by the all-in fees of traditional international equity managers. It is one answer to a genuine problem in active asset management: paying 0.80 to 1.5 percent annually for a manager to beat a market they often tie or underperform.
+The fund's name signals its structure: a core passive holding in developed-market international stocks provides the base exposure, while a smaller active allocation seeks to exploit pricing inefficiencies. APIE targets investors who want broad geographic [diversification](/diversification/) beyond U.S. equities but are frustrated by the all-in fees of traditional international equity managers. It is one answer to a genuine problem in active asset management: paying 0.80 to 1.5 percent annually for a manager to beat a market they often tie or underperform.
 
 ## How APIE carves its territory
 
-The fund's passive sleeve typically holds somewhere between 60 and 80 percent of assets in an index that mirrors developed international markets — Europe, Japan, Australia, and other economically mature countries outside North America. That portion tracks its index closely and charges near the cost of a pure index fund.
+The fund's passive sleeve typically holds somewhere between 60 and 80 percent of assets in an index that mirrors developed international markets — Europe, Japan, Australia, and other economically mature countries outside North America. That portion tracks its index closely and charges near the cost of a pure [index fund](/index-fund/).
 
 The active sleeve, representing 20 to 40 percent of the fund, is where a dedicated manager makes specific bets: overweighting individual European banks they believe are undervalued, underweighting Japanese exporters facing currency headwinds, picking overlooked mid-cap companies in developed markets. The manager is not trying to beat the entire international market; the index core does that. The active manager is hunting for alpha in a more focused subset of opportunities.
 
@@ -25,19 +25,19 @@ This construct reflects a practical reality: international markets are often les
 
 ## Composition and geography
 
-APIE's holdings span developed nations across Europe (Germany, France, UK, Switzerland), Asia (Japan, Singapore, Hong Kong, Australia), and other advanced economies. It typically excludes emerging markets like China, India, and Brazil, which carry different risk profiles and growth dynamics. The fund's weighting reflects either market capitalization (larger companies get larger weights) or factor-based selection (the active manager tilts toward specific characteristics like value or quality).
+APIE's holdings span developed nations across Europe (Germany, France, UK, Switzerland), Asia (Japan, Singapore, Hong Kong, Australia), and other advanced economies. It typically excludes emerging markets like China, India, and Brazil, which carry different risk profiles and growth dynamics. The fund's weighting reflects either [market capitalization](/market-capitalization/) (larger companies get larger weights) or factor-based selection (the active manager tilts toward specific characteristics like value or quality).
 
-Currency exposure is another layer: do fund returns fluctuate with the U.S. dollar against the Euro, Yen, and Pound? APIE does not typically hedge currency, so a strengthening dollar can drag on returns even if international stocks themselves rise.
+Currency exposure is another layer: do fund returns fluctuate with the [U.S. dollar](/us-dollar/) against the Euro, Yen, and Pound? APIE does not typically hedge currency, so a strengthening dollar can drag on returns even if international stocks themselves rise.
 
 ## Costs and the active component
 
-APIE's total expense ratio blends the passive sleeve's low cost with the active manager's fee, typically landing between 0.35 and 0.55 percent annually — notably cheaper than a pure active international fund (often 0.75 to 1.0 percent) but slightly more expensive than a pure passive international index fund (often 0.10 to 0.20 percent).
+APIE's total [expense ratio](/expense-ratio/) blends the passive sleeve's low cost with the active manager's fee, typically landing between 0.35 and 0.55 percent annually — notably cheaper than a pure active international fund (often 0.75 to 1.0 percent) but slightly more expensive than a pure passive international index fund (often 0.10 to 0.20 percent).
 
 The fund's ability to justify that fee depends entirely on whether the active manager's picks outperform the index by more than the incremental fee charged. That is an empirical question, and the answer varies by manager and over different time periods. An investor should examine the manager's track record and understand that active outperformance is never guaranteed.
 
 ## Risks and headwinds
 
-APIE carries the volatility of international equities, which can differ significantly from U.S. equity movements. Developed-market economies face different growth, inflation, and interest-rate environments than the United States. Political risk — elections, policy shifts, geopolitical tensions — varies by country. Currency movements can amplify or dampen returns for U.S. investors. The active manager, despite skill, may underperform for years; that is the nature of active management.
+APIE carries the volatility of international equities, which can differ significantly from U.S. equity movements. Developed-market economies face different growth, [inflation](/inflation/), and interest-rate environments than the United States. Political risk — elections, policy shifts, geopolitical tensions — varies by country. Currency movements can amplify or dampen returns for U.S. investors. The active manager, despite skill, may underperform for years; that is the nature of active management.
 
 Concentration is another consideration: if the active manager builds a large position in a specific country or a specific stock, the fund's returns become dependent on those bets. If the manager is wrong, losses can exceed what a pure index fund would have suffered.
 

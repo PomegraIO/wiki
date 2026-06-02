@@ -35,15 +35,15 @@ The advantage of this position is recurring, contracted revenue: once a lessee s
 
 ## Expansion into adjacent waterfront and real-estate development
 
-As Pacific Airport Group matured, it diversified beyond pure airport concessions into broader real-estate development and waterfront properties in the San Diego area. The company has developed or acquired commercial and mixed-use properties, sometimes partnering with major developers on larger projects. This broadening reduced the concentration risk of being wholly dependent on airport revenue and positioned the company to benefit from San Diego's real-estate market expansion.
+As Pacific Airport Group matured, it diversified beyond pure airport concessions into broader real-estate development and waterfront properties in the San Diego area. The company has developed or acquired commercial and mixed-use properties, sometimes partnering with major developers on larger projects. This broadening reduced the [concentration risk](/concentration-risk/) of being wholly dependent on airport revenue and positioned the company to benefit from San Diego's real-estate market expansion.
 
 Waterfront properties in San Diego command premium valuations because of the location's appeal and the scarcity of developable waterfront land. Pacific has invested in repositioning and developing these assets, either for its own operation or through partnerships that generate development fees, equity returns, or ongoing management revenue.
 
 ## From private enterprise to public markets
 
-For many years Pacific Airport Group remained a privately held company with concentrated ownership. The company eventually accessed public markets, listing shares on the OTC (over-the-counter) markets in the United States. As a small public company with limited liquidity, Pacific trades infrequently and thinly—investors in GPAEF often struggle with bid-ask spreads and low trading volume.
+For many years Pacific Airport Group remained a privately held company with concentrated ownership. The company eventually accessed public markets, listing shares on the OTC ([over-the-counter) markets](/over-the-counter-market/) in the United States. As a small public company with limited liquidity, Pacific trades infrequently and thinly—investors in GPAEF often struggle with [bid-ask spreads](/bid-ask-spread/) and low trading volume.
 
-The public listing gave the company access to capital for acquisitions and development but also subjected it to SEC reporting requirements and public-company governance. The company's investor base is modest, dominated by individuals with local ties or real-estate interest in San Diego, rather than the large institutional investors that anchor major-cap stocks.
+The public listing gave the company access to capital for [acquisitions](/acquisition/) and development but also subjected it to SEC reporting requirements and public-company governance. The company's investor base is modest, dominated by individuals with local ties or real-estate interest in San Diego, rather than the large institutional investors that anchor major-cap stocks.
 
 ## Revenue from airport leases and concessions
 
@@ -55,7 +55,7 @@ The revenue mix is split between base rent (stable) and percentage rent and anci
 
 ## Concentration and dependency on airport economics
 
-Pacific's dependence on San Diego International Airport is both its greatest asset and its greatest risk. If the airport thrives, the company thrives. If airport traffic declines or a major airport development bypasses Pacific's properties, revenue stalls. There is limited geographic or operational diversification: the company is essentially San Diego-centric.
+Pacific's dependence on San Diego International Airport is both its greatest asset and its greatest risk. If the airport thrives, the company thrives. If airport traffic declines or a major airport development bypasses Pacific's properties, revenue stalls. There is limited geographic or operational [diversification](/diversification/): the company is essentially San Diego-centric.
 
 Regulatory environment is also relevant: airports are often governed by municipal authorities, and lease terms can be renegotiated or changed by regulatory decision. San Diego's airport authority has significant control over tenant mix, rental rates, and lease terms for all airport concessions. This regulatory exposure means that even if Pacific owns or leases space, unfavorable policy changes can reduce returns.
 
@@ -63,11 +63,11 @@ The company is also exposed to shifts in passenger preferences. Retailers that o
 
 ## Capital structure and profitability
 
-Pacific is a small, profitable real-estate company generating operating cash flow from its property portfolio. The company is not heavily leveraged relative to major real-estate investment trusts (REITs), though it does carry debt against certain properties. Operating margins are respectable for a real-estate business, ranging between the mid-teens to low-20s percentage-wise, since the company is primarily a rent collector with modest operating costs.
+Pacific is a small, profitable real-estate company generating operating cash flow from its property portfolio. The company is not heavily leveraged relative to major real-estate investment trusts (REITs), though it does carry debt against certain properties. [Operating margins](/operating-margin/) are respectable for a real-estate business, ranging between the mid-teens to low-20s percentage-wise, since the company is primarily a rent collector with modest operating costs.
 
 Earnings are constrained by the limited size of the opportunity at San Diego International—the company cannot grow materially within the airport unless the airport itself expands, which requires major capital investment and municipal approval. Growth from broader waterfront or other real-estate development depends on the company's ability to identify attractive projects and execute development.
 
-The company has historically paid modest dividends and reinvested profits into property maintenance and debt reduction.
+The company has historically paid modest [dividends](/dividend/) and reinvested profits into property maintenance and debt reduction.
 
 ## The evolution from concessions operator to diversified developer
 

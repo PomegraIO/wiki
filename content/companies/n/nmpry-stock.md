@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Navios Maritime Holdings Inc. operates a fleet of container ships and tanker vessels that carry cargo across global ocean routes, generating revenue by leasing or operating these ships for customers who need cargo capacity.*
+*[Navios Maritime](/nmpgy-stock/) Holdings Inc. operates a fleet of container ships and tanker vessels that carry cargo across global ocean routes, generating revenue by leasing or operating these ships for customers who need cargo capacity.*
 
 ## From Greek shipping tradition to container and tanker operations
 
@@ -23,7 +23,7 @@ During the 2000s shipping boom — driven by explosive growth in containerized t
 
 ## The shipping model and freight rate exposure
 
-Navios owns container ships and tankers. A container ship carries boxes of manufactured goods, electronics, apparel, and other containerized cargo. A tanker carries liquid cargo — crude oil, petroleum products, chemicals — in bulk. Both vessel types operate on the basis of fixed routes and regular schedules, though a ship may be chartered for individual voyages or longer periods.
+Navios owns container ships and tankers. A container ship carries boxes of manufactured goods, electronics, apparel, and other containerized cargo. A tanker carries liquid cargo — [crude oil](/crude-oil/), petroleum products, chemicals — in bulk. Both vessel types operate on the basis of fixed routes and regular schedules, though a ship may be chartered for individual voyages or longer periods.
 
 Revenue comes from freight rates — the price per unit of cargo (per container, per ton of oil) charged to shippers. These rates fluctuate constantly based on the global balance of supply and demand. When global trade is strong and container capacity is tight, rates rise. When trade is weak and excess container capacity sits idle, rates collapse. The company's profitability swings sharply with these rate cycles.
 
@@ -35,13 +35,13 @@ During boom periods when rates are high, a company like Navios can order new ves
 
 The shipping industry is viciously cyclical. Navios has survived multiple cycles by managing its fleet strategically. In weak markets, the company operates fewer vessels, allowing high-cost older ships to sit idle while it runs its more efficient, modern fleet. In strong markets, it operates the entire fleet and may look to acquire additional capacity.
 
-The company also manages debt carefully. Shipping companies finance vessel acquisitions with debt — it is capital-intensive to buy a US$100+ million ship. Navios carries substantial debt, and in weak freight markets when cash flow declines, debt service becomes a challenge. Banks that finance shipping companies tighten credit during downturns, making refinancing difficult. A company that took on too much debt in a boom and finds itself unable to refinance in a bust can face existential pressure.
+The company also manages debt carefully. Shipping companies finance vessel [acquisitions](/acquisition/) with debt — it is capital-intensive to buy a US$100+ million ship. Navios carries substantial debt, and in weak freight markets when cash flow declines, debt service becomes a challenge. Banks that finance shipping companies tighten credit during downturns, making refinancing difficult. A company that took on too much debt in a boom and finds itself unable to refinance in a bust can face existential pressure.
 
 Navios has also used financial engineering to navigate cycles. The company has issued equity to raise capital, taken on joint ventures with other operators, and strategically bought and sold vessels based on market conditions. These moves have allowed it to survive periods when freight rates were weak, though not without shareholder dilution at times.
 
 ## The installed fleet and strategic positioning
 
-Navios operates a fleet of owned and chartered vessels. The owned vessels are assets on the balance sheet; chartered vessels are operating leases from third parties. The split between owned and chartered capacity gives the company flexibility. In weak markets, it can let chartered vessels' leases expire without renewing them. In strong markets, it can add chartered capacity quickly without the capital requirement of buying.
+Navios operates a fleet of owned and chartered vessels. The owned vessels are assets on the [balance sheet](/balance-sheet/); chartered vessels are [operating leases](/operating-lease/) from third parties. The split between owned and chartered capacity gives the company flexibility. In weak markets, it can let chartered vessels' leases expire without renewing them. In strong markets, it can add chartered capacity quickly without the capital requirement of buying.
 
 The fleet has also evolved from general-cargo vessels (ships that carry whatever cargo a customer brings) toward specialized container ships and tankers. Container shipping is more standardized and competitive but also more liquid — there are many potential customers and charters. Tanker shipping is also commoditized and cyclical, tied to the global demand for petroleum products and crude oil.
 
@@ -61,7 +61,7 @@ Navios is a cyclical play tied directly to global trade volumes and shipping fre
 
 For investors, the key metrics are the company's debt levels, the average age of the fleet (newer, more efficient ships command better rates), and management's track record of navigating cycles. The annual 10-K filing (SEC CIK 0001333172) provides detailed information on the fleet composition, debt structure, and recent charter contracts.
 
-Watch freight rate trends — public indices published by maritime brokers track daily and weekly rates for major routes. These rates forecast near-term earnings volatility. Navios stock is attractive when freight rates are depressed and the balance-sheet is sound, because an eventual recovery in rates could drive significant shareholder returns. It is dangerous when rates are booming, because the cycle often turns just as a company takes on debt to finance new vessels.
+Watch freight rate trends — public indices published by maritime [brokers](/broker/) track daily and weekly rates for major routes. These rates forecast near-term earnings volatility. Navios stock is attractive when freight rates are depressed and the balance-sheet is sound, because an eventual recovery in rates could drive significant shareholder returns. It is dangerous when rates are booming, because the cycle often turns just as a company takes on debt to finance new vessels.
 
 The shipping industry has been revitalized in recent years by supply constraints and strong global trade, but the long-term trajectory is uncertain. Navios will remain vulnerable to cycles in global trade, freight rates, and the energy transition. Investors must view the company as a cyclical play, not a stable earner.
 

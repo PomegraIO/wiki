@@ -17,7 +17,7 @@ Louis Hachette Group is a French media and publishing conglomerate created in 20
 
 Lagardère Publishing is one of the world's largest trade publishers, with leading positions in France, Germany, Spain, and the United Kingdom. The division publishes fiction, nonfiction, children's books, and educational titles across multiple imprints—including the historic Fayard, Larousse, and others. Revenue comes from two sources: book sales (both printed and digital e-books) and author-related services. Publishing is a long-tail business: a small number of bestselling authors generate disproportionate cash, while thousands of mid-list and backlist titles sustain the business with steady, lower-volume sales. Lagardère's scale gives it negotiating power with bookstore chains and online retailers, and its portfolio of established imprints gives it credibility with authors and agents.
 
-The publishing business runs on cycles tied to holiday seasons and back-to-school periods, making quarterly revenue lumpy. Profitability depends on the mix of bestsellers (high margin, high volume) versus backlist titles (lower volume, stable revenue). The company is exposed to changes in reading habits and retail consolidation; the decline of independent bookstores and the dominance of a few large online retailers reduce Hachette's pricing power. Digital books and audiobooks are growing faster than printed books in many markets, forcing publishers to invest in new formats and distribution platforms. On the positive side, reading itself is resilient; during recessions, people still buy books, though the mix may shift toward cheaper titles or secondhand purchases.
+The publishing business runs on cycles tied to holiday seasons and back-to-school periods, making quarterly revenue lumpy. Profitability depends on the mix of bestsellers (high margin, high volume) versus backlist titles (lower volume, stable revenue). The company is exposed to changes in reading habits and retail consolidation; the decline of independent bookstores and the dominance of a few large online retailers reduce Hachette's pricing power. Digital books and audiobooks are growing faster than printed books in many markets, forcing publishers to invest in new formats and distribution platforms. On the positive side, reading itself is resilient; during [recessions](/recession/), people still buy books, though the mix may shift toward cheaper titles or secondhand purchases.
 
 ## Lagardère Travel Retail: Airports and trains
 
@@ -51,9 +51,9 @@ Publishing is exposed to the long-term structural decline of printed books and m
 
 Travel retail is exposed to travel volume shocks—any recession or disruption that reduces airport traffic and spending immediately shrinks revenue. The company also faces labor cost pressure in high-wage countries and has limited ability to raise prices without losing customers.
 
-Prisma Media's decline in advertising revenue may not reverse without a shift in reader behavior or a pickup in discretionary spending. A sustained recession would put pressure on Hachette's dividend and debt servicing.
+Prisma Media's decline in advertising revenue may not reverse without a shift in reader behavior or a pickup in [discretionary spending](/discretionary-spending/). A sustained recession would put pressure on Hachette's [dividend](/dividend/) and debt servicing.
 
-The Bolloré family's controlling stake gives them latitude to pursue acquisitions or divestitures that may or may not create shareholder value; public minority shareholders have limited influence.
+The Bolloré family's controlling stake gives them latitude to pursue [acquisitions](/acquisition/) or [divestitures](/divestiture/) that may or may not create shareholder value; public minority shareholders have limited influence.
 
 ## Monitoring the business
 

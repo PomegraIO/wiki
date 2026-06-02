@@ -24,7 +24,7 @@ handwritten: true
 </table>
 </aside>
 
-CO2 Energy Transition Corp. (ticker symbol NOEM) is a special-purpose acquisition company that completed an initial public offering in 2024, selling 6 million units at 10 dollars per unit, with an additional 900,000 units issued through the underwriter's overallotment option. Each unit consisted of three components: one share of common stock, one warrant, and one right. Beginning in January 2025, these components are permitted to trade separately on the Nasdaq under distinct ticker symbols. NOEMR represents the rights component—a contingent claim on equity that activates only upon the successful completion of a business combination.
+CO2 Energy Transition Corp. (ticker symbol NOEM) is a [special-purpose acquisition company](/special-purpose-acquisition-company/) that completed an [initial public offering](/initial-public-offering/) in 2024, selling 6 million units at 10 dollars per unit, with an additional 900,000 units issued through the underwriter's overallotment option. Each unit consisted of three components: one share of [common stock](/common-stock/), one warrant, and one right. Beginning in January 2025, these components are permitted to trade separately on the [Nasdaq](/nasdaq/) under distinct ticker symbols. NOEMR represents the rights component—a contingent claim on equity that activates only upon the successful completion of a [business combination](/business-combination-purchase/).
 
 ## The structure and mechanics of acquisition rights
 
@@ -44,7 +44,7 @@ Holders of NOEMR are placing a bet that such a policy environment will remain su
 
 ## Comparing the components of the original unit
 
-The original SPAC unit bundled common stock, warrant, and right together. The common stock provides immediate equity participation and voting rights. The warrant offers leveraged upside—the holder can purchase an additional share at 11.50 dollars if the price appreciates above that level. The right offers a modest, almost passive fractional equity stake that materializes automatically at deal close. Together, they were priced at 10 dollars per unit, reflecting the expected present value of all three claims and the optionality they convey. Post-separation, investors can price each separately and make portfolio decisions accordingly.
+The original SPAC unit bundled common stock, warrant, and right together. The common stock provides immediate equity participation and [voting rights](/voting-rights/). The warrant offers leveraged upside—the holder can purchase an additional share at 11.50 dollars if the price appreciates above that level. The right offers a modest, almost passive fractional equity stake that materializes automatically at deal close. Together, they were priced at 10 dollars per unit, reflecting the expected present value of all three claims and the optionality they convey. Post-separation, investors can price each separately and make portfolio decisions accordingly.
 
 ---
 

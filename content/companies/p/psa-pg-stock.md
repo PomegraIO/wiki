@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Public Storage is the dominant self-storage real estate operator in North America, a business where the customer relationship renews every month and where the principal challenge is filling warehouses with paying tenants, not managing complex real estate or maintaining buildings.*
+*[Public Storage](/psa-stock/) is the dominant self-storage real estate operator in North America, a business where the customer relationship renews every month and where the principal challenge is filling warehouses with paying tenants, not managing complex real estate or maintaining buildings.*
 
 <aside class="wiki-infobox">
 <table>
@@ -31,23 +31,23 @@ Public Storage owns or operates climate-controlled warehouses where individuals 
 
 The storage unit is rented under a month-to-month tenancy agreement. The customer pays a fixed monthly rent, typically ranging from a few hundred to several thousand dollars depending on the unit size and location. Unlike apartment rentals or commercial leases, storage has no long-term commitment — a customer can terminate after any month with minimal notice. In practice, however, customers stay far longer than they initially intend. Once a unit is full and the customer has paid for several months of rental, the psychic and logistical cost of relocating the items elsewhere exceeds the willingness to move. Storage customers renew month to month almost by default.
 
-This stickiness is the engine of Public Storage's profitability. The company does not need to constantly acquire new customers to replace departing ones; most renewal is automatic. The company's job is to keep occupancy high and to increase the rent charged to existing tenants when market conditions allow. The economics of scale are apparent: as the company fills a facility to 95 percent occupancy, operating costs per occupied unit fall sharply. The largest facilities in premium markets generate much higher margins than smaller, less-occupied properties in secondary markets.
+This stickiness is the engine of Public Storage's profitability. The company does not need to constantly acquire new customers to replace departing ones; most renewal is automatic. The company's job is to keep occupancy high and to increase the rent charged to existing tenants when market conditions allow. The economics of scale are apparent: as the company fills a facility to 95 percent occupancy, operating costs per occupied unit fall sharply. The largest facilities in premium markets generate much higher margins than smaller, less-occupied properties in [secondary markets](/secondary-market/).
 
 ## The management and ownership model
 
-Public Storage operates on a hybrid ownership-and-management structure. The company owns approximately 45 percent of its facilities outright. It manages an additional 50 percent on behalf of other owners — pension funds, insurance companies, and other institutional investors — under long-term management contracts. On the managed facilities, Public Storage collects a management fee, typically a percentage of revenue plus a percentage of operating profit, rather than owning the revenue stream directly.
+Public Storage operates on a hybrid ownership-and-management structure. The company owns approximately 45 percent of its facilities outright. It manages an additional 50 percent on behalf of other owners — pension funds, insurance companies, and other institutional investors — under long-term management contracts. On the managed facilities, Public Storage collects a [management fee](/management-fee/), typically a percentage of revenue plus a percentage of operating profit, rather than owning the revenue stream directly.
 
 This arrangement lets Public Storage deploy its operating expertise and brand without owning all the capital. The management fee model generates lower absolute profit per dollar of revenue than owning properties outright, but it requires far less capital to build, making the return on capital invested more efficient. The company is able to expand its platform with relatively light capital requirements by adding managed properties.
 
-For owned properties, Public Storage invests capital to construct new facilities and acquire existing ones. The company funds these acquisitions with debt and periodic equity offerings. The capital intensity is moderate; a new climate-controlled facility costs in the range of $6,000 to $12,000 per unit depending on location and construction standards. Acquisition or renovation of existing facilities costs less.
+For owned properties, Public Storage invests capital to construct new facilities and acquire existing ones. The company funds these [acquisitions](/acquisition/) with debt and periodic equity offerings. The capital intensity is moderate; a new climate-controlled facility costs in the range of $6,000 to $12,000 per unit depending on location and construction standards. Acquisition or renovation of existing facilities costs less.
 
 ## Revenue and margin dynamics
 
 Public Storage's revenue comes from monthly rent charged to occupants of owned facilities and management fees on operated facilities. The key driver of profit is revenue per available space (RevPAS), which is the average monthly rent multiplied by the occupancy rate. A facility that collects $150 per month per unit at 90 percent occupancy generates more revenue per available space than one collecting $200 per month at 60 percent occupancy.
 
-The company has significant pricing power in markets where supply is tight and demand is strong. Metropolitan areas with limited new supply-being built, high in-migration, and strong household formation command premium rents. Secondary and tertiary markets with lower barriers to new construction see more price competition.
+The company has significant pricing power in markets where supply is tight and demand is strong. Metropolitan areas with limited new supply-being built, high in-migration, and strong household formation command premium rents. Secondary and [tertiary markets](/tertiary-market/) with lower barriers to new construction see more price competition.
 
-Operating margins are high once a facility is fully occupied. Climate control and basic security are the main operating costs; unlike apartment buildings, storage facilities require minimal maintenance or upkeep. Labor costs are for front-office staff, maintenance, and management. The high fixed-cost nature of the business means that additional occupancy at existing facilities flows almost entirely to the bottom line, driving strong operating leverage.
+[Operating margins](/operating-margin/) are high once a facility is fully occupied. Climate control and basic security are the main operating costs; unlike apartment buildings, storage facilities require minimal maintenance or upkeep. Labor costs are for front-office staff, maintenance, and management. The high fixed-cost nature of the business means that additional occupancy at existing facilities flows almost entirely to the bottom line, driving strong operating leverage.
 
 The company modernizes its portfolio over time, shifting toward climate-controlled units that command higher rents and appeal to customers storing valuable items. It invests in digital systems that allow customers to reserve and pay for units online, reducing front-office labor requirements.
 
@@ -69,11 +69,11 @@ The company competes on brand, digital convenience, facility quality, and price.
 
 ## Capital returns and dividend strategy
 
-Public Storage generates substantial free cash flow from operations, which it uses for acquisitions, debt reduction, and dividends. The company has a strong credit rating and manageable debt levels, giving it access to capital for growth.
+Public Storage generates substantial [free cash flow](/free-cash-flow/) from operations, which it uses for acquisitions, debt reduction, and [dividends](/dividend/). The company has a strong [credit rating](/credit-rating/) and manageable debt levels, giving it access to capital for growth.
 
-The dividend is a key component of total returns. The company has historically maintained a dividend while also retaining earnings to fund acquisitions and debt reduction. The payout ratio is typically moderate, meaning the company is not distributing all available cash — instead, it is reinvesting much of it into new properties or reducing debt, which supports growth.
+The dividend is a key component of total returns. The company has historically maintained a dividend while also retaining earnings to fund acquisitions and debt reduction. The [payout ratio](/payout-ratio/) is typically moderate, meaning the company is not distributing all available cash — instead, it is reinvesting much of it into new properties or reducing debt, which supports growth.
 
-The business benefits from inflation protection. Storage rents can be raised as inflation erodes the real value of rent collected. Customers often choose to pay the increased rent rather than move, giving the company inherent inflation protection that residential or office landlords lack. This is a material advantage in periods of elevated inflation.
+The business benefits from [inflation](/inflation/) protection. Storage rents can be raised as inflation erodes the real value of rent collected. Customers often choose to pay the increased rent rather than move, giving the company inherent inflation protection that residential or office landlords lack. This is a material advantage in periods of elevated inflation.
 
 ## How to research Public Storage
 
@@ -81,4 +81,4 @@ The annual 10-K (SEC CIK 0001393311) breaks down the portfolio by region and seg
 
 Key metrics include the percentage of portfolio that is climate-controlled, since climate-controlled units command higher rents and appeal to a broader customer base. Track average rent per occupied space and occupancy rates by region to spot where the company is facing pricing pressure or strong pricing power.
 
-The company's debt levels and interest coverage matter significantly; storage is a leveraged business, and rising interest rates increase financing costs. Monitor the pace of acquisitions and management contracts added; if the company is slowing acquisition activity, it might signal that valuations are high or that capital is more expensive. Watch quarterly reports for any commentary on supply being built in key markets, as new competing facilities can put near-term pressure on rents and occupancy.
+The company's debt levels and interest coverage matter significantly; storage is a leveraged business, and rising [interest rates](/interest-rate/) increase financing costs. Monitor the pace of acquisitions and management contracts added; if the company is slowing acquisition activity, it might signal that valuations are high or that capital is more expensive. Watch quarterly reports for any commentary on supply being built in key markets, as new competing facilities can put near-term pressure on rents and occupancy.

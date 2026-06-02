@@ -10,15 +10,15 @@ keywords:
 handwritten: true
 ---
 
-International Media Acquisition Corp. is a blank check company — also known as a special purpose acquisition company (SPAC) — incorporated in Delaware and trading on NASDAQ under multiple ticker symbols representing different parts of its capital structure. IMAQR represents the rights portion of the company's original unit offering, while the main common stock trades as IMAQ, with warrants trading as IMAQW and units as IMAQU.
+International Media [Acquisition](/acquisition/) Corp. is a blank check company — also known as a special purpose acquisition company (SPAC) — incorporated in Delaware and trading on [NASDAQ](/nasdaq/) under multiple ticker symbols representing different parts of its capital structure. IMAQR represents the rights portion of the company's original unit offering, while the main [common stock](/common-stock/) trades as IMAQ, with warrants trading as IMAQW and units as IMAQU.
 
 ## What is International Media Acquisition Corp.'s core purpose?
 
-The company exists as a shell designed to identify and execute a business combination with an existing operating business. Rather than operating a standalone enterprise, IMAQ's mandate is to merge with, acquire, or exchange assets with another company and take it public on a major exchange. This is the defining structure of a SPAC — the search is the business.
+The company exists as a shell designed to identify and execute a [business combination](/business-combination-purchase/) with an existing operating business. Rather than operating a standalone enterprise, IMAQ's mandate is to merge with, acquire, or exchange assets with another company and take it public on a major exchange. This is the defining structure of a SPAC — the search is the business.
 
 ## What merger is IMAQ pursuing?
 
-In April 2025, International Media Acquisition Corp. entered into a definitive merger agreement with VCI Biofuels Group, a Vietnamese fuel ethanol, solvent alcohol, and food alcohol producer. VCI was established in 2014 and operates ethanol production facilities in Vietnam. The transaction values VCI Biofuels at approximately one billion dollars in implied enterprise value. Upon completion, the combined entity is planned to be renamed VI Energy and to trade on NASDAQ.
+In April 2025, International Media Acquisition Corp. entered into a definitive [merger](/merger/) agreement with VCI Biofuels Group, a Vietnamese fuel ethanol, solvent alcohol, and food alcohol producer. VCI was established in 2014 and operates ethanol production facilities in Vietnam. The transaction values VCI Biofuels at approximately one billion dollars in implied [enterprise value](/enterprise-value/). Upon completion, the combined entity is planned to be renamed VI Energy and to trade on NASDAQ.
 
 The merger has subsequently been restructured. In April 2026, IMAQ signed an amended and restated merger agreement that reshapes the transaction into a share purchase followed by a reincorporation and redomestication to the British Virgin Islands, further refining the path to public listing.
 

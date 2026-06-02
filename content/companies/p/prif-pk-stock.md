@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Priority Income Fund is a closed-end mutual fund that invests in preferred stocks and corporate bonds with the goal of generating high regular income for shareholders. The PRIF-PK share class is one of three publicly traded versions of the same underlying fund, each trading separately on the stock exchange. The fund's strategy combines security selection in the preferred and bond markets with the use of leverage — borrowed money — to amplify returns above what the core portfolio alone would produce. This approach appeals to income-focused investors but introduces specific vulnerabilities.
+Priority [Income Fund](/income-fund/) is a closed-end [mutual fund](/mutual-fund/) that invests in [preferred stocks](/preferred-stock/) and [corporate bonds](/corporate-bond/) with the goal of generating high regular income for shareholders. The PRIF-PK [share class](/share-class/) is one of three publicly traded versions of the same underlying fund, each trading separately on the [stock exchange](/stock-exchange/). The fund's strategy combines security selection in the preferred and [bond](/bond/) markets with the use of leverage — borrowed money — to amplify returns above what the core portfolio alone would produce. This approach appeals to income-focused investors but introduces specific vulnerabilities.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,27 +27,27 @@ Priority Income Fund is a closed-end mutual fund that invests in preferred stock
 
 ## Preferred securities as core holding
 
-The fund's portfolio is anchored in preferred stocks — a category of equity-like securities issued by large banks, insurance companies, real estate investment trusts, and utilities. Preferred stockholders receive a fixed dividend and, in liquidation, are paid after bondholders but before common stockholders. This seniority gives preferred stocks lower credit risk than the issuer's common stock but higher risk than senior bonds.
+The fund's portfolio is anchored in preferred stocks — a category of equity-like securities issued by large banks, insurance companies, [real estate investment trusts](/real-estate-investment-trust/), and utilities. Preferred stockholders receive a fixed [dividend](/dividend/) and, in [liquidation](/liquidation/), are paid after bondholders but before common stockholders. This seniority gives preferred stocks lower [credit risk](/credit-risk/) than the issuer's [common stock](/common-stock/) but higher risk than [senior bonds](/senior-bond/).
 
-Preferred stocks appeal to income investors because they typically yield more than bonds and are more stable in price than common stocks. However, their returns are capped — if a company's stock soars, the preferred holder misses the upside. In a downturn, the preferred's value can fall sharply if the issuer's credit quality deteriorates. The fund typically holds preferred stocks from twenty to thirty issuers, spreading concentration risk across financials, utilities, insurance, and other sectors.
+Preferred stocks appeal to income investors because they typically yield more than bonds and are more stable in price than common stocks. However, their returns are capped — if a company's stock soars, the preferred holder misses the upside. In a downturn, the preferred's value can fall sharply if the issuer's credit quality deteriorates. The fund typically holds preferred stocks from twenty to thirty issuers, spreading [concentration risk](/concentration-risk/) across financials, utilities, insurance, and other sectors.
 
 ## The bond complement
 
-Bonds make up the remainder of the portfolio. Priority Income Fund typically holds a mix of investment-grade bonds (from highly-rated companies) and high-yield bonds (often called junk bonds, issued by companies with lower credit ratings). The mix shifts based on the manager's view of credit conditions. In boom years when defaults are rare, the fund can tilt toward higher-yield securities to boost distributions. In uncertain periods, the fund may shift toward safer, investment-grade paper.
+Bonds make up the remainder of the portfolio. Priority Income Fund typically holds a mix of [investment-grade bonds](/investment-grade-bond/) (from highly-rated companies) and [high-yield bonds](/high-yield-bond/) (often called [junk bonds](/junk-bond/), issued by companies with lower [credit ratings](/credit-rating/)). The mix shifts based on the manager's view of credit conditions. In boom years when defaults are rare, the fund can tilt toward higher-yield securities to boost distributions. In uncertain periods, the fund may shift toward safer, investment-grade paper.
 
 The allocation between preferreds and bonds varies but is typically weighted more heavily toward preferreds, reflecting the fund's name and the higher income preferreds provide. Bonds act as a stabilizer, providing more predictable cash flows and less stock-like volatility than preferreds alone.
 
 ## Leverage architecture
 
-Priority Income Fund borrows money in the short-term lending markets — primarily through instruments called preferred stock facilities or through reverse repurchase agreements. The fund borrows at rates typically one to two percent above the risk-free rate and invests the proceeds in securities yielding three to seven percent or more. The spread between the borrowed rate and the investment return is the leverage benefit — it amplifies the fund's total return and the distributions it can pay.
+Priority Income Fund borrows money in the short-term lending markets — primarily through instruments called preferred stock facilities or through [reverse repurchase agreements](/reverse-repo/). The fund borrows at rates typically one to two percent above the risk-free rate and invests the proceeds in securities yielding three to seven percent or more. The spread between the borrowed rate and the investment return is the leverage benefit — it amplifies the fund's total return and the distributions it can pay.
 
 However, leverage is a double-edged sword. In good credit conditions and low-rate environments, leverage turbocharges returns. But if short-term lending rates spike or if the fund's portfolio declines in value, leverage can amplify losses. Financial stress that makes borrowing expensive or unavailable can force the fund to reduce distributions or sell holdings at unfavorable prices.
 
 ## Distribution mechanics and sustainability
 
-The fund distributes quarterly cash to shareholders, with the payment typically reinvested automatically unless an investor elects otherwise. The distribution is not guaranteed and can be cut or suspended. The fund calculates a target distribution level based on expected portfolio yield, less management fees and borrowing costs, with leverage built into the math.
+The fund distributes quarterly cash to shareholders, with the payment typically reinvested automatically unless an investor elects otherwise. The distribution is not guaranteed and can be cut or suspended. The fund calculates a target distribution level based on expected portfolio yield, less [management fees](/management-fee/) and borrowing costs, with leverage built into the math.
 
-If the underlying portfolio consistently earns less than what the fund distributes, the net asset value (NAV) per share shrinks over time — the fund is paying out capital rather than just income. This happened to many preferred stock funds after 2008 and again after 2020 when credit spreads tightened and yields fell. Investors comparing distributions across closed-end funds sometimes assume high distribution rates are always better; in reality, a fund paying out more than it earns is a warning sign.
+If the underlying portfolio consistently earns less than what the fund distributes, the [net asset value](/net-asset-value/) (NAV) per share shrinks over time — the fund is paying out capital rather than just income. This happened to many preferred stock funds after 2008 and again after 2020 when [credit spreads](/credit-spread/) tightened and yields fell. Investors comparing distributions across closed-end funds sometimes assume high distribution rates are always better; in reality, a fund paying out more than it earns is a warning sign.
 
 ## Interest rates and duration risk
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Triller Group is a media and entertainment company assembled through a series of acquisitions in the short-form video and music space, most notably the TrillerShort platform and its related music catalog and distribution assets. The company trades over-the-counter under the ticker ILLRW and represents a case study in the challenges of scaling content platforms in an increasingly crowded digital landscape.
+Triller Group is a media and entertainment company assembled through a series of [acquisitions](/acquisition/) in the short-form video and music space, most notably the TrillerShort platform and its related music catalog and distribution assets. The company trades over-the-counter under the ticker ILLRW and represents a case study in the challenges of scaling content platforms in an increasingly crowded digital landscape.
 
 ## The acquisitions and pivots
 
@@ -20,7 +20,7 @@ The addition of music assets was meant to address a critical gap: the ability to
 
 ## Financial distress and restructuring
 
-The company's financial trajectory took a severe downturn, leading to bankruptcy proceedings. This restructuring fundamentally altered Triller's operating constraints and balance sheet, shifting the company from a growth-oriented platform business to a financial recovery operation. Debt structures, covenant obligations, and asset sales became the dominant strategic considerations.
+The company's financial trajectory took a severe downturn, leading to bankruptcy proceedings. This restructuring fundamentally altered Triller's operating constraints and [balance sheet](/balance-sheet/), shifting the company from a growth-oriented platform business to a financial recovery operation. Debt structures, covenant obligations, and asset sales became the dominant strategic considerations.
 
 The shift from growth-mode thinking to restructuring has affected the company's ability to invest in product development, creator incentives, and content licensing. For a platform business where network effects drive value, reduced investment directly undermines competitive positioning.
 
@@ -34,7 +34,7 @@ The downstream supply of content (what creators produce) is notoriously difficul
 
 The company operates in an intensely crowded segment: TikTok dominates globally, YouTube Shorts competes with the backing of Google's infrastructure, Instagram Reels leverages Facebook's user base, and emerging players continue to fragment creator attention. Triller's scale has remained modest relative to these giants, and financial constraints have limited marketing and creator-acquisition spending.
 
-The micro-cap status and trading on over-the-counter markets reflects the loss of confidence in the company's path to profitability or meaningful scale. The cost of capital is high, and access to the public debt and equity markets is severely constrained.
+The micro-cap status and trading on [over-the-counter markets](/over-the-counter-market/) reflects the loss of confidence in the company's path to profitability or meaningful scale. The cost of capital is high, and access to the [public debt](/public-debt/) and equity markets is severely constrained.
 
 ## What a reader should monitor
 

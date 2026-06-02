@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Dynagas LNG Partners is a Greek-registered partnership that owns and operates liquefied natural gas (LNG) carriers — specialized vessels that move frozen natural gas across oceans. The business is straightforward: the partnership owns ships, signs long-term contracts with energy companies and traders to transport their LNG, and collects fees for the voyage. It is a capital-intensive play on global energy trade, cyclical by nature, but structured to deliver steady cash to unitholders through distribution of excess earnings.
+[Dynagas LNG Partners](/dlng-stock/) is a Greek-registered partnership that owns and operates liquefied [natural gas](/natural-gas/) (LNG) carriers — specialized vessels that move frozen natural gas across oceans. The business is straightforward: the partnership owns ships, signs long-term contracts with energy companies and traders to transport their LNG, and collects fees for the voyage. It is a capital-intensive play on global energy trade, cyclical by nature, but structured to deliver steady cash to unitholders through distribution of excess earnings.
 
 <aside class="wiki-infobox">
 <table>
@@ -44,7 +44,7 @@ In a boom — when industrial economies are growing, heating demand rises, and L
 
 In a bust — when growth slows, energy demand crumbles, or new supply floods the market — the opposite happens. Shippers have fewer cargoes to move. New capacity sits idle. Charter rates collapse. Owners are forced to renew contracts at steep discounts or accept lower utilization. Distributions shrink or vanish. If rates stay depressed long enough, owners face a choice: cut the distribution, lay up ships to save operating cost, or sell vessels at fire-sale prices.
 
-The risk to an investor is that the cycle can turn hard and fast. A geopolitical shock (sanctions, a trade war, a sudden shift in LNG routing) can crater demand for months. A new liquefaction plant switching on in a competitor region can flood the market with cheap cargo and depress rates. In 2016, after oil crashed, LNG shipping rates fell 50% or more. The value of the fleet on the balance sheet fell. Distributions contracted.
+The risk to an investor is that the cycle can turn hard and fast. A geopolitical shock (sanctions, a [trade war](/trade-war/), a sudden shift in LNG routing) can crater demand for months. A new liquefaction plant switching on in a competitor region can flood the market with cheap cargo and depress rates. In 2016, after oil crashed, LNG shipping rates fell 50% or more. The value of the fleet on the [balance sheet](/balance-sheet/) fell. Distributions contracted.
 
 The mitigation is the structure of the contracts. Dynagas does not play the spot market — it locks in revenue on multi-year time charters. In 2026, the partnership's fleet was nearly 100% booked for 2026 and 2027, with about 65% coverage for 2028. That backlog insulates the distribution from sudden demand collapse. If rates fall for new charters, the distribution will eventually feel it; but the runway is measured in years, not quarters.
 
@@ -52,7 +52,7 @@ The mitigation is the structure of the contracts. Dynagas does not play the spot
 
 To buy six LNG carriers, Dynagas borrowed money. The partnership carries debt, and servicing that debt comes before distributions to unitholders. In high-rate environments, when banks demand steep interest costs, more of each dollar of operating cash gets siphoned away and less reaches investors. In low-rate environments, the margin widens.
 
-The partnership is also exposed to refinancing risk. When old debt matures, it must be rolled over or repaid. If rates have risen or ship values have fallen (and thus the collateral backing the loans is worth less), refinancing becomes expensive or even unavailable. Asset values matter more in downturns. If charter rates stay depressed, the market value of a ship can fall, and the balance sheet can look precarious.
+The partnership is also exposed to [refinancing risk](/refinancing-risk/). When old debt matures, it must be rolled over or repaid. If rates have risen or ship values have fallen (and thus the collateral backing the loans is worth less), refinancing becomes expensive or even unavailable. Asset values matter more in downturns. If charter rates stay depressed, the market value of a ship can fall, and the balance sheet can look precarious.
 
 ## What makes this different from other shipping plays
 
@@ -70,4 +70,4 @@ Anyone studying Dynagas should watch three things:
 
 **Contract-renewal rates.** When old charters expire and ships come available for new contracts, what are the new rates compared to the old ones? Falling rates signal a softening market and lower distributions ahead. Rising rates signal the opposite.
 
-The 10-K filing (SEC CIK 0001578453) breaks down the portfolio of contracts by expiration date and includes a full accounting of the fleet. The quarterly earnings calls are where management discusses spot rates in the market, new demand signals, and any strategic shifts. As with any shipping company, Dynagas is ultimately a cyclical asset: the distribution grows in booms and contracts in busts. The partnership's defensive feature is the long-dated contract backlog, which provides a cushion between the headline cycle and the investor's quarterly distribution.
+The 10-K filing (SEC CIK 0001578453) breaks down the portfolio of contracts by [expiration date](/expiration-date/) and includes a full accounting of the fleet. The quarterly earnings calls are where management discusses spot rates in the market, new demand signals, and any strategic shifts. As with any shipping company, Dynagas is ultimately a cyclical asset: the distribution grows in booms and contracts in busts. The partnership's defensive feature is the long-dated contract backlog, which provides a cushion between the headline cycle and the investor's quarterly distribution.

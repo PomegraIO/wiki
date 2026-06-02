@@ -23,7 +23,7 @@ handwritten: true
 </table>
 </aside>
 
-Nova Minerals Ltd is an Australian mineral exploration company that searches for gold and base-metal deposits across properties held in Australia. The company is small, illiquid, and exists at the frontier of risk—it holds no mines, generates no revenue from operations, and exists entirely to discover ore bodies that can be sold to or developed with larger mining partners. What makes Nova notable now is the way it is shifting from pure-speculation exploration toward property consolidation and early-stage partnership discussions, a transition that speaks to the broader movement in junior mining from discovery-stage work toward development-stage projects.
+[Nova Minerals](/nva-stock/) Ltd is an Australian mineral exploration company that searches for gold and base-metal deposits across properties held in Australia. The company is small, illiquid, and exists at the frontier of risk—it holds no mines, generates no revenue from operations, and exists entirely to discover ore bodies that can be sold to or developed with larger mining partners. What makes Nova notable now is the way it is shifting from pure-speculation exploration toward property consolidation and early-stage partnership discussions, a transition that speaks to the broader movement in junior mining from discovery-stage work toward development-stage projects.
 
 ## The exploration engine and property portfolio
 
@@ -59,8 +59,8 @@ The shift now visible in junior mining generally is toward consolidation—some 
 
 ## Key metrics and investment considerations
 
-For investors in Nova, the essential metrics are the balance sheet (cash position and burn rate), the composition and advancement stage of the property portfolio, the geological quality of drilling and exploration work, and management's ability to attract joint-venture partners or sell properties at terms that create shareholder value.
+For investors in Nova, the essential metrics are the [balance sheet](/balance-sheet/) (cash position and burn rate), the composition and advancement stage of the property portfolio, the geological quality of drilling and exploration work, and management's ability to attract joint-venture partners or sell properties at terms that create shareholder value.
 
 Commodity prices—particularly gold and copper—are macro drivers of junior mining share prices, often more influential than company-specific progress. A junior explorer with excellent properties is still a speculative bet in a weak commodity environment.
 
-Anyone examining Nova should read its SEC filings (CIK 0001852551) for cash-burn and capital-allocation detail, and should track announcements of exploration results, property acquisitions, and any partnership or joint-venture agreements. For younger or less well-capitalised junior explorers, such announcements often appear in press releases or investor presentations before flowing into formal quarterly filings.
+Anyone examining Nova should read its SEC filings (CIK 0001852551) for cash-burn and capital-allocation detail, and should track announcements of exploration results, property [acquisitions](/acquisition/), and any partnership or joint-venture agreements. For younger or less well-capitalised junior explorers, such announcements often appear in press releases or investor presentations before flowing into formal quarterly filings.

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Zoomcar Holdings, Inc. operates a digital marketplace for short-term car rentals, connecting hosts who own personal cars with drivers who need temporary vehicles across India and select markets in Southeast Asia. The company went public in December 2023 through a merger with a special-purpose acquisition company and trades on the Nasdaq under the symbols ZCAR (common stock) and ZCARW (warrants). Zoomcar is a platform play — it does not own a fleet; instead, it builds the digital infrastructure that lets ordinary vehicle owners monetize their cars by renting them out by the day or the hour.
+Zoomcar Holdings, Inc. operates a digital marketplace for short-term car rentals, connecting hosts who own personal cars with drivers who need temporary vehicles across India and select markets in Southeast Asia. The company went public in December 2023 through a [merger](/merger/) with a [special-purpose acquisition company](/special-purpose-acquisition-company/) and trades on the [Nasdaq](/nasdaq/) under the symbols ZCAR ([common stock](/common-stock/)) and ZCARW (warrants). Zoomcar is a platform play — it does not own a fleet; instead, it builds the digital infrastructure that lets ordinary vehicle owners monetize their cars by renting them out by the day or the hour.
 
 <aside class="wiki-infobox">
 <table>
@@ -40,7 +40,7 @@ Zoomcar's revenue comes almost entirely from commission on bookings. When a host
 
 The company also earns ancillary revenue from add-on services: in-car insurance products, roadside assistance, damage waiver options, and premium features like airport pickup or chauffeur services. These offerings improve the user experience and create higher-margin revenue streams than the base commission.
 
-The business model is asset-light in the truest sense: Zoomcar owns no cars. It provides the app, the payment rails, insurance partnerships, and customer support, but the vehicle capital that actually serves customers belongs to hosts. This structure means Zoomcar does not require billions in capital to buy a fleet, nor does it absorb the depreciation, maintenance, registration, or insurance costs of ownership. The company's operating leverage comes from spreading platform costs across a large number of transactions.
+The business model is asset-light in the truest sense: Zoomcar owns no cars. It provides the app, the payment rails, insurance partnerships, and customer support, but the vehicle capital that actually serves customers belongs to hosts. This structure means Zoomcar does not require billions in capital to buy a fleet, nor does it absorb the [depreciation](/depreciation/), maintenance, registration, or insurance costs of ownership. The company's operating leverage comes from spreading platform costs across a large number of transactions.
 
 ## Growth drivers and competitive positioning
 

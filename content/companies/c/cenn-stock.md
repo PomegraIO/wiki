@@ -4,7 +4,7 @@ description: "US-listed electric vehicle manufacturer focused on light commercia
 keywords: ["electric vehicles", "light commercial vehicles", "vehicle manufacturers", "EV manufacturing", "fleet electrification", "SEC filing"]
 ---
 
-*Cenntro Inc., trading as **CENN** on [NASDAQ](/nasdaq/), is an electric vehicle manufacturer that targets the last-mile delivery and light [commercial vehicle](/cvgi-stock/) segment. The company designs and produces small-to-medium electric vans and trucks intended for fleet operators, municipalities, and logistics providers who depend on urban and suburban distribution networks.*
+*Cenntro Inc., trading as **CENN** on [NASDAQ](/nasdaq/), is an electric vehicle manufacturer that targets the last-mile delivery and light commercial vehicle segment. The company designs and produces small-to-medium electric vans and trucks intended for fleet operators, municipalities, and logistics providers who depend on urban and suburban distribution networks.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CENN</td></tr>

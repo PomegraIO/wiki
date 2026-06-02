@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Kingsoft Cloud Holdings Ltd operates as a cloud infrastructure and services provider headquartered in Beijing, serving enterprise customers primarily throughout China and the Asia-Pacific region. The company delivers infrastructure-as-a-service, platform-as-a-service, and industry-specific solutions built on its own data centre network. Kingsoft Cloud trades over-the-counter in the United States as KCLHF, a remnant of its earlier NASDAQ listing, and competes in one of the world's largest but most concentrated cloud markets — one where the dominant players are Alibaba Cloud and Tencent Cloud, both backed by enormous consumer technology companies with deep pockets and state relationships.
+[Kingsoft Cloud](/kc-stock/) Holdings Ltd operates as a cloud infrastructure and services provider headquartered in Beijing, serving enterprise customers primarily throughout China and the Asia-Pacific region. The company delivers infrastructure-as-a-service, platform-as-a-service, and industry-specific solutions built on its own data centre network. Kingsoft Cloud trades over-the-counter in the United States as KCLHF, a remnant of its earlier [NASDAQ](/nasdaq/) listing, and competes in one of the world's largest but most concentrated cloud markets — one where the dominant players are Alibaba Cloud and Tencent Cloud, both backed by enormous consumer technology companies with deep pockets and state relationships.
 
 <aside class="wiki-infobox">
 
@@ -31,7 +31,7 @@ Kingsoft Cloud emerged from the Kingsoft software group, one of China's largest 
 
 ## A crowded market with consolidated leadership
 
-The global cloud infrastructure market is itself highly concentrated, dominated by Amazon Web Services, Microsoft Azure, and Google Cloud. But China's cloud market operates under different economic and regulatory conditions, creating a separate ecosystem where Alibaba Cloud, Tencent Cloud, and Baidu Cloud are the large players. Kingsoft Cloud ranks fourth or fifth in that ecosystem — a position of scale but not dominance.
+The global cloud infrastructure market is itself highly concentrated, dominated by Amazon Web Services, [Microsoft](/msft-stock/) Azure, and Google Cloud. But China's cloud market operates under different economic and regulatory conditions, creating a separate ecosystem where Alibaba Cloud, Tencent Cloud, and Baidu Cloud are the large players. Kingsoft Cloud ranks fourth or fifth in that ecosystem — a position of scale but not dominance.
 
 The consolidation is driven by both economics and geography. Building and operating data centres requires substantial capital, and cloud pricing is increasingly competitive, which rewards scale and efficiency. Chinese regulations on data sovereignty mean that foreign cloud providers like AWS and Azure face restrictions on serving Chinese customers directly; they are effectively locked out. Within China, the market has consolidated around the cloud divisions of large Chinese technology companies, each of which can leverage an existing customer base, a consumer brand, and internal capital from other profitable divisions to subsidise the cloud business while it reaches scale.
 
@@ -43,7 +43,7 @@ Kingsoft Cloud's revenue comes from several sources. Core infrastructure service
 
 The company also operates a gaming and interactive entertainment division, offering cloud services tailored to game developers and operators. This segment is a meaningful contributor to revenue and plays to Kingsoft's historical strength in software and games. Some of Kingsoft's enterprise customers are game studios, which creates cross-selling opportunities.
 
-Kingsoft Cloud's gross margins on infrastructure services are substantial but compressed by competition. In periods when Alibaba or Tencent are aggressively pricing to gain market share, Kingsoft may feel pressure to follow, which squeezes margins. The company's operating margins have historically been thin or negative, reflecting the investment required to expand data centre capacity and the competitive pricing environment.
+Kingsoft Cloud's gross margins on infrastructure services are substantial but compressed by competition. In periods when Alibaba or Tencent are aggressively pricing to gain market share, Kingsoft may feel pressure to follow, which squeezes margins. The company's [operating margins](/operating-margin/) have historically been thin or negative, reflecting the investment required to expand data centre capacity and the competitive pricing environment.
 
 ## Pressures and strategic position
 
@@ -51,7 +51,7 @@ Kingsoft Cloud's primary constraint is competitive intensity. Alibaba Cloud and 
 
 The second pressure is regulatory. The Chinese government exercises significant control over cloud infrastructure and data flows. New regulations on data residency, foreign technology content, and privacy can shift the competitive landscape. Kingsoft must navigate these while remaining an independent entity, without the government backing that some rivals perceive themselves to have.
 
-Kingsoft Cloud is also exposed to the health of the Chinese economy and enterprise spending on technology. During periods of slower growth or deleveraging, enterprises reduce cloud spending or delay expansion. The company's growth is therefore correlated with the broader Chinese business cycle.
+Kingsoft Cloud is also exposed to the health of the Chinese economy and enterprise spending on technology. During periods of slower growth or deleveraging, enterprises reduce cloud spending or delay expansion. The company's growth is therefore correlated with the broader Chinese [business cycle](/business-cycle/).
 
 The company has delisted from NASDAQ and now trades over-the-counter, a sign that market-cap and trading volumes have declined or that Kingsoft management chose to delist for regulatory or operational reasons related to China. Over-the-counter trading is illiquid relative to exchange listing, which matters for equity investors.
 

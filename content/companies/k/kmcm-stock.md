@@ -31,7 +31,7 @@ Titan's capital structure—how much debt versus equity it carries—determines 
 
 ## Portfolio Composition and Diversification
 
-Titan's actual holdings determine its risk profile and return potential. If Titan owns five diversified, non-cyclical businesses in defensive sectors (utilities, [healthcare services](/hcsg-stock/), consumer staples distribution), its earnings and cash flow are relatively stable and predictable. If Titan owns a concentrated portfolio of acquisition targets in cyclical industries (construction, hospitality, manufacturing), its profitability swings widely with the economic cycle. Readers cannot assess Titan's unit economics without knowing what it owns.
+Titan's actual holdings determine its risk profile and return potential. If Titan owns five diversified, non-cyclical businesses in defensive sectors (utilities, healthcare services, consumer staples distribution), its earnings and cash flow are relatively stable and predictable. If Titan owns a concentrated portfolio of acquisition targets in cyclical industries (construction, hospitality, manufacturing), its profitability swings widely with the economic cycle. Readers cannot assess Titan's unit economics without knowing what it owns.
 
 The disclosure of portfolio companies in the 10-K is critical. Some holding companies disclose each subsidiary's revenue and operating income; others are opaque and report consolidated figures only. The more opaque the disclosure, the less certainty investors have about what they own and the greater the risk of hidden problems or deteriorating assets.
 

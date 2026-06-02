@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Nuveen Taxable Municipal Income Fund (ticker: NBB on the [New York Stock Exchange](/new-york-stock-exchange/)) is a closed-end fund managed by Nuveen, part of TIAA, a major asset manager. The fund buys and holds bonds issued by cities, counties, states, and other municipal authorities—debt that finances infrastructure, schools, water systems, and other public projects. Unlike traditional [municipal bonds](/municipal-bond/), which are exempt from federal income tax, the fund focuses specifically on taxable municipals, a category that appeals to tax-deferred accounts (like retirement plans) where the tax exemption offers no benefit.
+Nuveen Taxable Municipal [Income Fund](/income-fund/) (ticker: NBB on the [New York Stock Exchange](/new-york-stock-exchange/)) is a closed-end fund managed by Nuveen, part of TIAA, a major asset manager. The fund buys and holds [bonds](/bond/) issued by cities, counties, states, and other municipal authorities—debt that finances infrastructure, schools, water systems, and other public projects. Unlike traditional [municipal bonds](/municipal-bond/), which are exempt from federal income tax, the fund focuses specifically on taxable municipals, a category that appeals to tax-deferred accounts (like retirement plans) where the tax exemption offers no benefit.
 
 ## The core holdings: taxable municipal bonds
 
@@ -32,7 +32,7 @@ The fund targets a monthly distribution aimed at providing attractive current in
 
 ## Market-based and regulatory pressures
 
-The municipality is the debtor here; the fund and its shareholders are the creditors. Municipal credit depends on the financial health of the issuer. When a state or city faces [pension obligations](/pension-obligation/) it cannot meet, or when a school district loses a major tax base due to an economic downturn, its bonds may become risky. The Great Recession revealed that municipal credit was not as safe as many investors believed; some municipalities faced severe stress.
+The municipality is the debtor here; the fund and its shareholders are the creditors. Municipal credit depends on the financial health of the issuer. When a state or city faces [pension obligations](/pension-obligation/) it cannot meet, or when a school district loses a major tax base due to an economic downturn, its bonds may become risky. The Great [Recession](/recession/) revealed that municipal credit was not as safe as many investors believed; some municipalities faced severe stress.
 
 On the regulatory side, municipal securities are lightly regulated compared to [corporate bonds](/corporate-bond/). There is no mandatory disclosure from many issuers, and accounting standards vary widely. The fund's manager must thus do its own credit work to assess risk, which is one place where skilled management adds value.
 

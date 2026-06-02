@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The Pacer US Small Cap Cash Cows Growth Leaders ETF is designed for investors seeking small-cap growth without the volatility and losses that often accompany high-priced, cash-flow-negative tech startups. It applies a quantitative rule set to the broad universe of small-cap stocks, isolating companies that are already generating meaningful free cash flow while still growing revenue — a narrower slice than most growth funds, and one that has historically carried lower drawdown risk.*
+*The Pacer US Small Cap Cash Cows Growth Leaders ETF is designed for investors seeking small-cap growth without the volatility and losses that often accompany high-priced, cash-flow-negative tech startups. It applies a quantitative rule set to the broad universe of small-cap stocks, isolating companies that are already generating meaningful [free cash flow](/free-cash-flow/) while still growing revenue — a narrower slice than most [growth funds](/growth-fund/), and one that has historically carried lower drawdown risk.*
 
 > Small companies that are profitable and growing are rarer to find and easier to own than growth stories that bleed cash.
 
@@ -22,19 +22,19 @@ CAFG begins with the Morningstar US Small Cap Index, which represents the smalle
 
 The result is a subset of thirty to forty small-cap names — a much tighter basket than the broad small-cap index. These are not venture-stage startups or unprofitable growth stories; they are modest-sized operating companies that have already proven they can make money and are still expanding. They tend to be mature enough to withstand economic cycles but young or energetic enough to still grow.
 
-The style is sometimes called growth at a reasonable price or GARP — balancing the momentum of growth stocks with the valuation discipline of value screening. Small-cap companies with this combination are naturally less fashionable than mega-cap growth names and less defended than classic dividend plays, so they often trade at prices that reward patience.
+The style is sometimes called growth at a reasonable price or GARP — balancing the momentum of growth stocks with the valuation discipline of value screening. Small-cap companies with this combination are naturally less fashionable than mega-cap growth names and less defended than classic [dividend](/dividend/) plays, so they often trade at prices that reward patience.
 
 ## The small-cap advantage and its real risks
 
 Small-cap stocks as a category have historically delivered higher long-term returns than large caps, partly because they have more room to grow and partly because their equity is less liquid and thus commands a risk premium. That premium is real and substantial: small caps are more sensitive to economic slowdowns, more vulnerable to unexpected earnings surprises, and prone to longer downturns when the overall market corrects.
 
-CAFG's screening tilts the risk profile by selecting for profitability and cash generation, which tend to dampen volatility and drawdowns relative to the broad small-cap index. Companies that print free cash flow are less likely to face bankruptcy or severe distress during a recession. However, the screening does not eliminate small-cap risk; it narrows it. A reader holding CAFG should expect the fund to drop more in a market crash than a large-cap index ETF would, and to bounce back more slowly.
+CAFG's screening tilts the risk profile by selecting for profitability and cash generation, which tend to dampen volatility and drawdowns relative to the broad small-cap index. Companies that print free cash flow are less likely to face bankruptcy or severe distress during a [recession](/recession/). However, the screening does not eliminate small-cap risk; it narrows it. A reader holding CAFG should expect the fund to drop more in a market crash than a large-cap index ETF would, and to bounce back more slowly.
 
 Sector concentration is another real concern. Small-cap cash cows cluster in industrial goods, healthcare, business services, and specialised manufacturing — sectors where real profitability is achievable at modest scale. The fund will naturally underweight mega-cap growth sectors like software and semiconductors, and will miss any rally driven by those sectors. For a diversified investor, CAFG works best as part of a broader portfolio, not as the entire equity holding.
 
 ## Costs, rebalancing, and tracking
 
-CAFG carries an expense ratio in the mid single-digit range, meaningfully higher than a passive small-cap index ETF but justified by the active rebalancing required to maintain the free-cash-flow and growth screens. The fund trades with reasonable liquidity on Nasdaq, sufficient for most investors to buy and sell without significant slippage.
+CAFG carries an [expense ratio](/expense-ratio/) in the mid single-digit range, meaningfully higher than a passive small-cap index ETF but justified by the active rebalancing required to maintain the free-cash-flow and growth screens. The fund trades with reasonable liquidity on [Nasdaq](/nasdaq/), sufficient for most investors to buy and sell without significant slippage.
 
 The Morningstar-ruled selection is transparent and mechanical — published before the rebalancing happens, so investors can see exactly which companies will be added or removed. This transparency reduces the surprise risk that comes with subjective active management, though it does mean that sophisticated traders can front-run the rebalancing by trading ahead of it.
 

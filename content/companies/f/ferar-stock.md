@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Fifth Era Acquisition Corp I is a special purpose acquisition company—a blank check firm formed in March 2025 to identify and merge with a technology-enabled operating business. The company trades on Nasdaq under three symbols reflecting its unit structure: FERAU for units, FERA for the Class A ordinary shares, and FERAR for the warrant component. Fifth Era represents a mechanism by which private companies and their investors can access public markets without the traditional IPO process, while incumbent shareholders gain a diversified vehicle for deploying capital into emerging technology.
+Fifth Era [Acquisition](/acquisition/) Corp I is a special purpose acquisition company—a blank check firm formed in March 2025 to identify and merge with a technology-enabled operating business. The company trades on [Nasdaq](/nasdaq/) under three symbols reflecting its unit structure: FERAU for units, FERA for the Class A ordinary shares, and FERAR for the warrant component. Fifth Era represents a mechanism by which private companies and their investors can access public markets without the traditional IPO process, while incumbent shareholders gain a diversified vehicle for deploying capital into emerging technology.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,15 +27,15 @@ Fifth Era Acquisition Corp I is a special purpose acquisition company—a blank 
 
 ## How Fifth Era's Structure Works
 
-A SPAC like Fifth Era operates differently from traditional operating companies. Investors in the initial public offering purchased units at ten dollars each, with each unit consisting of one Class A ordinary share and one-tenth of a warrant to purchase an additional share at a future date. The underwriters and sponsors retained private placement shares and warrants. Fifth Era collected roughly two hundred thirty million dollars in gross proceeds and placed the vast majority into a trust account, where it sits in U.S. Treasury Bills earning modest interest while the board searches for a target business.
+A SPAC like Fifth Era operates differently from traditional operating companies. Investors in the [initial public offering](/initial-public-offering/) purchased units at ten dollars each, with each unit consisting of one Class A ordinary share and one-tenth of a warrant to purchase an additional share at a future date. The underwriters and sponsors retained [private placement](/private-placement/) shares and warrants. Fifth Era collected roughly two hundred thirty million dollars in gross proceeds and placed the vast majority into a trust account, where it sits in U.S. [Treasury Bills](/treasury-bill/) earning modest interest while the board searches for a target business.
 
-The warrant component—what trades under FERAR—gives holders the right to buy Class A shares at a preset price if the company completes a merger. Warrants are junior to the Class A shares in a liquidation, but they represent leverage: a ten-dollar warrant purchase becomes valuable if the combined entity's shares rise, and worthless if they fall below the strike price. This structure means warrant holders bear more risk than share holders but capture more upside if the merged company flourishes.
+The warrant component—what trades under FERAR—gives holders the right to buy Class A shares at a preset price if the company completes a [merger](/merger/). Warrants are junior to the Class A shares in a [liquidation](/liquidation/), but they represent leverage: a ten-dollar warrant purchase becomes valuable if the combined entity's shares rise, and worthless if they fall below the [strike price](/strike-price/). This structure means warrant holders bear more risk than share holders but capture more upside if the merged company flourishes.
 
 ## Investment Thesis and Sector Focus
 
 Fifth Era's stated thesis is that technology-enabled businesses across a wide spectrum—from internet and enterprise software to artificial intelligence, financial technology, and blockchain—represent durable opportunities for growth and value creation. The management team, led by Mitchell Mechigian as CEO and Matthew Le Merle as board chairman, carries operational experience from prior acquisitions and ventures.
 
-The company has until March 3, 2027 to consummate a merger. If it does not, public shareholders have the right to redeem their shares at roughly ten dollars each before the company liquidates. Sponsors and management retain their shares without redemption rights, meaning they absorb losses if no deal is completed, which theoretically aligns their interests with finding a genuine opportunity rather than a mediocre one.
+The company has until March 3, 2027 to consummate a merger. If it does not, public shareholders have the right to redeem their shares at roughly ten dollars each before the company liquidates. Sponsors and management retain their shares without [redemption rights](/redemption-rights-equity/), meaning they absorb losses if no deal is completed, which theoretically aligns their interests with finding a genuine opportunity rather than a mediocre one.
 
 ## The SPAC Risk and Reward
 

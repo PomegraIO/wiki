@@ -21,7 +21,7 @@ The catch is mechanical and relentless: RDTL rebalances to maintain exactly 2x l
 
 Imagine Reddit stock goes up 5 percent on day one, then down 5 percent on day two. The stock ends up at roughly the same price it started — a round trip with no net gain. RDTL does not. On day one it gains 10 percent (the 2x leverage). The fund now has more assets. On day two it loses 10 percent — but that 10 percent is applied to the larger base. A 10 percent loss on a base that is already 10 percent higher than the starting point is more dollars lost than the 10 percent gain produced. The math is brutal: an up move followed by an equal down move leaves a leveraged product underwater, even though the underlying stock is flat.
 
-Over weeks or months of ordinary trading chop, this volatility decay is not a small rounding error. A portfolio that swings up 3 percent one day, down 2 percent the next, sideways the third, will see RDTL bleed value continuously. The longer the holding period and the choppier the market, the worse the decay. In extreme cases, a stock that ends the year where it started can cause a 2x leveraged product to lose 30, 50, or more percent. This is not speculation or philosophy — it is the mathematical consequence of daily rebalancing a leveraged position into volatility.
+Over weeks or months of ordinary trading chop, this volatility decay is not a small rounding error. A portfolio that swings up 3 percent one day, down 2 percent the next, sideways the third, will see RDTL bleed value continuously. The longer the [holding period](/holding-period/) and the choppier the market, the worse the decay. In extreme cases, a stock that ends the year where it started can cause a 2x leveraged product to lose 30, 50, or more percent. This is not speculation or philosophy — it is the mathematical consequence of daily rebalancing a leveraged position into volatility.
 
 ## Who RDTL is actually designed for
 
@@ -31,7 +31,7 @@ For anyone else — holding it for a week, a month, or as part of a buy-and-hold
 
 ## Mechanics and costs
 
-RDTL is highly liquid, trading on the NASDAQ under its ticker throughout market hours. The expense ratio is quoted in the fund's prospectus and fact sheet, typically a fraction of a percent. The invisible costs are higher: the interest the fund pays on borrowed money, the bid-ask spreads it pays on daily rebalancing trades, and the frictions of constant portfolio adjustment. These costs do not appear in the headline expense ratio but are real and compound over time.
+RDTL is highly liquid, trading on the [NASDAQ](/nasdaq/) under its ticker throughout market hours. The [expense ratio](/expense-ratio/) is quoted in the fund's prospectus and fact sheet, typically a fraction of a percent. The invisible costs are higher: the interest the fund pays on borrowed money, the [bid-ask spreads](/bid-ask-spread/) it pays on daily rebalancing trades, and the frictions of constant portfolio adjustment. These costs do not appear in the headline expense ratio but are real and compound over time.
 
 ## Research and reality
 

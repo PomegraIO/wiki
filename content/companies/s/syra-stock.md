@@ -40,7 +40,7 @@ The second revenue stream is outpatient services—counseling, medication manage
 
 On the cost side, residential treatment is labor-intensive. A facility with 100 beds requires nursing staff, counselors, medical directors, administrative support, nutrition and food service, housekeeping, and security. Salaries typically represent 60–70% of total operating costs, and finding and retaining qualified staff—particularly counselors and nurses—is a chronic challenge. Skilled treatment staff are scarce, and competing employers (other treatment centers, hospitals, urgent care) bid for the same talent.
 
-The second major cost is facility operations: rent or facility debt, utilities, meals, supplies, laundry. The third is general overhead: insurance (malpractice and general liability), compliance staff, administrative payroll, and technology. A facility operating efficiently might achieve a 30–40% EBITDA margin (that is, 60–70% of revenue goes to costs), though this varies widely based on facility age, staffing model, payer mix, and occupancy.
+The second major cost is facility operations: rent or facility debt, utilities, meals, supplies, laundry. The third is general overhead: insurance (malpractice and general liability), compliance staff, administrative payroll, and technology. A facility operating efficiently might achieve a 30–40% [EBITDA margin](/ebitda-margin/) (that is, 60–70% of revenue goes to costs), though this varies widely based on facility age, staffing model, payer mix, and occupancy.
 
 ## Payer mix and the revenue-collection challenge
 
@@ -52,7 +52,7 @@ The payer mix matters enormously. A facility that is 60% commercial, 30% Medicai
 
 ## Growth and the capacity build
 
-Syra has grown partly through organic growth (filling existing facilities and improving occupancy and payer mix) and partly through acquisitions of existing treatment centers. Acquisitions are a natural growth strategy in a fragmented market—the company can acquire an underperforming facility, apply its operational playbook, improve management and staff, and increase occupancy and profitability. This is a standard roll-up strategy and works only if the acquirer can actually improve performance and if the acquisition prices are reasonable.
+Syra has grown partly through organic growth (filling existing facilities and improving occupancy and payer mix) and partly through [acquisitions](/acquisition/) of existing treatment centers. Acquisitions are a natural growth strategy in a fragmented market—the company can acquire an underperforming facility, apply its operational playbook, improve management and staff, and increase occupancy and profitability. This is a standard roll-up strategy and works only if the acquirer can actually improve performance and if the acquisition prices are reasonable.
 
 Organic growth is constrained by bed availability. Syra can only serve as many patients as it has capacity for, so expanding revenue requires either opening new facilities (capital-intensive and time-consuming) or increasing occupancy rates and per-diem rates at existing facilities (operationally improving what it already owns).
 
@@ -76,6 +76,6 @@ Examine occupancy trends. Are existing facilities reaching higher occupancy? Is 
 
 Watch for changes in the payer mix. An increasing proportion of Medicaid or other lower-paying payers compresses margins. Conversely, a shift toward commercial insurance, if accompanied by stable occupancy, improves economics.
 
-Track the company's EBITDA margins and assess labor costs as a percentage of revenue. Treatment is inherently labor-intensive, but improving operational efficiency should drive gradual margin expansion. Stable or declining margins suggest wage pressure or other cost inflation that pricing is not offsetting.
+Track the company's [EBITDA](/ebitda/) margins and assess labor costs as a percentage of revenue. Treatment is inherently labor-intensive, but improving operational efficiency should drive gradual margin expansion. Stable or declining margins suggest wage pressure or other cost [inflation](/inflation/) that pricing is not offsetting.
 
 Finally, monitor utilization metrics and patient outcomes. The number of bed-days available, the number filled, and the average length of stay all affect revenue and cost. Outcome metrics—patient retention, relapse rates, employment post-treatment—drive referral volume and payer relationships. A facility with strong outcomes is valued by insurers and employers; a facility with poor outcomes faces referral declines and reimbursement pressure.

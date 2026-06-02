@@ -29,13 +29,13 @@ Standard Dental Labs Inc. (OTCQB: TUTH) is a dental laboratory consolidator in e
 
 Dentistry is a tiered industry. At the top are the dental offices and corporate chains where patients sit in chairs. Below them is the laboratory tier—the craftspeople who actually manufacture the crowns, bridges, implants, and dentures that dentists design and specify. This lab tier has historically been highly fragmented: thousands of small independent labs, usually run by one or two experienced technicians and an owner, often serving a regional or even local clientele of dentists. The economics of a single lab are sound—margins are respectable if volume is steady and the owner is skilled—but the business has remained stuck at the artisanal scale for decades.
 
-TUTH's thesis is that this fragmentation is now vulnerable to consolidation. Independent labs face persistent headwinds: raw material cost inflation, rising technology costs (digital scanning, CAD-CAM milling systems, 3D printers), difficulty recruiting and retaining skilled technicians in a tight labor market, and increasing pressure from dentists demanding faster turnaround times and broader capabilities. A single-site owner cannot easily absorb these costs or invest in new technologies. A network of labs, pooling procurement, sharing technology investments, and operating standardized processes, can.
+TUTH's thesis is that this fragmentation is now vulnerable to consolidation. Independent labs face persistent headwinds: raw material cost [inflation](/inflation/), rising technology costs (digital scanning, CAD-CAM milling systems, 3D printers), difficulty recruiting and retaining skilled technicians in a tight labor market, and increasing pressure from dentists demanding faster turnaround times and broader capabilities. A single-site owner cannot easily absorb these costs or invest in new technologies. A network of labs, pooling procurement, sharing technology investments, and operating standardized processes, can.
 
 ## What TUTH owns and operates
 
 TUTH began as an operating company in August 2022 when it acquired the operating assets of Prime Dental Lab LLC, a dental laboratory in Orlando. Prime produces the full range of dental restorations: crowns (both porcelain-fused-to-metal and all-ceramic), bridges, implant abutments and crowns, veneers, partial and full dentures, and custom orthodontic appliances. The lab serves Florida dentists, both solo practitioners and small group practices.
 
-From that starting point, TUTH has been building a pipeline. The company announced in 2024 that it had signed letters of intent to acquire five additional Florida-based dental labs and was actively exploring more than 20 additional acquisition targets, with the stated target of assembling 20+ labs capable of generating over $20 million in annualized revenue.
+From that starting point, TUTH has been building a pipeline. The company announced in 2024 that it had signed letters of intent to acquire five additional Florida-based dental labs and was actively exploring more than 20 additional [acquisition](/acquisition/) targets, with the stated target of assembling 20+ labs capable of generating over $20 million in annualized revenue.
 
 ## The consolidation playbook
 
@@ -49,7 +49,7 @@ The dental lab consolidation story is not new. Previous attempts to scale dental
 
 TUTH faces execution risk. Integrating ten independent labs while preserving their craftsmanship and relationships is harder than acquiring them. Dentists are sticky—they have strong relationships with their existing labs and are slow to switch—so growth depends on the acquired labs retaining their customer bases through the transition. If turnover of key technicians accelerates post-acquisition, or if customers defect to maintain relationships with the original owners, the roll-up thesis collapses.
 
-There is also market timing risk. TUTH is raising capital to fund acquisitions. If the market for dental services softens, or if the rate environment makes it harder to finance acquisitions, the growth pipeline could slow sharply.
+There is also [market timing](/market-timing/) risk. TUTH is raising capital to fund acquisitions. If the market for dental services softens, or if the rate environment makes it harder to finance acquisitions, the growth pipeline could slow sharply.
 
 ## How to research Standard Dental Labs
 

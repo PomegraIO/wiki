@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Vicarious Surgical is attempting to disrupt the market for robotic surgical systems, which is currently dominated by one name: Intuitive Surgical and its da Vinci platform. That domination is not absolute — other players exist — but Intuitive's machine was first, has a vast installed base, and captures the bulk of the market. Vicarious is trying to build an alternative.
+Vicarious Surgical is attempting to disrupt the market for robotic surgical systems, which is currently dominated by one name: [Intuitive Surgical](/isrg-stock/) and its da Vinci platform. That domination is not absolute — other players exist — but Intuitive's machine was first, has a vast installed base, and captures the bulk of the market. Vicarious is trying to build an alternative.
 
 The premise is straightforward. Intuitive's system uses master-slave architecture where the surgeon sits at a console moving mechanical arms while camera feeds show the operative field. It works well. But the mechanics are complex and the training required is substantial. Vicarious's approach is different: it uses virtual-reality headsets instead of a dedicated console, a more intuitive control scheme meant to feel closer to what a surgeon already knows how to do, and claims greater simplicity in the mechanics underneath.
 

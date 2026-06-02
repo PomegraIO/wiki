@@ -4,7 +4,7 @@ description: "Clinical-stage AI-driven diagnostics company targeting underserved
 keywords: ["healthcare technology", "diagnostic AI", "emerging markets", "medical devices", "Latin America"]
 ---
 
-*A clinical-stage diagnostic company, **LataMed AI Corp. (LMED)**, develops artificial intelligence–powered imaging and laboratory analysis tools designed to improve clinical decision-making in Latin [American healthcare](/ahr-stock/) systems where specialists and diagnostic infrastructure are geographically sparse. The company's strategy centers on making sophisticated diagnostic capability accessible to primary-care and mid-tier clinics where traditional [stock](/stock/) investors often overlook an entire category of underserved operators.*
+*A clinical-stage diagnostic company, **LataMed AI Corp. (LMED)**, develops artificial intelligence–powered imaging and laboratory analysis tools designed to improve clinical decision-making in Latin American healthcare systems where specialists and diagnostic infrastructure are geographically sparse. The company's strategy centers on making sophisticated diagnostic capability accessible to primary-care and mid-tier clinics where traditional [stock](/stock/) investors often overlook an entire category of underserved operators.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>LMED</td></tr>
@@ -39,7 +39,7 @@ Examine the company's regulatory filings, partnership agreements with hospitals,
 
 LataMed's concentration in Latin America is both its thesis and its vulnerability. Economic downturns, healthcare privatization, and shifts in national insurance policies affect adoption and pricing power. Brazil and Mexico account for a large share of regional healthcare spending, but both face periodic budget cuts and [currency volatility](/currency-volatility/). If a major partner system reduces IT spending or renegotiates contracts, revenue can shift rapidly.
 
-[Currency risk](/currency-risk/) is structural: LataMed likely earns revenue in Mexican pesos, Brazilian reals, and Colombian pesos, then reports in U.S. dollars. Unfavorable FX movements compress reported [gross-profit-margin](/gross-profit-margin/) without any change in operational performance.
+[Currency risk](/currency-risk/) is structural: LataMed likely earns revenue in Mexican pesos, Brazilian reals, and Colombian pesos, then reports in [U.S. dollars](/us-dollar/). Unfavorable FX movements compress reported [gross-profit-margin](/gross-profit-margin/) without any change in operational performance.
 
 ## Capital Intensity and Path to Profitability
 

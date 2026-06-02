@@ -13,7 +13,7 @@ handwritten: true
 
 ## What Is Arcadia Biosciences?
 
-Arcadia Biosciences, Inc. (Nasdaq: RKDA) is a publicly traded company headquartered in Davis, California that has undergone a radical business transformation. The company began as an agricultural biotechnology firm focused on developing improved crop traits — fundamentally, it was a seed company with a biotech twist. Today, Arcadia operates primarily as a consumer packaged goods company selling Zola coconut water to retail consumers. This shift from business-to-business agriculture into direct-to-consumer beverages is one of the most dramatic pivots any public agricultural biotech company has undertaken.
+Arcadia Biosciences, Inc. ([Nasdaq](/nasdaq/): RKDA) is a publicly traded company headquartered in Davis, California that has undergone a radical business transformation. The company began as an agricultural biotechnology firm focused on developing improved crop traits — fundamentally, it was a seed company with a biotech twist. Today, Arcadia operates primarily as a consumer packaged goods company selling Zola coconut water to retail consumers. This shift from business-to-business agriculture into direct-to-consumer beverages is one of the most dramatic pivots any public agricultural biotech company has undertaken.
 
 ## The Origins: Crop Traits
 
@@ -27,7 +27,7 @@ This business model was sound in theory but proved difficult in execution. Agric
 
 Rather than persist in a low-margin, slow-moving agricultural market, Arcadia made a bold choice. The company acquired Zola, a coconut water brand, and began building direct consumer relationships through retail channels. Coconut water is a beverage category that exploded in popularity in the 2010s and early 2020s — consumers view it as a natural, electrolyte-rich alternative to sports drinks and sugary beverages. Zola positioned itself in the premium segment, with cold-pressed products and clean-label messaging.
 
-The Zola acquisition proved far more successful commercially than Arcadia's legacy crop-traits business. Revenue from Zola climbed steadily, and the brand achieved shelf space in major retailers. In the first nine months of 2025, Zola revenue grew 26% year-over-year, and the product maintained gross margins above 30% for eleven consecutive quarters — a remarkable consistency for a consumer packaged goods business.
+The Zola [acquisition](/acquisition/) proved far more successful commercially than Arcadia's legacy crop-traits business. Revenue from Zola climbed steadily, and the brand achieved shelf space in major retailers. In the first nine months of 2025, Zola revenue grew 26% year-over-year, and the product maintained gross margins above 30% for eleven consecutive quarters — a remarkable consistency for a consumer packaged goods business.
 
 ## Exit from Agriculture
 
@@ -43,13 +43,13 @@ For Arcadia, operating Zola is fundamentally different from operating a crop-tra
 
 ## The Pending Business Combination
 
-In 2025, Arcadia announced a pending business combination with Roosevelt Resources. Under the terms, Roosevelt partners were expected to own approximately 90% of the combined entity post-combination, fundamentally changing the investment profile and control structure. This transaction signals that Arcadia's current shareholders would see their ownership substantially diluted, though the details of the combination — whether Arcadia shareholders receive cash, stock in the combined entity, or some combination — would determine whether the deal is fair value.
+In 2025, Arcadia announced a pending [business combination](/business-combination-purchase/) with Roosevelt Resources. Under the terms, Roosevelt partners were expected to own approximately 90% of the combined entity post-combination, fundamentally changing the investment profile and control structure. This transaction signals that Arcadia's current shareholders would see their ownership substantially diluted, though the details of the combination — whether Arcadia shareholders receive cash, stock in the combined entity, or some combination — would determine whether the deal is [fair value](/fair-value/).
 
 The rationale for such a transaction is unclear from the public disclosures reviewed. Possible explanations include that Roosevelt Resources has strategic or operational resources (supply chain, manufacturing, distribution) that would accelerate Zola's growth, or that Roosevelt is acquiring Arcadia primarily for its Zola brand, intending to integrate it into a larger consumer goods operation. The combination also gives Arcadia additional capital and potentially access to Roosevelt's operational network.
 
 ## Questions for Investors
 
-The critical question for investors is whether Zola can sustain its growth trajectory and profitability as a standalone consumer brand. Coconut water is a mature category with established competitors, including larger players like Vita Coco. Arcadia's shift from technology company to consumer goods company requires mastery of entirely different skills: retail marketing, supply chain management, consumer preferences, and competitive pricing.
+The critical question for investors is whether Zola can sustain its growth trajectory and profitability as a standalone consumer brand. Coconut water is a mature category with established competitors, including larger players like [Vita Coco](/coco-stock/). Arcadia's shift from technology company to consumer goods company requires mastery of entirely different skills: retail marketing, supply chain management, consumer preferences, and competitive pricing.
 
 The pending business combination with Roosevelt Resources introduces uncertainty about the future ownership and strategic direction of the company. Until the transaction closes, shareholders face both the opportunity that the combination will accelerate growth and the risk that their ownership stake will be substantially diluted.
 

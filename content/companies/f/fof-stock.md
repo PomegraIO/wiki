@@ -26,7 +26,7 @@ handwritten: true
 
 </aside>
 
-The appeal of this structure is multi-layered. A typical investor might struggle to research and select among the hundreds of publicly traded closed-end funds available. [Cohen &](/cohn-stock/) Steers' team performs that research and creates a concentrated portfolio of what it views as the most attractive opportunities at any given time. By holding a mix of closed-end funds — some focused on equities, others on bonds, real estate, utilities, or alternatives — the FOF fund gains built-in [diversification](/diversification/) without requiring an investor to pick individual fund shares themselves.
+The appeal of this structure is multi-layered. A typical investor might struggle to research and select among the hundreds of publicly traded closed-end funds available. Cohen & Steers' team performs that research and creates a concentrated portfolio of what it views as the most attractive opportunities at any given time. By holding a mix of closed-end funds — some focused on equities, others on bonds, real estate, utilities, or alternatives — the FOF fund gains built-in [diversification](/diversification/) without requiring an investor to pick individual fund shares themselves.
 
 ## How a fund of funds works in practice
 

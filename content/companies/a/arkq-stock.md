@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The ARK Autonomous Technology & Robotics ETF (NASDAQ: ARKQ) is ARK Invest's specialized fund for the theme of autonomous systems and robotics — companies that build the machines, sensors, software, and supporting infrastructure that enable physical systems to operate without direct human control. Unlike the broader ARK Innovation ETF, ARKQ narrows the aperture to a single high-conviction thesis: that automation and robotics will reshape manufacturing, logistics, transportation, and labor productivity over the coming decade, and that investors should concentrate in the businesses powering that transition.
+The ARK Autonomous Technology & Robotics ETF ([NASDAQ](/nasdaq/): ARKQ) is ARK Invest's specialized fund for the theme of autonomous systems and robotics — companies that build the machines, sensors, software, and supporting infrastructure that enable physical systems to operate without direct human control. Unlike the broader ARK Innovation ETF, ARKQ narrows the aperture to a single high-conviction thesis: that automation and robotics will reshape manufacturing, logistics, transportation, and [labor productivity](/labor-productivity/) over the coming decade, and that investors should concentrate in the businesses powering that transition.
 
 ARKQ is actively managed by ARK's research team, which means it rebalances frequently and makes directional bets within the robotics and automation space. The portfolio typically holds 30 to 50 holdings, concentrated enough that individual positions carry weight but diversified across the ecosystem of suppliers, manufacturers, and software platforms that comprise the autonomous-systems value chain.
 
@@ -37,7 +37,7 @@ ARKQ also owns companies developing new materials, novel manufacturing processes
 
 ## Structure, costs, and liquidity
 
-ARKQ trades on NASDAQ like any stock and can be bought or sold in real time during market hours. As an actively managed ETF, its expense ratio is roughly 0.75 percent annually, reflecting the cost of ARK's research team, frequent rebalancing, and active decision-making. The fund's assets are substantial, so liquidity is high and trading spreads are tight.
+ARKQ trades on NASDAQ like any stock and can be bought or sold in real time during market hours. As an actively managed ETF, its [expense ratio](/expense-ratio/) is roughly 0.75 percent annually, reflecting the cost of ARK's research team, frequent rebalancing, and active decision-making. The fund's assets are substantial, so liquidity is high and trading spreads are tight.
 
 Because ARKQ concentrates on a narrower theme than the broader ARKK, it carries higher volatility. A year in which investors flee growth stocks or believe automation is oversold can hit ARKQ harder than a diversified fund; conversely, years in which robotics and autonomous systems are in favour can deliver outsized gains.
 

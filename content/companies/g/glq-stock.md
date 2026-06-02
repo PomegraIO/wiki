@@ -50,7 +50,7 @@ The [board of directors](/board-of-directors/) appoints the investment manager a
 
 ## Risk factors
 
-The fund's returns depend on stock-market performance globally and the skill of its managers in stock selection. International investments carry [currency risk](/currency-risk/): a strong [US dollar](/us-dollar/) reduces returns from overseas holdings when converted back to dollars. Leverage, if used, amplifies both gains and losses. A recession or market downturn affects equities broadly, and the fund's value drops along with the stocks it holds.
+The fund's returns depend on stock-market performance globally and the skill of its managers in stock selection. International investments carry [currency risk](/currency-risk/): a strong [US dollar](/us-dollar/) reduces returns from overseas holdings when converted back to dollars. Leverage, if used, amplifies both gains and losses. A [recession](/recession/) or market downturn affects equities broadly, and the fund's value drops along with the stocks it holds.
 
 ## Researching Clough Global Equity Fund
 

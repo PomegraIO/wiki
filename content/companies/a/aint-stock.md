@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **FINQ Dollar Neutral U.S. Large Cap AI-Managed Equity ETF** (AINT) is an actively managed exchange-traded fund that uses machine-learning algorithms to select U.S. large-cap stocks and then neutralizes any currency exposure through hedging. The "dollar neutral" part means the fund's value is protected against swings in the U.S. dollar relative to other currencies — making it suitable for international investors or those concerned about currency fluctuations.*
+*The **FINQ Dollar Neutral U.S. Large Cap AI-Managed [Equity ETF](/equity-etf/)** (AINT) is an actively managed exchange-traded fund that uses machine-learning algorithms to select U.S. large-cap stocks and then neutralizes any currency exposure through hedging. The "dollar neutral" part means the fund's value is protected against swings in the [U.S. dollar](/us-dollar/) relative to other currencies — making it suitable for international investors or those concerned about currency fluctuations.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,11 +27,11 @@ handwritten: true
 
 ### What does "dollar neutral" mean?
 
-When you invest in U.S. stocks from abroad, or when you hold foreign assets denominated in another country's currency, you face two risks: the risk that the stocks move, and the risk that the currency moves. If U.S. stocks rise 10 percent but the U.S. dollar weakens 5 percent against your home currency, your actual gain in home-currency terms is only about 4.5 percent. AINT hedges away the currency risk using forward contracts and currency swaps, so the fund's performance reflects the U.S. stock moves alone, without the currency noise. For a U.S. investor, this is largely academic — the dollar is already their home currency — but for international investors, it isolates equity selection from forex volatility.
+When you invest in U.S. stocks from abroad, or when you hold foreign assets denominated in another country's currency, you face two risks: the risk that the stocks move, and the risk that the currency moves. If U.S. stocks rise 10 percent but the U.S. dollar weakens 5 percent against your home currency, your actual gain in home-currency terms is only about 4.5 percent. AINT hedges away the [currency risk](/currency-risk/) using [forward contracts](/forward-contract/) and currency swaps, so the fund's performance reflects the U.S. stock moves alone, without the currency noise. For a U.S. investor, this is largely academic — the dollar is already their home currency — but for international investors, it isolates equity selection from forex volatility.
 
 ### How does AINT select stocks?
 
-AINT uses machine-learning models to rank and choose large-cap U.S. companies expected to outperform. The algorithm likely ingests financial data, market price history, earnings trends, and potentially alternative data sources to identify stocks with favorable risk-adjusted return prospects. Because the fund focuses on large-cap stocks, it narrows its universe to the 500 or so largest U.S. companies by market capitalization — the most liquid and heavily researched part of the market. Within that universe, the algorithm makes active bets by overweighting attractive stocks and underweighting or excluding those it views as less promising.
+AINT uses machine-learning models to rank and choose large-cap U.S. companies expected to outperform. The algorithm likely ingests financial data, market price history, earnings trends, and potentially alternative data sources to identify stocks with favorable risk-adjusted return prospects. Because the fund focuses on large-cap stocks, it narrows its universe to the 500 or so largest U.S. companies by [market capitalization](/market-capitalization/) — the most liquid and heavily researched part of the market. Within that universe, the algorithm makes active bets by overweighting attractive stocks and underweighting or excluding those it views as less promising.
 
 The specific models and features used in the AI system are proprietary, so investors cannot reverse-engineer the decision-making. What matters in practice is whether the algorithm has generated outperformance after fees over a meaningful track record.
 
@@ -41,7 +41,7 @@ AINT does not disclose a static holdings list because the portfolio changes as t
 
 ### What are the costs?
 
-AINT carries an expense ratio reflecting both the cost of managing the fund and the expense of maintaining the currency hedge. Currency hedging is not free — it requires continuous buying and selling of forward contracts, which incurs costs and can create tracking differences. The total cost of AINT is likely higher than a passive large-cap index fund but within the range of actively managed large-cap equity funds.
+AINT carries an [expense ratio](/expense-ratio/) reflecting both the cost of managing the fund and the expense of maintaining the currency hedge. [Currency hedging](/currency-hedging/) is not free — it requires continuous buying and selling of forward contracts, which incurs costs and can create tracking differences. The total cost of AINT is likely higher than a passive large-cap [index fund](/index-fund/) but within the range of actively managed large-cap equity funds.
 
 ### Who benefits from this structure?
 
@@ -53,4 +53,4 @@ This is the critical question. Any investor considering AINT should examine its 
 
 ### How to research AINT
 
-Start with the fund prospectus and fact sheet on FINQ's website. Examine the performance history relative to the S&P 500 and the Nasdaq-100, both gross and after fees. Understand the current holdings and sector weightings. Research how the currency hedge is implemented and what it has cost in practice. Compare AINT to other AI-managed U.S. large-cap funds without hedging to understand the added value (or cost) of the dollar-neutral feature. If international exposure matters to you, ask whether the hedging approach makes economic sense versus holding an unhedged fund and managing currency separately. Finally, assess whether algorithmic management of large-cap stocks — where the companies are already heavily researched and efficiently priced — is likely to produce persistent outperformance, or whether skill is harder to find in this universe than elsewhere.
+Start with the [fund prospectus](/fund-prospectus/) and fact sheet on FINQ's website. Examine the performance history relative to the S&P 500 and the Nasdaq-100, both gross and after fees. Understand the current holdings and sector weightings. Research how the currency hedge is implemented and what it has cost in practice. Compare AINT to other AI-managed U.S. large-cap funds without hedging to understand the added value (or cost) of the dollar-neutral feature. If international exposure matters to you, ask whether the hedging approach makes economic sense versus holding an unhedged fund and managing currency separately. Finally, assess whether algorithmic management of large-cap stocks — where the companies are already heavily researched and efficiently priced — is likely to produce persistent outperformance, or whether skill is harder to find in this universe than elsewhere.

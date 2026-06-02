@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Freddie Mac issued multiple series of preferred stock as part of its capital-raising efforts and, later, as government intervention stabilized its balance sheet. FMCKP represents one of the persistent preferred share classes in the company's capital structure. Preferred shares sit between debt and common equity: they carry a fixed dividend payment (when the company chooses to pay), take priority over common stock in both dividends and liquidation, but have no voting rights and no claim on profits beyond the stated dividend rate.
+[Freddie Mac](/freddie-mac/) issued multiple series of [preferred stock](/preferred-stock/) as part of its capital-raising efforts and, later, as government intervention stabilized its [balance sheet](/balance-sheet/). FMCKP represents one of the persistent preferred share classes in the company's capital structure. Preferred shares sit between debt and common equity: they carry a fixed [dividend](/dividend/) payment (when the company chooses to pay), take priority over [common stock](/common-stock/) in both dividends and [liquidation](/liquidation/), but have no [voting rights](/voting-rights/) and no claim on profits beyond the stated dividend rate.
 
 The preferred shares are products of two distinct periods in the company's history: some were issued in the pre-crisis years when Freddie Mac was a genuinely private enterprise trying to raise capital, and others were created or restructured during the 2008 crisis and the government bailout that followed. Understanding FMCKP means understanding both the company's old capital-raising logic and the post-crisis reshape.
 
@@ -29,7 +29,7 @@ Unlike common shares, which have received no dividends since conservatorship beg
 
 ## The capital structure today
 
-Freddie Mac's preferred shares today come in multiple series, often identified by letters (Series S, Series T, etc.) or by their interest rate (e.g., 6% Series A). Each series has slightly different terms: a stated dividend rate, a call price (the price at which Freddie Mac can buy them back), and sometimes redemption or conversion features. The key distinction is that these are real securities with legal rights and observable market values, even though common equity has been frozen by conservatorship.
+Freddie Mac's preferred shares today come in multiple series, often identified by letters (Series S, Series T, etc.) or by their [interest rate](/interest-rate/) (e.g., 6% Series A). Each series has slightly different terms: a stated dividend rate, a call price (the price at which Freddie Mac can buy them back), and sometimes redemption or conversion features. The key distinction is that these are real securities with legal rights and observable market values, even though common equity has been frozen by conservatorship.
 
 The preferred shares trade in public markets, and their prices reflect both the fixed dividend they pay and the market's estimate of Freddie Mac's long-term solvency. In stable years when Freddie Mac is profitable, the preferred shares tend to trade near their call price or slightly below (because if the stock price rises, Freddie Mac can call them back at a fixed price, capping the upside). In years of stress or when conservatorship news is negative, they trade at discounts as investors worry about the company's ability to pay the dividend or fear that a restructuring could haircut the preferred.
 
@@ -45,13 +45,13 @@ In terms of voting and control, preferred shareholders have none. They do not el
 
 The largest risk to FMCKP holders is the unresolved future of the conservatorship. If Freddie Mac remains in conservatorship indefinitely, preferred dividends will continue as long as the company is profitable — and the company's capital position is now sufficiently strong that continued profitability is the base case. But if the conservatorship ends and the company is released back to private control, or if the government restructures Freddie Mac or merges it with another entity, preferred shares could face haircuts, restructuring, or loss of the dividend.
 
-Another risk is interest-rate sensitivity. When rates rise, new preferred shares issued by others become more attractive to investors (they offer higher yields). Existing preferred shares with older, lower rates trade at discounts. Conversely, when rates fall, older preferred shares become valuable. But this is a market-price risk, not a credit risk — the dividend payment remains the same.
+Another risk is interest-rate sensitivity. When rates rise, new preferred shares issued by others become more attractive to investors (they offer higher yields). Existing preferred shares with older, lower rates trade at discounts. Conversely, when rates fall, older preferred shares become valuable. But this is a market-price risk, not a [credit risk](/credit-risk/) — the dividend payment remains the same.
 
 A third risk is common to all preferreds: they are longer-duration securities with no maturity date, so their prices move substantially with interest-rate changes. An investor holding FMCKP through a period of rising rates will see the market value decline, even if the dividend is paid reliably.
 
 ## Who holds preferred shares and why
 
-Preferred shares are typically held by income investors, often institutional players such as insurance companies, endowments, and bond-focused mutual funds. They are seeking the fixed dividend income with less credit risk than common stock. Some investors also hold Freddie Mac preferred shares as part of a broader bet that the company will be released from conservatorship, which could trigger a sharp revaluation upward as common equity begins to accrue value again.
+Preferred shares are typically held by income investors, often institutional players such as insurance companies, endowments, and bond-focused [mutual funds](/mutual-fund/). They are seeking the fixed dividend income with less credit risk than common stock. Some investors also hold Freddie Mac preferred shares as part of a broader bet that the company will be released from conservatorship, which could trigger a sharp revaluation upward as common equity begins to accrue value again.
 
 The preferred shares can also be attractive to investors who expect rates to stay stable or fall — in those scenarios, the stable dividend becomes more valuable relative to other investments, and prices appreciate.
 
@@ -65,4 +65,4 @@ Track Freddie Mac's capital ratios, which are reported quarterly. As capital bui
 
 Follow conservatorship news in financial and policy press. Any legislative or regulatory motion toward releasing Freddie Mac would be a major catalyst for preferred share prices, likely positive.
 
-Lastly, compare the yield on FMCKP to yields on other preferred shares and high-grade bonds. If Freddie Mac preferred trades at an unusual discount to its peers, it suggests the market is pricing in risk — worth investigating whether that fear is justified or an opportunity.
+Lastly, compare the yield on FMCKP to yields on other preferred shares and high-grade [bonds](/bond/). If Freddie Mac preferred trades at an unusual discount to its peers, it suggests the market is pricing in risk — worth investigating whether that fear is justified or an opportunity.

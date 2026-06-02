@@ -17,13 +17,13 @@ Saker Aviation Services, Inc. (OTC: SKAS) has its roots in the specialized world
 
 Saker was established to serve the expanding needs of airlines and aircraft operators for specialized maintenance services. In the immediate post-war period and through the 1960s, the commercial aviation industry was growing rapidly as jet aircraft replaced propeller-driven planes and air travel became more accessible and affordable. Airlines needed dedicated maintenance contractors because in-house maintenance was expensive and specialized, and because regulatory requirements were becoming more stringent and specific.
 
-The company positioned itself as an independent MRO — neither owned by an aircraft manufacturer (like Boeing or Lockheed) nor by a major airline. This independence was both opportunity and constraint: opportunity because airlines preferred not to depend on their suppliers for maintenance, and constraint because the company lacked the vertical integration and capital resources of larger players.
+The company positioned itself as an independent MRO — neither owned by an aircraft manufacturer (like [Boeing](/ba-stock/) or Lockheed) nor by a major airline. This independence was both opportunity and constraint: opportunity because airlines preferred not to depend on their suppliers for maintenance, and constraint because the company lacked the vertical integration and capital resources of larger players.
 
 ## Evolution through the commercial aviation cycle
 
-Through the 1970s and 1980s, Saker would have expanded with commercial aviation's growth, investing in facilities, tooling, and skilled labor. The MRO business in this era was capital-intensive but relatively stable: airlines were required to perform scheduled maintenance at set intervals, and those maintenance checks were predictable revenue. The company likely grew by building facilities (hangars, test equipment) and hiring skilled technicians, all funded through operating cash flow from maintenance contracts and possibly some debt financing.
+Through the 1970s and 1980s, Saker would have expanded with commercial aviation's [growth, investing](/growth-investing/) in facilities, tooling, and skilled labor. The MRO business in this era was capital-intensive but relatively stable: airlines were required to perform scheduled maintenance at set intervals, and those maintenance checks were predictable revenue. The company likely grew by building facilities (hangars, test equipment) and hiring skilled technicians, all funded through operating cash flow from maintenance contracts and possibly some [debt financing](/debt-financing/).
 
-The 1990s brought consolidation pressures. Larger, well-capitalized firms began acquiring smaller MRO providers, creating regional and national networks that could serve multiple airlines and aircraft types from a central location. Saker likely faced a choice: remain independent and focused on a specific niche or aircraft type, or seek a buyer or merger partner. The company navigated these pressures by adapting its service offerings and possibly adding new aircraft platforms or service lines.
+The 1990s brought consolidation pressures. Larger, well-capitalized firms began acquiring smaller MRO providers, creating regional and national networks that could serve multiple airlines and aircraft types from a central location. Saker likely faced a choice: remain independent and focused on a specific niche or aircraft type, or seek a buyer or [merger](/merger/) partner. The company navigated these pressures by adapting its service offerings and possibly adding new aircraft platforms or service lines.
 
 ## The modern structure: specialized services and capital constraints
 
@@ -57,17 +57,17 @@ As aviation traffic recovered, Saker benefited from pent-up maintenance demand. 
 
 Saker operates in an industry increasingly dominated by very large providers. Lufthansa Technik, Singapore Airlines Engineering, Gwinnett Aviation, and other global giants dwarf Saker in scale, which means Saker must compete through specialization, superior service to a specific niche, or geographic advantage. The company's long history and customer relationships are assets, but they are not sufficient to guarantee survival if larger competitors can offer similar services more cheaply or with greater convenience.
 
-The OTC market status (trading as SKAS on over-the-counter markets rather than on a major exchange like NASDAQ) suggests the company is smaller and less liquid than large public companies, which makes raising capital more difficult and more expensive.
+The OTC market status (trading as SKAS on [over-the-counter markets](/over-the-counter-market/) rather than on a major exchange like [NASDAQ](/nasdaq/)) suggests the company is smaller and less liquid than large public companies, which makes raising capital more difficult and more expensive.
 
 ## Capital allocation and shareholder returns
 
-As a smaller MRO provider, Saker likely reinvests most operating cash flow into maintaining and upgrading facilities, training technicians, and acquiring specialized equipment. There is probably little room for dividend payments or buybacks unless the company achieves exceptional profitability. The shareholder return thesis is likely that the company will either reach sufficient scale and profitability to generate dividends, or be acquired by a larger MRO company seeking to expand its geographic or service footprint.
+As a smaller MRO provider, Saker likely reinvests most operating cash flow into maintaining and upgrading facilities, training technicians, and acquiring specialized equipment. There is probably little room for [dividend](/dividend/) payments or buybacks unless the company achieves exceptional profitability. The shareholder return thesis is likely that the company will either reach sufficient scale and profitability to generate dividends, or be acquired by a larger MRO company seeking to expand its geographic or service footprint.
 
-The company's debt level is important to understand. High debt relative to operating cash flow creates refinancing risk; low or moderate debt provides flexibility for investment or acquisition opportunities.
+The company's debt level is important to understand. High debt relative to operating cash flow creates [refinancing risk](/refinancing-risk/); low or moderate debt provides flexibility for investment or [acquisition](/acquisition/) opportunities.
 
 ## Researching Saker Aviation
 
-Anyone studying the company should review the most recent 10-K (SEC CIK 0001128281) with attention to several key metrics. The revenue trend and backlog indicate whether the company is winning or losing market share. Gross margins and operating margins show whether the company is managing costs effectively. Cash flow from operations minus capital expenditures reveals how much free cash flow the business generates — and whether it is sustainable.
+Anyone studying the company should review the most recent 10-K (SEC CIK 0001128281) with attention to several key metrics. The revenue trend and backlog indicate whether the company is winning or losing market share. Gross margins and [operating margins](/operating-margin/) show whether the company is managing costs effectively. Cash flow from operations minus capital expenditures reveals how much [free cash flow](/free-cash-flow/) the business generates — and whether it is sustainable.
 
 Also track aviation-industry indicators. A cyclical downturn in air traffic, fuel prices, or airline profitability can cascade into reduced maintenance demand and margin pressure. Conversely, strong airline economics and aircraft fleet expansion drive demand for MRO services.
 

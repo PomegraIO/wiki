@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-Toronto Dominion Bank (TD) stands as one of North America's largest [financial institutions](/fisi-stock/), rooted in a [merger](/merger/) that reshaped Canadian banking in 1955. The combination of the Dominion Bank and the Toronto-Dominion Bank created a powerhouse that grew to rival peers on both sides of the border. Today, TD operates across a network spanning Canada, the United States, and select international markets, with a diversified business spanning consumer banking, commercial lending, wealth management, and capital markets. The company's public shares trade on the [Toronto Stock Exchange](/toronto-stock-exchange/) (TSX) and the [New York Stock Exchange](/new-york-stock-exchange/) (NYSE) under the ticker TD.
+Toronto Dominion Bank (TD) stands as one of North America's largest financial institutions, rooted in a [merger](/merger/) that reshaped Canadian banking in 1955. The combination of the Dominion Bank and the Toronto-Dominion Bank created a powerhouse that grew to rival peers on both sides of the border. Today, TD operates across a network spanning Canada, the United States, and select international markets, with a diversified business spanning consumer banking, commercial lending, wealth management, and capital markets. The company's public shares trade on the [Toronto Stock Exchange](/toronto-stock-exchange/) (TSX) and the [New York Stock Exchange](/new-york-stock-exchange/) (NYSE) under the ticker TD.
 
 ## The merger that built an empire
 

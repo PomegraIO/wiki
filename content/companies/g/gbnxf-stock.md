@@ -4,7 +4,7 @@ description: "Gibson Energy is a Canadian midstream energy company that transpor
 keywords: [midstream, crude-oil, energy-infrastructure, throughput, storage, pipeline]
 ---
 
-*Gibson Energy Inc/ADR (GBNXF), trading over-the-counter, represents shares in a Canadian energy company that operates midstream infrastructure—pipelines, storage terminals, and blending facilities—connecting [crude oil](/crude-oil/) producers to refiners and consumers. The company operates as an [American Depositary Receipt](/adr/), allowing US shareholders to hold Canadian stock through a US-traded vehicle. Its unit economics are driven by the volume of crude and refined products moved through its infrastructure and the margin earned per unit of volume.*
+*[Gibson Energy Inc/ADR](/gbnxy-stock/) (GBNXF), trading over-the-counter, represents shares in a Canadian energy company that operates midstream infrastructure—pipelines, storage terminals, and blending facilities—connecting [crude oil](/crude-oil/) producers to refiners and consumers. The company operates as an [American Depositary Receipt](/adr/), allowing US shareholders to hold Canadian stock through a US-traded vehicle. Its unit economics are driven by the volume of crude and refined products moved through its infrastructure and the margin earned per unit of volume.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GBNXF</td></tr>
@@ -53,7 +53,7 @@ Additionally, regulatory delays in permitting new capacity can slow Gibson's gro
 
 ## Capital Intensity and Debt Dependency
 
-Midstream companies like Gibson are highly capital-intensive: they must regularly invest in maintaining and expanding infrastructure. To fund this, they rely heavily on debt. A company with $2 billion in assets might carry $1.2 billion in debt, financing growth and capital maintenance through borrowing and [dividends](/dividend/) paid from operating cash flow.
+Midstream companies like Gibson are highly capital-intensive: they must regularly invest in maintaining and expanding infrastructure. To fund this, they rely heavily on debt. A company with $2 billion in assets might carry $1.2 billion in [debt, financing](/debt-financing/) growth and capital maintenance through borrowing and [dividends](/dividend/) paid from operating cash flow.
 
 The unit economics therefore include the cost of debt: higher [interest rates](/interest-rate/) reduce the margin available for dividends or growth. In a period of rising rates, Gibson's profitability per unit transported may be unchanged, but the cost of its debt increases, and the return to shareholders compresses unless [operating margins](/operating-margin/) expand to compensate.
 

@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-PureTech Health is a drug company trying to discover and test new medicines. It is not a large pharmaceutical company with a sprawling portfolio of approved drugs that people take every day. Instead, PureTech is smaller and earlier in its journey. The company has ideas for medicines, some experimental versions of those medicines in human trials, but no drugs available in pharmacies yet.
+[PureTech Health](/ptchf-stock/) is a drug company trying to discover and test new medicines. It is not a large pharmaceutical company with a sprawling portfolio of approved drugs that people take every day. Instead, PureTech is smaller and earlier in its journey. The company has ideas for medicines, some experimental versions of those medicines in human trials, but no drugs available in pharmacies yet.
 
-The company started in 1998 in Boston. For most of its life, it has been a research outfit, licensing scientific discoveries from universities and other labs and trying to turn them into workable drugs. In 2015, PureTech went public on the London Stock Exchange to raise money for clinical trials — the expensive, slow process of testing whether an experimental drug actually works and is safe in people.
+The company started in 1998 in Boston. For most of its life, it has been a research outfit, licensing scientific discoveries from universities and other labs and trying to turn them into workable drugs. In 2015, PureTech went public on the [London Stock Exchange](/london-stock-exchange/) to raise money for clinical trials — the expensive, slow process of testing whether an experimental drug actually works and is safe in people.
 
 <aside class="wiki-infobox">
 <table>
@@ -58,7 +58,7 @@ If LYT-100 succeeds in Phase 2 trials — showing real benefit to patients with 
 
 Small biotech companies are nimble and focused. PureTech does not waste money on marketing or a bloated corporate structure. Every dollar goes into research and trials. That is an advantage.
 
-But small size also means limited resources. PureTech cannot run ten Phase 3 trials simultaneously like Pfizer can. It cannot absorb a drug failure without pain. It has no approved products generating cash to fund the next round of experiments. If one candidate fails, the entire company's future tightens.
+But small size also means limited resources. PureTech cannot run ten Phase 3 trials simultaneously like [Pfizer](/pfe-stock/) can. It cannot absorb a drug failure without pain. It has no approved products generating cash to fund the next round of experiments. If one candidate fails, the entire company's future tightens.
 
 Large pharmaceutical companies have a portfolio: one drug fails, but three others succeed, and the company survives and grows. PureTech has a handful of shots on goal. If all of them miss, the company runs out of money.
 

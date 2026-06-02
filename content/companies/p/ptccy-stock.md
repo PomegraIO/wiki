@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-PetroChina is China's dominant oil and gas company and one of the world's largest integrated petroleum enterprises. It was born from the fragmentation and reorganisation of China's state petroleum monopoly in the 1990s and has since grown into a multinational producer, refiner, and marketer of hydrocarbons. The company floats on exchanges including the Hong Kong Stock Exchange and trades in American Depositary Receipts (ticker PTCCY) in the United States, but it remains majority-owned by the Chinese state through the China National Petroleum Corporation, its parent and ultimate shareholder.
+PetroChina is China's dominant oil and gas company and one of the world's largest integrated petroleum enterprises. It was born from the fragmentation and reorganisation of China's state petroleum monopoly in the 1990s and has since grown into a multinational producer, refiner, and marketer of hydrocarbons. The company floats on exchanges including the [Hong Kong Stock Exchange](/hong-kong-stock-exchange/) and trades in [American Depositary Receipts](/adr/) (ticker PTCCY) in the United States, but it remains majority-owned by the Chinese state through the China National Petroleum Corporation, its parent and ultimate shareholder.
 
 ## From monopoly to reorganisation (1990s)
 
@@ -21,7 +21,7 @@ As market reforms took hold in the late 1980s and 1990s, the Chinese government 
 
 ## Building a modern integrated player (2000-2010)
 
-In its first years as a listed company, PetroChina focused on consolidating its upstream assets and modernising production from ageing fields like Daqing. The company made major discoveries in its western and offshore regions, acquiring exploration rights and building producing fields that could generate large volumes of oil and liquefied natural gas. Acquisitions of petroleum assets from smaller regional producers helped PetroChina grow its reserve base and operational scale.
+In its first years as a listed company, PetroChina focused on consolidating its upstream assets and modernising production from ageing fields like Daqing. The company made major discoveries in its western and offshore regions, acquiring exploration rights and building producing fields that could generate large volumes of oil and liquefied [natural gas](/natural-gas/). [Acquisitions](/acquisition/) of petroleum assets from smaller regional producers helped PetroChina grow its reserve base and operational scale.
 
 During this period, China's energy demand surged. Economic growth accelerated, vehicle ownership climbed steeply, and industrial production expanded. Oil consumption doubled between 2000 and 2010, and China transitioned from an exporter to a major importer. PetroChina's strategy aligned with this: expand production, acquire reserves globally, and feed the domestic market with oil and gas at prices set by the government below international levels.
 
@@ -29,11 +29,11 @@ The company also pursued international expansion. Investments in Central Asia (K
 
 ## Listing and scaling (2000-2015)
 
-PetroChina's initial public offering in 2000 was the largest in Hong Kong's history at that time. The listing gave the company access to international capital markets and greater transparency (by Chinese standards) about operations and financials. However, PetroChina remained a state company: the Chinese government set refining capacity, controlled pricing policy, and directed investment to meet strategic energy-security goals rather than purely commercial criteria.
+PetroChina's [initial public offering](/initial-public-offering/) in 2000 was the largest in Hong Kong's history at that time. The listing gave the company access to international capital markets and greater transparency (by Chinese standards) about operations and financials. However, PetroChina remained a state company: the Chinese government set refining capacity, controlled pricing policy, and directed investment to meet strategic energy-security goals rather than purely commercial criteria.
 
 Between 2000 and 2015, PetroChina's revenue and production grew substantially. Daqing, despite its age, remained a massive production base; western fields like Tarim ramped up; and offshore projects in the South China Sea began delivering barrels. The company operated a large refining network serving domestic demand and exported some products. Natural gas became an increasingly important business line, both from conventional fields and, later, from unconventional reserves (tight gas, coalbed methane).
 
-Profitability was volatile, tied to global oil prices. During the 2008 global financial crisis, crude prices collapsed, hurting upstream earnings. During the 2011-2014 oil boom, PetroChina's earnings spiked. The company paid a modest dividend but reinvested most earnings into exploration and asset acquisition, consistent with China's energy-security imperative.
+Profitability was volatile, tied to global oil prices. During the 2008 global financial crisis, crude prices collapsed, hurting upstream earnings. During the 2011-2014 oil boom, PetroChina's earnings spiked. The company paid a modest [dividend](/dividend/) but reinvested most earnings into exploration and asset acquisition, consistent with China's energy-security imperative.
 
 ## The modern era and shifting landscape (2015-present)
 
@@ -49,6 +49,6 @@ The company must navigate between strategic directives (keep supplying China's e
 
 ## Research and investing considerations
 
-Anyone studying PetroChina should read its annual reports and 20-F filings (SEC CIK 0001108329), which provide audited financials and details of production by field and region. Watch the company's reserve replacement ratio — the volume of new reserves discovered or acquired each year versus production, a signal of whether PetroChina's asset base is being maintained or depleted. Monitor capital spending trends; a company investing heavily in new fields is signalling confidence in future demand.
+Anyone studying PetroChina should read its [annual reports](/10-k/) and 20-F filings (SEC CIK 0001108329), which provide audited financials and details of production by field and region. Watch the company's reserve replacement ratio — the volume of new reserves discovered or acquired each year versus production, a signal of whether PetroChina's asset base is being maintained or depleted. Monitor capital spending trends; a company investing heavily in new fields is signalling confidence in future demand.
 
 The dividend is a key indicator of cash flow generation and management confidence. During booms PetroChina pays up; during downturns it cuts, reflecting commodity price exposure. Track Chinese government energy policy and international crude prices. PetroChina's earnings are tied to both. Finally, note that political risk is real: Western sanctions on Russia, restrictions on certain technologies, and shifts in US-China relations can affect PetroChina's ability to transact internationally or access technology. As a state company, PetroChina is sometimes used as an instrument of Chinese foreign policy as much as a profit-maximising business.

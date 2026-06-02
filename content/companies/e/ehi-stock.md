@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Western Asset Global High Income Fund is a closed-end fund — a pooled investment vehicle with a fixed number of shares that trade on an exchange, rather than expanding and contracting with investor demand. The fund invests primarily in international bonds and other debt instruments chosen for their income-generating potential, and returns a substantial portion of its earnings to shareholders through regular distributions.
+Western Asset Global High Income Fund is a closed-end fund — a pooled investment vehicle with a fixed number of shares that trade on an exchange, rather than expanding and contracting with investor demand. The fund invests primarily in international [bonds](/bond/) and other debt instruments chosen for their income-generating potential, and returns a substantial portion of its earnings to shareholders through regular distributions.
 
 <aside class="wiki-infobox">
 <table>

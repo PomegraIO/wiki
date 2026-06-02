@@ -12,9 +12,9 @@ keywords:
 handwritten: true
 ---
 
-A 2X leveraged ETF on a battery startup amplifies all the wild swings of an early-stage deep-tech company — winning big on the good days, losing twice as much on the bad ones, and quietly bleeding value in markets where the stock bounces around without going anywhere.
+A 2X [leveraged ETF](/leveraged-etf/) on a battery startup amplifies all the wild swings of an early-stage deep-tech company — winning big on the good days, losing twice as much on the bad ones, and quietly bleeding value in markets where the stock bounces around without going anywhere.
 
-AMPU tracks Amprius Technologies, a developer of high-energy-density batteries for electric vehicles, energy storage, and other applications. Amprius went public through a merger with a special-purpose acquisition company (SPAC) in late 2022 and trades under the ticker AMPX. AMPU takes daily exposure to AMPX and doubles it through leverage — a 3 percent gain in AMPX translates to a 6 percent gain in AMPU; a 4 percent loss becomes 8 percent down. The fund is managed by Defiance ETFs and resets its leverage to exactly 2X at the close of each trading day.
+AMPU tracks [Amprius Technologies](/ampx-stock/), a developer of high-energy-density batteries for electric vehicles, energy storage, and other applications. Amprius went public through a [merger](/merger/) with a [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC) in late 2022 and trades under the ticker AMPX. AMPU takes daily exposure to AMPX and doubles it through leverage — a 3 percent gain in AMPX translates to a 6 percent gain in AMPU; a 4 percent loss becomes 8 percent down. The fund is managed by Defiance ETFs and resets its leverage to exactly 2X at the close of each trading day.
 
 ## Why Amprius is so volatile
 
@@ -32,11 +32,11 @@ Now scale that over weeks and months. AMPX, as a volatile biotech-style stock, w
 
 ## The opportunity cost
 
-Beyond the decay risk, there is a real opportunity cost: the margin or swap financing costs that underlie the leverage. AMPU holds AMPX shares (or derivative instruments that replicate the exposure) and borrows or enters into derivative contracts to add the second X of leverage. That financing costs something — usually a small percentage daily, but it compounds. On a quiet day when AMPX gains 0.5 percent, the leverage might capture 1 percent before financing costs eat 0.08 percent, netting 0.92 percent. The costs are published in the fund's expense ratio, but they are real drags on returns.
+Beyond the decay risk, there is a real opportunity cost: the margin or swap financing costs that underlie the leverage. AMPU holds AMPX shares (or derivative instruments that replicate the exposure) and borrows or enters into derivative contracts to add the second X of leverage. That financing costs something — usually a small percentage daily, but it compounds. On a quiet day when AMPX gains 0.5 percent, the leverage might capture 1 percent before financing costs eat 0.08 percent, netting 0.92 percent. The costs are published in the fund's [expense ratio](/expense-ratio/), but they are real drags on returns.
 
 ## Sector and company risk
 
-Amprius is also sector-exposed. It is a battery play, benefiting from the world's transition to electric vehicles and grid storage. But battery technology is crowded. Tesla manufactures its own cells. Established battery makers like CATL, BYD, and Panasonic have immense scale. Newer entrants like QuantumScape, Solid Power, and others are chasing advanced chemistries. Amprius has a real technical edge in energy density, but the commercial path is uncertain and the timeline is long. A major contract win for Amprius would send AMPX sharply higher (and AMPU along with it). A design-in loss or a customer deciding to internalize battery development would tank the stock.
+Amprius is also sector-exposed. It is a battery play, benefiting from the world's transition to electric vehicles and grid storage. But battery technology is crowded. [Tesla](/tsla-stock/) manufactures its own cells. Established battery makers like CATL, BYD, and Panasonic have immense scale. Newer entrants like QuantumScape, [Solid Power](/sldp-stock/), and others are chasing advanced chemistries. Amprius has a real technical edge in energy density, but the commercial path is uncertain and the timeline is long. A major contract win for Amprius would send AMPX sharply higher (and AMPU along with it). A design-in loss or a customer deciding to internalize battery development would tank the stock.
 
 For AMPU holders, this is the other side of the decay story: the stock is volatile in part because the company's fate is uncertain. That volatility, combined with 2X leverage and daily reset mechanics, is a bad combination for buy-and-hold investors.
 

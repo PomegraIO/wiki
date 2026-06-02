@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-Xtend AI Robotics is a software-first defense and security technology company focused on operating systems and control platforms for autonomous robotic systems. Rather than build robots as hardware products, Xtend develops the unified software layer that allows human operators to control and deploy unmanned systems—drones, ground vehicles, and maritime platforms—in environments where reliability and mission-critical performance are non-negotiable. Its primary markets are defense, public safety, and private security organizations seeking immediate operational capability with autonomous systems that can scale across multiple platforms and geographies.
+Xtend AI Robotics is a software-first defense and security technology company focused on operating systems and control platforms for autonomous robotic systems. Rather than build robots as hardware products, Xtend develops the unified software layer that allows human operators to control and deploy unmanned systems—drones, ground vehicles, and maritime platforms—in environments where reliability and mission-critical performance are non-negotiable. Its [primary markets](/primary-market/) are defense, public safety, and private security organizations seeking immediate operational capability with autonomous systems that can scale across multiple platforms and geographies.
 
-The company is set to become a public company through a business combination with JFB Construction Holdings, which is expected to close in mid-2026. Upon completion, the merged entity will trade on the Nasdaq under the ticker symbol XTND, with headquarters and production operations based in Tampa, Florida. The transaction values the combined business at approximately 1.5 billion dollars.
+The company is set to become a public company through a [business combination](/business-combination-purchase/) with JFB Construction Holdings, which is expected to close in mid-2026. Upon completion, the merged entity will trade on the [Nasdaq](/nasdaq/) under the ticker symbol XTND, with headquarters and production operations based in Tampa, Florida. The transaction values the combined business at approximately 1.5 billion dollars.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,7 +41,7 @@ The company has deployed more than 10,000 operational systems across more than 3
 
 ## The defense market and competitive positioning
 
-Xtend competes in the defense and autonomous-systems market against specialized unmanned-systems manufacturers (companies like AeroVironment and Teledyne), general defense primes (Lockheed Martin, General Dynamics), and a long tail of smaller system integrators and startups. At the high end, Xtend's advantage is focus: it is purely dedicated to human-guided autonomy across multiple domains, whereas a broad defense prime must allocate engineering and capital across hundreds of product lines. At the low end, smaller competitors may undercut on price but lack Xtend's scale, operational reference base, or integrated software ecosystem.
+Xtend competes in the defense and autonomous-systems market against specialized unmanned-systems manufacturers (companies like AeroVironment and Teledyne), general defense primes ([Lockheed Martin](/lmt-stock/), [General Dynamics](/gd-stock/)), and a long tail of smaller system integrators and startups. At the high end, Xtend's advantage is focus: it is purely dedicated to human-guided autonomy across multiple domains, whereas a broad defense prime must allocate engineering and capital across hundreds of product lines. At the low end, smaller competitors may undercut on price but lack Xtend's scale, operational reference base, or integrated software ecosystem.
 
 The sustainability of Xtend's position depends on several factors. The first is continued adoption by major defense powers and allied governments, which in turn depends on proven operational performance and regulatory approval for use in increasingly autonomous or civilian-adjacent contexts. The second is the pace of innovation in autonomous-system capabilities—particularly the integration of AI and machine learning into decision-support layers—and whether Xtend can maintain software superiority as the field matures. The third is the geopolitical and budgetary stability of defense spending in its core markets.
 
@@ -49,7 +49,7 @@ The sustainability of Xtend's position depends on several factors. The first is 
 
 As of December 2025, Xtend had approximately 71 million dollars in confirmed backlog—orders from customers that represent contracted work yet to be completed. The company also reported an estimated project pipeline of roughly 500 million dollars in potential future orders, though pipelines are inherently uncertain and not binding commitments. The backlog provides some visibility into near-term revenue, but the pipeline is subject to changes in procurement cycles, defense budgets, and international geopolitical conditions.
 
-The planned merger with JFB Construction Holdings at a 1.5-billion-dollar enterprise valuation implies significant growth expectations and confidence in future revenue scaling. The valuation suggests investors believe the company can grow from its current backlog and pipeline into a larger, sustained business.
+The planned [merger](/merger/) with JFB Construction Holdings at a 1.5-billion-dollar enterprise valuation implies significant growth expectations and confidence in future revenue scaling. The valuation suggests investors believe the company can grow from its current backlog and pipeline into a larger, sustained business.
 
 ## Pressures and forward risks
 

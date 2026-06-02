@@ -37,7 +37,7 @@ Inotiv organizes around three main operating units, each with distinct economics
 
 **Laboratory Products and Supplies** covers the animal models themselves, breeding colonies, diagnostic tools, and scientific reagents. Marshall BioResources remains the flagship brand here, supplying nonhuman primates, dogs, ferrets, rabbits, and other species bred or conditioned for research use. Supply of these animals is partly commoditized — there are other vendors — but Inotiv's size, historical relationships with major pharma, and ability to customize breeding for specific genetic or behavioral traits create moats. The segment carries lower margins than research services but offers steadier, recurring revenue as customers reorder animals and supplies on standing contracts.
 
-**Pharmaceutical Services** (added through acquisition) comprises sterile injectable manufacturing and related production services. This segment has been under strategic review; the company divested its broader manufacturing operations but retained certain sterile injectable capabilities that integrate with its research services. This segment faces commodity pricing pressure and has been a smaller, less profitable piece of Inotiv's overall envelope.
+**Pharmaceutical Services** (added through [acquisition](/acquisition/)) comprises sterile injectable manufacturing and related production services. This segment has been under strategic review; the company divested its broader manufacturing operations but retained certain sterile injectable capabilities that integrate with its research services. This segment faces commodity pricing pressure and has been a smaller, less profitable piece of Inotiv's overall envelope.
 
 ## The Shift in Progress
 

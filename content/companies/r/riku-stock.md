@@ -49,7 +49,7 @@ Between labor, food, and rent, you're at maybe 60 to 75 percent of revenue befor
 
 Restaurants fail all the time. The failure rate is high. Why? Because profit margins are thin, competition is everywhere, and customer tastes change. A new, better restaurant opens two blocks away and your customers go there instead. Costs rise — food, labor, rent — and you can't always raise prices without losing business.
 
-Bad management can destroy a good location. Poor service, inconsistent food quality, unfriendly staff, or a dining space that feels tired and old will drive customers away. Consumer confidence matters too. In a recession, people eat out less. They order cheaper dishes. Profit margins collapse.
+Bad management can destroy a good location. Poor service, inconsistent food quality, unfriendly staff, or a dining space that feels tired and old will drive customers away. Consumer confidence matters too. In a [recession](/recession/), people eat out less. They order cheaper dishes. Profit margins collapse.
 
 Debt is dangerous for restaurants. The capital to open a new location or refurbish an existing one often comes from borrowing. That debt has to be paid back out of thin margins. If business slows, or competition intensifies, or a location underperforms, the debt becomes a anchor.
 
@@ -57,7 +57,7 @@ Debt is dangerous for restaurants. The capital to open a new location or refurbi
 
 For a restaurant group, the question is simple per location: How much does a single restaurant make? How much does it cost to open one? How long before that location pays back its opening costs and starts generating profit?
 
-If a new location costs $500,000 to open and generates $50,000 in annual free cash flow, it takes ten years to pay back. That's a long time. If a new location costs $200,000 and generates $100,000 annually, it pays back in two years. That's much more attractive.
+If a new location costs $500,000 to open and generates $50,000 in annual [free cash flow](/free-cash-flow/), it takes ten years to pay back. That's a long time. If a new location costs $200,000 and generates $100,000 annually, it pays back in two years. That's much more attractive.
 
 RIKU's success depends on whether the company has good unit economics. Can it open profitable locations consistently? Can it expand without destroying margins? Can it manage costs as it grows?
 
@@ -87,4 +87,4 @@ Pay attention to location counts. Is the company opening new restaurants or clos
 
 Read what management says about the current environment. Are labor costs rising? Are customers spending less? Is competition intensifying? These things matter.
 
-RIKU is a restaurant group. Its value comes from whether its restaurants make money. That's it. The better the unit economics, the healthier the balance sheet, and the more consistent same-store sales, the better the business is doing.
+RIKU is a restaurant group. Its value comes from whether its restaurants make money. That's it. The better the unit economics, the healthier the [balance sheet](/balance-sheet/), and the more consistent same-store sales, the better the business is doing.

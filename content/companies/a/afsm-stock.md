@@ -15,17 +15,17 @@ handwritten: true
 
 ## What does AFSM hold?
 
-AFSM invests in a portfolio of U.S. small-cap stocks — companies with market capitalizations typically in the 300 million to 2 billion dollar range. The fund maintains between 100 and 200 holdings, meaning it is not a hyper-concentrated bet but also far more selective than a passive small-cap index fund, which might hold 2,000 or more stocks. Rather than simply buying every small cap and holding it in index weight, AFSM uses quantitative screens to identify stocks that exhibit certain characteristics — what the fund manager calls "factors" — that have historically been associated with outperformance.
+AFSM invests in a portfolio of U.S. small-cap stocks — companies with [market capitalizations](/market-capitalization/) typically in the 300 million to 2 billion dollar range. The fund maintains between 100 and 200 holdings, meaning it is not a hyper-concentrated bet but also far more selective than a passive small-cap [index fund](/index-fund/), which might hold 2,000 or more stocks. Rather than simply buying every small cap and holding it in index weight, AFSM uses quantitative screens to identify stocks that exhibit certain characteristics — what the fund manager calls "factors" — that have historically been associated with outperformance.
 
 ## How does First Trust select holdings?
 
-First Trust, the fund's sponsor and manager, uses a combination of quantitative screens and human judgment. The specific factors the fund tilts toward include value (stocks trading at lower multiples relative to earnings or book value), quality (companies with stronger balance sheets and more stable earnings), and momentum (stocks with positive recent price trends). The fund also applies a "dividend quality" screen, favoring firms with sustainable dividend yields. None of these factors is inevitable or proven to work all the time — academic research shows that some factors outperform in some eras and underperform in others — but the combination of them, applied systematically and updated regularly, is the core of the fund's investment philosophy.
+First Trust, the fund's sponsor and manager, uses a combination of quantitative screens and human judgment. The specific factors the fund tilts toward include value (stocks trading at lower multiples relative to earnings or book value), quality (companies with stronger [balance sheets](/balance-sheet/) and more stable earnings), and momentum (stocks with positive recent price trends). The fund also applies a "[dividend](/dividend/) quality" screen, favoring firms with sustainable [dividend yields](/dividend-yield/). None of these factors is inevitable or proven to work all the time — academic research shows that some factors outperform in some eras and underperform in others — but the combination of them, applied systematically and updated regularly, is the core of the fund's investment philosophy.
 
-The manager retains discretion to deviate from the screens when warranted, meaning a strong earnings surprise or a material change in business fundamentals can override a quantitative signal. This blend of rules and human override is what distinguishes active management from pure mechanical factor investing.
+The manager retains discretion to deviate from the screens when warranted, meaning a strong earnings surprise or a material change in business fundamentals can override a quantitative signal. This blend of rules and human override is what distinguishes active management from pure mechanical [factor investing](/factor-investing/).
 
 ## How much does AFSM cost?
 
-The fund's expense ratio is in the mid-range for actively managed small-cap equity ETFs — higher than a passive small-cap index ETF, which typically costs 0.05% to 0.15% annually, but reasonable for a strategy that involves proprietary screening and active decision-making. The real cost of the fund includes not just that fee but also the bid-ask spread when buying or selling shares (usually cents per share, and therefore negligible for large positions), and any tax efficiency loss if the manager turns over holdings frequently.
+The fund's [expense ratio](/expense-ratio/) is in the mid-range for actively managed small-cap [equity ETFs](/equity-etf/) — higher than a passive small-cap index ETF, which typically costs 0.05% to 0.15% annually, but reasonable for a strategy that involves proprietary screening and active decision-making. The real cost of the fund includes not just that fee but also the [bid-ask spread](/bid-ask-spread/) when buying or selling shares (usually cents per share, and therefore negligible for large positions), and any tax efficiency loss if the manager turns over holdings frequently.
 
 ## Who owns AFSM and why?
 
@@ -35,7 +35,7 @@ The fund is also attractive to investors who want to tilt their small-cap alloca
 
 ## What are the risks?
 
-AFSM is a bet on First Trust's skill, and active management in small-cap equities does not have a strong track record of outperforming passive alternatives after fees over long periods. The fund's factor tilts may hurt performance in eras when value or dividend-paying stocks underperform growth, as happened for much of the 2010s. The fund is also subject to all the volatility of the small-cap market, which tends to swing more sharply than large-cap stocks and can suffer during periods of rising interest rates or credit stress.
+AFSM is a bet on First Trust's skill, and active management in small-cap equities does not have a strong track record of outperforming passive alternatives after fees over long periods. The fund's factor tilts may hurt performance in eras when value or dividend-paying stocks underperform growth, as happened for much of the 2010s. The fund is also subject to all the volatility of the small-cap market, which tends to swing more sharply than large-cap stocks and can suffer during periods of rising [interest rates](/interest-rate/) or credit stress.
 
 ## How would you research AFSM?
 

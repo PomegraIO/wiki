@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **GraniteShares YieldBOOST Bitcoin ETF** (XBTY) tracks the price of Bitcoin — the first and largest cryptocurrency — while attempting to generate additional income by writing covered-call options against its Bitcoin holdings. It sits at the intersection of direct crypto exposure and options-based income strategies, reflecting a maturing market's effort to make Bitcoin ownership more income-bearing.*
+*The **GraniteShares YieldBOOST [Bitcoin](/bitcoin/) ETF** (XBTY) tracks the price of Bitcoin — the first and largest cryptocurrency — while attempting to generate additional income by writing covered-call options against its Bitcoin holdings. It sits at the intersection of direct crypto exposure and options-based income strategies, reflecting a maturing market's effort to make Bitcoin ownership more income-bearing.*
 
 <aside class="wiki-infobox">
 <table>
@@ -35,15 +35,15 @@ XBTY represents an attempt to close that gap. The fund holds Bitcoin directly, b
 
 When an investor owns Bitcoin outright, it earns nothing; the investor profits only if Bitcoin's price rises. A covered-call strategy changes that. By selling calls on part of the position, the fund pockets a small amount of premium every month, creating a steady stream of income independent of the Bitcoin price. That income is distributed to XBTY shareholders.
 
-The trade-off is capped upside. If Bitcoin rallies hard and the calls expire in-the-money (meaning Bitcoin's price exceeds the strike price), the fund's Bitcoin is called away at the strike price, and the shareholder does not participate in the full move. The premium collected is the compensation for capping gains. In sideways or down markets, the premium is pure income — the investor gets Bitcoin exposure plus monthly cash distributions.
+The trade-off is capped upside. If Bitcoin rallies hard and the calls expire in-the-money (meaning Bitcoin's price exceeds the [strike price](/strike-price/)), the fund's Bitcoin is called away at the strike price, and the shareholder does not participate in the full move. The premium collected is the compensation for capping gains. In sideways or down markets, the premium is pure income — the investor gets Bitcoin exposure plus monthly cash distributions.
 
 This structure appeals to investors who hold Bitcoin but view it as a medium-term position rather than a leverage bet, and who want to harvest some income while waiting. It is structurally similar to equity-based covered-call ETFs that have existed for decades; XBTY applies that proven framework to the crypto market.
 
 ## Portfolio construction and risk
 
-XBTY holds Bitcoin directly, so the fund's value moves with the Bitcoin price — sometimes volatile, and uncorrelated with traditional stocks and bonds. The options positions are layered on top: the fund's managers monitor the strike prices and timing of the calls they write. The strikes are typically set out-of-the-money — above the prevailing Bitcoin price at the time of writing — so that the sold calls do not immediately limit upside.
+XBTY holds Bitcoin directly, so the fund's value moves with the Bitcoin price — sometimes volatile, and uncorrelated with traditional stocks and [bonds](/bond/). The options positions are layered on top: the fund's managers monitor the strike prices and timing of the calls they write. The strikes are typically set out-of-the-money — above the prevailing Bitcoin price at the time of writing — so that the sold calls do not immediately limit upside.
 
-The real risks include the usual cryptocurrency risks: Bitcoin's notoriously high volatility means the underlying asset can swing 20% or more in a month. That volatility affects both the value of the calls the fund writes (more volatile assets command higher option premiums) and the fund's net asset value. If Bitcoin rallies sharply, the covered calls constrain gains. If Bitcoin collapses, the option premium collected is too small to offset the drop.
+The real risks include the usual cryptocurrency risks: Bitcoin's notoriously high volatility means the underlying asset can swing 20% or more in a month. That volatility affects both the value of the calls the fund writes (more volatile assets command higher [option premiums](/option-premium/)) and the fund's [net asset value](/net-asset-value/). If Bitcoin rallies sharply, the [covered calls](/covered-call/) constrain gains. If Bitcoin collapses, the option premium collected is too small to offset the drop.
 
 There is also execution risk in the options strategy itself: the fund's managers must judge when to write calls and at what strikes, and those judgment calls can be suboptimal. A strike set too high captures no premium; one set too low caps upside prematurely. Over long periods, the cumulative effect of repeated month-end decisions adds up.
 

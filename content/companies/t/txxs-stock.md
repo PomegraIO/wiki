@@ -16,7 +16,7 @@ This fund exists to give traders a tighter way to bet on Sui without borrowing c
 
 ## What Sui is and why someone might want exposure to it
 
-Sui is a blockchain designed for speed and low transaction costs, built by former engineers at Meta (Facebook's parent company). It operates on a different architecture than Ethereum, meant to process smart contracts and transactions far faster and cheaper than older chains. Whether Sui succeeds as a mainstream blockchain remains unsettled — adoption is real but speculative, and the token's price swings reflect that uncertainty. Some traders are confident Sui will win a larger share of blockchain activity; others see it as one of many competing platforms. TXXS exists for the first group, at least in the short run.
+Sui is a blockchain designed for speed and low transaction costs, built by former engineers at Meta (Facebook's parent company). It operates on a different architecture than [Ethereum](/ethereum/), meant to process smart contracts and transactions far faster and cheaper than older chains. Whether Sui succeeds as a mainstream blockchain remains unsettled — adoption is real but speculative, and the token's price swings reflect that uncertainty. Some traders are confident Sui will win a larger share of blockchain activity; others see it as one of many competing platforms. TXXS exists for the first group, at least in the short run.
 
 ## How daily leverage and reset work — and why it matters for holding periods
 
@@ -24,19 +24,19 @@ Leverage is simple in theory: TXXS borrows money to buy extra SUI tokens, then p
 
 Imagine SUI rises 10%, then falls 9% the next day. If TXXS were held without reset, a holder would have roughly doubled the gain and loss — nice on the way up, but the path matters. Instead, because the fund resets each day, the math changes. Day one: SUI up 10%, TXXS up 20%. Day two: SUI down 9%, TXXS down 18%. Over two days, SUI is up roughly 1%, but TXXS is up only about 0.4% — worse, because the 18% loss on day two eats into the 20% gain from day one, and leverage amplifies the damage.
 
-This is called **volatility decay**, and it gets worse the longer the holding period and the choppier the market. It is not a hidden fee — it is pure math — but it is invisible to traders who assume 2x leverage means 2x the long-term return. It does not. TXXS is built for traders who expect a clear directional move over hours or days, not weeks or months. Hold it for months and decay will erode returns, even if the underlying token ends higher.
+This is called **volatility decay**, and it gets worse the longer the [holding period](/holding-period/) and the choppier the market. It is not a hidden fee — it is pure math — but it is invisible to traders who assume 2x leverage means 2x the long-term return. It does not. TXXS is built for traders who expect a clear directional move over hours or days, not weeks or months. Hold it for months and decay will erode returns, even if the underlying token ends higher.
 
 ## Structure and who sponsors it
 
-21Shares is an issuer of crypto-focused ETFs and ETNs. The fund is structured as an ETF, meaning shares trade on a US exchange (in this case, the NYSE Arca) and the fund holds its own account of SUI tokens with a custodian. Daily rebalancing is handled mechanically by the fund sponsor.
+21Shares is an issuer of crypto-focused ETFs and ETNs. The fund is structured as an ETF, meaning shares trade on a US exchange (in this case, the NYSE Arca) and the fund holds its own account of SUI tokens with a [custodian](/custodian/). Daily rebalancing is handled mechanically by the fund sponsor.
 
 ## Costs
 
-The expense ratio is qualitatively low by crypto standards, though the term "low" is relative. The real cost to frequent traders is not the ratio but the bid-ask spread — the difference between the price you pay to buy and the price you get selling. High-frequency rebalancing and the niche nature of leverage crypto products mean spreads can be wider than on a broad ETF like SPY, especially on light-volume days.
+The [expense ratio](/expense-ratio/) is qualitatively low by crypto standards, though the term "low" is relative. The real cost to frequent traders is not the ratio but the [bid-ask spread](/bid-ask-spread/) — the difference between the price you pay to buy and the price you get selling. High-frequency rebalancing and the niche nature of leverage crypto products mean spreads can be wider than on a broad ETF like SPY, especially on light-volume days.
 
 ## Genuine risks beyond leverage
 
-Volatility decay is the obvious one. Less obvious: SUI token custody risk. The custodian holds the actual tokens; if that custodian is hacked or mismanages the fund's accounts, shareholders could lose. Custody for crypto is still maturing, so this is a material risk that does not exist for traditional ETFs holding stocks or bonds. There is also the regulatory question: the SEC and other agencies have periodically tightened or loosened their stance on leveraged and cryptocurrency products, and a sharp change in rules could force the fund to shut down or restructure.
+Volatility decay is the obvious one. Less obvious: SUI token custody risk. The custodian holds the actual tokens; if that custodian is hacked or mismanages the fund's accounts, shareholders could lose. Custody for crypto is still maturing, so this is a material risk that does not exist for traditional ETFs holding stocks or [bonds](/bond/). There is also the regulatory question: the SEC and other agencies have periodically tightened or loosened their stance on leveraged and cryptocurrency products, and a sharp change in rules could force the fund to shut down or restructure.
 
 The holder also carries SUI's own risks — the blockchain could fail to gain adoption, a rival could overtake it, or a technical flaw could undermine confidence in the network. TXXS amplifies all of that with leverage.
 

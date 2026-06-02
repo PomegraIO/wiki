@@ -45,14 +45,14 @@ Many consumer-goods portfolio companies like VPR are structured as partnerships 
 
 From a cash-flow perspective, a consumer-goods company converts inventory into cash by selling products. Speed matters: the faster inventory turns (the more times it is sold and replenished), the less capital gets tied up in warehouses and trucks. A company with very fast inventory turns can actually generate cash as it grows, because customers pay before suppliers need to be reimbursed. That cash can then be used to acquire new brands or pay down debt.
 
-The downside is that if the company grows too fast or picks up slow-moving inventory, it can get cash-poor even while appearing to grow profitably. Managing working capital — the money tied up in inventory and accounts receivable — is a unglamorous but crucial part of running a consumer-goods business.
+The downside is that if the company grows too fast or picks up slow-moving inventory, it can get cash-poor even while appearing to grow profitably. Managing working capital — the money tied up in inventory and [accounts receivable](/accounts-receivable/) — is a unglamorous but crucial part of running a consumer-goods business.
 
 ## How to follow the business
 
 The clearest metrics are brand performance and market share within each category. If VPR's laundry-detergent brand is gaining shelf space and selling more units each quarter, that is a genuine signal of health. If it is losing shelf space to competitors, that signals trouble ahead.
 
-Gross margin and operating margin are also essential. Consumer goods are high-revenue, low-margin businesses by nature. But within that, better operators achieve higher margins through scale, efficiency, and brand pricing power. Watch for margin trends: if VPR's margins are compressing, it suggests competitive pressure or rising input costs. If they are expanding while revenues hold steady, management is executing well.
+Gross margin and [operating margin](/operating-margin/) are also essential. Consumer goods are high-revenue, low-margin businesses by nature. But within that, better operators achieve higher margins through scale, efficiency, and brand pricing power. Watch for margin trends: if VPR's margins are compressing, it suggests competitive pressure or rising input costs. If they are expanding while revenues hold steady, management is executing well.
 
-Debt levels matter too. Consumer-goods companies often borrow to fund acquisitions. If that debt grows faster than cash flow, the company could face a squeeze if growth slows or interest rates spike. The healthiest portfolio operators keep debt modest relative to their cash generation.
+Debt levels matter too. Consumer-goods companies often borrow to fund [acquisitions](/acquisition/). If that debt grows faster than cash flow, the company could face a squeeze if growth slows or [interest rates](/interest-rate/) spike. The healthiest portfolio operators keep debt modest relative to their cash generation.
 
 Finally, follow quarterly earnings calls and management commentary on category trends. Which brands are gaining traction with consumers? Which are facing headwinds? Are wholesale channel partners expanding or reducing shelf space? Is the company gaining share in e-commerce? These qualitative signals often appear before they show up in the numbers, and they paint a picture of whether the business is moving in the right direction.

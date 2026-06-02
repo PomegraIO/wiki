@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Andina Bottling is one of the largest Coca-Cola bottling companies in South America. It manufactures, packages, and distributes Coca-Cola beverages and other drinks across a sprawling territory centered in Colombia, with operations extending into other Andean countries. As a bottler, Andina does not own the Coca-Cola brand or formula—The Coca-Cola Company retains that—but it owns the right to produce and sell Coca-Cola products in its territory, along with selected local and regional brands.
+[Andina Bottling](/ako-a-stock/) is one of the largest Coca-Cola bottling companies in South America. It manufactures, packages, and distributes Coca-Cola beverages and other drinks across a sprawling territory centered in Colombia, with operations extending into other Andean countries. As a bottler, Andina does not own the Coca-Cola brand or formula—The Coca-Cola Company retains that—but it owns the right to produce and sell Coca-Cola products in its territory, along with selected local and regional brands.
 
 <aside class="wiki-infobox">
 <table>
@@ -42,7 +42,7 @@ Andina's territory spans Colombia and neighboring countries in the Andean region
 
 Andina holds a strong market position. Coca-Cola is the dominant soft-drink brand across Latin America, and Andina's license to produce and distribute it in its territory is valuable. The company also produces and sells local and regional brands that appeal to tastes and preferences unique to the region. This mix of global and local brands gives Andina some protection against changing consumer preferences and allows it to compete across price points.
 
-The company is vertically integrated within its territory. It not only manufactures and packages beverages but also owns and operates the distribution network—the trucks, the warehouses, the sales force. Vertical integration lets the company control quality and speed to market, but it also means Andina bears all the cost and risk of the supply chain. If transportation costs spike, Andina feels it directly. If a region goes into recession and consumption falls, Andina's factories sit idle and earnings shrink.
+The company is vertically integrated within its territory. It not only manufactures and packages beverages but also owns and operates the distribution network—the trucks, the warehouses, the sales force. Vertical integration lets the company control quality and speed to market, but it also means Andina bears all the cost and risk of the supply chain. If transportation costs spike, Andina feels it directly. If a region goes into [recession](/recession/) and consumption falls, Andina's factories sit idle and earnings shrink.
 
 ## Revenue streams and product diversification
 
@@ -56,9 +56,9 @@ The challenge is that many of these categories are less profitable than soft dri
 
 Andina operates in Colombian pesos and sells to customers in pesos. But it has expenses denominated in other currencies—it imports some materials and equipment—and it competes against global companies that might benefit from currency movements. Currency fluctuations affect margins directly. If the Colombian peso weakens, it becomes more expensive for Andina to import; if it strengthens, imported competition becomes cheaper.
 
-Andina is also highly sensitive to inflation and interest rates. Inflation raises the cost of goods, labor, and energy. Interest rates affect the cost of borrowing for capital investment. In an inflationary environment, Andina must decide whether to accept lower margins by keeping prices stable or to raise prices and risk losing volume if consumers become more price-sensitive. Most companies in Andina's situation try to raise prices in line with inflation, but they cannot always recover the full increase without losing sales.
+Andina is also highly sensitive to [inflation](/inflation/) and [interest rates](/interest-rate/). Inflation raises the cost of goods, labor, and energy. Interest rates affect the cost of borrowing for capital investment. In an inflationary environment, Andina must decide whether to accept lower margins by keeping prices stable or to raise prices and risk losing volume if consumers become more price-sensitive. Most companies in Andina's situation try to raise prices in line with inflation, but they cannot always recover the full increase without losing sales.
 
-Economic cycles matter significantly. In a recession, consumers reduce discretionary spending, and beverage consumption falls. Andina's leverage increases because revenues shrink while debt service remains fixed. In periods of strong economic growth, Andina benefits from rising consumption and rising incomes. The company's earnings are therefore cyclical, though less volatile than pure commodity businesses.
+Economic cycles matter significantly. In a recession, consumers reduce [discretionary spending](/discretionary-spending/), and beverage consumption falls. Andina's leverage increases because revenues shrink while debt service remains fixed. In periods of strong economic growth, Andina benefits from rising consumption and rising incomes. The company's earnings are therefore cyclical, though less volatile than pure commodity businesses.
 
 ## Long-term structural trends
 
@@ -70,12 +70,12 @@ The company also faces labor and environmental pressures. Wages in the region ar
 
 ## How to research Andina as an investor
 
-Anyone considering Andina Bottling should review the company's financial filings, available through the Colombian stock exchange and through the SEC (the company is listed in the United States under the AKO-B ticker). Focus on trends in revenue, gross margin, and operating margin. Is the company growing? Is it gaining or losing share to competitors? Are margins stable or under pressure?
+Anyone considering Andina Bottling should review the company's financial filings, available through the Colombian [stock exchange](/stock-exchange/) and through the SEC (the company is listed in the United States under the AKO-B ticker). Focus on trends in revenue, gross margin, and [operating margin](/operating-margin/). Is the company growing? Is it gaining or losing share to competitors? Are margins stable or under pressure?
 
 Watch for currency impacts and changes in Coca-Cola Company policy. The parent company has significant control over what Andina can do. If Coca-Cola shifts its strategy—for example, pushing certain brands or altering pricing—Andina must adapt.
 
 Track macroeconomic indicators for Colombia and the region. Is the economy growing or slowing? How is currency performing? What is inflation doing? These factors directly affect Andina's earnings.
 
-Finally, watch the company's capital spending and dividends. A healthy bottler reinvests in the business to maintain competitiveness but also returns capital to shareholders if it can. The balance between reinvestment and dividends reflects management's confidence in the business and the region's long-term prospects.
+Finally, watch the company's capital spending and [dividends](/dividend/). A healthy bottler reinvests in the business to maintain competitiveness but also returns capital to shareholders if it can. The balance between reinvestment and dividends reflects management's confidence in the business and the region's long-term prospects.
 
 The shares trade on the Colombian stock exchange and in ADR form in the United States; this discussion is meant only to explain how the business operates and where structural and cyclical risks lie.

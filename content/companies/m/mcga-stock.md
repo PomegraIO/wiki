@@ -63,7 +63,7 @@ Historically, SPAC redemptions have been substantial, especially when announceme
 
 ## The regulatory and reputational landscape
 
-A SPAC merger involving Trump Media & Technology Group and cryptocurrency draws both investor enthusiasm and regulatory scrutiny. The SEC, the [Commodity Futures Trading Commission](/commodity-futures-trading-commission/), and other regulators have been increasingly focused on cryptocurrency ventures, particularly those that claim to operate as [financial institutions](/fisi-stock/) or treasuries. Trump Media Group CRO Strategy would need to navigate compliance with anti-money-laundering rules, securities regulations, and evolving state cryptocurrency frameworks.
+A SPAC merger involving Trump Media & Technology Group and cryptocurrency draws both investor enthusiasm and regulatory scrutiny. The SEC, the [Commodity Futures Trading Commission](/commodity-futures-trading-commission/), and other regulators have been increasingly focused on cryptocurrency ventures, particularly those that claim to operate as financial institutions or treasuries. Trump Media Group CRO Strategy would need to navigate compliance with anti-money-laundering rules, securities regulations, and evolving state cryptocurrency frameworks.
 
 The company's association with Trump Media also brings reputational considerations. Trump Media's business model — primarily a social media platform competing against entrenched incumbents — had not demonstrated profitable growth before the merger. Pairing Trump Media with a digital asset treasury strategy represents a [diversification](/diversification/), though it also means the merged company would carry the public and regulatory optics of both ventures.
 

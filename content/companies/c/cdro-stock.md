@@ -41,7 +41,7 @@ Online gaming platforms—the software underlying sports betting and casino game
 
 ## Geographic Concentration and Currency Exposure
 
-Spain and Latin America are Codere Online's primary markets. Geographic concentration is both stability (deep roots, established relationships) and risk (exposure to a single regional economic cycle). A [recession](/recession/) in Spain or Latin America directly impacts consumer [discretionary spending](/discretionary-spending/) on gambling. [Currency volatility](/currency-volatility/)—Latin American currencies are volatile against the U.S. dollar—creates earnings volatility and complicates consolidated financial reporting. The company's ability to expand into new geographies is limited by regulatory barriers and the maturity of existing markets. It is essentially a Spain/Latin America pure-play, with limited optionality to diversify.
+Spain and Latin America are Codere Online's primary markets. Geographic concentration is both stability (deep roots, established relationships) and risk (exposure to a single regional economic cycle). A [recession](/recession/) in Spain or Latin America directly impacts consumer [discretionary spending](/discretionary-spending/) on gambling. [Currency volatility](/currency-volatility/)—Latin American currencies are volatile against the [U.S. dollar](/us-dollar/)—creates earnings volatility and complicates consolidated financial reporting. The company's ability to expand into new geographies is limited by regulatory barriers and the maturity of existing markets. It is essentially a Spain/Latin America pure-play, with limited optionality to diversify.
 
 ## The Path to Decline or Consolidation
 

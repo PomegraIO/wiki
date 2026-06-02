@@ -32,7 +32,7 @@ The electric vehicle and renewable energy transition requires enormous quantitie
 
 ## The structure: futures, not warehouses
 
-EVMT does not hold physical copper bars or lithium ore. Instead, the fund holds commodity futures contracts and, in some cases, other derivatives that move with spot metal prices. The fund is regularly rebalanced among its four metals and rolls its futures contracts to maintain near-term exposure as contracts near expiry. Invesco manages this process to track the price performance of the underlying commodities as closely as possible.
+EVMT does not hold physical copper bars or lithium ore. Instead, the fund holds commodity [futures contracts](/futures-contract/) and, in some cases, other derivatives that move with spot metal prices. The fund is regularly rebalanced among its four metals and rolls its futures contracts to maintain near-term exposure as contracts near expiry. Invesco manages this process to track the price performance of the underlying commodities as closely as possible.
 
 The specific allocation among the four metals has evolved since the fund's creation, adjusted for liquidity, contract availability on major exchanges, and strategic fit. Copper typically forms the largest position because it is the most widely used and most liquid of the four.
 
@@ -40,13 +40,13 @@ The specific allocation among the four metals has evolved since the fund's creat
 
 Traditional commodity funds were often structured as partnerships — grantor trusts or commodity pools — which passed through income and gains to investors as K-1 forms, the same tax documents used for partnerships and private-equity interests. K-1 filing is complex, often delayed until after tax-filing deadlines, and requires investors to track complicated basis adjustments. For retail investors holding commodity exposure in taxable accounts, K-1s were a significant friction.
 
-EVMT sidesteps this by being structured as a standard corporation. Investors receive a 1099 form like they would for any stock or mutual fund, reporting ordinary income and capital gains cleanly. This tax simplicity removed a major barrier to retail participation in commodity funds and made EVMT far more accessible to individual portfolio managers.
+EVMT sidesteps this by being structured as a standard corporation. Investors receive a 1099 form like they would for any stock or [mutual fund](/mutual-fund/), reporting ordinary income and capital gains cleanly. This tax simplicity removed a major barrier to retail participation in commodity funds and made EVMT far more accessible to individual portfolio managers.
 
 ## Roll decay and the shape of the futures curve
 
-All commodity futures funds face an inherent mathematical challenge: the futures market's term structure. On any given day, contracts for delivery in three months trade at a different price than contracts for delivery in six months. If the near-term contract is cheaper than the far-term contract (contango), a fund that holds near-term contracts and rolls them into the next contract regularly will harvest losses — selling low, buying high. Over long periods, this "roll decay" can significantly drag on performance, independent of spot metal prices.
+All commodity futures funds face an inherent mathematical challenge: the futures market's term structure. On any given day, contracts for delivery in three months trade at a different price than contracts for delivery in six months. If the near-term contract is cheaper than the far-term contract ([contango](/contango/)), a fund that holds near-term contracts and rolls them into the next contract regularly will harvest losses — selling low, buying high. Over long periods, this "roll decay" can significantly drag on performance, independent of spot metal prices.
 
-Conversely, if the market is in backwardation (far-term contracts cheaper than near-term), rolling can add value. The fund's performance therefore depends not only on whether metal prices rise or fall but also on the shape of the futures curve and how that shape evolves.
+Conversely, if the market is in [backwardation](/backwardation/) (far-term contracts cheaper than near-term), rolling can add value. The fund's performance therefore depends not only on whether metal prices rise or fall but also on the shape of the futures curve and how that shape evolves.
 
 ## From enthusiasm to sobering reality
 
@@ -58,7 +58,7 @@ This history illustrates a key lesson: commodity funds concentrate on price expo
 
 ## Costs and liquidity
 
-EVMT trades on NASDAQ with reasonable liquidity and tight spreads, typical for Invesco's commodity ETF lineup. The fund charges an expense ratio that accounts for the costs of holding and rolling futures contracts. This is lower than the bid-ask spread on individual metal futures, but investors should understand they are paying ongoing management fees on top of the inherent roll decay or gain from the futures curve.
+EVMT trades on [NASDAQ](/nasdaq/) with reasonable liquidity and tight spreads, typical for Invesco's [commodity ETF](/commodity-etf/) lineup. The fund charges an [expense ratio](/expense-ratio/) that accounts for the costs of holding and rolling futures contracts. This is lower than the [bid-ask spread](/bid-ask-spread/) on individual metal futures, but investors should understand they are paying ongoing [management fees](/management-fee/) on top of the inherent roll decay or gain from the futures curve.
 
 ## Who EVMT suits and how to research it
 
@@ -66,4 +66,4 @@ EVMT is appropriate for investors who are confident that metal prices used in EV
 
 Research should begin with the fund's fact sheet, which lists the exact composition and roll schedule. Tracking lithium and cobalt futures prices on the London Metal Exchange and COMEX, monitoring global EV production forecasts from manufacturers, and following announcements of new mining projects, recycling programs, and battery-chemistry innovations all shape the medium-term picture. Macroeconomic data — particularly global industrial production and construction — also drives demand for the metals EVMT holds.
 
-Investors should monitor the fund's year-to-date return versus the corresponding spot prices of its metals to assess whether roll decay or gains are meaningfully affecting performance, and should be prepared for substantial volatility and potential margin calls or forced redemptions in extreme price moves.
+Investors should monitor the fund's year-to-date return versus the corresponding spot prices of its metals to assess whether roll decay or gains are meaningfully affecting performance, and should be prepared for substantial volatility and potential [margin calls](/margin-call-forex/) or forced redemptions in extreme price moves.

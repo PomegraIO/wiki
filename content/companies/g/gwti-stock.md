@@ -17,11 +17,11 @@ keywords: [recycling, waste management, waste-to-energy, environmental, commodit
 
 ## Capital Intensity and the Cost of Processing Equipment
 
-Greenway Technologies operates facilities that process waste feedstock—potentially industrial organic waste, agricultural byproducts, construction debris, or landfill diversion materials—into renewable fuels or recovered commodities. The core of the business is processing equipment: shredders, digesters, separation systems, drying equipment, and [energy recovery](/erii-stock/) units. These assets are capitalized and depreciated; the size and modernity of the processing equipment footprint directly constrains production volume and determines [operating margins](/operating-margin/).
+Greenway Technologies operates facilities that process waste feedstock—potentially industrial organic waste, agricultural byproducts, construction debris, or landfill diversion materials—into renewable fuels or recovered commodities. The core of the business is processing equipment: shredders, digesters, separation systems, drying equipment, and energy recovery units. These assets are capitalized and depreciated; the size and modernity of the processing equipment footprint directly constrains production volume and determines [operating margins](/operating-margin/).
 
 The balance sheet will show Property, Plant, and Equipment reflecting the company's processing facilities. For a waste-recovery business, this is the main productive asset; efficiency gains come from incremental improvements in equipment utilization, feedstock quality, and process uptime, not from raw scaling. If Greenway has deployed multiple processing lines in different locations, the balance sheet will reflect regional [diversification](/diversification/); if concentrated in one or two facilities, the company bears geographic and [operational risk](/operational-risk/) (a facility outage or local feedstock disruption causes material earnings impact).
 
-Depreciation is significant. Processing equipment wears out due to the abrasive nature of waste material; useful lives are typically 10–20 years. The 10-K will disclose the age profile of equipment and any pending capital expenditure for replacement. A company with aging equipment may face near-term capital intensity; a company with recent investments may be positioned for stable margins if throughput ramps.
+[Depreciation](/depreciation/) is significant. Processing equipment wears out due to the abrasive nature of waste material; useful lives are typically 10–20 years. The 10-K will disclose the age profile of equipment and any pending capital expenditure for replacement. A company with aging equipment may face near-term capital intensity; a company with recent investments may be positioned for stable margins if throughput ramps.
 
 ## Feedstock Sourcing and the Contract Structure of Margins
 
@@ -61,7 +61,7 @@ If the company is highly leveraged and margins compress due to feedstock cost in
 
 Some waste-recovery businesses benefit from regulatory drivers: landfill bans on specific materials, renewable-fuel mandates (which increase demand for waste-derived fuels), or carbon-reduction targets that incentivize diversion from landfills or lower-carbon processes. These tailwinds can improve margins and justify capital investment; regulatory shifts can eliminate them. The sustainability of Greenway's business depends partly on whether its customers' demand is driven by durable economics or by temporary incentives.
 
-Reading Greenway's balance sheet is reading a summary of whether the company has built a capital base and sourced feedstock relationships stable enough to earn consistent returns, or whether it remains vulnerable to feedstock-cost inflation, commodity-price declines, and regulatory disruption. For a waste-recovery business to compound value over years, the balance sheet must show not just capital deployed but capital efficiently deployed—equipment that runs at high utilization and feedstock contracts that protect margin.
+Reading Greenway's balance sheet is reading a summary of whether the company has built a capital base and sourced feedstock relationships stable enough to earn consistent returns, or whether it remains vulnerable to feedstock-cost [inflation](/inflation/), commodity-price declines, and regulatory disruption. For a waste-recovery business to compound value over years, the balance sheet must show not just capital deployed but capital efficiently deployed—equipment that runs at high utilization and feedstock contracts that protect margin.
 
 ---
 
@@ -70,7 +70,7 @@ Reading Greenway's balance sheet is reading a summary of whether the company has
 <ul>
 <li><a href="/gwrs-stock/">[Global Water Resources](/gwrs-stock/), Inc.</a></li>
 <li><a href="/gwh-stock/">[ESS Tech](/gwh-stock/), Inc.</a></li>
-<li><a href="/10-k/">10-K (SEC Annual Report)</a></li>
+<li><a href="/10-k/">10-K (SEC [Annual Report](/10-k/))</a></li>
 <li><a href="/balance-sheet/">Balance Sheet</a></li>
 <li><a href="/operating-margin/">Operating Margin</a></li>
 </ul>

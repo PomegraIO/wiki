@@ -47,7 +47,7 @@ The functional-mushroom and adaptogen market has grown substantially in recent y
 
 ## How does the company make money and grow?
 
-Revenue comes from direct sales of Amanita-based products. Gross margins on dietary supplements are typically 60–75% before distribution and marketing costs, so the unit economics are attractive if the company can generate volume. The path to scale is through direct-to-consumer acquisition via digital marketing, retail partnerships with natural-health chains or e-commerce platforms, and building a brand around Amanita Muscaria as a trusted wellness product.
+Revenue comes from direct sales of Amanita-based products. Gross margins on dietary supplements are typically 60–75% before distribution and marketing costs, so the unit economics are attractive if the company can generate volume. The path to scale is through direct-to-consumer [acquisition](/acquisition/) via digital marketing, retail partnerships with natural-health chains or e-commerce platforms, and building a brand around Amanita Muscaria as a trusted wellness product.
 
 Customer acquisition in the supplements space is often driven by influencer marketing, wellness-community endorsements, social media, and organic word-of-mouth. These channels are lower-cost than traditional advertising but require sustained brand-building and product quality. Repeat purchase rates matter: a customer buying a one-month supply needs to reorder regularly for the business to achieve unit economics that support growth.
 

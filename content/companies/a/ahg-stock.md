@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-**Akso Health Group is a [healthcare services](/hcsg-stock/) and technology company that bundles digital consultations, laboratory testing, and imaging services into a single integrated platform.** The company operates in the competitive space between traditional telehealth apps and full-service hospital networks, positioning itself as a middle ground that combines speed and digital convenience with clinical depth.
+**Akso Health Group is a healthcare services and technology company that bundles digital consultations, laboratory testing, and imaging services into a single integrated platform.** The company operates in the competitive space between traditional telehealth apps and full-service hospital networks, positioning itself as a middle ground that combines speed and digital convenience with clinical depth.
 
 The business works by connecting patients, primary care physicians, and specialists through a digital ecosystem. Instead of forcing patients to chase referrals and trek between different facilities, Akso's platform handles the orchestration—a patient can consult a doctor through the app, get orders for lab work routed to a nearby collection center, and receive results tracked in the same digital space. This vertical integration across the care journey reduces friction and creates multiple revenue streams from the same patient interaction. The company earns fees on consultations, service charges on laboratory and imaging work, and licensing revenue when hospitals or employers plug into its platform.
 

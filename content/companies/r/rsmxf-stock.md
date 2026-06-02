@@ -54,7 +54,7 @@ Mining is capital intensive. Building a mine costs hundreds of millions of dolla
 
 Debt matters in mining because if silver prices crash, your revenue crashes but your debt payments stay the same. A mining company with too much debt gets crushed in a downturn. A mining company with reasonable debt and spare cash can weather a price collapse and even buy other mines cheaply when competitors are selling in desperation.
 
-The balance sheet reveals how much headroom the company has. A strong balance sheet means Regency can invest in exploration and development even when silver prices are low. A weak balance sheet means the company is trapped: it has to cut costs and cut exploration just when prices are bad, which often backfires when prices recover.
+The [balance sheet](/balance-sheet/) reveals how much headroom the company has. A strong balance sheet means Regency can invest in exploration and development even when silver prices are low. A weak balance sheet means the company is trapped: it has to cut costs and cut exploration just when prices are bad, which often backfires when prices recover.
 
 ## The silver market and what moves prices
 
@@ -62,7 +62,7 @@ Silver is traded globally. The price is set by supply and demand across all user
 
 When the economy is strong and factories are running, demand for industrial silver rises and prices tend to be higher. When the economy weakens, demand falls and prices often fall with it. So a mining company's profits can swing wildly just because the economy moved, not because the company did anything wrong.
 
-Investors sometimes buy silver as a hedge against inflation or currency weakness. When they do, silver prices can spike regardless of real supply and demand. When they decide silver is not a good hedge anymore, prices crash. Mining companies hate this because it means their returns depend partly on investor sentiment, not just on what their product is actually worth to the people who use it.
+Investors sometimes buy silver as a hedge against [inflation](/inflation/) or currency weakness. When they do, silver prices can spike regardless of real supply and demand. When they decide silver is not a good hedge anymore, prices crash. Mining companies hate this because it means their returns depend partly on investor sentiment, not just on what their product is actually worth to the people who use it.
 
 ## How to think about Regency as an investment
 

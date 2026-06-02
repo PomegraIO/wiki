@@ -53,13 +53,13 @@ The bullish case for XDEF rests on two arguments. First, Europe's defense spendi
 
 The risks are real and different from what typical equity investors face. A peace settlement or diplomatic breakthrough that eases tensions could immediately reduce demand for weapons and military tech. Alternatively, a shift toward buying U.S. systems over European ones — seen as higher-tech or more interoperable with American forces — could erode market share. Domestic political shifts (an anti-military government elected, a peace movement gaining strength) could pressure budgets. And defense companies are politically sensitive; shareholders can face ESG scrutiny or activist pressure around arms sales.
 
-There is also concentration risk. XDEF owns only a small number of companies, and they operate in a few countries (Germany, France, UK, Italy). A regulatory change in one major country, a scandal at one key contractor, or a major contract loss can move the fund's price meaningfully.
+There is also [concentration risk](/concentration-risk/). XDEF owns only a small number of companies, and they operate in a few countries (Germany, France, UK, Italy). A regulatory change in one major country, a scandal at one key contractor, or a major contract loss can move the fund's price meaningfully.
 
 ## Who holds XDEF and why
 
 XDEF appeals to investors with a conviction that European military spending will remain high, that geopolitical tensions will persist, or that the U.S.-China and Russia-NATO standoffs make defense a secular growth driver. Some use it as a geopolitical hedge — the logic that if war comes, defense stocks will outperform. Others see the stable cash flows and government-backed contracts as a contrarian income play in a world of low yields.
 
-The fund is small and narrow compared to broad emerging-market or bond ETFs, so it is typically a satellite position in a larger portfolio, not a core holding. Sophisticated investors use it to express a specific view; it is not a vehicle for passive, unthinking index tracking.
+The fund is small and narrow compared to broad emerging-market or [bond ETFs](/bond-etf/), so it is typically a satellite position in a larger portfolio, not a core holding. Sophisticated investors use it to express a specific view; it is not a vehicle for passive, unthinking index tracking.
 
 ## How to evaluate XDEF
 

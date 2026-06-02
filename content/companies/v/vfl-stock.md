@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-abrdn National Municipal [Income Fund](/income-fund/) is a [closed-end fund](/closed-end-fund/) that invests in [municipal bonds](/municipal-bond/) issued by state and local governments across the United States. The fund collects the tax-exempt interest that muni bonds pay and distributes it to shareholders, making it a vehicle for higher-bracket earners to capture the benefit of tax-free income without assembling their own muni portfolio.
+abrdn National Municipal [Income Fund](/income-fund/) is a [closed-end fund](/closed-end-fund/) that invests in [municipal bonds](/municipal-bond/) issued by state and local governments across the United States. The fund collects the tax-exempt interest that muni [bonds](/bond/) pay and distributes it to shareholders, making it a vehicle for higher-bracket earners to capture the benefit of tax-free income without assembling their own muni portfolio.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,7 +38,7 @@ The tax advantage of muni bonds is steep for the highest earners but vanishes en
 
 Like all bonds, munis are sensitive to interest-rate moves. If the [Federal Reserve](/federal-reserve/) raises rates, the prices of existing muni bonds fall, because new bonds will offer higher yields and existing bonds become less attractive. A shareholder who buys shares of the fund at a premium to [net asset value](/net-asset-value/) and then sees rates rise may face a double loss: the bonds in the portfolio decline, and the fund's share price, which drifts around its net asset value, also falls.
 
-[Credit risk](/credit-risk/) is the other main worry. A few munis default each year, usually smaller issuers with budget problems. The fund's large, diversified portfolio means any single default is diluted, but a regional recession or state-level budget crisis can affect many issuers at once. The 2008 financial crisis led to waves of muni-bond downgrades and isolated defaults, and concerns about underfunded public-pension liabilities continue to worry some analysts. The fund's net asset value reflects the market's assessment of these risks, and sharp declines in net asset value signal that credit concerns have spiked.
+[Credit risk](/credit-risk/) is the other main worry. A few munis default each year, usually smaller issuers with budget problems. The fund's large, diversified portfolio means any single default is diluted, but a regional [recession](/recession/) or state-level budget crisis can affect many issuers at once. The 2008 financial crisis led to waves of muni-bond downgrades and isolated defaults, and concerns about underfunded public-pension liabilities continue to worry some analysts. The fund's net asset value reflects the market's assessment of these risks, and sharp declines in net asset value signal that credit concerns have spiked.
 
 ## Size and leverage
 
@@ -46,6 +46,6 @@ abrdn National Municipal Income Fund is a long-standing, established fund with m
 
 ## How to evaluate the fund
 
-Tracking the fund's net asset value relative to its market price is essential. A fund trading at a 5 percent discount to net asset value offers better value for a new buyer than one trading at a 5 percent premium. The distribution yield—the monthly dividend relative to the share price—is advertised prominently but can be misleading; a 7 percent yield on a fund with a stable net asset value is attractive, while a 7 percent yield accompanied by a collapsing net asset value signals the fund may be distributing capital as income, an unsustainable practice.
+Tracking the fund's net asset value relative to its market price is essential. A fund trading at a 5 percent discount to net asset value offers better value for a new buyer than one trading at a 5 percent premium. The distribution yield—the monthly [dividend](/dividend/) relative to the share price—is advertised prominently but can be misleading; a 7 percent yield on a fund with a stable net asset value is attractive, while a 7 percent yield accompanied by a collapsing net asset value signals the fund may be distributing capital as income, an unsustainable practice.
 
 Reviewing the fund's portfolio composition—what states and issuers it holds, whether it has any holdings in default, what [credit ratings](/credit-rating/) dominate—helps assess the risk being taken. The average maturity of the bonds matters too: a longer-duration portfolio is more sensitive to interest-rate changes. The fund's [annual report](/10-k/) (SEC CIK 0000895574) and monthly factsheets provide this detail. Finally, because the entire appeal of the fund is tax-exemption, it makes sense only for investors who actually benefit from the tax advantage—those in higher federal brackets or those in high-tax states. Others are better served buying taxable bonds or broad U.S. bond funds.

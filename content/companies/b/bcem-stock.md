@@ -30,7 +30,7 @@ A reader studying BCEM should know that because it is concentrated on high-convi
 
 ## How to research it
 
-Start with Baron's own materials: the fund prospectus, the fact sheet, and the quarterly shareholder letters all explain the strategy and current themes in more detail. Look at the top ten holdings, which typically make up a large share of the portfolio — those names tell you a lot about where the manager sees opportunity. Track the turnover rate: a concentrated, conviction-driven portfolio typically has modest turnover, not excessive trading. Compare the fund's returns to the MSCI Emerging Markets Index over rolling periods of three years or longer, since this is an active strategy and short-term noise matters less than long-term track record.
+Start with Baron's own materials: the [fund prospectus](/fund-prospectus/), the fact sheet, and the quarterly shareholder letters all explain the strategy and current themes in more detail. Look at the top ten holdings, which typically make up a large share of the portfolio — those names tell you a lot about where the manager sees opportunity. Track the turnover rate: a concentrated, conviction-driven portfolio typically has modest turnover, not excessive trading. Compare the fund's returns to the MSCI Emerging Markets Index over rolling periods of three years or longer, since this is an active strategy and short-term noise matters less than long-term track record.
 
 Sources:
 - [Baron Capital Launches Baron Emerging Markets Select ETF](https://www.baroncapitalgroup.com/news-and-press/baron-capital-launches-baron-emerging-markets-select-etf)

@@ -13,7 +13,7 @@ handwritten: true
 
 *The **Innovator U.S. Equity Buffer ETF - August** (BAUG) is an exchange-traded fund that invests in broad U.S. large-cap stocks but wraps them in a protective strategy using options — specifically, a collar that caps losses during down years while capping gains during up years.*
 
-The Innovator Buffer series exists to solve a particular investor problem: most people can tolerate market gains but struggle psychologically with large losses. A standard diversified portfolio might fall 30% or 40% in a sharp bear market; many individuals panic-sell near the bottom, locking in losses. BAUG and its sister funds (Reset in different months) offer an alternative: a mechanical options strategy that locks in a maximum loss per calendar year, eliminating the temptation to panic.
+The Innovator Buffer series exists to solve a particular investor problem: most people can tolerate market gains but struggle psychologically with large losses. A standard diversified portfolio might fall 30% or 40% in a sharp [bear market](/bear-market/); many individuals panic-sell near the bottom, locking in losses. BAUG and its sister funds (Reset in different months) offer an alternative: a mechanical options strategy that locks in a maximum loss per calendar year, eliminating the temptation to panic.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,11 +29,11 @@ The Innovator Buffer series exists to solve a particular investor problem: most 
 
 ## The core holdings: broad U.S. large-cap equity
 
-The heart of BAUG is exposure to large-cap U.S. stocks — usually tracked via the S&P 500 or a similar broad index of the 500 largest U.S. public companies. In a vacuum, this is a conventional equity holding that moves in line with the broader market. The fund owns not a concentrated handful of tech stocks but a genuinely diversified basket across sectors: industrials, financials, consumer staples, healthcare, energy, and the rest. In a bull market, a holder of BAUG captures those gains alongside any other diversified investor.
+The heart of BAUG is exposure to large-cap U.S. stocks — usually tracked via the S&P 500 or a similar broad index of the 500 largest U.S. public companies. In a vacuum, this is a conventional equity holding that moves in line with the broader market. The fund owns not a concentrated handful of tech stocks but a genuinely diversified basket across sectors: industrials, financials, consumer staples, healthcare, energy, and the rest. In a [bull market](/bull-market/), a holder of BAUG captures those gains alongside any other diversified investor.
 
 ## The options strategy: the collar, explained plainly
 
-Where BAUG diverges from a simple index fund is in the layer of options placed atop the equity holding. Specifically, the fund sells out-of-the-money call options (giving up some upside) and buys out-of-the-money put options (securing a downside floor). The result is called a collar — it limits both your losses and your gains. The options are structured so that over the fund's annual reset period (August for BAUG), the maximum loss is pinned to roughly 15% if the market falls more than that. But if the market rises sharply, the upside is capped at roughly 15% to 16%, depending on the exact strike prices selected.
+Where BAUG diverges from a simple [index fund](/index-fund/) is in the layer of options placed atop the equity holding. Specifically, the fund sells out-of-the-money [call options](/call-option/) (giving up some upside) and buys out-of-the-money [put options](/put-option/) (securing a downside floor). The result is called a collar — it limits both your losses and your gains. The options are structured so that over the fund's annual reset period (August for BAUG), the maximum loss is pinned to roughly 15% if the market falls more than that. But if the market rises sharply, the upside is capped at roughly 15% to 16%, depending on the exact [strike prices](/strike-price/) selected.
 
 The mechanics reset every August. This date matters. If a calendar year ends badly, the maximum loss is the buffer. If the market falls 40% between August of one year and August of the next, BAUG's loss will be roughly 15%. But the fund also cannot capture the full bounce if the market rebounds sharply in September; that recovery is capped at the collar's upper edge.
 
@@ -45,9 +45,9 @@ The buffer also means different things depending on when you buy. If you enter B
 
 ## Costs and the impact of daily reset
 
-BAUG's expense ratio typically runs 0.35% to 0.50%, higher than a plain S&P 500 ETF (which might cost 0.03% to 0.10%) but not extreme. The real cost of the buffer is invisible: it is the optionality that the fund surrenders. In a market that rises 20% annually, the collar costs you 3% to 5% of what you would have made in a plain index. Over decades, that compounds. But in a market that falls 25%, the collar saves you 10% to 15% of the pain.
+BAUG's [expense ratio](/expense-ratio/) typically runs 0.35% to 0.50%, higher than a plain S&P 500 ETF (which might cost 0.03% to 0.10%) but not extreme. The real cost of the buffer is invisible: it is the optionality that the fund surrenders. In a market that rises 20% annually, the collar costs you 3% to 5% of what you would have made in a plain index. Over decades, that compounds. But in a market that falls 25%, the collar saves you 10% to 15% of the pain.
 
-BAUG trades with good liquidity on the NYSE, and the bid-ask spread is usually tight. The fund can be bought and sold during market hours like any ETF.
+BAUG trades with good liquidity on the NYSE, and the [bid-ask spread](/bid-ask-spread/) is usually tight. The fund can be bought and sold during market hours like any ETF.
 
 ## Who buffer ETFs are for and how to think about them
 

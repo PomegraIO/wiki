@@ -49,7 +49,7 @@ MDS Retailing dominates the department-store category in Indonesia, but it does 
 
 The structural challenge facing MDS is that it is positioned between segments: too expensive to compete with convenience stores and hypermarkets on price, but not specialized enough to compete with focused fashion or beauty retailers. The multi-brand strategy is an attempt to solve this by offering something for every customer tier — from budget-conscious shoppers at some concepts to affluent customers at premium formats. The company's success depends on whether these brands can operate with distinct identities and unit economics rather than becoming interchangeable.
 
-Indonesia's regulatory environment also matters. The government has at times used price controls or protective duties to influence retail, and foreign direct investment in certain retail categories faces restrictions. MDS, as a domestic player with deep roots, benefits from this framing, but the company remains exposed to policy shifts.
+Indonesia's regulatory environment also matters. The government has at times used price controls or protective duties to influence retail, and [foreign direct investment](/foreign-direct-investment/) in certain retail categories faces restrictions. MDS, as a domestic player with deep roots, benefits from this framing, but the company remains exposed to policy shifts.
 
 ## The middle-class tailwind and the path forward
 
@@ -59,6 +59,6 @@ MDS's real test is whether a multi-brand, multi-format approach can defend margi
 
 ## How to research MDS Retailing
 
-Investors should start with the company's annual reports and SEC filings (CIK 0001575356), which are in English and filed through the OTC market (ticker PTMSY). The company also lists on the Indonesian stock exchange under LPPF, where more frequent Indonesian-language disclosures and earnings announcements appear.
+Investors should start with the company's [annual reports](/10-k/) and SEC filings (CIK 0001575356), which are in English and filed through the OTC market (ticker PTMSY). The company also lists on the Indonesian [stock exchange](/stock-exchange/) under LPPF, where more frequent Indonesian-language disclosures and earnings announcements appear.
 
-Key metrics to watch include store-level comparable sales (same-store sales growth), inventory turnover, and the trajectory of e-commerce as a percentage of total revenue. Understanding the company also requires tracking Indonesia's macro environment: consumer spending growth, inflation, and currency movements (the rupiah's strength or weakness affects pricing power and import costs). The company's capital allocation — how aggressively it opens new stores versus optimizing existing ones — reveals confidence in the model.
+Key metrics to watch include store-level comparable sales (same-store sales growth), [inventory turnover](/inventory-turnover/), and the trajectory of e-commerce as a percentage of total revenue. Understanding the company also requires tracking Indonesia's macro environment: consumer spending growth, [inflation](/inflation/), and currency movements (the rupiah's strength or weakness affects pricing power and import costs). The company's capital allocation — how aggressively it opens new stores versus optimizing existing ones — reveals confidence in the model.

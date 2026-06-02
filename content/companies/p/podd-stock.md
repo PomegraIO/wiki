@@ -51,7 +51,7 @@ Insulet also operates a small but growing diabetes-management software and servi
 
 Insulet manufactures pods and pump controllers in facilities in the United States and overseas, relying on specialist manufacturers and contract manufacturers for component sourcing and assembly. The company faces the same supply-chain pressures as other medical-device makers: component shortages, logistics disruptions, and the need to maintain strict quality and regulatory compliance in manufacturing.
 
-A critical dependency is access to reliable insulin supply. Insulet does not manufacture insulin itself; it sources insulin from major pharmaceutical suppliers (Eli Lilly, Novo Nordisk, [Sanofi](/sny-stock/)) and fills pods at its facilities. Any significant insulin shortage or supply disruption would ripple through Insulet's operations.
+A critical dependency is access to reliable insulin supply. Insulet does not manufacture insulin itself; it sources insulin from major pharmaceutical suppliers ([Eli Lilly](/lly-stock/), Novo Nordisk, [Sanofi](/sny-stock/)) and fills pods at its facilities. Any significant insulin shortage or supply disruption would ripple through Insulet's operations.
 
 ## Regulatory environment and reimbursement
 

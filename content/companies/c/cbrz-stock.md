@@ -10,13 +10,13 @@ keywords:
 handwritten: true
 ---
 
-CBRZ is the inverse twin of CBRX: a 2x short leveraged daily-reset ETF against the Cboe Bitcoin Volatility Risk Premium Index. Where CBRX is a bet that volatility premiums will stay fat and calm will persist, CBRZ is the mirror image — a bet that those premiums are overstated and that a volatility spike will compress them. The fund is structured for investors who expect the volatility risk premium to contract (realized volatility to exceed implied), and who want 2x leverage on that bet with daily rebalancing.
+CBRZ is the inverse twin of CBRX: a 2x short leveraged daily-reset ETF against the Cboe [Bitcoin](/bitcoin/) Volatility Risk Premium Index. Where CBRX is a bet that volatility premiums will stay fat and calm will persist, CBRZ is the mirror image — a bet that those premiums are overstated and that a volatility spike will compress them. The fund is structured for investors who expect the volatility risk premium to contract (realized volatility to exceed implied), and who want 2x leverage on that bet with daily rebalancing.
 
 ## Short volatility premium: the thesis and the execution
 
-The Cboe BRR index goes up when option premiums are wide relative to what actually happens. It goes down when realized volatility exceeds implied volatility, or when investors begin to demand higher premiums for shorting volatility (meaning premiums must rise to attract new sellers, which actually depresses the index return). CBRZ is short that index, meaning it profits when the index declines.
+The Cboe BRR index goes up when [option premiums](/option-premium/) are wide relative to what actually happens. It goes down when realized volatility exceeds [implied volatility](/implied-volatility/), or when investors begin to demand higher premiums for shorting volatility (meaning premiums must rise to attract new sellers, which actually depresses the index return). CBRZ is short that index, meaning it profits when the index declines.
 
-The theoretical appeal is straightforward: premiums are expensive, crash risk is real but invisible, and sooner or later the market reprices that risk. When it does, option sellers get hurt, and the BRR index drops. CBRZ, being 2x short, doubles that loss in the index and turns it into a fund gain. In a sharp volatility spike — a flash crash, a geopolitical shock, a crypto panic — the BRR can fall 20%, 30%, or more in days. CBRZ, 2x short, would gain 40%, 60%, or more, delivering the kind of explosive returns that attract hedging specialists and macro traders.
+The theoretical appeal is straightforward: premiums are expensive, crash risk is real but invisible, and sooner or later the market reprices that risk. When it does, option sellers get hurt, and the BRR index drops. CBRZ, being 2x short, doubles that loss in the index and turns it into a fund gain. In a sharp volatility spike — a [flash crash](/flash-crash-2010/), a geopolitical shock, a crypto panic — the BRR can fall 20%, 30%, or more in days. CBRZ, 2x short, would gain 40%, 60%, or more, delivering the kind of explosive returns that attract hedging specialists and macro traders.
 
 The tactical appeal is also clear: buy CBRZ when volatility premiums are at decade highs and option sellers are complacent, then exit when the crash inevitably comes. Repeat a few times per decade, and the risk-adjusted returns can look attractive.
 
@@ -36,11 +36,11 @@ CBRZ also loses if volatility mean-reverts in the wrong direction — if realize
 
 ## Cost structure and the rebalancing burden
 
-The expense ratio includes the cost of the inverse leverage and the daily rebalancing. Bid-ask spreads are typically wider than for a simple Bitcoin ETF because the product is more complex and less liquid. Trading in and out of CBRZ costs real money. For someone using it as a tail hedge — a small position held constantly to cushion crashes — the drag over time is substantial. For someone timing it tactically — buying days before expected volatility and exiting days or weeks later — the cost might be acceptable.
+The [expense ratio](/expense-ratio/) includes the cost of the inverse leverage and the daily rebalancing. [Bid-ask spreads](/bid-ask-spread/) are typically wider than for a simple Bitcoin ETF because the product is more complex and less liquid. Trading in and out of CBRZ costs real money. For someone using it as a tail hedge — a small position held constantly to cushion crashes — the drag over time is substantial. For someone timing it tactically — buying days before expected volatility and exiting days or weeks later — the cost might be acceptable.
 
 ## Fund mechanics across the cycle
 
-In a boom, when confidence is high and volatility premiums are fat, CBRZ decays quietly. It does not help; it hurts. An investor holding CBRZ in a multiyear bull market in risk assets experiences slow, grinding losses as the index rises and the inverse position loses.
+In a boom, when confidence is high and volatility premiums are fat, CBRZ decays quietly. It does not help; it hurts. An investor holding CBRZ in a multiyear [bull market](/bull-market/) in risk assets experiences slow, grinding losses as the index rises and the inverse position loses.
 
 In early stress, when the first cracks appear but selling is not yet panicked, CBRZ might start to look interesting — the BRR index pauses or dips slightly, and the fund holds steady or gains. This is the window when it begins to look prescient.
 
@@ -56,6 +56,6 @@ What CBRZ is not is a core holding or a patient investment. Buying it and leavin
 
 ## How to think about it
 
-The prospectus and fact sheets explain the inverse leverage and reset mechanics. What matters in practice is understanding the rebalancing cost: how much value does the fund lose per month in a calm, flat market? Examine the fund's performance during multi-month calm periods to see that cost in action. Then ask: if I buy this fund today, when do I expect to sell? How long can I afford the decay? Do I have a specific catalyst in mind? If the answers are vague — "I just feel like volatility is going to spike someday" — CBRZ is a poor fit. If the answers are concrete — "Premiums are the highest they have been in five years, and we have a central bank meeting in two weeks that could shock markets" — CBRZ might be a precise tactical tool.
+The prospectus and fact sheets explain the inverse leverage and reset mechanics. What matters in practice is understanding the rebalancing cost: how much value does the fund lose per month in a calm, [flat market](/flat-market/)? Examine the fund's performance during multi-month calm periods to see that cost in action. Then ask: if I buy this fund today, when do I expect to sell? How long can I afford the decay? Do I have a specific catalyst in mind? If the answers are vague — "I just feel like volatility is going to spike someday" — CBRZ is a poor fit. If the answers are concrete — "Premiums are the highest they have been in five years, and we have a [central bank](/central-bank/) meeting in two weeks that could shock markets" — CBRZ might be a precise tactical tool.
 
 The inverse daily-reset ETF is one of the sharpest tools available to traders who know when to use it. For everyone else, it is an expensive way to bleed capital while waiting for a crash that may never come.

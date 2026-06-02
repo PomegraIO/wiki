@@ -27,7 +27,7 @@ handwritten: true
 
 ## What the fund tracks
 
-Direxion's AI and Big Data index focuses on technology companies involved in artificial-intelligence development, deployment, and infrastructure. The underlying index includes semiconductor makers, software platforms, cloud providers, and application developers whose revenues derive significantly from or depend on AI adoption and big-data analytics. The index weights its holdings equally rather than by market capitalization, so smaller holdings get the same notional exposure as the largest companies. This means AIBD captures broad tech-sector exposure rather than concentration in the mega-cap names that dominate market-cap weighted indices.
+Direxion's AI and Big Data index focuses on technology companies involved in artificial-intelligence development, deployment, and infrastructure. The underlying index includes semiconductor makers, software platforms, cloud providers, and application developers whose revenues derive significantly from or depend on AI adoption and big-data analytics. The index weights its holdings equally rather than by [market capitalization](/market-capitalization/), so smaller holdings get the same notional exposure as the largest companies. This means AIBD captures broad tech-sector exposure rather than concentration in the mega-cap names that dominate market-cap weighted indices.
 
 ## The 2x daily-reset structure and its consequences
 
@@ -41,7 +41,7 @@ AIBD is explicitly a tactical trading instrument. It is designed for experienced
 
 ## Costs, liquidity, and trading characteristics
 
-Like most Direxion leveraged ETFs, AIBD carries a higher expense ratio than a passive broad-market index fund — typical of the added complexity of maintaining daily 2x inverse leverage. The fund trades on the NASDAQ like a stock, so it can be bought and sold during market hours at prices set by supply and demand. Liquidity in leveraged ETFs depends on the underlying index and the fund's size; AIBD's relatively narrow focus on AI and big-data technology means it may have wider bid-ask spreads and lower volume than a broad technology ETF.
+Like most Direxion [leveraged ETFs](/leveraged-etf/), AIBD carries a higher [expense ratio](/expense-ratio/) than a passive broad-market [index fund](/index-fund/) — typical of the added complexity of maintaining daily 2x inverse leverage. The fund trades on the [NASDAQ](/nasdaq/) like a stock, so it can be bought and sold during market hours at prices set by supply and demand. Liquidity in leveraged ETFs depends on the underlying index and the fund's size; AIBD's relatively narrow focus on AI and big-data technology means it may have wider [bid-ask spreads](/bid-ask-spread/) and lower volume than a broad technology ETF.
 
 ## Real risks for users
 
@@ -49,4 +49,4 @@ Beyond volatility decay, AIBD carries the ordinary risks of any leveraged invers
 
 ## How to research AIBD
 
-Prospective traders should read the fund's prospectus and fact sheet on Direxion's website, which clearly warn about the daily-reset structure and volatility decay. The prospectus discloses the fund's holdings, the underlying index methodology, and the fees. Watch the index composition to understand which companies drive the fund's moves. If considering AIBD as a hedge, compare its cost and daily reset behavior against alternatives like inverse ETFs without leverage, put options on the index, or simply holding cash. The fund is a trading tool, not an investment — its design assumes active management and short holding periods.
+Prospective traders should read the fund's prospectus and fact sheet on Direxion's website, which clearly warn about the daily-reset structure and volatility decay. The prospectus discloses the fund's holdings, the underlying index methodology, and the fees. Watch the index composition to understand which companies drive the fund's moves. If considering AIBD as a hedge, compare its cost and daily reset behavior against alternatives like [inverse ETFs](/inverse-etf/) without leverage, [put options](/put-option/) on the index, or simply holding cash. The fund is a trading tool, not an investment — its design assumes active management and short [holding periods](/holding-period/).

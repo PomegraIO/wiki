@@ -12,19 +12,19 @@ handwritten: true
 
 > A leveraged bet on volatility premiums is a bet that calm markets will continue — and calm markets end.
 
-CBRX is Tradr's version of a 2x long leveraged daily-reset ETF tracking the Cboe Bitcoin Volatility Risk Premium Index (BRR). Like every leveraged daily-reset fund, it is a mechanical instrument built for traders who expect a directional move and need to be right fast, not a vehicle for building wealth over decades. The memorable line above captures the core truth: the fund prospers in those periods when implied volatility (what options cost) far exceeds realized volatility (what actually happens), and the premium harvest is fat. The moment the market gets interesting — the moment investors start to care about tail risk — the entire thesis evaporates.
+CBRX is Tradr's version of a 2x long leveraged daily-reset ETF tracking the Cboe [Bitcoin](/bitcoin/) Volatility Risk Premium Index (BRR). Like every leveraged daily-reset fund, it is a mechanical instrument built for traders who expect a directional move and need to be right fast, not a vehicle for building wealth over decades. The memorable line above captures the core truth: the fund prospers in those periods when [implied volatility](/implied-volatility/) (what options cost) far exceeds realized volatility (what actually happens), and the premium harvest is fat. The moment the market gets interesting — the moment investors start to care about [tail risk](/tail-risk/) — the entire thesis evaporates.
 
 ## The volatility risk premium and why it exists
 
 The volatility risk premium is the compensation for being an option seller. When you sell a Bitcoin call or put, you take on the risk that the market moves violently against you. In exchange, you pocket the premium — the price of the option. If the market stays calm and realized volatility stays below the implied volatility baked into the option price, you keep that premium as profit. This works month after month, year after year, as long as nothing catastrophic happens.
 
-The BRR index mechanically harvests this premium by selling options on Bitcoin and rolling them monthly. It is a pure short-volatility strategy — a bet that realized volatility will be low. In periods of genuine calm (market expansions, no catalysts, no fear), the index compounds this premium steadily and becomes attractive to investors seeking extra yield. In periods of stress (crashes, central bank shocks, geopolitical surprises), the index gets hit hard. Realized volatility spikes, option sellers are underwater, and the index plummets.
+The BRR index mechanically harvests this premium by selling options on Bitcoin and rolling them monthly. It is a pure short-volatility strategy — a bet that realized volatility will be low. In periods of genuine calm (market expansions, no catalysts, no fear), the index compounds this premium steadily and becomes attractive to investors seeking extra yield. In periods of stress (crashes, [central bank](/central-bank/) shocks, geopolitical surprises), the index gets hit hard. Realized volatility spikes, option sellers are underwater, and the index plummets.
 
 ## What CBRX adds to the equation
 
 CBRX layers 2x daily-reset leverage on top of this index. On days when the BRR rises, CBRX aims to double that move. On days when the BRR falls, CBRX doubles the loss. The daily reset means the fund rebalances each night to maintain exactly 2x leverage, which has subtle but important consequences.
 
-In a smooth bull market for the index, CBRX amplifies gains beautifully. If the BRR gains 20% over a month of steady advances, CBRX aims for 40%. But if the BRR gains 25%, loses 5%, gains 3%, and so on — the typical choppy market — the daily reset causes the fund to underperform. It rebalances by buying more after up days and selling more after down days, which means it is perpetually taking profits on strength and locking in losses on weakness. Over time, this dynamic drag — volatility decay — accumulates. A flat BRR month coupled with high volatility might see CBRX decline 3–5%, even though the underlying index went nowhere.
+In a smooth [bull market](/bull-market/) for the index, CBRX amplifies gains beautifully. If the BRR gains 20% over a month of steady advances, CBRX aims for 40%. But if the BRR gains 25%, loses 5%, gains 3%, and so on — the typical choppy market — the daily reset causes the fund to underperform. It rebalances by buying more after up days and selling more after down days, which means it is perpetually taking profits on strength and locking in losses on weakness. Over time, this dynamic drag — volatility decay — accumulates. A flat BRR month coupled with high volatility might see CBRX decline 3–5%, even though the underlying index went nowhere.
 
 ## The crash scenario
 
@@ -34,7 +34,7 @@ This is not a mere risk — it is the inevitable end state of any short-volatili
 
 ## Costs and the drag from rebalancing
 
-The expense ratio includes the cost of the leverage and the daily rebalancing. But the real cost is often invisible: bid-ask spreads, market impact when the fund buys and sells its derivatives, and the subtle cost of rebalancing in a market that is slightly against you. These costs eat away at the premium harvest. In a highly liquid market (very common for Bitcoin derivatives), the drag is small. In a stressed market where liquidity dries up, the drag becomes severe.
+The [expense ratio](/expense-ratio/) includes the cost of the leverage and the daily rebalancing. But the real cost is often invisible: [bid-ask spreads](/bid-ask-spread/), market impact when the fund buys and sells its derivatives, and the subtle cost of rebalancing in a market that is slightly against you. These costs eat away at the premium harvest. In a highly liquid market (very common for Bitcoin derivatives), the drag is small. In a stressed market where liquidity dries up, the drag becomes severe.
 
 The fund is more expensive to trade than a simple Bitcoin ETF — the bid-ask spread is wider because the product is more complex and fewer people want to trade it. Getting in and out quickly, especially during market stress, costs real money.
 

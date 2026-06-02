@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Leverage Shares 2X Long SPOT Daily ETF trades under the ticker SPOG and seeks to track twice the daily return of the Grayscale Bitcoin Mini Trust, a holder of physical bitcoin. It is a leveraged vehicle, using financial instruments to amplify the underlying's moves, and it resets its exposure daily — mechanics that create both opportunity and distinct risks that differentiate it sharply from buy-and-hold bitcoin ownership.
+Leverage Shares 2X Long SPOT Daily ETF trades under the ticker SPOG and seeks to track twice the daily return of the Grayscale [Bitcoin](/bitcoin/) Mini Trust, a holder of physical bitcoin. It is a leveraged vehicle, using financial instruments to amplify the underlying's moves, and it resets its exposure daily — mechanics that create both opportunity and distinct risks that differentiate it sharply from buy-and-hold bitcoin ownership.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,7 +34,7 @@ The opposite effect occurs when a market trends strongly in one direction: lever
 
 ## Costs and trading
 
-SPOG, like all leveraged ETFs, charges an expense ratio to cover the cost of managing the leverage overlay. The exact fee is competitive for the space, though it is higher than what a holder of SPOT itself would pay. Additionally, the fund incurs the cost of rebalancing derivatives daily, which is reflected in the stated expense ratio but worth understanding conceptually — each day the manager is selling or buying swaps to adjust the leverage back to precisely 2X, and these transactions carry bid-ask spreads and operational costs.
+SPOG, like all [leveraged ETFs](/leveraged-etf/), charges an [expense ratio](/expense-ratio/) to cover the cost of managing the leverage overlay. The exact fee is competitive for the space, though it is higher than what a holder of SPOT itself would pay. Additionally, the fund incurs the cost of rebalancing derivatives daily, which is reflected in the stated expense ratio but worth understanding conceptually — each day the manager is selling or buying swaps to adjust the leverage back to precisely 2X, and these transactions carry [bid-ask spreads](/bid-ask-spread/) and operational costs.
 
 The fund trades on an exchange, so investors can buy and sell shares during market hours at market prices. SPOT itself is a trust rather than a traditional ETF, so SPOG offers the convenience of exchange trading to investors seeking leveraged bitcoin exposure without managing a separate trust holding.
 

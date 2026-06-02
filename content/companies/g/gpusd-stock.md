@@ -4,7 +4,7 @@ description: "Diversified holding company with interests in real estate, special
 keywords: ["holding company", "diversified investments", "special-purpose-acquisition-company", "real estate", "technology"]
 ---
 
-*The contemporary capital markets are rife with incomplete narratives: companies assembled through [mergers](/merger/), restructurings, and SPAC transactions that defy easy categorization. **Alset Capital Inc. (GPUSD)** exemplifies this category. The company exists as a diversified holding enterprise with operations and investments spanning real estate development, specialty chemicals manufacturing, and emerging-technology ventures. Understanding its value requires piecing together disparate business units and assessing management's capital allocation track record—a task rendered difficult by the company's complex history and the opacity often surrounding holding company structures.*
+*The contemporary capital markets are rife with incomplete narratives: companies assembled through [mergers](/merger/), restructurings, and SPAC transactions that defy easy categorization. **[Alset Capital](/gpusf-stock/) Inc. (GPUSD)** exemplifies this category. The company exists as a diversified holding enterprise with operations and investments spanning real estate development, specialty chemicals manufacturing, and emerging-technology ventures. Understanding its value requires piecing together disparate business units and assessing management's capital allocation track record—a task rendered difficult by the company's complex history and the opacity often surrounding holding company structures.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>GPUSD</td></tr>

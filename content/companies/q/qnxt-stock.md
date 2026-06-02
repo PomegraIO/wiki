@@ -12,17 +12,17 @@ handwritten: true
 
 Nasdaq-100 is mega-cap heavy. Top ten holdings own nearly 30 percent. Top thirty own nearly 50. For investors wanting broad tech exposure without betting the portfolio on the same cluster of familiar names, QNXT provides an alternative.
 
-The fund holds constituents ranked 31 through 100 in market cap on the Nasdaq-100. Same index, different slice. You get the Nasdaq-100 growth story—technology, consumer, communications—minus Apple, Microsoft, Nvidia, Tesla, Amazon. The mathematical purity of the approach is intentional. Not a quality screen, not a growth metric, just arithmetic. If you believe in Nasdaq-100 thesis but fear mega-cap concentration, this solves it.
+The fund holds constituents ranked 31 through 100 in [market cap](/market-capitalization/) on the Nasdaq-100. Same index, different slice. You get the Nasdaq-100 growth story—technology, consumer, communications—minus [Apple](/aapl-stock/), [Microsoft](/msft-stock/), [Nvidia](/nvda-stock/), [Tesla](/tsla-stock/), Amazon. The mathematical purity of the approach is intentional. Not a quality screen, not a growth metric, just arithmetic. If you believe in Nasdaq-100 thesis but fear mega-cap concentration, this solves it.
 
 Composition shifts continuously as valuations move. A stock at position 32 can cross into the top 30 and exit QNXT. A position at 25 can slip back and get added. Mechanical rebalancing. No judgment. Market cap changes drive entry and exit, not anyone's forecast of which companies will win.
 
 Portfolio tilt: still technology-heavy but different weighting. Mega-caps gone. Next tier—large-caps but not giant-caps—dominates. Consumer discretionary and communications services still present but without the weight of the five mega-cap giants. The second wave of innovation companies makes up more of returns than in the full index.
 
-Volatility higher than the full Nasdaq-100. Smaller constituents swing more. Company at rank 60 carries more price volatility and operating uncertainty than rank 3. Bear markets hit harder because defensive mega-caps are absent. Bull markets can offer faster growth if the tier below mega-caps outperforms the top tier.
+Volatility higher than the full Nasdaq-100. Smaller constituents swing more. Company at rank 60 carries more price volatility and operating uncertainty than rank 3. [Bear markets](/bear-market/) hit harder because defensive mega-caps are absent. [Bull markets](/bull-market/) can offer faster growth if the tier below mega-caps outperforms the top tier.
 
-Trading clean. ETF structure. Nasdaq listed. Underlying holdings all Nasdaq-listed, high-liquidity stocks. Bid-ask spreads tight. Settlement standard.
+Trading clean. ETF structure. [Nasdaq](/nasdaq/) listed. Underlying holdings all Nasdaq-listed, high-liquidity stocks. [Bid-ask spreads](/bid-ask-spread/) tight. Settlement standard.
 
-Expense ratio low. Rules-based passive indexing. Manager tracks the index—holds eligible stocks, weights by market cap, rebalances when top 30 changes. Minimal human judgment. Minimal overhead.
+[Expense ratio](/expense-ratio/) low. Rules-based passive indexing. Manager tracks the index—holds eligible stocks, weights by market cap, rebalances when top 30 changes. Minimal human judgment. Minimal overhead.
 
 No hidden costs embedded. The exclusion rule is transparent. Anyone calculates exactly which stocks are in and out at any moment. Fund does not charge extra. No option selling or income strategies layered on. You own 70 stocks at market prices.
 

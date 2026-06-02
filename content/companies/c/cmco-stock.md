@@ -37,7 +37,7 @@ After the war, as American manufacturers rebuilt and industrial construction res
 
 By the 1960s and 1970s, Columbus McKinnon operated as a mature, profitable industrial manufacturer. Growth came from incremental gains in market share, new products addressing specific customer pain points, and geographic expansion into emerging markets. The company went public in 1960, allowing it to access capital markets for [acquisitions](/acquisition/) and facility investments.
 
-The core business model was straightforward: engineers designed equipment to safely lift and move loads; manufacturing facilities produced them at reasonable cost; sales teams sold to contractors, factories, and utilities; service networks provided spare parts and maintenance. Margins were healthy because Columbus McKinnon's products were essential to customer operations—a factory could not function without hoists and rigging equipment—and switching costs were high once a customer integrated Columbus McKinnon products into their infrastructure.
+The core business model was straightforward: engineers designed equipment to safely lift and move loads; manufacturing facilities produced them at reasonable cost; sales teams sold to contractors, factories, and utilities; service networks provided spare parts and [maintenance. Margins](/maintenance-margin/) were healthy because Columbus McKinnon's products were essential to customer operations—a factory could not function without hoists and rigging equipment—and switching costs were high once a customer integrated Columbus McKinnon products into their infrastructure.
 
 ## Adaptation to Globalization and Automation
 

@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-Freddie Mac. The name summons immediate associations: government backstop, secondary mortgage market, the 2008 crisis. FMCKK is one of the preferred stock classes that emerged from the financial wreckage of 2008–2009, when the Federal Housing Finance Agency placed Freddie Mac and Fannie Mae into conservatorship—a technical term meaning government takeover.
+[Freddie Mac](/freddie-mac/). The name summons immediate associations: government backstop, secondary mortgage market, the 2008 crisis. FMCKK is one of the [preferred stock](/preferred-stock/) classes that emerged from the financial wreckage of 2008–2009, when the Federal Housing Finance Agency placed Freddie Mac and [Fannie Mae](/fannie-mae/) into conservatorship—a technical term meaning government takeover.
 
-The ticker is sparse. FMCKK trades over-the-counter, not on NASDAQ or NYSE. Liquidity is thin. Most financial platforms list it without fanfare. Yet it sits as a claim on one of the largest balance sheets in American finance.
+The ticker is sparse. FMCKK trades over-the-counter, not on [NASDAQ](/nasdaq/) or NYSE. Liquidity is thin. Most financial platforms list it without fanfare. Yet it sits as a claim on one of the largest [balance sheets](/balance-sheet/) in American finance.
 
 ## The conservatorship fact
 
-Freddie Mac has been in federal conservatorship since September 2008. That fact colours everything about FMCKK. The enterprise does not operate under ordinary commercial rules. The FHFA, a federal regulator, controls the company's dividend policy, capital actions, and strategic direction. Earnings belong partly to the Treasury under the "profit cap" agreement—a clause that redirects retained earnings above a threshold to the federal government rather than to shareholders or creditors.
+Freddie Mac has been in federal conservatorship since September 2008. That fact colours everything about FMCKK. The enterprise does not operate under ordinary commercial rules. The FHFA, a federal regulator, controls the company's [dividend](/dividend/) policy, capital actions, and strategic direction. Earnings belong partly to the Treasury under the "profit cap" agreement—a clause that redirects [retained earnings](/retained-earnings/) above a threshold to the federal government rather than to shareholders or creditors.
 
 Shareholders came late to this arrangement. Common equity holders were largely wiped out in the conservatorship deal; preferred holders got haircuts or full write-downs depending on seniority. FMCKK represents a later issuance, a rebuilding of the capital structure. The original Freddie Mac preferred classes no longer exist.
 
@@ -31,13 +31,13 @@ Freddie Mac's employees and operations are real. The company has servicing busin
 
 ## The capital constraint
 
-This is where the conservatorship bite shows. Normal banks reinvest earnings to grow the balance sheet. Freddie Mac cannot. The profit cap forces a large share of earnings to the Treasury. Capital actions—share buybacks, dividend increases, preferred redemptions—require explicit permission. The result: Freddie Mac looks financially healthy on paper but cannot deploy its earnings power the way a private company would. Retained earnings do not accumulate. Leverage cannot expand. Growth initiatives require regulatory approval.
+This is where the conservatorship bite shows. Normal banks reinvest earnings to grow the balance sheet. Freddie Mac cannot. The profit cap forces a large share of earnings to the Treasury. Capital actions—[share buybacks](/share-buyback/), dividend increases, preferred redemptions—require explicit permission. The result: Freddie Mac looks financially healthy on paper but cannot deploy its earnings power the way a private company would. Retained earnings do not accumulate. Leverage cannot expand. Growth initiatives require regulatory approval.
 
 This matters because it affects what FMCKK is. It is not a claim on a growing business. It is a claim on a quasi-governmental mortgage guarantor whose earnings are capped by statute and whose capital is controlled by regulators. The dividend is fixed; the upside is capped if Freddie Mac redeems the shares at par. The downside emerges if conservatorship persists indefinitely, if Congress restructures the GSE, or if housing policy shifts sharply.
 
 ## The housing-market dependency
 
-Freddie Mac's fortune swings with the housing market. When origination volume climbs, guarantee fees flow. When volume collapses—as it did after mortgage rates surged in 2022—earnings shrink. A recession that triggers mortgage defaults (even if government guarantees cover the credit loss) can tie up capital and compress spreads. Rising rates reduce refinancing activity and revalue the existing mortgage book. A deflationary shock would compress housing demand and margins simultaneously.
+Freddie Mac's fortune swings with the housing market. When origination volume climbs, guarantee fees flow. When volume collapses—as it did after mortgage rates surged in 2022—earnings shrink. A [recession](/recession/) that triggers mortgage defaults (even if government guarantees cover the credit loss) can tie up capital and compress spreads. Rising rates reduce refinancing activity and revalue the existing mortgage book. A deflationary shock would compress housing demand and margins simultaneously.
 
 The company has no control over these forces. It is a prisoner of the housing cycle, macroeconomic policy, and Fed interest-rate decisions. FMCKK investors are betting, at bottom, that the housing market will remain functional and that Freddie Mac will retain its place in that market.
 
@@ -49,7 +49,7 @@ Any of these scenarios reshapes the risk profile. Until Congress acts, FMCKK tra
 
 ## The floor and ceiling
 
-The practical floor on FMCKK is the stated dividend rate, adjusted for conservatorship risk. If the government cuts the dividend, the shares fall. The ceiling is par value if Freddie Mac redeems. In between sits the yield-based valuation, where investors price in the conservatorship discount and the housing-market cycle.
+The practical floor on FMCKK is the stated dividend rate, adjusted for conservatorship risk. If the government cuts the dividend, the shares fall. The ceiling is [par value](/par-value/) if Freddie Mac redeems. In between sits the yield-based valuation, where investors price in the conservatorship discount and the housing-market cycle.
 
 For income investors, FMCKK offers a yield that reflects default risk (low) and regulatory risk (moderate-to-high). It is not a capital-appreciation play. It is a market-dependent income instrument whose value turns on policy changes outside the company's control.
 

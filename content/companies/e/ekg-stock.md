@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The **First Trust Nasdaq Lux Digital Health Solutions ETF** (EKG) holds companies focused on the technology side of medicine—the software, hardware, and platforms reshaping how people manage their health and how healthcare systems operate. The fund tracks the Nasdaq Lux Digital Health Solutions Index, a rules-based benchmark of companies across digital health innovation.
+The **First Trust [Nasdaq](/nasdaq/) Lux Digital Health Solutions ETF** (EKG) holds companies focused on the technology side of medicine—the software, hardware, and platforms reshaping how people manage their health and how healthcare systems operate. The fund tracks the Nasdaq Lux Digital Health Solutions Index, a rules-based benchmark of companies across digital health innovation.
 
 What counts as digital health here? Telemedicine platforms that let patients see doctors from home. Data analytics and AI companies that help hospitals manage patient records, allocate beds, and optimise workflows. Wearable devices that monitor vital signs and detect early warning signs. Digital therapeutics—apps that treat disease rather than just tracking it. Software companies powering clinic management, pharmacy systems, electronic health records, and health insurance administration. The index spans roughly 40–50 stocks from this ecosystem, weighted by market capitalisation. The fund is not about brick-and-mortar hospitals or traditional insurance companies, but the enablers and disruptors of healthcare delivery.
 
@@ -20,7 +20,7 @@ But this is a young sector with real challenges. Many digital health companies a
 
 ## The fund's mechanics and costs
 
-First Trust Advisors manages EKG as a passive, index-tracking fund. There is no stock-picker trying to beat the index; the portfolio simply follows the index rules. The expense ratio is moderate for a sector ETF—typically under 0.65 percent annually. EKG trades on US exchanges with reasonable daily volume, so buying and selling is straightforward and does not move the price significantly.
+First Trust Advisors manages EKG as a passive, index-tracking fund. There is no stock-picker trying to beat the index; the portfolio simply follows the index rules. The [expense ratio](/expense-ratio/) is moderate for a [sector ETF](/sector-etf/)—typically under 0.65 percent annually. EKG trades on US exchanges with reasonable daily volume, so buying and selling is straightforward and does not move the price significantly.
 
 The index composition is dynamic. Periodic rebalancing means holdings that grow too large relative to the index get trimmed, and companies that fall out of favour with the index rules are rotated out. Watching the composition over time tells you whether the fund's character is shifting—towards larger, more mature incumbents versus newer growth companies.
 

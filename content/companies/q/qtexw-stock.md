@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-QTEXW represents warrants—that is, options to purchase shares of Inspira Technologies OXY B.H.N. Ltd at a predetermined price over a defined period. They are not shares. They are derivative contracts that amplify exposure to the underlying stock and carry higher risk.
+QTEXW represents warrants—that is, options to purchase shares of [Inspira Technologies OXY B.H.N](/qtex-stock/). Ltd at a predetermined price over a defined period. They are not shares. They are derivative contracts that amplify exposure to the underlying stock and carry higher risk.
 
 ## The warrant structure and mechanics
 
-A warrant is a right, not an obligation. The holder of QTEXW has the right (but not the duty) to buy Inspira shares at a strike price. If Inspira's stock rises above that strike price, the warrant becomes valuable—a holder can exercise it, pay the strike price, receive a share, and immediately profit. If the stock falls below the strike price before the warrant expires, it expires worthless and the holder's investment is a total loss.
+A warrant is a right, not an obligation. The holder of QTEXW has the right (but not the duty) to buy Inspira shares at a [strike price](/strike-price/). If Inspira's stock rises above that strike price, the warrant becomes valuable—a holder can exercise it, pay the strike price, receive a share, and immediately profit. If the stock falls below the strike price before the warrant expires, it expires worthless and the holder's investment is a total loss.
 
 Warrants are leveraged instruments. A small move in the underlying stock translates to a larger percentage move in the warrant's value. If Inspira shares rise 20 percent and the strike price is near-the-money (close to the current price), the warrant could gain 100 percent or more. But if the stock falls 20 percent, the warrant could lose all value instantly.
 
@@ -49,16 +49,16 @@ The most critical signal for warrant holders is progress toward approval. Any ev
 
 ## Valuation considerations
 
-Warrants on pre-revenue companies are difficult to value using traditional financial metrics. There are no earnings, minimal revenue, and the timeline to profitability is uncertain. Valuation relies instead on scenario analysis—assigning probabilities to outcomes (approval + adoption, partial approval, failure, acquisition) and weighting them.
+Warrants on pre-revenue companies are difficult to value using traditional financial metrics. There are no earnings, minimal revenue, and the timeline to profitability is uncertain. Valuation relies instead on [scenario analysis](/scenario-analysis/)—assigning probabilities to outcomes (approval + adoption, partial approval, failure, [acquisition](/acquisition/)) and weighting them.
 
-A rational warrant holder must believe either that the stock will appreciate dramatically from current levels, or that the warrant is misprice relative to the underlying stock's volatility. The moment the underlying stock rises above the strike price, the warrant's intrinsic value becomes visible (stock price minus strike price). Until then, value is purely optionality—the present value of the possibility that it could.
+A rational warrant holder must believe either that the stock will appreciate dramatically from current levels, or that the warrant is misprice relative to the underlying stock's volatility. The moment the underlying stock rises above the strike price, the warrant's [intrinsic value](/intrinsic-value/) becomes visible (stock price minus strike price). Until then, value is purely optionality—the present value of the possibility that it could.
 
 ## Expiration risk
 
-Warrants have expiration dates. As expiration approaches and the stock remains below the strike, warrant holders face a decision: exercise and immediately lose money (if the strike is above the current stock price), or let the warrant expire worthless. This creates a time-decay effect that vanilla stock buyers do not face. A stock can be held indefinitely; a warrant cannot.
+Warrants have [expiration dates](/expiration-contracts/). As expiration approaches and the stock remains below the strike, warrant holders face a decision: exercise and immediately lose money (if the strike is above the current stock price), or let the warrant expire worthless. This creates a time-decay effect that vanilla stock buyers do not face. A stock can be held indefinitely; a warrant cannot.
 
 ## How to research Inspira warrants
 
-Start with Inspira's SEC filings (CIK 0001837493) to understand burn rate, cash on hand, and cash runway. Read the prospectus or proxy statement that describes the warrant terms (strike price, expiration date, how many shares one warrant can be exchanged for). Monitor press releases and news for clinical trial progress, regulatory feedback, or capital-raise announcements. Watch the underlying stock price relative to the warrant strike price to understand how far in or out of the money the warrants are.
+Start with Inspira's SEC filings (CIK 0001837493) to understand burn rate, cash on hand, and cash runway. Read the prospectus or proxy statement that describes the warrant terms (strike price, [expiration date](/expiration-date/), how many shares one warrant can be exchanged for). Monitor press releases and news for clinical trial progress, regulatory feedback, or capital-raise announcements. Watch the underlying stock price relative to the warrant strike price to understand how far in or out of the money the warrants are.
 
-Understand that warrant holders are not investors in a business—they are options traders betting on price movement. The fundamentals that matter for Inspira shares (product viability, regulatory progress, market adoption) matter for warrants too, but with additional leverage and time decay. An investor in QTEXW should treat it as a speculative, short-dated bet on a medical-device company that has not yet proven commercial viability.
+Understand that warrant holders are not investors in a business—they are options traders betting on price movement. The fundamentals that matter for Inspira shares (product viability, regulatory progress, market adoption) matter for warrants too, but with additional leverage and [time decay](/time-decay-theta/). An investor in QTEXW should treat it as a speculative, short-dated bet on a medical-device company that has not yet proven commercial viability.

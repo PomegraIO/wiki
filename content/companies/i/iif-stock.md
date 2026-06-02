@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[Morgan Stanley](/morgan-stanley/) India Investment Fund is a closed-end investment company — basically a fund that pools money from shareholders and uses it to buy stocks. In this case, it buys Indian stocks. If you want exposure to India's economy and stock market but do not want to pick individual companies, you can buy shares of this fund instead.
+[Morgan Stanley](/morgan-stanley/) India Investment Fund is a closed-end investment company — basically a fund that pools money from shareholders and uses it to buy stocks. In this case, it buys Indian stocks. If you want exposure to India's economy and [stock market](/stock-market/) but do not want to pick individual companies, you can buy shares of this fund instead.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ handwritten: true
 
 ## What is a closed-end fund and why would someone invest in one?
 
-A [closed-end fund](/closed-end-fund/) is different from the open-end mutual funds most people encounter. With an [open-end fund](/open-end-fund/), you buy directly from the fund company at the [net asset value](/net-asset-value/) — the per-share value of all the stocks it owns. A closed-end fund works differently. It issues a fixed number of shares, which then trade on a [stock exchange](/stock-exchange/) like ordinary shares. If you want to own the fund, you buy shares from other people on the stock market, not from the fund itself.
+A [closed-end fund](/closed-end-fund/) is different from the open-end [mutual funds](/mutual-fund/) most people encounter. With an [open-end fund](/open-end-fund/), you buy directly from the fund company at the [net asset value](/net-asset-value/) — the per-share value of all the stocks it owns. A closed-end fund works differently. It issues a fixed number of shares, which then trade on a [stock exchange](/stock-exchange/) like ordinary shares. If you want to own the fund, you buy shares from other people on the stock market, not from the fund itself.
 
 This structure creates two prices. There is the net asset value: the actual value of the Indian stocks and cash inside the fund, divided by the number of shares. And there is the market price: what buyers and sellers will pay for the shares on the NYSE. Often the market price is different from the net asset value — it might trade at a discount (cheaper than the underlying assets are worth) or a premium (more expensive). The discount or premium depends on investor sentiment: if people are pessimistic about India, the fund might trade at a discount even if the underlying stocks are sound.
 
@@ -43,7 +43,7 @@ For a long-term investor convinced that India's growth story is real, the fund o
 
 Morgan Stanley India Investment Fund generates returns in two ways. The first is capital appreciation: the Indian stocks inside the fund rise in value, and so do the fund's shares. If you buy at USD 100 per share and sell at USD 130, you have made a 30 percent gain (before taxes and fees).
 
-The second is dividend income. Indian companies that the fund owns often pay dividends — regular cash payouts to shareholders. Those dividends flow into the fund and either get paid out to shareholders or reinvested in more stocks, depending on the fund's policy. The [dividend yield](/dividend-yield/) varies with the performance of Indian companies and the mood of Indian regulators and the global economy.
+The second is [dividend](/dividend/) income. Indian companies that the fund owns often pay dividends — regular cash payouts to shareholders. Those dividends flow into the fund and either get paid out to shareholders or reinvested in more stocks, depending on the fund's policy. The [dividend yield](/dividend-yield/) varies with the performance of Indian companies and the mood of Indian regulators and the global economy.
 
 Morgan Stanley earns its money from the annual management fee, regardless of performance. If the fund's value rises or falls, the fee stays. This is different from a performance-based fee, where the manager would keep a cut of the gains. Most funds charge a flat percentage of assets.
 
@@ -51,7 +51,7 @@ Morgan Stanley earns its money from the annual management fee, regardless of per
 
 Morgan Stanley India Investment Fund holds a diversified portfolio of Indian equities. This typically includes large blue-chip companies — banks, energy firms, telecommunications, consumer goods, information technology — as well as smaller growth-stage companies. The exact makeup changes over time as the manager buys and sells, but the fund is always exposed to India's economy: its growth rate, corporate profitability, rupee stability, and political risk.
 
-The fund may also hold cash, bonds, or other assets — a buffer against volatile markets. During downturns, the manager might hold more cash than usual. During bull markets, the manager might be fully invested.
+The fund may also hold cash, [bonds](/bond/), or other assets — a buffer against volatile markets. During downturns, the manager might hold more cash than usual. During [bull markets](/bull-market/), the manager might be fully invested.
 
 ## The risks
 

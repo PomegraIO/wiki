@@ -52,7 +52,7 @@ The European Union's digital marketplace rules are increasingly important. The D
 
 Poland's own regulatory environment has shifted over the past decade. The government has pushed back on some of Allegro's business practices, particularly around seller fees and payment terms. The company has also faced pressure around labour practices of its delivery partners and tax treatment of seller income. These regulatory tensions are background noise for now but could sharpen if political winds shift.
 
-Allegro's Polish dominance also means the Polish economy is Allegro's economy. A recession in Poland, a change in consumer behaviour, or a competitor gaining ground would hit revenue directly. The company has tried to diversify internationally, but the international markets it operates in remain much smaller than Poland.
+Allegro's Polish dominance also means the Polish economy is Allegro's economy. A [recession](/recession/) in Poland, a change in consumer behaviour, or a competitor gaining ground would hit revenue directly. The company has tried to diversify internationally, but the international markets it operates in remain much smaller than Poland.
 
 ## Competition and what keeps Allegro strong
 
@@ -68,8 +68,8 @@ These numbers suggest that Allegro is not just growing, but becoming more profit
 
 ## How to research Allegro
 
-For investors, the key research point is Poland's economic outlook and online shopping trends. A slowdown in Polish consumer spending would hit Allegro's commission revenue. The company's annual reports (available through the Warsaw Stock Exchange) break down commission rates by category and provide insight into which product categories are growing fastest.
+For investors, the key research point is Poland's economic outlook and online shopping trends. A slowdown in Polish consumer spending would hit Allegro's commission revenue. The company's [annual reports](/10-k/) (available through the Warsaw [Stock Exchange](/stock-exchange/)) break down commission rates by category and provide insight into which product categories are growing fastest.
 
 Monitoring regulatory announcements from Poland and the European Union is essential. New rules on seller fees, consumer protections, or data privacy can change Allegro's cost structure overnight. The company also regularly guides on gross margin trends—this is the key metric to watch for whether Allegro is holding its pricing power against competition and regulation.
 
-Allegro's stock trades on the Warsaw Stock Exchange under ALE, and American investors can access it through the ALEUY American Depositary Receipt on over-the-counter markets. Either way, the company's fate is tightly bound to Central Europe's economic health and competitive dynamics.
+Allegro's stock trades on the Warsaw Stock Exchange under ALE, and American investors can access it through the ALEUY [American Depositary Receipt](/adr/) on [over-the-counter markets](/over-the-counter-market/). Either way, the company's fate is tightly bound to Central Europe's economic health and competitive dynamics.

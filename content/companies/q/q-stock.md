@@ -47,7 +47,7 @@ Cyclicality is the most immediate concern. Semiconductor fabs operate on multi-y
 
 [Concentration risk](/concentration-risk/) exists on the customer side. The biggest fabs—TSMC, Samsung, [Intel](/intc-stock/)—wield significant negotiating power and can demand improved pricing or threaten to develop alternative materials in-house. A price war or a shift in the customer base would directly impact profitability.
 
-Geopolitical and regulatory risks are growing. Export controls [on semiconductor](/on-stock/) equipment and materials, tensions around Taiwan and global chip supply security, and potential U.S. incentives (like CHIPS Act funding) that favor domestically produced materials could all reshape Qnity's cost structure and market access.
+Geopolitical and regulatory risks are growing. Export controls on semiconductor equipment and materials, tensions around Taiwan and global chip supply security, and potential U.S. incentives (like CHIPS Act funding) that favor domestically produced materials could all reshape Qnity's cost structure and market access.
 
 Finally, there is the inherent execution risk of any recent IPO from a corporate [spinoff](/spinoff/). Qnity is still integrating its independent finance, supply chain, and strategic functions. Any stumbles in that transition could distract management or slow decision-making at a critical moment.
 

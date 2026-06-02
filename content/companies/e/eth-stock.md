@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Grayscale Ethereum Staking Mini ETF is a fund that does one straightforward thing: it buys Ethereum coins, stakes them on the blockchain, and passes the validator rewards back to the fund's shareholders. Staking is how the Ethereum network now works. Instead of miners competing to solve puzzles (the old way), validators lock up Ethereum coins as collateral and attest that transactions are valid. In return, the network pays them Ethereum as a reward. This ETF captures that yield and delivers it to you. It trades on the NASDAQ under the ticker ETH, though the ticker can cause confusion because it overlaps with the common abbreviation for Ethereum itself.
+The Grayscale [Ethereum](/ethereum/) Staking Mini ETF is a fund that does one straightforward thing: it buys Ethereum coins, stakes them on the blockchain, and passes the validator rewards back to the fund's shareholders. Staking is how the Ethereum network now works. Instead of miners competing to solve puzzles (the old way), validators lock up Ethereum coins as collateral and attest that transactions are valid. In return, the network pays them Ethereum as a reward. This ETF captures that yield and delivers it to you. It trades on the [NASDAQ](/nasdaq/) under the ticker ETH, though the ticker can cause confusion because it overlaps with the common abbreviation for Ethereum itself.
 
 <aside class="wiki-infobox">
 <table>
@@ -32,9 +32,9 @@ To become a validator on Ethereum, you need to stake 32 coins—about 50,000 to 
 
 ## How the fund works
 
-Grayscale Ethereum Staking Mini is not a traditional fund that holds a basket of different assets. It holds Ethereum and only Ethereum, staked with Grayscale's own validator infrastructure or with trusted staking providers. When Ethereum validators earn rewards, those rewards accumulate inside the fund. Grayscale takes a small management fee (currently around 1.5 percent annually, though this is subject to change). The remaining rewards are reinvested back into the fund, which increases the number of Ethereum coins it holds. When you own shares of the ETF, your stake grows passively as the underlying Ethereum validates transactions.
+Grayscale Ethereum Staking Mini is not a traditional fund that holds a basket of different assets. It holds Ethereum and only Ethereum, staked with Grayscale's own validator infrastructure or with trusted staking providers. When Ethereum validators earn rewards, those rewards accumulate inside the fund. Grayscale takes a small [management fee](/management-fee/) (currently around 1.5 percent annually, though this is subject to change). The remaining rewards are reinvested back into the fund, which increases the number of Ethereum coins it holds. When you own shares of the ETF, your stake grows passively as the underlying Ethereum validates transactions.
 
-Because this is a fund traded on a stock exchange, shares can be bought and sold during market hours like any stock. The price of the ETF should track the underlying Ethereum price, plus the accrual of staking rewards. The fund is also registered with the SEC, which means it is subject to rules that protect investors—there are regular filings, audits, and limitations on what the fund can do with investor money.
+Because this is a fund traded on a [stock exchange](/stock-exchange/), shares can be bought and sold during market hours like any stock. The price of the ETF should track the underlying Ethereum price, plus the accrual of staking rewards. The fund is also registered with the SEC, which means it is subject to rules that protect investors—there are regular filings, audits, and limitations on what the fund can do with investor money.
 
 The word "Mini" in the name refers to a smaller fund structure designed for retail investors with modest accounts. Grayscale also offers larger Ethereum products, but the Mini is the one that trades as a straightforward ETF and is available in regular brokerage accounts.
 

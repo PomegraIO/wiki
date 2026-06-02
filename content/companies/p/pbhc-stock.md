@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Pathfinder Bancorp, Inc. (NASDAQ: PBHC) is a bank holding company based in the northeastern United States. It owns Pathfinder Bank, which operates retail branches in upstate New York and northern Pennsylvania, accepting deposits from individuals and small businesses and making loans to the same customer base. The company sits in the community banking tier — neither a global megabank nor a single-branch operation, but a regional institution rooted in local knowledge and face-to-face relationships.
+Pathfinder Bancorp, Inc. ([NASDAQ](/nasdaq/): PBHC) is a bank holding company based in the northeastern United States. It owns Pathfinder Bank, which operates retail branches in upstate New York and northern Pennsylvania, accepting deposits from individuals and small businesses and making loans to the same customer base. The company sits in the community banking tier — neither a global megabank nor a single-branch operation, but a regional institution rooted in local knowledge and face-to-face relationships.
 
 ## The founding and growth from deposit-taking into lending
 

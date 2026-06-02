@@ -40,7 +40,7 @@ The logic is appealing: a trained model could potentially detect depression from
 
 ## Scale and capital constraints
 
-As a micro-cap public company with a reported market cap around $546,000, Synbio faces severe constraints. Capital for research, manufacturing, or marketing is extremely limited. The massive share count (341.5 million shares outstanding) suggests substantial dilution; at such low market value, each new capital raise further diminishes per-share value. The company relies on strategic partnerships and careful capital allocation to advance either business without rapid cash depletion.
+As a micro-cap public company with a reported [market cap](/market-capitalization/) around $546,000, Synbio faces severe constraints. Capital for research, manufacturing, or marketing is extremely limited. The massive share count (341.5 million shares outstanding) suggests substantial dilution; at such low market value, each new capital raise further diminishes per-share value. The company relies on strategic partnerships and careful capital allocation to advance either business without rapid cash depletion.
 
 The nutraceutical side could theoretically generate near-term revenue if the company builds distribution. The diagnostics side is multi-year and speculative; clinical validation of an AI tool requires large trials and regulatory clearance, both of which are expensive.
 

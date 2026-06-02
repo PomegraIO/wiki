@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Oracle is the world's largest database software company and a dominant force in the enterprise application market — a cash-generating juggernaut born from a single, indispensable product (the relational database) that has evolved into a sprawling software conglomerate trying to reinvent itself as a cloud-computing giant.*
+*[Oracle](/orcl-stock/) is the world's largest database software company and a dominant force in the enterprise application market — a cash-generating juggernaut born from a single, indispensable product (the relational database) that has evolved into a sprawling software conglomerate trying to reinvent itself as a cloud-computing giant.*
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ handwritten: true
 
 Oracle makes software that runs the critical systems of the world's largest organizations. At its core sits the Oracle Database — a piece of software that stores and retrieves data for applications at thousands of major corporations. Fortune 500 companies use it to manage customer records, financial transactions, supply chains, and the countless operational tasks that keep a business running. Once embedded in a company's infrastructure, that database becomes nearly impossible to replace. It touches every application that touches the database; changing it out would mean rebuilding half the company's technical foundation.
 
-Beyond the database, Oracle has accumulated a sprawling collection of enterprise software through decades of acquisitions: tools for managing human resources (acquired from PeopleSoft), financial reporting (JD Edwards), supply-chain management, and customer relationship management. The company sells these together as a suite, creating a package so entangled with its customers' operations that churn is low and the pricing power is genuine.
+Beyond the database, Oracle has accumulated a sprawling collection of enterprise software through decades of [acquisitions](/acquisition/): tools for managing human resources (acquired from PeopleSoft), financial reporting (JD Edwards), supply-chain management, and customer relationship management. The company sells these together as a suite, creating a package so entangled with its customers' operations that churn is low and the pricing power is genuine.
 
 ## Why does Oracle's licensing model matter so much?
 
@@ -39,7 +39,7 @@ The business model has been slowly shifting toward subscriptions and cloud servi
 
 ## How is Oracle positioned in cloud computing?
 
-Oracle was late to the cloud-computing game. Amazon Web Services, Microsoft Azure, and Google Cloud all launched years before Oracle invested seriously in its own cloud infrastructure, giving them enormous advantages in scale, customer base, and the ecosystems of third-party services built on their platforms. Oracle's cloud division lost money for years as the company poured billions into data centers and recruiting talent.
+Oracle was late to the cloud-computing game. Amazon Web Services, [Microsoft](/msft-stock/) Azure, and Google Cloud all launched years before Oracle invested seriously in its own cloud infrastructure, giving them enormous advantages in scale, customer base, and the ecosystems of third-party services built on their platforms. Oracle's cloud division lost money for years as the company poured billions into data centers and recruiting talent.
 
 The company has since gained ground. It specializes in running demanding, data-intensive workloads — the exact tasks Oracle Database customers already relied on Oracle to handle. The strategy is to migrate existing on-premises customers to Oracle's cloud and to win new customers who need that specialized strength. By pricing aggressively on database workloads and bundling infrastructure with applications, Oracle has carved out a niche where it competes less directly with the cloud behemoths and more in the segment where its legacy dominance persists.
 
@@ -49,7 +49,7 @@ The bet is that database and business-process workloads remain Oracle's territor
 
 Oracle's database monopoly has weakened over the decades. Open-source alternatives like PostgreSQL have become robust enough for many workloads that once required Oracle. Cloud-native databases designed for the internet — systems that shard data across many machines rather than running on a single powerful one — have split the market in ways the traditional Oracle architecture never anticipated. Younger companies rarely choose Oracle for new systems; they use open-source or cloud-native databases unless the job demanded something Oracle uniquely offers.
 
-Within enterprise software, Microsoft competes fiercely with its own suite of applications and its tight bundling with Azure cloud services. SAP, ServiceNow, and smaller specialists take share in specific domains where they are stronger than Oracle's generic offerings.
+Within enterprise software, Microsoft competes fiercely with its own suite of applications and its tight bundling with Azure cloud services. SAP, [ServiceNow](/now-stock/), and smaller specialists take share in specific domains where they are stronger than Oracle's generic offerings.
 
 The pricing and licensing practices that once defined the business are increasingly questioned. As customers migrate to cloud services and subscription models, the old perpetual-license economics are seen as less transparent, and Oracle's reputation for aggressive audit practices — aggressively charging existing customers for additional licenses when their usage expands — remains a sore point. This has driven some customers to deliberately move workloads away from Oracle specifically to reduce exposure to license compliance risk.
 
@@ -63,4 +63,4 @@ The company has also moved into infrastructure and platform services beyond the 
 
 Oracle's annual 10-K (SEC CIK 0001341439) is essential reading and reveals the ongoing tension between legacy licensing revenue and cloud transition. Watch how much of the company's revenue now comes from cloud and subscriptions versus traditional licenses, and what the trajectory is — the company has been guiding toward cloud-first for years, and the pace of that shift shapes the investment case.
 
-Key metrics to track include the renewal rate for subscription contracts (high renewal rates signal stickiness; declining rates suggest customers are finding alternatives), the cloud revenue growth rate relative to overall company growth, and any commentary on gross margins in the cloud business. The gross margins matter because Oracle's legacy business sits at very high margins due to its pricing power, and if the transition to cloud erodes those margins materially, the company's overall profitability and return on invested capital will decline even if revenues grow.
+Key metrics to track include the renewal rate for subscription contracts (high renewal rates signal stickiness; declining rates suggest customers are finding alternatives), the cloud revenue growth rate relative to overall company growth, and any commentary on gross margins in the cloud business. The gross margins matter because Oracle's legacy business sits at very high margins due to its pricing power, and if the transition to cloud erodes those margins materially, the company's overall profitability and [return on invested capital](/return-on-invested-capital/) will decline even if revenues grow.

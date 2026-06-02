@@ -56,7 +56,7 @@ This also creates a management challenge. Privia's CEO and leadership team overs
 
 Primary care is changing. More insurance companies and employers are pushing toward value-based care — paying a doctor a fixed amount per patient per month and holding the doctor accountable for that patient's overall health and cost, rather than paying per visit. This puts pressure on doctors to coordinate care, manage chronic disease better, and avoid unnecessary hospitalizations. Privia's data and care coordination tools are built for this world, but it means Privia and its physician partners have to continuously adapt to new payment models and regulatory requirements.
 
-Larger health systems and [national healthcare](/nhc-stock/) companies are also consolidating primary care, buying practices and folding them into bigger operations. Privia competes by offering a different value proposition: stay independent, stay local, but get the tools and scale of a network. That proposition works only if Privia can prove it delivers better results for physicians and better care for patients than the hospital-owned alternative.
+Larger health systems and national healthcare companies are also consolidating primary care, buying practices and folding them into bigger operations. Privia competes by offering a different value proposition: stay independent, stay local, but get the tools and scale of a network. That proposition works only if Privia can prove it delivers better results for physicians and better care for patients than the hospital-owned alternative.
 
 ## From inception to scale
 

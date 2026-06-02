@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-21Shares Ethereum ETF (NASDAQ: TETH) is a straightforward fund. You buy shares on the stock exchange, the fund holds real Ethereum, and the share price tracks what Ethereum costs at any moment. It lets you invest in Ethereum the same way you invest in a stock — through your brokerage account, during trading hours, with no special cryptocurrency accounts to set up.
+21Shares [Ethereum](/ethereum/) ETF ([NASDAQ](/nasdaq/): TETH) is a straightforward fund. You buy shares on the [stock exchange](/stock-exchange/), the fund holds real Ethereum, and the share price tracks what Ethereum costs at any moment. It lets you invest in Ethereum the same way you invest in a stock — through your brokerage account, during trading hours, with no special cryptocurrency accounts to set up.
 
 <aside class="wiki-infobox">
 <table>
@@ -32,7 +32,7 @@ The price you pay moves with Ethereum's price. If Ethereum goes up 10% on a Tues
 
 ## The custody question — a real risk
 
-The biggest thing that could go wrong is custody. Somebody has to hold the Ethereum. That somebody is a cryptocurrency custodian — a specialized company that keeps digital assets safe. If that custodian gets hacked, or goes bankrupt, or gets caught up in legal trouble, the Ethereum could disappear or become locked up for months.
+The biggest thing that could go wrong is custody. Somebody has to hold the Ethereum. That somebody is a cryptocurrency [custodian](/custodian/) — a specialized company that keeps digital assets safe. If that custodian gets hacked, or goes bankrupt, or gets caught up in legal trouble, the Ethereum could disappear or become locked up for months.
 
 21Shares uses professional custodians, and there are insurance policies. But insurance has limits and does not cover everything. The custody business is young. The biggest exchange that held customer Ethereum, FTX, turned out to be running a fraud. The Ethereum was gone. So when you buy TETH, you are trusting that 21Shares picked a good custodian and that nothing goes catastrophically wrong.
 
@@ -60,7 +60,7 @@ TETH makes sense if you think Ethereum will go up in value and you want a simple
 
 TETH makes sense as a small part of a diversified portfolio if you want some cryptocurrency exposure but do not want to handle managing it yourself or worry about exchange hacks.
 
-TETH does not make sense if you need to be sure you do not lose money, or if you do not believe in Ethereum's long-term value. It is a bet. It is not a bond or a money-market fund.
+TETH does not make sense if you need to be sure you do not lose money, or if you do not believe in Ethereum's long-term value. It is a bet. It is not a [bond](/bond/) or a money-market fund.
 
 ## How to evaluate it
 

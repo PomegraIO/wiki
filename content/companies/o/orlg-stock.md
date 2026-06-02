@@ -12,7 +12,7 @@ handwritten: true
 
 ## What exactly does ORLG do?
 
-ORLG tracks O'Reilly Automotive stock with 2X daily leverage. When O'Reilly shares rise 1% in a day, ORLG aims to rise 2%. When O'Reilly falls 1%, ORLG should fall 2%. The fund is issued by Leverage Shares, a London-based firm that specializes in leveraged products, and it trades on U.S. exchanges. The leverage is achieved through derivatives—primarily futures contracts on the O'Reilly stock itself—rather than through simple borrowing and buying shares.
+ORLG tracks O'Reilly Automotive stock with 2X daily leverage. When O'Reilly shares rise 1% in a day, ORLG aims to rise 2%. When O'Reilly falls 1%, ORLG should fall 2%. The fund is issued by Leverage Shares, a London-based firm that specializes in leveraged products, and it trades on U.S. exchanges. The leverage is achieved through derivatives—primarily [futures contracts](/futures-contract/) on the O'Reilly stock itself—rather than through simple borrowing and buying shares.
 
 ## Who created this fund and why?
 
@@ -28,11 +28,11 @@ The catch is decay. In a volatile market where a stock bounces around, daily reb
 
 ## When is ORLG actually useful?
 
-ORLG is useful for tactical directional bets on O'Reilly Automotive that last days to a few weeks. A trader who believes O'Reilly will rally over the next ten trading days can use ORLG to amplify that conviction without a margin account. The tight bid-ask spread and reliable daily tracking make it efficient for short-term entry and exit. Hedge funds and sophisticated traders also use products like ORLG for specific positioning within a portfolio during volatile periods.
+ORLG is useful for tactical directional bets on O'Reilly Automotive that last days to a few weeks. A trader who believes O'Reilly will rally over the next ten trading days can use ORLG to amplify that conviction without a margin account. The tight [bid-ask spread](/bid-ask-spread/) and reliable daily tracking make it efficient for short-term entry and exit. [Hedge funds](/hedge-fund/) and sophisticated traders also use products like ORLG for specific positioning within a portfolio during volatile periods.
 
 ## What costs are involved?
 
-The expense ratio is typically around 0.7% to 0.9% annually. This covers the cost of rolling futures contracts, managing the leverage structure, and operational overhead. Because O'Reilly is highly liquid—it trades tens of millions of shares daily—the fund's manager faces low costs when adjusting positions. The prospectus and fact sheet provide the exact current expense ratio and any performance fees.
+The [expense ratio](/expense-ratio/) is typically around 0.7% to 0.9% annually. This covers the cost of rolling futures contracts, managing the leverage structure, and operational overhead. Because O'Reilly is highly liquid—it trades tens of millions of shares daily—the fund's manager faces low costs when adjusting positions. The prospectus and fact sheet provide the exact current expense ratio and any [performance fees](/performance-fee/).
 
 ## How much volatility decay should I expect?
 
@@ -40,4 +40,4 @@ The exact amount depends on O'Reilly's realized volatility. In a very calm marke
 
 ## What should I read before buying?
 
-The prospectus is mandatory reading. Leverage Shares publishes educational materials explaining the daily-reset mechanism and providing historical examples of how leverage and decay work in different market scenarios. Any broker holding ORLG typically provides a fact sheet with the current expense ratio, the underlying index, and performance data. This information is essential for understanding whether ORLG is appropriate for your investment horizon and risk tolerance.
+The prospectus is mandatory reading. Leverage Shares publishes educational materials explaining the daily-reset mechanism and providing historical examples of how leverage and decay work in different market scenarios. Any [broker](/broker/) holding ORLG typically provides a fact sheet with the current expense ratio, the underlying index, and performance data. This information is essential for understanding whether ORLG is appropriate for your investment horizon and risk tolerance.

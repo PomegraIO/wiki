@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-BriaCell Therapeutics is a biotechnology company in the early clinical stage, focused on developing cell-based immunotherapies for cancer. The company's approach centers on engineering the patient's own immune cells to recognize and eliminate cancer cells. This places BriaCell in a crowded but high-potential segment of drug development: immunotherapy, where companies attempt to unleash the immune system against tumors rather than relying on chemotherapy or surgery alone. The company has not yet commercialized any approved medicines and operates on the model typical of clinical-stage biotech: small revenue (mainly from partnerships or grant funding), heavy cash burn from research and development, and shareholder capital raised periodically to fund trials.
+[BriaCell Therapeutics](/bctx-stock/) is a biotechnology company in the early clinical stage, focused on developing cell-based immunotherapies for cancer. The company's approach centers on engineering the patient's own immune cells to recognize and eliminate cancer cells. This places BriaCell in a crowded but high-potential segment of drug development: immunotherapy, where companies attempt to unleash the immune system against tumors rather than relying on chemotherapy or surgery alone. The company has not yet commercialized any approved medicines and operates on the model typical of clinical-stage biotech: small revenue (mainly from partnerships or grant funding), heavy cash burn from research and development, and shareholder capital raised periodically to fund trials.
 
 <aside class="wiki-infobox">
 <table>

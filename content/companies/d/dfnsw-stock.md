@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-T3 Defense operates in defence technology and communications, supplying tactical systems and cybersecurity solutions to military and government agencies. The defence contractor sector is characterised by long government procurement cycles, high barriers to security clearance and certification, and revenue that hinges on winning competitive bids for specific platform contracts or supply agreements.
+[T3 Defense](/dfns-stock/) operates in defence technology and communications, supplying tactical systems and cybersecurity solutions to military and government agencies. The defence contractor sector is characterised by long government procurement cycles, high barriers to security clearance and certification, and revenue that hinges on winning competitive bids for specific platform contracts or supply agreements.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,19 +26,19 @@ T3 Defense operates in defence technology and communications, supplying tactical
 
 ## The defence communications market
 
-T3 operates in a niche within a niche: military and government communications and cybersecurity. The defence sector overall is large, concentrated, and shaped by government budgets and procurement policy. Spending flows through formal contract competitions, relationships with primes (the largest contractors like Lockheed Martin, Raytheon, Northrop Grumman) who bid for major programmes, and smaller suppliers who either subcontract to those primes or bid independently for smaller, specialized requirements.
+T3 operates in a niche within a niche: military and government communications and cybersecurity. The defence sector overall is large, concentrated, and shaped by government budgets and procurement policy. Spending flows through formal contract competitions, relationships with primes (the largest contractors like [Lockheed Martin](/lmt-stock/), Raytheon, Northrop Grumman) who bid for major programmes, and smaller suppliers who either subcontract to those primes or bid independently for smaller, specialized requirements.
 
 T3's focus on communications and cybersecurity places it in a sector segment where the barriers to entry are high — not because the technology is necessarily proprietary or unique, but because acquiring government customers requires security clearances, facility certifications, compliance with stringent contracting rules, and an ability to navigate procurement bureaucracy. The government buyer is not seeking the cheapest solution; it is seeking a qualified, reliable vendor with demonstrable capability and cleared personnel.
 
 ## Revenue model and contract structure
 
-T3 generates revenue through government contracts, which may be structured as firm fixed-price agreements, cost-plus arrangements, or supply schedules. The sales cycle is lengthy: a contract opportunity may be identified 12 to 24 months before award, and the actual delivery of equipment or services may extend over years. Revenue recognition depends on contractual milestones and delivery.
+T3 generates revenue through government contracts, which may be structured as firm fixed-price agreements, cost-plus arrangements, or supply schedules. The sales cycle is lengthy: a contract opportunity may be identified 12 to 24 months before award, and the actual delivery of equipment or services may extend over years. [Revenue recognition](/revenue-recognition/) depends on contractual milestones and delivery.
 
 The company's revenue base is likely to be lumpy, driven by the timing of major contract awards and execution. A single large contract win can meaningfully shift the trajectory; a loss to a competitor or a delay in an expected award can create a gap in revenue. This is the structural reality of defence contracting at the smaller end of the scale.
 
 ## Operational constraints
 
-Defence contracting operates under regulatory constraints that differ sharply from commercial markets. T3 must maintain CMMC (Cybersecurity Maturity Model Certification) and NIST compliance for cybersecurity work, coordinate with the Defense Counterintelligence and Security Agency, and follow FAR (Federal Acquisition Regulation) and DFARS (Defense Federal Acquisition Regulation Supplement) rules in its dealings with government customers. Personnel with access to classified information or sensitive programmes must undergo security vetting and annual review. Facilities must meet environmental and security standards.
+Defence contracting operates under regulatory constraints that differ sharply from commercial markets. T3 must maintain CMMC (Cybersecurity Maturity Model Certification) and NIST compliance for cybersecurity work, coordinate with the Defense Counterintelligence and Security Agency, and follow FAR (Federal [Acquisition](/acquisition/) Regulation) and DFARS (Defense Federal Acquisition Regulation Supplement) rules in its dealings with government customers. Personnel with access to classified information or sensitive programmes must undergo security vetting and annual review. Facilities must meet environmental and security standards.
 
 These requirements are gatekeeping functions. A contractor without them cannot bid on many opportunities. For established contractors they are a cost; for smaller entrants they represent a significant fixed expense and a multi-year path to qualification. The upside is that once qualified, a contractor gains durability — the cost and friction of switching suppliers pushes customers to stick with known, cleared vendors.
 

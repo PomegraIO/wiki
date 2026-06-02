@@ -54,7 +54,7 @@ The smart-home market and industrial IoT are the growth engines. As more applian
 
 ## Capital structure and how semiconductor companies make money
 
-Silicon Labs is fabless: it does not own or operate fabs (fabrication plants). Instead, it designs chips and contracts manufacturing to partners like Taiwan Semiconductor Manufacturing Company. This asset-light model means the company can remain profitable at a smaller scale than an integrated device manufacturer; it also means gross margins are lower than they would be if the company owned its own fabs.
+Silicon Labs is fabless: it does not own or operate fabs (fabrication plants). Instead, it designs chips and contracts manufacturing to partners like [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company. This asset-light model means the company can remain profitable at a smaller scale than an integrated device manufacturer; it also means gross margins are lower than they would be if the company owned its own fabs.
 
 The business model is design-win-centric. Early-stage revenue comes from design tools and development kits sold to engineers. Once a chip is won in a design, volume ramps and per-unit royalties arrive. The company also generates revenue from software licenses and long-term support contracts.
 

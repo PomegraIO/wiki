@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Tofutti Brands Inc. manufactures and distributes dairy-free and plant-based frozen desserts, with the Tofutti brand at its core—a company that emerged in the 1980s when the idea of mainstream dairy-free ice cream was niche, and now operates in a market where plant-based foods have become routine. The company's shares trade on the NASDAQ under the ticker TOFB, and its story is one of early positioning in an expanding category alongside the particular challenges of remaining relevant and profitable as competitors have multiplied and consumer expectations have shifted.
+Tofutti Brands Inc. manufactures and distributes dairy-free and plant-based frozen desserts, with the Tofutti brand at its core—a company that emerged in the 1980s when the idea of mainstream dairy-free ice cream was niche, and now operates in a market where plant-based foods have become routine. The company's shares trade on the [NASDAQ](/nasdaq/) under the ticker TOFB, and its story is one of early positioning in an expanding category alongside the particular challenges of remaining relevant and profitable as competitors have multiplied and consumer expectations have shifted.
 
 <aside class="wiki-infobox">
 <table>
@@ -47,9 +47,9 @@ Supply-chain volatility has also been a real friction point. Disruptions in sour
 
 ## The shareholder situation
 
-Tofutti is a micro-cap public company, which means it trades with very low volume and wide bid-ask spreads. Its shares are held by a small number of retail and institutional investors, many of them long-term believers in the plant-based trend who purchased years ago. The company has had to manage the inherent challenge of being too small to attract major institutional interest but too public to operate without disclosure and compliance costs. Shareholder meetings and SEC filings continue regardless of whether the company has the resources to optimise investor relations.
+Tofutti is a micro-cap public company, which means it trades with very low volume and wide [bid-ask spreads](/bid-ask-spread/). Its shares are held by a small number of retail and institutional investors, many of them long-term believers in the plant-based trend who purchased years ago. The company has had to manage the inherent challenge of being too small to attract major institutional interest but too public to operate without disclosure and compliance costs. Shareholder meetings and SEC filings continue regardless of whether the company has the resources to optimise investor relations.
 
-The capital-raise options available to Tofutti are limited. Debt financing is constrained by the company's modest cash flow; equity raises are punishing in a low-volume stock. This leaves the company working within tight financial constraints, making it difficult to invest in brand building, geographic expansion, or product development at the scale that new competitors bring to the market.
+The capital-raise options available to Tofutti are limited. [Debt financing](/debt-financing/) is constrained by the company's modest cash flow; equity raises are punishing in a low-volume stock. This leaves the company working within tight financial constraints, making it difficult to invest in brand building, geographic expansion, or product development at the scale that new competitors bring to the market.
 
 ## The path forward
 

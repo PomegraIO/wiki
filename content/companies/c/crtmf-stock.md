@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-Critical Metals Corp. is a publicly traded mineral development company focused on identifying, exploring, and advancing major deposits of lithium and rare earth elements toward production. The company holds two flagship assets at different maturity stages: the Wolfsberg lithium project in Austria, which has secured environmental permitting, and the Tanbreez rare earth deposit in Greenland, which is in the earlier exploration and evaluation phase. The business model is acquisition, development, and monetization—identify high-quality ore bodies in politically stable jurisdictions, advance them through engineering and permitting, then either develop them internally or sell them to larger mining operators.
+Critical Metals Corp. is a publicly traded mineral development company focused on identifying, exploring, and advancing major deposits of lithium and rare earth elements toward production. The company holds two flagship assets at different maturity stages: the Wolfsberg lithium project in Austria, which has secured environmental permitting, and the Tanbreez rare earth deposit in Greenland, which is in the earlier exploration and evaluation phase. The business model is [acquisition](/acquisition/), development, and monetization—identify high-quality ore bodies in politically stable jurisdictions, advance them through engineering and permitting, then either develop them internally or sell them to larger mining operators.
 
 ## The Wolfsberg lithium project
 
@@ -36,7 +36,7 @@ The geopolitical context is favourable: the United States and European governmen
 
 Critical Metals is a development-stage company without operating revenue. It funds itself through equity capital raises, strategic partnerships, and eventually through project finance once the major risks of a specific asset have been de-risked. The company is managing two assets with different capital requirements and timelines: Wolfsberg requires the next increment of engineering and permitting capital, while Tanbreez requires earlier-stage exploration and evaluation capital.
 
-The mining development sector is capital-intensive and long-duration. A company can generate investment returns either by developing a project to production and capturing the operating margin, or by selling a de-risked asset (one with permitting and feasibility completed) to a larger operator at a premium to the capital invested. Many successful mineral exploration and development companies follow the second model—they build reputation and track record by advancing projects and exiting them to larger, operationally focused peers.
+The mining development sector is capital-intensive and long-duration. A company can generate investment returns either by developing a project to production and capturing the [operating margin](/operating-margin/), or by selling a de-risked asset (one with permitting and feasibility completed) to a larger operator at a premium to the capital invested. Many successful mineral exploration and development companies follow the second model—they build reputation and track record by advancing projects and exiting them to larger, operationally focused peers.
 
 ## Market position and scale context
 

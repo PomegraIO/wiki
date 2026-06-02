@@ -13,7 +13,7 @@ handwritten: true
 
 > "The biggest risk on the road is not the machine—it's the driver. SaverOne's mission is to know what the driver is doing before the driver causes harm."
 
-That framing—direct intervention in the human element of driving rather than just the machine—captures SaverOne 2014 Ltd.'s positioning in the automotive-safety space. The Israeli company, trading on Nasdaq as SVRE since 2020, develops software and hardware solutions that detect driver distraction and identify vulnerable road users (pedestrians, cyclists, motorcyclists) near the vehicle using radio-frequency sensing and sensor fusion. Rather than competing in the crowded space of traditional collision-avoidance sensors, SaverOne targets the behavioral and perceptual gaps that lead to crashes.
+That framing—direct intervention in the human element of driving rather than just the machine—captures SaverOne 2014 Ltd.'s positioning in the automotive-safety space. The Israeli company, trading on [Nasdaq](/nasdaq/) as SVRE since 2020, develops software and hardware solutions that detect driver distraction and identify vulnerable road users (pedestrians, cyclists, motorcyclists) near the vehicle using radio-frequency sensing and sensor fusion. Rather than competing in the crowded space of traditional collision-avoidance sensors, SaverOne targets the behavioral and perceptual gaps that lead to crashes.
 
 ## The problem SaverOne is solving
 
@@ -47,9 +47,9 @@ Validating RF-based VRU detection at scale—proving it works reliably across di
 
 ## Market position and competitive dynamics
 
-SaverOne operates in a competitive and crowded automotive-tech ecosystem. Larger tech companies (Apple, Google), established automotive suppliers (Bosch, Continental, Denso), and well-funded startups are all developing ADAS, driver-monitoring, and safety technologies. SaverOne's specific focus on RF-based VRU detection and distraction prevention is differentiated, but the total market for automotive safety technology is large enough that multiple companies can succeed.
+SaverOne operates in a competitive and crowded automotive-tech ecosystem. Larger tech companies ([Apple](/aapl-stock/), Google), established automotive suppliers (Bosch, Continental, Denso), and well-funded startups are all developing ADAS, driver-monitoring, and safety technologies. SaverOne's specific focus on RF-based VRU detection and distraction prevention is differentiated, but the total market for automotive safety technology is large enough that multiple companies can succeed.
 
-The company's advantages are its IP portfolio and its partnerships with major ADAS providers. Its risks are execution—can it deliver production-ready technology that OEMs trust—and competition from better-capitalized players who could develop comparable technology through acquisition or internal R&D.
+The company's advantages are its IP portfolio and its partnerships with major ADAS providers. Its risks are execution—can it deliver production-ready technology that OEMs trust—and competition from better-capitalized players who could develop comparable technology through [acquisition](/acquisition/) or internal R&D.
 
 ## The funding trajectory and path to profitability
 

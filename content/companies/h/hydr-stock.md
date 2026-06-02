@@ -29,7 +29,7 @@ Global X Hydrogen ETF (ticker HYDR) is an exchange-traded fund that holds compan
 
 Hydrogen is a gas. Burn it and you get water and energy. Simple in theory. Reality is harder.
 
-Today most hydrogen comes from natural gas. That is cheap but produces carbon dioxide. Cleaner hydrogen comes from splitting water using electricity. But that only works if electricity is cheap or renewable. You then have to move hydrogen around and store it. Hydrogen is tiny. It leaks through everything. You need specialized equipment, pipelines, and storage tanks. Even that is not enough: you need actual machines that burn hydrogen at scale. Fuel-cell cars exist but are rare. Hydrogen-powered trucks and ships are mostly on the drawing board. Industrial uses in steel and chemical plants exist but are not common.
+Today most hydrogen comes from [natural gas](/natural-gas/). That is cheap but produces carbon dioxide. Cleaner hydrogen comes from splitting water using electricity. But that only works if electricity is cheap or renewable. You then have to move hydrogen around and store it. Hydrogen is tiny. It leaks through everything. You need specialized equipment, pipelines, and storage tanks. Even that is not enough: you need actual machines that burn hydrogen at scale. Fuel-cell cars exist but are rare. Hydrogen-powered trucks and ships are mostly on the drawing board. Industrial uses in steel and chemical plants exist but are not common.
 
 When you buy HYDR, you are betting all of these problems get solved. You are betting companies will figure out clean hydrogen production at low cost, build the pipelines and storage, and that customers will actually switch to hydrogen instead of natural gas or electricity or whatever they use today.
 
@@ -51,13 +51,13 @@ The hardest risk: hydrogen might never be the solution people thought it would. 
 
 The fund rises and falls on three drivers: news about hydrogen projects and investments, actual hydrogen prices if hydrogen starts trading as a commodity, and the success or failure of individual companies in the portfolio. Because hydrogen infrastructure is still being built, government policy matters enormously: subsidies for hydrogen production, mandates for hydrogen use in industry, and funding for hydrogen refueling stations all shift the portfolio's outlook.
 
-Interest-rate movements also matter. Hydrogen companies are capital-intensive, burning money to build infrastructure. When interest rates rise, the cost of capital goes up and timelines for profitability stretch further. Conversely, falling rates and government stimulus can accelerate hydrogen spending.
+Interest-rate movements also matter. Hydrogen companies are capital-intensive, burning money to build infrastructure. When [interest rates](/interest-rate/) rise, the cost of capital goes up and timelines for profitability stretch further. Conversely, falling rates and government stimulus can accelerate hydrogen spending.
 
 ## Researching HYDR
 
 Look at the actual holdings. Are these companies selling hydrogen and fuel cells today, or are they pure bets on hydrogen tomorrow? The bigger the piece that is companies already generating revenue, the less speculative the fund is.
 
-Check the expense ratio. Thematic funds cost more than broad index funds. Understand that the fund is young and the hydrogen industry is young, so past performance is a weak guide to future returns.
+Check the [expense ratio](/expense-ratio/). Thematic funds cost more than broad [index funds](/index-fund/). Understand that the fund is young and the hydrogen industry is young, so past performance is a weak guide to future returns.
 
 Read recent news about hydrogen projects and government hydrogen commitments. Is the thesis accelerating or stalling? Is investment money flowing in or drying up?
 

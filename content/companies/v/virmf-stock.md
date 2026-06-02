@@ -63,7 +63,7 @@ This creates a capital structure problem for junior miners: equity is the natura
 
 Like all metals explorers, Viridian is ultimately dependent on the copper price — and the prices of any associated metals it might find. A major slump in copper prices can make all but the highest-grade deposits economically unviable, which can overnight render exploration projects worthless. Conversely, strong copper prices expand the set of deposits that are economically viable to mine.
 
-Viridian attempts to manage this risk through portfolio diversification: holding multiple projects in different geographic regions, at different stages of exploration, and targeting different metals or deposit types. The idea is that some projects will be robust to low prices and some will benefit from high prices, and the portfolio as a whole will have some projects in the "economic window" at any given commodity price.
+Viridian attempts to manage this risk through portfolio [diversification](/diversification/): holding multiple projects in different geographic regions, at different stages of exploration, and targeting different metals or deposit types. The idea is that some projects will be robust to low prices and some will benefit from high prices, and the portfolio as a whole will have some projects in the "economic window" at any given commodity price.
 
 ## Understanding Viridian's investment thesis
 

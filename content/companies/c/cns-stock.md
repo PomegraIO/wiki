@@ -4,7 +4,7 @@ description: An asset manager specializing in real estate investment trusts and 
 keywords: [asset management, adviser regulation, SEC, fiduciary duty, disclosure, investment company act]
 ---
 
-*The rules that shape **[Cohen &](/cohn-stock/) Steers** (ticker CNS, CIK 1284812) are not about production facilities, mining licenses, or banking charters—they are about ownership: the company is an investment adviser managing other people's capital, and the regulatory framework that governs it requires transparency, [fiduciary duty](/fiduciary-duty/), and compliance with securities laws that constrain how it can operate and what it can earn.*
+*The rules that shape **Cohen & Steers** (ticker CNS, CIK 1284812) are not about production facilities, mining licenses, or banking charters—they are about ownership: the company is an investment adviser managing other people's capital, and the regulatory framework that governs it requires transparency, [fiduciary duty](/fiduciary-duty/), and compliance with securities laws that constrain how it can operate and what it can earn.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CNS</td></tr>
@@ -55,7 +55,7 @@ Social media and digital marketing have expanded the surface area for violations
 
 ## Custody and Client Asset Protection
 
-Investment advisers may hold client assets in custody (control client accounts) or arrange for an independent custodian to hold assets. If Cohen & Steers holds custody—even indirectly—it must comply with detailed custody rules: segregating client assets from firm assets, obtaining annual independent audits, and maintaining controls to prevent misappropriation. Advisers without adequate custody safeguards have been subject to fraud liability and [SEC enforcement](/sec-enforcement/).
+Investment advisers may hold client assets in custody (control client accounts) or arrange for an independent [custodian](/custodian/) to hold assets. If Cohen & Steers holds custody—even indirectly—it must comply with detailed custody rules: segregating client assets from firm assets, obtaining annual independent audits, and maintaining controls to prevent misappropriation. Advisers without adequate custody safeguards have been subject to fraud liability and [SEC enforcement](/sec-enforcement/).
 
 Most investment advisers use third-party custodians (banks, Fidelity, [Charles Schwab](/charles-schwab/)) to reduce custody risk. Cohen & Steers likely uses custodians to segregate client assets, but the firm remains responsible for ensuring the custodian is adequate and that client assets are truly protected. If a custodian fails or is compromised, Cohen & Steers' reputation is damaged even if the firm itself is not legally at fault.
 

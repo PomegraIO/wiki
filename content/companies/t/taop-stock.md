@@ -53,13 +53,13 @@ This dynamic has proven brutal in Chinese e-commerce history. Platforms that bui
 
 ## The funding and profitability question
 
-Like many Chinese internet companies, Taoping has relied on a combination of venture capital and Chinese government support or partnerships to reach scale. The company faces the same pressures that face all mature but not-dominant e-commerce platforms in saturated markets: unit economics that barely cover customer acquisition cost, and the need to either achieve dramatic operational efficiency improvements or find new revenue streams (advertising, financial services, data insights) to justify a premium valuation.
+Like many Chinese internet companies, Taoping has relied on a combination of venture capital and Chinese government support or partnerships to reach scale. The company faces the same pressures that face all mature but not-dominant e-commerce platforms in saturated markets: unit economics that barely cover customer [acquisition](/acquisition/) cost, and the need to either achieve dramatic operational efficiency improvements or find new revenue streams (advertising, financial services, data insights) to justify a premium valuation.
 
 The company's ability to access capital markets matters directly. If investors lose confidence in the viability of regional e-commerce players competing against megacaps, funding dries up and smaller platforms become acquisition targets for those same megacaps — bought for their user base and merchant relationships, then merged into the acquirer's existing ecosystem. This scenario has played out repeatedly in China's internet market.
 
 ## How to research Taoping as an investment
 
-Taoping's quarterly financial filings with the SEC (CIK 0001552670) reveal the trajectory of user acquisition, transaction volumes, and gross profit margins — the metrics that determine whether the company is scaling efficiently or spinning its wheels. The 10-K filing breaks down revenue by geography and segment, which clarifies where money is actually coming from and which initiatives are gaining traction.
+Taoping's quarterly financial filings with the SEC (CIK 0001552670) reveal the trajectory of user acquisition, transaction volumes, and [gross profit margins](/gross-profit-margin/) — the metrics that determine whether the company is scaling efficiently or spinning its wheels. The 10-K filing breaks down revenue by geography and segment, which clarifies where money is actually coming from and which initiatives are gaining traction.
 
 Watch the gross merchandise volume (total value of goods sold on the platform) and the commission rate together — if GMV is flat or declining, or if commission rates are falling to maintain volume, the company is in competitive retreat. Monitor whether new revenue initiatives (cloud services, advertising, fintech offerings) are actually achieving scale or remaining marginal. The fundamental question is whether Taoping is becoming more valuable as a platform (rising user loyalty, rising convenience) or less valuable (declining relative to larger competitors, losing merchants to Alibaba).
 

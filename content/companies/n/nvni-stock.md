@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-NVNI Group Ltd is a holding company incorporated in the Cayman Islands and operating primarily in mainland China. The company operates through subsidiaries that engage in the trading and distribution of liquor (including premium baijiu and imported spirits), online retail platforms, and logistics and supply-chain services. NVNI trades on the NASDAQ under ticker NVNI and represents the type of diversified regional trading company that has proliferated in China as inland provinces have developed consumer spending and retail infrastructure.
+NVNI Group Ltd is a holding company incorporated in the Cayman Islands and operating primarily in mainland China. The company operates through subsidiaries that engage in the trading and distribution of liquor (including premium baijiu and imported spirits), online retail platforms, and logistics and supply-chain services. NVNI trades on the [NASDAQ](/nasdaq/) under ticker NVNI and represents the type of diversified regional trading company that has proliferated in China as inland provinces have developed consumer spending and retail infrastructure.
 
 <aside class="wiki-infobox">
 <table>
@@ -64,6 +64,6 @@ The online retail segment faces the specific risk that large platforms might exc
 
 ## How to research NVNI
 
-Investors studying NVNI should begin with the company's annual 10-K filing (SEC CIK 0001965143), which details revenue by segment, geographic breakdown, and operational metrics such as logistics volume and online platform transaction counts. Quarterly earnings calls reveal trends in customer acquisition costs for the online business, the trajectory of the logistics segment, and any commentary on competitive dynamics or regulatory changes.
+Investors studying NVNI should begin with the company's annual 10-K filing (SEC CIK 0001965143), which details revenue by segment, geographic breakdown, and operational metrics such as logistics volume and online platform transaction counts. Quarterly earnings calls reveal trends in customer [acquisition](/acquisition/) costs for the online business, the trajectory of the logistics segment, and any commentary on competitive dynamics or regulatory changes.
 
-Key metrics include the gross margin trend (indicating whether the company is maintaining pricing power or losing share to competitors), the customer retention rate for the online platform, and the utilization of the logistics network. For a diversified company like this, segment profitability is crucial—if the online business is growing rapidly but at the expense of profitability, or if the logistics business is breaking even or unprofitable, that signals structural challenges. As with any individual security, NVNI's shares are traded on a stock exchange at prices set by market participants, and nothing here is an endorsement to buy or sell.
+Key metrics include the gross margin trend (indicating whether the company is maintaining pricing power or losing share to competitors), the customer retention rate for the online platform, and the utilization of the logistics network. For a diversified company like this, segment profitability is crucial—if the online business is growing rapidly but at the expense of profitability, or if the logistics business is breaking even or unprofitable, that signals structural challenges. As with any individual security, NVNI's shares are traded on a [stock exchange](/stock-exchange/) at prices set by market participants, and nothing here is an endorsement to buy or sell.

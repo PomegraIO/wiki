@@ -28,7 +28,7 @@ The digital side operates on different economics. iHeartRadio generates some adv
 
 ### Why are traditional radio broadcasters struggling?
 
-The radio industry faces structural headwinds. The total number of hours listeners spend with terrestrial radio has declined as people spend more time with streaming services like Spotify, Pandora, Apple Music, and YouTube. A commuter who once listened to broadcast radio on the drive to work might now listen to a Spotify playlist or a podcast. This shift has compressed the advertising pool available to traditional broadcasters.
+The radio industry faces structural headwinds. The total number of hours listeners spend with terrestrial radio has declined as people spend more time with streaming services like Spotify, Pandora, [Apple](/aapl-stock/) Music, and YouTube. A commuter who once listened to broadcast radio on the drive to work might now listen to a Spotify playlist or a podcast. This shift has compressed the advertising pool available to traditional broadcasters.
 
 Additionally, digital advertising is often more efficient than broadcast radio ads. A company can target digital ads to specific demographics based on browsing history, location, and interests. Radio advertising is inherently blunt — you buy time on a station, and whoever is listening hears the ad. This has made radio advertising less attractive to many modern advertisers who can measure return on digital spending with precision.
 
@@ -46,17 +46,17 @@ Third, Salem emphasizes content and talent. Popular radio personalities and well
 
 The secular decline of broadcast radio is the fundamental risk. Even if Salem is the most efficient broadcaster in the U.S., it is still in a shrinking industry. The number of people listening to terrestrial radio has declined steadily, and that trend is likely to persist as younger listeners adopt streaming and podcasts as their default audio.
 
-Debt is a second risk. Like many broadcasters, Salem carries substantial debt on its balance sheet. When the company was growing, this debt was manageable because free cash flow covered the interest payments. But in a declining revenue environment, servicing debt becomes harder. If Salem cannot maintain its advertising revenue or does not succeed in growing digital revenue, debt service could become a serious strain.
+Debt is a second risk. Like many broadcasters, Salem carries substantial debt on its [balance sheet](/balance-sheet/). When the company was growing, this debt was manageable because [free cash flow](/free-cash-flow/) covered the interest payments. But in a declining revenue environment, servicing debt becomes harder. If Salem cannot maintain its advertising revenue or does not succeed in growing digital revenue, debt service could become a serious strain.
 
 Competition from digital platforms is real. Spotify, Apple Music, Pandora, and podcast platforms offer consumers choice, personalization, and convenience that broadcast radio does not. These platforms also capture growing shares of the digital audio advertising market.
 
-Consolidation risk exists too. A larger media company could acquire Salem, or Salem could be forced into a merger with another broadcaster to reduce costs. Consolidation might protect certain assets but could also result in job losses and the closure of smaller markets where consolidated economics do not work.
+Consolidation risk exists too. A larger media company could acquire Salem, or Salem could be forced into a [merger](/merger/) with another broadcaster to reduce costs. Consolidation might protect certain assets but could also result in job losses and the closure of smaller markets where consolidated economics do not work.
 
 ### What should an investor monitor?
 
 Watch Salem's quarterly earnings to track trends in local and national advertising revenue. Are advertisers increasing or decreasing their spending on radio? The company's digital revenue and subscriber growth also matter increasingly. If iHeartRadio and other digital properties are growing while terrestrial radio shrinks, the company is adapting. If digital growth is not enough to offset radio decline, the company is losing ground.
 
-Monitor free cash flow closely. Is Salem generating enough cash to cover interest on its debt and to invest in new initiatives? If cash flow turns negative or shrinks, the company will be forced into difficult decisions about debt restructuring or asset sales.
+Monitor free cash flow closely. Is Salem generating enough cash to cover interest on its debt and to invest in new initiatives? If cash flow turns negative or shrinks, the company will be forced into difficult decisions about [debt restructuring](/debt-restructuring/) or asset sales.
 
 Pay attention to any major advertiser losses or wins. National advertisers' confidence in radio's effectiveness is reflected in their budget allocations. And listen to management commentary on its long-term strategy. Is Salem articulating a vision for sustainable profitability in a post-broadcast era, or is it simply managing decline?
 

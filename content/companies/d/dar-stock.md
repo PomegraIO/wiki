@@ -30,7 +30,7 @@ Darling's core economics rest on accessing a vast, distributed feedstock that ha
 
 The rendering process itself is straightforward: animal tissue is heated to separate proteins, fats, and water. The output splits into three main product streams. **Protein meal** (used in livestock feed and pet food) is the largest by volume; **animal fats** command premium pricing due to rising use in renewable diesel and biodiesel blends; and **specialty glycerin** serves cosmetics, pharmaceuticals, and industrial chemistry. Because feedstock is abundant and often acquired at negative or negligible cost, the margin on outputs is robust even when commodity prices are soft.
 
-Darling also operates [waste management](/wm-stock/) services—grease trap cleaning, FOG (fats, oils, greases) collection—which provide a steady revenue stream and lock in customer relationships that feed the rendering plants.
+Darling also operates waste management services—grease trap cleaning, FOG (fats, oils, greases) collection—which provide a steady revenue stream and lock in customer relationships that feed the rendering plants.
 
 ## The Renewable Diesel Lever
 

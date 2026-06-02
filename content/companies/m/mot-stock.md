@@ -35,7 +35,7 @@ Additionally, optical technology is subject to displacement risk. If new optical
 
 ## Research Funding as a Revenue Driver
 
-A meaningful portion of MetaOptics' revenue may come from contract research or government-funded projects (via the National Science Foundation, Department of Energy, or defense agencies). These funding streams are themselves subject to political cycles and budget appropriation uncertainty. A shift in research priorities or a broader government budget constraint can dry up this revenue stream. Conversely, a new national initiative in [quantum computing](/qubt-stock/) or advanced photonics research could open new sales channels. The company's dependence on research funding timelines and appropriation cycles adds another layer of cyclicality beyond commercial telecom capex.
+A meaningful portion of MetaOptics' revenue may come from contract research or government-funded projects (via the National Science Foundation, Department of Energy, or defense agencies). These funding streams are themselves subject to political cycles and budget appropriation uncertainty. A shift in research priorities or a broader government budget constraint can dry up this revenue stream. Conversely, a new national initiative in quantum computing or advanced photonics research could open new sales channels. The company's dependence on research funding timelines and appropriation cycles adds another layer of cyclicality beyond commercial telecom capex.
 
 ## Margin Dynamics Under Volume Pressure
 

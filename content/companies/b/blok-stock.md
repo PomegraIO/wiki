@@ -13,7 +13,7 @@ handwritten: true
 
 Amplify Investments' Blockchain Technology ETF concentrates on companies whose business involves building or operating blockchain systems and the infrastructure that supports them. The fund does not hold cryptocurrency directly; it holds equity in companies providing hardware, software, services, and platforms related to blockchain technology. It is a bet on the continued development of distributed-ledger infrastructure and the enterprises that profit from that development.
 
-The fund tracks the Amplify Blockchain Users and Creators Index, an index that selects companies based on their involvement in blockchain technology at various points along the value chain. BLOK is structured as a simple ETF, not leveraged or inverse, so it carries no daily-reset mechanics. It trades on the NASDAQ exchange.
+The fund tracks the Amplify Blockchain Users and Creators Index, an index that selects companies based on their involvement in blockchain technology at various points along the value chain. BLOK is structured as a simple ETF, not leveraged or inverse, so it carries no daily-reset mechanics. It trades on the [NASDAQ](/nasdaq/) exchange.
 
 ## Hardware and equipment manufacturers
 
@@ -29,17 +29,17 @@ Companies building the software infrastructure that enables developers to create
 
 ## Financial services and cryptocurrency infrastructure
 
-A final segment comprises companies offering financial services around blockchain and digital assets: cryptocurrency exchanges, payment processors, wallet providers, and financial platforms. These businesses derive revenue from transaction fees, trading commissions, or services provided to users of blockchain networks. They are often more directly tied to the price of cryptocurrency and trading volume than other segments because higher asset prices and active trading drive revenue.
+A final segment comprises companies offering financial services around blockchain and digital assets: [cryptocurrency exchanges](/cryptocurrency-exchange/), payment processors, wallet providers, and financial platforms. These businesses derive revenue from transaction fees, trading commissions, or services provided to users of blockchain networks. They are often more directly tied to the price of cryptocurrency and trading volume than other segments because higher asset prices and active trading drive revenue.
 
 ## Costs and fund mechanics
 
-Amplify charges an annual expense ratio appropriate for a thematic ETF tracking a specialised index. The fee is passed through to shareholders proportionally. Because blockchain remains a young and volatile sector, the fund experiences portfolio turnover as companies enter and exit the index based on their involvement in blockchain. Understanding the turnover rate helps assess hidden costs.
+Amplify charges an annual [expense ratio](/expense-ratio/) appropriate for a [thematic ETF](/thematic-etf/) tracking a specialised index. The fee is passed through to shareholders proportionally. Because blockchain remains a young and volatile sector, the fund experiences portfolio turnover as companies enter and exit the index based on their involvement in blockchain. Understanding the turnover rate helps assess hidden costs.
 
-Most companies in the blockchain sector do not pay dividends; they retain earnings for reinvestment in hardware, software development, or expansion. BLOK therefore tends to deliver returns through price appreciation rather than income.
+Most companies in the blockchain sector do not pay [dividends](/dividend/); they retain earnings for reinvestment in hardware, software development, or expansion. BLOK therefore tends to deliver returns through price appreciation rather than income.
 
 ## Risks and constraints of blockchain exposure
 
-The fund carries significant concentration risk. The blockchain ecosystem is smaller than many market segments, and the companies involved are not distributed across many industries; most are pure-play technology or infrastructure firms tied directly to blockchain adoption. This means individual companies have outsized impact on fund performance.
+The fund carries significant [concentration risk](/concentration-risk/). The blockchain ecosystem is smaller than many market segments, and the companies involved are not distributed across many industries; most are pure-play technology or infrastructure firms tied directly to blockchain adoption. This means individual companies have outsized impact on fund performance.
 
 Regulatory risk is material and ongoing. Governments worldwide are developing frameworks for cryptocurrency and blockchain — frameworks that could encourage or constrain the sector. Changes in regulation, taxation, or enforcement directly affect the businesses in the fund.
 

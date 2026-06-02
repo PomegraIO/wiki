@@ -28,7 +28,7 @@ The more recent and strategically significant move is the integration of solar p
 
 ### What is the addressable market?
 
-Worksport's primary market is North America, where pickup trucks are ubiquitous and tonneau covers are a standard aftermarket purchase. The company's covers are compatible with trucks from Ram, Chevrolet, GMC, Ford, Jeep, Nissan, and Toyota — essentially all the major pickup-truck platforms sold in the continent. Tens of millions of pickup trucks are in use at any given time, and a substantial fraction of owners upgrade or replace their tonneau covers over time. The addressable market for covers themselves is enormous, but it is also highly competitive and price-sensitive.
+Worksport's [primary market](/primary-market/) is North America, where pickup trucks are ubiquitous and tonneau covers are a standard aftermarket purchase. The company's covers are compatible with trucks from Ram, Chevrolet, GMC, Ford, Jeep, Nissan, and Toyota — essentially all the major pickup-truck platforms sold in the continent. Tens of millions of pickup trucks are in use at any given time, and a substantial fraction of owners upgrade or replace their tonneau covers over time. The addressable market for covers themselves is enormous, but it is also highly competitive and price-sensitive.
 
 The addressable market for solar-integrated systems is smaller but potentially higher-margin. The intersection of truck owners who want renewable power, portable energy, and integrated truck-bed systems is more niche, but it aligns with broader consumer trends toward clean energy, off-grid living, and portable power systems. As battery costs have fallen and solar hardware costs have declined, the appeal of systems like SOLIS has widened beyond enthusiasts to mainstream truck owners seeking emergency backup power or extended camping capabilities.
 
@@ -48,7 +48,7 @@ Solar integration is more culturally relevant in regions and user segments with 
 
 Tonneau covers are a commodity product in many respects, and Worksport's premium positioning depends on actual durability and customer satisfaction to justify higher prices. If competitors offer similar quality at lower cost, or if the mass market migrates toward cheaper soft covers, margins compress. The company also depends on stability in pickup-truck production and ownership; if the North American truck market contracts, demand for aftermarket covers declines.
 
-Solar and portable-power integration is newer and less proven. SOLIS and COR must deliver genuine utility and reliability to justify their premium prices. If early adopters encounter reliability or performance issues, the emerging category could stall. The company is also exposed to swings in consumer spending on discretionary vehicle upgrades; during recessions, truck owners defer new accessories.
+Solar and portable-power integration is newer and less proven. SOLIS and COR must deliver genuine utility and reliability to justify their premium prices. If early adopters encounter reliability or performance issues, the emerging category could stall. The company is also exposed to swings in consumer spending on discretionary vehicle upgrades; during [recessions](/recession/), truck owners defer new accessories.
 
 ### How should investors research Worksport?
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TriMas Corp, trading on the [NASDAQ](/nasdaq/) under the ticker TRS, is an industrial holding company that designs and manufactures specialty components, fasteners, and tools for the aerospace, industrial, and [commercial vehicle](/cvgi-stock/) markets. The company sells bolts, hinges, latches, and engineered devices to customers who demand precision, reliability, and regulatory compliance — the kind of unglamorous but essential parts that keep aircraft in the sky, heavy machinery running, and critical systems functioning. It is a classic example of a mid-sized diversified industrial firm built and refined through acquisition, consolidation, and operational focus over several decades.
+TriMas Corp, trading on the [NASDAQ](/nasdaq/) under the ticker TRS, is an industrial holding company that designs and manufactures specialty components, fasteners, and tools for the aerospace, industrial, and commercial vehicle markets. The company sells bolts, hinges, latches, and engineered devices to customers who demand precision, reliability, and regulatory compliance — the kind of unglamorous but essential parts that keep aircraft in the sky, heavy machinery running, and critical systems functioning. It is a classic example of a mid-sized diversified industrial firm built and refined through acquisition, consolidation, and operational focus over several decades.
 
 <aside class="wiki-infobox">
 <table>

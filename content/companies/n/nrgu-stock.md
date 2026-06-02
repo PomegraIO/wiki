@@ -34,7 +34,7 @@ This works only if people trust the bank. If everyone wants their money back at 
 
 ## Where the money comes from
 
-Bank of Montreal gets money from people and businesses in several ways. Checking accounts. Savings accounts. Fixed-term deposits where you agree to leave money there for a year in exchange for higher interest. Bonds that the bank sells to investors. All of this is money flowing in.
+Bank of Montreal gets money from people and businesses in several ways. Checking accounts. Savings accounts. Fixed-term deposits where you agree to leave money there for a year in exchange for higher interest. [Bonds](/bond/) that the bank sells to investors. All of this is money flowing in.
 
 The bank then lends this money out. Mortgages are the biggest category. Someone buys a house and borrows 300,000 dollars from the bank. They pay it back over thirty years with interest. Business loans are another category. A small company needs equipment and borrows 50,000 dollars. A person wants to buy a car and borrows 25,000 dollars. All of these loans generate interest income.
 
@@ -42,7 +42,7 @@ The bank also earns money from fees. Charging you to use an ATM. Taking a small 
 
 ## Why interest rates matter a lot
 
-When the central bank raises interest rates, something interesting happens. The bank still owes you the same one percent on your savings account, but now it can charge borrowers eight percent instead of five percent on mortgages. That bigger difference is pure profit.
+When the [central bank](/central-bank/) raises [interest rates](/interest-rate/), something interesting happens. The bank still owes you the same one percent on your savings account, but now it can charge borrowers eight percent instead of five percent on mortgages. That bigger difference is pure profit.
 
 When interest rates fall, the opposite happens. You still earn one percent on your savings, but the bank can only charge three percent on new mortgages. The gap shrinks. Less profit.
 
@@ -52,7 +52,7 @@ This is why bank stocks go up when interest rates rise and down when they fall. 
 
 Banks make a bet every time they lend money. They bet that the borrower will pay it back. Sometimes they lose that bet. Someone loses their job and stops paying their mortgage. A business fails and can't repay its loan.
 
-When someone doesn't pay back a loan, the bank has to write it down — essentially admit the money is gone. A lot of bad loans hitting at once (during a recession, for example) can wipe out a year's worth of profits. This is why banks have to be picky about who they lend to. And this is why they have to keep extra money on hand just in case.
+When someone doesn't pay back a loan, the bank has to write it down — essentially admit the money is gone. A lot of bad loans hitting at once (during a [recession](/recession/), for example) can wipe out a year's worth of profits. This is why banks have to be picky about who they lend to. And this is why they have to keep extra money on hand just in case.
 
 ## Competition from other banks and fintech
 
@@ -78,7 +78,7 @@ These rules exist because if a big bank fails, it can hurt the whole economy. Re
 
 If you're thinking about buying Bank of Montreal stock, the key questions are simple. Can the bank keep its customers happy? Will it adapt to digital banking faster than its competitors? Will the economy stay healthy enough that loans get paid back? Will interest rates stay high enough to generate good profits?
 
-If you think the answer to all those is yes, the stock might be a good investment. Bank of Montreal pays a dividend, which is money the bank returns to shareholders every quarter. Over many years, a steady dividend from a stable bank can add up.
+If you think the answer to all those is yes, the stock might be a good investment. Bank of Montreal pays a [dividend](/dividend/), which is money the bank returns to shareholders every quarter. Over many years, a steady dividend from a stable bank can add up.
 
 If the economy heads into recession, loans will default, interest rates might fall, and the stock will probably drop. That's just what happens to bank stocks. They tend to rise when the economy is strong and fall when it's weak. Understanding that basic pattern is most of what you need to know.
 

@@ -46,7 +46,7 @@ Taboola's profit comes from the spread—the difference between what advertisers
 
 Upstream, Taboola depends on publishers to embed its widget across the web and mobile apps. The top publishers—major news sites, entertainment brands, lifestyle outlets—generate the majority of impressions and revenue. If major publishers remove Taboola's widget, traffic and revenue drop sharply. Taboola's product must perform well for publishers (drive high-quality traffic and revenue) to remain competitive against rivals.
 
-Taboola also depends on advertisers and content creators who purchase placements. If advertiser demand falls—because marketing budgets are cut, because a recession reduces consumer spending, or because better-performing channels exist—then less money flows through the platform and revenue declines.
+Taboola also depends on advertisers and content creators who purchase placements. If advertiser demand falls—because marketing budgets are cut, because a [recession](/recession/) reduces consumer spending, or because better-performing channels exist—then less money flows through the platform and revenue declines.
 
 Downstream, Taboola serves two customer types. First, publishers: they want Taboola's widget to generate revenue and reader engagement without too much friction (it must not degrade the reader experience so badly that it harms the core article's value or page performance). Second, advertisers and content promoters: they want Taboola to deliver clicks at a reasonable cost and with audience quality that converts.
 
@@ -72,6 +72,6 @@ As the digital advertising market matures and competition intensifies, cost-per-
 
 ## How to research Taboola
 
-Start with Taboola's 10-K filing (SEC CIK 0001840502), which details revenue composition, the concentration of revenue among top advertisers and publishers, and the company's operating margins. Watch quarterly earnings calls for commentary on advertiser demand, publisher relationships, and shifts in pricing. The most useful operational metrics are gross margin (which scales with advertiser demand) and the share of revenue from top publishers (concentration risk).
+Start with Taboola's 10-K filing (SEC CIK 0001840502), which details revenue composition, the concentration of revenue among top advertisers and publishers, and the company's [operating margins](/operating-margin/). Watch quarterly earnings calls for commentary on advertiser demand, publisher relationships, and shifts in pricing. The most useful operational metrics are gross margin (which scales with advertiser demand) and the share of revenue from top publishers ([concentration risk](/concentration-risk/)).
 
 Monitor industry trends in programmatic advertising and digital marketing spending. If major publishers announce partnerships with competitors or build internal alternatives to Taboola, that signals competitive pressure. Similarly, if large advertisers reduce digital marketing budgets or report declining return on ad spend from recommendation networks, Taboola's revenue will follow.

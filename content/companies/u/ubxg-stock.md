@@ -28,7 +28,7 @@ U-BX Technology Ltd. is an insurance technology company. It solves a real proble
 
 U-BX runs software that insurance companies use before they decide whether to issue a policy. The software uses algorithms to evaluate risk. An applicant fills out a form. The system looks at the data and tells the insurer: this person is low risk, medium risk, or high risk. It is faster than human underwriters. It is more consistent. Most importantly, it can spot patterns that humans might miss — linking together pieces of information to catch fraud or identify genuinely dangerous customers.
 
-The company also helps insurance companies figure out which customers to target with ads. This is called digital promotion. If the algorithm knows that a certain type of person is likely to buy auto insurance, it can help target ads to that audience. The insurer saves money on advertising by reaching people more likely to convert.
+The company also helps insurance companies figure out which customers to target with ads. This is called digital promotion. If the algorithm knows that a certain type of person is likely to buy [auto insurance](/auto-insurance/), it can help target ads to that audience. The insurer saves money on advertising by reaching people more likely to convert.
 
 U-BX bundles other services on top. It might add health screening services, or roadside assistance, or other benefits that customers value. These bundles make the insurance more attractive and give U-BX a chance to earn revenue from the add-on services.
 

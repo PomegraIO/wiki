@@ -14,7 +14,7 @@ handwritten: true
 
 The security, distilled.
 
-NEE-PW is a preferred or equity unit issued by NextEra Energy or one of its financing subsidiaries. It pays a fixed or variable distribution at a rate stated in the prospectus. Holders sit senior to common shareholders in the capital structure but junior to creditors. The unit embodies a claim on NextEra's cash: it expects the utility and power businesses to generate revenue, cut costs, and deliver distributions reliably.
+NEE-PW is a preferred or equity unit issued by [NextEra Energy](/nee-stock/) or one of its financing subsidiaries. It pays a fixed or variable distribution at a rate stated in the prospectus. Holders sit senior to common shareholders in the capital structure but junior to creditors. The unit embodies a claim on NextEra's cash: it expects the utility and power businesses to generate revenue, cut costs, and deliver distributions reliably.
 
 Two businesses underneath.
 
@@ -26,15 +26,15 @@ Funds for preferred distributions flow from the combination of both segments. FP
 
 Regulatory risk, the binding constraint.
 
-The Florida Public Service Commission has the power to limit FPL's returns, set depreciation rates, and approve or reject major capital projects. A shift toward aggressive regulation—skepticism of utility spending, resistance to rate increases—creates a ceiling on how much cash FPL can generate. Since FPL is the foundation of NextEra's cash flow, regulatory headwinds ripple through. Conversely, a supportive regulator that approves infrastructure spending and allows recovery of investment can unlock growth. Energy transition also sits here: if regulators mandate rapid retirement of fossil assets and require heavy investment in renewable infrastructure, FPL must redirect capital spending. The company can manage that transition, but it takes time, planning, and regulatory buy-in. If regulators mandate faster-than-feasible change or reject cost recovery, earnings face pressure.
+The Florida Public Service Commission has the power to limit FPL's returns, set [depreciation](/depreciation/) rates, and approve or reject major capital projects. A shift toward aggressive regulation—skepticism of utility spending, resistance to rate increases—creates a ceiling on how much cash FPL can generate. Since FPL is the foundation of NextEra's cash flow, regulatory headwinds ripple through. Conversely, a supportive regulator that approves infrastructure spending and allows recovery of investment can unlock growth. Energy transition also sits here: if regulators mandate rapid retirement of fossil assets and require heavy investment in renewable infrastructure, FPL must redirect capital spending. The company can manage that transition, but it takes time, planning, and regulatory buy-in. If regulators mandate faster-than-feasible change or reject cost recovery, earnings face pressure.
 
-Market risk in the power business.
+[Market risk](/market-risk/) in the power business.
 
 NEER sells power into markets where prices fluctuate with demand, fuel costs, and wind and solar availability. In years of high demand and tight supply, wholesale prices spike and earnings jump. In years of oversupply or warm winters (less heating load), prices compress. The company mitigates this through long-term power purchase agreements with large industrial customers and utilities, which lock in prices and volumes. Still, a large portion of NEER's fleet is exposed to merchant risk. If wholesale power prices stay depressed for years—a plausible scenario in an era of cheap renewable overcapacity—NEER's earnings shrink. That directly hits the cash available for distributions.
 
-Balance sheet and leverage.
+[Balance sheet](/balance-sheet/) and leverage.
 
-NextEra is a capital-intensive business: every year the company spends billions on infrastructure, acquisitions, and maintenance. It funds this through regulated returns (FPL), power sales (NEER), debt issuance, and preferred financing. The company maintains investment-grade credit ratings, which allows it to borrow at reasonable costs. But if leverage rises too high or earnings weaken, credit ratings could face pressure. A downgrade makes debt more expensive and preferred financing scarcer, reducing cash available for distributions. Preferred holders feel the effect indirectly but meaningfully: a company under credit stress is less likely to prioritize preferred dividends and more likely to cut the common dividend (which ranks junior). Watch the company's debt-to-capital ratio and interest coverage trends.
+NextEra is a capital-intensive business: every year the company spends billions on infrastructure, [acquisitions](/acquisition/), and maintenance. It funds this through regulated returns (FPL), power sales (NEER), debt issuance, and preferred financing. The company maintains investment-grade [credit ratings](/credit-rating/), which allows it to borrow at reasonable costs. But if leverage rises too high or earnings weaken, credit ratings could face pressure. A downgrade makes debt more expensive and preferred financing scarcer, reducing cash available for distributions. Preferred holders feel the effect indirectly but meaningfully: a company under credit stress is less likely to prioritize preferred [dividends](/dividend/) and more likely to cut the common dividend (which ranks junior). Watch the company's [debt-to-capital ratio](/debt-to-capital-ratio/) and interest coverage trends.
 
 What to track.
 

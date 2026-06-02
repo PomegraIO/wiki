@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Western Union is the world's largest cross-border money-transfer business, with a distribution network spanning more than 200 countries and territories. The company operates as a global infrastructure for moving money internationally—whether individuals are sending remittances to family, small businesses are settling invoices across borders, or [financial institutions](/fisi-stock/) need [liquidity services](/lqdt-stock/). It is a household name in international payments, the kind of brand people recognize in small towns and large cities alike, processing billions of dollars annually.
+Western Union is the world's largest cross-border money-transfer business, with a distribution network spanning more than 200 countries and territories. The company operates as a global infrastructure for moving money internationally—whether individuals are sending remittances to family, small businesses are settling invoices across borders, or financial institutions need [liquidity services](/lqdt-stock/). It is a household name in international payments, the kind of brand people recognize in small towns and large cities alike, processing billions of dollars annually.
 
 The business is straightforward at its core but consequential at scale: Western Union takes funds from a sender in one location, credits a receiver in another, and keeps a fee. That simple model has powered the company for over 150 years and remains the backbone of modern-day operations, even as digital channels and technology have transformed how transfers move.
 

@@ -26,7 +26,7 @@ handwritten: true
 
 UTime Limited was founded in 2008 and has grown into one of China's mid-tier consumer electronics manufacturers, operating both as a branded seller and as an original design manufacturer (ODM) and original equipment manufacturer (OEM) contractor. The company designs, manufactures, and distributes mobile phones, power banks, Bluetooth speakers, smartwatches, smart rings, and the component inventory that supports them — batteries, chargers, shells, molds — across a portfolio that spans commodity and margin-accretive products.
 
-The business model is deliberately split: branded products (sold under the UTime and Do labels) compete on price and distribution reach across emerging markets; the ODM/OEM services generate steady, lower-volatility revenue by manufacturing devices to specification for other companies that lack in-house production capacity. This diversification is common among Chinese electronics firms trying to stabilize cash flow while participating in both consumer-facing and business-to-business markets.
+The business model is deliberately split: branded products (sold under the UTime and Do labels) compete on price and distribution reach across emerging markets; the ODM/OEM services generate steady, lower-volatility revenue by manufacturing devices to specification for other companies that lack in-house production capacity. This [diversification](/diversification/) is common among Chinese electronics firms trying to stabilize cash flow while participating in both consumer-facing and business-to-business markets.
 
 ## The core margins and unit economics
 
@@ -34,7 +34,7 @@ UTime's revenue comes from two sources with very different economics. The brande
 
 The ODM/OEM channel is more defensible. Customers outsource manufacturing to avoid the capital investment and operational headache of running factories themselves. UTime's value proposition is cost competitiveness combined with reasonable quality and the ability to scale production flexibly. Margins here run higher — perhaps 20–35% gross margin — because the switching cost is real; once a customer certifies a supplier and builds supply-chain relationships, moving is disruptive. But that stability is fragile: a customer can always shift to a cheaper supplier if price pressure gets high enough, or vertically integrate if volumes justify it.
 
-The Shenzhen base and proximity to component suppliers (and competition from nearby manufacturers) keeps costs low but also limits differentiation. UTime cannot compete on R&D the way Apple can; it competes on execution, speed, and cost discipline. That means profitability depends entirely on volume and the ability to manage working capital — inventory, accounts payable, and receivables — tightly.
+The Shenzhen base and proximity to component suppliers (and competition from nearby manufacturers) keeps costs low but also limits differentiation. UTime cannot compete on R&D the way [Apple](/aapl-stock/) can; it competes on execution, speed, and cost discipline. That means profitability depends entirely on volume and the ability to manage working capital — inventory, [accounts payable](/accounts-payable/), and receivables — tightly.
 
 ## Diversification into wearables and the services pivot
 
@@ -44,11 +44,11 @@ Simultaneously, UTime entered into an intentional-order cooperation agreement wi
 
 ## The reverse split signal
 
-UTime executed a 5-for-1 reverse stock split in February 2026, a tactical move that consolidates share count and typically signals the company's attempt to maintain minimum exchange listing requirements or prepare for an alternative strategic event. Reverse splits are common among smaller-cap companies that have experienced stock-price erosion and are trying to signal renewed credibility to institutional investors. It is not an admission of failure, but it is a sign the stock has struggled and the company is working to repair its perception.
+UTime executed a 5-for-1 [reverse stock split](/reverse-stock-split/) in February 2026, a tactical move that consolidates share count and typically signals the company's attempt to maintain minimum [exchange listing requirements](/exchange-listing-requirements/) or prepare for an alternative strategic event. Reverse splits are common among smaller-cap companies that have experienced stock-price erosion and are trying to signal renewed credibility to institutional investors. It is not an admission of failure, but it is a sign the stock has struggled and the company is working to repair its perception.
 
 ## Revenue concentration and market exposure
 
-The company sells primarily in China and surrounding regions where it enjoys logistics advantages and entrenched supplier relationships. The push into Africa and the United States represents both growth opportunity and execution risk — customer acquisition in new geographies requires partnerships, regulatory compliance, and working-capital management different from the home market. The company's financial performance is sensitive to commodity input costs (plastics, rare-earth components, batteries) and exchange-rate movements, particularly the Chinese yuan against the dollar.
+The company sells primarily in China and surrounding regions where it enjoys logistics advantages and entrenched supplier relationships. The push into Africa and the United States represents both growth opportunity and execution risk — customer [acquisition](/acquisition/) in new geographies requires partnerships, regulatory compliance, and working-capital management different from the home market. The company's financial performance is sensitive to commodity input costs (plastics, rare-earth components, batteries) and exchange-rate movements, particularly the Chinese yuan against the dollar.
 
 ## The research path
 

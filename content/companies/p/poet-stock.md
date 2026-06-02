@@ -19,7 +19,7 @@ Computer chips move data through electrical signals. That works, but it has limi
 
 POET has designed a technology called "optical engines" — they are chips that integrate lasers, optical routing, and high-speed electronics on a single piece of silicon. The idea is that instead of moving data electrically from one chip to another inside a server, or between servers in a data center, you encode the data as light and send it optically. That solves the heat problem and the interference problem. It also scales to much higher speeds with much less power.
 
-The promise is compelling. The challenge is execution. POET has been developing these technologies since its founding in 1993. It has accumulated a portfolio of patents and has partnerships with semiconductor manufacturers to produce its chips, but the company has never meaningfully commercialized its designs. It is a "fabless" semiconductor company, which means it designs chips but does not manufacture them — it partners with foundries like Taiwan Semiconductor Manufacturing Company (TSMC) to produce the actual hardware.
+The promise is compelling. The challenge is execution. POET has been developing these technologies since its founding in 1993. It has accumulated a portfolio of patents and has partnerships with semiconductor manufacturers to produce its chips, but the company has never meaningfully commercialized its designs. It is a "fabless" semiconductor company, which means it designs chips but does not manufacture them — it partners with foundries like [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company (TSMC) to produce the actual hardware.
 
 ## The long journey to commercialization
 

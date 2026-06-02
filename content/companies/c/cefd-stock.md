@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-CEFD is an exchange-traded note issued by UBS that seeks to deliver 1.5 times the daily return of an index of closed-end funds, while also distributing the underlying index's income monthly to shareholders. The fund uses leverage through derivatives to amplify both gains and losses, and rebalances daily to maintain its 1.5x target. CEFD is a specialized tool that combines two layers of investment complexity: leverage and exposure to closed-end funds, which themselves are often specialized or leveraged vehicles.
+CEFD is an exchange-traded note issued by UBS that seeks to deliver 1.5 times the daily return of an index of [closed-end funds](/closed-end-fund/), while also distributing the underlying index's income monthly to shareholders. The fund uses leverage through derivatives to amplify both gains and losses, and rebalances daily to maintain its 1.5x target. CEFD is a specialized tool that combines two layers of investment complexity: leverage and exposure to closed-end funds, which themselves are often specialized or leveraged vehicles.
 
 ## The origins of leveraged closed-end fund investing
 
@@ -21,25 +21,25 @@ The leveraged ETN structure was relatively new in the late 2000s. At the time, l
 
 ## How leverage stacks and compounds
 
-CEFD's leverage operates through index swaps and total return swaps, derivatives that give the fund economical exposure to 1.5 times the daily move of its underlying closed-end fund index. If the index rises 1%, CEFD aims to rise 1.5%; if the index falls 1%, CEFD falls 1.5%. This amplification allows leverage without the fund needing to own shares of each closed-end fund individually.
+CEFD's leverage operates through index swaps and [total return swaps](/total-return-swap/), derivatives that give the fund economical exposure to 1.5 times the daily move of its underlying closed-end fund index. If the index rises 1%, CEFD aims to rise 1.5%; if the index falls 1%, CEFD falls 1.5%. This amplification allows leverage without the fund needing to own shares of each closed-end fund individually.
 
 The leverage compounds at a rate of 1.5x daily, which means CEFD rebalances every trading day to maintain exactly 1.5 times the notional exposure to the day's starting value. This daily reset creates the same volatility decay risk that all leveraged funds face: in choppy markets, the amplified gains and losses pile up, and CEFD can underperform or outperform the underlying index depending on which way the volatility cuts.
 
 ## The closed-end fund index
 
-CEFD's underlying index holds closed-end funds — specialized investment vehicles that trade on exchanges like stocks but hold managed portfolios of equities, bonds, alternatives, or hybrids. Closed-end funds often focus on high-yield strategies, income-generating assets, or niche markets that attract professional managers. The index itself is diversified across many closed-end funds, so CEFD offers indirect exposure to this entire ecosystem.
+CEFD's underlying index holds closed-end funds — specialized investment vehicles that trade on exchanges like stocks but hold managed portfolios of equities, [bonds](/bond/), alternatives, or hybrids. Closed-end funds often focus on high-yield strategies, income-generating assets, or niche markets that attract professional managers. The index itself is diversified across many closed-end funds, so CEFD offers indirect exposure to this entire ecosystem.
 
-Because closed-end funds themselves sometimes use leverage, trade at discounts or premiums to their net asset value, and pursue yield-maximizing strategies, CEFD's returns are driven by the performance of those funds. In a rising market, leverage amplifies the closed-end fund gains; in a declining market, it amplifies losses. Additionally, if closed-end funds themselves are leveraged or pursue risky strategies, that risk is magnified one more time by CEFD's 1.5x overlay.
+Because closed-end funds themselves sometimes use leverage, trade at discounts or premiums to their [net asset value](/net-asset-value/), and pursue yield-maximizing strategies, CEFD's returns are driven by the performance of those funds. In a rising market, leverage amplifies the closed-end fund gains; in a declining market, it amplifies losses. Additionally, if closed-end funds themselves are leveraged or pursue risky strategies, that risk is magnified one more time by CEFD's 1.5x overlay.
 
 ## Monthly distributions and tax consequences
 
-Unlike many other leveraged ETFs, CEFD distributes income to shareholders monthly. The distributions come from the underlying closed-end fund index's dividends and interest, amplified by leverage. A 5% yield on the underlying index might translate to something higher when delivered to CEFD shareholders, a feature that appeals to income investors.
+Unlike many other [leveraged ETFs](/leveraged-etf/), CEFD distributes income to shareholders monthly. The distributions come from the underlying closed-end fund index's [dividends](/dividend/) and interest, amplified by leverage. A 5% yield on the underlying index might translate to something higher when delivered to CEFD shareholders, a feature that appeals to income investors.
 
 The monthly distribution creates significant tax consequences. Most of the distribution is likely ordinary income (interest, dividends) or return of capital, and the fund must disclose the character of each month's payout. For taxable accounts, this monthly distribution stream can trigger regular tax bills, even if the fund's share price is declining. This tax drag is especially significant for high-income earners in peak tax brackets.
 
 ## The ETN structure and counterparty risk
 
-CEFD is an exchange-traded note, not a traditional mutual fund or ETF. The difference matters. An ETN is a debt obligation of the issuer (UBS), and its value depends on both the performance of the underlying index and UBS's creditworthiness. If UBS faces financial distress or bankruptcy, CEFD shareholders are unsecured creditors competing with other debt holders. This counterparty risk is often overlooked by retail investors but represents a real contingency that would-be holders should understand.
+CEFD is an exchange-traded note, not a traditional [mutual fund](/mutual-fund/) or ETF. The difference matters. An ETN is a debt obligation of the issuer (UBS), and its value depends on both the performance of the underlying index and UBS's creditworthiness. If UBS faces financial distress or bankruptcy, CEFD shareholders are unsecured creditors competing with other debt holders. This [counterparty risk](/counterparty-risk/) is often overlooked by retail investors but represents a real contingency that would-be holders should understand.
 
 ETNs are issued by investment banks because the structure allows them to offer leveraged, complex, or illiquid exposures efficiently without the regulatory overhead of a mutual fund. But the trade-off is that the product's value depends on the issuer remaining solvent.
 
@@ -57,4 +57,4 @@ CEFD is inappropriate for retirement accounts, conservative portfolios, or inves
 
 ## Research and monitoring
 
-The prospectus is essential — it explains the leverage mechanism, the daily rebalancing, the counterparty risk, and the distribution character. UBS publishes an index fact sheet showing the composition of the underlying closed-end fund index. Investors should monitor the fund's performance versus the underlying index (accounting for the 1.5x amplification), the monthly distribution rate, and UBS's credit rating. Any sign of stress in UBS's financial condition should trigger a review of the counterparty risk.
+The prospectus is essential — it explains the leverage mechanism, the daily rebalancing, the counterparty risk, and the distribution character. UBS publishes an index fact sheet showing the composition of the underlying closed-end fund index. Investors should monitor the fund's performance versus the underlying index (accounting for the 1.5x amplification), the monthly distribution rate, and UBS's [credit rating](/credit-rating/). Any sign of stress in UBS's financial condition should trigger a review of the counterparty risk.

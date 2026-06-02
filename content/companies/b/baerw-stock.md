@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Bridger Aerospace operates in the aircraft maintenance, repair, and overhaul (MRO) business, serving military and defense customers. The company maintains and repairs aircraft — C-130 Hercules, KC-135 Stratotanker, and similar platforms — that keep flying for decades and require continuous work to stay combat-ready. This is a stable, contract-driven business in a defensive industry. The financial model is straightforward but requires heavy upfront capital and predictable customer funding.
+[Bridger Aerospace](/baer-stock/) operates in the aircraft maintenance, repair, and overhaul (MRO) business, serving military and defense customers. The company maintains and repairs aircraft — C-130 Hercules, KC-135 Stratotanker, and similar platforms — that keep flying for decades and require continuous work to stay combat-ready. This is a stable, contract-driven business in a defensive industry. The financial model is straightforward but requires heavy upfront capital and predictable customer funding.
 
 <aside class="wiki-infobox">
 <table>
@@ -37,7 +37,7 @@ The business is operationally straightforward. Bridger needs skilled technicians
 
 MRO facilities are capital-intensive. A modern maintenance hangar with specialized equipment costs tens of millions to build. Tools, test stands, and software for diagnostics add further expense. These assets support labor-based revenue, so utilization is critical. If a facility is built to handle four aircraft simultaneously but contracts provide work for only two, half the capacity sits idle and capital is wasted. Conversely, if contracts surge and capacity is maxed out, Bridger cannot take additional work without more facilities and investment.
 
-Bridger finances these assets through a combination of internal cash flow and debt. The company must have enough cash or borrowing capacity to fund maintenance and upgrades. Strong, predictable contracts support debt financing because lenders can forecast cash generation. Uncertainty in the contract pipeline constrains leverage and forces the company to keep excess liquidity as a buffer.
+Bridger finances these assets through a combination of internal cash flow and debt. The company must have enough cash or borrowing capacity to fund maintenance and upgrades. Strong, predictable contracts support [debt financing](/debt-financing/) because lenders can forecast cash generation. Uncertainty in the contract pipeline constrains leverage and forces the company to keep excess liquidity as a buffer.
 
 Revenue arrives as contract work is performed. Payment terms vary — the military may pay monthly, quarterly, or upon completion of specific milestones. Bridger must manage working capital to sustain operations between invoicing and payment.
 
@@ -47,13 +47,13 @@ Profit margins in MRO are moderate. The business is competitive, with multiple c
 
 Bridger generates cash from contracted maintenance work. That cash pays for labor, materials, facility costs, and overhead. Excess cash funds capital maintenance (replacing worn tools, upgrading facilities), growth capital (expanding capacity for new contracts), and shareholder returns.
 
-Defense contractors typically operate with modest dividend payout ratios, reinvesting most cash to fund growth and maintain balance-sheet strength. That is a conservative posture, but it aligns with the reality of the military customer — contracts can end or shrink, and having cash reserves matters for weathering those transitions.
+Defense contractors typically operate with modest [dividend payout ratios](/dividend-payout-ratio/), reinvesting most cash to fund growth and maintain balance-sheet strength. That is a conservative posture, but it aligns with the reality of the military customer — contracts can end or shrink, and having cash reserves matters for weathering those transitions.
 
 The company may incur debt to fund facility expansion, especially if a large new contract requires building out capacity ahead of revenue flowing in. That debt is backed by the contract, effectively, so lenders are willing to provide it. But Bridger must manage the debt carefully to avoid overcommitting capital before contract performance proves profitable.
 
 ## Customer concentration and contract risk
 
-Bridger's largest customer is the U.S. Department of Defense. That is a strength in one sense — the customer is creditworthy and pays on time — but a concentration risk in another. If the military's budget is cut, or if maintenance for the C-130 is reduced, Bridger's revenue could fall sharply. Diversification to other customers (allies, commercial operators, other defense contractors) would reduce that risk, but the military is the natural home for this kind of specialized expertise.
+Bridger's largest customer is the U.S. Department of Defense. That is a strength in one sense — the customer is creditworthy and pays on time — but a [concentration risk](/concentration-risk/) in another. If the military's budget is cut, or if maintenance for the C-130 is reduced, Bridger's revenue could fall sharply. [Diversification](/diversification/) to other customers (allies, commercial operators, other defense contractors) would reduce that risk, but the military is the natural home for this kind of specialized expertise.
 
 Contract wins and losses are the primary drivers of near-term financial performance. A loss of a major contract, or failure to renew, is a material event. Analysts follow Bridger's contract pipeline closely, looking for signs of future work.
 
@@ -69,10 +69,10 @@ Staffing is also a constraint. Skilled aircraft mechanics are in short supply, a
 
 ## Researching Bridger
 
-Start with Bridger's 10-K filing (SEC CIK 0001941536) and understand the portfolio of active contracts, their durations, and their values. Look for pipeline indicators — contract wins announced, bids submitted, or expectations about future awards. Track gross margins over time; improving margins signal successful cost management or pricing power, while deteriorating margins suggest competition or cost inflation that the company cannot offset.
+Start with Bridger's 10-K filing (SEC CIK 0001941536) and understand the portfolio of active contracts, their durations, and their values. Look for pipeline indicators — contract wins announced, bids submitted, or expectations about future awards. Track gross margins over time; improving margins signal successful cost management or pricing power, while deteriorating margins suggest competition or cost [inflation](/inflation/) that the company cannot offset.
 
 Monitor utilization of facilities and labor. If idle capacity is growing, it signals either successful cost control (deliberately staying lean) or failed growth (bidding on contracts and losing). Military-budget news is relevant context — does the defense budget support growth in C-130 and KC-135 maintenance, or are those platforms being retired faster than expected?
 
 Watch for facility investments and capital spending. Large new investments signal confidence in future contract volume; lack of capex might signal management caution about the pipeline. And pay attention to the company's debt levels and interest coverage. High leverage magnifies downside risk if contracts decline.
 
-The warrant component (BAERW) is a separate security with different risk and reward than the common stock. Understand the warrant's strike price and expiry, as these affect its value and the probability that it will be exercised profitably.
+The warrant component (BAERW) is a separate security with different risk and reward than the [common stock](/common-stock/). Understand the warrant's [strike price](/strike-price/) and expiry, as these affect its value and the probability that it will be exercised profitably.

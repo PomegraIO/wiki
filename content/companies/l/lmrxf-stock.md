@@ -41,7 +41,7 @@ Canada is a major uranium producer, but permitting for new mines involves rigoro
 
 ## Competitive Position in a Small Cohort
 
-Only a handful of companies are actively developing new uranium mines in the Western world. Cameco and Kazatomprom are major producers; Sprott focuses on investment. For development projects, Laramide competes against peers like Sprott, [Energy Fuels](/uuuu-stock/), and other juniors, as well as against the possibility that existing producers expand current mines rather than greenfield development. Laramide's advantage is project quality (geological merit and advanced permitting status) and capital availability. The company must move projects faster and more cost-effectively than peers, or secure strategic backing from a major utility or energy company that will fund development in exchange for future supply rights.
+Only a handful of companies are actively developing new uranium mines in the Western world. Cameco and Kazatomprom are major producers; Sprott focuses on investment. For development projects, Laramide competes against peers like Sprott, Energy Fuels, and other juniors, as well as against the possibility that existing producers expand current mines rather than greenfield development. Laramide's advantage is project quality (geological merit and advanced permitting status) and capital availability. The company must move projects faster and more cost-effectively than peers, or secure strategic backing from a major utility or energy company that will fund development in exchange for future supply rights.
 
 ## Strategic Partners and Off-Take Agreements
 

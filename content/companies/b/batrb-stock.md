@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Atlanta Braves Holdings, Inc. owns and operates the Atlanta Braves, a professional baseball franchise based in Atlanta, Georgia, and one of the oldest continuously operating teams in North American professional sports. The Braves play in Major League Baseball and compete in the National League East. Beyond the team itself, the company operates Truist Park, the franchise's home stadium, and derives revenue from ticket sales, broadcast rights, concessions, sponsorships, and merchandise — the full ecosystem of professional sports business.
+[Atlanta Braves](/batra-stock/) Holdings, Inc. owns and operates the Atlanta Braves, a professional baseball franchise based in Atlanta, Georgia, and one of the oldest continuously operating teams in North American professional sports. The Braves play in Major League Baseball and compete in the National League East. Beyond the team itself, the company operates Truist Park, the franchise's home stadium, and derives revenue from ticket sales, broadcast rights, concessions, sponsorships, and merchandise — the full ecosystem of professional sports business.
 
 <aside class="wiki-infobox">
 <table>

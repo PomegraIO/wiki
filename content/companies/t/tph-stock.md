@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Tri Pointe Homes builds houses. That is the core of it. The company buys parcels of land, often with entitlements already in place or secured, designs residential developments on them, constructs homes (either itself or through subcontractors), and sells the finished product to homebuyers. It is listed on the New York Stock Exchange under the ticker TPH. The business is straightforward in concept but genuinely difficult in practice. Success requires buying land cheaper than competitors, predicting what buyers will want and pay for, managing construction costs tightly, navigating a bureaucratic approval process that can take years, and executing reliably when labor is scarce or prices for materials surge. When the housing market is hot, home builders make exceptional money. When demand cools, they can face losses and long stretches with negative returns.
+Tri Pointe Homes builds houses. That is the core of it. The company buys parcels of land, often with entitlements already in place or secured, designs residential developments on them, constructs homes (either itself or through subcontractors), and sells the finished product to homebuyers. It is listed on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker TPH. The business is straightforward in concept but genuinely difficult in practice. Success requires buying land cheaper than competitors, predicting what buyers will want and pay for, managing construction costs tightly, navigating a bureaucratic approval process that can take years, and executing reliably when labor is scarce or prices for materials surge. When the housing market is hot, home builders make exceptional money. When demand cools, they can face losses and long stretches with negative returns.
 
 <aside class="wiki-infobox">
 <table>
@@ -36,11 +36,11 @@ When a home sells, the company records revenue and the cash payment arrives. But
 
 ## The cyclical nature and the land machine
 
-Homebuilding is famously cyclical. When mortgage interest rates are low, housing inventory is tight, and the economy is strong, demand for new homes surges. Builders can raise prices, sell homes quickly, and generate strong returns. When interest rates rise sharply, unemployment climbs, or consumer confidence drops, demand evaporates. Builders then struggle to sell the homes they have already started, often at lower prices than expected. The business swings from boom to bust in a compressed timeframe.
+Homebuilding is famously cyclical. When mortgage [interest rates](/interest-rate/) are low, housing inventory is tight, and the economy is strong, demand for new homes surges. Builders can raise prices, sell homes quickly, and generate strong returns. When interest rates rise sharply, unemployment climbs, or consumer confidence drops, demand evaporates. Builders then struggle to sell the homes they have already started, often at lower prices than expected. The business swings from boom to bust in a compressed timeframe.
 
 Tri Pointe's performance is therefore tied to the health of the housing market, and the most important leading indicator is mortgage rates. When rates spike, potential homebuyers disappear because the monthly payment becomes unaffordable. When rates fall, demand can re-ignite quickly. Secondary factors include unemployment, consumer confidence, home affordability, and supply. If new inventory is scarce, existing homeowners feel they can sell, so used-home sales rise and compete with new construction. If affordability is poor, only top-tier buyers can enter the market, and the addressable customer base shrinks.
 
-The company's key hedge against this cyclicality is the land machine. Tri Pointe is continuously acquiring land across its markets—Arizona, California, Colorado, Nevada, Texas, Florida, and the Carolinas. The company's thesis is that if you can buy and entitle land at the right price when the market is cool, you have an advantage when demand heats up again. Conversely, if you pause land acquisition when prices are low because you are focused on managing immediate losses, you will be land-constrained when the cycle turns. Tri Pointe's management tries to maintain steady land spending even in cyclical downturns, betting on mean reversion of the housing market.
+The company's key hedge against this cyclicality is the land machine. Tri Pointe is continuously acquiring land across its markets—Arizona, California, Colorado, Nevada, Texas, Florida, and the Carolinas. The company's thesis is that if you can buy and entitle land at the right price when the market is cool, you have an advantage when demand heats up again. Conversely, if you pause land [acquisition](/acquisition/) when prices are low because you are focused on managing immediate losses, you will be land-constrained when the cycle turns. Tri Pointe's management tries to maintain steady land spending even in cyclical downturns, betting on mean reversion of the housing market.
 
 ## Margins, leverage, and the incentive structure
 
@@ -52,11 +52,11 @@ This creates an incentive structure that is sometimes counterproductive from a s
 
 ## Competition and the path of least resistance
 
-Tri Pointe competes against other regional and national home builders—KB Home, D.R. Horton, Pulte Homes, Lennar, and a long list of regional players. At the high end of the market, custom builders serve affluent clients. At the volume end, large public builders like D.R. Horton dominate through sheer scale and land position.
+Tri Pointe competes against other regional and national home builders—[KB Home](/kbh-stock/), D.R. Horton, Pulte Homes, Lennar, and a long list of regional players. At the high end of the market, custom builders serve affluent clients. At the volume end, large public builders like D.R. Horton dominate through sheer scale and land position.
 
 Tri Pointe occupies a middle position. It is large enough to compete nationally and access capital markets, but regional enough to maintain operational focus. The company tries to win through operational execution—keeping construction costs low, managing quality, and building communities that appeal to the target buyer (often move-up buyers and first-time homebuyers in warm-weather markets).
 
-One structural advantage home builders have is access to land. The regulatory approval process for new residential development is expensive, slow, and politically contentious in many markets. A builder that has already secured entitlements on land is miles ahead of one starting the approval process. Tri Pointe's size and geographic diversification give it a portfolio of entitled land across multiple markets, which is a genuine competitive advantage in tight housing markets.
+One structural advantage home builders have is access to land. The regulatory approval process for new residential development is expensive, slow, and politically contentious in many markets. A builder that has already secured entitlements on land is miles ahead of one starting the approval process. Tri Pointe's size and geographic [diversification](/diversification/) give it a portfolio of entitled land across multiple markets, which is a genuine competitive advantage in tight housing markets.
 
 ## Pressure points and risks
 
@@ -70,7 +70,7 @@ The company is also exposed to regulatory changes—anything from energy codes t
 
 ## How to research Tri Pointe
 
-Tri Pointe files annual Form 10-K and quarterly Form 10-Q filings with the Securities and Exchange Commission (CIK 0001561680). These reports break down the company's homes delivered and homes ordered (backlog) by region, the gross margin on sales, the company's land position and carrying costs, and debt levels.
+Tri Pointe files annual Form 10-K and quarterly Form 10-Q filings with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (CIK 0001561680). These reports break down the company's homes delivered and homes ordered (backlog) by region, the gross margin on sales, the company's land position and carrying costs, and debt levels.
 
 Watch the trend of new home orders—they are a leading indicator of future revenue. When orders are accelerating and price trends are upward, the company is in an expanding phase. When orders slow or buyers are pushing back on prices, weakness is coming. Also track the company's backlog of homes sold but not yet delivered—a large and growing backlog is good (it represents locked-in future revenue at higher prices), but a shrinking backlog can signal demand is weakening.
 

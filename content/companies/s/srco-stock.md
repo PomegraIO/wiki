@@ -56,13 +56,13 @@ Gross margins depend heavily on labor efficiency. If a technician can complete f
 
 Operating leverage appears once the company reaches a certain size. A single dispatcher can manage many more technicians than a small shop. A parts warehouse that serves dozens of trucks spreads its overhead across many transactions. Regional presence also helps: the same regional brand recognition and supply chain that a small local operator cannot match scales a regional player's margins without proportionally scaling its costs.
 
-Profitability is also sensitive to customer concentration. If a few large chain customers represent the majority of revenue, loss of one customer can materially hurt the business. Diversification—hundreds of independent restaurant owners and several chain contracts—buffers that risk but requires systems to manage relationships at scale.
+Profitability is also sensitive to customer concentration. If a few large chain customers represent the majority of revenue, loss of one customer can materially hurt the business. [Diversification](/diversification/)—hundreds of independent restaurant owners and several chain contracts—buffers that risk but requires systems to manage relationships at scale.
 
 ## Pressures and growth paths
 
 The labor market is the most direct constraint. Skilled refrigeration technicians with EPA certifications are not abundant; training takes time and money. Wage pressure from competing trades (electricians, plumbers) and from geographic competition for the same workers can compress margins. Turnover in field positions can also disrupt service quality and customer relationships.
 
-Customer consolidation also matters. As restaurant chains consolidate and independent locations close, a service company faces fewer but larger customers. Larger customers negotiate harder on pricing. They also have internal maintenance departments or contracts with national facilities providers, crowding out regional specialists.
+Customer consolidation also matters. As restaurant chains consolidate and independent locations close, a service company faces fewer but larger customers. Larger customers negotiate harder on pricing. They also have internal maintenance departments or contracts with national facilities providers, [crowding out](/crowding-out/) regional specialists.
 
 Capital intensity is modest compared to manufacturing or utilities but still real. Trucks, tools, parts inventory, and training infrastructure require ongoing investment. A company wanting to expand into a new region must essentially duplicate that infrastructure.
 
@@ -70,7 +70,7 @@ Growth paths include geographic expansion (moving into adjacent regions with the
 
 ## How to research Sparta
 
-Sparta's annual 10-K filing (SEC CIK 0000318299) lays out the company's revenue by geography and customer segment, the cost structure, and management's assessment of growth opportunities and risks. Examine the trend in gross margins and operating margins to see whether pricing discipline is holding or whether cost pressures are intensifying. Look for commentary on labor costs and technician availability.
+Sparta's annual 10-K filing (SEC CIK 0000318299) lays out the company's revenue by geography and customer segment, the cost structure, and management's assessment of growth opportunities and risks. Examine the trend in gross margins and [operating margins](/operating-margin/) to see whether pricing discipline is holding or whether cost pressures are intensifying. Look for commentary on labor costs and technician availability.
 
 The company's installed base—the number of active service contracts and the average annual revenue per contract—is a key metric not always broken out explicitly but sometimes hinted at in management commentary. Growth that comes from adding customers and expanding contracts is more sustainable than growth from price increases alone.
 

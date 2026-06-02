@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Invesco S&P SmallCap Health Care ETF** (PSCH) holds roughly 90–110 small-cap U.S. health-care companies. These are the smaller operators — the medical-device specialists, diagnostics startups, biotech firms, niche pharmaceutical makers, and regional health-care service providers. They are not the megacap giants. They are growth bets, not defensive dividends.*
+*The **Invesco S&P SmallCap Health Care ETF** (PSCH) holds roughly 90–110 small-cap U.S. health-care companies. These are the smaller operators — the medical-device specialists, diagnostics startups, biotech firms, niche pharmaceutical makers, and regional health-care service providers. They are not the megacap giants. They are growth bets, not defensive [dividends](/dividend/).*
 
 <aside class="wiki-infobox">
 <div class="wiki-infobox-title">PSCH — the basics</div>
@@ -32,19 +32,19 @@ handwritten: true
 
 ## Two health-care worlds
 
-Large health-care companies are boring. A pharmaceutical giant like Merck makes hundreds of drugs. A megacap medical-device company like Medtronic makes thousands of products. A huge hospital network serves millions of patients. These firms are stable, predictable, grow slowly, often pay dividends. Their stock moves with the overall market.
+Large health-care companies are boring. A pharmaceutical giant like [Merck](/mrk-stock/) makes hundreds of drugs. A megacap medical-device company like Medtronic makes thousands of products. A huge hospital network serves millions of patients. These firms are stable, predictable, grow slowly, often pay dividends. Their stock moves with the overall market.
 
 Small health-care companies are different. They are growth plays. A small device maker invents one specific surgical tool. A biotech firm is working on one drug for one disease. A diagnostics startup builds a test for a particular condition. These companies either explode or go flat. Their stock moves on science, regulatory approvals, and whether the market adopts the innovation.
 
-That difference is crucial to understanding PSCH. It is not a defensive health-care fund. It is a growth fund that happens to be focused on health care.
+That difference is crucial to understanding PSCH. It is not a defensive health-care fund. It is a [growth fund](/growth-fund/) that happens to be focused on health care.
 
 ## Procedure volume matters
 
 Small health-care companies often live and die on how many procedures happen. A device maker sells knee-replacement instruments. Revenue depends on how many knee surgeries hospitals perform. A spine-fusion specialist depends on spine surgeries. A diagnostic-imaging company depends on how many scans physicians order.
 
-In recessions, elective procedures drop sharply. People postpone knee replacements, cataract surgery, cosmetic procedures. Hospitals cut capital spending on new equipment. A small device company suddenly sees order books empty. Revenue misses and earnings collapse. With no buffer of other products or services, the stock crashes.
+In [recessions](/recession/), elective procedures drop sharply. People postpone knee replacements, cataract surgery, cosmetic procedures. Hospitals cut capital spending on new equipment. A small device company suddenly sees order books empty. Revenue misses and earnings collapse. With no buffer of other products or services, the stock crashes.
 
-In expansions, it reverses. Hospitals schedule surgeries freely. Patients have money and good insurance. Capital for growth appears. Mergers accelerate as big health-care companies buy small innovators. PSCH climbs because earnings grow and valuations expand.
+In expansions, it reverses. Hospitals schedule surgeries freely. Patients have money and good insurance. Capital for growth appears. [Mergers](/merger/) accelerate as big health-care companies buy small innovators. PSCH climbs because earnings grow and valuations expand.
 
 ## The innovation trap
 
@@ -60,7 +60,7 @@ PSCH is more volatile than the broad market. Growth stocks swing harder than sta
 
 Over a full economic cycle, the fund can deliver outsized returns if purchased at the right time and held through recovery. But holding it through a sharp downturn requires patience and conviction. Thirty, forty, or fifty percent declines are realistic in bad years.
 
-The fund trades with good daily liquidity on NASDAQ. Costs are modest — about 0.39–0.40% per year. The real expense is volatility and timing risk. Buying at the peak of a cycle and holding through a crash is painful.
+The fund trades with good daily liquidity on [NASDAQ](/nasdaq/). Costs are modest — about 0.39–0.40% per year. The real expense is volatility and timing risk. Buying at the peak of a cycle and holding through a crash is painful.
 
 ## When PSCH makes sense
 
@@ -74,4 +74,4 @@ Look at Invesco's fact sheet to see which companies the fund actually holds. Wha
 
 Plot the fund's returns against the broader market through at least two full cycles — one expansion and one recession — to see how volatile it is and how long recovery takes. Compare PSCH against large-cap health-care funds and broad small-cap funds to understand whether the movement is health-care-sector specific or just small-cap amplification.
 
-Watch for news on major holdings. When FDA approvals come through or get denied, small-cap health-care stocks move sharply. Patent expirations create predictable declines. Acquisitions of small companies by larger ones also happen regularly. Understanding those catalysts is essential to knowing when PSCH might outperform or underperform.
+Watch for news on major holdings. When FDA approvals come through or get denied, small-cap health-care stocks move sharply. Patent expirations create predictable declines. [Acquisitions](/acquisition/) of small companies by larger ones also happen regularly. Understanding those catalysts is essential to knowing when PSCH might outperform or underperform.

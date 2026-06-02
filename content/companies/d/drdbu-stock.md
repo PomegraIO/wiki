@@ -23,15 +23,15 @@ handwritten: true
 </table>
 </aside>
 
-Roman DBDR Acquisition Corp. II Units (DRDBU) are the packaged form of the company's primary security. When you buy a unit, you are buying both a share of the SPAC itself and a warrant that gives you the right to buy additional shares later at a preset price. The unit structure was the original way most SPAC investors participated — before the market matured and investors learned to separately trade the shares and warrants as distinct securities.
+Roman DBDR [Acquisition](/acquisition/) Corp. II Units (DRDBU) are the packaged form of the company's primary security. When you buy a unit, you are buying both a share of the SPAC itself and a warrant that gives you the right to buy additional shares later at a preset price. The unit structure was the original way most SPAC investors participated — before the market matured and investors learned to separately trade the shares and warrants as distinct securities.
 
 ## The unit structure and what makes it different
 
-Most SPAC investors today buy either the share (DRDBU stock component) or the warrant (DRDBW warrant component) separately. But units remain the raw instrument through which capital flows into a SPAC at inception. When Roman DBDR Acquisition Corp. II held its initial public offering, it sold units at ten dollars each, with each unit comprising one share and typically one warrant.
+Most SPAC investors today buy either the share (DRDBU stock component) or the warrant (DRDBW warrant component) separately. But units remain the raw instrument through which [capital flows](/capital-flows/) into a SPAC at inception. When Roman DBDR Acquisition Corp. II held its [initial public offering](/initial-public-offering/), it sold units at ten dollars each, with each unit comprising one share and typically one warrant.
 
 Units are technically "unbundled" after listing — the shares and warrants trade separately. But units themselves can still be traded as a bundled package before unbundling, and some investors prefer them because buying a unit is simpler than separately negotiating share and warrant positions. Units carry the combined leverage and risk of both components.
 
-The economics of units is straightforward: you own a claim on whatever cash the SPAC raises plus the right to own a piece of whatever company the SPAC acquires. Your share of the post-merger company depends on how many shares are outstanding after the merger closes, which depends on dilution from warrants being exercised, dilutive financings, and other capital actions management might take.
+The economics of units is straightforward: you own a claim on whatever cash the SPAC raises plus the right to own a piece of whatever company the SPAC acquires. Your share of the post-merger company depends on how many shares are outstanding after the [merger](/merger/) closes, which depends on dilution from warrants being exercised, dilutive financings, and other capital actions management might take.
 
 ## Cyclicality in SPAC unit valuations
 
@@ -51,9 +51,9 @@ SPAC units appeal to different types of investors at different moments:
 
 **Institutional investors** in the SPAC's IPO phase. Large funds and wealthy individuals back SPAC sponsors they believe in, buying units (and often negotiating better terms than retail investors). They often plan to hold through the merger.
 
-**Merger arbitrage investors**. Once a deal is announced, sophisticated investors trade units based on the probability that the merger will close and at what price. They use unit pricing to establish positions in the merged company that might be cheaper than waiting for the merger to complete.
+**[Merger arbitrage](/merger-arbitrage-definition/) investors**. Once a deal is announced, sophisticated investors trade units based on the probability that the merger will close and at what price. They use unit pricing to establish positions in the merged company that might be cheaper than waiting for the merger to complete.
 
-**Retail speculation**. During bull markets, retail traders buy SPAC units hoping to time a pop in the early days of listing or betting on rumors of acquisition targets. This has created wild volatility in SPAC pricing.
+**Retail speculation**. During [bull markets](/bull-market/), retail traders buy SPAC units hoping to time a pop in the early days of listing or betting on rumors of acquisition targets. This has created wild volatility in SPAC pricing.
 
 **Accidental holders**. Some investors buy units simply because they were offered in the SPAC's IPO and do not understand that the shares and warrants will split and trade separately — they may hold units because they have not yet realized they should unbundle.
 

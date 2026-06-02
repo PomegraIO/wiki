@@ -29,7 +29,7 @@ Muyuan's entire business depends on keeping its herds healthy. African Swine Fev
 
 ## Chinese Government Policy Volatility
 
-Muyuan operates under Chinese government policies that can shift with little warning. Environmental regulations in China are tightening, and large hog farms face scrutiny over [waste management](/wm-stock/), water pollution, and odor. A regulatory tightening could force costly infrastructure upgrades or could limit expansion in certain regions. Additionally, China's central government has periodically intervened in pork markets to stabilize prices or to encourage strategic reserves during crises. Such interventions can benefit or harm producers depending on the specifics. Price controls or forced production quotas would constrain profitability. Conversely, government support during disease outbreaks provides a cushion but is not guaranteed and can be withdrawn.
+Muyuan operates under Chinese government policies that can shift with little warning. Environmental regulations in China are tightening, and large hog farms face scrutiny over waste management, water pollution, and odor. A regulatory tightening could force costly infrastructure upgrades or could limit expansion in certain regions. Additionally, China's central government has periodically intervened in pork markets to stabilize prices or to encourage strategic reserves during crises. Such interventions can benefit or harm producers depending on the specifics. Price controls or forced production quotas would constrain profitability. Conversely, government support during disease outbreaks provides a cushion but is not guaranteed and can be withdrawn.
 
 ## Consolidation and Competitive Pressure
 
@@ -45,7 +45,7 @@ Muyuan exports pork and pork products to multiple countries, including Japan, So
 
 ## Currency Risk
 
-Muyuan reports in Chinese yuan but trades via ADR in the U.S. dollar. A [depreciation](/depreciation/) of the yuan against the dollar reduces the reported U.S.-dollar value of its earnings and makes the ADR less attractive to dollar-based investors. Conversely, yuan appreciation can create reporting benefits but may make exports less competitive. The company's currency exposure is significant and not easily hedged.
+Muyuan reports in Chinese yuan but trades via ADR in the [U.S. dollar](/us-dollar/). A [depreciation](/depreciation/) of the yuan against the dollar reduces the reported U.S.-dollar value of its earnings and makes the ADR less attractive to dollar-based investors. Conversely, yuan appreciation can create reporting benefits but may make exports less competitive. The company's currency exposure is significant and not easily hedged.
 
 ## See Also
 

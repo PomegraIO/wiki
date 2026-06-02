@@ -41,7 +41,7 @@ The reason is mathematical. Percentage gains and losses compound on a shrinking 
 
 The more volatility, the worse the decay. In calm markets with steady directional moves, decay is negligible. In choppy, mean-reverting markets, it compounds. Over weeks or months of typical market volatility, even if ARKK ends higher, TARK will likely have underperformed 2X the ARKK return by a meaningful amount.
 
-This is not a flaw in TARK's construction; it is a mathematical inevitability of any leveraged daily-reset fund. Every leveraged ETF prospectus discloses this risk in bold terms.
+This is not a flaw in TARK's construction; it is a mathematical inevitability of any leveraged daily-reset fund. Every [leveraged ETF](/leveraged-etf/) prospectus discloses this risk in bold terms.
 
 ## When TARK works and when it does not
 
@@ -53,7 +53,7 @@ Fund regulators and the SEC require that leveraged ETFs carry warnings and restr
 
 ## The risks: leverage, decay, and forced rebalancing
 
-Beyond volatility decay, TARK carries the standard risks of leverage. A 20% drop in ARKK produces a 40% drop in TARK. In a crash, leveraged funds can lose their value very quickly. The fund is also sensitive to the bid-ask spread on its underlying derivatives; if those spreads widen (as they do during market stress), tracking error increases and realised losses exceed the theoretical leverage.
+Beyond volatility decay, TARK carries the standard risks of leverage. A 20% drop in ARKK produces a 40% drop in TARK. In a crash, leveraged funds can lose their value very quickly. The fund is also sensitive to the [bid-ask spread](/bid-ask-spread/) on its underlying derivatives; if those spreads widen (as they do during market stress), tracking error increases and realised losses exceed the theoretical leverage.
 
 There is also **forced rebalancing risk**. If ARKK declines sharply, TARK's daily rebalancing will force it to sell derivatives at poor prices to reset its leverage. This is the mechanics of the trap: as the fund loses value, it must rebalance at unfavourable prices, which accelerates losses further. This is not a concern for a trader holding the fund for one day; it becomes severe for someone holding through a sharp market decline.
 
@@ -67,7 +67,7 @@ TARK is not suitable for anyone building a long-term portfolio. Anyone uncomfort
 
 ## Costs and trading mechanics
 
-TARK trades on the NASDAQ like any other ETF, offering daily liquidity. The expense ratio is significantly higher than a conventional equity ETF because of the cost of maintaining derivative positions and the more frequent rebalancing that daily reset requires. Those higher costs are justified only if the leveraged upside actually gets captured — which happens only in the rare case of sustained one-directional moves without pullbacks.
+TARK trades on the [NASDAQ](/nasdaq/) like any other ETF, offering daily liquidity. The [expense ratio](/expense-ratio/) is significantly higher than a conventional [equity ETF](/equity-etf/) because of the cost of maintaining derivative positions and the more frequent rebalancing that daily reset requires. Those higher costs are justified only if the leveraged upside actually gets captured — which happens only in the rare case of sustained one-directional moves without pullbacks.
 
 Transaction costs matter. The bid-ask spread on TARK is typically wider than on ARKK itself, so entering and exiting the position costs more. For a trader holding the fund for a day or two, this is a rounding error. For someone holding for weeks, it compounds the decay problem.
 

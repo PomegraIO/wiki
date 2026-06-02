@@ -21,7 +21,7 @@ Most specialty pharma companies face a predictable event: the moment when key pr
 
 ## Limited Pipeline and R&D Execution Risk
 
-Specialty pharma firms must commit to expensive R&D programs years in advance, betting that early programs will progress to clinical trials and eventually approval. Innoviva's pipeline is narrower than larger integrated pharma companies, meaning each program represents a larger share of future value. If even one Phase II or Phase III program fails, the company faces a revenue shortfall. Unlike Merck or [Pfizer](/pfe-stock/), which may have dozens of programs offsetting individual failures, Innoviva cannot absorb a major trial failure without consequences. The company's R&D execution—whether it can recruit and retain world-class respiratory scientists, whether its trial designs are sound, whether it can manufacture products to scale—is make-or-break.
+Specialty pharma firms must commit to expensive R&D programs years in advance, betting that early programs will progress to clinical trials and eventually approval. Innoviva's pipeline is narrower than larger integrated pharma companies, meaning each program represents a larger share of future value. If even one Phase II or Phase III program fails, the company faces a revenue shortfall. Unlike [Merck](/mrk-stock/) or [Pfizer](/pfe-stock/), which may have dozens of programs offsetting individual failures, Innoviva cannot absorb a major trial failure without consequences. The company's R&D execution—whether it can recruit and retain world-class respiratory scientists, whether its trial designs are sound, whether it can manufacture products to scale—is make-or-break.
 
 ## Respiratory Disease Market Specificity
 

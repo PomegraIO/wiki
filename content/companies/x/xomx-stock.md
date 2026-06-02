@@ -14,21 +14,21 @@ handwritten: true
 
 ## The mechanics: daily reset and compounding
 
-XOMX holds ExxonMobil stock and borrows money to amplify its exposure to 2x the underlying stock's movements. But leverage works on a daily reset: every day at market close, Direxion calculates the fund's actual returns for the day, and if XOMX gained 2 percent (a 1 percent move in XOM times the 2x multiplier), the fund resets its leverage ratio back to exactly 2x for the next trading day. This reset happens automatically and invisibly to the investor, but it is crucial to understanding what the fund actually does over longer periods.
+XOMX holds ExxonMobil stock and borrows money to amplify its exposure to 2x the underlying stock's movements. But leverage works on a daily reset: every day at market close, Direxion calculates the fund's actual returns for the day, and if XOMX gained 2 percent (a 1 percent move in XOM times the 2x multiplier), the fund resets its [leverage ratio](/leverage-ratio-forex/) back to exactly 2x for the next trading day. This reset happens automatically and invisibly to the investor, but it is crucial to understanding what the fund actually does over longer periods.
 
 The reason reset matters is compounding. Suppose XOM falls 10 percent on Monday, then rises 10 percent on Tuesday. A person who bought XOM directly would be nearly flat, having experienced -10% then +10%, which compounds to -1 percent due to the smaller base after the first loss. XOMX, because it resets each day, will compound differently: down approximately 20 percent on Monday (2x a 10 percent fall), then up approximately 20 percent on Tuesday (2x a 10 percent rise). The two 20 percent swings compound to roughly -4 percent, a worse outcome than the 1 percent loss in XOM itself. This is volatility decay: the cost of resetting leverage daily in choppy, sideways, or mean-reverting markets.
 
 ## Who uses this, and when
 
-XOMX is built for day traders and swing traders betting on short-term moves in oil or energy stocks. An investor might buy 10 days of XOMX to amplify a tactical view that XOM will pop on earnings, or that crude oil will spike on geopolitical news. The 2x leverage captures outsized gains if the bet is right and the move is swift. The fund is liquid, tradable during normal market hours with tight bid-ask spreads on major brokerages.
+XOMX is built for day traders and swing traders betting on short-term moves in oil or energy stocks. An investor might buy 10 days of XOMX to amplify a tactical view that XOM will pop on earnings, or that [crude oil](/crude-oil/) will spike on geopolitical news. The 2x leverage captures outsized gains if the bet is right and the move is swift. The fund is liquid, tradable during normal market hours with tight [bid-ask spreads](/bid-ask-spread/) on major brokerages.
 
 This is not a product for anyone with a multi-month or longer horizon. It is not suitable for a 401(k) or an IRA that is meant to compound over decades. It is not meant to replicate long-term energy sector performance. The prospectus is unambiguous: this fund is designed for traders who actively manage positions, understand leverage, and accept the compounding drag that comes with daily resets.
 
 ## Costs and the math of leverage
 
-Direxion charges an expense ratio for managing the fund, holding the stock, borrowing, and executing the daily reset. That fee — quoted in the fund's documentation — is higher than a traditional ETF because leverage, daily rebalancing, and the borrowing costs that underpin it are not free. For a trader holding XOMX for a day or a few days, that ratio is trivial relative to the gains or losses from the leverage itself. For someone holding weeks, it becomes meaningful. For someone holding months, it is a silent drain.
+Direxion charges an [expense ratio](/expense-ratio/) for managing the fund, holding the stock, borrowing, and executing the daily reset. That fee — quoted in the fund's documentation — is higher than a traditional ETF because leverage, daily rebalancing, and the borrowing costs that underpin it are not free. For a trader holding XOMX for a day or a few days, that ratio is trivial relative to the gains or losses from the leverage itself. For someone holding weeks, it becomes meaningful. For someone holding months, it is a silent drain.
 
-The cost of leverage also includes the interest paid on the borrowed money. When interest rates are high, borrowing is expensive, and that cost eats into returns. When rates are low, leverage is cheaper. Neither cost is predictable, and neither is avoidable if you own a leveraged ETF — they are built into how the product works.
+The cost of leverage also includes the interest paid on the borrowed money. When [interest rates](/interest-rate/) are high, borrowing is expensive, and that cost eats into returns. When rates are low, leverage is cheaper. Neither cost is predictable, and neither is avoidable if you own a [leveraged ETF](/leveraged-etf/) — they are built into how the product works.
 
 ## Volatility decay — the silent erosion
 

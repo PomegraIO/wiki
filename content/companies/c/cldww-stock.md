@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Calidi Biotherapeutics is a clinical-stage biopharmaceutical company pursuing cell-based and regenerative medicine therapies for serious human diseases. The company emerged from research in cardiac repair and tissue engineering, and is advancing several therapeutic candidates through preclinical and clinical development, betting on the therapeutic potential of cellular approaches to conditions where conventional drugs have proven limited.
+[Calidi Biotherapeutics](/cldi-stock/) is a clinical-stage biopharmaceutical company pursuing cell-based and regenerative medicine therapies for serious human diseases. The company emerged from research in cardiac repair and tissue engineering, and is advancing several therapeutic candidates through preclinical and clinical development, betting on the therapeutic potential of cellular approaches to conditions where conventional drugs have proven limited.
 
 <aside class="wiki-infobox">
 <table>
@@ -46,7 +46,7 @@ The commercial opportunity for a cell therapy targeting heart failure or cardiac
 
 Clinical development in biotech is expensive and risky. Calidi must fund ongoing clinical trials, manufacturing process development, regulatory interactions with agencies like the FDA, and general operations. As a small public company on the OTC markets, the company has limited access to capital compared to larger pharmaceutical firms or well-capitalized venture-backed startups. Funding comes primarily through equity offerings to retail and institutional investors, though the illiquid OTC market limits the pool of potential buyers.
 
-The path forward depends on clinical data. Positive trial results that show the therapy is safe and effective would be transformative — such data could lead to regulatory approval, commercial launch, and partnerships with larger pharma companies seeking to add the therapy to their portfolios. Disappointing trial results, by contrast, can sharply reduce enterprise value. Biotech investors accept this binary outcome as inherent to the sector.
+The path forward depends on clinical data. Positive trial results that show the therapy is safe and effective would be transformative — such data could lead to regulatory approval, commercial launch, and partnerships with larger pharma companies seeking to add the therapy to their portfolios. Disappointing trial results, by contrast, can sharply reduce [enterprise value](/enterprise-value/). Biotech investors accept this binary outcome as inherent to the sector.
 
 ## Research and regulatory considerations
 

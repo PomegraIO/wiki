@@ -14,11 +14,11 @@ Bitwise Hyperliquid ETF (BHYP) is an exchange-traded fund built to track exposur
 
 > "The fund exists because cryptocurrency assets cannot fit neatly into existing financial plumbing."
 
-The fund tracks a mix of tokens within the Hyperliquid ecosystem, including its native token and other assets built on or around that blockchain. Because the fund uses the ETF structure, it trades on a traditional stock exchange during market hours with transparent pricing, daily liquidity, and the custody arrangements that professional investors require. It allows someone to bet on Hyperliquid's ecosystem without opening a crypto wallet.
+The fund tracks a mix of tokens within the Hyperliquid ecosystem, including its native token and other assets built on or around that blockchain. Because the fund uses the ETF structure, it trades on a traditional [stock exchange](/stock-exchange/) during market hours with transparent pricing, daily liquidity, and the custody arrangements that professional investors require. It allows someone to bet on Hyperliquid's ecosystem without opening a crypto wallet.
 
 ## What Hyperliquid is and why it matters
 
-Hyperliquid is a blockchain network that specializes in decentralized derivatives trading — a place where participants can trade perpetual contracts, options, and spot assets without a centralized intermediary taking counterparty risk. The network was designed with latency and throughput in mind, aiming to deliver speeds and order capacity that match traditional derivatives exchanges like the Chicago Mercantile Exchange. Its architecture is built for high-frequency trading and large notional volumes.
+Hyperliquid is a blockchain network that specializes in decentralized derivatives trading — a place where participants can trade perpetual contracts, options, and spot assets without a centralized intermediary taking [counterparty risk](/counterparty-risk/). The network was designed with latency and throughput in mind, aiming to deliver speeds and order capacity that match traditional [derivatives exchanges](/derivatives-exchange-crypto/) like the Chicago Mercantile Exchange. Its architecture is built for [high-frequency trading](/high-frequency-trading/) and large notional volumes.
 
 This positions Hyperliquid as infrastructure for the larger "decentralized finance" movement — the attempt to move financial services (lending, swaps, derivatives, custody) onto blockchain systems where no single gatekeeper holds the keys. Hyperliquid's specific pitch is that it can handle the mechanical demands of a derivatives engine better than earlier blockchains.
 
@@ -26,7 +26,7 @@ This positions Hyperliquid as infrastructure for the larger "decentralized finan
 
 The fund holds a portfolio of tokens — primarily the Hyperliquid native token and secondary tokens within its ecosystem — and captures value from two sources. First, the underlying tokens may appreciate if Hyperliquid gains adoption and the ecosystem grows. Second, many of the tokens in the basket can be staked or delegated to validators, generating yield that the fund passes back to shareholders. That yield is not guaranteed and depends entirely on whether Hyperliquid maintains active validators and whether transaction activity on the network justifies their participation.
 
-Like all crypto-focused ETFs, BHYP also bears the management fee charged by Bitwise — typically in the range of 0.2% to 0.9% annually, which is higher than a broad stock market ETF but lower than many actively managed funds. The precise fee structure depends on the fund's size and the cost environment at the time it was established.
+Like all crypto-focused ETFs, BHYP also bears the [management fee](/management-fee/) charged by Bitwise — typically in the range of 0.2% to 0.9% annually, which is higher than a broad [stock market](/stock-market/) ETF but lower than many [actively managed funds](/actively-managed-fund/). The precise fee structure depends on the fund's size and the cost environment at the time it was established.
 
 ## The ecosystem moat (or lack thereof)
 
@@ -38,7 +38,7 @@ The crypto derivatives space is crowded. Centralized exchanges like Binance, Kra
 
 Holding BHYP means holding cryptocurrency exposure, which brings three categories of risk. First, regulatory risk: if governments move to ban or heavily restrict cryptocurrency trading, derivatives, or the underlying tokens themselves, the fund's holdings can become worthless or illiquid overnight. The regulatory landscape for crypto remains unsettled in most jurisdictions. Second, technical risk: if Hyperliquid suffers a protocol bug, a consensus failure, or a security exploit, the blockchain can pause or fork, leaving token holders with unexpected outcomes. Third, adoption risk: if traders migrate to a faster or cheaper platform, Hyperliquid's token value can collapse regardless of the network's technical merit.
 
-The fund is also exposed to crypto market cycles. Bitcoin and Ethereum, the two largest cryptocurrencies, can swing 20% to 50% in a matter of weeks. Smaller ecosystems like Hyperliquid swing more sharply. That volatility is amplified because many investors use crypto as a speculative vehicle rather than a long-term store of value — the emotional temperature of the market matters as much as the underlying business.
+The fund is also exposed to crypto market cycles. [Bitcoin](/bitcoin/) and [Ethereum](/ethereum/), the two largest cryptocurrencies, can swing 20% to 50% in a matter of weeks. Smaller ecosystems like Hyperliquid swing more sharply. That volatility is amplified because many investors use crypto as a speculative vehicle rather than a long-term store of value — the emotional temperature of the market matters as much as the underlying business.
 
 ## How to research Hyperliquid ETF as an investment
 

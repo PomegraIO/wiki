@@ -51,7 +51,7 @@ Because of these risks, Fluor's margins on fixed-price contracts are often thinn
 
 Historically, oil and gas accounted for 40-60% of Fluor's revenue. The company built its reputation on megaprojects—Saudi Arabian refineries, North Sea platforms, overseas LNG facilities. But energy's future is contested, and Fluor's clients face investor pressure to shift away from fossil fuels. At the same time, semiconductor shortages and the need for new fabs, data centre buildouts, and infrastructure investment (electric vehicles, renewables) are creating enormous demand for engineering services in other sectors.
 
-Fluor is pivoting. The company has bid [on semiconductor](/on-stock/) fabs, advanced manufacturing facilities, data centres, and green hydrogen projects. These projects are as technically complex as energy projects and command similar fees, but they serve growth industries rather than legacy ones. The pivot is multiyear; Fluor cannot flip its entire backlog overnight because projects are booked years in advance. But it illustrates how the company is trying to build a more diverse, defensible business model.
+Fluor is pivoting. The company has bid on semiconductor fabs, advanced manufacturing facilities, data centres, and green hydrogen projects. These projects are as technically complex as energy projects and command similar fees, but they serve growth industries rather than legacy ones. The pivot is multiyear; Fluor cannot flip its entire backlog overnight because projects are booked years in advance. But it illustrates how the company is trying to build a more diverse, defensible business model.
 
 ## Research and risks
 

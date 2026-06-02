@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-A Treasury bond is a loan to the U.S. government. You give money now. The government pays you interest for years. Then it pays back the full amount when the bond matures. The iShares iBonds Dec 2044 Term Treasury ETF (IBGA) holds Treasury bonds that all mature in December 2044. That is about eighteen years away. When you buy this fund, you own a piece of many bonds that all mature on the same day. You know when your money comes back. You know the government will pay it. That certainty is the whole point.
+A [Treasury bond](/treasury-bond/) is a loan to the U.S. government. You give money now. The government pays you interest for years. Then it pays back the full amount when the [bond](/bond/) matures. The iShares iBonds Dec 2044 Term Treasury ETF (IBGA) holds Treasury bonds that all mature in December 2044. That is about eighteen years away. When you buy this fund, you own a piece of many bonds that all mature on the same day. You know when your money comes back. You know the government will pay it. That certainty is the whole point.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,13 +27,13 @@ A Treasury bond is a loan to the U.S. government. You give money now. The govern
 
 ## What you actually own
 
-IBGA holds U.S. Treasury bonds. These are IOU notes from the federal government, backed by the government's power to tax and borrow. Because they all mature in 2044, every investor in the fund gets their principal back on the same date. The bonds pay interest roughly twice a year. That interest becomes a dividend you can reinvest or take as cash.
+IBGA holds U.S. Treasury bonds. These are IOU notes from the federal government, backed by the government's power to tax and borrow. Because they all mature in 2044, every investor in the fund gets their principal back on the same date. The bonds pay interest roughly twice a year. That interest becomes a [dividend](/dividend/) you can reinvest or take as cash.
 
 Here is what makes IBGA different from other bond funds: the maturity date is fixed. Many bond funds hold a mix of bonds that mature over a long stretch of time. IBGA is narrower. All the bonds mature together. That means no guessing about when your capital comes back. No "average maturity" that drifts. Just one date: December 2044.
 
 ## The catch: interest rates still matter
 
-Here is the trap that catches people. Even though every bond in IBGA pays back in full in 2044, the price of the fund itself moves every single day. When interest rates rise, the bonds inside become less attractive — new bonds from the government now pay more. So old bonds fall in price. When rates fall, old bonds become more valuable. If you need to sell IBGA before 2044, you may sell at a loss if rates have risen.
+Here is the trap that catches people. Even though every bond in IBGA pays back in full in 2044, the price of the fund itself moves every single day. When [interest rates](/interest-rate/) rise, the bonds inside become less attractive — new bonds from the government now pay more. So old bonds fall in price. When rates fall, old bonds become more valuable. If you need to sell IBGA before 2044, you may sell at a loss if rates have risen.
 
 This is the fund's only real risk. Hold it until 2044 and interest rates do not matter. You get your principal back plus all the interest you collected. Sell early and a big interest-rate move can hurt.
 
@@ -49,7 +49,7 @@ It is also useful if you want to ladder your bond holdings. Own one fund maturin
 
 ## What can go wrong
 
-Interest rates are the main risk. A sharp rate rise before 2044 creates paper losses if you sell. Inflation is a subtler risk: if inflation runs high, the interest you earn gets eaten away by rising prices. Holding to maturity protects you from rate moves but not from inflation eating your purchasing power.
+Interest rates are the main risk. A sharp rate rise before 2044 creates paper losses if you sell. [Inflation](/inflation/) is a subtler risk: if inflation runs high, the interest you earn gets eaten away by rising prices. Holding to maturity protects you from rate moves but not from inflation eating your purchasing power.
 
 There is also the remote political risk: a debt-ceiling crisis. The government has come close to default in the past. A crisis could cause a temporary spike in yields and a price drop, though the bonds would eventually be paid. This has never happened.
 

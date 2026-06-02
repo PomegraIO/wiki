@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*GLDY is a simple idea. You own gold. You also sell put options on that gold every week. You collect the money from selling those options as income. That is what GLDY does.*
+*GLDY is a simple idea. You own gold. You also sell [put options](/put-option/) on that gold every week. You collect the money from selling those options as income. That is what GLDY does.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,13 +27,13 @@ handwritten: true
 
 ## What it owns and how it works
 
-GLDY owns the SPDR Gold Shares fund. GLD is simply physical gold held in vaults. So GLDY owns gold. But GLDY does something extra: once a week, it sells put options on GLD. This is where the income comes from.
+GLDY owns the [SPDR Gold](/gld-stock/) Shares fund. GLD is simply physical gold held in vaults. So GLDY owns gold. But GLDY does something extra: once a week, it sells put options on GLD. This is where the income comes from.
 
 A put option is a contract. It says: "If gold falls below this price, you can force me to buy it from you." When GLDY sells a put, someone pays money for that contract. GLDY keeps that money. The person who bought the put hopes gold falls. GLDY hopes gold stays where it is or rises. At the end of the week, the contract expires. GLDY sells a new put for the next week. And keeps doing this every week, month after month.
 
 ## Why sell puts on gold
 
-Gold does not pay interest or dividends. If you own gold, your only return comes if the price goes up. Most of the time, gold just sits there. GLDY's idea is to squeeze extra cash out of that sitting-around time. Every week, GLDY collects premium money from selling puts. Those premiums add up. Monthly, investors in GLDY get a check or reinvested payment from all those premiums collected.
+Gold does not pay interest or [dividends](/dividend/). If you own gold, your only return comes if the price goes up. Most of the time, gold just sits there. GLDY's idea is to squeeze extra cash out of that sitting-around time. Every week, GLDY collects premium money from selling puts. Those premiums add up. Monthly, investors in GLDY get a check or reinvested payment from all those premiums collected.
 
 This works as long as gold does not fall sharply. If gold tumbles, GLDY might have to buy gold at prices above the market price. That is bad. But as long as gold stays calm, the weekly premium payments keep coming.
 
@@ -55,6 +55,6 @@ GLDY is not good for someone who thinks gold is about to soar 50%. In that case,
 
 Watch gold prices first. If gold is rising, GLDY feels like a normal gold ETF plus income. If gold is falling, GLDY might be forced to buy more. Check whether the fund is collecting enough premium each week to make the strategy worthwhile. If premiums are thin and gold is still falling, GLDY is getting the worst of both worlds.
 
-Check the fund's prospectus to see the strike prices — at what gold prices does GLDY get forced to buy. Look at the distribution amount. Is it really that attractive when you compare it to the risk of owning more gold than you bargained for? Compare GLDY's total return over a year to a simple gold ETF. Did the options strategy add value or subtract it after costs?
+Check the fund's prospectus to see the [strike prices](/strike-price/) — at what gold prices does GLDY get forced to buy. Look at the distribution amount. Is it really that attractive when you compare it to the risk of owning more gold than you bargained for? Compare GLDY's total return over a year to a simple gold ETF. Did the options strategy add value or subtract it after costs?
 
 The fund was launched in April 2025. Because it is new, there is no long history to review. Watch the first year of distributions carefully. See whether the income is real and reliable or whether it vanishes if volatility changes.

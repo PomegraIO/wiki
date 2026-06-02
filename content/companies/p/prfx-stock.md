@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-PRF Technologies operates a deliberate duality: a pharmaceutical division reformulating established therapies using proprietary drug-delivery systems, and an energy technology platform applying artificial intelligence to solar asset management and revenue forecasting. The company's ordinary shares trade on Nasdaq under the symbol PRFX. The pairing is unconventional — pain relief and solar analytics share little surface in common — but both rest on the same premise: that precision engineering of existing tools creates value where broad approaches have left money on the table.
+PRF Technologies operates a deliberate duality: a pharmaceutical division reformulating established therapies using proprietary drug-delivery systems, and an energy technology platform applying artificial intelligence to solar asset management and revenue forecasting. The company's ordinary shares trade on [Nasdaq](/nasdaq/) under the symbol PRFX. The pairing is unconventional — pain relief and solar analytics share little surface in common — but both rest on the same premise: that precision engineering of existing tools creates value where broad approaches have left money on the table.
 
 > "Two high-impact sectors applied precision technology applied to high-impact sectors where broad approaches have left gaps."
 

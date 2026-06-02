@@ -33,11 +33,11 @@ The supplement sector in the United States is vast and fragmented. Sleep aids in
 
 ## The distribution moat and its constraints
 
-REST EZ's model is to secure retail placement through wholesalers and chain retailers. Getting Rest EZ into Walgreens or a regional supermarket chain requires demonstrated sell-through, competitive margins for the retailer, and sometimes slotting fees. Once placed, shelf presence is a genuine advantage; consumers buying sleep aids are often looking for familiar names or visible options at point-of-purchase. The company also sells direct-to-consumer through its website and direct-response advertising, which bypasses retail margins but requires customer acquisition investment.
+REST EZ's model is to secure retail placement through wholesalers and chain retailers. Getting Rest EZ into Walgreens or a regional supermarket chain requires demonstrated sell-through, competitive margins for the retailer, and sometimes slotting fees. Once placed, shelf presence is a genuine advantage; consumers buying sleep aids are often looking for familiar names or visible options at point-of-purchase. The company also sells direct-to-consumer through its website and direct-response advertising, which bypasses retail margins but requires customer [acquisition](/acquisition/) investment.
 
 The moat here is distribution and habit, not formulation. The ingredients in Rest EZ are available to any competitor; there is nothing proprietary about the recipe. The only sustainable advantage is if the brand itself becomes recognisable, or if the company builds enough retail placement that stocking becomes valuable to retailers. Building that takes years and marketing spend. For a small OTC supplement company, scale is a real constraint.
 
-REST EZ's financial position reflects the realities of the segment. The company is small — market cap in the tens of millions — with limited working capital for national advertising or retail expansion. Most revenue likely comes from direct-online sales and small regional retailers. National retail chains are highly competitive and demand strong sell-through data and volume commitments. Competing against entrenched brands in a nearly commoditised space puts downward pressure on margins.
+REST EZ's financial position reflects the realities of the segment. The company is small — [market cap](/market-capitalization/) in the tens of millions — with limited working capital for national advertising or retail expansion. Most revenue likely comes from direct-online sales and small regional retailers. National retail chains are highly competitive and demand strong sell-through data and volume commitments. Competing against entrenched brands in a nearly commoditised space puts downward pressure on margins.
 
 ## Risks and the path forward
 
@@ -45,7 +45,7 @@ The supplement industry faces regulatory headwind. The FDA oversees supplements 
 
 Consumer preferences in sleep aids are shifting. Melatonin gummies and gummy supplements in general have captured significant market share from capsules and tablets because they're easier to consume and taste better. Prescription sleep aids remain available to those with diagnosed insomnia. Cognitive behavioural therapy for insomnia is increasingly covered by insurers and recommended by doctors, reducing demand for OTC options. The broader sleep-health market is active, but the OTC supplement corner is not growing; it's consolidating around brands with distribution muscle.
 
-REST EZ's path depends on whether it can grow retail placement faster than the cost of goods and customer acquisition will permit. A merger with a larger supplement company that has national distribution infrastructure would unlock scale. Organic growth from a standing start requires either breakthrough marketing or a decade-long grind to build retail presence in regional chains. For a company of REST EZ's size, both are difficult.
+REST EZ's path depends on whether it can grow retail placement faster than the cost of goods and customer acquisition will permit. A [merger](/merger/) with a larger supplement company that has national distribution infrastructure would unlock scale. Organic growth from a standing start requires either breakthrough marketing or a decade-long grind to build retail presence in regional chains. For a company of REST EZ's size, both are difficult.
 
 ## How to research REST EZ
 

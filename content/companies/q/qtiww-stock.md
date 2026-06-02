@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-QT Imaging Holdings makes machines that take pictures inside the human body using sound waves. The company was founded in 2012 and went public in March 2024 after a merger with a SPAC (a special-purpose acquisition company). The ticker is QTI on Nasdaq, and QTIWW represents warrants trading over-the-counter. The company is based in Novato, California.
+[QT Imaging](/qti-stock/) Holdings makes machines that take pictures inside the human body using sound waves. The company was founded in 2012 and went public in March 2024 after a [merger](/merger/) with a SPAC (a [special-purpose acquisition company](/special-purpose-acquisition-company/)). The ticker is QTI on [Nasdaq](/nasdaq/), and QTIWW represents warrants trading over-the-counter. The company is based in Novato, California.
 
 <aside class="wiki-infobox">
 <table>

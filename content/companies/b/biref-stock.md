@@ -57,7 +57,7 @@ Federal and provincial climate targets (net-zero by 2050) create long-term uncer
 
 ## US market access and trade risk
 
-Birchcliff's US ADR structure (BIREF) indicates the company markets its shares to US investors. Its oil and gas are sold to US and North American buyers. Tariffs, trade policy, or political friction between Canada and the US could affect Birchcliff's ability to export and realize prices. The USMCA (successor to NAFTA) governs trade, but trade relationships can shift. A shift to protectionist [US energy](/useg-stock/) policy could isolate Canadian producers.
+Birchcliff's US ADR structure (BIREF) indicates the company markets its shares to US investors. Its oil and gas are sold to US and North American buyers. Tariffs, trade policy, or political friction between Canada and the US could affect Birchcliff's ability to export and realize prices. The USMCA (successor to NAFTA) governs trade, but trade relationships can shift. A shift to protectionist US energy policy could isolate Canadian producers.
 
 ## Climate and operational geography
 

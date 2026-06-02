@@ -29,7 +29,7 @@ The **Procure Space ETF** — ticker UFO — buys shares in companies building o
 
 The space industry is no longer just government agencies. Today, private companies build and launch rockets, operate satellites, provide internet from orbit, manufacture parts, and sell services. UFO holds companies across all of these.
 
-A launch company like SpaceX or Rocket Lab gets people and equipment into orbit. A satellite operator like Intelsat or Viasat owns satellites and sells connectivity. A manufacturer like Axiom Space builds the structures. A communications firm like Iridium sells satellite phones and data services. Aerospace contractors supply engines, avionics, and materials. All of these are part of the space economy, and UFO owns shares in the public ones.
+A launch company like SpaceX or [Rocket Lab](/rklb-stock/) gets people and equipment into orbit. A satellite operator like Intelsat or Viasat owns satellites and sells connectivity. A manufacturer like Axiom Space builds the structures. A communications firm like Iridium sells satellite phones and data services. Aerospace contractors supply engines, avionics, and materials. All of these are part of the space economy, and UFO owns shares in the public ones.
 
 ## The size of the opportunity
 
@@ -39,19 +39,19 @@ That is the bet. UFO is not a proven, stable business like oil refining or banki
 
 ## Who actually profits
 
-Not all space companies make money yet. Some are still in heavy development, burning cash to build rockets or satellites they hope to sell or operate profitably later. Others are barely breakeven. A few — Lockheed Martin, Boeing's space division — are large, profitable contractors. UFO's holdings are a mix. The biggest weightings usually go to companies already profitable and growing, but there is real exposure to speculative, loss-making ventures too.
+Not all space companies make money yet. Some are still in heavy development, burning cash to build rockets or satellites they hope to sell or operate profitably later. Others are barely breakeven. A few — [Lockheed Martin](/lmt-stock/), Boeing's space division — are large, profitable contractors. UFO's holdings are a mix. The biggest weightings usually go to companies already profitable and growing, but there is real exposure to speculative, loss-making ventures too.
 
 This is important: UFO's returns depend on whether space companies actually become profitable, not just whether politicians or investors stay excited about space. Sentiment can change fast.
 
 ## Risks and volatility
 
-UFO is volatile. Space stocks can swing 10, 20, or 30 per cent in a week on a single rocket launch or contract win or failure. If a SpaceX competitor crashes a launcher, the whole sector can sell off. If a satellite fails, the operator's stock can crater. There is also geopolitical risk: US-China tensions affect satellite imagery rules and military contracts. Funding risk matters too: some space companies rely on venture capital, which dries up when interest rates rise.
+UFO is volatile. Space stocks can swing 10, 20, or 30 per cent in a week on a single rocket launch or contract win or failure. If a SpaceX competitor crashes a launcher, the whole sector can sell off. If a satellite fails, the operator's stock can crater. There is also geopolitical risk: US-China tensions affect satellite imagery rules and military contracts. Funding risk matters too: some space companies rely on venture capital, which dries up when [interest rates](/interest-rate/) rise.
 
 UFO is also concentrated. It holds maybe 40 to 50 stocks, which sounds diversified until you realize the space industry itself is tiny. Two or three big names might account for 20 or 30 per cent of the fund's value. A collapse in one of those pushes down the whole fund.
 
 ## Costs and how to think about it
 
-The expense ratio runs from about 0.75 to 1.0 per cent per year, which is moderate for a thematic fund but higher than a broad stock market ETF. That cost compounds over time.
+The [expense ratio](/expense-ratio/) runs from about 0.75 to 1.0 per cent per year, which is moderate for a thematic fund but higher than a broad [stock market](/stock-market/) ETF. That cost compounds over time.
 
 UFO trades with reasonable volume and narrow spreads, so buying and selling is straightforward.
 
@@ -59,7 +59,7 @@ UFO trades with reasonable volume and narrow spreads, so buying and selling is s
 
 UFO is best suited to investors with a 5-to-10-year view on the space industry. Someone investing for retirement in five years probably should not hold it; the volatility and the execution risk are too high. Someone convinced that space is going to be huge and willing to hold through the bumps can use UFO as a simple, low-friction way to own a basket of space stocks without picking individual ones.
 
-It is not a core holding like a broad stock index fund. It is a directional bet on a sector. That has risk and reward in equal measure.
+It is not a core holding like a broad stock [index fund](/index-fund/). It is a directional bet on a sector. That has risk and reward in equal measure.
 
 ## How to keep up
 

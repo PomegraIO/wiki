@@ -23,13 +23,13 @@ Safeguard Scientifics is a holding company that acquires stakes in, operates, an
 </table>
 </aside>
 
-**What makes Safeguard different from a typical venture capital fund?**
+**What makes Safeguard different from a typical [venture capital fund](/venture-capital-fund/)?**
 
 Safeguard is sometimes described as venture capital, but it operates more like an operating holding company. A traditional venture fund raises money from investors, buys stakes in many companies, and exits those stakes when the companies grow or go public, returning capital to investors. Safeguard does buy into companies, but it is more permanent: it is a publicly listed company with its own shareholders, and it holds its companies for years, often taking controlling stakes and actively managing them. Think of it as a permanent home for carefully chosen companies rather than as a temporary way station toward an exit.
 
 **How does Safeguard make money?**
 
-Safeguard's returns come from the increase in value of its portfolio companies. If it buys a 30% stake in a healthcare company worth $100 million and, through operational improvements and growth, that company becomes worth $500 million, Safeguard's stake is now worth $150 million. Over time, successful portfolio companies generate profits that cascade up to the holding company. Some portfolio companies are eventually sold or taken public, which crystallizes gains. Others, if very profitable, simply contribute cash flow. In theory, a company might also pay a dividend to Safeguard, and Safeguard might pay a dividend to its shareholders, though the cycle is long and not all portfolio companies succeed.
+Safeguard's returns come from the increase in value of its portfolio companies. If it buys a 30% stake in a healthcare company worth $100 million and, through operational improvements and growth, that company becomes worth $500 million, Safeguard's stake is now worth $150 million. Over time, successful portfolio companies generate profits that cascade up to the holding company. Some portfolio companies are eventually sold or taken public, which crystallizes gains. Others, if very profitable, simply contribute cash flow. In theory, a company might also pay a [dividend](/dividend/) to Safeguard, and Safeguard might pay a dividend to its shareholders, though the cycle is long and not all portfolio companies succeed.
 
 **Why does Safeguard take an operating approach rather than remaining passive?**
 
@@ -41,7 +41,7 @@ Safeguard depends upstream on identifying promising early-stage companies to buy
 
 **What are the risks specific to this model?**
 
-Concentration risk is substantial. Unlike a diversified venture fund that owns small stakes in many companies, Safeguard owns meaningful stakes in a smaller number of companies. If one of those companies fails, it is a larger blow to Safeguard's portfolio value. Illiquidity is another: stakes in private companies are hard to sell if Safeguard needs cash. And execution risk cuts both ways — Safeguard's operating involvement can accelerate success or amplify failure, depending on the quality of decisions made.
+[Concentration risk](/concentration-risk/) is substantial. Unlike a diversified venture fund that owns small stakes in many companies, Safeguard owns meaningful stakes in a smaller number of companies. If one of those companies fails, it is a larger blow to Safeguard's portfolio value. Illiquidity is another: stakes in private companies are hard to sell if Safeguard needs cash. And execution risk cuts both ways — Safeguard's operating involvement can accelerate success or amplify failure, depending on the quality of decisions made.
 
 The companies themselves face the usual hazards of early-stage businesses: regulatory delays (especially common in healthcare), technical setbacks, market rejection, key personnel leaving, or competitive threats. Healthcare and life sciences in particular face long development timelines and binary outcomes — a drug candidate either gets approved or it does not, and approval can take a decade and cost billions.
 
@@ -49,7 +49,7 @@ Safeguard also faces capital-allocation risk. The company has to decide when to 
 
 **How would someone research Safeguard as an investment?**
 
-Start with the 10-K filing (SEC CIK 0000086115) and look for the detailed schedule of portfolio companies — what is Safeguard's stake in each, what are they doing, and what did Safeguard pay for each stake. Track the change in the fair value of those stakes over time: are valuations rising or falling? The notes to the financial statements will explain Safeguard's valuation methodology for private companies (it typically uses recent rounds of funding, market comps, or discounted cash flow). Look also at cash flow: how much cash is Safeguard burning to support the portfolio, and how much is it generating back?
+Start with the 10-K filing (SEC CIK 0000086115) and look for the detailed schedule of portfolio companies — what is Safeguard's stake in each, what are they doing, and what did Safeguard pay for each stake. Track the change in the [fair value](/fair-value/) of those stakes over time: are valuations rising or falling? The notes to the financial statements will explain Safeguard's valuation methodology for private companies (it typically uses recent rounds of funding, market comps, or discounted cash flow). Look also at cash flow: how much cash is Safeguard burning to support the portfolio, and how much is it generating back?
 
 Earnings calls often touch on specific portfolio company progress — a new product launch, a partnership, a regulatory milestone. These provide color on how development is tracking. Watch also for any exits — when Safeguard sells or takes a portfolio company public, that crystallizes a return (or a loss) and shows whether the original thesis played out. The composition of the portfolio matters too: is Safeguard concentrated in a few mega-bets, or is it building a diversified suite of companies across subsectors?
 

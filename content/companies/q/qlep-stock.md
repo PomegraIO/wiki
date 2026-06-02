@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-Quantum Leap Acquisition Corp emerged into the investment market in 2026 as a newly formed special purpose acquisition company focused on deep technology. The company incorporated in Delaware in 2025 with headquarters in Menlo Park, California — a location chosen to signal proximity to Silicon Valley technology clusters and venture capital networks.
+Quantum Leap [Acquisition](/acquisition/) Corp emerged into the investment market in 2026 as a newly formed special purpose acquisition company focused on deep technology. The company incorporated in Delaware in 2025 with headquarters in Menlo Park, California — a location chosen to signal proximity to Silicon Valley technology clusters and venture capital networks.
 
 ## Formation and capitalization
 
-Quantum Leap completed its initial public offering in May 2026, raising $200 million through the issuance of 20 million units at $10 per unit on the New York Stock Exchange under the ticker QLEPU. Each unit carried one Class A ordinary share and one redeemable warrant exercisable at $11.50 per share. Once the securities within the units began trading separately, the Class A shares and warrants were expected to trade under the symbols QLEP and QLEPW respectively.
+Quantum Leap completed its [initial public offering](/initial-public-offering/) in May 2026, raising $200 million through the issuance of 20 million units at $10 per unit on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker QLEPU. Each unit carried one Class A ordinary share and one redeemable warrant exercisable at $11.50 per share. Once the securities within the units began trading separately, the Class A shares and warrants were expected to trade under the symbols QLEP and QLEPW respectively.
 
 The timing of Quantum Leap's IPO positioned it within the broader market for technology-focused SPACs at a moment when the investor appetite for traditional SPAC structures had cooled compared to the 2020–2021 surge, but sector-specific vehicles focused on emerging technologies still attracted capital. A $200 million raise represents moderate scale within the SPAC universe — large enough to fund meaningful acquisitions but not so large as to necessitate blockbuster deal sizes that constrain target selection.
 
@@ -27,13 +27,13 @@ The competitive landscape for tech-focused SPACs includes numerous peers — som
 
 ## The mechanics of a SPAC combination
 
-Quantum Leap's path forward requires identifying and closing a business combination within the regulatory window, typically 18 to 24 months from IPO. The process unfolds as follows: the company identifies a private technology company or division as a target, negotiates terms, and announces a definitive merger agreement. At announcement, the trust account is disclosed, alongside any additional financing Quantum Leap has secured. Quantum Leap shareholders then vote on the proposed combination, with redemption rights allowing dissenters to exit at their pro-rata share of trust value.
+Quantum Leap's path forward requires identifying and closing a [business combination](/business-combination-purchase/) within the regulatory window, typically 18 to 24 months from IPO. The process unfolds as follows: the company identifies a private technology company or division as a target, negotiates terms, and announces a definitive [merger](/merger/) agreement. At announcement, the trust account is disclosed, alongside any additional financing Quantum Leap has secured. Quantum Leap shareholders then vote on the proposed combination, with [redemption rights](/redemption-rights-equity/) allowing dissenters to exit at their pro-rata share of trust value.
 
-The SPAC structure creates a financial incentive misalignment relative to traditional venture or private-equity backed acquisitions. Sponsors earn their return through founder shares only if a deal closes, but their ownership stake may be diluted if the target company negotiates additional securities issuance or if redemptions reduce the capital base. This can lead sponsors to overpay to close a deal or underpay to preserve returns — outcomes that harm either the public shareholders or the target company's original investors.
+The SPAC structure creates a financial incentive misalignment relative to traditional venture or private-equity backed acquisitions. Sponsors earn their return through [founder shares](/founder-shares/) only if a deal closes, but their ownership stake may be diluted if the target company negotiates additional securities issuance or if redemptions reduce the capital base. This can lead sponsors to overpay to close a deal or underpay to preserve returns — outcomes that harm either the public shareholders or the target company's original investors.
 
 ## Capital structure and go-forward alignment
 
-Quantum Leap issued founder shares to its sponsors and board at a nominal cost, stake that carries value only upon a successful combination. This structures incentives so that sponsors benefit from closing a meaningful deal and from the combined company's post-merger performance. Vesting schedules typically tie a portion of sponsor equity to the combined company's stock performance, extending the sponsor's alignment beyond the initial combination close.
+Quantum Leap issued founder shares to its sponsors and board at a nominal cost, stake that carries value only upon a successful combination. This structures incentives so that sponsors benefit from closing a meaningful deal and from the combined company's post-merger performance. [Vesting schedules](/vesting-schedule/) typically tie a portion of sponsor equity to the combined company's stock performance, extending the sponsor's alignment beyond the initial combination close.
 
 For public shareholders in Quantum Leap, the trust account provides a floor on downside risk — they can redeem for cash if they dislike the announced target — but the SPAC equity represents a leveraged bet on both the quality of the selected target and the sponsor's ability to negotiate attractive terms and add operational value afterward.
 

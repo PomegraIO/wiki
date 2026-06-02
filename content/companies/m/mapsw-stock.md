@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-WM Technology, Inc., which trades under the ticker MAPSW for its warrants (MAPS for common stock), operates Weedmaps—a marketplace and software platform that has become essential infrastructure for the legal cannabis industry. Founded in 2008 during California's medical-cannabis era, the company sits at the intersection of a regulatory gray zone and a massive consumer market, making money by connecting consumers with licensed retailers and by selling compliance-and-operations software to those retailers. It is, in essence, a two-sided platform that profits from making the cannabis supply chain more transparent and efficient in an industry where transparency and regulatory compliance are the price of legitimacy.
+[WM Technology](/maps-stock/), Inc., which trades under the ticker MAPSW for its warrants (MAPS for [common stock](/common-stock/)), operates Weedmaps—a marketplace and software platform that has become essential infrastructure for the legal cannabis industry. Founded in 2008 during California's medical-cannabis era, the company sits at the intersection of a regulatory gray zone and a massive consumer market, making money by connecting consumers with licensed retailers and by selling compliance-and-operations software to those retailers. It is, in essence, a two-sided platform that profits from making the cannabis supply chain more transparent and efficient in an industry where transparency and regulatory compliance are the price of legitimacy.
 
 ## The problem it solves
 
@@ -25,7 +25,7 @@ WM Technology generates revenue from two sources. Consumer-facing services inclu
 
 By 2025, Weedmaps had become critical infrastructure. The company reported that it lists an estimated eighty percent of dispensaries operating in U.S. state-legal cannabis markets. That near-monopoly-like position gives it pricing power and lock-in: a retailer cannot afford not to be on Weedmaps, because consumers use it to find shops. For consumers, Weedmaps is the de facto directory—if you are in a legal cannabis state and want to know what is available, you go to Weedmaps. That two-sided network effect is powerful. The more retailers use it, the more consumers visit it. The more consumers visit it, the more essential it becomes for retailers.
 
-The company reported over five thousand average monthly paying clients among retailers in late 2025, which represents both the scale of its penetration and the fragmented nature of cannabis retail. Most cannabis retailers are independent shops, not large chains, which means the market consists of thousands of small customers rather than hundreds of large ones. This makes customer acquisition expensive but also means that losing any single customer is not catastrophic.
+The company reported over five thousand average monthly paying clients among retailers in late 2025, which represents both the scale of its penetration and the fragmented nature of cannabis retail. Most cannabis retailers are independent shops, not large chains, which means the market consists of thousands of small customers rather than hundreds of large ones. This makes customer [acquisition](/acquisition/) expensive but also means that losing any single customer is not catastrophic.
 
 ## The regulatory risk that makes everything uncertain
 
@@ -37,7 +37,7 @@ More immediately, state-level regulators have grown increasingly cautious about 
 
 WM Technology competes against other cannabis software providers, some of which are vertical: built by cannabis retailers or testing labs to serve their own ecosystems. It also competes against incumbents from adjacent industries—general retail POS companies adapting to cannabis, and accounting software providers adding cannabis-specific modules. But Weedmaps' first-mover advantage, installed base, and two-sided network are substantial moats.
 
-The real pressure is revenue per customer and customer retention. Cannabis retailers operate on thin margins in a competitive market, which makes them price-sensitive. If WM Technology raises fees too aggressively, retailers shop around. The company has also faced churn from economic cycles: when cannabis prices fall or retail consolidation occurs, merchants reduce spending on software. And the company's path to profitability has been rocky—it went public through a SPAC merger in 2021 at a peak valuation and has struggled to grow top-line revenue while expanding to profitability, typical of early-stage platform plays in novel industries.
+The real pressure is revenue per customer and customer retention. Cannabis retailers operate on thin margins in a competitive market, which makes them price-sensitive. If WM Technology raises fees too aggressively, retailers shop around. The company has also faced churn from economic cycles: when cannabis prices fall or retail consolidation occurs, merchants reduce spending on software. And the company's path to profitability has been rocky—it went public through a SPAC [merger](/merger/) in 2021 at a peak valuation and has struggled to grow top-line revenue while expanding to profitability, typical of early-stage platform plays in novel industries.
 
 ## The strategic opportunity and risk
 

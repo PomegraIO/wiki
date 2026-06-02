@@ -15,7 +15,7 @@ Nanobiotix is a clinical-stage biotechnology company tackling the constraints th
 
 > "Physics-based nanotherapeutics represent a new class of cancer treatment, not a variant of existing drugs—they work by principles, not pharmacology."
 
-Founded in 2003 as a spin-off from the State University of New York at Buffalo, Nanobiotix spent two decades in research and preclinical work before advancing human trials. The company is headquartered in Paris, with research and development hubs in New York and Massachusetts. It listed on Euronext in 2012 and on the Nasdaq in 2020, giving it access to capital from both European and American investors. That dual-market status has been strategically important, because the company's cash burn is substantial and the company has required multiple rounds of public and private financing to sustain its clinical pipeline.
+Founded in 2003 as a [spin-off](/spin-off/) from the State University of New York at Buffalo, Nanobiotix spent two decades in research and preclinical work before advancing human trials. The company is headquartered in Paris, with research and development hubs in New York and Massachusetts. It listed on Euronext in 2012 and on the [Nasdaq](/nasdaq/) in 2020, giving it access to capital from both European and American investors. That dual-market status has been strategically important, because the company's cash burn is substantial and the company has required multiple rounds of public and private financing to sustain its clinical pipeline.
 
 ## The path to proof: NBTXR3 in trials
 

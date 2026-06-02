@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Casella Waste Systems started as a small garbage-collection company in Vermont in 1975 and has grown, through decades of [acquisitions](/acquisition/) and organic expansion, into a significant regional operator. The company collects waste from homes and businesses across Vermont, New Hampshire, New York, and Maine; operates landfills; processes recyclables and organic material; and has moved into renewable energy and specialized environmental services. It trades on [NASDAQ](/nasdaq/) under the ticker CWST and is a mid-sized player in an industry dominated by [Waste Management](/wm-stock/) and [Republic Services](/rsg-stock/), yet it has carved out a durable regional position by being good at operations and by consolidating smaller, family-owned waste companies in the Northeast.
+Casella Waste Systems started as a small garbage-collection company in Vermont in 1975 and has grown, through decades of [acquisitions](/acquisition/) and organic expansion, into a significant regional operator. The company collects waste from homes and businesses across Vermont, New Hampshire, New York, and Maine; operates landfills; processes recyclables and organic material; and has moved into renewable energy and specialized environmental services. It trades on [NASDAQ](/nasdaq/) under the ticker CWST and is a mid-sized player in an industry dominated by Waste Management and [Republic Services](/rsg-stock/), yet it has carved out a durable regional position by being good at operations and by consolidating smaller, family-owned waste companies in the Northeast.
 
 ## From start-up to regional consolidator
 

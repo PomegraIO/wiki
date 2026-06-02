@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-TCHI is an exchange-traded fund that holds dozens of Chinese technology companies. It trades on NASDAQ like a stock, but inside it you own pieces of many different tech firms across China. Think of it as a basket of China's biggest tech players—internet companies, chipmakers, cloud providers, software firms—all bundled together so you can gain exposure to China's tech sector without picking individual stocks.
+TCHI is an exchange-traded fund that holds dozens of Chinese technology companies. It trades on [NASDAQ](/nasdaq/) like a stock, but inside it you own pieces of many different tech firms across China. Think of it as a basket of China's biggest tech players—internet companies, chipmakers, cloud providers, software firms—all bundled together so you can gain exposure to China's tech sector without picking individual stocks.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,15 +34,15 @@ The companies inside span multiple tech segments. Some are internet platforms th
 
 ## Why someone would buy this fund
 
-China's tech sector is massive. It includes some of the most valuable companies in the world. If you believe China's technology industry will thrive, you might want exposure. TCHI lets you own a slice of that sector without researching individual companies. You get instant diversification—if one company stumbles, others might prosper, and the damage to your overall investment is small.
+China's tech sector is massive. It includes some of the most valuable companies in the world. If you believe China's technology industry will thrive, you might want exposure. TCHI lets you own a slice of that sector without researching individual companies. You get instant [diversification](/diversification/)—if one company stumbles, others might prosper, and the damage to your overall investment is small.
 
 You might also buy TCHI if you want to separate your bets. A global tech fund mixes US companies, Chinese companies, European companies, and others. TCHI lets you say, "I want just the China part." This lets you adjust your geographic exposure separately from your sector exposure.
 
 ## How the fund works practically
 
-TCHI trades throughout the day on NASDAQ at whatever price buyers and sellers agree on. You can buy or sell within seconds, and the price changes throughout trading hours based on what is happening in Chinese tech stocks. This is different from a mutual fund, where you might buy at the day's closing price only. An ETF gives you real-time pricing and control.
+TCHI trades throughout the day on NASDAQ at whatever price buyers and sellers agree on. You can buy or sell within seconds, and the price changes throughout trading hours based on what is happening in Chinese tech stocks. This is different from a [mutual fund](/mutual-fund/), where you might buy at the day's closing price only. An ETF gives you real-time pricing and control.
 
-The expense ratio—the annual fee to own the fund—is very low. That is because TCHI is a passive fund. BlackRock is not paying analysts to pick stocks or paying traders to constantly buy and sell. The fund simply mirrors an index, which is cheap to manage.
+The [expense ratio](/expense-ratio/)—the annual fee to own the fund—is very low. That is because TCHI is a passive fund. [BlackRock](/blk-stock/) is not paying analysts to pick stocks or paying traders to constantly buy and sell. The fund simply mirrors an index, which is cheap to manage.
 
 ## The China regulatory problem
 
@@ -54,11 +54,11 @@ When confidence about China rises, Chinese tech stocks rally hard. When worry ab
 
 ## Currency exposure matters
 
-The companies in TCHI earn money in Chinese yuan and report in yuan. When the yuan strengthens against the US dollar, that helps US investors' returns. When the yuan weakens, it hurts returns. This currency effect is separate from whether the companies themselves are performing well. If you hold TCHI and the yuan tumbles, your returns fall even if the underlying companies do fine.
+The companies in TCHI earn money in Chinese yuan and report in yuan. When the yuan strengthens against the [US dollar](/us-dollar/), that helps US investors' returns. When the yuan weakens, it hurts returns. This currency effect is separate from whether the companies themselves are performing well. If you hold TCHI and the yuan tumbles, your returns fall even if the underlying companies do fine.
 
 ## Trading and liquidity
 
-TCHI trades on NASDAQ with good volume. You can buy or sell without material difficulty. The fund is large enough that bid-ask spreads are tight. For most investors, buying or selling shares is straightforward.
+TCHI trades on NASDAQ with good volume. You can buy or sell without material difficulty. The fund is large enough that [bid-ask spreads](/bid-ask-spread/) are tight. For most investors, buying or selling shares is straightforward.
 
 ## Researching TCHI
 

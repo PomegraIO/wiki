@@ -63,7 +63,7 @@ The company is not venture-backed and has no permanent runway concerns; it went 
 
 Insurance advertising spend is not recession-proof but is more stable than many marketing categories because insurance is a legal necessity (auto coverage is mandatory in most states) and an annual rite (renewals drive repeat shopping). However, the company does face advertiser [concentration risk](/concentration-risk/)—a small number of large national carriers likely account for a material portion of spending. Loss or reduced spending from a major carrier would hurt revenue directly.
 
-The company also operates in a competitive environment where carriers and large independent agencies can shift budgets across lead sources. MediaAlpha must continuously justify its pricing relative to alternative channels (organic search, affiliate networks, [direct digital](/drct-stock/) initiatives by carriers themselves). Rising digital-marketing costs across all categories put pressure on advertiser budgets and can reduce the dollar amount insurers allocate to any single platform.
+The company also operates in a competitive environment where carriers and large independent agencies can shift budgets across lead sources. MediaAlpha must continuously justify its pricing relative to alternative channels (organic search, affiliate networks, direct digital initiatives by carriers themselves). Rising digital-marketing costs across all categories put pressure on advertiser budgets and can reduce the dollar amount insurers allocate to any single platform.
 
 ## Regulatory and Operational Risks
 

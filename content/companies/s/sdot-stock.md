@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Sadot Group Inc. took its current name in 2019 after rebranding from Muscle Maker Inc. The company runs two separate businesses: one trades agricultural commodities (soybean meal, wheat, corn) sourced from Southern Africa and shipped globally, and the other operates food service across the United States. Both businesses operate under heavy losses and face urgent capital needs.
+Sadot Group Inc. took its current name in 2019 after rebranding from Muscle Maker Inc. The company runs two separate businesses: one trades agricultural commodities ([soybean meal](/soybean-meal/), wheat, corn) sourced from Southern Africa and shipped globally, and the other operates food service across the United States. Both businesses operate under heavy losses and face urgent capital needs.
 
 The company is, in simple terms, trying to be two businesses at once. That is a difficult thing to do, especially at small scale, and Sadot's financial condition reflects the strain.
 
@@ -31,7 +31,7 @@ The Sadot Food Service segment operates food operations across the United States
 
 ## Heavy losses and real risks
 
-Sadot Group reported heavy losses in its annual report for the year ended December 31, 2025. The company flagged impairments (write-downs of asset value because those assets are worth less than the company had assumed), debt defaults, and major dilution risk. In plain language, that means:
+Sadot Group reported heavy losses in its [annual report](/10-k/) for the year ended December 31, 2025. The company flagged impairments (write-downs of asset value because those assets are worth less than the company had assumed), debt defaults, and major dilution risk. In plain language, that means:
 
 - The company wrote down the value of assets it holds because they're worth less than balance-sheet value
 - The company defaulted on debt obligations—it missed payments or breached covenants
@@ -53,7 +53,7 @@ But the fact that management is signaling going-concern risk, reporting defaults
 
 ## How to research Sadot
 
-Start with the annual 10-K, which will detail the commodity trading volumes, margins, and customer mix. Look for the food service segment's revenue, margins, and unit economics—how many locations, what's the revenue per location, what are operating margins. Look for trends: Is agri-commodity volume increasing or decreasing? Are customers growing or shrinking? Is the food service operation scaling or declining?
+Start with the annual 10-K, which will detail the commodity trading volumes, margins, and customer mix. Look for the food service segment's revenue, margins, and unit economics—how many locations, what's the revenue per location, what are [operating margins](/operating-margin/). Look for trends: Is agri-commodity volume increasing or decreasing? Are customers growing or shrinking? Is the food service operation scaling or declining?
 
 Watch the financing disclosures. How much new equity has been issued? At what valuation? If the stock price has been cut in half and the company has issued millions of new shares, dilution has been catastrophic. Existing shareholders often wish they had exited earlier.
 

@@ -17,7 +17,7 @@ keywords: [DKILF, Japan, Daikin, manufacturing, HVAC, currency risk, conglomerat
 
 ## Currency as the Primary Risk
 
-Daikin's earnings are generated primarily in [Japanese yen](/japanese-yen/), Thai baht, and other foreign currencies, then consolidated into yen statements. U.S. dollar investors holding DKILF are implicitly exposed to yen weakness and strength. When the dollar strengthens against the yen—a common occurrence—the dollar value of Daikin's yen earnings falls. Over a multi-year period, this currency headwind can erase 20%, 30%, or more of nominal gains. Moreover, fluctuating exchange rates make year-over-year profit comparisons misleading; a strong operational year can look mediocre in dollar terms if currencies move against the investor. No operation in the company itself changes; only the currency overlay determines what a U.S.-based shareholder actually earns.
+Daikin's earnings are generated primarily in [Japanese yen](/japanese-yen/), Thai baht, and other foreign currencies, then consolidated into yen statements. [U.S. dollar](/us-dollar/) investors holding DKILF are implicitly exposed to yen weakness and strength. When the dollar strengthens against the yen—a common occurrence—the dollar value of Daikin's yen earnings falls. Over a multi-year period, this currency headwind can erase 20%, 30%, or more of nominal gains. Moreover, fluctuating exchange rates make year-over-year profit comparisons misleading; a strong operational year can look mediocre in dollar terms if currencies move against the investor. No operation in the company itself changes; only the currency overlay determines what a U.S.-based shareholder actually earns.
 
 ## Conglomerate Opacity and Allocation Risk
 

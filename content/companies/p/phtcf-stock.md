@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-PLDT Inc., formally Philippine Long Distance Telephone Company, is the Philippines' largest telecommunications company by revenue and subscribers. It provides fixed-line telephone service, broadband internet, and mobile services throughout the country. The company's American Depositary Receipts trade over-the-counter under the ticker PHTCF.
+PLDT Inc., formally Philippine Long Distance Telephone Company, is the Philippines' largest telecommunications company by revenue and subscribers. It provides fixed-line telephone service, broadband internet, and mobile services throughout the country. The company's [American Depositary Receipts](/adr/) trade over-the-counter under the ticker PHTCF.
 
 <aside class="wiki-infobox">
 <table>
@@ -36,15 +36,15 @@ The company now competes against other operators like Globe Telecom (the second-
 
 ## How does PLDT compete with Globe and others?
 
-PLDT competes partly on network quality (its infrastructure is newer in many markets than competitors') and partly on bundling. A customer can get broadband and mobile from PLDT under one bill with one support team, which is more convenient than juggling two providers. PLDT can also afford to spend more on marketing and customer acquisition than smaller rivals, and it has relationships with major corporate customers that are harder to break than consumer relationships because they involve service-level agreements and integration into business operations.
+PLDT competes partly on network quality (its infrastructure is newer in many markets than competitors') and partly on bundling. A customer can get broadband and mobile from PLDT under one bill with one support team, which is more convenient than juggling two providers. PLDT can also afford to spend more on marketing and customer [acquisition](/acquisition/) than smaller rivals, and it has relationships with major corporate customers that are harder to break than consumer relationships because they involve service-level agreements and integration into business operations.
 
 Against Globe specifically, PLDT has been the market leader in most metrics — more broadband subscribers, more mobile subscribers, more stable cash flows. But Globe has been a competent competitor, investing in newer technology and sometimes beating PLDT on service in specific areas or demographics. The competitive dynamic is that of a two-player duopoly with a clear first place: PLDT sets the pace and takes the largest share of revenue growth, while Globe fights to maintain its position and steal subscribers through localized offerings or promotional pricing.
 
 ## What makes PLDT cash-generative?
 
-Telecom networks, once built, throw off enormous cash flow because recurring subscriptions arrive every month with minimal variable cost to serve additional traffic. An additional broadband customer costs PLDT very little more once the neighborhood is wired; the customer pays 30, 50, or 100 dollars per month, and most of that is gross margin. This is why telecom operators are historically valued partly on their cash flow (via free cash flow yield or other cash-centric multiples) and not just on earnings growth — they generate cash whether or not the company is growing, because the installed base of customers keeps paying.
+Telecom networks, once built, throw off enormous cash flow because recurring subscriptions arrive every month with minimal variable cost to serve additional traffic. An additional broadband customer costs PLDT very little more once the neighborhood is wired; the customer pays 30, 50, or 100 dollars per month, and most of that is gross margin. This is why telecom operators are historically valued partly on their cash flow (via [free cash flow](/free-cash-flow/) yield or other cash-centric multiples) and not just on earnings growth — they generate cash whether or not the company is growing, because the installed base of customers keeps paying.
 
-PLDT has therefore been able to return significant cash to shareholders through dividends while still maintaining and upgrading its network. Dividend income, combined with potential capital appreciation, is what attracts long-term investors to telecom stocks, particularly in markets where growth is modest (the Philippines' broadband penetration is still lower than developed markets, but the addressable market is becoming increasingly saturated).
+PLDT has therefore been able to return significant cash to shareholders through [dividends](/dividend/) while still maintaining and upgrading its network. Dividend income, combined with potential capital appreciation, is what attracts long-term investors to telecom stocks, particularly in markets where growth is modest (the Philippines' broadband penetration is still lower than developed markets, but the addressable market is becoming increasingly saturated).
 
 ## What are the real pressures on PLDT?
 

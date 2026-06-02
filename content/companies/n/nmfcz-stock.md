@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-New Mountain Finance Corp is a business development company—a BDC. That is a specific thing in finance. A BDC is an investment company that lends money to and buys stakes in companies that are too small to raise money from the stock market but too big or risky for traditional bank lending. These are mostly private companies, and New Mountain Finance's job is to figure out which ones are worth lending to, make the loan or equity investment, collect the interest and fees, and eventually get its money back when the company is sold or goes public.
+[New Mountain Finance](/nmfc-stock/) Corp is a [business development company](/business-development-company/)—a BDC. That is a specific thing in finance. A BDC is an investment company that lends money to and buys stakes in companies that are too small to raise money from the [stock market](/stock-market/) but too big or risky for traditional bank lending. These are mostly private companies, and New Mountain Finance's job is to figure out which ones are worth lending to, make the loan or equity investment, collect the interest and fees, and eventually get its money back when the company is sold or goes public.
 
 ## What a BDC does
 
@@ -21,13 +21,13 @@ The companies a BDC lends to are typically owned by private-equity firms or are 
 
 ## How New Mountain makes money
 
-New Mountain Finance makes money in multiple ways. The primary source is interest income. It lends money to these companies at interest rates much higher than banks charge—often in the 8 to 12 percent range depending on the risk and market conditions. That high yield compensates for the higher credit risk these companies carry compared to investment-grade corporate borrowers.
+New Mountain Finance makes money in multiple ways. The primary source is interest income. It lends money to these companies at [interest rates](/interest-rate/) much higher than banks charge—often in the 8 to 12 percent range depending on the risk and market conditions. That high yield compensates for the higher [credit risk](/credit-risk/) these companies carry compared to investment-grade corporate borrowers.
 
 The second source is fees. When New Mountain structures a loan or investment, it charges an upfront fee for arranging the deal. That fee is typically 1 to 3 percent of the loan amount and is recognized as revenue upfront. The company also charges fees for administering the loan—making sure the borrower is following the covenants, collecting payments, and monitoring the business.
 
 The third source is equity appreciation. Sometimes New Mountain takes a small ownership stake in the company along with the loan. If the company grows and eventually sells or goes public, the equity stake can be worth far more than the original investment. This is less common than pure lending, but it happens and can be a significant source of upside.
 
-As a BDC, New Mountain Finance must distribute at least 90 percent of its income to shareholders as dividends, just like a mortgage REIT. That is the trade-off for favorable tax treatment. The company cannot retain earnings, so the dividend represents the actual income the company earned, minus the portion it retains.
+As a BDC, New Mountain Finance must distribute at least 90 percent of its income to shareholders as [dividends](/dividend/), just like a [mortgage REIT](/mortgage-reit/). That is the trade-off for favorable tax treatment. The company cannot retain earnings, so the dividend represents the actual income the company earned, minus the portion it retains.
 
 ## The risk in lending to private companies
 
@@ -41,15 +41,15 @@ But covenants are not guarantees. If a company deteriorates badly, the lender's 
 
 ## Scale and leverage
 
-New Mountain Finance is large enough to diversify its portfolio. The company makes hundreds of loans and investments across many industries—business services, software, manufacturing, healthcare, and others. No single company or industry represents a huge concentration of the portfolio. That diversification helps cushion the impact if one or two companies get into trouble.
+New Mountain Finance is large enough to diversify its portfolio. The company makes hundreds of loans and investments across many industries—business services, software, manufacturing, healthcare, and others. No single company or industry represents a huge concentration of the portfolio. That [diversification](/diversification/) helps cushion the impact if one or two companies get into trouble.
 
-The company also operates with leverage—it borrows money to invest more capital than it received from shareholders. A BDC might raise 100 million dollars and then borrow another 300 million dollars to have 400 million dollars to invest. That leverage amplifies returns when times are good but amplifies losses when credit deteriorates. Most BDCs operate at leverage ratios of about 1 to 1—one dollar of debt for every dollar of equity.
+The company also operates with leverage—it borrows money to invest more capital than it received from shareholders. A BDC might raise 100 million dollars and then borrow another 300 million dollars to have 400 million dollars to invest. That leverage amplifies returns when times are good but amplifies losses when credit deteriorates. Most BDCs operate at [leverage ratios](/leverage-ratio-forex/) of about 1 to 1—one dollar of debt for every dollar of equity.
 
 ## The credit cycle
 
 New Mountain Finance's performance is tightly tied to the credit cycle. When the economy is strong and companies are growing, defaults are rare and companies can refinance loans easily. Interest rates are lower and companies get better terms. New Mountain's portfolio performs well and dividends are full.
 
-When the economy slows, defaults rise and company values fall. New Mountain has to write down the value of its portfolio—sometimes loans it made for 100 million dollars in a booming market are worth only 80 million dollars when a recession hits. The company's book value per share falls. Some loans default entirely and have to be written off. In severe downturns, BDCs have been forced to cut or eliminate dividends.
+When the economy slows, defaults rise and company values fall. New Mountain has to write down the value of its portfolio—sometimes loans it made for 100 million dollars in a booming market are worth only 80 million dollars when a [recession](/recession/) hits. The company's book value per share falls. Some loans default entirely and have to be written off. In severe downturns, BDCs have been forced to cut or eliminate dividends.
 
 New Mountain's management works to position the portfolio defensively in later-cycle environments. That might mean lending more to proven, stable companies and less to growth-stage or turnaround situations. It might mean reducing leverage or extending the maturity profile of the portfolio so less debt comes due in near term. These moves reduce risk but also reduce the potential upside.
 

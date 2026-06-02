@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Leverage Shares 2X Long PLUG Daily ETF is a single-stock, leveraged exchange-traded fund that seeks to deliver twice the daily return of Plug Power stock. It uses swaps and futures to amplify Plug Power's moves, resetting every day to maintain a 200% long exposure. Like all leveraged ETFs, it is designed for traders making short-term bets on the stock, not long-term investors, and the gains can evaporate quickly if the stock moves sideways or down.*
+*Leverage Shares 2X Long PLUG Daily ETF is a single-stock, leveraged exchange-traded fund that seeks to deliver twice the daily return of [Plug Power](/plug-stock/) stock. It uses swaps and futures to amplify Plug Power's moves, resetting every day to maintain a 200% long exposure. Like all [leveraged ETFs](/leveraged-etf/), it is designed for traders making short-term bets on the stock, not long-term investors, and the gains can evaporate quickly if the stock moves sideways or down.*
 
 ## Hydrogen and leverage, combined
 
@@ -21,9 +21,9 @@ This is not an investment for buy-and-hold investors. The leverage is reset ever
 
 ## How the leverage works
 
-Leverage Shares builds the 2x exposure using derivatives—most commonly total return swaps and futures contracts. These instruments allow the fund to construct a long position in Plug Power that is two times the size of its assets. When Plug Power moves up, the fund's derivatives gain in value faster than Plug Power itself.
+Leverage Shares builds the 2x exposure using derivatives—most commonly [total return swaps](/total-return-swap/) and [futures contracts](/futures-contract/). These instruments allow the fund to construct a long position in Plug Power that is two times the size of its assets. When Plug Power moves up, the fund's derivatives gain in value faster than Plug Power itself.
 
-The fund rebalances daily, typically at or near the market close. On each rebalancing day, the fund adjusts its derivatives position to maintain exactly 2x leverage. This daily reset means that on any single trading day, from open to close, the leverage ratio is stable. Hold the fund for one day, and you should capture roughly 2x the daily move. Hold it for a week or a month, and compounding and rebalancing costs diverge sharply from simple 2x multiplication.
+The fund rebalances daily, typically at or near the market close. On each rebalancing day, the fund adjusts its derivatives position to maintain exactly 2x leverage. This daily reset means that on any single trading day, from open to close, the [leverage ratio](/leverage-ratio-forex/) is stable. Hold the fund for one day, and you should capture roughly 2x the daily move. Hold it for a week or a month, and compounding and rebalancing costs diverge sharply from simple 2x multiplication.
 
 ## Volatility decay: the hidden cost of leverage
 
@@ -33,9 +33,9 @@ Volatility is the enemy of leveraged ETFs. The more the stock bounces around, th
 
 ## Real costs that hit holders
 
-Beyond volatility decay, PLUL holders pay financing costs. The fund must pay to borrow the capital underlying its derivatives position, and those costs—though sometimes small—are deducted from fund assets. The fund's prospectus states an expense ratio, but that covers only administrative costs and management fees. The actual cost of maintaining the leveraged derivatives position is embedded in the fund's daily pricing and paid silently from assets.
+Beyond volatility decay, PLUL holders pay financing costs. The fund must pay to borrow the capital underlying its derivatives position, and those costs—though sometimes small—are deducted from fund assets. The fund's prospectus states an [expense ratio](/expense-ratio/), but that covers only administrative costs and [management fees](/management-fee/). The actual cost of maintaining the leveraged derivatives position is embedded in the fund's daily pricing and paid silently from assets.
 
-Daily rebalancing also incurs transaction costs. The fund is constantly buying and selling derivatives to reset leverage, and those trades have bid-ask spreads and commissions that compound over time. These costs are why PLUL's annualized returns, over periods longer than a few days, almost always underperform 2x the returns of Plug Power itself.
+Daily rebalancing also incurs transaction costs. The fund is constantly buying and selling derivatives to reset leverage, and those trades have [bid-ask spreads](/bid-ask-spread/) and commissions that compound over time. These costs are why PLUL's annualized returns, over periods longer than a few days, almost always underperform 2x the returns of Plug Power itself.
 
 ## Who buys PLUL and why
 
@@ -47,9 +47,9 @@ PLUL is not for savers, retirees, or anyone with a long-term time horizon. Finan
 
 A 50% decline in Plug Power would not translate to a 100% loss in PLUL on a single day; regulatory limits and position sizing prevent that. But over multiple days of Plug Power weakness, losses could compound dramatically. A two-month period where Plug Power falls 30% could result in PLUL falling much more than 60%, especially if the decline is choppy.
 
-Concentration risk is another concern. PLUL is a bet on a single company—Plug Power—not a diversified portfolio. If negative news about Plug Power's technology, competition, or cash burn emerges, the stock can gap down sharply, and PLUL would amplify that loss. Leverage amplifies both gains and losses with no mercy.
+[Concentration risk](/concentration-risk/) is another concern. PLUL is a bet on a single company—Plug Power—not a diversified portfolio. If negative news about Plug Power's technology, competition, or cash burn emerges, the stock can gap down sharply, and PLUL would amplify that loss. Leverage amplifies both gains and losses with no mercy.
 
-There is also counterparty risk embedded in the swaps and futures. If the financial institution on the other side of the swap faces stress, the fund could face valuation disruptions or settlement delays.
+There is also [counterparty risk](/counterparty-risk/) embedded in the swaps and futures. If the financial institution on the other side of the swap faces stress, the fund could face valuation disruptions or settlement delays.
 
 ## Plain talk on holdings
 
@@ -59,4 +59,4 @@ Hold PLUL for a day or two if you have a specific short-term bullish thesis on P
 
 Start with Leverage Shares' prospectus and the fund's fact sheet. Both will include examples of how daily rebalancing works and how volatility decay erodes returns over multi-day periods. Look at the fund's historical daily returns and compare them to 2x the daily returns of PLUG itself over a week, a month, and a quarter. The gap reveals the cost of leverage and rebalancing.
 
-Check PLUG's recent volatility using options data or by calculating historical volatility from the stock's daily prices. Higher volatility accelerates PLUL's decay, making the fund even less suitable for holding beyond a few days.
+Check PLUG's recent volatility using options data or by calculating [historical volatility](/historical-volatility/) from the stock's daily prices. Higher volatility accelerates PLUL's decay, making the fund even less suitable for holding beyond a few days.

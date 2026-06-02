@@ -28,7 +28,7 @@ From an investment perspective, BridgeBio Oncology is attractive to those who be
 
 ## Regulatory Pathways and Accelerated Approval
 
-The FDA has created expedited approval pathways for drugs targeting unmet medical needs, including Breakthrough Therapy designation, [Fast Track](/ftrk-stock/) designation, and Accelerated Approval. These mechanisms can compress timelines from the standard 10+ years to 5–7 years or even faster, if clinical data supports efficacy and safety in an area where no standard therapy exists. BridgeBio Oncology's precision programs are candidates for such designations; success in securing them not only accelerates time-to-market but also signals external validation of the program's promise and strengthens competitive position.
+The FDA has created expedited approval pathways for drugs targeting unmet medical needs, including Breakthrough Therapy designation, Fast Track designation, and Accelerated Approval. These mechanisms can compress timelines from the standard 10+ years to 5–7 years or even faster, if clinical data supports efficacy and safety in an area where no standard therapy exists. BridgeBio Oncology's precision programs are candidates for such designations; success in securing them not only accelerates time-to-market but also signals external validation of the program's promise and strengthens competitive position.
 
 However, accelerated approval comes with post-market surveillance requirements and potential confirmatory trial mandates. If a drug approved on interim data later fails confirmatory trials, it may be withdrawn from the market. This risk is inherent in precision oncology, where trial populations are small and trial timing can be extended by the rarity of the target population.
 

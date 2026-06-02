@@ -83,7 +83,7 @@ BGM must also manage capacity across facilities. If one facility is at full util
 
 ## Environmental Compliance and Emissions
 
-Manufacturing often generates emissions, wastewater, or waste products. BGM must comply with environmental regulations—air quality, water quality, [waste management](/wm-stock/), hazardous materials handling. Compliance requires operational infrastructure: air scrubbers, water treatment, waste handling, documentation, and regular monitoring.
+Manufacturing often generates emissions, wastewater, or waste products. BGM must comply with environmental regulations—air quality, water quality, waste management, hazardous materials handling. Compliance requires operational infrastructure: air scrubbers, water treatment, waste handling, documentation, and regular monitoring.
 
 Regulatory changes—tighter emissions limits, new waste rules—force operational adjustments. BGM must stay informed about incoming regulations and plan investments to comply. Non-compliance risks fines, permit revocation (forced operational shutdown), and reputational damage.
 

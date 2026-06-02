@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-*Translational Development Acquisition Corp. is a special-purpose acquisition company, or SPAC — a publicly listed shell corporation whose sole purpose is to raise capital from investors and use it to acquire a privately held business. TDACU (NASDAQ: TDACU) is the unit of this acquisition vehicle, comprising one share of common stock plus one redeemable warrant, bundled for initial investors.*
+*Translational Development [Acquisition](/acquisition/) Corp. is a [special-purpose acquisition company](/special-purpose-acquisition-company/), or SPAC — a publicly listed shell corporation whose sole purpose is to raise capital from investors and use it to acquire a privately held business. TDACU ([NASDAQ](/nasdaq/): TDACU) is the unit of this acquisition vehicle, comprising one share of [common stock](/common-stock/) plus one redeemable warrant, bundled for initial investors.*
 
 ## The structure and timeline
 
-TDACU was formed as a Delaware corporation and completed its initial public offering to raise capital in the public markets. As a SPAC, it operated on a fixed timeline: the company had a defined window (typically two to three years from the close of the IPO) to identify, negotiate, and complete a merger with an operating company. If no qualifying business combination was consummated within that period, the capital would be returned to shareholders and the SPAC would dissolve.
+TDACU was formed as a Delaware corporation and completed its [initial public offering](/initial-public-offering/) to raise capital in the public markets. As a SPAC, it operated on a fixed timeline: the company had a defined window (typically two to three years from the close of the IPO) to identify, negotiate, and complete a [merger](/merger/) with an operating company. If no qualifying [business combination](/business-combination-purchase/) was consummated within that period, the capital would be returned to shareholders and the SPAC would dissolve.
 
 The capital raised through the IPO sits in a trust account, held in escrow and invested in low-risk securities until deployed toward an acquisition. That trust structure is a key feature of the SPAC model — it protects investor capital and ensures funds are available for the stated purpose.
 
@@ -26,7 +26,7 @@ To shareholders, the SPAC offered a choice: trust the acquisition and hold throu
 
 ## The warrant piece
 
-TDACU trades as a unit that includes one warrant, exercisable into one share at a fixed price (the warrant strike is set at IPO). The warrant carries leverage: if the combined company's shares rise above the strike, the warrant holder profits from that upside without having paid the full share price upfront. If the stock stays flat or declines, the warrant expires worthless. That risk-reward asymmetry is why warrants trade at a premium to their intrinsic value — they offer leverage for believers, but carry total-loss risk for skeptics.
+TDACU trades as a unit that includes one warrant, exercisable into one share at a fixed price (the warrant strike is set at IPO). The warrant carries leverage: if the combined company's shares rise above the strike, the warrant holder profits from that upside without having paid the full share price upfront. If the stock stays flat or declines, the warrant expires worthless. That risk-reward asymmetry is why warrants trade at a premium to their [intrinsic value](/intrinsic-value/) — they offer leverage for believers, but carry total-loss risk for skeptics.
 
 ## Blank-check risks and regulatory scrutiny
 

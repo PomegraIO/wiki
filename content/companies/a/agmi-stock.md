@@ -26,21 +26,21 @@ AGMI shareholders are therefore betting on three things at once: the silver pric
 
 ## How does AGMI work?
 
-AGMI holds shares of silver mining companies. The fund may hold a diversified list of silver producers — large established firms with multiple mines alongside smaller, higher-risk specialists. The exact composition depends on the fund's index methodology. AGMI trades like any other ETF, with intraday liquidity and prices set by supply and demand.
+AGMI holds shares of silver mining companies. The fund may hold a diversified list of silver producers — large established firms with multiple mines alongside smaller, higher-risk specialists. The exact composition depends on the fund's index methodology. AGMI trades like any other ETF, with [intraday liquidity](/intraday-liquidity/) and prices set by supply and demand.
 
 Because mining companies' profits are leveraged to the underlying commodity price, mining ETFs tend to be more volatile than commodity-holding ETFs. When silver rallies, mining stocks can surge well ahead of the bullion price if investors expect profits to multiply. When silver falls, mining stocks can crash even harder, because the profit margin shrinks or vanishes entirely. Investors who want commodity exposure but cannot stomach the volatility of mining stocks might prefer a pure silver ETF that holds bullion instead.
 
 ## What are the risks specific to silver mining?
 
-Mining carries operational risks: accidents at mines can disrupt production; ore grades can decline as mines age; geological surprises can emerge during exploration. There are geopolitical risks too. Major silver mining occurs in countries including Peru, Mexico, Chile, and Poland, and political instability, changes in mining regulations, or new environmental rules can disrupt operations or raise costs.
+Mining carries [operational risks](/operational-risk/): accidents at mines can disrupt production; ore grades can decline as mines age; geological surprises can emerge during exploration. There are geopolitical risks too. Major silver mining occurs in countries including Peru, Mexico, Chile, and Poland, and political instability, changes in mining regulations, or new environmental rules can disrupt operations or raise costs.
 
 The silver market itself is thin compared to gold or major commodities. Price swings can be sharp, and the use of leverage by traders and financial actors can amplify those swings. A mining company that loses money at $15 an ounce silver becomes very profitable at $25 an ounce, but falls back into losses at $10 an ounce. These threshold effects mean mining stocks can behave erratically relative to the underlying commodity.
 
-Currency risk also matters. Major silver miners are often located in countries that use non-dollar currencies. When the U.S. dollar strengthens, mining revenues measured in dollars can fall even if the silver price stays flat, because the miners earn foreign currency that buys fewer dollars. AGMI shareholders are exposed to these currency swings unless the fund hedges them.
+[Currency risk](/currency-risk/) also matters. Major silver miners are often located in countries that use non-dollar currencies. When the [U.S. dollar](/us-dollar/) strengthens, mining revenues measured in dollars can fall even if the silver price stays flat, because the miners earn foreign currency that buys fewer dollars. AGMI shareholders are exposed to these currency swings unless the fund hedges them.
 
 ## Who invests in silver mining stocks?
 
-AGMI suits investors who believe silver prices will rise and who want leveraged exposure to that bet through mining-company profits. It also appeals to investors seeking diversification into commodities and mining, a sector that often behaves differently from stocks and bonds. AGMI is less suitable for conservative investors, those uncomfortable with volatility, or anyone who wants pure commodity exposure without the operational risk and leverage of mining stocks.
+AGMI suits investors who believe silver prices will rise and who want leveraged exposure to that bet through mining-company profits. It also appeals to investors seeking [diversification](/diversification/) into commodities and mining, a sector that often behaves differently from stocks and [bonds](/bond/). AGMI is less suitable for conservative investors, those uncomfortable with volatility, or anyone who wants pure commodity exposure without the operational risk and leverage of mining stocks.
 
 Investors considering AGMI should review the fund's holdings to understand which mining firms it owns, their geographic exposure, their cost structures (if available), and how leveraged or volatile they tend to be. Watching the silver price and the fund's performance relative to silver prices over time reveals whether AGMI is delivering the desired mining exposure or just tracking commodity prices while adding extra risk.
 

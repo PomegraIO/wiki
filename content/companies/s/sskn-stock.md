@@ -58,7 +58,7 @@ Medical devices also face liability risk. If someone is injured or harmed by an 
 
 ## Recent changes and the path forward
 
-In 2026, STRATA notified investors that it was suspending trading on Nasdaq and preparing to delist. The company said this decision would reduce the cost and burden of being a public company, allowing management to focus on operations instead of regulatory filings and investor relations. Going private, either through a buyout or staying public on smaller exchanges, changes the capital structure and the expectations around growth and profitability.
+In 2026, STRATA notified investors that it was suspending trading on [Nasdaq](/nasdaq/) and preparing to delist. The company said this decision would reduce the cost and burden of being a public company, allowing management to focus on operations instead of regulatory filings and investor relations. Going private, either through a buyout or staying public on smaller exchanges, changes the capital structure and the expectations around growth and profitability.
 
 The fundamentals of the dermatology business have not changed: patients still get psoriasis, vitiligo, and acne; dermatologists still treat them; clinics still need equipment. But the company's ability to fund growth, invest in new products, or acquire competitors becomes more constrained if it loses access to public capital markets. This shift is a sign that STRATA is focusing on what it does best — building and selling dermatology equipment — rather than pursuing aggressive growth.
 

@@ -39,9 +39,9 @@ DALI is simpler than a fundamental stock-picker who reads earnings reports and v
 
 ## How DALI trades and costs
 
-The fund trades on the NASDAQ exchange during market hours, like any other stock. The expense ratio is reasonable — lower than an actively managed fund with human analysts, higher than a dirt-cheap index fund holding the entire S&P 500. Because the index methodology is proprietary and the rebalancing schedule is set, there is no hidden active management; you know what you are getting.
+The fund trades on the [NASDAQ](/nasdaq/) exchange during market hours, like any other stock. The [expense ratio](/expense-ratio/) is reasonable — lower than an [actively managed fund](/actively-managed-fund/) with human analysts, higher than a dirt-cheap [index fund](/index-fund/) holding the entire S&P 500. Because the index methodology is proprietary and the rebalancing schedule is set, there is no hidden active management; you know what you are getting.
 
-Bid-ask spreads on DALI shares are tight, meaning you can typically buy or sell without losing much to trading friction. The intraday rebalancing of the underlying index can occasionally create tiny premium or discount to net asset value, but these are usually trivial.
+[Bid-ask spreads](/bid-ask-spread/) on DALI shares are tight, meaning you can typically buy or sell without losing much to trading friction. The intraday rebalancing of the underlying index can occasionally create tiny premium or discount to [net asset value](/net-asset-value/), but these are usually trivial.
 
 ## Risks and volatility
 

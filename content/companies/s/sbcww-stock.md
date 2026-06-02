@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-SBC Medical Group Holdings Inc. operates a franchise network of cosmetic-surgery and aesthetic-treatment clinics, with the vast majority located in Japan and expanding presence in Vietnam, Singapore, and the United States. The company was born in Japan in 2000, in a regulatory and cultural environment that tolerated cosmetic surgery marketing more openly than many Western countries, and it has remained anchored there while exporting the franchise model across Asia. The business sits at the intersection of Japanese medical regulation, each jurisdiction's rules on medical advertising, and the franchisees' need for clinical and operational support to maintain patient safety and brand standards.
+[SBC Medical](/sbc-stock/) Group Holdings Inc. operates a franchise network of cosmetic-surgery and aesthetic-treatment clinics, with the vast majority located in Japan and expanding presence in Vietnam, Singapore, and the United States. The company was born in Japan in 2000, in a regulatory and cultural environment that tolerated cosmetic surgery marketing more openly than many Western countries, and it has remained anchored there while exporting the franchise model across Asia. The business sits at the intersection of Japanese medical regulation, each jurisdiction's rules on medical advertising, and the franchisees' need for clinical and operational support to maintain patient safety and brand standards.
 
 <aside class="wiki-infobox">
 <table>
@@ -66,7 +66,7 @@ The company's own operations in Japan are not exempt from this trend. Japan's me
 
 ## From Japan's pioneer to the global framework
 
-SBC went public on the Nasdaq via a SPAC merger, bringing capital but also public-market scrutiny that the company had not faced as a private operator. The transition from a private Japanese franchise champion to a publicly traded global operator has required new financial reporting, governance structures, and disclosure. Whether the company can maintain the flexibility of the franchise model while meeting the higher compliance and transparency demands of operating across multiple developed and developing jurisdictions remains an open question.
+SBC went public on the [Nasdaq](/nasdaq/) via a SPAC [merger](/merger/), bringing capital but also public-market scrutiny that the company had not faced as a private operator. The transition from a private Japanese franchise champion to a publicly traded global operator has required new financial reporting, governance structures, and disclosure. Whether the company can maintain the flexibility of the franchise model while meeting the higher compliance and transparency demands of operating across multiple developed and developing jurisdictions remains an open question.
 
 ## How to research SBC Medical Group as an investment
 

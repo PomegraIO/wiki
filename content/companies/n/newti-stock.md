@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-NewtekOne (formerly Newtek Business Services Corp., still trading under NEWT on the NASDAQ) is a financial-services and technology company that provides lending, payment processing, accounting software, and business guidance to small and medium-sized enterprises. Unlike a traditional bank, NewtekOne sells most of its services through a single integrated platform; unlike a software company, it retains significant lending and banking operations. This hybrid structure — part bank, part fintech, part service bureau — is the source of both its defensibility and its complexity.
+NewtekOne (formerly Newtek Business Services Corp., still trading under NEWT on the [NASDAQ](/nasdaq/)) is a financial-services and technology company that provides lending, payment processing, accounting software, and business guidance to small and medium-sized enterprises. Unlike a traditional bank, NewtekOne sells most of its services through a single integrated platform; unlike a software company, it retains significant lending and banking operations. This hybrid structure — part bank, part fintech, part service bureau — is the source of both its defensibility and its complexity.
 
 In 2022, NewtekOne acquired the National Bank of New York City and converted itself into a bank holding company, formalizing a shift that had been underway for years. Today it operates both a national bank subsidiary and a constellation of non-bank subsidiaries, all feeding a shared customer base of independent business owners and small employers.
 
@@ -32,7 +32,7 @@ In 2022, NewtekOne acquired the National Bank of New York City and converted its
 
 NewtekOne's original franchise was SBA lending — originating Small Business Administration guaranteed loans to independent businesses. SBA loans are government-backed, which makes them lower-risk for the lender but also cheaper for the borrower. NewtekOne became known for streamlined underwriting and speed to close, appealing to small-business owners who needed capital quickly.
 
-As a bank holding company, NewtekOne now originates loans across three product lines. First are SBA loans, which remain core to the business and generate interest income plus guarantee fees. Second is portfolio lending — loans held on the bank's own balance sheet, typically shorter-term, for borrowers who do not qualify for or prefer not to pursue the SBA guarantee. Third is secondary market activity: selling originated loans to other lenders or securitizing pools of them, generating origination fees and gains on sale.
+As a bank holding company, NewtekOne now originates loans across three product lines. First are SBA loans, which remain core to the business and generate interest income plus guarantee fees. Second is portfolio lending — loans held on the bank's own [balance sheet](/balance-sheet/), typically shorter-term, for borrowers who do not qualify for or prefer not to pursue the SBA guarantee. Third is [secondary market](/secondary-market/) activity: selling originated loans to other lenders or securitizing pools of them, generating origination fees and gains on sale.
 
 The competitive advantage here is volume and speed. NewtekOne can approve and fund an SBA or portfolio loan faster than a traditional bank because it has built automated underwriting systems and maintains a direct lending channel to its software customers. A business owner already using NewtekOne's accounting or payment platform can apply for a loan without leaving the ecosystem, accelerating the credit decision. This cross-sell dynamic is difficult for competitors to replicate because it requires both lending excellence and a software product that enough small businesses actually use.
 
@@ -58,7 +58,7 @@ The strategic value of the software is not the feature set but the customer data
 
 NewtekOne's revenue comes from all three segments: lending (interest income and fees), payment processing (transaction fees and discounts), and software (subscription revenue). Lending typically contributes the largest share of net income because interest income is high-margin once credit costs are accounted for. Payment processing is high-volume, low-margin. Software is high-margin but smaller in absolute dollars.
 
-Profitability depends on the bank's loan-loss provisions, the efficiency ratio, and the breadth of the customer base. In benign economic environments with low default rates, NewtekOne has reported solid profitability. In downturns, loan losses rise and profitability contracts. The company also depends on maintaining customer growth and utilization — if SMBs cut back on borrowing or payment volume falls, revenue suffers.
+Profitability depends on the bank's loan-loss provisions, the efficiency ratio, and the breadth of the customer base. In benign economic environments with low [default rates](/default-rate/), NewtekOne has reported solid profitability. In downturns, loan losses rise and profitability contracts. The company also depends on maintaining customer growth and utilization — if SMBs cut back on borrowing or payment volume falls, revenue suffers.
 
 ## Integration as strength and constraint
 
@@ -72,4 +72,4 @@ Start with the most recent 10-K filing (SEC CIK 0001587987), which breaks revenu
 
 Pay attention to loan-to-deposit ratios and capital ratios (since NewtekOne is a bank holding company, it must maintain regulatory capital); these determine the maximum lending the company can do with its deposit base. If the company is capital-constrained, growth will be limited. Also monitor the net interest margin (the spread between what the bank earns on loans and what it pays on deposits) — a shrinking margin compresses bank profitability.
 
-Finally, track customer acquisition and retention. NewtekOne's growth depends on acquiring SMB customers and keeping them in the ecosystem. Software churn, lending declines, and payment-processing losses to competitors are all warning signs. The best investors in this stock watch for those trends in the call transcripts and the segment data.
+Finally, track customer [acquisition](/acquisition/) and retention. NewtekOne's growth depends on acquiring SMB customers and keeping them in the ecosystem. Software churn, lending declines, and payment-processing losses to competitors are all warning signs. The best investors in this stock watch for those trends in the call transcripts and the segment data.

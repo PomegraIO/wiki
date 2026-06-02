@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-Eureka Acquisition Corp is a company created to do one thing: raise money from public investors and use it to buy or merge with another business. It is what people call a blank-check company, or SPAC. Think of it like this: someone says, "I want to buy a company, but I don't have the money myself. I'll form a shell company, take it public, pool investor cash, and then use that pool to buy a real operating business." That is the entire idea.
+Eureka [Acquisition](/acquisition/) Corp is a company created to do one thing: raise money from public investors and use it to buy or merge with another business. It is what people call a blank-check company, or SPAC. Think of it like this: someone says, "I want to buy a company, but I don't have the money myself. I'll form a shell company, take it public, pool investor cash, and then use that pool to buy a real operating business." That is the entire idea.
 
-Eureka went public on July 3, 2024. It raised USD 50 million by selling 5 million units on the Nasdaq. Each unit is a package containing one share of Class A stock and one right (a claim on fractional shares if the deal closes). The shares trade under the ticker EURKU as units, EURK as standalone shares, and EURKR as standalone rights.
+Eureka went public on July 3, 2024. It raised USD 50 million by selling 5 million units on the [Nasdaq](/nasdaq/). Each unit is a package containing one share of Class A stock and one right (a claim on fractional shares if the deal closes). The shares trade under the ticker EURKU as units, EURK as standalone shares, and EURKR as standalone rights.
 
 ## Where the money goes
 
@@ -33,7 +33,7 @@ Starting September 12, 2024, the shares and rights separated from the units and 
 
 Eureka raised USD 50 million in gross proceeds. Underwriters kept a fee, and a chunk goes to lawyers and advisors searching for deals. What remains is the net capital available to acquire a target. The trust account is audited quarterly, and the balance is public information available through SEC filings.
 
-The founders put some of their own money in too. This founder capital is at risk only if a business combination closes and the combined company goes bad; founder shares are worthless if no deal is done. This is supposed to align incentives: the founders want the deal to be good, not just done.
+The founders put some of their own money in too. This founder capital is at risk only if a [business combination](/business-combination-purchase/) closes and the combined company goes bad; [founder shares](/founder-shares/) are worthless if no deal is done. This is supposed to align incentives: the founders want the deal to be good, not just done.
 
 ## The calendar and the deadline
 

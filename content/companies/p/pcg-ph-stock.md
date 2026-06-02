@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-PG&E Corp is a utility company. It owns Pacific Gas and Electric—the company that provides natural gas and electricity to roughly 16 million people across northern and central California. When you pay your electric bill or your gas bill, there is a good chance it goes to PG&E.
+PG&E Corp is a utility company. It owns Pacific Gas and Electric—the company that provides [natural gas](/natural-gas/) and electricity to roughly 16 million people across northern and central California. When you pay your electric bill or your gas bill, there is a good chance it goes to PG&E.
 
 The company is a regulated monopoly. That means it is the only supplier in its territory. You cannot switch to a competitor for electricity or gas. In exchange for that monopoly, the government controls how much PG&E can charge. Regulators have to approve every significant price increase.
 
-PCG-PH is a preferred share. It is a type of stock that pays a fixed dividend—a guaranteed payment each quarter. Preferred shares are safer than common stock because they get paid first if something goes wrong. But they are not as safe as a bond because the company does not have to pay them back; it just has to keep paying the dividend.
+PCG-PH is a preferred share. It is a type of stock that pays a fixed [dividend](/dividend/)—a guaranteed payment each quarter. Preferred shares are safer than [common stock](/common-stock/) because they get paid first if something goes wrong. But they are not as safe as a [bond](/bond/) because the company does not have to pay them back; it just has to keep paying the dividend.
 
 <aside class="wiki-infobox">
 <table>
@@ -81,8 +81,8 @@ If you own or are thinking about owning PCG-PH, pay attention to a few things. F
 
 Second, follow regulatory filings with the California Public Utilities Commission. When does the next rate case happen? What does the company ask for? How does the regulator respond? If regulators are approving the company's requests, that is a good sign. If they are denying them or cutting them in half, that is a warning.
 
-Third, track the company's credit rating. If a rating agency downgrades PG&E, that signals the company is getting weaker. A downgrade usually means borrowing costs will rise, which will reduce profits.
+Third, track the company's [credit rating](/credit-rating/). If a rating agency downgrades PG&E, that signals the company is getting weaker. A downgrade usually means borrowing costs will rise, which will reduce profits.
 
 Fourth, watch for any major safety incidents or regulatory backlash. A serious incident could trigger another crisis.
 
-The shares trade on the NASDAQ and other venues at prices set by investors. This account is meant only to explain what the company does, how it makes money, and where the risks lie. No part of this is advice to buy or sell.
+The shares trade on the [NASDAQ](/nasdaq/) and other venues at prices set by investors. This account is meant only to explain what the company does, how it makes money, and where the risks lie. No part of this is advice to buy or sell.

@@ -33,7 +33,7 @@ The business model has a ceiling: transaction-based businesses grow only as fast
 
 ## Competitive landscape and fragmentation
 
-Usio competes against larger processors (First Data, [Global Payments](/gpn-stock/), Fiserv) that serve enterprise and mid-market merchants, pure-play tech competitors (Stripe, Square, PayPal) that offer integrated stacks, and thousands of smaller, regional processors. The market is fragmented, and switching is possible, making pricing power limited. Usio's advantages (if any) come from vertical-specific expertise (serving healthcare or nonprofits particularly well), strong customer service and onboarding, or feature bundles that competitors don't offer.
+Usio competes against larger processors (First Data, Global Payments, Fiserv) that serve enterprise and mid-market merchants, pure-play tech competitors (Stripe, Square, PayPal) that offer integrated stacks, and thousands of smaller, regional processors. The market is fragmented, and switching is possible, making pricing power limited. Usio's advantages (if any) come from vertical-specific expertise (serving healthcare or nonprofits particularly well), strong customer service and onboarding, or feature bundles that competitors don't offer.
 
 ## Watching the key metrics
 

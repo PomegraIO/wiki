@@ -24,7 +24,7 @@ The company offers services across several categories: digital advertising strat
 
 The centerpiece of ONAR's technology offering is Cortex, an AI-powered marketing intelligence platform. Cortex aggregates and analyzes data across acquired agencies to identify patterns, benchmark performance, and deliver actionable recommendations. The platform is meant to let ONAR apply data science and machine learning to client campaigns in ways independent agencies cannot.
 
-The acquisition of Scale Partner in 2024 was specifically intended to strengthen the Cortex platform. Scale Partner brought additional artificial intelligence and technology capabilities, expanding what the platform could do with aggregated agency data.
+The [acquisition](/acquisition/) of Scale Partner in 2024 was specifically intended to strengthen the Cortex platform. Scale Partner brought additional artificial intelligence and technology capabilities, expanding what the platform could do with aggregated agency data.
 
 The theory is that by centralizing data and applying AI analysis, ONAR can help each individual agency make better decisions about ad spend, creative direction, and client strategy. Whether this theory translates to sustained performance improvements depends on the quality of the platform, the ease of integration into client work, and whether agencies and their clients actually adopt the recommendations.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Osprey Polkadot Trust is a closed-end fund structured to hold Polkadot tokens as its core asset, providing investors who prefer traditional brokerage accounts a way to gain exposure to Polkadot without directly purchasing and storing cryptocurrency themselves.
+Osprey Polkadot Trust is a [closed-end fund](/closed-end-fund/) structured to hold Polkadot tokens as its core asset, providing investors who prefer traditional brokerage accounts a way to gain exposure to Polkadot without directly purchasing and storing cryptocurrency themselves.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,17 +26,17 @@ Osprey Polkadot Trust is a closed-end fund structured to hold Polkadot tokens as
 
 ## What the trust holds and why it exists
 
-Osprey Polkadot Trust is a container for holding actual Polkadot tokens. Unlike exchange-traded funds or other mutual funds that use pooled assets and derivatives, this trust simply buys and holds Polkadot directly, similar to how a brick-and-mortar vault might hold gold bars. It trades as a closed-end fund, meaning the number of shares outstanding is fixed — new investors cannot create shares by depositing more tokens, and selling shares does not redeem tokens from the trust. Instead, shares trade on the secondary market at prices set by supply and demand, which can diverge from the value of the underlying tokens.
+Osprey Polkadot Trust is a container for holding actual Polkadot tokens. Unlike exchange-traded funds or other [mutual funds](/mutual-fund/) that use pooled assets and derivatives, this trust simply buys and holds Polkadot directly, similar to how a brick-and-mortar vault might hold gold bars. It trades as a closed-end fund, meaning the number of shares outstanding is fixed — new investors cannot create shares by depositing more tokens, and selling shares does not redeem tokens from the trust. Instead, shares trade on the [secondary market](/secondary-market/) at prices set by supply and demand, which can diverge from the value of the underlying tokens.
 
-The trust structure serves a specific niche: investors who prefer a traditional brokerage account and custodian oversight to the complexities of holding cryptocurrency directly. Rather than opening an account with a digital-asset exchange, managing private keys, and worrying about custody security, an investor can hold ODOT in a standard stock brokerage, seeing it as a line item alongside other securities.
+The trust structure serves a specific niche: investors who prefer a traditional brokerage account and [custodian](/custodian/) oversight to the complexities of holding cryptocurrency directly. Rather than opening an account with a digital-asset exchange, managing private keys, and worrying about custody security, an investor can hold ODOT in a standard stock brokerage, seeing it as a line item alongside other securities.
 
 ## How the trust earns and costs money
 
-Osprey Polkadot Trust does not generate income from the tokens. Instead, it generates a return only if the value of the underlying Polkadot tokens appreciates. The trust charges a management fee to cover the costs of holding and securing the cryptocurrency and the overhead of operating as a registered investment vehicle. Like all closed-end funds, ODOT's share price will fluctuate based on investor demand for the shares themselves; during periods of high demand the shares may trade above the value of the underlying tokens (at a premium), and during periods of low demand they may trade below (at a discount).
+Osprey Polkadot Trust does not generate income from the tokens. Instead, it generates a return only if the value of the underlying Polkadot tokens appreciates. The trust charges a [management fee](/management-fee/) to cover the costs of holding and securing the cryptocurrency and the overhead of operating as a registered investment vehicle. Like all closed-end funds, ODOT's share price will fluctuate based on investor demand for the shares themselves; during periods of high demand the shares may trade above the value of the underlying tokens (at a premium), and during periods of low demand they may trade below (at a discount).
 
 ## Polkadot's role in the broader ecosystem
 
-Polkadot is a blockchain network designed to connect multiple independent chains into a single ecosystem. Unlike blockchains such as Bitcoin or Ethereum, which operate as standalone networks, Polkadot's architecture allows different specialized chains (called parachains) to run in parallel and communicate with each other, all secured by a shared set of validators. The Polkadot token (DOT) is used for staking (securing the network), governance (voting on protocol upgrades), and bonding (acquiring a slot to run a parachain).
+Polkadot is a blockchain network designed to connect multiple independent chains into a single ecosystem. Unlike blockchains such as [Bitcoin](/bitcoin/) or [Ethereum](/ethereum/), which operate as standalone networks, Polkadot's architecture allows different specialized chains (called parachains) to run in parallel and communicate with each other, all secured by a shared set of validators. The Polkadot token (DOT) is used for staking (securing the network), governance (voting on protocol upgrades), and bonding (acquiring a slot to run a parachain).
 
 ## Risks and considerations
 

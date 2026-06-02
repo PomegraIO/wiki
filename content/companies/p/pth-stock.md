@@ -36,7 +36,7 @@ The benefit is that PTH captures the strengths within healthcare without being l
 
 PTH typically holds thirty to fifty healthcare stocks. The mix usually includes:
 
-**Large pharmaceutical companies**—multinational firms with diverse drug portfolios, steady cash flow, and often growing dividend histories.
+**Large pharmaceutical companies**—multinational firms with diverse drug portfolios, steady cash flow, and often growing [dividend](/dividend/) histories.
 
 **Biotech firms**—smaller, more speculative companies developing novel drugs or treatments. These can have enormous upside if a clinical trial succeeds but can also lose fifty per cent overnight if a trial fails.
 
@@ -56,22 +56,22 @@ Over time, if momentum is real, PTH can outpace a static healthcare index. But i
 
 ## Concentration and concentration risk
 
-PTH limits itself to healthcare, so it does not provide diversification into other defensive sectors like utilities or consumer staples. If healthcare valuations compress or if healthcare-specific legislation emerges, PTH will be fully exposed. A broad defensive investor might want healthcare exposure alongside other defensive sectors.
+PTH limits itself to healthcare, so it does not provide [diversification](/diversification/) into other defensive sectors like utilities or consumer staples. If healthcare valuations compress or if healthcare-specific legislation emerges, PTH will be fully exposed. A broad defensive investor might want healthcare exposure alongside other defensive sectors.
 
-Within healthcare, the momentum screen will concentrate in whichever subsegments are currently strongest. If biotech is hot, PTH holds more biotech. If pharma is leading, PTH shifts. This creates a subtle form of concentration risk: the fund is not diversified across healthcare subsectors in fixed proportions but rather tilted toward current favourites.
+Within healthcare, the momentum screen will concentrate in whichever subsegments are currently strongest. If biotech is hot, PTH holds more biotech. If pharma is leading, PTH shifts. This creates a subtle form of [concentration risk](/concentration-risk/): the fund is not diversified across healthcare subsectors in fixed proportions but rather tilted toward current favourites.
 
 ## Costs, turnover, and tax efficiency
 
-PTH trades with solid liquidity and carries a low expense ratio reflecting its rules-based index methodology. The real cost comes from turnover. Because the momentum screen shifts regularly, the fund will have meaningful portfolio turnover—likely in the range of forty to eighty per cent annually, meaning it replaces a large portion of holdings each year.
+PTH trades with solid liquidity and carries a low [expense ratio](/expense-ratio/) reflecting its rules-based index methodology. The real cost comes from turnover. Because the momentum screen shifts regularly, the fund will have meaningful portfolio turnover—likely in the range of forty to eighty per cent annually, meaning it replaces a large portion of holdings each year.
 
 In taxable accounts, this turnover can generate annual capital-gains distributions that offset some of the momentum premium. The fund is more appropriate for tax-deferred accounts or for taxable investors with a high tax bracket willing to tolerate current-year distributions in exchange for the potential outperformance.
 
 ## How to research PTH
 
-Start by reading Invesco's fact sheet and prospectus to understand the momentum calculation. Request the historical holdings list and note the turnover rate; this tells you how actively the screen is rotating and how real the transaction costs are likely to be. Compare PTH's returns to a static healthcare ETF like the Vanguard Health Care ETF over multiple periods—bull markets, bear markets, sideways markets. Ask: in which environments did momentum in healthcare add value? In which did it subtract?
+Start by reading Invesco's fact sheet and prospectus to understand the momentum calculation. Request the historical holdings list and note the turnover rate; this tells you how actively the screen is rotating and how real the transaction costs are likely to be. Compare PTH's returns to a static healthcare ETF like the Vanguard Health Care ETF over multiple periods—[bull markets](/bull-market/), [bear markets](/bear-market/), sideways markets. Ask: in which environments did momentum in healthcare add value? In which did it subtract?
 
 Review the fund's year-to-date top holdings and understand the composition. Are they brand-name multinational pharmas, high-growth biotech names, or a mix? Understanding what the fund currently holds tells you the risk profile at any given moment. Look at the healthcare sector's valuation and momentum. If pharma and biotech are expensive and recently rallied strongly, PTH may be concentrated in overvalued names. If healthcare is cheap and lagging the market, PTH may be a bargain.
 
 ## See also
 
-Healthcare sector, momentum investing, pharmaceutical industry, biotechnology stocks, medical devices, healthcare services, secular growth trends, tactical rotation.
+Healthcare [sector, momentum](/sector-momentum/) investing, pharmaceutical industry, biotechnology stocks, medical devices, healthcare services, secular growth trends, tactical rotation.

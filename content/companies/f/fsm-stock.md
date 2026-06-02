@@ -25,7 +25,7 @@ keywords:
 
 Fortuna's business model is fundamentally extraction-based: the company mines ore containing gold and silver, processes it at on-site or nearby facilities, and sells the recovered metal to refiners or directly into commodity markets. Production volumes and metal recoveries determine gross output; operational costs—including labor, fuel, consumables, and processing—set the baseline expense. The [price-to-earnings-ratio](/price-to-earnings-ratio/) for a mining company, therefore, carries substantial volatility, since it depends on commodity prices that fluctuate independently of management decisions. A mine operating at full efficiency but selling into a weak gold market will nonetheless report lower margins than an identical mine during a bull market. Fortuna's management can control extraction rates, reduce per-ounce processing costs, and optimize which ore bodies to prioritize, but it cannot control the gold spot price.
 
-The company generates revenue in U.S. dollars, making currency movements in its operating jurisdictions a secondary margin driver. When the Argentine peso or Mexican peso weakens, dollar-denominated revenue goes further against peso-denominated labor and supply costs—a natural hedge, but one that introduces foreign exchange volatility into net income.
+The company generates revenue in [U.S. dollars](/us-dollar/), making currency movements in its operating jurisdictions a secondary margin driver. When the Argentine peso or Mexican peso weakens, dollar-denominated revenue goes further against peso-denominated labor and supply costs—a natural hedge, but one that introduces foreign exchange volatility into net income.
 
 ## Geographic Concentration and Operational Leverage
 

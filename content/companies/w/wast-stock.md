@@ -30,9 +30,9 @@ Revenue comes from the sale of the equipment (capital revenue), service contract
 
 The addressable market for waste heat recovery is large in theory. Tens of thousands of industrial facilities worldwide have waste heat. Many would benefit economically from capturing it. But the business model faces real constraints.
 
-First, the market is fragmented. No single facility is large enough to dominate a vendor's business. A waste heat recovery project at a mid-sized refinery might generate one to five million dollars in revenue; a vendor needs many projects to build a scale business. This means sales cycles are long and customer acquisition is expensive.
+First, the market is fragmented. No single facility is large enough to dominate a vendor's business. A waste heat recovery project at a mid-sized refinery might generate one to five million dollars in revenue; a vendor needs many projects to build a scale business. This means sales cycles are long and customer [acquisition](/acquisition/) is expensive.
 
-Second, customers are risk-averse about operational risk. Adding new equipment to an industrial facility introduces the risk of downtime if something fails. A facility manager is naturally cautious about unproven vendors. Waste Energy competes against both established energy-services firms and equipment manufacturers with deeper track records and relationships.
+Second, customers are risk-averse about [operational risk](/operational-risk/). Adding new equipment to an industrial facility introduces the risk of downtime if something fails. A facility manager is naturally cautious about unproven vendors. Waste Energy competes against both established energy-services firms and equipment manufacturers with deeper track records and relationships.
 
 Third, economics vary by location and time. In regions where electricity is cheap, the payback on waste heat capture is longer. In regions where it is expensive, the economics are compelling. Regulatory and tax incentives also matter — if a government offers grants or tax breaks for efficiency, the market heats up; when subsidies shrink, demand cools. This creates business volatility.
 

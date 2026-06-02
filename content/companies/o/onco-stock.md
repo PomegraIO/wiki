@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Onconetix is a small biotech company doing business in urology and oncology. It has two main products: Proclarix, a blood test that diagnoses prostate cancer, and ENTADFI, an FDA-approved pill for enlarged prostate. The company's shares trade on Nasdaq under the ticker ONCO. It was founded in 2018 and is based in Cincinnati, Ohio. The company changed its name from Blue Water Biotech to Onconetix in late 2023 to better reflect its actual business.
+Onconetix is a small biotech company doing business in urology and oncology. It has two main products: Proclarix, a blood test that diagnoses prostate cancer, and ENTADFI, an FDA-approved pill for enlarged prostate. The company's shares trade on [Nasdaq](/nasdaq/) under the ticker ONCO. It was founded in 2018 and is based in Cincinnati, Ohio. The company changed its name from Blue Water Biotech to Onconetix in late 2023 to better reflect its actual business.
 
 ## The prostate cancer test: Proclarix
 

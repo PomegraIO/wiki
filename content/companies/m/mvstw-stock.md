@@ -32,7 +32,7 @@ Revenue comes from selling battery packs and battery systems to vehicle manufact
 
 Microvast's technology strategy centers on fast-charging capabilities and cost reduction. The ability to charge a commercial vehicle quickly—critical for fleet operators who need fast turnarounds—is a competitive advantage. Lower cost per kilowatt-hour is essential because battery cost is a major component of electric vehicle total cost. Advances in chemistry, manufacturing efficiency, and thermal management all contribute to improvement.
 
-The company went public in the United States in 2021 via a special purpose acquisition company (SPAC) merger, gaining access to U.S. capital markets and signaling confidence in the global electrification trend. Post-SPAC, the company has focused on scaling production capacity and expanding customer relationships with major OEMs globally.
+The company went public in the United States in 2021 via a special purpose [acquisition](/acquisition/) company (SPAC) [merger](/merger/), gaining access to U.S. capital markets and signaling confidence in the global electrification trend. Post-SPAC, the company has focused on scaling production capacity and expanding customer relationships with major OEMs globally.
 
 The broader context matters. Government incentives and regulations in Europe, North America, and China mandate transition to electric vehicles, creating huge demand for batteries. At the same time, battery supply chains are increasingly geopolitical—China dominates current battery manufacturing, and the U.S. and Europe are trying to build domestic capacity. Microvast, as a company with Chinese origins and current global operations, sits at the intersection of those dynamics.
 

@@ -42,7 +42,7 @@ The geographic spread matters in downturns. A severe drought in the Midwest redu
 
 ## The service and parts economy
 
-After the initial equipment sale, the dealer makes recurring money from parts and service. A John Deere or Case IH tractor needs maintenance: oil changes, filter replacements, regular service intervals. As equipment ages and wears, farmers need repairs. Service techs at Titan dealerships do this work, charging hourly rates and parts markups that are often richer than equipment margins. This recurring revenue is the ballast that keeps dealers solvent during down cycles. However, it is not immune to the farm cycle either. During downturns, farmers stretch maintenance intervals longer, do more work themselves if they have mechanical skill, and defer repairs until absolutely necessary. Service volume does not collapse as dramatically as equipment sales, but it does contract.
+After the initial equipment sale, the dealer makes recurring money from parts and service. A John [Deere](/de-stock/) or Case IH tractor needs maintenance: oil changes, filter replacements, regular service intervals. As equipment ages and wears, farmers need repairs. Service techs at Titan dealerships do this work, charging hourly rates and parts markups that are often richer than equipment margins. This recurring revenue is the ballast that keeps dealers solvent during down cycles. However, it is not immune to the farm cycle either. During downturns, farmers stretch maintenance intervals longer, do more work themselves if they have mechanical skill, and defer repairs until absolutely necessary. Service volume does not collapse as dramatically as equipment sales, but it does contract.
 
 ## How the cycle plays out
 

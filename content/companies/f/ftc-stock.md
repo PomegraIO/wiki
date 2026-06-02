@@ -36,20 +36,20 @@ This methodology was developed at a time when the technology and growth sectors 
 
 ## Sector and thematic composition
 
-Because AlphaDEX favours profitable growth with financial strength, the portfolio is heavily tilted toward established technology, healthcare, and consumer discretionary firms that generate strong cash flow and maintain conservative balance sheets. It is underweighted to unprofitable or speculative growth names, including early-stage software, biotechnology, and other high-cash-burn segments that occasionally dominate growth index performance.
+Because AlphaDEX favours profitable growth with financial strength, the portfolio is heavily tilted toward established technology, healthcare, and consumer discretionary firms that generate strong cash flow and maintain conservative [balance sheets](/balance-sheet/). It is underweighted to unprofitable or speculative growth names, including early-stage software, biotechnology, and other high-cash-burn segments that occasionally dominate growth index performance.
 
 The fund's sector allocation and individual holdings shift based on how companies are scoring at any given time, but the philosophy remains constant: quality-tilted growth rather than momentum chasing. This positioning has meant FTC historically outperforms during periods when the market discounts valuation and prefers profitable firms, and underperforms during speculative rallies in unprofitable, high-momentum growth stocks.
 
 ## Costs and liquidity
 
-FTC trades on the NASDAQ with solid daily volume and reasonable bid-ask spreads, making it accessible to both retail and institutional investors. The expense ratio is reasonable for an actively screened, methodologically complex fund. Compared to a fully passive Russell 1000 Growth Index ETF, FTC costs more, but compared to traditional actively managed growth mutual funds, it is economical.
+FTC trades on the [NASDAQ](/nasdaq/) with solid daily volume and reasonable [bid-ask spreads](/bid-ask-spread/), making it accessible to both retail and institutional investors. The [expense ratio](/expense-ratio/) is reasonable for an actively screened, methodologically complex fund. Compared to a fully passive Russell 1000 Growth Index ETF, FTC costs more, but compared to traditional actively managed growth [mutual funds](/mutual-fund/), it is economical.
 
 ## The growth-value value proposition
 
-The fundamental bet underlying FTC is that an investor can do better by blending growth and value disciplines than by pure-play growth. This has proven true in some eras and false in others. During the 2000s, FTC benefited from the market's return to profitability and value discipline after the dot-com bubble. During 2020–2021, unprofitable technology stocks surged and FTC lagged. The fund's performance depends entirely on whether the market is currently rewarding or penalizing growth at reasonable valuations.
+The fundamental bet underlying FTC is that an investor can do better by blending growth and value disciplines than by pure-play growth. This has proven true in some eras and false in others. During the 2000s, FTC benefited from the market's return to profitability and value discipline after the [dot-com bubble](/dot-com-bubble/). During 2020–2021, unprofitable technology stocks surged and FTC lagged. The fund's performance depends entirely on whether the market is currently rewarding or penalizing growth at reasonable valuations.
 
 ## Risks and evaluation
 
 FTC is not immune from general growth-stock risk: if the economy slows and growth companies' earnings forecasts fall, the fund will decline alongside other growth portfolios. The AlphaDEX screen also carries its own blindspot risk — the methodology may systematically undervalue certain types of competitive advantage or may be slow to identify new growth themes that don't fit traditional profitability metrics.
 
-Investors evaluating FTC should examine its performance relative to a simple passive Russell 1000 Growth ETF over full market cycles, compare its sector and valuation characteristics to understand exactly where it differs, and review the prospectus to grasp the AlphaDEX scoring model. Historical drawdowns during growth downturns will show whether the quality overlay meaningfully reduced losses.
+Investors evaluating FTC should examine its performance relative to a simple passive Russell 1000 [Growth ETF](/growth-etf/) over full market cycles, compare its sector and valuation characteristics to understand exactly where it differs, and review the prospectus to grasp the AlphaDEX scoring model. Historical drawdowns during growth downturns will show whether the quality overlay meaningfully reduced losses.

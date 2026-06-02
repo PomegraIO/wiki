@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-RILYT is a debt note. It is basically a loan that BRC Group Holdings borrowed, and it promised to pay back in 2028. The interest rate is 6.00% per year. When you own RILYT, you own a piece of that promise.
+RILYT is a debt note. It is basically a loan that BRC Group Holdings borrowed, and it promised to pay back in 2028. The [interest rate](/interest-rate/) is 6.00% per year. When you own RILYT, you own a piece of that promise.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,7 +33,7 @@ The risk is simple: if the company runs out of cash and cannot pay, you lose. If
 
 BRC Group Holdings is not one simple business. It runs several different businesses and hopes that together they make enough money to cover the interest payments on all the debt.
 
-The biggest and most profitable part is financial services. BRC has a team that does investment banking (helping companies buy or sell each other), offers wealth management to rich people (managing their money for fees), and lends money directly to mid-sized companies. When the stock market is doing well and companies are buying or selling, this part makes a lot of money. When the market is flat or down, it makes less.
+The biggest and most profitable part is financial services. BRC has a team that does investment banking (helping companies buy or sell each other), offers wealth management to rich people (managing their money for fees), and lends money directly to mid-sized companies. When the [stock market](/stock-market/) is doing well and companies are buying or selling, this part makes a lot of money. When the market is flat or down, it makes less.
 
 BRC also owns some old telephone companies. Lingo sells broadband and old-fashioned phone service. MagicJack sells phone service on the internet instead of a regular phone line. Credo Mobile (part of Marconi Wireless) sells cell phone service. NetZero and Juno are very old services — dial-up internet and email — that barely anyone uses anymore but still make a tiny bit of money from people who have not switched away. These telephone and internet services are not growing and probably never will again. But they still generate cash because people stay with them out of habit.
 
@@ -43,7 +43,7 @@ There is also a small part that makes laptop cases and tablet accessories and se
 
 To pay interest on RILYT, BRC needs cash to flow in from its businesses. From the financial services side, cash comes in as fees and profits on loans. From the old telephone businesses, cash comes in as monthly subscription payments from customers who renew automatically. From consumer products, cash comes in from selling cases and accessories.
 
-When times are good, all three generate enough cash to cover the interest and still have money left over. When times are bad (like a recession), the financial services side dries up fast because nobody does deals and stocks go down. The telephone services stay relatively stable because they are recurring, but the consumer products part might slow down if people cut back on discretionary spending. The question is whether the total cash flow is enough.
+When times are good, all three generate enough cash to cover the interest and still have money left over. When times are bad (like a [recession](/recession/)), the financial services side dries up fast because nobody does deals and stocks go down. The telephone services stay relatively stable because they are recurring, but the consumer products part might slow down if people cut back on [discretionary spending](/discretionary-spending/). The question is whether the total cash flow is enough.
 
 ## The debt maturity date
 
@@ -53,7 +53,7 @@ Since 2028 is not that far away, anyone holding RILYT right now needs to think: 
 
 ## What to look at
 
-If you want to understand whether RILYT is a safe bet, look at BRC's annual 10-K filing (you can find it by SEC CIK 0001464790). Check three things: First, how much cash did the company actually generate last year from running the businesses? Second, how much money did it owe in total (all debt and preferred dividends)? Third, is the amount of cash coming in clearly bigger than the amount going out to creditors and shareholders?
+If you want to understand whether RILYT is a safe bet, look at BRC's annual 10-K filing (you can find it by SEC CIK 0001464790). Check three things: First, how much cash did the company actually generate last year from running the businesses? Second, how much money did it owe in total (all debt and preferred [dividends](/dividend/))? Third, is the amount of cash coming in clearly bigger than the amount going out to creditors and shareholders?
 
 Also look at trends. Is the financial services business growing or shrinking? Are the old telephone businesses declining faster than expected? How many customers are using the legacy services? Is management investing in new opportunities or just harvesting old businesses?
 

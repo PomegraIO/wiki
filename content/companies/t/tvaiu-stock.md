@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-When a SPAC raises money, it often sells units instead of plain shares. A unit is a package deal: you get a share of the company plus a warrant — a right to buy additional shares later at a predetermined price. Thayer Ventures Acquisition Corp II (NASDAQ: TVAIU) is one such unit. Understanding units means understanding how SPACs are structured and why they matter to investors.
+When a SPAC raises money, it often sells units instead of plain shares. A unit is a package deal: you get a share of the company plus a warrant — a right to buy additional shares later at a predetermined price. [Thayer Ventures Acquisition Corp II](/tvai-stock/) ([NASDAQ](/nasdaq/): TVAIU) is one such unit. Understanding units means understanding how SPACs are structured and why they matter to investors.
 
 <aside class="wiki-infobox">
 <table>
@@ -25,15 +25,15 @@ When a SPAC raises money, it often sells units instead of plain shares. A unit i
 
 ## What is a unit?
 
-A unit is a bundle. When you buy one TVAIU unit, you own one share of Thayer Ventures stock plus one warrant. The warrant is a ticket: it lets you buy one more share of Thayer Ventures at a strike price (the set price you'll pay if you exercise it) sometime in the future.
+A unit is a bundle. When you buy one TVAIU unit, you own one share of Thayer Ventures stock plus one warrant. The warrant is a ticket: it lets you buy one more share of Thayer Ventures at a [strike price](/strike-price/) (the set price you'll pay if you exercise it) sometime in the future.
 
 The warrant part matters because it gives you leverage. If Thayer Ventures merges with a private company and that combined business does well, the stock price rises. When it does, your warrant becomes valuable — you can exercise it, pay the strike price, and own an extra share at a discount to what you could buy on the market. If the stock stays flat or falls, the warrant might expire worthless and you lose nothing beyond the warrant itself.
 
-SPACs use units to make their offerings more attractive. Instead of asking you to bet on a shell company for a few years with no guarantee of return, they give you the stock plus a leveraged ticket on the future merger. That sweetens the deal.
+SPACs use units to make their offerings more attractive. Instead of asking you to bet on a shell company for a few years with no guarantee of return, they give you the stock plus a leveraged ticket on the future [merger](/merger/). That sweetens the deal.
 
 ## How units separate after listing
 
-Units typically trade for a short period after the SPAC's IPO. Then the exchange allows them to split: the share and warrant separate into their own tickers. The common stock trades under one symbol (often the SPAC's main ticker), and the warrant gets its own ticker, usually with a W suffix.
+Units typically trade for a short period after the SPAC's IPO. Then the exchange allows them to split: the share and warrant separate into their own tickers. The [common stock](/common-stock/) trades under one symbol (often the SPAC's main ticker), and the warrant gets its own ticker, usually with a W suffix.
 
 This separation means TVAIU itself has a limited lifetime. Once the split happens, you'll hold the shares and warrants separately. You can then hold them together, sell the shares, sell the warrants, or let them trade independently. If a merger is announced and closes, the units fully dissolve into the new company's securities.
 
@@ -45,7 +45,7 @@ The trade-off is cost. A unit is more expensive than a single share would be on 
 
 ## Risks of SPAC units
 
-SPAC warrants expire. If Thayer Ventures doesn't complete a merger before the warrant expiration date, the warrants die and you get nothing from them. That risk clock is always running. Additionally, if the company merges at a low valuation or with a poor-quality target, the warrant could be underwater (out of the money) on the strike price from day one.
+SPAC warrants expire. If Thayer Ventures doesn't complete a merger before the warrant [expiration date](/expiration-date/), the warrants die and you get nothing from them. That risk clock is always running. Additionally, if the company merges at a low valuation or with a poor-quality target, the warrant could be underwater (out of the money) on the strike price from day one.
 
 Warrants also have dilutive power. When many warrant holders exercise all at once, they create a flood of new shares, which can pressure the stock price and dilute existing shareholders. Investors in units need to think through the warrant's terms carefully — how long it lasts, what the strike price is, what happens if a merger is approved but the stock drops.
 

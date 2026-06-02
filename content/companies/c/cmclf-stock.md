@@ -49,7 +49,7 @@ The business has never pivoted to become an industrial conglomerate or a technol
 
 Like most major miners, China Molybdenum funds growth and [acquisitions](/acquisition/) through a mix of operating cash flow, debt, and occasional equity raises. During boom periods, the company may return cash to shareholders via [dividends](/dividend/), though commodity price volatility makes dividend policy discretionary. More recently, the company has faced pressure to return capital and simplify its balance sheet amid concerns about commodity prices and the macroeconomic drag from China's real estate sector.
 
-For investors evaluating China Molybdenum, the key research anchors are its [10-K filings](/10-k/) with the [Securities and Exchange Commission](/securities-and-exchange-commission/), which detail reserve locations, extraction costs, hedging policies, and [leverage ratios](/leverage-ratio-forex/). The company's fortunes turn on commodity prices, geopolitical stability in its operating regions, and the structural health of Chinese and [global industrial](/gic-stock/) demand.
+For investors evaluating China Molybdenum, the key research anchors are its [10-K filings](/10-k/) with the [Securities and Exchange Commission](/securities-and-exchange-commission/), which detail reserve locations, extraction costs, hedging policies, and [leverage ratios](/leverage-ratio-forex/). The company's fortunes turn on commodity prices, geopolitical stability in its operating regions, and the structural health of Chinese and global industrial demand.
 
 <div class="wiki-seealso">
 

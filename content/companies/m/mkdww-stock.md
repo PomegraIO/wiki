@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-MKDWELL Tech Inc. traces its origins to Hsinchu Science Park in Taiwan, where it was founded by engineers with deep automotive electronics backgrounds who recognized an opportunity in the gap between traditional automotive electromechanical systems and the emerging demand for intelligent vehicle control. The company's evolution from a design-focused startup toward a manufactur­ing-and-export operation reflects both Taiwan's role as a global semiconductor and electronics hub and the gravitational pull of mainland China's lower labor costs for high-volume production.
+[MKDWELL Tech](/mkdw-stock/) Inc. traces its origins to Hsinchu Science Park in Taiwan, where it was founded by engineers with deep automotive electronics backgrounds who recognized an opportunity in the gap between traditional automotive electromechanical systems and the emerging demand for intelligent vehicle control. The company's evolution from a design-focused startup toward a manufactur­ing-and-export operation reflects both Taiwan's role as a global semiconductor and electronics hub and the gravitational pull of mainland China's lower labor costs for high-volume production.
 
 ## The Hsinchu Beginning: Design and Specialization
 
@@ -37,9 +37,9 @@ The risk profile of this structure is well-established: manufacturing concentrat
 
 ## The SPAC Merger and Public-Market Entry
 
-MKDWELL operated as a private company through the early 2020s, building revenue through direct sales to RV manufacturers, logistics companies, and aftermarket installers. In 2024, the company merged with Cetus Capital Acquisition Corp., a SPAC, to become a public company on the Nasdaq. The merger provided MKDWELL with capital for expansion, access to public equity for acquisitions or investments, and the visibility and credibility that public-company status carries in B2B supply chains.
+MKDWELL operated as a private company through the early 2020s, building revenue through direct sales to RV manufacturers, logistics companies, and aftermarket installers. In 2024, the company merged with Cetus Capital [Acquisition](/acquisition/) Corp., a SPAC, to become a public company on the [Nasdaq](/nasdaq/). The [merger](/merger/) provided MKDWELL with capital for expansion, access to public equity for acquisitions or investments, and the visibility and credibility that public-company status carries in B2B supply chains.
 
-The SPAC merger in mid-2024 marked a shift in operational scale and reporting requirements. As a private company, MKDWELL could grow at whatever pace internal cash generation and private funding allowed. As a public company, it faced quarterly earnings reporting, public-analyst scrutiny, and equity dilution if future capital needs required secondary offerings. The merger also provided existing shareholders (particularly the founding engineers and early investors) with liquidity and upside participation in the company's growth.
+The SPAC merger in mid-2024 marked a shift in operational scale and reporting requirements. As a private company, MKDWELL could grow at whatever pace internal cash generation and private funding allowed. As a public company, it faced quarterly earnings reporting, public-analyst scrutiny, and equity dilution if future capital needs required [secondary offerings](/secondary-offering/). The merger also provided existing shareholders (particularly the founding engineers and early investors) with liquidity and upside participation in the company's growth.
 
 ## Product Evolution: From RVs to Broader Vehicle Categories
 
@@ -59,7 +59,7 @@ MKDWELL operates as a dual-geography business: Hsinchu design and engineering ce
 
 The company faces structural pressures common to Taiwan-based electronics manufacturers. Chinese labor costs have risen steadily since the 2010s, eroding the initial cost advantage of manufacturing in Jiaxing. Geopolitical tension around Taiwan creates ongoing uncertainty about supply-chain resilience and access to critical materials. Competition in automotive electronics comes from established tier-one suppliers (Bosch, Continental, Delphi) and from lower-cost Chinese electronics companies. MKDWELL's differentiation rests on engineering quality, LiDAR capability, and the ability to customize systems for specific vehicle categories—sources of competitive advantage that are defensible but not unassailable.
 
-The public-company status provides capital and credibility but also subjects the company to quarterly performance expectations and analyst coverage that can amplify volatility during downturns. The geographic diversification into agricultural machinery may help offset cyclical swings in automotive demand, but it also pulls management attention and engineering resources toward a new industry with different customer relationships and regulatory requirements.
+The public-company status provides capital and credibility but also subjects the company to quarterly performance expectations and analyst coverage that can amplify volatility during downturns. The geographic [diversification](/diversification/) into agricultural machinery may help offset cyclical swings in automotive demand, but it also pulls management attention and engineering resources toward a new industry with different customer relationships and regulatory requirements.
 
 ## Research and Future Watch Points
 

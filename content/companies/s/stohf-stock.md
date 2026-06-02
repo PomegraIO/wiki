@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Equinor, headquartered in Stavanger, Norway, is one of Europe's largest oil and gas companies. The firm emerged from the merger of Statoil and Norsk Hydro's oil and gas business in 2007, though its roots run back to Norway's discovery of North Sea oil in the 1960s. What shaped Equinor fundamentally was the decision in 2018 to rebrand itself and pivot toward renewable energy — a radical shift for a traditional energy giant, and one that defines its strategic direction today.
+Equinor, headquartered in Stavanger, Norway, is one of Europe's largest oil and gas companies. The firm emerged from the [merger](/merger/) of Statoil and Norsk Hydro's oil and gas business in 2007, though its roots run back to Norway's discovery of North Sea oil in the 1960s. What shaped Equinor fundamentally was the decision in 2018 to rebrand itself and pivot toward renewable energy — a radical shift for a traditional energy giant, and one that defines its strategic direction today.
 
 ## The Arctic legacy
 
@@ -33,7 +33,7 @@ But the Arctic holds another legacy: environmental vulnerability. Operating ther
 
 ## The 2018 pivot: becoming "Equinor"
 
-In 2018, Statoil renamed itself Equinor and announced a sweeping strategic reorientation. The firm committed to becoming a renewable energy company in addition to an oil and gas producer. This was not a gradual diversification; it was a public declaration that Equinor would build a significant business in wind power and other clean energy, with the goal of deriving a meaningful share of earnings from renewables by the 2030s.
+In 2018, Statoil renamed itself Equinor and announced a sweeping strategic reorientation. The firm committed to becoming a renewable energy company in addition to an oil and gas producer. This was not a gradual [diversification](/diversification/); it was a public declaration that Equinor would build a significant business in wind power and other clean energy, with the goal of deriving a meaningful share of earnings from renewables by the 2030s.
 
 The decision reflected several pressures and opportunities. First, Norway's government, which owns most of Equinor, was increasingly uncomfortable with being seen as dependent on fossil fuels. Second, the energy transition was accelerating: capital was flowing toward renewables, regulatory frameworks were tightening around carbon, and Equinor's management saw the handwriting on the wall. Third, and pragmatically, Equinor already had substantial capital, operational expertise, and an energy infrastructure that could be redeployed toward wind and hydroelectric projects. The company owned or had access to offshore locations, supply chains, and technical talent that could be brought to bear on wind development.
 
@@ -49,7 +49,7 @@ The transition is not seamless. Equinor must simultaneously manage the decline o
 
 ## The state-ownership question
 
-Like Petrobras and other national champions, Equinor is majority state-owned. Norway holds roughly 67 percent of the shares, with the remainder in public markets. That ownership structure gives the Norwegian state influence over strategy, dividend policy, and the pace of the energy transition. The state also benefits financially from Equinor's cash flow, which helps fund the Norwegian sovereign wealth fund — one of the world's largest.
+Like Petrobras and other national champions, Equinor is majority state-owned. Norway holds roughly 67 percent of the shares, with the remainder in public markets. That ownership structure gives the Norwegian state influence over strategy, [dividend](/dividend/) policy, and the pace of the energy transition. The state also benefits financially from Equinor's cash flow, which helps fund the Norwegian sovereign wealth fund — one of the world's largest.
 
 Norwegian governance, however, is generally competent and stable. The state has not typically meddled in management appointments or day-to-day operations the way some governments do. That has allowed Equinor to operate relatively professionally. But the reality remains that strategic decisions — like how aggressively to push the renewable transition, where to invest capital, what dividend to pay — are ultimately beholden to the political interests of Norway.
 
@@ -63,7 +63,7 @@ This creates conflicting pressures. The company needs to generate cash and retur
 
 ## What to watch
 
-For investors tracking Equinor, the key metrics are traditional: production volumes, cost per barrel, cash generation, and capital expenditure. But increasingly important are the renewable energy growth metrics: megawatts of capacity under development, cost to build new wind farms, and operating margins in that business. The firm's 10-K filing (SEC CIK 0001140625) breaks out these segments and provides visibility into the strategic portfolio.
+For investors tracking Equinor, the key metrics are traditional: production volumes, cost per barrel, cash generation, and capital expenditure. But increasingly important are the renewable energy growth metrics: megawatts of capacity under development, cost to build new wind farms, and [operating margins](/operating-margin/) in that business. The firm's 10-K filing (SEC CIK 0001140625) breaks out these segments and provides visibility into the strategic portfolio.
 
 Watch also the company's carbon footprint and its stated targets for emissions reductions. That is not sentimental — regulators and investors are increasingly pricing in carbon liability, and Equinor's ability to reduce emissions matters to its future valuations.
 

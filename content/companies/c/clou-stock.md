@@ -27,7 +27,7 @@ handwritten: true
 
 ## Cloud platforms: the foundation
 
-The largest cloud platforms—Amazon Web Services, Microsoft Azure, Google Cloud Platform—form the fund's foundation. These are subsidiaries or divisions of larger parent companies (Amazon, Microsoft, Google) but represent enormous, growing business units with direct cloud exposure. They operate data centers, provide core computing and storage services, and set the pricing and architecture that the rest of the ecosystem builds around.
+The largest cloud platforms—Amazon Web Services, [Microsoft](/msft-stock/) Azure, Google Cloud Platform—form the fund's foundation. These are subsidiaries or divisions of larger parent companies (Amazon, Microsoft, Google) but represent enormous, growing business units with direct cloud exposure. They operate data centers, provide core computing and storage services, and set the pricing and architecture that the rest of the ecosystem builds around.
 
 These platforms have strong competitive moats rooted in scale, switching costs, and their integrations with complementary services. They also have pricing power; once a customer has migrated workloads to a platform, the cost of switching is high. The largest platforms are not going away, but their growth rates are matturing as they reach saturation in large-enterprise markets.
 
@@ -43,15 +43,15 @@ Software vendors have rewritten their products as cloud-native applications that
 
 The appeal is shifting economics: instead of large upfront license fees, vendors charge recurring subscription fees based on usage or headcount, creating recurring revenue. The payoff is more predictable, but the model also creates customer churn risk if a competitor's offering improves.
 
-Database companies occupy their own segment. Traditional enterprise databases (Oracle, SQL Server) are being supplemented or replaced by cloud-optimized databases—some designed for particular use cases like analytics, time-series data, or real-time applications. These vendors benefit directly from cloud adoption because their products are purpose-built for cloud workloads.
+Database companies occupy their own segment. Traditional enterprise databases ([Oracle](/orcl-stock/), SQL Server) are being supplemented or replaced by cloud-optimized databases—some designed for particular use cases like analytics, time-series data, or real-time applications. These vendors benefit directly from cloud adoption because their products are purpose-built for cloud workloads.
 
 ## Security, networking, and data services
 
-As enterprises move workloads to the cloud, security becomes more complex. Attackers target cloud applications; data must be encrypted in transit and at rest; access control must be granular. Security vendors build products specifically for cloud environments—cloud access security brokers, data loss prevention, identity and access management, threat detection.
+As enterprises move workloads to the cloud, security becomes more complex. Attackers target cloud applications; data must be encrypted in transit and at rest; access control must be granular. Security vendors build products specifically for cloud environments—cloud access security [brokers](/broker/), data loss prevention, identity and access management, threat detection.
 
 Networking vendors provide connectivity, load balancing, content delivery, and network security. Data-service vendors provide analytics, data warehousing, machine-learning platforms, and data pipelines that help customers extract value from cloud-hosted data.
 
-These segments are more specialized and often have smaller market capitalizations than the platforms or application vendors, but they are essential to making cloud architectures function at scale.
+These segments are more specialized and often have smaller [market capitalizations](/market-capitalization/) than the platforms or application vendors, but they are essential to making cloud architectures function at scale.
 
 ## Management approach and active selection
 
@@ -79,10 +79,10 @@ Economic cyclicality varies by vendor. Infrastructure-software providers may wea
 
 Start with Global X's prospectus and fact sheet, which list current holdings and define the criteria for cloud exposure. The holdings reveal the manager's view of the cloud ecosystem's structure.
 
-Research major holdings via annual reports and earnings transcripts to understand their specific cloud exposure, growth rates, and competitive positioning within their segment. Understand how each vendor fits into the larger ecosystem: are they enabling workload migration, or are they selling to customers already in the cloud?
+Research major holdings via [annual reports](/10-k/) and earnings transcripts to understand their specific cloud exposure, growth rates, and competitive positioning within their segment. Understand how each vendor fits into the larger ecosystem: are they enabling workload migration, or are they selling to customers already in the cloud?
 
 Follow technology analyst commentary on cloud adoption rates, enterprise spending patterns, shifts in competitive positioning among platforms, and the emergence of new cloud use cases. These macro factors affect the entire portfolio.
 
 Monitor earnings calls from large cloud platforms to track usage trends, pricing changes, and new service launches. These shape the opportunities and competitive dynamics for the entire ecosystem.
 
-CLOU trades on NASDAQ and is suitable for investors with conviction about cloud computing's structural importance in enterprise technology and who want ecosystem-level exposure across segments without researching individual vendors.
+CLOU trades on [NASDAQ](/nasdaq/) and is suitable for investors with conviction about cloud computing's structural importance in enterprise technology and who want ecosystem-level exposure across segments without researching individual vendors.

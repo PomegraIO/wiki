@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Beneficient solves a real problem for rich people: you own a stake in a private equity fund or a collectible, but you need cash, and you don't want to sell. The company's main product is AltAccess, a platform that lets you borrow against illiquid assets you hold — private company shares, secondary fund positions, art — without having to liquidate them. The firm went public in June 2023 after a merger and trades on the Nasdaq under the symbol BENF (the BENFW ticker is for warrants). It is based in Dallas.
+Beneficient solves a real problem for rich people: you own a stake in a [private equity fund](/private-equity-fund/) or a collectible, but you need cash, and you don't want to sell. The company's main product is AltAccess, a platform that lets you borrow against illiquid assets you hold — private company shares, secondary fund positions, art — without having to liquidate them. The firm went public in June 2023 after a [merger](/merger/) and trades on the [Nasdaq](/nasdaq/) under the symbol BENF (the BENFW ticker is for warrants). It is based in Dallas.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ Beneficient solves a real problem for rich people: you own a stake in a private 
 
 Most of the real wealth in the world is locked in things that can't be quickly turned into cash. You own two percent of a private company with no public shares. You own art or a rare wine collection. You own a slice of a private equity fund that won't pay out for three more years. The standard answer to "I need cash" is to sell the asset. But selling often means accepting a steep discount, paying transaction costs, and losing whatever upside comes later.
 
-Beneficient's pitch is simpler: don't sell. The company lends you money against the value of what you own. You stay the owner. You get the liquidity. The company takes the credit risk and charges interest.
+Beneficient's pitch is simpler: don't sell. The company lends you money against the value of what you own. You stay the owner. You get the liquidity. The company takes the [credit risk](/credit-risk/) and charges interest.
 
 The AltAccess platform is the operating core. It bundles several connected tools: AltQuote (quick valuation of illiquid holdings), AltLiquidity (the borrowing facility itself), AltCustody (safeguarding the assets that back the loan), AltTrading (secondary-market transactions for illiquid holdings), and AltData (analytics on alternative-asset portfolios). The company also runs Ben Custody (trust and custodial services for alternative-asset holders) and Ben Markets (brokerage and transfer agency operations).
 
@@ -47,9 +47,9 @@ The vulnerability is concentration. The client base is wealthy individuals and i
 
 The addressable market is as large as the world's illiquid alternative assets — many trillions — but Beneficient is tiny relative to that. The real constraint is regulatory: lending is a capital-intensive business that requires banking licences and compliance oversight. Beneficient has partnered with legacy banks to originate loans, rather than taking the balance-sheet risk itself, which keeps capital requirements low but also caps what the firm can scale.
 
-Illiquid-asset lending is counter-cyclical. When economies are strong and asset values are rising, wealthy clients feel flush and borrow less. Downturns make them desperate for cash and willing to accept loan terms. A recession or a broad decline in alternative-asset valuations could spike demand for Beneficient's product, but it would also increase default risk on the underlying collateral.
+Illiquid-asset lending is counter-cyclical. When economies are strong and asset values are rising, wealthy clients feel flush and borrow less. Downturns make them desperate for cash and willing to accept loan terms. A [recession](/recession/) or a broad decline in alternative-asset valuations could spike demand for Beneficient's product, but it would also increase default risk on the underlying collateral.
 
-The competitive threat comes not from other fintechs but from traditional wealth managers and banks. Firms like Goldman Sachs or Blackstone have relationship pull and balance-sheet capacity that Beneficient cannot match. If the alternative-asset lending space becomes seen as a core product for legacy wealth managers, that's a much slower path to profitability for a smaller newcomer.
+The competitive threat comes not from other fintechs but from traditional wealth managers and banks. Firms like [Goldman Sachs](/goldman-sachs/) or Blackstone have relationship pull and balance-sheet capacity that Beneficient cannot match. If the alternative-asset lending space becomes seen as a core product for legacy wealth managers, that's a much slower path to profitability for a smaller newcomer.
 
 ## How to research Beneficient
 

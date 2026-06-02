@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Brookstone Active ETF (BAMA) is an actively managed fund that departs from the index-following orthodoxy by giving its portfolio managers discretion to buy and sell individual stocks within the large-cap universe. Rather than holding all 500 stocks in the S&P 500 in fixed weights, BAMA's managers construct a more concentrated portfolio of names they believe offer better value or stronger growth prospects, aiming to outperform a broad market benchmark. The fund trades intraday like any ETF but functions as a traditional active mutual fund: you are betting on the skill of the managers, not on the market's performance.
+Brookstone [Active ETF](/active-etf/) (BAMA) is an [actively managed fund](/actively-managed-fund/) that departs from the index-following orthodoxy by giving its portfolio managers discretion to buy and sell individual stocks within the large-cap universe. Rather than holding all 500 stocks in the S&P 500 in fixed weights, BAMA's managers construct a more concentrated portfolio of names they believe offer better value or stronger growth prospects, aiming to outperform a broad market benchmark. The fund trades intraday like any ETF but functions as a traditional active [mutual fund](/mutual-fund/): you are betting on the skill of the managers, not on the market's performance.
 
 > "Active management in ETF wrapper" — a structure that trades, but not a structure that guarantees a different outcome.
 
@@ -24,25 +24,25 @@ The fund's structure is an ETF, which means it trades on an exchange like a stoc
 
 A typical actively managed large-cap fund holds 40 to 100 stocks — fewer than a broad index, which captures the idea that the managers have strong opinions. BAMA's exact holding count is set out in its factsheet, but the principle is the same: fewer names mean bigger bets on the ideas the managers trust most, and bigger bets mean larger potential outperformance — or underperformance — versus the index.
 
-Concentration is a double-edged sword. If the managers pick well, holding 50 winners beats holding 500 stocks where many are mediocre. If they pick poorly, a 50-stock portfolio has no safety net. The index fund wins by accident in bad times because it owns everything and cannot be too wrong about any one name. BAMA wins only if its managers are right more often than not.
+Concentration is a double-edged sword. If the managers pick well, holding 50 winners beats holding 500 stocks where many are mediocre. If they pick poorly, a 50-stock portfolio has no safety net. The [index fund](/index-fund/) wins by accident in bad times because it owns everything and cannot be too wrong about any one name. BAMA wins only if its managers are right more often than not.
 
 ## What makes BAMA different from a mutual fund
 
-The ETF structure is not a gimmick. Unlike a traditional mutual fund, BAMA can be bought and sold intraday on an exchange, and the price floats with supply and demand during the trading day. A mutual fund is priced once per day at the close. BAMA is priced continuously. For active traders or financial advisors managing client portfolios, the intraday liquidity matters. For long-term buy-and-hold investors, it is largely irrelevant.
+The ETF structure is not a gimmick. Unlike a traditional mutual fund, BAMA can be bought and sold intraday on an exchange, and the price floats with supply and demand during the trading day. A mutual fund is priced once per day at the close. BAMA is priced continuously. For active traders or financial advisors managing client portfolios, the [intraday liquidity](/intraday-liquidity/) matters. For long-term buy-and-hold investors, it is largely irrelevant.
 
-A second practical difference is the fee structure. Active ETFs often charge lower expense ratios than their mutual fund cousins because they avoid the fixed costs of daily flows, which mutual funds face. Brookstone, as the issuer, sets the cost depending on how much it spends on research, portfolio management, and trading — and the exact ratio appears in the prospectus.
+A second practical difference is the fee structure. Active ETFs often charge lower [expense ratios](/expense-ratio/) than their mutual fund cousins because they avoid the fixed costs of daily flows, which mutual funds face. Brookstone, as the issuer, sets the cost depending on how much it spends on research, portfolio management, and trading — and the exact ratio appears in the prospectus.
 
 ## Where BAMA sits in the landscape
 
-BAMA is part of a broader category of actively managed ETFs that have grown over the past decade as more managers have moved into the ETF wrapper, seeking lower costs and better liquidity than the traditional mutual fund structure offered. It competes directly with actively managed mutual funds in the same space and, indirectly, with passive index ETFs that offer broader diversification and lower fees.
+BAMA is part of a broader category of actively managed ETFs that have grown over the past decade as more managers have moved into the ETF wrapper, seeking lower costs and better liquidity than the traditional mutual fund structure offered. It competes directly with actively managed mutual funds in the same space and, indirectly, with passive index ETFs that offer broader [diversification](/diversification/) and lower fees.
 
-The pitch for any active ETF is the same: if the manager is good enough, the outperformance from good stock picking will more than offset the management fee, and you will end up ahead of an index fund. The evidence on whether most active managers can sustain outperformance over long periods is mixed, which is why BAMA remains a conviction bet on Brookstone's team, not a logical default.
+The pitch for any active ETF is the same: if the manager is good enough, the outperformance from good stock picking will more than offset the [management fee](/management-fee/), and you will end up ahead of an index fund. The evidence on whether most active managers can sustain outperformance over long periods is mixed, which is why BAMA remains a conviction bet on Brookstone's team, not a logical default.
 
 ## Costs and expense structure
 
-The expense ratio is the chief explicit cost. Brookstone also incurs trading costs when the managers rebalance the portfolio — buying and selling stocks incurs commissions and bid-ask spreads, though these are typically not disclosed as a separate line item. The true all-in cost is the expense ratio plus the realized trading drag, which is usually small for a fund with reasonable turnover but can accumulate if the managers trade frequently.
+The expense ratio is the chief explicit cost. Brookstone also incurs trading costs when the managers rebalance the portfolio — buying and selling stocks incurs commissions and [bid-ask spreads](/bid-ask-spread/), though these are typically not disclosed as a separate line item. The true all-in cost is the expense ratio plus the realized trading drag, which is usually small for a fund with reasonable turnover but can accumulate if the managers trade frequently.
 
-BAMA can also trade at a premium or discount to its net asset value (NAV) depending on whether investors are chasing the fund or selling it out of favor. This is a short-term friction, not a fundamental cost, but it is real for any buyer or seller trying to trade at the exact NAV.
+BAMA can also trade at a premium or discount to its [net asset value](/net-asset-value/) (NAV) depending on whether investors are chasing the fund or selling it out of favor. This is a short-term friction, not a fundamental cost, but it is real for any buyer or seller trying to trade at the exact NAV.
 
 ## Risks specific to active management
 

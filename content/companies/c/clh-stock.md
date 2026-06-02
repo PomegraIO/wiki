@@ -49,7 +49,7 @@ But regulations also create risk. New rules can change the economics of a busine
 
 ## Competitive landscape and market position
 
-Clean Harbors is the largest hazardous-waste company in North America by revenue and facility count. Competitors include other national players and many smaller regional operators. The largest competitors are companies like [Waste Management](/wm-stock/) and [Republic Services](/rsg-stock/), which also handle hazardous and special waste as part of broader waste-management portfolios, but have less expertise and scale in the hazardous-waste segment specifically.
+Clean Harbors is the largest hazardous-waste company in North America by revenue and facility count. Competitors include other national players and many smaller regional operators. The largest competitors are companies like Waste Management and [Republic Services](/rsg-stock/), which also handle hazardous and special waste as part of broader waste-management portfolios, but have less expertise and scale in the hazardous-waste segment specifically.
 
 Clean Harbors' competitive advantage is its integrated network — the ability to collect from a customer, consolidate shipments, and route them to the most efficient treatment facility, all within the company. A customer that uses Clean Harbors gets consistency, reliability, and usually a better price than they would negotiate with multiple vendors.
 

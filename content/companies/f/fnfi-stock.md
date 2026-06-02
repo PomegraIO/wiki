@@ -37,7 +37,7 @@ The bank's credit quality in any year depends on its local economy. A good year 
 
 First Niles, as a bank holding company, is regulated by the Federal Reserve and the FDIC. It must maintain a minimum capital ratio (typically 10 percent of risk-weighted assets) to absorb losses. It files periodic reports with the [securities-and-exchange-commission](/securities-and-exchange-commission/), including Call Reports (detailed quarterly financial statements) available to the public.
 
-This regulatory framework is expensive. Compliance staff, audit costs, technology infrastructure, and anti-money-laundering programs consume significant resources. For a small bank, these fixed costs are a burden; the bank cannot leverage them across thousands of branches like a [national bank](/nbhc-stock/) can. This is one reason community banks have been consolidating: fixed compliance costs push smaller institutions to scale up or exit.
+This regulatory framework is expensive. Compliance staff, audit costs, technology infrastructure, and anti-money-laundering programs consume significant resources. For a small bank, these fixed costs are a burden; the bank cannot leverage them across thousands of branches like a national bank can. This is one reason community banks have been consolidating: fixed compliance costs push smaller institutions to scale up or exit.
 
 ## Capital structure and returns
 
@@ -47,7 +47,7 @@ Small banks rarely pay large dividends, because they need to retain earnings to 
 
 ## Why FNFI trades OTC
 
-Many small regional banks are listed on major exchanges ([NASDAQ](/nasdaq/), NYSE). First Niles trades on OTC (over-the-counter) markets, where listing standards are lighter and trading volume is typically thin. OTC listing reflects the company's small size and limited institutional investor interest. A research analyst from a major brokerage will not cover the stock; most shares are held by local investors, bank employees, and speculators.
+Many small regional banks are listed on major exchanges ([NASDAQ](/nasdaq/), NYSE). First Niles trades on OTC ([over-the-counter) markets](/over-the-counter-market/), where listing standards are lighter and trading volume is typically thin. OTC listing reflects the company's small size and limited institutional investor interest. A research analyst from a major brokerage will not cover the stock; most shares are held by local investors, bank employees, and speculators.
 
 <div class="wiki-seealso">
 ### Closely related

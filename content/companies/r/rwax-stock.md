@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TAP Real Estate Technologies (RWAX) makes software that handles the machinery of real-estate transactions and property management. When you buy a house or manage an apartment building, a surprising amount of paperwork, regulatory compliance, document management, and coordination among brokers, lenders, title companies, and attorneys has to happen. TAP builds the systems and services that move those pieces along. The company is publicly traded on the NASDAQ and serves both the residential real-estate market and the commercial property sector.
+TAP Real Estate Technologies (RWAX) makes software that handles the machinery of real-estate transactions and property management. When you buy a house or manage an apartment building, a surprising amount of paperwork, regulatory compliance, document management, and coordination among [brokers](/broker/), lenders, title companies, and attorneys has to happen. TAP builds the systems and services that move those pieces along. The company is publicly traded on the [NASDAQ](/nasdaq/) and serves both the residential real-estate market and the commercial property sector.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ TAP Real Estate Technologies (RWAX) makes software that handles the machinery of
 
 ## The real-estate transaction problem
 
-A residential real-estate deal involves more parties and more moving pieces than most people realize. A buyer needs financing from a lender. The seller's broker and the buyer's broker each need to track the transaction and coordinate. A title company has to verify ownership and run a title search to make sure no other liens or claims exist against the property. An attorney (or the lender's attorney) reviews documents. The escrow holder takes custody of the earnest money and holds it until closing. Inspectors come. Appraisers come. Documents get signed, re-signed, and amended. Disclosure forms are filed. The closing coordinator schedules everyone. Homeowners insurance is arranged.
+A residential real-estate deal involves more parties and more moving pieces than most people realize. A buyer needs financing from a lender. The seller's broker and the buyer's broker each need to track the transaction and coordinate. A title company has to verify ownership and run a title search to make sure no other liens or claims exist against the property. An attorney (or the lender's attorney) reviews documents. The escrow holder takes custody of the earnest money and holds it until closing. Inspectors come. Appraisers come. Documents get signed, re-signed, and amended. Disclosure forms are filed. The closing coordinator schedules everyone. [Homeowners insurance](/homeowners-insurance/) is arranged.
 
 Most of this coordination happens through email, phone calls, spreadsheets, and paper documents scanned and re-scanned. It is inefficient, error-prone, and slow. A transaction that could close in days often takes weeks because documents are in transit, signatures are missing, or someone did not receive the latest version.
 
@@ -52,11 +52,11 @@ TAP competes with other real-estate technology platforms and with the legacy sys
 
 TAP's subscription revenue comes from property managers, brokers, lenders, and other professionals who use the platform daily. Subscription revenue is recurring and predictable, a quality investors value because it supports stable, repeatable business growth. Transaction fees add volatility but also allow TAP to participate upside when the real-estate market is booming — more transactions mean more fees.
 
-The unit economics of transaction-software SaaS depend on customer acquisition cost versus lifetime value. Acquiring a large brokerage or lender as a customer often requires a lengthy sales cycle, customization, and integration with existing systems. Once a customer is onboarded, they tend to stay because switching costs are real — training staff on new software, migrating data, and reconfiguring workflows is expensive. That stickiness supports renewal rates and allows TAP to push price increases over time.
+The unit economics of transaction-software SaaS depend on customer [acquisition](/acquisition/) cost versus lifetime value. Acquiring a large brokerage or lender as a customer often requires a lengthy sales cycle, customization, and integration with existing systems. Once a customer is onboarded, they tend to stay because switching costs are real — training staff on new software, migrating data, and reconfiguring workflows is expensive. That stickiness supports renewal rates and allows TAP to push price increases over time.
 
 ## Risks and cyclicality
 
-Real-estate transaction volume is cyclical. When the housing market is hot and interest rates are low, transaction volume surges and TAP's revenue benefits. When housing cools — whether due to rising rates, economic recession, or market saturation — transaction volume declines, which hits TAP's transaction-fee revenue hard. Subscription revenue is more stable, but a declining number of transactions means less revenue overall.
+Real-estate transaction volume is cyclical. When the housing market is hot and [interest rates](/interest-rate/) are low, transaction volume surges and TAP's revenue benefits. When housing cools — whether due to rising rates, economic [recession](/recession/), or market saturation — transaction volume declines, which hits TAP's transaction-fee revenue hard. Subscription revenue is more stable, but a declining number of transactions means less revenue overall.
 
 A second risk is execution. TAP's products have to work reliably and intuitively, or customers will switch to competitors. Any major outage, data breach, or poor user experience could damage the brand and make it harder to win new customers.
 

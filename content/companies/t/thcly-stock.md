@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Toho Co., Ltd. is one of Japan's oldest and most storied film studios, commanding a powerful position in Japanese cinema as both a producer and distributor of films and as the operator of a nationwide chain of theaters. The company's American Depositary Receipt (THCLY) provides overseas investors a way to hold equity in Toho without navigating Japanese stock exchanges or currency complexity.
+Toho Co., Ltd. is one of Japan's oldest and most storied film studios, commanding a powerful position in Japanese cinema as both a producer and distributor of films and as the operator of a nationwide chain of theaters. The company's [American Depositary Receipt](/adr/) (THCLY) provides overseas investors a way to hold equity in Toho without navigating Japanese [stock exchanges](/stock-exchange/) or currency complexity.
 
 <aside class="wiki-infobox">
 <table>
@@ -40,13 +40,13 @@ Today, Toho operates three broad segments: film production and distribution, exh
 
 **Exhibition** is the theater business. Toho operates a large chain of cinema complexes across Japan, serving as the venue where its own films and those of other studios play. Theater revenue comes from ticket sales (where Toho keeps a cut, split with the film distributor), concessions (where Toho captures much higher margins), and rental of screens to other distributors. Theater economics have shifted dramatically in recent decades: multiplex venues with premium screens (IMAX, 4DX, digital) command higher ticket prices and attract audiences willing to pay for a differentiated experience, but they also require continuous capital investment to remain competitive.
 
-**Other operations** include amusement parks, entertainment-related retail, and other ventures. These segments are smaller than film and exhibition but provide diversification and reach beyond core cinema audiences.
+**Other operations** include amusement parks, entertainment-related retail, and other ventures. These segments are smaller than film and exhibition but provide [diversification](/diversification/) and reach beyond core cinema audiences.
 
 ## The supply chain of Japanese cinema
 
 Toho sits at the intersection of upstream and downstream in Japanese entertainment. Upstream, the company depends on creative talent — screenwriters, directors, cinematographers, actors — and on the willingness of investors and studios to fund film production. Toho's scale and reputation help it attract talented filmmakers and investors, giving it leverage in assembling productions. Downstream, Toho depends on audiences showing up to theaters, and on technological infrastructure (projectors, sound systems, digital distribution platforms) that enables exhibition. The company also depends on television networks and streaming platforms as distribution partners for content that matures beyond theatrical life.
 
-Horizontally, Toho competes with other Japanese film studios and with the import of foreign (particularly American) films into Japanese theaters. The rise of streaming platforms has changed the competitive landscape: Netflix, Amazon Prime, and Japanese services like dTV have created alternative distribution channels that bypass theaters entirely. Toho must invest in streaming capabilities and content for these platforms while still operating the theater chain — a balancing act that creates both opportunity (new revenue streams) and risk (cannibalization of theatrical ticket sales).
+Horizontally, Toho competes with other Japanese film studios and with the import of foreign (particularly American) films into Japanese theaters. The rise of streaming platforms has changed the competitive landscape: [Netflix](/nflx-stock/), Amazon Prime, and Japanese services like dTV have created alternative distribution channels that bypass theaters entirely. Toho must invest in streaming capabilities and content for these platforms while still operating the theater chain — a balancing act that creates both opportunity (new revenue streams) and risk (cannibalization of theatrical ticket sales).
 
 ## Capital intensity and cyclicality
 

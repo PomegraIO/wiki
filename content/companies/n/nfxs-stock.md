@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*NFXS is an inverse exchange-traded fund that moves in the opposite direction of Netflix shares on a daily basis. When Netflix declines, the fund aims to rise; when Netflix climbs, the fund falls. It is a tactical, short-term instrument designed for investors who expect Netflix to underperform over days or weeks—not a buy-and-hold holding.*
+*NFXS is an inverse exchange-traded fund that moves in the opposite direction of [Netflix](/nflx-stock/) shares on a daily basis. When Netflix declines, the fund aims to rise; when Netflix climbs, the fund falls. It is a tactical, short-term instrument designed for investors who expect Netflix to underperform over days or weeks—not a buy-and-hold holding.*
 
 <aside class="wiki-infobox">
 <table>
@@ -25,9 +25,9 @@ handwritten: true
 
 ## What the fund seeks to do
 
-NFXS is an inverse fund, a category of exchange-traded product built to profit when an underlying security falls. Unlike conventional index funds that track upward market movements and reward buy-and-hold investors, NFXS is engineered to move opposite to Netflix's stock price, scaled at a 1-to-1 ratio on a daily basis. For every percentage point Netflix falls on a given day, NFXS aims to gain that percentage. Conversely, when Netflix rises, NFXS loses value at the same rate.
+NFXS is an inverse fund, a category of exchange-traded product built to profit when an underlying security falls. Unlike conventional [index funds](/index-fund/) that track upward market movements and reward buy-and-hold investors, NFXS is engineered to move opposite to Netflix's stock price, scaled at a 1-to-1 ratio on a daily basis. For every percentage point Netflix falls on a given day, NFXS aims to gain that percentage. Conversely, when Netflix rises, NFXS loses value at the same rate.
 
-The fund is held for tactical, short-term positions—days or weeks—to express a bearish view on Netflix without owning a put option or shorting shares directly. Some portfolio managers use it as a hedge, temporarily offsetting long positions in Netflix or streaming-sector exposure during periods of anticipated weakness. The crucial difference between NFXS and a simple Netflix short is that NFXS is liquid, tradeable on a public exchange, and carries defined risk. You cannot lose more than your initial investment.
+The fund is held for tactical, short-term positions—days or weeks—to express a bearish view on Netflix without owning a [put option](/put-option/) or shorting shares directly. Some portfolio managers use it as a hedge, temporarily offsetting long positions in Netflix or streaming-sector exposure during periods of anticipated weakness. The crucial difference between NFXS and a simple Netflix short is that NFXS is liquid, tradeable on a public exchange, and carries defined risk. You cannot lose more than your initial investment.
 
 ## Daily reset mechanics and volatility decay
 
@@ -39,21 +39,21 @@ This characteristic makes NFXS dangerous as a multi-month or multi-year hedge. T
 
 ## Costs and who uses it
 
-Like all Direxion funds, NFXS carries an expense ratio that covers the cost of daily rebalancing, custody, and management. The ratio is published in the fund's prospectus and fact sheet. For inverse funds, the ongoing cost is meaningful because the fund is actively rebalanced daily, not passively held like many conventional index ETFs.
+Like all Direxion funds, NFXS carries an [expense ratio](/expense-ratio/) that covers the cost of daily rebalancing, custody, and management. The ratio is published in the fund's prospectus and fact sheet. For inverse funds, the ongoing cost is meaningful because the fund is actively rebalanced daily, not passively held like many conventional index ETFs.
 
-NFXS trades with the liquidity of any other NASDAQ-listed security, but volume depends on investor interest in shorting Netflix. Wide bid-ask spreads can develop during periods of low trading interest, inflating the true cost of entry and exit.
+NFXS trades with the liquidity of any other NASDAQ-listed security, but volume depends on investor interest in shorting Netflix. Wide [bid-ask spreads](/bid-ask-spread/) can develop during periods of low trading interest, inflating the true cost of entry and exit.
 
 The primary users of NFXS are traders and portfolio managers executing short-term tactical bets. A fund manager who believes Netflix will report disappointing subscriber numbers or faces near-term regulatory headwinds might initiate a position in NFXS for the two weeks leading up to earnings. A macro trader betting on a broad streaming-sector pullback might use it as one leg of a diversified tactical trade. Institutional desks sometimes hold small NFXS positions as a temporary hedge against longer Netflix longs during known event risk—earnings surprises, competitive threats, or content production announcements.
 
-Retail investors occasionally buy NFXS in bull markets as a speculative trade, but holding it beyond a few trading sessions is usually a mistake. The decay mathematics mean NFXS will underperform a simple Netflix put option or a direct short sale over any holding period of a few weeks or more.
+Retail investors occasionally buy NFXS in [bull markets](/bull-market/) as a speculative trade, but holding it beyond a few trading sessions is usually a mistake. The decay mathematics mean NFXS will underperform a simple Netflix put option or a direct short sale over any [holding period](/holding-period/) of a few weeks or more.
 
 ## Real risks
 
 The primary risk is the decay mechanism itself. NFXS is not a buy-and-hold instrument and will predictably lose value relative to a simple short if held through volatility or sideways markets. This is not a flaw; it is built into the structure.
 
-A second risk is leverage-adjacent but distinct: the fund's counterparty exposure. Inverse funds are backed by derivative positions—typically short equity swaps with financial institutions—not actual borrowed shares. If Netflix is suspended from trading, rare but possible, or if market dislocations occur during extreme volatility, the fund's ability to track its daily reset target can be impaired.
+A second risk is leverage-adjacent but distinct: the fund's counterparty exposure. Inverse funds are backed by derivative positions—typically short [equity swaps](/equity-swap/) with financial institutions—not actual borrowed shares. If Netflix is suspended from trading, rare but possible, or if market dislocations occur during extreme volatility, the fund's ability to track its daily reset target can be impaired.
 
-A third risk is the concentrated single-stock nature. NFXS offers no diversification; it is a pure Netflix bet. An unexpected positive announcement—an earnings beat, a major new revenue stream, or a merger—can cause swift, large losses that cannot be offset by exposure to other holdings.
+A third risk is the concentrated single-stock nature. NFXS offers no [diversification](/diversification/); it is a pure Netflix bet. An unexpected positive announcement—an earnings beat, a major new revenue stream, or a [merger](/merger/)—can cause swift, large losses that cannot be offset by exposure to other holdings.
 
 ## How to research NFXS
 

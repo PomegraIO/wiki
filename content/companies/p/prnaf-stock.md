@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Alterity Therapeutics is an Australian biopharmaceutical company focused on discovering and developing novel drugs for neurological diseases. The company operates in the high-risk, high-reward space of drug development, where years of research and hundreds of millions of dollars in investment may result in a single approved therapeutic — or nothing at all. Alterity's portfolio centers on movement disorders, particularly Parkinson's disease, targeting mechanisms that conventional therapies have not addressed.
+[Alterity Therapeutics](/athe-stock/) is an Australian biopharmaceutical company focused on discovering and developing novel drugs for neurological diseases. The company operates in the high-risk, high-reward space of drug development, where years of research and hundreds of millions of dollars in investment may result in a single approved therapeutic — or nothing at all. Alterity's portfolio centers on movement disorders, particularly Parkinson's disease, targeting mechanisms that conventional therapies have not addressed.
 
 <aside class="wiki-infobox">
 <table>

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Strategy Shares Nasdaq 7HANDL Index ETF** (HNDL) is an exchange-traded fund tracking the Nasdaq 7HANDL Index, a proprietary selection and weighting methodology that identifies large-cap US stocks offering high dividend yields alongside sound valuation and financial quality, then reweights the portfolio monthly across seven ranking tiers. It is designed for investors seeking regular dividend income from a diversified but concentrated portfolio of mature, cash-generative US companies.*
+*The **Strategy Shares [Nasdaq](/nasdaq/) 7HANDL Index ETF** (HNDL) is an exchange-traded fund tracking the Nasdaq 7HANDL Index, a proprietary selection and weighting methodology that identifies large-cap US stocks offering high [dividend yields](/dividend-yield/) alongside sound valuation and financial quality, then reweights the portfolio monthly across seven ranking tiers. It is designed for investors seeking regular [dividend](/dividend/) income from a diversified but concentrated portfolio of mature, cash-generative US companies.*
 
 <aside class="wiki-infobox">
 
@@ -55,12 +55,12 @@ This sector tilt creates a meaningful performance dependency: when dividend-focu
 
 ## Interest rates and cyclical sensitivity
 
-HNDL's returns are sensitive to interest-rate environments in two ways. First, as bond yields rise, the relative appeal of dividend stocks declines — capital shifts to fixed income, and dividend-stock valuations compress. Second, rising rates pressure highly leveraged companies, which may cut dividends to preserve cash or service debt. Conversely, in low-rate or declining-rate environments, investors reach for yield, dividend stocks outperform, and HNDL tends to rally.
+HNDL's returns are sensitive to interest-rate environments in two ways. First, as [bond](/bond/) yields rise, the relative appeal of dividend stocks declines — capital shifts to fixed income, and dividend-stock valuations compress. Second, rising rates pressure highly leveraged companies, which may cut dividends to preserve cash or service debt. Conversely, in low-rate or declining-rate environments, investors reach for yield, dividend stocks outperform, and HNDL tends to rally.
 
 An investor should understand that HNDL is not a stable income vehicle independent of market conditions; it is a dividend-focused equity bet exposed to interest-rate and credit-cycle dynamics.
 
 ## Costs, distributions, and research approach
 
-HNDL charges an expense ratio covering the monthly rebalancing and index maintenance. Distributions are paid monthly (a mix of dividends collected from holdings and any rebalancing gains), providing regular cash flow. Prospective investors should examine the fund's prospectus to understand the exact scoring methodology, any minimum market-cap threshold for inclusion, and the weighting distribution across the seven tiers.
+HNDL charges an [expense ratio](/expense-ratio/) covering the monthly rebalancing and index maintenance. Distributions are paid monthly (a mix of dividends collected from holdings and any rebalancing gains), providing regular cash flow. Prospective investors should examine the fund's prospectus to understand the exact scoring methodology, any minimum market-cap threshold for inclusion, and the weighting distribution across the seven tiers.
 
-Comparing HNDL's trailing yield and total returns to simpler dividend-focused ETFs clarifies what premium (or discount) the proprietary quantitative methodology delivers. Reading the fund's monthly fact sheet reveals the current composition, sector exposure, and any meaningful changes to the holdings roster. Because the methodology is rules-based and documented, an informed investor can predict approximately how the portfolio will shift if market conditions or valuations change materially.
+Comparing HNDL's trailing yield and total returns to simpler [dividend-focused ETFs](/dividend-focused-etf/) clarifies what premium (or discount) the proprietary quantitative methodology delivers. Reading the fund's monthly fact sheet reveals the current composition, sector exposure, and any meaningful changes to the holdings roster. Because the methodology is rules-based and documented, an informed investor can predict approximately how the portfolio will shift if market conditions or valuations change materially.

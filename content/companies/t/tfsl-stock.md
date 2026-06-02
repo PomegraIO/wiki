@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TFS Financial is a regional savings bank (known as a "thrift") headquartered in Ohio and operating primarily across the American Midwest. The bank borrows money from retail depositors and lends it primarily as [fixed-rate mortgages](/fixed-rate-mortgage-personal/) on single-family homes. It is a simple, capital-light business model — borrow short, lend long, pocket the spread. The shares (NASDAQ: TFSL) trade at a discount to larger regional banks and national money-center banks, reflecting the bank's size, its limited product breadth, and the structural headwinds in residential mortgage banking.
+TFS Financial is a regional savings bank (known as a "thrift") headquartered in Ohio and operating primarily across the American Midwest. The bank borrows money from retail depositors and lends it primarily as [fixed-rate mortgages](/fixed-rate-mortgage-personal/) on single-family homes. It is a simple, capital-light business model — borrow short, lend long, pocket the spread. The shares ([NASDAQ](/nasdaq/): TFSL) trade at a discount to larger regional banks and national money-center banks, reflecting the bank's size, its limited product breadth, and the structural headwinds in residential mortgage banking.
 
 <aside class="wiki-infobox">
 <table>
@@ -61,6 +61,6 @@ The banking industry is also under persistent regulatory scrutiny, particularly 
 
 Start with TFS's annual 10-K (SEC CIK 0001381668) to understand the mortgage portfolio breakdown, deposit sources, and net interest margin trends. Look at the loan-to-deposit ratio and the composition of deposits by type (checking, savings, money market, CDs) — this reveals liability stability and the cost of funding.
 
-Track quarterly net interest margin (NIM) trends and management guidance on where NIM is headed. Monitor the volume of mortgage originations and refi activity, which are disclosed in earnings releases. Watch for any deterioration in asset quality (non-performing loans, loan loss provisions) which could emerge in a recession. Understand the capital ratio and the bank's dividend payout — these reveal whether management is returning capital to shareholders or building buffers.
+Track quarterly net interest margin (NIM) trends and management guidance on where NIM is headed. Monitor the volume of mortgage originations and refi activity, which are disclosed in earnings releases. Watch for any deterioration in asset quality (non-performing loans, loan loss provisions) which could emerge in a recession. Understand the capital ratio and the bank's [dividend](/dividend/) payout — these reveal whether management is returning capital to shareholders or building buffers.
 
 Finally, pay attention to the Federal Reserve's interest rate path and expectations for where rates are going. TFS's profitability is extraordinarily sensitive to rate changes. In a rising-rate environment, NIM may expand but origination volume will fall. In a falling-rate environment, volume should improve but NIM will compress. A prolonged period of flat or uncertain rates is typically worst for a mortgage-focused bank because deposits become more rate-sensitive and mortgage demand remains subdued.

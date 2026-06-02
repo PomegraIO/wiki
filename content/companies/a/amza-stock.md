@@ -24,27 +24,27 @@ InfraCap's approach is to hold 20 to 30 MLPs, selected from the broader universe
 
 ## The MLP structure and AMZA's income orientation
 
-AMZA pays monthly or quarterly distributions — ordinary income to the fund's holders — that are often substantial (yields of 5 to 8 percent are common). Those distributions flow through from the underlying partnerships, which are required by their structure to return most of their earnings. The tax treatment is ordinary income, not qualified dividends, making AMZA more suitable for tax-advantaged accounts than taxable portfolios. Holdings are reported via K-1 forms at year-end, adding complexity.
+AMZA pays monthly or quarterly distributions — ordinary income to the fund's holders — that are often substantial (yields of 5 to 8 percent are common). Those distributions flow through from the underlying partnerships, which are required by their structure to return most of their earnings. The tax treatment is ordinary income, not [qualified dividends](/qualified-dividend/), making AMZA more suitable for tax-advantaged accounts than taxable portfolios. Holdings are reported via K-1 forms at year-end, adding complexity.
 
 The fund is built for income. It is not designed for capital appreciation. A portfolio of mature, cash-generative pipeline and terminal companies that distribute almost all earnings leaves little left over for growth or price appreciation.
 
 ## What AMZA holds and what it avoids
 
-AMZA typically concentrates in large, established partnerships: companies like Enterprise Products Partners, which operates vast networks of crude, natural gas, and refined-product pipelines; Magellan Midstream Partners, a leader in crude logistics; and Energy Transfer, a diversified midstream operator. These are not sexy names and they do not claim to be. They run the plumbing of the energy system — not exploration, not wind farms, but the physical transportation and storage infrastructure that is indifferent to whether the commodity is crude, gas, or refined products.
+AMZA typically concentrates in large, established partnerships: companies like [Enterprise Products Partners](/epd-stock/), which operates vast networks of crude, [natural gas](/natural-gas/), and refined-product pipelines; Magellan Midstream Partners, a leader in crude logistics; and Energy Transfer, a diversified midstream operator. These are not sexy names and they do not claim to be. They run the plumbing of the energy system — not exploration, not wind farms, but the physical transportation and storage infrastructure that is indifferent to whether the commodity is crude, gas, or refined products.
 
 By focusing on the largest partnerships, AMZA also keeps liquidity high: these are names that trade actively and that the fund can enter and exit without moving the market. Smaller, more specialized partnerships (those focused on a single product or a single region) may offer higher yields but have thinner trading and are more vulnerable to niche risks.
 
 ## The inflation hedge angle
 
-A secondary appeal of MLPs is inflation protection. Because many partnerships have long-term contracts indexed to inflation or because they can renegotiate rates upward as the cost of operations rises, their cash flows can benefit when inflation accelerates. In the years of high inflation (2021-2022), energy-infrastructure partnerships did well partly for this reason. In deflationary scenarios, the opposite pressure applies.
+A secondary appeal of MLPs is [inflation](/inflation/) protection. Because many partnerships have long-term contracts indexed to inflation or because they can renegotiate rates upward as the cost of operations rises, their cash flows can benefit when inflation accelerates. In the years of high inflation (2021-2022), energy-infrastructure partnerships did well partly for this reason. In deflationary scenarios, the opposite pressure applies.
 
-AMZA's income orientation also provides some inflation shelter: if you are collecting a 6 percent distribution yield, a period of 3 percent inflation means you are still getting 3 percent real yield (before tax). By contrast, a Treasury yielding 2 percent offers negative real returns in that environment.
+AMZA's income orientation also provides some inflation shelter: if you are collecting a 6 percent distribution yield, a period of 3 percent inflation means you are still getting 3 percent [real yield](/real-yield/) (before tax). By contrast, a Treasury yielding 2 percent offers negative real returns in that environment.
 
 ## Interest rates and the leverage effect
 
-MLPs use modest leverage — debt in their capital structure — to amplify returns and support distributions. When interest rates rise, the cost of that leverage increases, which can pressure distributions. AMZA is therefore sensitive to rate movements. During a period of rising rates (like 2022), the prices of MLP-heavy portfolios often fall sharply because both the cost of MLP leverage and the discount rate applied to MLP cash flows increase. In falling-rate environments, the opposite effect supports prices and distributions.
+MLPs use modest leverage — debt in their capital structure — to amplify returns and support distributions. When [interest rates](/interest-rate/) rise, the cost of that leverage increases, which can pressure distributions. AMZA is therefore sensitive to rate movements. During a period of rising rates (like 2022), the prices of MLP-heavy portfolios often fall sharply because both the cost of MLP leverage and the [discount rate](/discount-rate/) applied to MLP cash flows increase. In falling-rate environments, the opposite effect supports prices and distributions.
 
-AMZA's active management approach offers one advantage in this context: the manager can select partnerships with lower leverage ratios (less debt relative to cash flow), providing some protection if rates rise. A passive index will hold the full spectrum, including highly leveraged names that suffer more in rate shock.
+AMZA's active management approach offers one advantage in this context: the manager can select partnerships with lower [leverage ratios](/leverage-ratio-forex/) (less debt relative to cash flow), providing some protection if rates rise. A passive index will hold the full spectrum, including highly leveraged names that suffer more in rate shock.
 
 ## Risks and the energy-transition question
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-BHP Group is one of the world's largest mining companies, extracting and processing iron ore, copper, metallurgical coal, and liquefied natural gas. It supplies the raw materials that feed steelmakers, power plants, and the electronics and construction industries. Based in Melbourne, Australia, BHP operates mines and processing facilities across multiple continents and serves customers in Asia, Europe, and the Americas.
+BHP Group is one of the world's largest mining companies, extracting and processing [iron ore](/iron-ore/), copper, metallurgical coal, and liquefied [natural gas](/natural-gas/). It supplies the raw materials that feed steelmakers, power plants, and the electronics and construction industries. Based in Melbourne, Australia, BHP operates mines and processing facilities across multiple continents and serves customers in Asia, Europe, and the Americas.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,7 +38,7 @@ Most of BHP's revenue comes from these long-established, capital-intensive commo
 
 ## What makes BHP different from smaller miners
 
-BHP's scale and diversification across multiple commodity types give it advantages smaller, single-commodity miners do not enjoy. A downturn in the copper market can be offset by steady iron ore revenues. The company's sheer size allows it to invest in efficiency and technology that smaller operators cannot afford, lowering per-unit costs of extraction and processing. This operational leverage shows up in strong margins during commodity booms and resilience during downturns.
+BHP's scale and [diversification](/diversification/) across multiple commodity types give it advantages smaller, single-commodity miners do not enjoy. A downturn in the copper market can be offset by steady iron ore revenues. The company's sheer size allows it to invest in efficiency and technology that smaller operators cannot afford, lowering per-unit costs of extraction and processing. This operational leverage shows up in strong margins during commodity booms and resilience during downturns.
 
 The company also carries meaningful influence over pricing and supply. A major disruption at a BHP mine can move global commodity prices, as happened in 2015 when the collapse of the Samarco tailings dam in Brazil created a sudden shortage of iron ore. That kind of scale matters when you are one of only a handful of suppliers to a global industry.
 
@@ -50,7 +50,7 @@ BHP's profit swings with commodity prices, which are set by global supply and de
 
 The company operates with long-term supply contracts to smooth some of this volatility. Steelmakers in Asia and Europe often commit to buying ore over multi-year periods at negotiated prices that move less dramatically than spot prices. But the company is not immune to price swings, and its capital allocation strategy reflects this: large mine development projects typically take years from planning to first ore, so management must bet on commodity prices a decade in advance.
 
-BHP returns capital to shareholders through dividends and share buybacks, but those returns are far from stable. In boom years when commodity prices are high, BHP can afford extraordinary dividends. In downturns, dividends are cut to preserve cash and fund operations. Investors in mining companies must accept this volatility as the price of exposure to commodity leverage.
+BHP returns capital to shareholders through [dividends](/dividend/) and [share buybacks](/share-buyback/), but those returns are far from stable. In boom years when commodity prices are high, BHP can afford extraordinary dividends. In downturns, dividends are cut to preserve cash and fund operations. Investors in mining companies must accept this volatility as the price of exposure to commodity leverage.
 
 ## Environmental and social pressures
 
@@ -62,4 +62,4 @@ Climate policy presents another layer of risk. Coal, which still represents a me
 
 BHP's annual 10-K filing (SEC CIK 0000811809) details its mining reserves by ore body and commodity type, production volumes, and the long-term supply contracts that underpin revenue. Understanding BHP requires watching commodity price futures, which trade on exchanges like the London Metals Exchange and the Shanghai Futures Exchange. Copper futures signal demand from manufacturing and construction; iron ore futures reflect Chinese steel production expectations; coal prices reflect power demand and transition policy.
 
-Quarterly earnings calls reveal management's view of commodity cycles and their capital discipline. Key metrics include the average realized price for each commodity in the quarter, all-in costs of production per unit (the expense to extract one tonne of ore), and free cash flow before dividends. These numbers determine whether the company is generating returns or burning cash. For anyone studying BHP, the backdrop of commodity super-cycles — the multi-year booms and busts that shape mining earnings — is essential context. The company is not a growth stock in the traditional sense; it is a leveraged play on global industrial demand and commodity prices.
+Quarterly earnings calls reveal management's view of commodity cycles and their capital discipline. Key metrics include the average realized price for each commodity in the quarter, all-in costs of production per unit (the expense to extract one tonne of ore), and [free cash flow](/free-cash-flow/) before dividends. These numbers determine whether the company is generating returns or burning cash. For anyone studying BHP, the backdrop of commodity super-cycles — the multi-year booms and busts that shape mining earnings — is essential context. The company is not a growth stock in the traditional sense; it is a leveraged play on global industrial demand and commodity prices.

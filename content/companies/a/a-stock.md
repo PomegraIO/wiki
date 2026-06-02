@@ -61,7 +61,7 @@ The model benefits from mix: higher-margin specialty instruments and consumables
 
 **Competition and commoditization:** As diagnostic testing becomes more routine and cost-pressured, price competition intensifies. Agilent's instruments are not commodities, but the markets they serve are increasingly subject to procurement discipline and price sensitivity. Larger competitors can undercut on cost or bundle offerings in ways that force Agilent to compete on terms where scale matters.
 
-**Scale disadvantage:** Unlike mega-cap diagnostics companies (Roche, Siemens), Agilent has less financial firepower for major [acquisitions](/acquisition/) or geographic expansion. It cannot absorb the R&D costs of opening entirely new product categories the way [diversified healthcare](/dhc-stock/) giants can.
+**Scale disadvantage:** Unlike mega-cap diagnostics companies (Roche, Siemens), Agilent has less financial firepower for major [acquisitions](/acquisition/) or geographic expansion. It cannot absorb the R&D costs of opening entirely new product categories the way diversified healthcare giants can.
 
 **Regulatory and quality:** The life sciences and diagnostics businesses operate under strict regulatory oversight (FDA, CE marking, ISO standards). Any quality failure or regulatory misstep can damage reputation and revenue. Recalls or compliance issues are costly and disproportionately visible to large customers.
 

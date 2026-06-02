@@ -12,13 +12,13 @@ keywords:
 handwritten: true
 ---
 
-*The BNY Mellon Municipal Opportunities ETF (BMOP) is an actively managed fund that invests in US municipal bonds—debt issued by states, cities, counties, and other local government entities. Unlike a passive index fund that holds every municipal bond in proportion to its market weight, BMOP's managers select bonds they judge to be undervalued relative to their credit risk and maturity, giving the fund the discretion to concentrate or avoid specific issuers, sectors, and regions.*
+*The BNY Mellon Municipal Opportunities ETF (BMOP) is an [actively managed fund](/actively-managed-fund/) that invests in US [municipal bonds](/municipal-bond/)—debt issued by states, cities, counties, and other local government entities. Unlike a passive [index fund](/index-fund/) that holds every municipal [bond](/bond/) in proportion to its market weight, BMOP's managers select bonds they judge to be undervalued relative to their [credit risk](/credit-risk/) and maturity, giving the fund the discretion to concentrate or avoid specific issuers, sectors, and regions.*
 
 ## General-obligation and revenue bonds
 
-BMOP divides its holdings across two main bond archetypes, each with different credit characteristics. General-obligation bonds are backed by a municipality's full taxing power—property tax, sales tax, income tax, whatever sources a state or city can access. A GO bond from a wealthy state like Connecticut or Massachusetts backed by strong property-tax collections and diversified economic base carries lower default risk than a GO bond from a distressed city where job losses have shrunk the tax base. The managers assess both the underlying credit of the issuer and the political will to service debt.
+BMOP divides its holdings across two main bond archetypes, each with different credit characteristics. General-obligation bonds are backed by a municipality's full taxing power—[property tax](/property-tax/), [sales tax](/sales-tax/), income tax, whatever sources a state or city can access. A GO bond from a wealthy state like Connecticut or Massachusetts backed by strong property-tax collections and diversified economic base carries lower default risk than a GO bond from a distressed city where job losses have shrunk the tax base. The managers assess both the underlying credit of the issuer and the political will to service debt.
 
-Revenue bonds are pledged against the cash flows from a specific project or utility—toll roads, water systems, airports, utility bonds. A toll road bond depends entirely on whether drivers use the road and tolls cover expenses. A water-system bond depends on steady customer collections. Revenue bonds concentrate credit risk in a single revenue stream; if the revenue project falters, bond holders have limited recourse. BMOP's managers can overweight or underweight each archetype based on their view of value and risk tolerance.
+[Revenue bonds](/revenue-bond/) are pledged against the cash flows from a specific project or utility—toll roads, water systems, airports, utility bonds. A toll road bond depends entirely on whether drivers use the road and tolls cover expenses. A water-system bond depends on steady customer collections. Revenue bonds concentrate credit risk in a single revenue stream; if the revenue project falters, bond holders have limited recourse. BMOP's managers can overweight or underweight each archetype based on their view of value and risk tolerance.
 
 ## Geographic and sector focus
 
@@ -30,7 +30,7 @@ The fund may also concentrate by sector. School bonds, transportation bonds, hou
 
 BMOP may vary its credit-quality exposure. Investment-grade municipal bonds—those rated in the top four tiers by major rating agencies—carry lower default risk but offer lower yields. High-yield (or non-investment-grade) municipal bonds offer higher yields to compensate for higher default risk. The managers can tilt the portfolio toward investment-grade in uncertain environments, or increase high-yield exposure when they judge the rewards sufficient relative to risk.
 
-Credit cycles matter enormously in municipal investing. A recession that reduces sales-tax collections and property values can cause rating downgrades and defaults across many issuers simultaneously. BMOP's managers must assess not just individual issuer credit, but broader economic and credit-cycle risk. Periods of strong economic growth and stable revenues are when the managers can extend credit risk; periods of economic stress demand higher quality.
+Credit cycles matter enormously in municipal investing. A [recession](/recession/) that reduces sales-tax collections and property values can cause rating downgrades and defaults across many issuers simultaneously. BMOP's managers must assess not just individual issuer credit, but broader economic and credit-cycle risk. Periods of strong economic growth and stable revenues are when the managers can extend credit risk; periods of economic stress demand higher quality.
 
 ## Duration and interest-rate exposure
 
@@ -42,13 +42,13 @@ The defining economic feature is the federal tax exemption. A municipal bond pay
 
 ## Fee structure and active-versus-passive comparison
 
-BMOP's expense ratio is higher than a passive municipal-bond index ETF because it covers managers' salaries, research, and trading costs. The question is whether that active team generates enough outperformance to justify the fee. The municipal market—being less heavily analyzed and less liquid than corporate-bond markets—may offer more opportunities for skilled managers. However, the long-term track record of active municipal-bond funds is mixed; many lag passive alternatives after fees. The prospectus and annual reports show BMOP's track record against benchmark indices.
+BMOP's [expense ratio](/expense-ratio/) is higher than a passive municipal-bond index ETF because it covers managers' salaries, research, and trading costs. The question is whether that active team generates enough outperformance to justify the fee. The municipal market—being less heavily analyzed and less liquid than corporate-bond markets—may offer more opportunities for skilled managers. However, the long-term track record of active municipal-bond funds is mixed; many lag passive alternatives after fees. The prospectus and [annual reports](/10-k/) show BMOP's track record against benchmark indices.
 
 ## Risks: credit, rates, and liquidity
 
-Credit risk is the primary concern. Municipal issuers face revenue pressure during recessions, and structural changes like declining populations or de-industrialization can permanently impair finances. BMOP's managers select bonds they judge to be safe, but even investment-grade issuers can default. Interest-rate risk is secondary: if rates rise, bond values fall across the board; shareholders who hold to maturity are unaffected, but those selling before maturity realize losses.
+Credit risk is the primary concern. Municipal issuers face revenue pressure during recessions, and structural changes like declining populations or de-industrialization can permanently impair finances. BMOP's managers select bonds they judge to be safe, but even investment-grade issuers can default. [Interest-rate risk](/interest-rate-risk/) is secondary: if rates rise, bond values fall across the board; shareholders who hold to maturity are unaffected, but those selling before maturity realize losses.
 
-Liquidity risk exists but is usually modest. The municipal market is less liquid than corporate bonds, but BMOP's size and popularity mean shares usually trade at tight spreads to net asset value. In stress periods, that liquidity can evaporate and spreads can widen.
+[Liquidity risk](/liquidity-risk/) exists but is usually modest. The municipal market is less liquid than [corporate bonds](/corporate-bond/), but BMOP's size and popularity mean shares usually trade at tight spreads to [net asset value](/net-asset-value/). In stress periods, that liquidity can evaporate and spreads can widen.
 
 ## How to use BMOP
 

@@ -25,7 +25,7 @@ Radware's defenses attempt to sit at the boundary and sort legitimate from malic
 
 Revenue flows primarily from subscriptions and services rather than up-front licensing. A customer pays for protection per month or year, scaled to the traffic volume or service tier — higher traffic, higher cost. This is recurring revenue, which is the foundation of predictability and longevity in security software. The company also generates professional-services revenue from deployment, tuning, and integration.
 
-Radware's customer base spans [financial institutions](/fisi-stock/) (banks and exchanges), e-commerce retailers vulnerable to competitor-launched attacks, hosting providers, telecommunications operators, and large enterprises defending their internet-facing applications. Sectors that depend on continuous uptime and face heavy attack volumes are the core draw.
+Radware's customer base spans financial institutions (banks and exchanges), e-commerce retailers vulnerable to competitor-launched attacks, hosting providers, telecommunications operators, and large enterprises defending their internet-facing applications. Sectors that depend on continuous uptime and face heavy attack volumes are the core draw.
 
 ## The moat problem
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-YCS is a fund that bets crude oil prices will fall. It does this by holding oil futures contracts — the kind that expire in the next few weeks or months — and arranging them so the fund goes up when oil goes down. Instead of buying oil directly, which you cannot do as a regular investor, YCS uses financial contracts that work like a seesaw: one end is oil prices, the other end is your potential gain or loss.
+YCS is a fund that bets [crude oil](/crude-oil/) prices will fall. It does this by holding oil [futures contracts](/futures-contract/) — the kind that expire in the next few weeks or months — and arranging them so the fund goes up when oil goes down. Instead of buying oil directly, which you cannot do as a regular investor, YCS uses financial contracts that work like a seesaw: one end is oil prices, the other end is your potential gain or loss.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ YCS is a fund that bets crude oil prices will fall. It does this by holding oil 
 
 Oil futures come in many versions. Some expire six months from now, some expire three months out, some expire in weeks. The contracts closest to today — the ones that will be settled in the next month or two — trade with different prices and move differently than contracts far in the future. YCS is designed to track the near-term oil contracts specifically. This means YCS focuses on the closest, most-traded futures, the ones that reflect what people think oil will cost very soon.
 
-This matters because the gap between near-term and far-out futures creates real differences in how the funds move. Far-out futures can tell you what professional traders expect oil to cost a year from now, accounting for storage, interest rates, and expected supply and demand far ahead. Near-term futures are more reactive to today's news — supply disruptions, sudden demand shocks, inventory reports from the government. YCS bounces with the short-term market; it is not a quiet, slow measure of long-term trends.
+This matters because the gap between near-term and far-out futures creates real differences in how the funds move. Far-out futures can tell you what professional traders expect oil to cost a year from now, accounting for storage, [interest rates](/interest-rate/), and expected supply and demand far ahead. Near-term futures are more reactive to today's news — supply disruptions, sudden demand shocks, inventory reports from the government. YCS bounces with the short-term market; it is not a quiet, slow measure of long-term trends.
 
 ## How it works on a daily basis
 
@@ -39,15 +39,15 @@ This daily rebalancing is important. It means the fund is always resetting its b
 
 ## The rolling contract problem
 
-Oil futures expire. The contracts YCS holds today will stop trading in a few weeks and become worthless. So the fund continuously sells the old contracts and buys the new ones — this is called rolling. Every time the fund rolls, it pays a cost (the difference between what it sells the old contract for and what it pays for the new contract). Most of the time, near-term oil is cheaper than far-out oil — a pattern called contango. When the fund rolls, it is buying higher and selling lower, which costs money.
+Oil futures expire. The contracts YCS holds today will stop trading in a few weeks and become worthless. So the fund continuously sells the old contracts and buys the new ones — this is called rolling. Every time the fund rolls, it pays a cost (the difference between what it sells the old contract for and what it pays for the new contract). Most of the time, near-term oil is cheaper than far-out oil — a pattern called [contango](/contango/). When the fund rolls, it is buying higher and selling lower, which costs money.
 
-When oil futures are in backwardation — meaning near-term oil costs more than far-out oil — the rolling process works in the fund's favor. But contango is the normal state. This structural cost accumulates and hurts the fund's returns over time. It is not the fund manager's fault; it is built into how oil markets work.
+When oil futures are in [backwardation](/backwardation/) — meaning near-term oil costs more than far-out oil — the rolling process works in the fund's favor. But contango is the normal state. This structural cost accumulates and hurts the fund's returns over time. It is not the fund manager's fault; it is built into how oil markets work.
 
 ## What could break this fund
 
 The biggest risk is volatility. If oil swings wildly — dropping hard one day, surging the next — the fund loses money faster than you would expect from the price movement alone. Quiet, steady markets are kind to inverse funds; chaotic markets work against them. An investor holding YCS during an especially turbulent period might watch the fund's price fall even though oil prices fell overall.
 
-The second risk is time. The longer you hold YCS, the more costs accumulate: expense ratios, rolling costs, and the daily rebalancing slippage. Holding YCS for a few days makes sense for a quick tactical bet. Holding it for months or years almost always underperforms what simple math would suggest.
+The second risk is time. The longer you hold YCS, the more costs accumulate: [expense ratios](/expense-ratio/), rolling costs, and the daily rebalancing slippage. Holding YCS for a few days makes sense for a quick tactical bet. Holding it for months or years almost always underperforms what simple math would suggest.
 
 ## How to think about YCS as an investment
 

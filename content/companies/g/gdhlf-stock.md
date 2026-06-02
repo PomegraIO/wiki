@@ -26,7 +26,7 @@ GDS has spent years building out capacity ahead of demand, betting that utilizat
 
 GDS's growth has been powered by the expansion of internet companies, cloud services, and financial technology in China. Alibaba, Tencent, Baidu, ByteDance, and other technology giants all use colocation and cloud-connectivity services. As these companies scaled, so did demand for data-center capacity. GDS, having moved early to build scale, captured a large share of that demand.
 
-The company also benefits from the regulatory environment in China. Foreign cloud providers like Amazon Web Services and Microsoft Azure operate in China only through partnerships with local operators. This creates a bottleneck in the market: Chinese companies often cannot directly use foreign cloud infrastructure; they must go through approved local partners or use domestic providers. GDS's facilities serve as part of that infrastructure backbone.
+The company also benefits from the regulatory environment in China. Foreign cloud providers like Amazon Web Services and [Microsoft](/msft-stock/) Azure operate in China only through partnerships with local operators. This creates a bottleneck in the market: Chinese companies often cannot directly use foreign cloud infrastructure; they must go through approved local partners or use domestic providers. GDS's facilities serve as part of that infrastructure backbone.
 
 ## The risk from Chinese Internet Regulation
 
@@ -36,7 +36,7 @@ More broadly, changes to Chinese foreign investment rules, restrictions on Weste
 
 ## Capital intensity and competitive pressure
 
-Building data centers requires enormous capital. GDS has raised significant debt and equity to fund its expansion, and that leverage constrains financial flexibility. If the company cannot fill new facilities, returns on that capital deteriorate, and the balance sheet becomes stressed.
+Building data centers requires enormous capital. GDS has raised significant debt and equity to fund its expansion, and that leverage constrains financial flexibility. If the company cannot fill new facilities, returns on that capital deteriorate, and the [balance sheet](/balance-sheet/) becomes stressed.
 
 Competition is also rising. Larger cloud providers including Alibaba Cloud and Tencent Cloud are building their own data centers, vertically integrating backward to own the infrastructure their customers rely on. This reduces demand for colocation from independent operators like GDS. Simultaneously, new domestic competitors have entered the market, and some international data-center operators are exploring expansion into China, bringing capital and scale.
 
@@ -48,7 +48,7 @@ The company's ability to fill new capacity matters as much as its absolute size.
 
 ## How to research GDS Holdings
 
-Investors researching GDS should start with the annual report (SEC CIK 0001526125) and quarterly earnings releases, which break down revenue by geography and customer segment, provide utilization rates, and detail capital expenditure. Pay close attention to utilization trends — are facilities getting fuller or emptier? Are new facilities ramping faster or slower than expected?
+Investors researching GDS should start with the [annual report](/10-k/) (SEC CIK 0001526125) and quarterly earnings releases, which break down revenue by geography and customer segment, provide utilization rates, and detail capital expenditure. Pay close attention to utilization trends — are facilities getting fuller or emptier? Are new facilities ramping faster or slower than expected?
 
 Look at the company's debt levels and cash-flow generation. Data-center operators need to service debt while investing in new capacity. If debt is rising faster than cash flow, the company may be constrained in its ability to continue expansion or return capital to shareholders.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-EMIF is an exchange-traded fund sponsored by iShares, a division of BlackRock, that concentrates holdings in infrastructure-related companies across emerging markets. Rather than owning a broad cross-section of all sectors in developing countries, EMIF targets firms in infrastructure industries — utilities, energy, transportation, water, and telecommunications — which typically operate as monopolies or near-monopolies with long-term, regulated revenue streams. This sectoral focus trades the diversification of a broad emerging-market fund for exposure to infrastructure assets that are essential to economic development and often offer more stable cash flows than commodity or technology companies.
+EMIF is an exchange-traded fund sponsored by iShares, a division of [BlackRock](/blk-stock/), that concentrates holdings in infrastructure-related companies across emerging markets. Rather than owning a broad cross-section of all sectors in developing countries, EMIF targets firms in infrastructure industries — utilities, energy, transportation, water, and telecommunications — which typically operate as monopolies or near-monopolies with long-term, regulated revenue streams. This sectoral focus trades the [diversification](/diversification/) of a broad emerging-market fund for exposure to infrastructure assets that are essential to economic development and often offer more stable cash flows than commodity or technology companies.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,13 +28,13 @@ EMIF is an exchange-traded fund sponsored by iShares, a division of BlackRock, t
 
 ## Power and utilities segment
 
-The utilities portion of EMIF holds regional and national electricity distribution companies, gas utilities, and water operators. These firms earn revenue from the volume of utility delivered — kilowatt-hours, cubic meters of gas, or liters of water. They operate as regulated monopolies or near-monopolies in their geographic territories, which means they cannot compete on price. Instead, their earnings are set by regulation: a government body determines what rate the company can charge and what return it may earn on its capital base.
+The utilities portion of EMIF holds regional and national electricity distribution companies, gas utilities, and water operators. These firms earn revenue from the volume of utility delivered — kilowatt-hours, cubic meters of gas, or liters of water. They operate as regulated monopolies or near-monopolies in their geographic territories, which means they cannot compete on price. Instead, their earnings are set by [regulation: a](/regulation-a/) government body determines what rate the company can charge and what return it may earn on its capital base.
 
 This regulatory model produces stable, predictable cash flows, but it also means returns depend entirely on regulatory decisions. In emerging markets, utilities often face growing demand from rising populations and increasing electrification, which creates expansion opportunities larger than in developed countries where infrastructure is already mature. However, political risk is elevated: a new government might change rate-setting rules abruptly, impose price caps, or seize assets.
 
 ## Energy infrastructure segment
 
-Energy-related holdings include companies that operate oil and gas pipelines, liquefied natural gas terminals, power plants, and related midstream infrastructure. These assets differ materially from upstream oil-and-gas explorers or producers, which bet on commodity prices. Infrastructure assets earn returns from the stable flow of fuel or electricity through pipes and networks, with revenue set by long-term contracts or regulated tariffs.
+Energy-related holdings include companies that operate oil and gas pipelines, liquefied [natural gas](/natural-gas/) terminals, power plants, and related midstream infrastructure. These assets differ materially from upstream oil-and-gas explorers or producers, which bet on commodity prices. Infrastructure assets earn returns from the stable flow of fuel or electricity through pipes and networks, with revenue set by long-term contracts or regulated tariffs.
 
 That said, infrastructure funds with large energy exposure still inherit some commodity sensitivity. A prolonged decline in fossil-fuel demand, or regulatory shifts toward renewable energy in major emerging markets, can pressure returns. The boundary between infrastructure and commodity exposure is not always sharp.
 
@@ -60,7 +60,7 @@ This risk is concrete. Infrastructure projects in emerging markets have faced ex
 
 Sector concentration is built into EMIF. Because the fund owns only infrastructure, any sector-wide headwinds — regulatory crackdowns, investor rotation away from utilities, technological disruption — offer no diversification benefit. A broad emerging-market fund would offset a decline in utilities with gains in technology or consumer stocks; EMIF cannot.
 
-Currency risk is also material. Infrastructure companies often earn revenue in local currencies and cannot always pass through currency depreciation to customers. A sharp devaluation can crush dollar-based returns. Additionally, EMIF's holdings are less liquid than those of broader emerging-market funds, which can translate to wider bid-ask spreads and higher trading costs.
+[Currency risk](/currency-risk/) is also material. Infrastructure companies often earn revenue in local currencies and cannot always pass through currency [depreciation](/depreciation/) to customers. A sharp devaluation can crush dollar-based returns. Additionally, EMIF's holdings are less liquid than those of broader emerging-market funds, which can translate to wider [bid-ask spreads](/bid-ask-spread/) and higher trading costs.
 
 ## Researching the fund
 

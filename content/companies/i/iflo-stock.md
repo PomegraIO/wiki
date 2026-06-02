@@ -26,7 +26,7 @@ handwritten: true
 
 ## The origin of rules-based, factor-driven ETFs
 
-VictoryShares emerged in the 2000s from Invesco as part of a broader shift in the investment industry toward systematic, quantitative approaches. Rather than rely on subjective stock-picking by individual analysts, VictoryShares built rules-based strategies that apply transparent, repeatable criteria to select stocks. IFLO reflects this philosophy: it hunts for international companies with strong free cash flow generation, applying the same mechanical screens each quarter rather than asking portfolio managers to make ad hoc judgment calls.
+VictoryShares emerged in the 2000s from Invesco as part of a broader shift in the investment industry toward systematic, quantitative approaches. Rather than rely on subjective stock-picking by individual analysts, VictoryShares built rules-based strategies that apply transparent, repeatable criteria to select stocks. IFLO reflects this philosophy: it hunts for international companies with strong [free cash flow](/free-cash-flow/) generation, applying the same mechanical screens each quarter rather than asking portfolio managers to make ad hoc judgment calls.
 
 The free-cash-flow investment idea itself gained traction in the 1990s and 2000s as investors and academics realized that reported earnings could be gamed through accounting choices, but actual cash a company generates was harder to manipulate. A business that produces large free cash flow—earnings after paying for capital expenditures and working-capital needs—has genuine economic strength, flexibility to invest, pay down debt, or return cash to shareholders, and is less likely to collapse unexpectedly. This metric became a signal of quality that outpaced traditional price-to-earnings screens.
 
@@ -38,7 +38,7 @@ The approach is transparent: the same methodology applies to every stock in the 
 
 ## The shift from passive to actively managed ETFs
 
-When IFLO launched, most ETFs were passive index trackers—simply holding the entire index. IFLO represents a later evolution: an actively managed ETF that uses rules-based screens rather than manager judgment. Within the free-cash-flow universe, the manager makes allocation decisions—how many stocks to hold, relative weights—rather than mechanically replicating an index. This active component distinguishes IFLO from a simple free-cash-flow index tracker and justifies a higher expense ratio.
+When IFLO launched, most ETFs were passive index trackers—simply holding the entire index. IFLO represents a later evolution: an actively managed ETF that uses rules-based screens rather than manager judgment. Within the free-cash-flow universe, the manager makes allocation decisions—how many stocks to hold, relative weights—rather than mechanically replicating an index. This active component distinguishes IFLO from a simple free-cash-flow index tracker and justifies a higher [expense ratio](/expense-ratio/).
 
 The active management does not mean someone is actively trading based on market forecasts; rather, the fund applies its rules systematically and may deviate from cap-weighting to concentrate in the highest-quality free-cash-flow names.
 
@@ -56,7 +56,7 @@ IFLO typically overweights financial services, energy, industrials, and real est
 
 The primary risk to IFLO is value-factor cyclicality. Free-cash-flow screens work best when markets reward profitable, low-valuation stocks. Periods when investors chase growth (as in 2020–2021) frustrate value strategies, and IFLO can lag broad international indices for years at a time. If cyclical sectors face structural headwinds—coal declines, automotive disruption—IFLO's performance suffers.
 
-Currency risk is also substantial. Holdings are denominated in euros, yen, pounds, and Australian dollars; dollar strength and weakness significantly affect returns for US-based investors.
+[Currency risk](/currency-risk/) is also substantial. Holdings are denominated in euros, yen, pounds, and [Australian dollars](/australian-dollar/); dollar strength and weakness significantly affect returns for US-based investors.
 
 ## How to evaluate IFLO today
 

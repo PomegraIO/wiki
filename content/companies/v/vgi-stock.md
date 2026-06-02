@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Virtus Global Multi-Sector Income Fund (VGI) is a closed-end fixed-income mutual fund launched and managed by [Virtus Investment Partners](/vrts-stock/). The fund exists to generate income through broad exposure to global debt markets across multiple asset classes and geographies. Unlike an open-end mutual fund where investors can redeem shares daily at [net asset value](/net-asset-value/), a [closed-end fund](/closed-end-fund/) issues a fixed number of shares that trade on a stock exchange at prices set by supply and demand. VGI trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker VGI and appeals to individual investors seeking higher current yield than government bonds alone, along with the [diversification](/diversification/) that multi-sector bond exposure provides.
+Virtus Global Multi-Sector [Income Fund](/income-fund/) (VGI) is a closed-end fixed-income [mutual fund](/mutual-fund/) launched and managed by [Virtus Investment Partners](/vrts-stock/). The fund exists to generate income through broad exposure to global debt markets across multiple asset classes and geographies. Unlike an open-end mutual fund where investors can redeem shares daily at [net asset value](/net-asset-value/), a [closed-end fund](/closed-end-fund/) issues a fixed number of shares that trade on a [stock exchange](/stock-exchange/) at prices set by supply and demand. VGI trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker VGI and appeals to individual investors seeking higher [current yield](/current-yield/) than government [bonds](/bond/) alone, along with the [diversification](/diversification/) that multi-sector bond exposure provides.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,7 +34,7 @@ The portfolio spans [corporate bonds](/corporate-bond/) (both investment-grade a
 
 ## Duration and interest-rate sensitivity
 
-One constraint the fund uses to manage risk is duration — a measure of how sensitive a bond portfolio is to interest-rate moves. The fund targets a duration within three years (plus or minus) of the Barclays Global Aggregate Bond Index, which serves as a benchmark. Why? Duration matters because when interest rates rise, bond prices fall (the longer the duration, the steeper the fall). By anchoring the fund's duration to a widely recognized index, the managers communicate to shareholders that they are not taking wild interest-rate bets — they are trying to stay within a sensible risk band.
+One constraint the fund uses to manage risk is duration — a measure of how sensitive a bond portfolio is to interest-rate moves. The fund targets a duration within three years (plus or minus) of the Barclays Global Aggregate Bond Index, which serves as a benchmark. Why? Duration matters because when [interest rates](/interest-rate/) rise, bond prices fall (the longer the duration, the steeper the fall). By anchoring the fund's duration to a widely recognized index, the managers communicate to shareholders that they are not taking wild interest-rate bets — they are trying to stay within a sensible risk band.
 
 In practice, this means the fund is willing to hold some shorter-duration securities (which are less sensitive to rate changes) and some longer-duration bonds (which offer more yield), but it averages out the portfolio so that the overall sensitivity to rates is comparable to the Barclays benchmark. It is a disciplined approach that prevents the fund from becoming either too conservative or too aggressive relative to the broader fixed-income markets.
 
@@ -48,7 +48,7 @@ Because the fund is closed-end and trades on an exchange, the share price can tr
 
 Virtus Investment Advisers serves as the lead investment adviser for the fund, while Newfleet Asset Management handles co-management responsibilities. This dual-manager approach is common in large fixed-income funds and can offer advantages: each manager brings distinct expertise in different sectors, and having multiple decision-makers can reduce the risk that a single manager's style or judgment becomes a drag on returns.
 
-The managers operate within the constraint of seeking diversification across multiple fixed-income sectors. [High-yield bonds](/high-yield-bond/), for example, offer more yield than investment-grade corporate bonds but carry higher credit risk; including both allows the fund to capture part of the high-yield premium while mitigating [concentration risk](/concentration-risk/). Similarly, emerging-market debt offers higher yields than developed-market sovereigns, but including some EM exposure while retaining substantial developed-market holdings keeps the portfolio from becoming too dependent on any single region's economic health.
+The managers operate within the constraint of seeking diversification across multiple fixed-income sectors. [High-yield bonds](/high-yield-bond/), for example, offer more yield than investment-grade corporate bonds but carry higher [credit risk](/credit-risk/); including both allows the fund to capture part of the high-yield premium while mitigating [concentration risk](/concentration-risk/). Similarly, emerging-market debt offers higher yields than developed-market sovereigns, but including some EM exposure while retaining substantial developed-market holdings keeps the portfolio from becoming too dependent on any single region's economic health.
 
 ## Risks inherent in multi-sector bond funds
 
@@ -56,7 +56,7 @@ Even a diversified fixed-income fund carries credit risk — the risk that a bor
 
 [Interest-rate risk](/interest-rate-risk/) is another constant. If the [Federal Reserve](/federal-reserve/) raises rates or market rates rise for other reasons, the market value of bonds already issued falls, because new bonds paying higher yields become more attractive. Long-duration bonds suffer more; short-duration bonds suffer less. VGI's duration-targeting approach mitigates but does not eliminate this pressure.
 
-Finally, there is liquidity risk. Some of the bond markets the fund holds — emerging-market debt, non-agency mortgages, high-yield bonds — can experience periods of illiquidity where [bid-ask spreads](/bid-ask-spread/) widen and transactions become harder to execute. In a crisis or severe market dislocation, the fund might not be able to raise cash quickly if many shareholders tried to exit simultaneously.
+Finally, there is [liquidity risk](/liquidity-risk/). Some of the bond markets the fund holds — emerging-market debt, non-agency mortgages, high-yield bonds — can experience periods of illiquidity where [bid-ask spreads](/bid-ask-spread/) widen and transactions become harder to execute. In a crisis or severe market dislocation, the fund might not be able to raise cash quickly if many shareholders tried to exit simultaneously.
 
 ## How to evaluate Virtus Global Multi-Sector Income Fund
 

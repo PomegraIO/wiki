@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Mexico Fund Inc. is a closed-end [mutual fund](/mutual-fund/) that pools capital from shareholders to invest in Mexican equities. It offers investors a bundled, professionally managed portfolio of stocks listed on Mexican exchanges without requiring them to open accounts with Mexican brokers, convert currency themselves, or navigate local regulations. The fund trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker MXF, making it accessible to US and international investors through ordinary stock accounts.
+The Mexico Fund Inc. is a closed-end [mutual fund](/mutual-fund/) that pools capital from shareholders to invest in Mexican equities. It offers investors a bundled, professionally managed portfolio of stocks listed on Mexican exchanges without requiring them to open accounts with Mexican [brokers](/broker/), convert currency themselves, or navigate local regulations. The fund trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker MXF, making it accessible to US and international investors through ordinary stock accounts.
 
 <aside class="wiki-infobox">
 <table>
@@ -45,11 +45,11 @@ This premium or discount reflects investor sentiment about the fund's management
 
 ## The fund's income stream and reinvestment
 
-The Mexico Fund collects dividends from its holdings and (less frequently) capital gains from selling appreciated securities. The fund pays out its net investment income and realized capital gains to shareholders, either as distributions or (at shareholder election) as reinvested distributions that buy additional fund shares. The yield — the annual distribution divided by the share price — fluctuates with Mexican corporate profitability, [interest rates](/interest-rate/), and the fund's current trading price.
+The Mexico Fund collects [dividends](/dividend/) from its holdings and (less frequently) capital gains from selling appreciated securities. The fund pays out its net investment income and realized capital gains to shareholders, either as distributions or (at shareholder election) as reinvested distributions that buy additional fund shares. The yield — the annual distribution divided by the share price — fluctuates with Mexican corporate profitability, [interest rates](/interest-rate/), and the fund's current trading price.
 
 ## Concentration risk and economic exposure
 
-Mexican equities are not a liquid market by developed-market standards. The number of large, freely traded Mexican companies is limited, which means a country fund's portfolio often has meaningful concentration in a few sectors — financial services, telecommunications, and retail are perennial weights. This concentration can amplify gains if those sectors perform well and amplify losses if they suffer. Investors in MXF are also exposed to the fortunes of Mexico's economy, its exchange rate against the US dollar, and its regulatory and political environment.
+Mexican equities are not a liquid market by developed-market standards. The number of large, freely traded Mexican companies is limited, which means a country fund's portfolio often has meaningful concentration in a few sectors — financial services, telecommunications, and retail are perennial weights. This concentration can amplify gains if those sectors perform well and amplify losses if they suffer. Investors in MXF are also exposed to the fortunes of Mexico's economy, its exchange rate against the [US dollar](/us-dollar/), and its regulatory and political environment.
 
 ## Currency exposure and hedging
 
@@ -65,4 +65,4 @@ Prospective investors should start with the fund's prospectus, available on the 
 
 Comparing MXF's returns (net of fees) to a simple benchmark of Mexican equities — such as the S&P/BVM IPC Index, the benchmark of the Mexican stock exchange — reveals whether the fund's professional managers are adding value or merely charging fees. Watching the fund's premium or discount to net asset value shows whether the market is pricing the fund reasonably relative to its underlying holdings.
 
-Finally, understanding Mexico's macroeconomic position — its growth trajectory, inflation, interest rates, political stability, and trade relationships — provides context for why Mexican stocks might offer attractive returns or face headwinds. As with any security, nothing here is a recommendation to buy or sell — only a guide to how the fund works and what to monitor.
+Finally, understanding Mexico's macroeconomic position — its growth trajectory, [inflation](/inflation/), interest rates, political stability, and trade relationships — provides context for why Mexican stocks might offer attractive returns or face headwinds. As with any security, nothing here is a recommendation to buy or sell — only a guide to how the fund works and what to monitor.

@@ -30,7 +30,7 @@ handwritten: true
 
 ## From Consumer Brands to Security Technology
 
-Nexera Technologies emerged from a corporate pivot in 2026 when Jeffs' Brands Ltd, an entity that had operated in consumer e-commerce, underwent a fundamental transformation. The company shifted away from traditional retail distribution and reoriented its business entirely toward homeland security and AI-enabled threat detection systems. This pivot represented both a recognition of market opportunity and a repositioning of corporate focus toward high-value, mission-critical applications where technology depth matters more than consumer scale.
+[Nexera Technologies](/nexr-stock/) emerged from a corporate pivot in 2026 when Jeffs' Brands Ltd, an entity that had operated in consumer e-commerce, underwent a fundamental transformation. The company shifted away from traditional retail distribution and reoriented its business entirely toward homeland security and AI-enabled threat detection systems. This pivot represented both a recognition of market opportunity and a repositioning of corporate focus toward high-value, mission-critical applications where technology depth matters more than consumer scale.
 
 The transition was deliberate. The company identified a growing market for intelligent perimeter security, automated threat detection, and unmanned aerial system awareness—areas where Israel's technology sector has built deep expertise. Rather than compete in crowded consumer channels, Nexera chose to build on foundational technology capabilities and develop purpose-built solutions for government agencies, border authorities, and critical infrastructure operators.
 

@@ -63,7 +63,7 @@ CFNB's ability to securitize leases (sell them to investors) is a critical fundi
 
 ## Competitive Positioning and Fragility
 
-CFNB competes against larger captive finance subsidiaries (Caterpillar Financial, John Deere Capital) that are funded by parent-company balance sheets and can offer aggressive pricing; against banks offering direct lending; and against equipment vendors' own in-house financing. CFNB has no inherent advantage in any category and limited scale. The company survives by focusing on niches (specific equipment types, customer segments, geographies) where it can build expertise and relationships that larger competitors do not prioritize.
+CFNB competes against larger captive finance subsidiaries (Caterpillar Financial, John [Deere](/de-stock/) Capital) that are funded by parent-company balance sheets and can offer aggressive pricing; against banks offering direct lending; and against equipment vendors' own in-house financing. CFNB has no inherent advantage in any category and limited scale. The company survives by focusing on niches (specific equipment types, customer segments, geographies) where it can build expertise and relationships that larger competitors do not prioritize.
 
 The economic logic is sound: originate leases, fund them profitably, collect predictable payments, manage residuals. But the execution is challenging and cyclical. CFNB's viability depends on maintaining disciplined underwriting through credit cycles, managing residual-value forecasting accurately, and finding cost-effective funding. Any deterioration in any of these dimensions (loosened underwriting, poor residual outcomes, funding market disruption) can quickly erode profitability and return on capital.
 

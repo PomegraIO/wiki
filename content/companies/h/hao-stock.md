@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**Haoxi Health Technology is a small China-based online [healthcare services](/hcsg-stock/) platform.** Publicly listed on the [NASDAQ](/nasdaq/) under ticker HAO, the company sits at the intersection of healthcare and digital tools, providing software and services that help doctors and medical practitioners manage patient relationships and grow their practices.
+**Haoxi Health Technology is a small China-based online healthcare services platform.** Publicly listed on the [NASDAQ](/nasdaq/) under ticker HAO, the company sits at the intersection of healthcare and digital tools, providing software and services that help doctors and medical practitioners manage patient relationships and grow their practices.
 
 The company operates primarily through a software platform that serves medical practitioners, clinics, and small healthcare providers in China. Its core offering centers on helping these practitioners build online presences, manage patient interactions, and handle administrative tasks—functionality that might be thought of as a practice management tool with marketing components baked in. This is not a telemedicine platform in the traditional sense; rather, it aims to be a supporting infrastructure for practitioners who want to reach patients through digital channels and maintain ongoing relationships with them.
 

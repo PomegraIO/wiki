@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Public Storage operates the largest network of self-storage facilities in the United States, collecting monthly rent from individuals and small businesses who need temporary space — a business that behaves unlike most real estate in economic downturns.*
+*[Public Storage](/psa-stock/) operates the largest network of self-storage facilities in the United States, collecting monthly rent from individuals and small businesses who need temporary space — a business that behaves unlike most real estate in economic downturns.*
 
 <aside class="wiki-infobox">
 
@@ -30,7 +30,7 @@ handwritten: true
 
 ## The countercyclical demand engine
 
-Self-storage is often misunderstood as a cyclical business that weakens in recessions. The opposite is closer to truth. When the economy booms, people move for better jobs, businesses expand and need overflow warehousing, and households accumulate goods; storage demand rises. When the economy contracts, people downsize, undergo divorce or relocation to find work, or declutter — again driving people to rent a unit. The real volatility in self-storage is not recession versus expansion, but rather the specific disruptions that force people to act: job transitions, life events, demographic churn.
+Self-storage is often misunderstood as a cyclical business that weakens in [recessions](/recession/). The opposite is closer to truth. When the economy booms, people move for better jobs, businesses expand and need overflow warehousing, and households accumulate goods; storage demand rises. When the economy contracts, people downsize, undergo divorce or relocation to find work, or declutter — again driving people to rent a unit. The real volatility in self-storage is not recession versus expansion, but rather the specific disruptions that force people to act: job transitions, life events, demographic churn.
 
 This is why Public Storage's occupancy rates remain resilient even in weak periods. A facility that averages 85 per cent occupancy in a boom may dip to 75–80 per cent in a downturn, but that is a modest swing compared to what happens in apartment buildings or office parks. The customer base is also smaller and more fragmented — tens of thousands of individuals and sole proprietors rather than a handful of corporate tenants. If one tenant leaves, it barely registers.
 
@@ -40,7 +40,7 @@ The company's pricing power further stabilizes the business. A tenant who has st
 
 Public Storage's scale — nearly 2,900 facilities across the country — is not just a size advantage but a structural one. The company owns the best-located facilities in most major markets, concentrated in California, Texas, Florida, and New York, where real estate is expensive and the density of potential customers is high. A competitor entering these markets faces a simple problem: it cannot build on the prime land because Public Storage already owns it. Building on secondary land, at a distance from the densest customer base, creates a cost disadvantage from day one.
 
-The installed base also confers operational advantages. Public Storage can negotiate better rates on property insurance, maintenance contracts, and acquisition prices for new facilities; it has the scale to deploy technology systems across the entire portfolio for reservations, access, and customer service. The "Public Storage" brand is ubiquitous — customers recognize the sign — which reduces customer-acquisition costs.
+The installed base also confers operational advantages. Public Storage can negotiate better rates on property insurance, maintenance contracts, and [acquisition](/acquisition/) prices for new facilities; it has the scale to deploy technology systems across the entire portfolio for reservations, access, and customer service. The "Public Storage" brand is ubiquitous — customers recognize the sign — which reduces customer-acquisition costs.
 
 Expansion, however, is capital-intensive and slow. Developing a new facility requires finding land, securing permits, constructing the building, and leasing units — a multi-year cycle that ties up cash. Acquiring an existing facility from a competitor requires outbidding other buyers. As the company gets larger, organic growth from the existing portfolio becomes the dominant driver of returns.
 
@@ -54,7 +54,7 @@ Ancillary revenue — from selling locks, boxes, packing supplies, climate-contr
 
 ## Capital allocation and the REIT structure
 
-Public Storage is organized as a Real Estate Investment Trust, a structure that requires the company to distribute at least 90 per cent of its taxable income to shareholders via dividends. This constraint shapes the business: the company cannot hoard cash to fund aggressive expansions or acquisitions unless it raises external capital.
+Public Storage is organized as a [Real Estate Investment Trust](/real-estate-investment-trust/), a structure that requires the company to distribute at least 90 per cent of its taxable income to shareholders via [dividends](/dividend/). This constraint shapes the business: the company cannot hoard cash to fund aggressive expansions or acquisitions unless it raises external capital.
 
 The result is a business model centered on income for shareholders. Public Storage pays a dividend, and that dividend has grown steadily over decades — a selling point for income-focused investors. The company can still deploy capital into new facilities and acquisitions by raising debt or issuing new shares, but the default is to return cash to shareholders rather than to reinvest it.
 
@@ -62,11 +62,11 @@ This structure has both strengths and limitations. On the strength side, it alig
 
 ## Risks that matter in different cycles
 
-The primary long-term risk is overbuilding. Self-storage is attractive as an investment, which means competitors will build new facilities. If too many units come online in a market simultaneously, occupancy rates fall, operators cut rents or offer move-in specials, and returns compress. Public Storage's scale and balance sheet let it weather periods of oversupply, but the risk persists. A major recession that simultaneously reduces household relocations and business activity could depress both occupancy and rents.
+The primary long-term risk is overbuilding. Self-storage is attractive as an investment, which means competitors will build new facilities. If too many units come online in a market simultaneously, occupancy rates fall, operators cut rents or offer move-in specials, and returns compress. Public Storage's scale and [balance sheet](/balance-sheet/) let it weather periods of oversupply, but the risk persists. A major recession that simultaneously reduces household relocations and business activity could depress both occupancy and rents.
 
-Interest-rate risk is material. Public Storage owns real estate financed with debt. When rates are high, refinancing becomes expensive. The company's debt is substantial but manageable given strong cash flows; still, a rapid, sustained rise in rates could pressure returns and slow expansion.
+[Interest-rate risk](/interest-rate-risk/) is material. Public Storage owns real estate financed with debt. When rates are high, refinancing becomes expensive. The company's debt is substantial but manageable given strong cash flows; still, a rapid, sustained rise in rates could pressure returns and slow expansion.
 
-Technological disruption is a longer-dated tail risk. If a company developed a robust on-demand micro-storage service — say, a network of ultra-convenient pods in cities, or a service that stores customer items remotely — that could erode demand. So far, no such service has materially dented self-storage demand, but it remains a possibility.
+Technological disruption is a longer-dated [tail risk](/tail-risk/). If a company developed a robust on-demand micro-storage service — say, a network of ultra-convenient pods in cities, or a service that stores customer items remotely — that could erode demand. So far, no such service has materially dented self-storage demand, but it remains a possibility.
 
 Climate risk is a slow-growing shadow. Severe hurricanes or wildfires could damage facilities or displace customers. Rising climate volatility could push insurance costs higher, compressing margins.
 

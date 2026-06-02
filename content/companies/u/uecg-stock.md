@@ -21,7 +21,7 @@ UECG tracks the VanEck Nuclear Energy & Uranium ETF (UEC), which itself holds co
 
 Uranium demand comes principally from nuclear power plants, which buy fuel for reactor cores. In recent years rising energy demand and decarbonisation goals have lifted nuclear back into favour, and some predict a shortage of nuclear fuel if reactor construction accelerates. UECG lets an investor express that view in leveraged form.
 
-The ETF itself holds a diversified basket across large-cap names like Kazatomprom and Cameco, mid-cap explorers and producers, and infrastructure plays on the nuclear fuel cycle. Because the underlying UEC index is relatively narrow, UECG has meaningful concentration risk — a large move in one or two major uranium companies can swing the portfolio significantly.
+The ETF itself holds a diversified basket across large-cap names like Kazatomprom and Cameco, mid-cap explorers and producers, and infrastructure plays on the nuclear fuel cycle. Because the underlying UEC index is relatively narrow, UECG has meaningful [concentration risk](/concentration-risk/) — a large move in one or two major uranium companies can swing the portfolio significantly.
 
 ## How the 2x leverage is engineered
 
@@ -37,9 +37,9 @@ Volatility decay is the silent cost. Over weeks, UECG will underperform 2x the r
 
 ## Costs and trading characteristics
 
-The expense ratio is moderate for a leveraged product, typically around 1.4 to 1.6 per cent per year, reflecting the cost of maintaining derivatives positions. On top of that sits the implicit cost of daily rebalancing — the slippage from trading in and out of the derivatives positions multiple times daily. During high-volatility uranium sessions, these implicit costs can spike noticeably.
+The [expense ratio](/expense-ratio/) is moderate for a leveraged product, typically around 1.4 to 1.6 per cent per year, reflecting the cost of maintaining derivatives positions. On top of that sits the implicit cost of daily rebalancing — the slippage from trading in and out of the derivatives positions multiple times daily. During high-volatility uranium sessions, these implicit costs can spike noticeably.
 
-UECG trades on a major exchange with reasonable liquidity for a niche sector fund, though not as tight as broad-market products. Spreads are typically a few basis points, and daily volume is sufficient for most traders to enter and exit without significant price impact.
+UECG trades on a major exchange with reasonable liquidity for a niche [sector fund](/sector-fund/), though not as tight as broad-market products. Spreads are typically a few basis points, and daily volume is sufficient for most traders to enter and exit without significant price impact.
 
 ## Who UECG is for
 

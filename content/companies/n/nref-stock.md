@@ -27,7 +27,7 @@ NexPoint Real Estate Finance, Inc. is a [real estate investment trust](/real-est
 
 ## What problem does a mortgage REIT solve?
 
-[Commercial real estate](/commercial-real-estate/) developers and owners constantly need debt capital to build, acquire, and refinance properties. Traditional banks often retreat from this lending in uncertain markets, or tighten underwriting to levels that exclude even sound properties. A mortgage REIT fills that gap: it sources capital from public investors, deploys that capital as loans to real estate operators, and passes the interest income (minus management costs) to shareholders as dividends. NexPoint's role is to originate and manage a portfolio of these loans, sitting as the senior lender on properties with strong fundamentals but perhaps unconventional ownership structures or tight loan-to-value ratios that larger banks avoid.
+[Commercial real estate](/commercial-real-estate/) developers and owners constantly need debt capital to build, acquire, and refinance properties. Traditional banks often retreat from this lending in uncertain markets, or tighten underwriting to levels that exclude even sound properties. A [mortgage REIT](/mortgage-reit/) fills that gap: it sources capital from public investors, deploys that capital as loans to real estate operators, and passes the interest income (minus management costs) to shareholders as [dividends](/dividend/). NexPoint's role is to originate and manage a portfolio of these loans, sitting as the senior lender on properties with strong fundamentals but perhaps unconventional ownership structures or tight loan-to-value ratios that larger banks avoid.
 
 ## How does NexPoint make and deploy capital?
 
@@ -37,7 +37,7 @@ The portfolio as of late 2025 carried roughly $1.5 billion in unpaid principal b
 
 ## Where does the capital come from?
 
-NexPoint funds its business through equity raised from public shareholders who buy NREF stock, and through debt facilities and [securitizations](/securitization/). The company has issued mortgage-backed securities backed by pools of its loans, much like the securitization markets that exist for residential mortgages — this attracts fixed-income investors and allows NexPoint to redeploy capital to new loans rather than holding every loan to maturity. The dividend yield on the equity compensates shareholders for the risks of real estate lending: defaults, extended workout periods, or market downturns that damage property valuations.
+NexPoint funds its business through equity raised from public shareholders who buy NREF stock, and through debt facilities and [securitizations](/securitization/). The company has issued mortgage-backed securities backed by pools of its loans, much like the securitization markets that exist for residential mortgages — this attracts fixed-income investors and allows NexPoint to redeploy capital to new loans rather than holding every loan to maturity. The [dividend yield](/dividend-yield/) on the equity compensates shareholders for the risks of real estate lending: defaults, extended workout periods, or market downturns that damage property valuations.
 
 As a REIT, NexPoint is required to distribute at least 90 percent of taxable income to shareholders, so very little of its profit is retained for internal reinvestment. This structure moves capital directly to shareholders; growth comes from originating new loans and reinvesting dividends, not from [retained earnings](/retained-earnings/) building inside the company.
 

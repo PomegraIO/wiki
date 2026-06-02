@@ -32,7 +32,7 @@ However, leverage cuts both ways. If the portfolio underperforms and returns fal
 
 The unit economics of a BDC like MAIN ultimately depend on the credit quality of the loans and the performance of the equity investments. If the portfolio companies are stable, profitable, and growing, losses are low and returns compound. If portfolio companies struggle, sales weaken, or debt-to-earnings ratios rise unsustainably, defaults occur, losses mount, and returns evaporate.
 
-MAIN must be disciplined in underwriting: assessing the borrower's cash flow, management quality, competitive position, and [leverage ratios](/leverage-ratio-forex/) before deploying capital. Companies with strong cash flows and experienced ownership teams perform better than highly leveraged turnarounds or distressed situations. The [default rate](/default-rate/) on MAIN's loan portfolio is therefore a critical figure to watch; it determines net realized returns after charge-offs.
+MAIN must be disciplined in underwriting: assessing the borrower's [cash flow, management](/cash-flow-management-personal/) quality, competitive position, and [leverage ratios](/leverage-ratio-forex/) before deploying capital. Companies with strong cash flows and experienced ownership teams perform better than highly leveraged turnarounds or distressed situations. The [default rate](/default-rate/) on MAIN's loan portfolio is therefore a critical figure to watch; it determines net realized returns after charge-offs.
 
 ## The Dividend Treadmill
 

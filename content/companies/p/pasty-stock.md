@@ -32,7 +32,7 @@ The business sounds unglamorous — bumpers and fuel tanks are not the technolog
 
 ## How did Plastic Omnium get its position?
 
-Plastic Omnium began in 1946 in Lyons, France, as a manufacturer of plastic household and industrial products. Over the following decades it pivoted gradually toward automotive, recognizing that the industry offered large, stable contracts with global reach. By the 1990s, as car makers began designing lighter vehicles and using more plastic to replace metal, Plastic Omnium became one of Europe's leading suppliers of plastic body panels. The company expanded through acquisitions, buying fuel-system makers and emission-control specialists, building its portfolio outward from its core strength in plastic forming and injection molding.
+Plastic Omnium began in 1946 in Lyons, France, as a manufacturer of plastic household and industrial products. Over the following decades it pivoted gradually toward automotive, recognizing that the industry offered large, stable contracts with global reach. By the 1990s, as car makers began designing lighter vehicles and using more plastic to replace metal, Plastic Omnium became one of Europe's leading suppliers of plastic body panels. The company expanded through [acquisitions](/acquisition/), buying fuel-system makers and emission-control specialists, building its portfolio outward from its core strength in plastic forming and injection molding.
 
 The deliberate strategy was to be a full-service supplier of non-powertrain systems to car makers. Rather than compete on engines or gearboxes, the company focused on the parts that car makers preferred to outsource: the exterior skin, the fuel system, the thermal and emissions management. This positioning allowed Plastic Omnium to grow steadily through the 1990s and 2000s, with contracts that renewed and expanded as car makers launched new models.
 
@@ -50,7 +50,7 @@ The company has been making that transition deliberately, investing in new capab
 
 ## What geographies and customers matter most?
 
-Plastic Omnium generates roughly equal revenue from Europe, North America, and Asia, with manufacturing facilities spread across all three regions. The company is heavily dependent on the health of major car makers: Volkswagen Group, BMW, Ford, General Motors, Nissan, Toyota, and others. Losing a major contract or a significant customer has immediate and material impact. On the flip side, a major new model launch from one of these customers can drive rapid revenue growth.
+Plastic Omnium generates roughly equal revenue from Europe, North America, and Asia, with manufacturing facilities spread across all three regions. The company is heavily dependent on the health of major car makers: Volkswagen Group, BMW, Ford, [General Motors](/gm-stock/), Nissan, Toyota, and others. Losing a major contract or a significant customer has immediate and material impact. On the flip side, a major new model launch from one of these customers can drive rapid revenue growth.
 
 China is growing in importance as both a manufacturing base and a market. The company operates plants there and supplies Chinese car makers, positioning it to benefit from China's enormous automotive market. However, Chinese competition is intensifying, and some Chinese suppliers can undercut European suppliers on cost.
 

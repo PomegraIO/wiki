@@ -32,7 +32,7 @@ Sun Country's size — far smaller than Southwest, United, or American — means
 
 ## Risks and the path forward
 
-The airline faces standard airline risks: exposure to fuel prices, labor costs, and demand shocks. Leisure travel, the core market, is cyclical — it falls sharply when consumers feel economically pinched. The charter business depends on discretionary spending by tour groups and corporations, which dries up in a recession. Sun Country also competes with low-cost carriers like Southwest and Spirit, which operate on thinner margins and have more scale.
+The airline faces standard airline risks: exposure to fuel prices, labor costs, and demand shocks. Leisure travel, the core market, is cyclical — it falls sharply when consumers feel economically pinched. The charter business depends on [discretionary spending](/discretionary-spending/) by tour groups and corporations, which dries up in a [recession](/recession/). Sun Country also competes with low-cost carriers like Southwest and Spirit, which operate on thinner margins and have more scale.
 
 A deeper question is whether the hybrid model actually works or is just a stopgap. If scheduled service fails to reach the scale of profitability, the airline could be forced to shed it and revert to pure charter. If charter demand weakens, Sun Country loses the buffer it was designed to provide. The airline must prove it can make money on both legs simultaneously, not just substitute one for the other.
 

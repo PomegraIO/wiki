@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-John Wiley & Sons publishes research, education, and professional materials for scientists, scholars, students, and practitioners—from chemists and engineers to business executives and nurses. It is one of the three largest academic publishers in the English-language world, alongside Elsevier and Springer Nature, and its name appears on thousands of journals, textbooks, and professional references that set the standard in their fields. A dollar that enters Wiley flows from a few distinct sources: journal subscriptions paid by universities and research institutions, textbook sales to students, professional licensing content used by accountants and other credential-holders, and digital platforms that bundle research and learning tools.
+[John Wiley & Sons](/wly-stock/) publishes research, education, and professional materials for scientists, scholars, students, and practitioners—from chemists and engineers to business executives and nurses. It is one of the three largest academic publishers in the English-language world, alongside Elsevier and Springer Nature, and its name appears on thousands of journals, textbooks, and professional references that set the standard in their fields. A dollar that enters Wiley flows from a few distinct sources: journal subscriptions paid by universities and research institutions, textbook sales to students, professional licensing content used by accountants and other credential-holders, and digital platforms that bundle research and learning tools.
 
 <aside class="wiki-infobox">
 <table>
@@ -49,7 +49,7 @@ But the moat is under structural pressure. Open-access journals have proliferate
 
 Wiley's unit economics have tightened substantially as print production has been rationalized. Printing books and journals is capital-intensive and labor-intensive; moving to print-on-demand and digital-first publishing brought incremental margin expansion. But the company cannot offset subscription headwinds through cost-cutting alone—growth must come from pricing the services it offers and capturing a larger share of the corporate and research-services spending that flows from institutions and practitioners.
 
-The company also faces talent and acquisition costs in the data-platform space. Every acquisition of a specialty database or SaaS company comes with retention risk—engineers and product managers at smaller firms may not stay once absorbed into a decades-old publishing bureaucracy. Getting the integration and the product roadmap right matters enormously for realizing the value of deal.
+The company also faces talent and [acquisition](/acquisition/) costs in the data-platform space. Every acquisition of a specialty database or SaaS company comes with retention risk—engineers and product managers at smaller firms may not stay once absorbed into a decades-old publishing bureaucracy. Getting the integration and the product roadmap right matters enormously for realizing the value of deal.
 
 ## How to research Wiley as an investment
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The abrdn Emerging Markets ex-China Fund is a closed-end investment company that buys stocks in developing economies around the world, excluding the People's Republic of China. The fund distributes monthly dividends to shareholders and trades on an exchange. It exists primarily to give investors a simple vehicle for participating in growth across Latin America, Southeast Asia, India, and other regions outside the developed Western economies and China.
+The abrdn Emerging Markets ex-China Fund is a closed-end investment company that buys stocks in developing economies around the world, excluding the People's Republic of China. The fund distributes monthly [dividends](/dividend/) to shareholders and trades on an exchange. It exists primarily to give investors a simple vehicle for participating in growth across Latin America, Southeast Asia, India, and other regions outside the developed Western economies and China.
 
 ## A deliberately geographic slice of emerging markets
 

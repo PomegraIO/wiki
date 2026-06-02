@@ -16,7 +16,7 @@ Ranger Gold Corp., trading on OTC markets under RNGC, is an exploration-stage mi
 
 ## The acquisition and exploration model
 
-This is a deliberate strategic choice. Operating a mine—sinking shafts, processing ore, managing environmental remediation—requires enormous capital investment, years of permitting and regulatory approval, and acceptance of significant operational risk. Ranger Gold avoids that capital intensity by positioning itself as an early-stage finder and developer of prospects.
+This is a deliberate strategic choice. Operating a mine—sinking shafts, processing ore, managing environmental remediation—requires enormous capital investment, years of permitting and regulatory approval, and acceptance of significant [operational risk](/operational-risk/). Ranger Gold avoids that capital intensity by positioning itself as an early-stage finder and developer of prospects.
 
 The business model is straightforward: identify underexplored or undervalued mining concessions, assemble exploration teams, conduct geological work to define a mineral deposit, prove up enough ore and grade to demonstrate commercial viability, and then sell or partner the property to a major mining company that has the capital and operational infrastructure to take it into production. If a deal happens, shareholders benefit from the appreciation in the property's value. If no deal materializes, the property is written off.
 
@@ -24,13 +24,13 @@ The business model is straightforward: identify underexplored or undervalued min
 
 Ranger Gold's competitive position rests on two pillars: the team's ability to identify promising ground and the land positions it controls. In exploration, experience and geological intuition matter—knowing where to look, recognizing favorable formations, and building relationships with landowners and regulators who control access. The company operates in the United States, where mining exploration is well-established but also heavily regulated; navigating permitting and environmental review is a skill in itself.
 
-Yet these are soft advantages. Larger mining companies, junior miners with more capital, and exploration syndicates all compete for the same properties. Scale and access to capital are powerful in acquisition and bidding contests. Ranger Gold, as a micro-cap public company with limited market access, cannot outbid or outspend larger competitors.
+Yet these are soft advantages. Larger mining companies, junior miners with more capital, and exploration syndicates all compete for the same properties. Scale and access to capital are powerful in [acquisition](/acquisition/) and bidding contests. Ranger Gold, as a micro-cap public company with limited market access, cannot outbid or outspend larger competitors.
 
 ## The exploration-stage burden
 
 Ranger Gold is classified as an exploration-stage company, which means it has spent money exploring but has generated negligible revenue. This classification tells the full story: the company is pre-commercial. It has not found a deposit large enough or of sufficient grade to justify production. It is betting on future discovery.
 
-This creates a fundamental tension with public-market ownership. Shareholders in exploration companies do not receive dividends or earnings; they hold speculative claims on future discoveries that may never materialize. The company survives on capital raises—either equity offerings that dilute existing investors or debt that burdens the balance sheet. Each financing round raises the hurdle for any future discovery to justify the capital invested.
+This creates a fundamental tension with public-market ownership. Shareholders in exploration companies do not receive [dividends](/dividend/) or earnings; they hold speculative claims on future discoveries that may never materialize. The company survives on capital raises—either equity offerings that dilute existing investors or debt that burdens the [balance sheet](/balance-sheet/). Each financing round raises the hurdle for any future discovery to justify the capital invested.
 
 ## Investment and exit scenarios
 

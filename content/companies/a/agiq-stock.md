@@ -39,9 +39,9 @@ The fund is not sector-specific; it can own financials, technology, industrials,
 
 ## Active management and index arbitrage
 
-Unlike index-tracked funds that mechanically hold all constituents of a pre-set index, AGIQ involves active stock selection. The portfolio manager makes explicit bets that certain companies will benefit more than others from agentic AI — for instance, overweighting chip makers if the conviction is that inference costs and compute density will drive demand, or overweighting software companies if the thesis is that easier programming interfaces will accelerate adoption. This introduces two important considerations: the manager can be right or wrong, and the fund carries an expense ratio reflecting the cost of active research and trading.
+Unlike index-tracked funds that mechanically hold all constituents of a pre-set index, AGIQ involves active stock selection. The portfolio manager makes explicit bets that certain companies will benefit more than others from agentic AI — for instance, overweighting chip makers if the conviction is that inference costs and compute density will drive demand, or overweighting software companies if the thesis is that easier programming interfaces will accelerate adoption. This introduces two important considerations: the manager can be right or wrong, and the fund carries an [expense ratio](/expense-ratio/) reflecting the cost of active research and trading.
 
-The fund is also subject to concentration risk if the manager becomes overly confident in a specific narrative (e.g., if one chipmaker emerges as the dominant beneficiary, the portfolio might be heavily exposed). Thematic funds often live or die by whether the chosen theme materializes and whether the manager's timing and stock-picking are sound.
+The fund is also subject to [concentration risk](/concentration-risk/) if the manager becomes overly confident in a specific narrative (e.g., if one chipmaker emerges as the dominant beneficiary, the portfolio might be heavily exposed). Thematic funds often live or die by whether the chosen theme materializes and whether the manager's timing and stock-picking are sound.
 
 ## How a reader would evaluate it
 
@@ -51,6 +51,6 @@ Beyond the fund documents, an investor should understand the current state of ag
 
 ## Risks and the nature of thematic funds
 
-Thematic ETFs depend entirely on their chosen narrative remaining true and important. If agentic AI deployment disappoints, or if the value accrues primarily to a handful of winners (leaving AGIQ's diversified holdings as spectators), the fund can significantly underperform. The active manager's stock-picking adds another layer of risk: even if the theme is right, the manager's selections can lag the broader market or a simpler AI-exposure index.
+[Thematic ETFs](/thematic-etf/) depend entirely on their chosen narrative remaining true and important. If agentic AI deployment disappoints, or if the value accrues primarily to a handful of winners (leaving AGIQ's diversified holdings as spectators), the fund can significantly underperform. The active manager's stock-picking adds another layer of risk: even if the theme is right, the manager's selections can lag the broader market or a simpler AI-exposure index.
 
 Because AGIQ is actively managed, it does not provide the passive, low-cost, transparent index exposure that plain index ETFs offer. It requires conviction in both the theme and the manager's execution — a meaningful step beyond buying a broad market fund. Like any active fund, its outperformance (if any) must justify its higher costs over time.

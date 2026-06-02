@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Nature's Miracle Holding Inc. supplies equipment and technology to the controlled environment agriculture industry—the business of growing plants indoors using artificial light, hydroponic systems, and climate control. The company makes and sells LED grow lights, traditional high-pressure sodium and ceramic metal halide fixtures, electronic ballasts, and modularized indoor farming containers. Its ticker symbol on NASDAQ is NMHI.
+Nature's Miracle Holding Inc. supplies equipment and technology to the controlled environment agriculture industry—the business of growing plants indoors using artificial light, hydroponic systems, and climate control. The company makes and sells LED grow lights, traditional high-pressure sodium and ceramic metal halide fixtures, electronic ballasts, and modularized indoor farming containers. Its ticker symbol on [NASDAQ](/nasdaq/) is NMHI.
 
 The company serves growers in the United States and Canada who want to produce crops year-round in climate-controlled warehouses or other enclosed spaces. Controlled environment agriculture is a small but growing sector, driven by the desire to grow food closer to cities, reduce pesticide use, and operate independent of weather and seasons.
 
@@ -57,4 +57,4 @@ The 10-K filing (SEC CIK 0001947861) shows which customer segments generate most
 - What are the trends in the controlled environment agriculture industry overall—is new acreage being converted to CEA, or is growth flat?
 - What is the competitive position relative to other equipment suppliers, and what is driving customer loyalty?
 
-The business fundamentals depend on whether the controlled environment agriculture sector itself is growing, whether growers are spending on new equipment or stretching the life of old equipment, and whether Nature's Miracle can retain and expand its customer base. In a recession, capital spending by farmers typically contracts, which would pressure revenue and margins.
+The business fundamentals depend on whether the controlled environment agriculture sector itself is growing, whether growers are spending on new equipment or stretching the life of old equipment, and whether Nature's Miracle can retain and expand its customer base. In a [recession](/recession/), capital spending by farmers typically contracts, which would pressure revenue and margins.

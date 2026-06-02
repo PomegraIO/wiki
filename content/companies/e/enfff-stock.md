@@ -27,15 +27,15 @@ Enbridge Inc operates three interconnected energy infrastructure businesses, eac
 
 ## Liquids Pipelines: the anchor segment
 
-The Liquids Pipelines segment is Enbridge's largest and most strategically important business. It operates approximately 19,000 miles of crude oil and liquids pipelines, with the flagship Mainline system extending from the Canadian prairies through the U.S. Midwest to refineries and distribution hubs. This segment moves more than 3 million barrels per day at peak capacity and generates revenue through tariffs charged per barrel transported.
+The Liquids Pipelines segment is Enbridge's largest and most strategically important business. It operates approximately 19,000 miles of [crude oil](/crude-oil/) and liquids pipelines, with the flagship Mainline system extending from the Canadian prairies through the U.S. Midwest to refineries and distribution hubs. This segment moves more than 3 million barrels per day at peak capacity and generates revenue through tariffs charged per barrel transported.
 
 The Mainline's dominance derives from geography and history. It is the primary route for Canadian crude oil to reach U.S. refineries, and building an alternative would be economically impractical and politically difficult. This natural monopoly characteristic — combined with regulatory oversight that ensures reasonable tariffs and cost recovery — creates a stable, recurring revenue stream. Volume fluctuates with crude production in Canada and the U.S. and with refinery utilization, but the franchise itself is durable.
 
-Enbridge also operates regional liquids systems and export terminals, including crude export facilities on Canada's coasts. These are smaller than the Mainline but contribute meaningfully to total segment revenue and provide geographic diversification.
+Enbridge also operates regional liquids systems and export terminals, including crude export facilities on Canada's coasts. These are smaller than the Mainline but contribute meaningfully to total segment revenue and provide geographic [diversification](/diversification/).
 
 ## Gas Distribution: the utility base
 
-Enbridge's Gas Distribution segment operates natural gas utilities serving approximately 2 million customers across Ontario, Quebec, and U.S. Midwest states. Utilities are the definition of regulated infrastructure: the company provides an essential service, rates are set by public utility commissions to allow recovery of costs plus a fair return, and customers have limited alternatives.
+Enbridge's Gas Distribution segment operates [natural gas](/natural-gas/) utilities serving approximately 2 million customers across Ontario, Quebec, and U.S. Midwest states. Utilities are the definition of regulated infrastructure: the company provides an essential service, rates are set by public utility commissions to allow recovery of costs plus a fair return, and customers have limited alternatives.
 
 This segment is the most stable and predictable part of the business. Revenue grows modestly with customer additions and economic activity and is influenced by heating demand (which varies with winter weather). Margins are lower than in the pipeline business, but volatility is also lower. For investors seeking steady, recurring income, this segment is the anchor.
 
@@ -47,7 +47,7 @@ The economics of renewables differ from those of legacy infrastructure. A wind f
 
 ## Capital allocation and growth
 
-Enbridge's capital expenditure is substantial — typically in the billions annually — reflecting the need to maintain aging infrastructure, replace equipment, and develop new projects. The company funds this through cash flow from operations, debt, and equity issuance. Major projects in recent years have included pipeline expansions (some of which faced regulatory and political delays), utility infrastructure upgrades, and renewable-energy acquisitions.
+Enbridge's capital expenditure is substantial — typically in the billions annually — reflecting the need to maintain aging infrastructure, replace equipment, and develop new projects. The company funds this through cash flow from operations, debt, and equity issuance. Major projects in recent years have included pipeline expansions (some of which faced regulatory and political delays), utility infrastructure upgrades, and renewable-energy [acquisitions](/acquisition/).
 
 The rate of capital spending and the returns earned on that capital indicate how well management is deploying the company's resources. A company spending heavily on projects that earn low returns destroys value; one spending moderately on high-return projects creates it. Tracking Enbridge's capital efficiency and the returns on major recent projects provides insight into management quality and strategic direction.
 
@@ -55,7 +55,7 @@ The rate of capital spending and the returns earned on that capital indicate how
 
 **Liquids Pipelines:** In Canada, the National Energy Board (now the Canadian Energy Regulator) sets tariffs using a cost-of-service formula that ensures Enbridge can recover capital, operating costs, and earn a regulated return. In the U.S., Interstate Commerce Commission rules and negotiated contracts govern rates. This mixed framework provides stability but also constrains pricing power.
 
-**Gas Distribution:** Provincial utility commissions in Canada and state public utility commissions in the U.S. set rates based on a formula that allows recovery of operating costs, depreciation, and a regulated return on equity. Rates are periodically reset based on cost and investment estimates, creating a predictable (if slow-moving) revenue cycle.
+**Gas Distribution:** Provincial utility commissions in Canada and state public utility commissions in the U.S. set rates based on a formula that allows recovery of operating costs, [depreciation](/depreciation/), and a regulated [return on equity](/return-on-equity/). Rates are periodically reset based on cost and investment estimates, creating a predictable (if slow-moving) revenue cycle.
 
 **Renewable Energy:** Contracts with utilities and industrial customers set power prices, sometimes through auction, sometimes through negotiated long-term agreements. This segment has less regulatory protection than pipelines and utilities but also fewer regulatory constraints on expansion.
 
@@ -79,4 +79,4 @@ Start with the 10-K filing (SEC CIK 0000895728), which provides detailed breakou
 
 Separately track the financial performance of each segment: crude pipeline volumes, utility customer growth and rate changes, and renewable-energy investment and returns. Monitor regulatory proceedings and political developments affecting major projects.
 
-Key metrics include operating margin by segment, return on invested capital in recent projects, and the split of capital spending across the three segments. A company increasingly focused on renewables is managing the transition more actively than one still concentrating capital on legacy assets.
+Key metrics include [operating margin](/operating-margin/) by segment, [return on invested capital](/return-on-invested-capital/) in recent projects, and the split of capital spending across the three segments. A company increasingly focused on renewables is managing the transition more actively than one still concentrating capital on legacy assets.

@@ -10,7 +10,7 @@ keywords:
   - silver exposure
 ---
 
-TAGS is a fund that tracks the price of silver. If you think silver is going to go up in value and want to bet on it without buying physical bars and storing them in a safe, TAGS is one way to do it. It holds silver futures contracts — standardized agreements to buy or sell silver at a set price on a future date — and the fund's share price rises or falls with those contracts.
+TAGS is a fund that tracks the price of silver. If you think silver is going to go up in value and want to bet on it without buying physical bars and storing them in a safe, TAGS is one way to do it. It holds silver [futures contracts](/futures-contract/) — standardized agreements to buy or sell silver at a set price on a future date — and the fund's share price rises or falls with those contracts.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ TAGS is a fund that tracks the price of silver. If you think silver is going to 
 
 When you buy one share of TAGS, you own a tiny piece of a pool of silver futures contracts. You do not own physical silver locked in a vault somewhere. Instead, the fund holds contracts that say things like "deliver 5,000 troy ounces of silver in July" or "deliver 5,000 troy ounces in December." Those contracts sit in a bank's custody, and their value moves up or down with the silver price. That is all there is to it: when silver goes up, the contracts are worth more, and TAGS goes up. When silver goes down, TAGS falls.
 
-The appeal is simple. Buying a futures contract yourself requires a special broker and a lot of money (typically USD 50,000 or more to open an account), plus you have to know how to roll your position from one contract month to the next. With TAGS, you just buy shares at any brokerage, and Teucrium handles all the complicated stuff behind the scenes.
+The appeal is simple. Buying a futures contract yourself requires a special [broker](/broker/) and a lot of money (typically USD 50,000 or more to open an account), plus you have to know how to roll your position from one contract month to the next. With TAGS, you just buy shares at any brokerage, and Teucrium handles all the complicated stuff behind the scenes.
 
 ## Who makes money, and how
 
@@ -43,7 +43,7 @@ Here is where it gets tricky for long-term holders. Silver futures prices do not
 
 When the fund's current contract is about to expire, Teucrium has to sell it and buy the next one out. In most market conditions, that means selling something worth slightly less and buying something worth slightly more — a small loss on every roll. Year after year, these tiny losses compound. Someone holding TAGS for ten years might find that silver itself stayed flat in price, but TAGS fell 10 or 15 percent because rolling costs ate away at the value.
 
-Sometimes the reverse happens. When silver is scarce, near-term contracts can trade higher than distant ones (a condition called backwardation), and rolling can actually add value. But such conditions are rare and usually temporary.
+Sometimes the reverse happens. When silver is scarce, near-term contracts can trade higher than distant ones (a condition called [backwardation](/backwardation/)), and rolling can actually add value. But such conditions are rare and usually temporary.
 
 ## Why this matters when you are thinking about buying
 

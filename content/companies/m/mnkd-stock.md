@@ -4,7 +4,7 @@ description: "Specialty pharma company developing inhalable insulin as an altern
 keywords: [biotech, diabetes, insulin delivery, inhalable medicine, Novo Nordisk competitor]
 ---
 
-*Positioned at the intersection of diabetes care and drug-delivery innovation, **MANNKIND CORP (MNKD)** has spent decades refining a single core technology: pulmonary insulin administration. Rather than vying with Novo Nordisk and Eli Lilly on insulin formulation, MANNKIND competes on how the drug reaches the bloodstream—inhalation instead of injection.*
+*Positioned at the intersection of diabetes care and drug-delivery innovation, **MANNKIND CORP (MNKD)** has spent decades refining a single core technology: pulmonary insulin administration. Rather than vying with Novo Nordisk and [Eli Lilly](/lly-stock/) on insulin formulation, MANNKIND competes on how the drug reaches the bloodstream—inhalation instead of injection.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MNKD</td></tr>

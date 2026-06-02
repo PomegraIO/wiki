@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-Ashford Hospitality Trust owns hotels. Not all the hotels in a city or a region, but a portfolio of properties scattered across the United States. Guests check in, stay a night or a few nights, pay for their room, and leave. The hotels are staffed. They have costs: wages, utilities, maintenance, cleaning, taxes, insurance. The revenue that comes in from room bookings needs to cover those costs and generate profit for Ashford and its shareholders. That is the straightforward mechanics of what Ashford does.
+[Ashford Hospitality](/aht-stock/) Trust owns hotels. Not all the hotels in a city or a region, but a portfolio of properties scattered across the United States. Guests check in, stay a night or a few nights, pay for their room, and leave. The hotels are staffed. They have costs: wages, utilities, maintenance, cleaning, taxes, insurance. The revenue that comes in from room bookings needs to cover those costs and generate profit for Ashford and its shareholders. That is the straightforward mechanics of what Ashford does.
 
-Ashford is structured as a real estate investment trust—a REIT. That legal structure requires the company to own real estate, to be internally managed or externally managed, to distribute most of its taxable income to shareholders as dividends, and to have a broad ownership base. In return for accepting these constraints, REITs get favorable tax treatment: the company itself does not pay corporate income tax as long as it meets the REIT rules. The benefit flows to shareholders, who receive dividends from the REIT without an additional layer of corporate taxation.
+Ashford is structured as a [real estate investment trust](/real-estate-investment-trust/)—a REIT. That legal structure requires the company to own real estate, to be internally managed or externally managed, to distribute most of its taxable income to shareholders as [dividends](/dividend/), and to have a broad ownership base. In return for accepting these constraints, REITs get favorable tax treatment: the company itself does not pay [corporate income tax](/corporate-income-tax/) as long as it meets the REIT rules. The benefit flows to shareholders, who receive dividends from the REIT without an additional layer of corporate taxation.
 
 <aside class="wiki-infobox">
 <table>
@@ -46,15 +46,15 @@ Ashford's profit depends on the RevPAR of its portfolio, the efficiency of its o
 
 ## Travel demand is the underlying engine
 
-Hotel occupancy is closely tied to travel demand—how many people are traveling for business, leisure, or other reasons. During good economic times, both business and leisure travel increase, pushing occupancy higher. During recessions, business travel collapses first, then leisure travel falls as consumer spending tightens. The pandemic caused the sharpest travel collapse in modern history; hotels sat empty for months. As travel recovered, occupancy and rates bounced back.
+Hotel occupancy is closely tied to travel demand—how many people are traveling for business, leisure, or other reasons. During good economic times, both business and leisure travel increase, pushing occupancy higher. During [recessions](/recession/), business travel collapses first, then leisure travel falls as consumer spending tightens. The pandemic caused the sharpest travel collapse in modern history; hotels sat empty for months. As travel recovered, occupancy and rates bounced back.
 
-Ashford's portfolio performance is therefore cyclical. The company does better in strong economic periods and worse in downturns. To manage this, the company owns a mix of properties—some in major business-travel cities, some in leisure destinations, some in secondary markets. A geographically diversified portfolio means that when one market struggles, others may be doing better.
+Ashford's portfolio performance is therefore cyclical. The company does better in strong economic periods and worse in downturns. To manage this, the company owns a mix of properties—some in major business-travel cities, some in leisure destinations, some in [secondary markets](/secondary-market/). A geographically diversified portfolio means that when one market struggles, others may be doing better.
 
 ## Managing through downturns
 
 A hotel is a fixed asset: you cannot easily shrink or sell it if business is weak. If Ashford's hotels face depressed RevPAR for months or years, the company still owes the mortgage, the staff still needs to be paid, the utilities still arrive. If cash flow declines below the debt-service requirements, the company faces pressure—it may need to refinance debt, seek capital, or restructure.
 
-During the pandemic, Ashford faced exactly this scenario. Hotels closed for weeks or months. Occupancy fell toward zero. The company had to preserve cash, negotiate with lenders, and wait for travel to return. REITs with strong balance sheets weathered it better; REITs with thin equity cushions faced severe stress.
+During the pandemic, Ashford faced exactly this scenario. Hotels closed for weeks or months. Occupancy fell toward zero. The company had to preserve cash, negotiate with lenders, and wait for travel to return. REITs with strong [balance sheets](/balance-sheet/) weathered it better; REITs with thin equity cushions faced severe stress.
 
 ## Capital intensity and the debt question
 
@@ -62,4 +62,4 @@ A hotel is a capital-intensive asset. Buying and maintaining a portfolio of hund
 
 ## How to research Ashford
 
-Start with the quarterly earnings release, which should highlight occupancy rates, average daily rates, and RevPAR by segment or region. Watch for trends in these metrics—are they rising or falling, and are they above or below the industry average? The 10-K provides detail on the portfolio: how many properties, which brands (Marriott, Hilton, IHG, etc.), which geographies. Understand the debt load and debt-to-EBITDA ratio; refinancing risk is a constant concern for hotel REITs. Monitor management commentary on current business conditions, pricing power, and capital-allocation plans. Finally, track the dividend yield and the company's ability to cover the dividend from operating cash flow. Unlike a typical REIT that might distribute more cash than it generates, one that cannot cover its dividend from operations is running down capital and may cut the dividend later.
+Start with the quarterly earnings release, which should highlight occupancy rates, average daily rates, and RevPAR by segment or region. Watch for trends in these metrics—are they rising or falling, and are they above or below the industry average? The 10-K provides detail on the portfolio: how many properties, which brands (Marriott, Hilton, IHG, etc.), which geographies. Understand the debt load and [debt-to-EBITDA ratio](/debt-to-ebitda-ratio/); [refinancing risk](/refinancing-risk/) is a constant concern for [hotel REITs](/hotel-reit/). Monitor management commentary on current business conditions, pricing power, and capital-allocation plans. Finally, track the [dividend yield](/dividend-yield/) and the company's ability to cover the dividend from operating cash flow. Unlike a typical REIT that might distribute more cash than it generates, one that cannot cover its dividend from operations is running down capital and may cut the dividend later.

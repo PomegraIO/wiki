@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Silver Spruce Resources Inc. is a junior exploration company engaged in the acquisition and exploration of mineral properties in western North America. The company operates primarily in British Columbia and other regions of the Pacific Northwest, searching for deposits of silver, gold, copper, and other metals that could support future mining operations.
+Silver Spruce Resources Inc. is a junior exploration company engaged in the [acquisition](/acquisition/) and exploration of mineral properties in western North America. The company operates primarily in British Columbia and other regions of the Pacific Northwest, searching for deposits of silver, gold, copper, and other metals that could support future mining operations.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Silver Spruce Resources Inc. is a junior exploration company engaged in the acqu
 
 Silver Spruce operates in the sector where mineral exploration companies prospect for ore deposits that may someday become mines. The company acquires mineral claims and properties, typically in regions with known geological potential and a track record of mining activity. Once a property is under control, the company funds exploration work — geological mapping, sampling, and drilling — to determine whether ore grades and volumes justify further development.
 
-The business model is capital-intensive but not revenue-generating in the near term. Exploration companies like Silver Spruce spend cash on field work, assays, and engineering studies without selling anything. The company survives on equity financing, which means selling shares to investors who believe the exploration work will lead to discovery and eventual profitability.
+The business model is capital-intensive but not revenue-generating in the near term. Exploration companies like Silver Spruce spend cash on field work, assays, and engineering studies without selling anything. The company survives on [equity financing](/equity-financing/), which means selling shares to investors who believe the exploration work will lead to discovery and eventual profitability.
 
 This model creates a particular tension. Early exploration is relatively cheap; you can stake a property and do initial fieldwork for modest sums. But as a property matures from prospect to measured resource, costs rise sharply. Drilling deeper holes, testing more locations, and building a resource model requires more capital. By the time exploration work is conclusive enough to justify development spending, a company typically has many millions of dollars invested with no revenue in sight.
 
@@ -55,7 +55,7 @@ For junior explorers, maintaining positive relationships with local communities 
 
 ## What makes a junior explorer valuable
 
-The fundamental question for any junior exploration company is whether its properties contain ore deposits that will eventually be mined, and whether management has the skill and credibility to advance those properties toward that outcome. A property with a world-class ore deposit has real intrinsic value, even if it is years from production. A property with no ore is worthless, regardless of how much a company spent to find out.
+The fundamental question for any junior exploration company is whether its properties contain ore deposits that will eventually be mined, and whether management has the skill and credibility to advance those properties toward that outcome. A property with a world-class ore deposit has real [intrinsic value](/intrinsic-value/), even if it is years from production. A property with no ore is worthless, regardless of how much a company spent to find out.
 
 The gap between those two poles is where most junior explorers live — companies holding promising but unproven properties, trying to convert geological potential into measured, confident resources, while managing cash, raising capital, and navigating regulatory and social terrain.
 

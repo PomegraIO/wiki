@@ -24,7 +24,7 @@ Tisco's mortgage portfolio is seasoned and reflects decades of lending into Thai
 
 ## Corporate and Institutional Lending
 
-Tisco serves larger corporate borrowers — manufacturers, trading companies, real estate developers, and other substantial Thai and multinational firms with operations in Thailand. Corporate lending carries higher loan amounts but similar [credit risks](/credit-risk/): a recession can hit borrowers' cash flows and raise default risk. Large corporate borrowers are often sophisticated and price-sensitive, so competition for their business is fierce and margins are tighter than in retail.
+Tisco serves larger corporate borrowers — manufacturers, trading companies, real estate developers, and other substantial Thai and multinational firms with operations in Thailand. Corporate lending carries higher loan amounts but similar [credit risks](/credit-risk/): a [recession](/recession/) can hit borrowers' cash flows and raise default risk. Large corporate borrowers are often sophisticated and price-sensitive, so competition for their business is fierce and margins are tighter than in retail.
 
 The advantage for Tisco is scale and relationships — the bank has been lending to Thai corporate clients for over a century, and those relationships are sticky. A company that has banked with Tisco for decades is unlikely to switch unless the bank behaves poorly or explicitly prices it out. This relationship value is what gives large banks their moat in corporate lending; the disadvantage is that margins are perpetually under pressure from competition and customer walk-away risk.
 
@@ -32,7 +32,7 @@ Tisco also participates in syndicated lending — joining with other banks to pr
 
 ## Investment Banking and Capital Markets
 
-Tisco has a capital-markets and investment-banking arm that serves institutional clients and corporate issuers. The business includes securities trading, corporate advisory (for mergers, [acquisitions](/acquisition/), debt and equity issuance), and institutional sales. This segment is episodic — revenue depends on the level of corporate financing activity, which is cyclical and sensitive to interest rates, equity-market performance, and the level of acquisitions activity. When corporates are raising capital and buying other companies, the business is good; when capital-raising dries up, revenues contract.
+Tisco has a capital-markets and investment-banking arm that serves institutional clients and corporate issuers. The business includes securities trading, corporate advisory (for [mergers](/merger/), [acquisitions](/acquisition/), debt and equity issuance), and institutional sales. This segment is episodic — revenue depends on the level of corporate financing activity, which is cyclical and sensitive to interest rates, equity-market performance, and the level of acquisitions activity. When corporates are raising capital and buying other companies, the business is good; when capital-raising dries up, revenues contract.
 
 The division also earns fees from asset management and brokerage services, which depend on customer trading volume and the assets under management. These fees are recurring but thin, and the segment is capital-light compared to lending — the bank does not put its own capital into the positions it advises on (except in principal trades, which are limited).
 
@@ -44,7 +44,7 @@ Tisco offers wealth-management and investment services to high-net-worth custome
 
 The fundamental model is textbook retail banking: gather deposits at one rate of interest, lend the proceeds at a higher rate, and capture the difference (the net interest margin) as profit. Deposits are gathered across Tisco's branch network in Thailand and through its online banking channels. Large corporate customers and some wealthy individuals also deposit funds at Tisco for operational purposes or to park capital.
 
-The company's cost of deposits is set partly by competition and partly by Thai [monetary policy](/monetary-policy/) — the Bank of Thailand's policy rate influences what all banks must offer to attract deposits. In a high-rate environment (when the [central bank](/central-bank/) is fighting inflation), deposits become expensive and net interest margins contract; in a low-rate environment, deposits are cheaper and margins widen.
+The company's cost of deposits is set partly by competition and partly by Thai [monetary policy](/monetary-policy/) — the Bank of Thailand's policy rate influences what all banks must offer to attract deposits. In a high-rate environment (when the [central bank](/central-bank/) is fighting [inflation](/inflation/)), deposits become expensive and net interest margins contract; in a low-rate environment, deposits are cheaper and margins widen.
 
 Tisco lends those deposits into mortgages, corporate loans, and smaller consumer loans. The interest rate charged depends on credit risk (riskier borrowers pay more), loan tenor (longer loans typically earn higher rates), and market competition. The returns on the lending side are steady but sensitive to credit losses — a spike in defaults can wipe out interest income.
 
@@ -52,7 +52,7 @@ Non-interest income comes from fees: [loan origination fees](/loan-origination-f
 
 ## Capital Adequacy and Regulatory Requirements
 
-Tisco, like all banks, is required to hold capital ratios above regulatory minimums set by the Bank of Thailand. The company must retain enough capital to absorb potential loan losses and to support growth. Excess capital can be returned to shareholders through dividends or buybacks; capital shortfalls force the bank to raise equity or to reduce lending. The capital requirement is both a safety buffer for depositors and a constraint on how much the bank can lend and grow.
+Tisco, like all banks, is required to hold capital ratios above regulatory minimums set by the Bank of Thailand. The company must retain enough capital to absorb potential loan losses and to support growth. Excess capital can be returned to shareholders through [dividends](/dividend/) or buybacks; capital shortfalls force the bank to raise equity or to reduce lending. The capital requirement is both a safety buffer for depositors and a constraint on how much the bank can lend and grow.
 
 ## Exposures and Risks
 

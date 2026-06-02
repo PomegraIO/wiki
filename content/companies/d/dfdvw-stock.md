@@ -30,7 +30,7 @@ By late 2025, the company had accumulated over two million Solana tokens, making
 
 Unlike a traditional cryptocurrency holder who earns zero return on idle assets, DeFi Development earns income by participating in Solana's proof-of-stake consensus mechanism. Solana pays validators and delegators (those who stake their tokens to help secure the network) with newly issued Solana tokens and transaction fees, typically 3–5% annually, though the exact rate fluctuates.
 
-DeFi Development operates its own validator node and accepts delegation from other Solana holders, earning staking rewards on its treasury. The company has also introduced a liquid staking token called dfdvSOL, allowing external investors to stake their Solana through DeFi Development's validator while receiving a token that represents their stake and can be traded or transferred. This creates a fee revenue stream—the company captures a percentage of staking rewards for providing the validator service and liquid staking infrastructure.
+DeFi Development operates its own validator node and accepts delegation from other Solana holders, earning staking rewards on its treasury. The company has also introduced a [liquid staking](/liquid-staking/) token called dfdvSOL, allowing external investors to stake their Solana through DeFi Development's validator while receiving a token that represents their stake and can be traded or transferred. This creates a fee revenue stream—the company captures a percentage of staking rewards for providing the validator service and liquid staking infrastructure.
 
 ## Emerging financial products
 
@@ -44,20 +44,20 @@ DeFi Development's investment case rests on a bet that Solana will increase in v
 
 The risks are substantial. Cryptocurrency valuations are volatile and driven partly by sentiment, regulation, and macroeconomic conditions, not just fundamentals. Solana has experienced outages and network instability in the past, raising questions about its reliability as a foundational layer. Regulatory uncertainty around cryptocurrency also threatens the entire sector—new rules could constrain staking, validator operations, or trading.
 
-Additionally, the company's leverage strategy (borrowing to increase holdings) amplifies both gains and losses. If Solana declines sharply, the company could face margin calls or be forced to sell assets at unfavorable prices to service debt.
+Additionally, the company's leverage strategy (borrowing to increase holdings) amplifies both gains and losses. If Solana declines sharply, the company could face [margin calls](/margin-call-forex/) or be forced to sell assets at unfavorable prices to service debt.
 
-There is also concentration risk: the company is betting entirely on one cryptocurrency in a sector with hundreds of competitors. A shift in developer interest or capital flows toward other blockchains (Ethereum, Polygon, or new chains) could disadvantage Solana.
+There is also [concentration risk](/concentration-risk/): the company is betting entirely on one cryptocurrency in a sector with hundreds of competitors. A shift in developer interest or [capital flows](/capital-flows/) toward other blockchains ([Ethereum](/ethereum/), Polygon, or new chains) could disadvantage Solana.
 
 ## How the business differs from traditional companies
 
 Unlike operating companies that generate revenue from products or services, DeFi Development generates returns primarily through asset appreciation and staking yield. It has no customers, no product development, no sales costs. The business is purely capital deployment and asset management. Shareholder value depends almost entirely on the price of Solana and the company's ability to compound holdings faster than the broader market does.
 
-This makes the company structurally similar to a closed-end fund or a commodity trading company rather than a traditional operating business. Investors are essentially buying a leveraged, professionally managed bet on Solana's future.
+This makes the company structurally similar to a [closed-end fund](/closed-end-fund/) or a commodity trading company rather than a traditional operating business. Investors are essentially buying a leveraged, professionally managed bet on Solana's future.
 
 ## How to evaluate the investment
 
 Investors studying DeFi Development focus on the Solana Per Share (SPS) metric—the amount of Solana each share of the company actually represents. As the company earns staking rewards and compounds holdings, SPS should increase over time. The trajectory of SPS, net of operational expenses and leverage costs, determines whether the company is earning a return above what a direct Solana holder would earn.
 
-Key questions include: Is the company's operational cost (fees, validator maintenance, hedging) lower than the staking yield it earns? Are leverage ratios sustainable, or is debt service eating into returns? Is the company executing partnerships that expand its Solana holdings beyond pure capital deployment? Is regulation constraining staking or validator operations in ways that reduce future yield?
+Key questions include: Is the company's operational cost (fees, validator maintenance, hedging) lower than the staking yield it earns? Are [leverage ratios](/leverage-ratio-forex/) sustainable, or is debt service eating into returns? Is the company executing partnerships that expand its Solana holdings beyond pure capital deployment? Is regulation constraining staking or validator operations in ways that reduce future yield?
 
-The company's share price will also track sentiment about Solana itself. A bull market for Solana combined with steady compounding could drive substantial equity appreciation; a bear market would likely pressure the stock regardless of the company's operational execution.
+The company's share price will also track sentiment about Solana itself. A [bull market](/bull-market/) for Solana combined with steady compounding could drive substantial equity appreciation; a [bear market](/bear-market/) would likely pressure the stock regardless of the company's operational execution.

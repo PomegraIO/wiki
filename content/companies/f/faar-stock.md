@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **First Trust Alternative Absolute Return Strategy ETF** (FAAR) tries to make money whether stocks go up or down. It borrows tactics from hedge funds — holding bonds, commodities, currencies, and equities arranged so that profits come from picks and bets, not just from riding market direction — and wraps it all inside an ETF that trades on an exchange.*
+*The **First Trust Alternative Absolute Return Strategy ETF** (FAAR) tries to make money whether stocks go up or down. It borrows tactics from [hedge funds](/hedge-fund/) — holding [bonds](/bond/), commodities, currencies, and equities arranged so that profits come from picks and bets, not just from riding market direction — and wraps it all inside an ETF that trades on an exchange.*
 
 <aside class="wiki-infobox">
 <table>
@@ -28,17 +28,17 @@ handwritten: true
 
 Most people own stocks and bonds. Stocks go up, bonds go down — or vice versa. The mix smooths things out.
 
-But absolute return is different. It means: make money for investors every year, no matter what direction the market goes. A hedge fund does this by holding long bets (owning things), short bets (betting against things), and derivatives (contracts that profit from specific price moves). The goal is not to beat an index. The goal is to make real profit in January and December, bull markets and bear markets, calm years and crazy ones.
+But absolute return is different. It means: make money for investors every year, no matter what direction the market goes. A hedge fund does this by holding long bets (owning things), short bets (betting against things), and derivatives (contracts that profit from specific price moves). The goal is not to beat an index. The goal is to make real profit in January and December, [bull markets](/bull-market/) and [bear markets](/bear-market/), calm years and crazy ones.
 
 FAAR is built on this idea. It does not just own a mix of stocks and bonds. It actively bets that some things will go up and others will go down. It trades currencies. It owns commodities. It holds bonds from different countries. All of these pieces are arranged so that when one part of the portfolio is down, another might be up, and the overall result is a year where the fund made money.
 
 ## How FAAR actually works
 
-The fund is run by an active manager who is constantly making calls. Right now, the manager might think interest rates are heading higher, so FAAR owns bonds that will profit if that happens. At the same time, the manager might think commodity prices will fall, so FAAR might short commodity exposures or own derivatives that profit from falling commodity prices. In the same portfolio, there might be a bet that volatility is too low, expressed through derivatives on the stock market.
+The fund is run by an active manager who is constantly making calls. Right now, the manager might think [interest rates](/interest-rate/) are heading higher, so FAAR owns bonds that will profit if that happens. At the same time, the manager might think commodity prices will fall, so FAAR might short commodity exposures or own derivatives that profit from falling commodity prices. In the same portfolio, there might be a bet that volatility is too low, expressed through derivatives on the [stock market](/stock-market/).
 
-These bets are not random. They are supposed to move independently. If the interest-rate bet goes wrong, the commodity bet might still work. If neither works, the currency bets might. The idea is diversification at the bet level, not just the asset class level.
+These bets are not random. They are supposed to move independently. If the interest-rate bet goes wrong, the commodity bet might still work. If neither works, the currency bets might. The idea is [diversification](/diversification/) at the bet level, not just the asset class level.
 
-Holdings change. The manager is not buy-and-hold. Every quarter, maybe more often, the portfolio shifts based on new market views. This is why FAAR has high turnover and charges a higher expense ratio than a simple index ETF.
+Holdings change. The manager is not buy-and-hold. Every quarter, maybe more often, the portfolio shifts based on new market views. This is why FAAR has high turnover and charges a higher [expense ratio](/expense-ratio/) than a simple index ETF.
 
 ## Why this is harder than it sounds
 
@@ -48,7 +48,7 @@ FAAR has tried to bring this to retail investors at lower cost. The expense rati
 
 ## The practical risks
 
-The biggest risk is that the hedges simply do not work. If the manager thinks stocks will fall and actually buys put options on the S&P 500, but the stock market rises sharply, FAAR loses money on that bet. Meanwhile, the other bets might not be up enough to offset it.
+The biggest risk is that the hedges simply do not work. If the manager thinks stocks will fall and actually buys [put options](/put-option/) on the S&P 500, but the stock market rises sharply, FAAR loses money on that bet. Meanwhile, the other bets might not be up enough to offset it.
 
 Complexity is a second risk. You own derivatives, currencies, and commodity contracts. The returns are hard to explain. Investors have said FAAR underperforms in years when the stock market is calmly going up — exactly the years when traditional portfolios do great.
 
@@ -56,6 +56,6 @@ Liquidity is a third risk. The underlying holdings — currency forwards, commod
 
 ## Transparency and due diligence
 
-FAAR trades like any ETF on the NASDAQ with intra-day prices. But the holdings are not simple. The prospectus lays out what the fund can own and how it operates, but understanding the actual bets requires reading the factsheet and the manager's commentary.
+FAAR trades like any ETF on the [NASDAQ](/nasdaq/) with intra-day prices. But the holdings are not simple. The prospectus lays out what the fund can own and how it operates, but understanding the actual bets requires reading the factsheet and the manager's commentary.
 
 An investor should ask: How has FAAR done in years when stocks fell? How has it done in calm years? Does the strategy actually deliver lower volatility, or does it just lag in good times and underperform in bad times? Comparing FAAR to a simple 60-40 stock-bond portfolio over a full market cycle is instructive. Many investors find that the added complexity and cost of FAAR is not worth the benefit it provides.

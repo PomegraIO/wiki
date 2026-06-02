@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Dynamix Corp represents the evolution of a collection of industrial and drilling-services operations consolidated over decades into a single enterprise. To understand the company today requires understanding where it came from: a series of point-in-time acquisitions and organic expansions that have shaped its footprint, its debt structure, and its strategic positioning in a volatile sector.
+Dynamix Corp represents the evolution of a collection of industrial and drilling-services operations consolidated over decades into a single enterprise. To understand the company today requires understanding where it came from: a series of point-in-time [acquisitions](/acquisition/) and organic expansions that have shaped its footprint, its debt structure, and its strategic positioning in a volatile sector.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,7 +41,7 @@ This period also included organic capital investment: the company upgraded manuf
 
 ## Navigating cyclical downturns
 
-The real test of the consolidated Dynamix came during the major downturns that struck industrial markets in the 2010s and 2020s. The oil-and-gas bust of 2014-2016 saw Dynamix customers slash capital budgets, defer projects, and reduce headcount dramatically. The company responded by cutting costs, suspending dividend payments (if any), and reducing capital expenditure. But with a high debt load, the company had limited flexibility. Interest payments had to continue regardless of revenue; refinancing risk loomed if lenders saw deteriorating fundamentals.
+The real test of the consolidated Dynamix came during the major downturns that struck industrial markets in the 2010s and 2020s. The oil-and-gas bust of 2014-2016 saw Dynamix customers slash capital budgets, defer projects, and reduce headcount dramatically. The company responded by cutting costs, suspending [dividend](/dividend/) payments (if any), and reducing capital expenditure. But with a high debt load, the company had limited flexibility. Interest payments had to continue regardless of revenue; [refinancing risk](/refinancing-risk/) loomed if lenders saw deteriorating fundamentals.
 
 The COVID-era disruptions and the more recent economic cycles reinforced the cyclical nature of the business. Periods of strong energy prices and industrial confidence allowed the company to invest and expand; downturns forced contraction. Management learned that the company could not count on smooth, linear growth and that balance-sheet strength—the ability to weather downturns without covenant violations or distressed refinancing—was essential to survival.
 
@@ -49,5 +49,5 @@ The COVID-era disruptions and the more recent economic cycles reinforced the cyc
 
 By the mid-2020s, Dynamix has evolved into an integrated industrial-services company with a geographically dispersed footprint, diversified across equipment manufacturing and rental, staffed services, and project engineering. It is no longer a single regional player but a consolidated enterprise. Yet it remains a cyclical business, highly sensitive to the spending patterns of customers in energy, construction, and manufacturing. The company carries debt from past acquisitions and investments. Its competitive position depends on equipment specialization, customer relationships, and operational efficiency rather than cost leadership or technological superiority.
 
-For investors evaluating Dynamix through a historical lens, the question is not whether the consolidation strategy was right—that is in the past—but whether the company's current scale, cost structure, and balance sheet position it to generate acceptable returns in the next downturn and to capitalize on the next period of strong demand. The track record of integration and the current state of working capital and debt are the most relevant signals.
+For investors evaluating Dynamix through a historical lens, the question is not whether the consolidation strategy was right—that is in the past—but whether the company's current scale, cost structure, and [balance sheet](/balance-sheet/) position it to generate acceptable returns in the next downturn and to capitalize on the next period of strong demand. The track record of integration and the current state of working capital and debt are the most relevant signals.
 

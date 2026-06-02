@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Direxion Daily TSM Bear 1X ETF (TSMZ) is an inverse exchange-traded fund that moves in the opposite direction to Taiwan Semiconductor Manufacturing Company stock. When TSM rallies, TSMZ declines; when TSM falls, TSMZ rises. It offers traders a way to express a bearish view on TSM or to hedge long positions in the semiconductor sector without borrowing shares or selling short directly.
+Direxion Daily TSM Bear 1X ETF (TSMZ) is an inverse exchange-traded fund that moves in the opposite direction to [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company stock. When TSM rallies, TSMZ declines; when TSM falls, TSMZ rises. It offers traders a way to express a bearish view on TSM or to hedge long positions in the semiconductor sector without borrowing shares or selling short directly.
 
 ## Key facts at a glance
 
@@ -28,7 +28,7 @@ Direxion Daily TSM Bear 1X ETF (TSMZ) is an inverse exchange-traded fund that mo
 
 ## How TSMZ works
 
-TSMZ holds a portfolio of derivatives — primarily TSM put options and short futures positions — combined with cash and cash equivalents, all sized so the fund moves approximately 1% downward for every 1% TSM moves upward. If TSM drops 2%, TSMZ should rise about 2%. This inverse structure allows investors to gain short exposure without actually borrowing and selling short.
+TSMZ holds a portfolio of derivatives — primarily TSM [put options](/put-option/) and short futures positions — combined with cash and cash equivalents, all sized so the fund moves approximately 1% downward for every 1% TSM moves upward. If TSM drops 2%, TSMZ should rise about 2%. This inverse structure allows investors to gain short exposure without actually borrowing and selling short.
 
 The fund rebalances daily at market close. That daily reset keeps the leverage (or in this case, the inverse exposure) constant from day to day but introduces the same volatility decay that affects all daily-reset products. A reader comparing TSMZ's returns to the negative of TSM's returns over a multi-day period will notice TSMZ underperforming — that underperformance is the cost of daily rebalancing in a market that oscillates rather than moves in one clean direction.
 
@@ -36,7 +36,7 @@ The fund rebalances daily at market close. That daily reset keeps the leverage (
 
 TSMZ serves three types of market participants. First, traders who believe TSM is overvalued or due for a pullback use TSMZ for a short-term bearish position without the complications of short-selling. Second, portfolio managers long TSM use TSMZ as a tactical hedge — if they own TSM stock and want temporary downside protection while waiting for a catalyst, they might hold TSMZ for a few days or weeks. Third, leveraged fund traders combine TSMZ with other positions in spread trades or market-neutral strategies.
 
-TSMZ is not for buy-and-hold investors or long-term equity positions. If you believe TSM is overvalued as a multi-year thesis, short selling through your broker or buying put options may be more efficient. If you want steady downside in a TSM bet, unlevered and non-inverse products are not the tool; TSMZ is built for the specific window of a few days to a few weeks.
+TSMZ is not for buy-and-hold investors or long-term equity positions. If you believe TSM is overvalued as a multi-year thesis, [short selling](/short-selling/) through your [broker](/broker/) or buying put options may be more efficient. If you want steady downside in a TSM bet, unlevered and non-inverse products are not the tool; TSMZ is built for the specific window of a few days to a few weeks.
 
 ## Volatility decay in inverse funds
 
@@ -46,7 +46,7 @@ The real risk materializes over weeks. A trader holding TSMZ while waiting for a
 
 ## Expense ratio and trading costs
 
-Direxion charges an expense ratio for managing the inverse exposure and daily rebalancing. The ratio is typically higher than unlevered funds because inverse daily-reset funds require active derivative management and careful hedging. The fund trades on the NASDAQ, and bid-ask spreads are generally tight during standard market hours but can widen during pre-market or after-hours sessions.
+Direxion charges an [expense ratio](/expense-ratio/) for managing the inverse exposure and daily rebalancing. The ratio is typically higher than unlevered funds because inverse daily-reset funds require active derivative management and careful hedging. The fund trades on the [NASDAQ](/nasdaq/), and [bid-ask spreads](/bid-ask-spread/) are generally tight during standard market hours but can widen during pre-market or after-hours sessions.
 
 Total cost of ownership includes the stated expense ratio plus the bid-ask spread you pay when entering and exiting the position. For a trader holding TSMZ for one day, the round-trip transaction cost is often the largest component of total cost. Over longer periods, the expense ratio compounds but is overshadowed by volatility decay.
 
@@ -54,6 +54,6 @@ Total cost of ownership includes the stated expense ratio plus the bid-ask sprea
 
 Start with Direxion's fact sheet, which describes the fund's objective, the inverse methodology, and the daily rebalancing process. The prospectus details the specific risks of inverse daily-reset leverage, including the volatility decay that all daily-reset funds face. Direxion publishes daily tracking data showing TSMZ's performance relative to the negative of TSM's performance.
 
-Check a financial data provider for TSMZ's liquidity and any significant gap between its net asset value and its trading price. A large premium or discount suggests either strong trading demand or a liquidity problem. Normal ETFs trade close to their NAV; persistent divergence is a warning sign.
+Check a financial data provider for TSMZ's liquidity and any significant gap between its [net asset value](/net-asset-value/) and its trading price. A large premium or discount suggests either strong trading demand or a liquidity problem. Normal ETFs trade close to their NAV; persistent divergence is a warning sign.
 
-Finally, understand your exit plan before entering. If you are holding TSMZ as a hedge or a short-term speculation, you should know in advance under what condition you will exit — a particular TSM price level, a calendar date, or a change in the fundamental thesis. Holding inverse ETFs "just in case" is a slow burn because volatility decay erodes them over time.
+Finally, understand your exit plan before entering. If you are holding TSMZ as a hedge or a short-term speculation, you should know in advance under what condition you will exit — a particular TSM price level, a calendar date, or a change in the fundamental thesis. Holding [inverse ETFs](/inverse-etf/) "just in case" is a slow burn because volatility decay erodes them over time.

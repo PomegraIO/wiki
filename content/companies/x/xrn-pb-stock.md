@@ -22,15 +22,15 @@ handwritten: true
 | **Key metric** | Loan-to-value ratios on underlying mortgages; rental income sufficiency |
 | **SEC CIK** | 0001533615 |
 
-Chiron Real Estate's Preferred B shares occupy a specific rung in the company's capital ladder. Above them are the mortgages that finance the properties and the Preferred A shares. Below them sits common equity. This tiering allows Chiron to raise capital in tranches, with each layer carrying different risk and return expectations — and different investor profiles.
+Chiron Real Estate's Preferred B shares occupy a specific rung in the company's capital ladder. Above them are the mortgages that finance the properties and the Preferred A shares. Below them sits common equity. This tiering allows Chiron to raise capital in [tranches](/tranche/), with each layer carrying different risk and return expectations — and different investor profiles.
 
 ## What the capital structure reveals
 
 The existence of both Preferred A and Preferred B shares tells a story about how the company has grown and where its capital came from. Rather than issuing a single class of preferred shares, Chiron split them — likely because different investors sought different positions. Preferred A holders might be founding investors or those who came in early and demanded top priority. Preferred B holders came later, accepting subordination in exchange for higher coupon or some other economic incentive.
 
-This kind of layering is common in real estate companies and real estate investment trusts that do not have access to simple common-equity markets. It is also efficient capital raising: the company avoids the cost and complexity of an IPO or a high-yield bond offering, instead building its balance sheet through successive preferred issuances, each marked by its own terms and holder constituency.
+This kind of layering is common in real estate companies and [real estate investment trusts](/real-estate-investment-trust/) that do not have access to simple common-equity markets. It is also efficient capital raising: the company avoids the cost and complexity of an IPO or a [high-yield bond](/high-yield-bond/) offering, instead building its [balance sheet](/balance-sheet/) through successive preferred issuances, each marked by its own terms and holder constituency.
 
-The subordination of Preferred B to Preferred A is crucial. In a scenario where the company faces losses and must cut distributions, Preferred A gets paid first. Preferred B holders might see dividends suspended entirely while Preferred A still receives theirs. That hierarchy reflects the market's view: Preferred A got in first or negotiated better terms; Preferred B accepted lower priority in exchange for compensation.
+The subordination of Preferred B to Preferred A is crucial. In a scenario where the company faces losses and must cut distributions, Preferred A gets paid first. Preferred B holders might see [dividends](/dividend/) suspended entirely while Preferred A still receives theirs. That hierarchy reflects the market's view: Preferred A got in first or negotiated better terms; Preferred B accepted lower priority in exchange for compensation.
 
 ## The real estate engine underneath
 
@@ -40,9 +40,9 @@ The health of that engine drives everything. If rents in Chiron's portfolio are 
 
 ## Why scale matters in residential real estate
 
-A large, diversified residential real estate company with thousands of units across multiple states and price points can absorb local downturns and manage refinancing efficiently. It can negotiate with lenders, rotate out underperforming properties, and redeploy capital to better opportunities. It can also tap equity and debt markets at reasonable cost because scale brings visibility and institutional familiarity.
+A large, diversified [residential real estate](/residential-real-estate/) company with thousands of units across multiple states and price points can absorb local downturns and manage refinancing efficiently. It can negotiate with lenders, rotate out underperforming properties, and redeploy capital to better opportunities. It can also tap equity and debt markets at reasonable cost because scale brings visibility and institutional familiarity.
 
-A smaller company like Chiron — holding a more concentrated portfolio — faces steeper challenges. A recession that hits one region or one tenant demographic can damage a meaningful portion of the portfolio without offsetting gains elsewhere. Refinancing a cluster of mortgages coming due in a high-rate environment is painful; a large company has options, a small one often does not. And accessing capital markets to refinance or grow is harder when you lack the scale and track record that attract institutional capital.
+A smaller company like Chiron — holding a more concentrated portfolio — faces steeper challenges. A [recession](/recession/) that hits one region or one tenant demographic can damage a meaningful portion of the portfolio without offsetting gains elsewhere. Refinancing a cluster of mortgages coming due in a high-rate environment is painful; a large company has options, a small one often does not. And accessing capital markets to refinance or grow is harder when you lack the scale and track record that attract institutional capital.
 
 That constraint is why preferred shares exist. Rather than raise all capital from banks or on the public market, Chiron can offer preferred shares to private investors or smaller institutions seeking yield. Preferred B's subordination reflects the capital-raising reality: the company had already issued Preferred A, and further capital required a lower position in the priority stack to attract interest.
 
@@ -56,7 +56,7 @@ Several indicators matter. First, loan-to-value on the mortgage pool — how muc
 
 Preferred B holders sit in a subordinated position, which means they absorb losses ahead of common equity but after Preferred A. In a stress scenario, the priority order is clear: Preferred A gets paid first, then Preferred B, then common equity gets nothing. If the company is barely cash-flowing, Preferred A might receive full distributions while Preferred B receives partial ones or nothing.
 
-Interest-rate risk is material. If Chiron's mortgages reset or refinance in a higher-rate environment, debt service rises and cash available for preferred dividends falls. Residential property values are also interest-rate sensitive; higher rates compress valuation multiples, so the balance sheet shrinks even before a single tenant defaults.
+[Interest-rate risk](/interest-rate-risk/) is material. If Chiron's mortgages reset or refinance in a higher-rate environment, debt service rises and cash available for preferred dividends falls. Residential property values are also interest-rate sensitive; higher rates compress valuation multiples, so the balance sheet shrinks even before a single tenant defaults.
 
 Tenant concentration and geographic concentration both matter. If the portfolio is heavily weighted to a single state or city, a local recession or regulatory shock hits hard. If it is concentrated in a single price tier or tenant demographic, a shift in that market damages results.
 

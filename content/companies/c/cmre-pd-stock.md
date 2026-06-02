@@ -13,7 +13,7 @@ handwritten: true
 
 Costamare Inc. owns and charters large container vessels to the world's major shipping lines. The company operates as a landlord to the logistics industry — it builds and buys ships, then leases them under multi-year contracts to carriers like Maersk, CMA CGM, and MSC that actually move the cargo. This is a capital-heavy, contractual business where the money matters less than the durability of the agreements.
 
-The fleet sits at roughly 56 containerships with a total capacity around 326,000 twenty-foot equivalent units (TEU), plus newbuilds on order. These are not small boats. A modern panamax container ship costs $150 million to $200 million to build, and a mega-ship twice that. Costamare funds this through debt and retained earnings, betting that long-term time-charter rates will cover the interest and leave room for profit.
+The fleet sits at roughly 56 containerships with a total capacity around 326,000 twenty-foot equivalent units (TEU), plus newbuilds on order. These are not small boats. A modern panamax container ship costs $150 million to $200 million to build, and a mega-ship twice that. Costamare funds this through debt and [retained earnings](/retained-earnings/), betting that long-term time-charter rates will cover the interest and leave room for profit.
 
 ## How the money arrives
 
@@ -35,9 +35,9 @@ The real competitive threat comes not from other ship-owners but from the shippi
 
 The International Maritime Organization mandates increasingly strict emissions standards. New ships must be built to comply; older ships face retrofitting costs or accelerated retirement. Costamare's fleet is relatively young, but the transition to low-carbon shipping (biofuels, ammonia propulsion, hybrid systems) will require capital reinvestment.
 
-Macro demand for container shipping ebbs and flows with global trade volumes, which depend on consumer spending in developed economies and supply-chain reconfiguration. A sustained recession or trade war can hollow out utilization; pandemic lockdowns proved how quickly the industry can swing. Costamare hedges this by locking in long-term contracts, but long-term contracts at low rates during a downturn are worse than no contracts at all.
+Macro demand for container shipping ebbs and flows with global trade volumes, which depend on consumer spending in developed economies and supply-chain reconfiguration. A sustained [recession](/recession/) or [trade war](/trade-war/) can hollow out utilization; pandemic lockdowns proved how quickly the industry can swing. Costamare hedges this by locking in long-term contracts, but long-term contracts at low rates during a downturn are worse than no contracts at all.
 
 ## How to research Costamare
 
-Start with the 10-K (SEC CIK 0001503584) to understand the composition of the fleet by age, size, and contract coverage. The quarterly earnings calls reveal management's expectations for newbuild placement and charter-rate trends. Watch the average daily hire rate for similar vessels in the market (published by brokers and tracking firms) to see if Costamare's rates are at a premium or discount. The balance sheet matters more here than earnings — scrutinize the debt maturity profile and refinancing risk, and note what portion of the fleet is locked into long-term contracts versus trading on the spot market. That ratio tells you how much downside protection Costamare has bought.
+Start with the 10-K (SEC CIK 0001503584) to understand the composition of the fleet by age, size, and contract coverage. The quarterly earnings calls reveal management's expectations for newbuild placement and charter-rate trends. Watch the average daily hire rate for similar vessels in the market (published by [brokers](/broker/) and tracking firms) to see if Costamare's rates are at a premium or discount. The [balance sheet](/balance-sheet/) matters more here than earnings — scrutinize the debt maturity profile and [refinancing risk](/refinancing-risk/), and note what portion of the fleet is locked into long-term contracts versus trading on the spot market. That ratio tells you how much downside protection Costamare has bought.
 

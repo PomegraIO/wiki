@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ProShares Ultra Short Crude Oil (SCO) is an inverted, 3x leveraged ETF that profits when crude oil futures fall. For every 1% decline in oil futures, SCO aims to rise roughly 3%. For every 1% rise, it falls roughly 3%. Like all leveraged commodity products, it is engineered for short-term tactical positioning rather than long-term holding. The fund holds no oil; it uses oil futures contracts and derivatives to create a negative-delta payoff.
+ProShares Ultra Short [Crude Oil](/crude-oil/) (SCO) is an inverted, 3x [leveraged ETF](/leveraged-etf/) that profits when crude oil futures fall. For every 1% decline in oil futures, SCO aims to rise roughly 3%. For every 1% rise, it falls roughly 3%. Like all leveraged commodity products, it is engineered for short-term tactical positioning rather than long-term holding. The fund holds no oil; it uses oil [futures contracts](/futures-contract/) and derivatives to create a negative-delta payoff.
 
 <aside class="wiki-infobox">
 <table>
@@ -30,7 +30,7 @@ ProShares Ultra Short Crude Oil (SCO) is an inverted, 3x leveraged ETF that prof
 
 SCO does not short-sell oil physically. Instead, ProShares constructs the fund to hold oil futures contracts in a way that creates a short position. When the fund rebalances daily, it adjusts its holdings so that the portfolio's net delta matches -3x the daily return of the underlying futures. This is a mechanical engineering task: every day, calculate how much the benchmark moved, and twist the portfolio so that a 1% benchmark drop produces a 3% fund gain.
 
-The fund typically holds contracts that expire in one to three months, rolling them forward as expiration approaches. This rolling process — selling expiring contracts and buying later-dated ones — imposes a cost or a benefit depending on the futures curve. When the oil curve is in contango (the normal state, where future-month contracts trade higher than near-term ones), rolling is a losing trade for a short. When the curve is in backwardation (future months trade lower), rolling is profitable. Neither condition is permanent.
+The fund typically holds contracts that expire in one to three months, rolling them forward as expiration approaches. This rolling process — selling expiring contracts and buying later-dated ones — imposes a cost or a benefit depending on the futures curve. When the oil curve is in [contango](/contango/) (the normal state, where future-month contracts trade higher than near-term ones), rolling is a losing trade for a short. When the curve is in [backwardation](/backwardation/) (future months trade lower), rolling is profitable. Neither condition is permanent.
 
 ## The contango headwind
 
@@ -44,7 +44,7 @@ SCO makes money in three scenarios. First, when oil prices actually fall — the
 
 Second, when the oil curve shifts from backwardation to contango — a more subtle play. If oil has been expensive and constrained, far-month contracts might trade near or above near-term ones (backwardation). If a supply issue resolves, the curve flattens and returns to normal contango, a shift that benefits short positions as rolling becomes profitable.
 
-Third, SCO can serve as an inflation hedge in a perverse way. In periods of stagflation — stagnation plus inflation — energy prices are sometimes volatile and can spike or fall. A portfolio manager who owns stocks and bonds and believes that oil weakness would be particularly helpful if equities stumble might hold a small SCO position. The fund would gain if that "bad weather" scenario materializes (both stocks and oil fall), offsetting some equity losses.
+Third, SCO can serve as an [inflation](/inflation/) hedge in a perverse way. In periods of [stagflation](/stagflation/) — stagnation plus inflation — energy prices are sometimes volatile and can spike or fall. A portfolio manager who owns stocks and [bonds](/bond/) and believes that oil weakness would be particularly helpful if equities stumble might hold a small SCO position. The fund would gain if that "bad weather" scenario materializes (both stocks and oil fall), offsetting some equity losses.
 
 ## The holding-period problem
 
@@ -66,6 +66,6 @@ The key is understanding your time horizon. If you expect oil to fall 10% in the
 
 ## Researching and using SCO
 
-Anyone considering SCO should check the current oil futures curve on the NYMEX or the CME to understand the contango or backwardation state. If the curve is steeply in contango, holding SCO is more costly. If it is flat or inverted, the structural drag is lower. Track the oil price daily and understand that SCO moves three times that, in the opposite direction. Use it for a specific tactical bet with a defined holding period — a few days to a few weeks — and exit before conviction fades.
+Anyone considering SCO should check the current oil futures curve on the NYMEX or the CME to understand the contango or backwardation state. If the curve is steeply in contango, holding SCO is more costly. If it is flat or inverted, the structural drag is lower. Track the oil price daily and understand that SCO moves three times that, in the opposite direction. Use it for a specific tactical bet with a defined [holding period](/holding-period/) — a few days to a few weeks — and exit before conviction fades.
 
 Read the prospectus carefully. The fund is explicit that it is designed for short-term use and that longer holding periods will result in deviation from 3x inverse returns due to decay. ProShares publishes daily fact sheets and educational materials about how leveraged inverse products work. Use them.

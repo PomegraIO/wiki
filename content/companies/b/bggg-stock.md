@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Most growth investors hunt for companies doing the same thing, only faster. This fund hunts for companies doing something different. A traditional manufacturer shifting to digital services. A regional player going global. A hardware maker moving to subscription revenue. A tech company finding an entirely new market. The distinction matters. Baillie Gifford's Long Term Global Growth ETF backs companies in genuine business transformation, not just expansion of the status quo.
+Most growth investors hunt for companies doing the same thing, only faster. This fund hunts for companies doing something different. A traditional manufacturer shifting to digital services. A regional player going global. A hardware maker moving to subscription revenue. A tech company finding an entirely new market. The distinction matters. Baillie Gifford's Long Term Global [Growth ETF](/growth-etf/) backs companies in genuine business transformation, not just expansion of the status quo.
 
 Transformation is messier than regular growth. The company has to execute a shift, customers have to accept the new model, old revenue may decline before new revenue scales, and competitors may imitate. But when it works, the payoff can be outsized because the market often undervalues companies mid-way through the change.
 
@@ -31,10 +31,10 @@ You should expect the fund to underperform in periods when the market favors sta
 
 ## Trading and costs
 
-As an ETF, the fund trades throughout the market day on exchanges, offering intraday pricing and the ability to enter or exit at any moment—unlike traditional mutual funds that price once daily at close. The expense ratio covers active management and operating costs; actively managed global growth funds typically charge more than passive indices because of the research required.
+As an ETF, the fund trades throughout the market day on exchanges, offering intraday pricing and the ability to enter or exit at any moment—unlike traditional [mutual funds](/mutual-fund/) that price once daily at close. The [expense ratio](/expense-ratio/) covers active management and operating costs; actively managed global [growth funds](/growth-fund/) typically charge more than passive indices because of the research required.
 
 ## Evaluating the fund
 
-Start with the prospectus for the fee structure and the stated approach. Then look at quarterly and annual reports. What specific transformations are the managers backing? Do you agree with their assessment? Which holdings have turned out to be genuine transformations and which ones disappointed? Because you are paying for the team's judgment, you need to evaluate whether that judgment looks sound.
+Start with the prospectus for the fee structure and the stated approach. Then look at quarterly and [annual reports](/10-k/). What specific transformations are the managers backing? Do you agree with their assessment? Which holdings have turned out to be genuine transformations and which ones disappointed? Because you are paying for the team's judgment, you need to evaluate whether that judgment looks sound.
 
-The fund is for investors comfortable with multi-year holding periods, convinced that markets misprice transformational companies, and willing to sit through years when their bets are out of favor. It is not for those needing stability or liquidity within a couple of years.
+The fund is for investors comfortable with multi-year [holding periods](/holding-period/), convinced that markets misprice transformational companies, and willing to sit through years when their bets are out of favor. It is not for those needing stability or liquidity within a couple of years.

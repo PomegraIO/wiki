@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Connecticut Light & Power Company, trading under the ticker CNLPM as preferred stock, is a regulated electricity distributor serving Connecticut. The company operates as a subsidiary of Eversource Energy and rebranded under that corporate name in 2015, though the underlying operating utility retains its legal identity. It is one of two major investor-owned electric distribution companies in Connecticut, serving approximately 1.2 million customers across roughly 149 towns and 4,400 square miles of the state.
+[Connecticut Light & Power](/cnthp-stock/) Company, trading under the ticker CNLPM as [preferred stock](/preferred-stock/), is a regulated electricity distributor serving Connecticut. The company operates as a subsidiary of [Eversource Energy](/es-stock/) and rebranded under that corporate name in 2015, though the underlying operating utility retains its legal identity. It is one of two major investor-owned electric distribution companies in Connecticut, serving approximately 1.2 million customers across roughly 149 towns and 4,400 square miles of the state.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Connecticut Light & Power Company, trading under the ticker CNLPM as preferred s
 
 ## A regulated monopoly with energy choice
 
-As a regulated utility, Connecticut Light & Power operates under a franchise to serve all customers in its territory without competition for the distribution network itself—the poles, wires, and transformers that carry electricity to homes and businesses. The Connecticut Public Utilities Regulatory Authority (PURA) sets the rates the company can charge, ensuring cost recovery with a mandated return on equity, and approves capital investments. This regulatory model provides revenue predictability: once PURA approves rates, the company collects them for several years regardless of cost inflation or volume changes.
+As a regulated utility, Connecticut Light & Power operates under a franchise to serve all customers in its territory without competition for the distribution network itself—the poles, wires, and transformers that carry electricity to homes and businesses. The Connecticut Public Utilities Regulatory Authority (PURA) sets the rates the company can charge, ensuring cost recovery with a mandated [return on equity](/return-on-equity/), and approves capital investments. This regulatory model provides revenue predictability: once PURA approves rates, the company collects them for several years regardless of cost [inflation](/inflation/) or volume changes.
 
 However, the state's electricity market operates under partial deregulation. Since 2000, residential and business customers in Connecticut have had "Energy Choice"—the ability to buy their electricity from suppliers other than the utility. What the utility always provides is the physical infrastructure: the wires, the meters, and the grid operations. This two-tier system means Connecticut Light & Power keeps steady revenue from distribution and grid services while competing suppliers sell the commodity power. For the utility, this reduces the risk of margin compression from commodity price volatility but also caps upside from rising prices.
 
@@ -35,7 +35,7 @@ However, the state's electricity market operates under partial deregulation. Sin
 
 The electrical grid in Connecticut is decades old. Distribution utilities across the Northeast, including Connecticut Light & Power, are investing heavily in replacing aging infrastructure, hardening the grid against storm damage, and integrating distributed solar and battery storage. These capital projects are costly and ongoing. The regulatory framework allows utilities to recover these costs through rates, but there is a lag—the utility must spend capital, wait for PURA approval, then collect through higher rates—which creates timing risk and requires external financing.
 
-Connecticut Light & Power is part of a much larger parent company, Eversource Energy, which also operates utilities in Massachusetts and New Hampshire. This corporate structure allows the parent to allocate capital and manage debt across three states and multiple regulatory jurisdictions, but it also means the preferred stock of Connecticut Light & Power is subordinated to the consolidated credit and dividend policy of the parent. The parent company decides capital allocation and distributions.
+Connecticut Light & Power is part of a much larger parent company, Eversource Energy, which also operates utilities in Massachusetts and New Hampshire. This corporate structure allows the parent to allocate capital and manage debt across three states and multiple regulatory jurisdictions, but it also means the preferred stock of Connecticut Light & Power is subordinated to the consolidated credit and [dividend](/dividend/) policy of the parent. The parent company decides capital allocation and distributions.
 
 ## The competitive and regulatory landscape
 

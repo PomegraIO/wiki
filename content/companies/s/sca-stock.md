@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*SCA — the GraniteShares Autocallable SMCI ETF — is a structured note that gives you exposure to Super Micro Computer shares, but with a twist: the fund can "call" itself early and pay you off if certain conditions are met, cutting short what you thought would be a longer-term investment.*
+*SCA — the GraniteShares Autocallable SMCI ETF — is a structured note that gives you exposure to [Super Micro Computer](/smci-stock/) shares, but with a twist: the fund can "call" itself early and pay you off if certain conditions are met, cutting short what you thought would be a longer-term investment.*
 
 <aside class="wiki-infobox">
 <table>
@@ -32,7 +32,7 @@ This sounds like it might be good — you get paid out ahead of schedule. But au
 
 ## Mechanics and observation dates
 
-Autocallables typically have a series of observation dates — say, every quarter or every six months — when the issuer checks whether the underlying stock has hit the call price. If SMCI is trading at or above that level, the note is called (redeemed) and investors are paid the par value plus a coupon that accrued. If not, the note continues and the next observation date comes around. Only if the stock stays below the call barrier for the entire life of the note does it mature on its intended schedule.
+Autocallables typically have a series of observation dates — say, every quarter or every six months — when the issuer checks whether the underlying stock has hit the call price. If SMCI is trading at or above that level, the note is called (redeemed) and investors are paid the [par value](/par-value/) plus a coupon that accrued. If not, the note continues and the next observation date comes around. Only if the stock stays below the call barrier for the entire life of the note does it mature on its intended schedule.
 
 This creates a peculiar asymmetry. Your upside is capped at the call price, but your downside is not. If SMCI crashes 50%, the autocallable structure does not prevent your principal from losing half its value. You get the full loss if the stock collapses, but you do not get the full gain if it soars — you get called away at the predetermined level.
 
@@ -40,19 +40,19 @@ This creates a peculiar asymmetry. Your upside is capped at the call price, but 
 
 The autocallable structure allows GraniteShares to offer something that looks attractive: a higher coupon or yield than you might get from simply holding SMCI shares. The issuer is essentially selling you the upside above the call price in exchange for giving you a slightly nicer income stream or valuation along the way. This can make sense for an issuer that expects SMCI to trade in a moderate range; they get to close winning positions early and lock in profits.
 
-For the investor, the appeal is theoretically the enhanced income or the slightly cushioned entry price. The cost is the loss of unbounded upside and the complexity of tracking the observation dates, the call barriers, and the precise terms of redemption. In a bull market, autocallables become painful — you are systematically locked out of continued gains just when you might want them most.
+For the investor, the appeal is theoretically the enhanced income or the slightly cushioned entry price. The cost is the loss of unbounded upside and the complexity of tracking the observation dates, the call barriers, and the precise terms of redemption. In a [bull market](/bull-market/), autocallables become painful — you are systematically locked out of continued gains just when you might want them most.
 
 ## Risks specific to SCA
 
-The usual structured-product risks apply. First, counterparty risk: you are holding a GraniteShares bond, not shares of SMCI. If GraniteShares faces financial stress, you are an unsecured creditor. That is unlikely for a established firm like GraniteShares, but it is a layer of risk that buying SMCI shares directly would not carry.
+The usual structured-product risks apply. First, [counterparty risk](/counterparty-risk/): you are holding a GraniteShares [bond](/bond/), not shares of SMCI. If GraniteShares faces financial stress, you are an unsecured creditor. That is unlikely for a established firm like GraniteShares, but it is a layer of risk that buying SMCI shares directly would not carry.
 
-Second, call risk — the risk of being forced to exit too early. Third, price discontinuity: the SCA note's price in the market may not trade exactly in line with SMCI's actual value. There can be a discount or premium baked in due to liquidity differences, credit spreads, or market conditions specific to the note itself. An investor trying to exit early might find the SCA price diverges from what the underlying SMCI value suggests they should receive.
+Second, [call risk](/call-risk/) — the risk of being forced to exit too early. Third, price discontinuity: the SCA note's price in the market may not trade exactly in line with SMCI's actual value. There can be a discount or premium baked in due to liquidity differences, [credit spreads](/credit-spread/), or market conditions specific to the note itself. An investor trying to exit early might find the SCA price diverges from what the underlying SMCI value suggests they should receive.
 
 Fourth, there is the complexity of the structure itself. Understanding every term, every observation date, every condition is necessary to avoid surprises. A careless investor might be surprised when an autocall happens, or might misjudge the payoff at maturity.
 
 ## Researching SCA
 
-The prospectus and term sheet from GraniteShares are not optional — they are essential. These documents spell out: the exact call barriers, the observation dates, the coupon amount, the maturity date, what happens at each stage, and the credit rating of GraniteShares as the issuer. Without these, you cannot calculate your true exposure or know when you might be forced out.
+The prospectus and term sheet from GraniteShares are not optional — they are essential. These documents spell out: the exact call barriers, the observation dates, the coupon amount, the maturity date, what happens at each stage, and the [credit rating](/credit-rating/) of GraniteShares as the issuer. Without these, you cannot calculate your true exposure or know when you might be forced out.
 
 Comparing SCA's price to SMCI's price is useful to gauge the discount or premium the note is trading at. Tracking SMCI's recent volatility helps assess the probability that autocalls will be triggered — a highly volatile stock makes autocalls more likely. Reviewing historical calls on similar GraniteShares autocallables can illustrate how often these structures actually get called away versus reaching maturity.
 

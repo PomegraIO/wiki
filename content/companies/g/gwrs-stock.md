@@ -21,7 +21,7 @@ Water utilities operate under geographic monopolies—a municipality or service 
 
 The company's primary assets are the physical infrastructure: treatment plants (including intake from wells or surface sources), distribution piping, pump stations, storage tanks, and wastewater collection and treatment systems. These assets are capitalized on the balance sheet as Property, Plant, and Equipment (PP&E). For a utility, PP&E often exceeds 80–90% of total assets. The cost of laying a mile of water line, permitting and constructing a treatment facility, and acquiring water rights (in the western US, often the largest hidden asset) requires sustained capital investment.
 
-Depreciation is a major non-cash expense on the [income statement](/income-statement/). Water infrastructure has 20–50 year useful lives depending on the asset type. Annual depreciation expense is predictable and substantial; for Global Water Resources, it offsets a meaningful portion of operating cash flow, so the company's reported net income lags its cash generation. Understanding a water utility's earnings requires distinguishing between accounting profit (after depreciation) and cash earnings before non-cash charges.
+[Depreciation](/depreciation/) is a major non-cash expense on the [income statement](/income-statement/). Water infrastructure has 20–50 year useful lives depending on the asset type. Annual depreciation expense is predictable and substantial; for Global Water Resources, it offsets a meaningful portion of operating cash flow, so the company's reported net income lags its cash generation. Understanding a water utility's earnings requires distinguishing between accounting profit (after depreciation) and cash earnings before non-cash charges.
 
 ## Regulated Returns and the Path to Profitability
 
@@ -35,15 +35,15 @@ Global Water Resources' balance sheet will show the growth in rate base over tim
 
 Unlike capital-intensive assets, water utilities typically require modest working capital. Customers are billed monthly for water service; most utilities collect within 30–60 days. Bad-debt expense is generally low because customers can be disconnected for non-payment, and many are municipal governments or large institutions with excellent payment history.
 
-However, Global Water Resources serves both municipal customers and irrigation districts, each with different economics. Municipal water is a necessity-good, inelastic in demand, and carries lower credit risk. Irrigation water is seasonal (heaviest demand in summer) and more price-sensitive, depending on commodity crop prices and farmer profitability. Customer concentration and revenue timing matter; if a large irrigation district customer defaults or demands discounted rates, it affects earnings volatility.
+However, Global Water Resources serves both municipal customers and irrigation districts, each with different economics. Municipal water is a necessity-good, inelastic in demand, and carries lower [credit risk](/credit-risk/). Irrigation water is seasonal (heaviest demand in summer) and more price-sensitive, depending on commodity crop prices and farmer profitability. Customer concentration and revenue timing matter; if a large irrigation district customer defaults or demands discounted rates, it affects earnings volatility.
 
 [Accounts receivable](/accounts-receivable/) aging and the composition of revenue by customer class are disclosed in the MD&A section of the 10-K. For a utility with meaningful agricultural or industrial customers, geographic and customer [concentration risk](/concentration-risk/) is material.
 
 ## Debt and Cost of Capital
 
-Utilities are among the most heavily levered businesses, by design. A water utility might operate at 50–60% debt-to-total-capital ratios; the stable, regulated cash flows and monopoly position justify this leverage. Global Water Resources' debt will include bonds issued to fund capital projects, lines of credit for working capital and interim funding, and potentially equipment financing leases.
+Utilities are among the most heavily levered businesses, by design. A water utility might operate at 50–60% debt-to-total-capital ratios; the stable, regulated cash flows and monopoly position justify this leverage. Global Water Resources' debt will include [bonds](/bond/) issued to fund capital projects, lines of credit for working capital and interim funding, and potentially equipment financing leases.
 
-The cost of debt ([interest rate](/interest-rate/) on outstanding bonds or credit facilities) is disclosed in the financial statements. For a regulated utility, the allowed return on equity (determined by the regulatory commission) should exceed the cost of debt; if not, equity investors face returns below their cost of capital, making the business unviable. Utilities typically target capital structures (debt ratios) that balance minimizing the cost of capital against equity-investor return expectations.
+The [cost of debt](/cost-of-debt/) ([interest rate](/interest-rate/) on outstanding bonds or credit facilities) is disclosed in the financial statements. For a regulated utility, the allowed return on equity (determined by the regulatory commission) should exceed the cost of debt; if not, equity investors face returns below their cost of capital, making the business unviable. Utilities typically target capital structures (debt ratios) that balance minimizing the cost of capital against equity-investor return expectations.
 
 Deferred tax liabilities often appear on the balance sheet because utilities claim accelerated depreciation for tax purposes while using [straight-line depreciation](/straight-line-depreciation/) for book purposes. This creates a timing difference; the company owes less tax currently but faces greater tax liabilities in future years. The [deferred tax liability](/deferred-tax-liability/) can be substantial and affects the true net worth of the business.
 
@@ -51,9 +51,9 @@ Deferred tax liabilities often appear on the balance sheet because utilities cla
 
 Global Water Resources' growth is constrained by the rate of population growth and infrastructure development in its Arizona service territories. Unlike a manufacturing company that can expand geographically or increase market share through pricing or product innovation, a utility can only grow by acquiring additional service territories, increasing density of service in existing territories (as areas develop), and incremental rate base growth.
 
-The company's strategy will emphasize acquisition of smaller municipal or private water systems (often undercapitalized or facing regulatory pressure), serving new suburban developments through contracts with developers, and potentially consolidating fragmented regional water providers. Each path requires capital investment and regulatory approval.
+The company's strategy will emphasize [acquisition](/acquisition/) of smaller municipal or private water systems (often undercapitalized or facing regulatory pressure), serving new suburban developments through contracts with developers, and potentially consolidating fragmented regional water providers. Each path requires capital investment and regulatory approval.
 
-The balance sheet of a growing utility will show increasing PP&E, steadily growing [retained earnings](/retained-earnings/) as the company reinvests profits into infrastructure, and stable or gradually increasing debt (to fund growth capital). A mature utility with limited growth might run higher payout ratios, returning more cash to shareholders via dividends, because reinvestment needs are lower.
+The balance sheet of a growing utility will show increasing PP&E, steadily growing [retained earnings](/retained-earnings/) as the company reinvests profits into infrastructure, and stable or gradually increasing debt (to fund growth capital). A mature utility with limited growth might run higher [payout ratios](/payout-ratio/), returning more cash to shareholders via [dividends](/dividend/), because reinvestment needs are lower.
 
 ## Reading Profitability and Cash Returns
 
@@ -70,7 +70,7 @@ The balance sheet, read as a story of capital investment, regulatory returns, an
 <ul>
 <li><a href="/gwh-stock/">[ESS Tech](/gwh-stock/), Inc.</a></li>
 <li><a href="/gwti-stock/">Greenway Technologies, Inc.</a></li>
-<li><a href="/10-k/">10-K (SEC Annual Report)</a></li>
+<li><a href="/10-k/">10-K (SEC [Annual Report](/10-k/))</a></li>
 <li><a href="/balance-sheet/">Balance Sheet</a></li>
 <li><a href="/return-on-equity/">Return on Equity</a></li>
 </ul>

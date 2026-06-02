@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-flyExclusive operates one of America's largest private jet fleets, offering on-demand charter flights, membership club access, fractional ownership stakes, and maintenance and refurbishment services. The company is headquartered in Kinston, North Carolina and owns and operates more than 100 aircraft, predominantly Cessna Citation jets across light, midsize, and heavy categories. The company went public in December 2023 following a merger with EG Acquisition Corp., a SPAC, and trades on the NYSE American under the ticker FLYX, with FLYX-WT representing warrants.
+flyExclusive operates one of America's largest private jet fleets, offering on-demand charter flights, membership club access, fractional ownership stakes, and maintenance and refurbishment services. The company is headquartered in Kinston, North Carolina and owns and operates more than 100 aircraft, predominantly Cessna Citation jets across light, midsize, and heavy categories. The company went public in December 2023 following a [merger](/merger/) with EG [Acquisition](/acquisition/) Corp., a SPAC, and trades on the NYSE American under the ticker FLYX, with FLYX-WT representing warrants.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ flyExclusive operates one of America's largest private jet fleets, offering on-d
 
 flyExclusive was founded in 2015 as a private aviation company targeting business travelers and high-net-worth individuals who wanted on-demand access to private jets without the capital commitment of ownership. The private aviation market was fragmented and served by a mix of older companies, many with outdated technology platforms and poor customer experience. The founders recognized an opportunity to build a modern operator focused on a specific fleet type—Cessna Citation aircraft—which are economical to operate, reliable, and cover the breadth of distances most business travelers need.
 
-The early years focused on fleet acquisition and building a customer base. flyExclusive purchased Cessna Citation aircraft from secondary markets and consolidated them under single ownership, centralizing maintenance and reducing per-flight operating costs. The company standardized on the Citation family—a choice that created operational efficiencies competitors could not easily replicate. A standardized fleet meant fewer spare parts, standardized crew training, and simplified scheduling and dispatch.
+The early years focused on fleet acquisition and building a customer base. flyExclusive purchased Cessna Citation aircraft from [secondary markets](/secondary-market/) and consolidated them under single ownership, centralizing maintenance and reducing per-flight operating costs. The company standardized on the Citation family—a choice that created operational efficiencies competitors could not easily replicate. A standardized fleet meant fewer spare parts, standardized crew training, and simplified scheduling and dispatch.
 
 By 2019, flyExclusive had built a fleet of several dozen aircraft and was competing directly with established players like VistaJet, NetJets, and smaller regional operators. The company positioned itself as a technology-forward alternative: an app-based booking system, transparent pricing, and a focus on customer service separated it from competitors that relied on call centers and opaque pricing.
 
@@ -46,7 +46,7 @@ By late 2022, flyExclusive had grown to over 100 aircraft and was the fifth-larg
 
 In December 2023, flyExclusive completed its merger with EG Acquisition Corp. under the ticker FLYX. Going public via SPAC merger was strategically sound: the company avoided the heavy scrutiny of a traditional IPO roadshow, raised capital efficiently, and could focus on operations. The public market entry gave the company currency to acquire other operators, expand internationally, or invest in technology.
 
-The market reception was cautiously positive. Investors recognized the large addressable market (there are tens of thousands of high-net-worth individuals and thousands of corporations with private aviation needs), the relative oligopoly of qualified operators, and flyExclusive's modern technology platform. However, they also recognized the cyclical nature of business aviation and the tight operating margins in an aircraft-ownership business.
+The market reception was cautiously positive. Investors recognized the large addressable market (there are tens of thousands of high-net-worth individuals and thousands of corporations with private aviation needs), the relative oligopoly of qualified operators, and flyExclusive's modern technology platform. However, they also recognized the cyclical nature of business aviation and the tight [operating margins](/operating-margin/) in an aircraft-ownership business.
 
 ## Business structure and revenue streams
 
@@ -72,15 +72,15 @@ The moat is not unbreakable. A larger competitor with deeper pockets could match
 
 ## Competitive pressures and headwinds
 
-The private aviation market is consolidated but not monopolistic. NetJets (owned by Berkshire Hathaway) is the largest operator by fleet size and has deeper pockets and longer history. Wheels Up, another technology-forward competitor, raised billions and scaled aggressively. Magellan Jets and other regional operators focus on specific geographies.
+The private aviation market is consolidated but not monopolistic. NetJets (owned by [Berkshire Hathaway](/brk-b-stock/)) is the largest operator by fleet size and has deeper pockets and longer history. Wheels Up, another technology-forward competitor, raised billions and scaled aggressively. Magellan Jets and other regional operators focus on specific geographies.
 
-flyExclusive competes on transparency, technology, and service. But those advantages can erode if a competitor with more capital decides to out-spend on customer acquisition or cuts prices sharply. The cyclicality of business aviation also poses a risk: a recession would reduce demand for charter flights and could depress valuations of the owned aircraft.
+flyExclusive competes on transparency, technology, and service. But those advantages can erode if a competitor with more capital decides to out-spend on customer acquisition or cuts prices sharply. The cyclicality of business aviation also poses a risk: a [recession](/recession/) would reduce demand for charter flights and could depress valuations of the owned aircraft.
 
 Regulatory changes could also reshape the economics. The FAA has been tightening rules around crew rest, pilot qualifications, and aircraft maintenance. More stringent regulations drive up operating costs for all operators, but they hurt smaller operators more than larger incumbents who can absorb regulatory compliance costs.
 
 ## How to research flyExclusive as an investment
 
-Start with the company's 10-K filing (SEC CIK 0001843973) to understand revenue by segment (charter vs. membership vs. fractional), the fleet composition, and the depreciation schedule on owned aircraft. Watch the quarterly earnings for changes in utilization rates (the percentage of available flight hours that are booked and paid), average revenue per flight hour, and the membership base growth.
+Start with the company's 10-K filing (SEC CIK 0001843973) to understand revenue by segment (charter vs. membership vs. fractional), the fleet composition, and the [depreciation](/depreciation/) schedule on owned aircraft. Watch the quarterly earnings for changes in utilization rates (the percentage of available flight hours that are booked and paid), average revenue per flight hour, and the membership base growth.
 
 Key metrics to track: whether the Jet Club is attracting new members and retaining existing ones, the age and condition of the fleet, and the company's capital expenditure on new aircraft acquisitions. Any commentary on pricing power (can the company raise rates without losing customers?) is valuable, as is information about corporate customer retention.
 

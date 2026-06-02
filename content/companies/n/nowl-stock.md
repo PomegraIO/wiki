@@ -15,7 +15,7 @@ handwritten: true
 
 ## Structure and daily reset mechanics
 
-NOWL uses leverage to target a 2x daily return relative to the Nasdaq-100. The fund holds a combination of index futures contracts and swap agreements that replicate this amplified exposure. Critically, it rebalances these positions every trading day at market close, restoring the leverage ratio to exactly 2x heading into the next session.
+NOWL uses leverage to target a 2x daily return relative to the Nasdaq-100. The fund holds a combination of index [futures contracts](/futures-contract/) and swap agreements that replicate this amplified exposure. Critically, it rebalances these positions every trading day at market close, restoring the [leverage ratio](/leverage-ratio-forex/) to exactly 2x heading into the next session.
 
 This daily reset is what distinguishes NOWL from a static 2x-leveraged position. Without daily rebalancing, a fund that started at 2x exposure would drift: if the market rose strongly, the equity portion would become a larger share of the fund's assets, pushing leverage higher. The daily reset prevents this drift but introduces a subtle mathematical cost in sideways or volatile markets.
 
@@ -27,18 +27,18 @@ Over longer periods — months or years — this mathematical drag typically ove
 
 ## Underlying index composition and risk concentration
 
-The Nasdaq-100 comprises the one hundred largest non-financial companies listed on the Nasdaq exchange. In practice, this means the index is heavily concentrated in technology, consumer discretionary, and biotechnology — with dominant positions in companies like Apple, Microsoft, Nvidia, Tesla, and Amazon. NOWL does not hold these stocks directly; instead, it holds futures and derivatives that replicate the index's movement. But it is still exposed to whatever concentration and sector risk the index itself carries.
+The Nasdaq-100 comprises the one hundred largest non-financial companies listed on the [Nasdaq](/nasdaq/) exchange. In practice, this means the index is heavily concentrated in technology, consumer discretionary, and biotechnology — with dominant positions in companies like [Apple](/aapl-stock/), [Microsoft](/msft-stock/), [Nvidia](/nvda-stock/), [Tesla](/tsla-stock/), and Amazon. NOWL does not hold these stocks directly; instead, it holds futures and derivatives that replicate the index's movement. But it is still exposed to whatever concentration and sector risk the index itself carries.
 
 Because the Nasdaq-100 is cap-weighted, the largest companies by market value have the largest influence on daily price movements. This makes NOWL highly sensitive to earnings surprises or regulatory news affecting mega-cap technology firms.
 
 ## Costs, liquidity, and derivative risks
 
-GraniteShares funds the leverage through overnight borrowing and derivative contracts. The expense ratio is disclosed, but the true cost of leverage — borrowing costs, bid-ask spreads, and the computational overhead of daily rebalancing — is partly hidden in tracking error. When short-term interest rates rise, the cost of maintaining leverage climbs; during periods of low rates, the drag is smaller.
+GraniteShares funds the leverage through overnight borrowing and derivative contracts. The [expense ratio](/expense-ratio/) is disclosed, but the true cost of leverage — borrowing costs, [bid-ask spreads](/bid-ask-spread/), and the computational overhead of daily rebalancing — is partly hidden in tracking error. When short-term [interest rates](/interest-rate/) rise, the cost of maintaining leverage climbs; during periods of low rates, the drag is smaller.
 
-The fund trades with reasonable liquidity during regular market hours, benefiting from the authorized-participant mechanism that arbitrages gaps between the fund's net asset value and its market price. However, in extreme market dislocations, this liquidity can evaporate quickly. Additionally, the derivatives underlying the leverage carry counterparty risk — if the bank or clearing house facilitating the swaps or futures were to fail or face severe stress, the fund's ability to maintain its leverage ratio could be impaired.
+The fund trades with reasonable liquidity during regular market hours, benefiting from the authorized-participant mechanism that arbitrages gaps between the fund's [net asset value](/net-asset-value/) and its market price. However, in extreme market dislocations, this liquidity can evaporate quickly. Additionally, the derivatives underlying the leverage carry [counterparty risk](/counterparty-risk/) — if the bank or clearing house facilitating the swaps or futures were to fail or face severe stress, the fund's ability to maintain its leverage ratio could be impaired.
 
 ## Who uses NOWL and how to evaluate it
 
-NOWL is a tool for traders with a specific, near-term directional conviction about the Nasdaq-100. A trader who believes large-cap technology will rally sharply over the next few days or weeks might use NOWL to amplify that bet. It is not appropriate for retirement accounts, which require stable, diversified, low-cost holding periods. Holding NOWL for months guarantees meaningful drag from volatility decay; holding it for years is almost certain to destroy wealth relative to simply owning the unleveraged Nasdaq-100.
+NOWL is a tool for traders with a specific, near-term directional conviction about the Nasdaq-100. A trader who believes large-cap technology will rally sharply over the next few days or weeks might use NOWL to amplify that bet. It is not appropriate for retirement accounts, which require stable, diversified, low-cost [holding periods](/holding-period/). Holding NOWL for months guarantees meaningful drag from volatility decay; holding it for years is almost certain to destroy wealth relative to simply owning the unleveraged Nasdaq-100.
 
 Anyone considering NOWL should read GraniteShares' prospectus and fact sheet, focusing on the sections that explain daily reset mechanics and expected ranges of volatility decay under different market scenarios. Comparing trailing returns to twice the index return over the same periods will illustrate historical decay. The SEC's Edgar database houses the full prospectus; the fund's website provides the summary fact sheet updated monthly.

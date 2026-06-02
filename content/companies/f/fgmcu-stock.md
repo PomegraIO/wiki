@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-FG Merger II Corp. is a blank-check company, also known as a special purpose acquisition company (SPAC). The company was formed in 2023 with capital raised from public investors to find and merge with an operating business. In 2024, FG Merger II announced an agreement to merge with Boxabl Inc., a modular housing manufacturer based in Nevada. The proposed combination would turn Boxabl into a publicly traded company and give FG Merger II an operating business after years of searching.
+FG [Merger](/merger/) II Corp. is a blank-check company, also known as a special purpose [acquisition](/acquisition/) company (SPAC). The company was formed in 2023 with capital raised from public investors to find and merge with an operating business. In 2024, FG Merger II announced an agreement to merge with Boxabl Inc., a modular housing manufacturer based in Nevada. The proposed combination would turn Boxabl into a publicly traded company and give FG Merger II an operating business after years of searching.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,9 +27,9 @@ FG Merger II Corp. is a blank-check company, also known as a special purpose acq
 
 ## What is a SPAC and how does FG Merger II fit the pattern?
 
-A special purpose acquisition company is a shell corporation created to raise capital from public investors with the explicit purpose of acquiring another company. Investors buy units, each containing a share of common stock and a warrant (the right to purchase additional shares at a set price). The SPAC founders and sponsors have a time window — typically two years from the IPO — to find and complete a merger with an operating business, or they must return capital to investors and liquidate.
+A special purpose acquisition company is a shell corporation created to raise capital from public investors with the explicit purpose of acquiring another company. Investors buy units, each containing a share of [common stock](/common-stock/) and a warrant (the right to purchase additional shares at a set price). The SPAC founders and sponsors have a time window — typically two years from the IPO — to find and complete a merger with an operating business, or they must return capital to investors and liquidate.
 
-FG Merger II Corp. was incorporated in 2023 and raised $80 million in its initial public offering. Like all SPACs, it was a shell: it had a small board and sponsor team, but no products, no revenue, no employees beyond the bare minimum needed to run a public company. The entire point was to find an acquisition target. In 2024, FG Merger II announced that it would merge with Boxabl, a company that manufactures modular homes. If the merger completes as announced, FG Merger II shareholders will own a stake in Boxabl, and the combined company will trade publicly under a new ticker.
+FG Merger II Corp. was incorporated in 2023 and raised $80 million in its [initial public offering](/initial-public-offering/). Like all SPACs, it was a shell: it had a small board and sponsor team, but no products, no revenue, no employees beyond the bare minimum needed to run a public company. The entire point was to find an acquisition target. In 2024, FG Merger II announced that it would merge with Boxabl, a company that manufactures modular homes. If the merger completes as announced, FG Merger II shareholders will own a stake in Boxabl, and the combined company will trade publicly under a new ticker.
 
 ## What does Boxabl actually do?
 
@@ -53,6 +53,6 @@ For Boxabl specifically, the risks are those facing any young manufacturing comp
 
 ## How should investors approach this?
 
-Investors in SPAC units or shares should carefully read the merger proxy statement that FG Merger II will file with the SEC before the merger vote. That document will contain detailed financial projections, risk disclosures, and terms of the combination. A few key questions: What is the fully diluted share count after the merger? How much cash will Boxabl have after the merger? What are the founder shareholders' lock-up periods (when they must hold their shares and cannot sell)? Are there earn-out provisions (payments contingent on hitting financial targets after the merger)?
+Investors in SPAC units or shares should carefully read the merger proxy statement that FG Merger II will file with the SEC before the merger vote. That document will contain detailed financial projections, risk disclosures, and terms of the combination. A few key questions: What is the fully diluted share count after the merger? How much cash will Boxabl have after the merger? What are the founder shareholders' [lock-up periods](/lock-up-period/) (when they must hold their shares and cannot sell)? Are there earn-out provisions (payments contingent on hitting financial targets after the merger)?
 
 Beyond the deal structure, the fundamental question is whether you believe that Boxabl can execute its business plan. That requires looking at the company's track record, its production capacity, its actual orders and backlog, and whether its unit economics (the cost to build a home versus the price customers pay) make sense. For a manufacturing company, the margins and cash conversion are everything. Boxabl is competing on speed and cost, but if it cannot deliver on both simultaneously while remaining profitable, the business fails. Investors should demand detailed information about actual customer contracts, delivery timelines, and warranty claims before committing capital.

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**The market Twin Vee operates in.** Recreational boating sits at the intersection of a few broader industries: marine manufacturing, consumer discretionary spending, and outdoor recreation. When incomes are rising and people feel confident about their financial future, demand for recreational boats rises. When the economy slows or uncertainty spikes, boat sales often fall sharply — boats are a luxury purchase, not a necessity. The industry has cyclical properties similar to RVs, motorcycles, and other big-ticket recreational vehicles. Volume ebbs and flows with economic sentiment and disposable income.
+**The market Twin Vee operates in.** Recreational boating sits at the intersection of a few broader industries: marine manufacturing, consumer [discretionary spending](/discretionary-spending/), and outdoor recreation. When incomes are rising and people feel confident about their financial future, demand for recreational boats rises. When the economy slows or uncertainty spikes, boat sales often fall sharply — boats are a luxury purchase, not a necessity. The industry has cyclical properties similar to RVs, motorcycles, and other big-ticket recreational vehicles. Volume ebbs and flows with economic sentiment and disposable income.
 
 The boat-manufacturing sector includes large marine companies (like Brunswick, which owns multiple boat brands) and dozens of smaller, regional builders. Twin Vee sits in the smaller-end segment — a focused manufacturer of its own designs rather than a distributor of multiple brands. The company specializes in powerboats, which range from small recreational outboards to larger cabin cruisers suitable for extended offshore fishing or cruising.
 
@@ -35,7 +35,7 @@ Supply-chain resilience has become more important in recent years. Disruptions i
 
 **Seasonality and demand patterns.** Boat sales are seasonal in many markets. Demand peaks in spring and early summer as people plan boating trips and dock space becomes available. Winter is typically slower. A company like Twin Vee must manage production and inventory to match these seasonal rhythms, and must have enough cash to fund production in slow seasons.
 
-Demand is also sensitive to fuel prices, interest rates, and economic conditions. When gasoline prices spike, some discretionary boaters postpone purchases. When interest rates rise, the cost of financing a boat purchase increases, which can deter buyers. A recession directly reduces demand. These macroeconomic factors are outside Twin Vee's control but significantly affect revenue.
+Demand is also sensitive to fuel prices, [interest rates](/interest-rate/), and economic conditions. When gasoline prices spike, some discretionary boaters postpone purchases. When interest rates rise, the cost of financing a boat purchase increases, which can deter buyers. A [recession](/recession/) directly reduces demand. These macroeconomic factors are outside Twin Vee's control but significantly affect revenue.
 
 **Capital allocation and financial health.** For a small boat manufacturer, balance-sheet strength is crucial. The company needs enough cash to fund working capital through slow seasons, to invest in tooling and production improvements, and to handle unexpected disruptions. A company that grows too aggressively, burning cash faster than it generates it, can find itself unable to pay suppliers or meet payroll.
 

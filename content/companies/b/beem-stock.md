@@ -39,7 +39,7 @@ As the company scaled and eventually went public (SEC CIK 1398805), it began exp
 
 Beam Global's founding insight was about logistics and energy independence more than it was about individual consumer EV adoption. The company thrived in verticals where fleets needed to charge multiple vehicles on a budget and where grid infrastructure was unreliable or unavailable. Delivery companies, transit agencies, rental-car operations, and international markets (especially those with weaker grids) became core markets.
 
-This meant Beam Global avoided direct competition with Tesla's Supercharger network or traditional charging networks run by utilities. Instead, the company owned a different segment: mobile, decentralized, solar-integrated charging for operations and logistics. The founder's original vision—bypass the grid dependency—had found its market not in individual consumer charging, but in the specialized needs of [commercial vehicle](/cvgi-stock/) fleets.
+This meant Beam Global avoided direct competition with Tesla's Supercharger network or traditional charging networks run by utilities. Instead, the company owned a different segment: mobile, decentralized, solar-integrated charging for operations and logistics. The founder's original vision—bypass the grid dependency—had found its market not in individual consumer charging, but in the specialized needs of commercial vehicle fleets.
 
 ## Persistence Through Market Cycles
 

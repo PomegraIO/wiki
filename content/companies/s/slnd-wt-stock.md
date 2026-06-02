@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Southland Holdings is a government contractor that designs, builds, owns, and operates correctional facilities and detention centers across the United States. The company generates revenue by housing inmates for county, state, and federal agencies under long-term contracts, earning a daily per-bed fee for each inmate housed. It is a privately-held company now in the process of going public through a SPAC merger; the warrant (SLND-WT) represents a claim on shares of the combined entity.
+Southland Holdings is a government contractor that designs, builds, owns, and operates correctional facilities and detention centers across the United States. The company generates revenue by housing inmates for county, state, and federal agencies under long-term contracts, earning a daily per-bed fee for each inmate housed. It is a privately-held company now in the process of going public through a SPAC [merger](/merger/); the warrant (SLND-WT) represents a claim on shares of the combined entity.
 
 <aside class="wiki-infobox">
 <table>
@@ -43,7 +43,7 @@ The company also generates ancillary revenue from inmate services — commissary
 
 ## What makes this business work?
 
-The core advantage is long-term contracts with government agencies. Once a county or state has contracted with Southland for a facility, switching providers is expensive and disruptive. The contract typically runs 5–10 years, sometimes with automatic renewals, and often includes escalation clauses that raise the per-bed rate with inflation or cost indices. This creates a durable, recurring revenue base that is attractive to investors.
+The core advantage is long-term contracts with government agencies. Once a county or state has contracted with Southland for a facility, switching providers is expensive and disruptive. The contract typically runs 5–10 years, sometimes with automatic renewals, and often includes escalation clauses that raise the per-bed rate with [inflation](/inflation/) or cost indices. This creates a durable, recurring revenue base that is attractive to investors.
 
 The second advantage is capital efficiency compared to the government building and operating its own facility. A county that wants to add capacity faces a choice: spend tens of millions of dollars to build and staff a new jail it will own and operate forever, or contract with a private operator for the same capacity at a negotiated rate. Southland's expertise in facility design, regulatory compliance, and operations management gives it an edge in that negotiation.
 
@@ -53,7 +53,7 @@ The limitations are regulatory and political. The private corrections industry i
 
 The primary risk is regulatory and political. Changes in criminal justice policy, shifts in state or county sentiment against private detention, or legislative bans on private facilities could eliminate contracts. The company's customer base is the government, which is famously slow to pay, litigious, and subject to political whims.
 
-Occupancy risk is secondary but material. If crime rates fall, fewer people are arrested and incarcerated, and occupancy declines. Southland has little control over that dynamic. A recession that reduces crime or a shift toward diversion and reform in criminal justice could depress occupancy across all facilities.
+Occupancy risk is secondary but material. If crime rates fall, fewer people are arrested and incarcerated, and occupancy declines. Southland has little control over that dynamic. A [recession](/recession/) that reduces crime or a shift toward diversion and reform in criminal justice could depress occupancy across all facilities.
 
 Labor risk is also present. Detention facility work is stressful, low-paid, and faces chronic staffing shortages. If Southland cannot hire and retain enough guards and medical staff, facility safety and operations suffer, and contract termination becomes possible.
 

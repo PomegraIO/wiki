@@ -41,7 +41,7 @@ Centurion's stated investment thesis is focused on technology and technology-ena
 
 **Software as a Service (SaaS).** Business software, cloud-based applications, and subscription-model technology solutions are potential targets if they serve underserved markets or possess defensible technology moats.
 
-**Deep tech.** Emerging hardware or software innovations — [quantum computing](/qubt-stock/), advanced semiconductors, novel materials science, or specialized infrastructure technologies — may also appeal to Centurion's mandate, provided they offer growth potential and a path to profitability.
+**Deep tech.** Emerging hardware or software innovations — quantum computing, advanced semiconductors, novel materials science, or specialized infrastructure technologies — may also appeal to Centurion's mandate, provided they offer growth potential and a path to profitability.
 
 ## Why these sectors and what investors believe
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The Emerald Special Situations ETF trades on NASDAQ under the ticker SPIT and operates as a concentrated, actively managed fund that seeks capital appreciation by hunting for undervalued companies and special situations in the small-cap and micro-cap segments of the U.S. stock market. Rather than tracking a broad index, the fund makes high-conviction bets on securities it believes the wider market has mispriced or overlooked.
+The Emerald Special Situations ETF trades on [NASDAQ](/nasdaq/) under the ticker SPIT and operates as a concentrated, [actively managed fund](/actively-managed-fund/) that seeks capital appreciation by hunting for undervalued companies and special situations in the small-cap and micro-cap segments of the U.S. [stock market](/stock-market/). Rather than tracking a broad index, the fund makes high-conviction bets on securities it believes the wider market has mispriced or overlooked.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,15 +26,15 @@ The Emerald Special Situations ETF trades on NASDAQ under the ticker SPIT and op
 
 ## What it does
 
-SPIT is built for investors hunting for market mispricings in the small and micro-cap space — companies with market capitalizations typically under $2 billion. The fund manager curates a concentrated portfolio of what it believes are genuinely mispriced securities or situations with identifiable catalysts for value realization. The word "special" in the name signals the approach: the fund does not buy small-caps because they are small, but because it has identified something specific and undervalued about them — a spinoff about to detach, a distressed business in recovery, a niche operator with durable competitive advantages the market has overlooked, or a cyclical company trading near the bottom of the cycle.
+SPIT is built for investors hunting for market mispricings in the small and micro-cap space — companies with [market capitalizations](/market-capitalization/) typically under $2 billion. The fund manager curates a concentrated portfolio of what it believes are genuinely mispriced securities or situations with identifiable catalysts for value realization. The word "special" in the name signals the approach: the fund does not buy small-caps because they are small, but because it has identified something specific and undervalued about them — a [spinoff](/spinoff/) about to detach, a distressed business in recovery, a niche operator with durable competitive advantages the market has overlooked, or a cyclical company trading near the bottom of the cycle.
 
 Because the fund is actively managed rather than indexed, performance depends almost entirely on the skill of the portfolio manager in identifying these opportunities and timing entry and exit. The manager holds relatively few positions, which means any single holding can materially affect the fund's performance. This is the trade-off of conviction: a concentrated portfolio can deliver outsized gains when the manager is right, but also sharper drawdowns when bets miss.
 
 ## Mechanics and costs
 
-As an ETF, SPIT trades on a stock exchange like any individual stock, and it can be bought or sold during market hours at market prices. That gives it advantages over a traditional closed-end fund or mutual fund: the transparency of intraday pricing and the liquidity of a ticker. The fund discloses its holdings daily, so any investor can see exactly what positions it holds and track what the manager is doing without waiting for a monthly or quarterly report.
+As an ETF, SPIT trades on a [stock exchange](/stock-exchange/) like any individual stock, and it can be bought or sold during market hours at market prices. That gives it advantages over a traditional [closed-end fund](/closed-end-fund/) or [mutual fund](/mutual-fund/): the transparency of intraday pricing and the liquidity of a ticker. The fund discloses its holdings daily, so any investor can see exactly what positions it holds and track what the manager is doing without waiting for a monthly or quarterly report.
 
-Like all funds, SPIT charges an expense ratio — the annual percentage fee that covers the cost of management and operation. For an actively managed small-cap fund, the expense ratio is higher than it would be for a broad index ETF, though it is competitive for the space. The exact rate is worth checking against a prospectus or fund fact sheet, as these figures can shift. Beyond the stated expense ratio, investors pay a bid-ask spread when buying and selling shares, which represents the difference between what buyers and sellers are willing to transact at any given moment. For a smaller, less-traded fund, that spread can be wider than it is for mega-cap index ETFs.
+Like all funds, SPIT charges an [expense ratio](/expense-ratio/) — the annual percentage fee that covers the cost of management and operation. For an actively managed small-cap fund, the expense ratio is higher than it would be for a broad index ETF, though it is competitive for the space. The exact rate is worth checking against a prospectus or fund fact sheet, as these figures can shift. Beyond the stated expense ratio, investors pay a [bid-ask spread](/bid-ask-spread/) when buying and selling shares, which represents the difference between what buyers and sellers are willing to transact at any given moment. For a smaller, less-traded fund, that spread can be wider than it is for mega-cap index ETFs.
 
 ## The opportunity and the risk
 

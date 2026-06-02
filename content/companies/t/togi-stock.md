@@ -50,7 +50,7 @@ The company's advantages lie in deep specialization in emergency preemption and 
 
 ## Revenue and viability
 
-As an OTC-listed micro-cap, TurnOnGreen does not disclose detailed financials with the regularity of NASDAQ or NYSE companies. The business is operationally dependent on a mix of equipment sales, installation contracts, and recurring service revenue. In profitable years, the company generates modest positive cash flow; in weak years, losses accumulate as fixed overhead persists regardless of sales activity.
+As an OTC-listed micro-cap, TurnOnGreen does not disclose detailed financials with the regularity of [NASDAQ](/nasdaq/) or NYSE companies. The business is operationally dependent on a mix of equipment sales, installation contracts, and recurring service revenue. In profitable years, the company generates modest positive cash flow; in weak years, losses accumulate as fixed overhead persists regardless of sales activity.
 
 The real barrier to growth is the size of the addressable market: there are roughly 300,000 traffic signals in the United States, mostly controlled by municipalities with limited capital budgets. Penetration of TurnOnGreen's products remains a small percentage of that universe, limiting the ceiling on potential revenue.
 

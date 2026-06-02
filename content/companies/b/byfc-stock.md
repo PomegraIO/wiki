@@ -19,7 +19,7 @@ keywords: ["community bank", "Los Angeles", "financial services", "underbanked",
 
 Broadway Financial operates in a geography—South Los Angeles and adjacent neighborhoods—that national banks have historically underserved. The company's competitive position does not rest on sophisticated products or brand reach but on local presence and a willingness to serve customers that larger banks deprioritize. A neighborhood with high poverty rates and recent-immigrant populations generates lower average account balances and higher [operational risk](/operational-risk/) than a downtown business district; national banks rationally exit or minimize branches there. Broadway remains because its founding mission and ownership structure commit it to that market.
 
-The Los Angeles area contains over 13 million people and generates substantial banking volume, yet much of that economic activity occurs outside traditional [financial institutions](/fisi-stock/)—cash-based businesses, remittance corridors, informal lending circles. A bank with deep roots in those communities and trust from immigrant and minority-owned businesses can profitably serve demand that mainstream banks ignore or misunderstand.
+The Los Angeles area contains over 13 million people and generates substantial banking volume, yet much of that economic activity occurs outside traditional financial institutions—cash-based businesses, remittance corridors, informal lending circles. A bank with deep roots in those communities and trust from immigrant and minority-owned businesses can profitably serve demand that mainstream banks ignore or misunderstand.
 
 ## Geography and Regulatory Advantage
 

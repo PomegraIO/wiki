@@ -47,7 +47,7 @@ SBC operates in an industry with limited organic growth at the national level. J
 
 Regulatory risk is endemic to healthcare. Stricter rules around medical advertising, changes to professional licensing for cosmetic doctors, or new privacy regulations could all materially affect SBC's business model and marketing effectiveness. Additionally, Japan's aging and declining population poses a long-term demographic headwind for any consumer service business, including cosmetic medicine. The company's opportunity is therefore time-bound: to consolidate as much of the market as possible before the underlying patient population shrinks.
 
-Foreign exchange risk is real for a Japan-focused company raising capital in U.S. dollars and paying [dividends](/dividend/) (if any) in dollars while earning revenue in yen. Lastly, the aesthetics market is driven partly by social media trends and influencer culture, which can shift rapidly and unpredictably. A significant shift away from cosmetic procedures toward non-invasive wellness trends, or regulatory crackdowns on influencer marketing of beauty procedures, could reduce procedure demand.
+Foreign exchange risk is real for a Japan-focused company raising capital in [U.S. dollars](/us-dollar/) and paying [dividends](/dividend/) (if any) in dollars while earning revenue in yen. Lastly, the aesthetics market is driven partly by social media trends and influencer culture, which can shift rapidly and unpredictably. A significant shift away from cosmetic procedures toward non-invasive wellness trends, or regulatory crackdowns on influencer marketing of beauty procedures, could reduce procedure demand.
 
 ## How to Research SBC as an Investment
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*Regional Health Properties is a real estate investment trust that owns medical office buildings. It buys buildings, leases them to doctors and medical practices, and passes most of the rent to its shareholders as dividends.*
+*Regional Health Properties is a [real estate investment trust](/real-estate-investment-trust/) that owns medical office buildings. It buys buildings, leases them to doctors and medical practices, and passes most of the rent to its shareholders as [dividends](/dividend/).*
 
 <aside class="wiki-infobox">
 <table>
@@ -31,7 +31,7 @@ Medical office is different from other real estate. An office building for insur
 
 ## Why medical office works
 
-People need doctors. They need them in good times and bad times. Unlike a retail store that empties during a recession, a medical clinic stays busy. The rent from medical tenants is more stable than rent from other businesses.
+People need doctors. They need them in good times and bad times. Unlike a retail store that empties during a [recession](/recession/), a medical clinic stays busy. The rent from medical tenants is more stable than rent from other businesses.
 
 But this only works if the practices stay independent and keep renting. If a hospital or health system buys up all the practices in a town and moves them into hospital-owned buildings, nobody needs Regional Health Properties' offices anymore. That is what the company is fighting.
 
@@ -49,7 +49,7 @@ Healthcare consolidation is the real problem. Independent practices are disappea
 
 Telemedicine is another threat. Some doctor visits that used to happen in person now happen over video. Fewer visits mean less demand for office space.
 
-Interest rates are the other danger. REITs borrow money to buy buildings. When rates go up, debt gets expensive. Earnings fall. Dividends get at risk. Share prices fall.
+[Interest rates](/interest-rate/) are the other danger. REITs borrow money to buy buildings. When rates go up, debt gets expensive. Earnings fall. Dividends get at risk. Share prices fall.
 
 And finally, any individual mistake matters more at a small company. If management picks the wrong markets or overpays for a building or fails to maintain properties well, the whole company suffers. A big REIT would absorb the hit; Regional Health Properties cannot.
 
@@ -57,4 +57,4 @@ And finally, any individual mistake matters more at a small company. If manageme
 
 Look at the company's quarterly reports and check three things. First, occupancy: What percentage of the buildings' space is leased out? If occupancy drops, tenants are leaving or struggling. Second, rent growth: Are tenants paying more when leases renew? If not, it means the company has less pricing power. Third, whether the dividend is sustainable. Funds From Operations is the metric; if it is growing, the dividend is safe. If it is shrinking, a cut is coming.
 
-Keep an eye on what is happening to independent medical practices in the regions where the company owns buildings. If consolidation is accelerating, that is a warning. Read the 10-K filing with the SEC and look at lease maturity schedules — when do tenants' leases expire? If lots of leases are rolling off soon, refinancing risk goes up.
+Keep an eye on what is happening to independent medical practices in the regions where the company owns buildings. If consolidation is accelerating, that is a warning. Read the 10-K filing with the SEC and look at lease maturity schedules — when do tenants' leases expire? If lots of leases are rolling off soon, [refinancing risk](/refinancing-risk/) goes up.

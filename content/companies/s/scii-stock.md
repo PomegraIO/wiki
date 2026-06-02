@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-SC II [Acquisition](/acquisition/) Corp. is a special purpose acquisition company, a legal structure that sits at the intersection of finance and regulation — a blank-check company with a specific mandate to find a private operating business and bring it public through [merger](/merger/) rather than a traditional [initial public offering](/initial-public-offering/).
+SC II [Acquisition](/acquisition/) Corp. is a special purpose acquisition company, a legal structure that sits at the intersection of finance and [regulation — a](/regulation-a/) blank-check company with a specific mandate to find a private operating business and bring it public through [merger](/merger/) rather than a traditional [initial public offering](/initial-public-offering/).
 
 <aside class="wiki-infobox">
 <table>

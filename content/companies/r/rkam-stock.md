@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ROKIT America is the U.S. subsidiary of South Korea's ROKIT Healthcare, a company that operates across two distinct but related domains: consumer nutrition focused on aging and cellular longevity, and preclinical development of regenerative medicine technologies. The company filed for listing on Nasdaq in 2026 under the ticker RKAM, with the intent to focus its public offering on the North American nutraceutical market and the longer-term regenerative medicine platform.
+ROKIT America is the U.S. subsidiary of South Korea's ROKIT Healthcare, a company that operates across two distinct but related domains: consumer nutrition focused on aging and cellular longevity, and preclinical development of regenerative medicine technologies. The company filed for listing on [Nasdaq](/nasdaq/) in 2026 under the ticker RKAM, with the intent to focus its public offering on the North American nutraceutical market and the longer-term regenerative medicine platform.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,7 +34,7 @@ NAD+ is not invented by ROKIT; it is a well-known biochemical actor whose role i
 
 ROKIT's product formulations combine NMN with additional ingredients selected to amplify the effect. Pterostilbene, a naturally occurring polyphenol found in blueberries and grapes, is included for its antioxidant properties. Fisetin, a flavonoid compound, is added for its reported role in cellular senescence (the removal of dysfunctional cells). The company bundles these into branded product lines aimed at different consumer segments and price points, sold through online channels and select retail partners.
 
-The nutraceutical business recorded revenue of approximately USD 7.4 million in the most recent reported year, growing roughly 140 percent from the prior year. That growth rate reflects rapid expansion in a young product line, though the absolute revenue base is still modest. Net income reached USD 1.58 million, indicating that the business achieved profitability despite aggressive spending on product development and marketing. The economics are typical of a direct-to-consumer supplement brand: high gross margins on the physical products, but large spending on customer acquisition and brand building.
+The nutraceutical business recorded revenue of approximately USD 7.4 million in the most recent reported year, growing roughly 140 percent from the prior year. That growth rate reflects rapid expansion in a young product line, though the absolute revenue base is still modest. Net income reached USD 1.58 million, indicating that the business achieved profitability despite aggressive spending on product development and marketing. The economics are typical of a direct-to-consumer supplement brand: high gross margins on the physical products, but large spending on customer [acquisition](/acquisition/) and brand building.
 
 ## The regenerative medicine segment: AI-powered organ development
 
@@ -48,7 +48,7 @@ For ROKIT America's public offering, the regenerative medicine segment is positi
 
 ## Ownership structure and capital strategy
 
-ROKIT America is a spin-off from ROKIT Healthcare, a South Korean company. The parent retains majority ownership and provides both the IP foundation (the supplement formulations and the regenerative medicine platform) and ongoing R&D support. This structure is common among global healthcare companies with regional subsidiaries: the parent invests in platform development, the subsidiary commercializes in its regional market and funds itself from local operations.
+ROKIT America is a [spin-off](/spin-off/) from ROKIT Healthcare, a South Korean company. The parent retains majority ownership and provides both the IP foundation (the supplement formulations and the regenerative medicine platform) and ongoing R&D support. This structure is common among global healthcare companies with regional subsidiaries: the parent invests in platform development, the subsidiary commercializes in its regional market and funds itself from local operations.
 
 The capital raised from the Nasdaq listing is intended to fund two priorities: aggressive expansion of the supplement brand's marketing and distribution in North America, and acceleration of the regenerative medicine platform's development toward clinical-stage milestones. A publicly traded subsidiary can raise capital independently, allowing the regional business to scale faster than it could by relying solely on parent company funding.
 
@@ -72,6 +72,6 @@ The key risk in regenerative medicine is that the company's AI platform does not
 
 ## Assessing the business
 
-Investors should view ROKIT America as primarily a supplement company with a growth option on regenerative medicine. The supplement business is profitable and growing, with reasonable margins, but it is a mature category with established players. The regenerative medicine ambition is what could make the company exceptional, but it remains unproven.
+Investors should view ROKIT America as primarily a supplement company with a [growth option](/growth-option/) on regenerative medicine. The supplement business is profitable and growing, with reasonable margins, but it is a mature category with established players. The regenerative medicine ambition is what could make the company exceptional, but it remains unproven.
 
 The company's 10-K filing will detail the revenue breakdown between direct-to-consumer and wholesale channels, the customer acquisition cost relative to lifetime value, and the gross margins on the supplement products. Progress updates on the regenerative medicine platform — published research, patent filings, partnerships with academic medical centers — would indicate the credibility of that segment's timeline. A reader evaluating ROKIT should ask whether the company has the capital, the scientific leadership, and the patience to develop regenerative medicine technologies over many years, or whether it will eventually abandon that segment in favor of scaling the supplement business.

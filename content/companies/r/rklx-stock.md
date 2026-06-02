@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-*The Defiance Daily Target 2X Long RKLB ETF (RKLX) is a leveraged exchange-traded fund that aims to deliver twice the daily return of Rocket Lab stock (RKLB). Using derivatives and daily rebalancing, the fund amplifies both the gains and the losses of the underlying aerospace company's share price.*
+*The Defiance Daily Target 2X Long RKLB ETF (RKLX) is a leveraged exchange-traded fund that aims to deliver twice the daily return of [Rocket Lab](/rklb-stock/) stock (RKLB). Using derivatives and daily rebalancing, the fund amplifies both the gains and the losses of the underlying aerospace company's share price.*
 
 ## What the fund tracks and its structure
 
 RKLX holds no actual Rocket Lab shares. Instead, it uses derivatives—primarily futures, swaps, and other financial instruments—to achieve a leveraged exposure to RKLB. If RKLB rises 1%, RKLX aims to rise 2%. If RKLB falls 1%, RKLX aims to fall 2%. The fund's sponsor, Defiance ETFs, dynamically adjusts the fund's derivative positions each trading day to maintain this 2x exposure ratio.
 
-This daily reset is the fund's defining feature. At the market close each day, the fund recalibrates its leverage so that the next trading day begins fresh with a 2x target. The daily reset is necessary to maintain a consistent leverage ratio, but it has a crucial and often misunderstood consequence: in markets that oscillate, the fund can underperform the 2x target over periods longer than a single day. This slippage is called volatility decay, and it is intrinsic to leveraged ETF design.
+This daily reset is the fund's defining feature. At the market close each day, the fund recalibrates its leverage so that the next trading day begins fresh with a 2x target. The daily reset is necessary to maintain a consistent [leverage ratio](/leverage-ratio-forex/), but it has a crucial and often misunderstood consequence: in markets that oscillate, the fund can underperform the 2x target over periods longer than a single day. This slippage is called volatility decay, and it is intrinsic to [leveraged ETF](/leveraged-etf/) design.
 
 ## The mechanics of volatility decay and why it matters
 
@@ -37,11 +37,11 @@ The fundamental risk is that leverage cuts both ways. If RKLB moves against you,
 
 A secondary risk emerges during market stress. If RKLB gaps down at the open (due to a company announcement or a broad market crash), the fund may face margin demands from its derivatives counterparties. In extreme scenarios, the fund itself may be forced to rebalance at unfavorable prices, crystallizing losses at precisely the moment an investor least wants to sell.
 
-Additionally, trading liquidity for RKLX can dry up in volatile periods. The bid-ask spread—the difference between the price at which you can buy and the price at which you can sell—widens when trading volume drops, meaning your entry and exit costs can be significant during a market move.
+Additionally, trading liquidity for RKLX can dry up in volatile periods. The [bid-ask spread](/bid-ask-spread/)—the difference between the price at which you can buy and the price at which you can sell—widens when trading volume drops, meaning your entry and exit costs can be significant during a market move.
 
 ## Costs and trading characteristics
 
-RKLX carries an expense ratio higher than an unleveraged equity ETF, reflecting the cost of maintaining the daily derivative positions and rebalancing. The exact ratio is published in the fund's prospectus and fact sheet. Because leverage-enabled daily rebalancing is an active process (the fund must adjust its positions every day), the cost is meaningful, though still modest in absolute terms.
+RKLX carries an [expense ratio](/expense-ratio/) higher than an unleveraged [equity ETF](/equity-etf/), reflecting the cost of maintaining the daily derivative positions and rebalancing. The exact ratio is published in the fund's prospectus and fact sheet. Because leverage-enabled daily rebalancing is an active process (the fund must adjust its positions every day), the cost is meaningful, though still modest in absolute terms.
 
 The fund trades throughout the market day like any ETF, but there is an important caveat: the NAV diverges from the daily 2x target during the trading day. RKLX only resets its leverage at the close of trading, so during hours, intraday performance may lag or lead the 2x target depending on how RKLB is moving.
 

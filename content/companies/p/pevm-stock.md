@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Phoenix Motor Inc. is a manufacturer of electric drive systems and medium-duty electric vehicles, primarily serving the commercial transportation market. The company designs and assembles electric shuttle buses, school buses, delivery trucks, and specialized utility vehicles based on traditional platforms but powered by electric drivetrains of its own design. Unlike automotive giants that sell consumer cars, Phoenix Motor operates in the narrower, less competitive niche of [commercial vehicle](/cvgi-stock/) electrification, where fleet operators and transit authorities are motivated to switch away from diesel by operating costs, environmental regulation, and government incentives. The company's shares trade on the over-the-counter (OTC) market under the ticker PEVM.
+Phoenix Motor Inc. is a manufacturer of electric drive systems and medium-duty electric vehicles, primarily serving the commercial transportation market. The company designs and assembles electric shuttle buses, school buses, delivery trucks, and specialized utility vehicles based on traditional platforms but powered by electric drivetrains of its own design. Unlike automotive giants that sell consumer cars, Phoenix Motor operates in the narrower, less competitive niche of commercial vehicle electrification, where fleet operators and transit authorities are motivated to switch away from diesel by operating costs, environmental regulation, and government incentives. The company's shares trade on the over-the-counter (OTC) market under the ticker PEVM.
 
 <aside class="wiki-infobox">
 <table>

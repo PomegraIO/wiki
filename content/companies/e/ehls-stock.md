@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-EHLS is an exchange-traded fund that employs a long-short equity strategy. The fund manager selects stocks to own and stocks to sell short simultaneously. The long side seeks to capture returns from companies expected to outperform; the short side seeks to profit from companies expected to underperform, while also hedging the fund's exposure to broad market moves. The result is a fund designed to generate returns with lower correlation to the broader stock market and lower volatility than a traditional long-only equity fund.
+EHLS is an exchange-traded fund that employs a long-short equity strategy. The fund manager selects stocks to own and stocks to sell short simultaneously. The long side seeks to capture returns from companies expected to outperform; the short side seeks to profit from companies expected to underperform, while also hedging the fund's exposure to broad market moves. The result is a fund designed to generate returns with lower correlation to the broader [stock market](/stock-market/) and lower volatility than a traditional long-only equity fund.
 
 ## Origins of the strategy
 
-The long-short equity approach emerged in the 1980s and 1990s from hedge funds seeking to generate returns independent of market direction. A traditional stock fund makes money when markets rise and loses when they fall. A manager pursuing a long-short approach wanted to escape that dependency. By taking equal or balanced short positions against longs, the manager could theoretically profit from stock-picking skill without needing the overall market to cooperate.
+The long-short equity approach emerged in the 1980s and 1990s from [hedge funds](/hedge-fund/) seeking to generate returns independent of market direction. A traditional stock fund makes money when markets rise and loses when they fall. A manager pursuing a long-short approach wanted to escape that dependency. By taking equal or balanced short positions against longs, the manager could theoretically profit from stock-picking skill without needing the overall market to cooperate.
 
-The strategy proved attractive during the 2000s and 2010s as interest in hedge funds and alternative investments grew. Institutional investors sought to reduce their portfolios' sensitivity to market swings and capture uncorrelated returns. Long-short funds proliferated in traditional hedge fund structures accessible to institutions and high-net-worth investors. As the ETF market expanded, long-short equity ETFs emerged to bring the strategy to retail investors with smaller account sizes.
+The strategy proved attractive during the 2000s and 2010s as interest in hedge funds and alternative investments grew. Institutional investors sought to reduce their portfolios' sensitivity to market swings and capture uncorrelated returns. Long-short funds proliferated in traditional hedge fund structures accessible to institutions and high-net-worth investors. As the ETF market expanded, long-short [equity ETFs](/equity-etf/) emerged to bring the strategy to retail investors with smaller account sizes.
 
 ## How the strategy works
 
@@ -29,7 +29,7 @@ The strategy is not market-neutral in the strict sense. The longs and shorts are
 
 ## Implementation and leverage
 
-EHLS achieves its short positions through short selling: borrowing shares from a broker, selling them, and holding the sale proceeds. The manager must pay a borrow fee to the lender and maintain sufficient collateral. If the borrowed stock's price rises, the short position loses money until it is closed.
+EHLS achieves its short positions through [short selling](/short-selling/): borrowing shares from a [broker](/broker/), selling them, and holding the sale proceeds. The manager must pay a borrow fee to the lender and maintain sufficient collateral. If the borrowed stock's price rises, the short position loses money until it is closed.
 
 The fund may use leverage to amplify both long and short positions, increasing exposure beyond shareholder capital. Leverage amplifies both gains and losses and introduces additional costs and risks. The fund's prospectus discloses whether leverage is used and any leverage limits.
 
@@ -37,7 +37,7 @@ Daily rebalancing is typical. The manager may adjust positions to maintain the t
 
 ## Costs and performance dynamics
 
-Long-short funds carry higher expenses than passive index funds because of active management, short-borrow fees, and the costs of maintaining and rebalancing two portfolios. The expense ratio includes the base management fee, supplemented by borrow costs and trading commissions, which reduce returns.
+Long-short funds carry higher expenses than passive [index funds](/index-fund/) because of active management, short-borrow fees, and the costs of maintaining and rebalancing two portfolios. The [expense ratio](/expense-ratio/) includes the base [management fee](/management-fee/), supplemented by borrow costs and trading commissions, which reduce returns.
 
 Performance depends entirely on the manager's stock-picking skill. In a rising market where most stocks advance, the short positions act as a drag, reducing overall performance. In a sideways or declining market, the shorts can shield the fund from losses. The strategy shines when there are genuine winners and losers.
 
@@ -59,7 +59,7 @@ Regulatory and capital requirements can constrain strategy. Short-selling is reg
 
 Long-short equity began as an institutional hedge fund strategy available to the wealthy. By the 2020s, growth in retail investing led managers to launch long-short ETFs accessible to any investor. EHLS represents that democratization. The strategy is now available in a tax-efficient, liquid, low-minimum format.
 
-That accessibility comes with tradeoffs. Traditional long-short hedge funds often carry lock-up periods and charge performance fees, both aligning manager incentives with long-term, risk-aware investing. An ETF like EHLS can be bought and sold daily, and fees are capped, but that liquidity may reduce manager discipline.
+That accessibility comes with tradeoffs. Traditional long-short hedge funds often carry [lock-up periods](/lock-up-period/) and charge [performance fees](/performance-fee/), both aligning manager incentives with long-term, risk-aware investing. An ETF like EHLS can be bought and sold daily, and fees are capped, but that liquidity may reduce manager discipline.
 
 ## How to research it
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Newbridge Acquisition Ltd is a blank-check company, also called a SPAC (special-purpose acquisition company). This means it is a shell: there is no actual operating business yet. The company was created to raise cash from investors and then use that cash to buy another company (or merge with one), which would then become the public company. Newbridge, based in Hong Kong, completed its initial public offering in 2023 at $10 per unit. The NBRGR ticker represents the "rights" — fractional shares that investors receive as part of their unit, giving them the chance to buy more shares if and when a merger happens.
+Newbridge [Acquisition](/acquisition/) Ltd is a blank-check company, also called a SPAC ([special-purpose acquisition company](/special-purpose-acquisition-company/)). This means it is a shell: there is no actual operating business yet. The company was created to raise cash from investors and then use that cash to buy another company (or merge with one), which would then become the public company. Newbridge, based in Hong Kong, completed its [initial public offering](/initial-public-offering/) in 2023 at $10 per unit. The NBRGR ticker represents the "rights" — fractional shares that investors receive as part of their unit, giving them the chance to buy more shares if and when a [merger](/merger/) happens.
 
 <aside class="wiki-infobox">
 <table>
@@ -42,9 +42,9 @@ This separation was intentional. It lets sophisticated investors who understand 
 
 ## The sponsor's incentive and the conflict of interest
 
-Newbridge was created by Yongsheng Liu and other sponsors who received founder shares (usually 20% of the company) in exchange for posting a small amount of capital. If the merger happens and the business does well, those founder shares become very valuable. This creates a strong incentive for sponsors to close a deal, even if the target is not ideal.
+Newbridge was created by Yongsheng Liu and other sponsors who received [founder shares](/founder-shares/) (usually 20% of the company) in exchange for posting a small amount of capital. If the merger happens and the business does well, those founder shares become very valuable. This creates a strong incentive for sponsors to close a deal, even if the target is not ideal.
 
-That incentive is why the SEC and stock exchanges pay careful attention to SPACs. A sponsor who has already recouped money and stands to make a fortune on the merger has an incentive to pressure SPAC shareholders into voting yes on a mediocre target, knowing that if shareholders reject it, the SPAC must return cash and wind down.
+That incentive is why the SEC and [stock exchanges](/stock-exchange/) pay careful attention to SPACs. A sponsor who has already recouped money and stands to make a fortune on the merger has an incentive to pressure SPAC shareholders into voting yes on a mediocre target, knowing that if shareholders reject it, the SPAC must return cash and wind down.
 
 SPAC sponsors are required to disclose conflicts of interest, but the fundamental tension remains: the sponsor wants to close a deal, and the public shareholders might prefer no deal to a bad deal.
 
@@ -70,7 +70,7 @@ The trust-account protection is real: it ensures that even if a merger is announ
 
 The SPAC has a deadline. Newbridge's charter allowed a defined period (often two years) to close a merger. As that deadline approached, the pressure to announce a deal grew. Sponsors do not want to return cash empty-handed. Shareholders do not want to see the SPAC liquidated. This creates a deadline-driven environment where any deal might start looking acceptable near the end.
 
-This is a known problem in the SPAC world. Studies have shown that SPACs that close deals late in their time window tend to underperform — because they were desperate to avoid liquidation, not because they found a good target.
+This is a known problem in the SPAC world. Studies have shown that SPACs that close deals late in their time window tend to underperform — because they were desperate to avoid [liquidation](/liquidation/), not because they found a good target.
 
 ## How to research a SPAC like Newbridge
 

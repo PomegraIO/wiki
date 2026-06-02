@@ -4,7 +4,7 @@ description: "New Zealand–based renewable energy generator and retailer; ADR t
 keywords: ["renewable energy", "hydroelectric", "New Zealand", "electricity generation", "ADR", "SEC filing CIK 2063417"]
 ---
 
-*The **Meridian Energy Ltd/ADR (MDDNF)** business model is straightforward but constrained by geography, regulation, and hydrology: the company generates electricity from rivers and wind, sells it to retailers and commercial customers, and earns a [margin](/operating-margin/) on the difference between generation cost and selling price. Profitability rises and falls with water inflow, power-market prices, and the company's ability to pass through costs to end users.*
+*The **[Meridian Energy Ltd/ADR](/mregy-stock/) (MDDNF)** business model is straightforward but constrained by geography, regulation, and hydrology: the company generates electricity from rivers and wind, sells it to retailers and commercial customers, and earns a [margin](/operating-margin/) on the difference between generation cost and selling price. Profitability rises and falls with water inflow, power-market prices, and the company's ability to pass through costs to end users.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>MDDNF</td></tr>

@@ -33,7 +33,7 @@ Mining stocks move in two directions: with company-specific news and with commod
 
 ## Risks and geopolitical exposure
 
-Strategic metals mining is geographically concentrated: Lithium in Australia, Chile, China, and Argentina; Cobalt in the Democratic Republic of Congo; Rare earths in China; Copper in Peru and Chile. This concentration creates tail risk. Trade wars, export restrictions, sanctions, or political instability can disrupt supply and spike commodity prices. ISTM's portfolio is diversified, but the underlying commodity supplies are not.
+Strategic metals mining is geographically concentrated: Lithium in Australia, Chile, China, and Argentina; Cobalt in the Democratic Republic of Congo; Rare earths in China; Copper in Peru and Chile. This concentration creates [tail risk](/tail-risk/). [Trade wars](/trade-war/), export restrictions, sanctions, or political instability can disrupt supply and spike commodity prices. ISTM's portfolio is diversified, but the underlying commodity supplies are not.
 
 Mining is politically contentious. Environmental regulations are tightening, especially in developed nations. A mine approval delayed by years or a sudden new environmental rule disrupts plans and squeezes margins. Labor and ethical sourcing matter: cobalt sourcing from the DRC remains controversial, and as supply chains mature and regulations tighten, companies demonstrating responsible practices command a premium.
 

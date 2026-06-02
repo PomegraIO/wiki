@@ -51,7 +51,7 @@ The company has expanded to other Asian and Pacific markets, including Singapore
 
 ## The competitive and regulatory landscape
 
-China's online brokerage market includes many competitors, some state-backed, some private, some subsidiaries of larger [financial institutions](/fisi-stock/). UP Fintech must compete on product features, user experience, customer service, and cost. The fintech brokerage model — mobile-first, low friction — is attractive to retail investors, but it also means UP Fintech is vulnerable to larger, better-capitalized competitors that can also offer mobile trading.
+China's online brokerage market includes many competitors, some state-backed, some private, some subsidiaries of larger financial institutions. UP Fintech must compete on product features, user experience, customer service, and cost. The fintech brokerage model — mobile-first, low friction — is attractive to retail investors, but it also means UP Fintech is vulnerable to larger, better-capitalized competitors that can also offer mobile trading.
 
 Regulation is a constant background concern. The Chinese government has periodically tightened oversight of fintech companies and online brokers. Rules around leverage, margin trading, and [capital flows](/capital-flows/) have changed, and can change again, affecting what UP Fintech can offer customers and how much profit it can extract from its business.
 

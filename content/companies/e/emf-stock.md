@@ -30,9 +30,9 @@ The Templeton [Emerging Markets Fund](/emerging-markets-fund/) (EMF) is a closed
 
 ## Who manages the fund and how did it come about?
 
-The Templeton Emerging Markets Fund was launched in 1987, during a period when emerging markets were relatively unfamiliar to average American investors. At that time, most mutual fund and closed-end fund portfolios were concentrated in North America and Western Europe. Templeton, the investment firm behind the fund, was led by the legendary investor Mark Templeton, known for contrarian thinking and a willingness to invest where others saw only risk. The fund's creation reflected Templeton's conviction that investing in young, growing markets before they became well-known to mainstream investors could deliver outsized returns.
+The Templeton Emerging Markets Fund was launched in 1987, during a period when emerging markets were relatively unfamiliar to average American investors. At that time, most [mutual fund](/mutual-fund/) and closed-end fund portfolios were concentrated in North America and Western Europe. Templeton, the investment firm behind the fund, was led by the legendary investor Mark Templeton, known for contrarian thinking and a willingness to invest where others saw only risk. The fund's creation reflected Templeton's conviction that investing in young, growing markets before they became well-known to mainstream investors could deliver outsized returns.
 
-Over more than three decades, the fund has lived through multiple boom-and-bust cycles in emerging markets, Asian financial crises, political instability, currency crashes, and periods of rapid growth. The fund's performance has been choppy — some years emerging markets have soared while developed markets stumbled, and other years the reverse has happened. Through it all, the fund has persisted, and Franklin Templeton (the firm that acquired Templeton Investments) continues to manage it.
+Over more than three decades, the fund has lived through multiple boom-and-bust cycles in emerging markets, Asian financial crises, political instability, currency crashes, and periods of rapid growth. The fund's performance has been choppy — some years emerging markets have soared while developed markets stumbled, and other years the reverse has happened. Through it all, the fund has persisted, and [Franklin Templeton](/fgdl-stock/) (the firm that acquired Templeton Investments) continues to manage it.
 
 ## How does EMF invest, and what are the risks?
 
@@ -50,7 +50,7 @@ Like other [closed-end funds](/closed-end-fund/), EMF trades on the [stock excha
 
 This premium-and-discount dynamic is important because it means your return depends on two things: how the underlying stocks perform, and whether the discount widens or narrows. It is possible to pick an emerging-market fund that picks great stocks but lose money if the fund's discount widens. Conversely, buying at a discount and selling at a premium can add to returns.
 
-The fund also pays distributions to shareholders from the income (dividends) the portfolio generates plus any capital gains realized from selling stocks. Unlike a diversified fund of large developed-market companies, an emerging-market fund may see more uneven dividend payments because emerging-market companies are often in growth mode and reinvest earnings rather than paying dividends. Some distributions may come from capital gains, and some years might be lean if the portfolio performs poorly.
+The fund also pays distributions to shareholders from the income ([dividends](/dividend/)) the portfolio generates plus any capital gains realized from selling stocks. Unlike a diversified fund of large developed-market companies, an emerging-market fund may see more uneven dividend payments because emerging-market companies are often in growth mode and reinvest earnings rather than paying dividends. Some distributions may come from capital gains, and some years might be lean if the portfolio performs poorly.
 
 ## What are the competitive pressures?
 

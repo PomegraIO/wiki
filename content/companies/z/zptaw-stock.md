@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Zapata Quantum operates as a hardware-agnostic quantum software platform company, delivering subscription-based solutions that enable enterprises to build quantum and hybrid quantum-classical applications. Founded in 2017 by a team led by Helmut Katzgraber, the company has navigated an extraordinary trajectory: rapid growth, a merger with a SPAC, a decision to cease operations in late 2024, and a subsequent restart and restructuring in 2025. The company now trades on Nasdaq under the tickers ZPTA (common shares) and ZPTAW (warrants), having re-emerged focused squarely on quantum software after its near-death experience.
+[Zapata Quantum](/zpta-stock/) operates as a hardware-agnostic quantum software platform company, delivering subscription-based solutions that enable enterprises to build quantum and hybrid quantum-classical applications. Founded in 2017 by a team led by Helmut Katzgraber, the company has navigated an extraordinary trajectory: rapid growth, a [merger](/merger/) with a SPAC, a decision to cease operations in late 2024, and a subsequent restart and restructuring in 2025. The company now trades on [Nasdaq](/nasdaq/) under the tickers ZPTA (common shares) and ZPTAW (warrants), having re-emerged focused squarely on quantum software after its near-death experience.
 
 <aside class="wiki-infobox">
 <table>
@@ -63,7 +63,7 @@ This near-death experience has a silver lining: it forced Zapata to clarify its 
 
 Zapata's success depends on quantum hardware advancing on a predictable timeline. If quantum computers take much longer to reach practical utility than experts expect, the market for quantum software will grow more slowly, and Zapata's path to profitability will extend further. Conversely, if a breakthrough makes quantum hardware useless for the applications Zapata is targeting, the company's entire business model becomes obsolete.
 
-A second risk is the crowding of the space. IBM, Google, Microsoft, and other tech giants have vast resources and are investing billions in quantum. If they decide to build quantum software in-house and provide it free or bundled with hardware, a small independent software company like Zapata could be marginalized.
+A second risk is the crowding of the space. IBM, Google, [Microsoft](/msft-stock/), and other tech giants have vast resources and are investing billions in quantum. If they decide to build quantum software in-house and provide it free or bundled with hardware, a small independent software company like Zapata could be marginalized.
 
 Regulatory risk also looms. If governments tighten restrictions on quantum computing technology transfer (treating it as an export-controlled technology), Zapata's ability to work globally could be constrained.
 

@@ -49,7 +49,7 @@ REITs trade on their ability to generate recurring cash flows from real property
 
 ## Competition and concentration risk
 
-Ryman's competitor set includes other hotel owners and REITs (Host Hotels, Park Hotels, [Chatham Lodging](/cldt-stock/)), global hospitality companies with development and management divisions, and the thousands of independent or regionally focused properties that collectively make up American hospitality. Within the premium convention segment, Ryman competes against other owned or managed upscale properties that have invested in meeting space and group sales.
+Ryman's competitor set includes other hotel owners and REITs (Host Hotels, Park Hotels, Chatham Lodging), global hospitality companies with development and management divisions, and the thousands of independent or regionally focused properties that collectively make up American hospitality. Within the premium convention segment, Ryman competes against other owned or managed upscale properties that have invested in meeting space and group sales.
 
 The company's dependence on Marriott partnerships is both strength and risk. Marriott's brands bring scale and loyalty economics Ryman could not build alone, but any misalignment — a shift in Marriott's brand strategy, changes to management-fee terms, or a shift in how corporate clients book conventions — would affect Ryman directly. The company operates under management agreements that establish pricing terms and length, but in the long term Ryman and Marriott are not permanently locked together.
 

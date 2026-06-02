@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Public Storage operates across three core business segments, each generating revenue from the core asset: real estate space. Understanding PSA-PJ requires understanding each segment and how they contribute to the stability of the preferred dividend.
+[Public Storage](/psa-stock/) operates across three core business segments, each generating revenue from the core asset: real estate space. Understanding PSA-PJ requires understanding each segment and how they contribute to the stability of the preferred [dividend](/dividend/).
 
 ## Self-storage facility ownership and operation
 
@@ -21,7 +21,7 @@ This segment is the profit engine. Revenue is simply occupancy rate times the av
 
 ## Third-party management
 
-The second segment is PSA's management of self-storage facilities owned by other parties. Public Storage operates roughly three hundred facilities for other owners, charging a fee based on revenue or a fixed management fee. This is a lower-margin business than owning facilities outright—PSA does not own the assets and does not receive the rent, only a management fee—but it generates steady, low-risk revenue. It also provides PSA with data and visibility into the self-storage market across a broader set of properties and locations, informing investment decisions.
+The second segment is PSA's management of self-storage facilities owned by other parties. Public Storage operates roughly three hundred facilities for other owners, charging a fee based on revenue or a fixed [management fee](/management-fee/). This is a lower-margin business than owning facilities outright—PSA does not own the assets and does not receive the rent, only a management fee—but it generates steady, low-risk revenue. It also provides PSA with data and visibility into the self-storage market across a broader set of properties and locations, informing investment decisions.
 
 ## Insurance and ancillary services
 
@@ -37,20 +37,20 @@ This supply-chain role makes PSA a valuable intermediary: it converts the illiqu
 
 PSA-PJ is a cumulative preferred share, meaning that dividends accrue if unpaid; if the company were to miss a dividend, it would accumulate as a claim on future earnings. In practice, PSA's dividend coverage is very high—operating cash flow far exceeds the preferred dividend obligation—so the risk of suspension is near zero. The strength of each segment contributes: the owned-facility segment is stable and highly cash-generative; the third-party management business is recurring; ancillary services add margin. Together, they produce cash flow to cover debt service, capital expenditures, and preferred dividends multiple times over.
 
-The company's capital allocation is straightforward. Cash from operations funds acquisitions of new facilities, debt service, the preferred dividend, and a dividend to common shareholders. PSA does not retain earnings (because of the REIT structure), so nearly all cash must be distributed or reinvested in acquisitions.
+The company's capital allocation is straightforward. Cash from operations funds [acquisitions](/acquisition/) of new facilities, debt service, the preferred dividend, and a dividend to common shareholders. PSA does not retain earnings (because of the REIT structure), so nearly all cash must be distributed or reinvested in acquisitions.
 
 ## Property acquisition and geographic exposure
 
 PSA acquires self-storage facilities and land to develop new ones. Acquisitions are disciplined: the company looks for properties in high-population areas with high real estate values and strong storage demand. California, New York, Texas, Florida, and the Northeast corridor are priority markets. The logic is that high real estate costs push customers toward renting storage rather than buying larger homes, and high incomes support higher rent prices.
 
-The geographic concentration is a concentration risk: a severe recession affecting the coasts could depress occupancy and rental rates. However, PSA's strategy has been to diversify over decades, and the company now operates in all fifty states, reducing single-region risk.
+The geographic concentration is a [concentration risk](/concentration-risk/): a severe [recession](/recession/) affecting the coasts could depress occupancy and rental rates. However, PSA's strategy has been to diversify over decades, and the company now operates in all fifty states, reducing single-region risk.
 
 ## Capital structure and leverage
 
-PSA is financed with a mix of debt and equity. The debt is typically fixed-rate mortgages on individual properties or unsecured bonds. The equity is preferred shares (several series, each with a different coupon) and common stock. PSA-PJ is one of many preferred series; each has a different coupon and a different liquidation preference (typically twenty-five dollars per share). The company has maintained investment-grade credit ratings, which keeps its cost of debt low and allows it to refinance maturing debt without distress.
+PSA is financed with a mix of debt and equity. The debt is typically [fixed-rate mortgages](/fixed-rate-mortgage-personal/) on individual properties or unsecured [bonds](/bond/). The equity is preferred shares (several series, each with a different coupon) and [common stock](/common-stock/). PSA-PJ is one of many preferred series; each has a different coupon and a different [liquidation preference](/liquidation-preference/) (typically twenty-five dollars per share). The company has maintained investment-grade [credit ratings](/credit-rating/), which keeps its [cost of debt](/cost-of-debt/) low and allows it to refinance maturing debt without distress.
 
-The preferred dividend on PSA-PJ is cumulative and fixed, paid quarterly. The amount per share is set at issuance and does not change unless the company redeems the preferred (which is rare and only during periods of low rates, when refinancing equity is cheaper than the preferred coupon). This makes PSA-PJ a fixed-income instrument with equity upside if the company grows; in practice, preferred holders rarely see significant capital appreciation because the coupon price-adjusts the secondary market value.
+The preferred dividend on PSA-PJ is cumulative and fixed, paid quarterly. The amount per share is set at issuance and does not change unless the company redeems the preferred (which is rare and only during periods of low rates, when refinancing equity is cheaper than the preferred coupon). This makes PSA-PJ a fixed-income instrument with equity upside if the company grows; in practice, preferred holders rarely see significant capital appreciation because the coupon price-adjusts the [secondary market](/secondary-market/) value.
 
 ## How to research PSA and its segments
 
-Public Storage's 10-K filing (SEC CIK 0001393311) breaks down revenue by segment: owned-facility rental, third-party management, and insurance and other. Watch the trends in occupancy rates, average rent per unit, the composition of the customer base (personal versus commercial), and acquisition activity. Quarterly earnings calls provide color on local market conditions, competitive dynamics, and any strategic shifts. The preferred share prospectus (available on the company's investor relations website) lays out the terms, including the coupon rate, liquidation preference, and redemption features. Understanding where each preferred series sits in the coupon distribution (older series at lower coupons, newer at higher) informs the relative value and duration risk of each.
+Public Storage's 10-K filing (SEC CIK 0001393311) breaks down revenue by segment: owned-facility rental, third-party management, and insurance and other. Watch the trends in occupancy rates, average rent per unit, the composition of the customer base (personal versus commercial), and acquisition activity. Quarterly earnings calls provide color on local market conditions, competitive dynamics, and any strategic shifts. The preferred share prospectus (available on the company's investor relations website) lays out the terms, including the [coupon rate](/coupon-rate/), [liquidation](/liquidation/) preference, and redemption features. Understanding where each preferred series sits in the coupon distribution (older series at lower coupons, newer at higher) informs the relative value and duration risk of each.

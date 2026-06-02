@@ -22,13 +22,13 @@ Both businesses are what the company calls "service-first." Sentage is not tryin
 
 ## The Founding and the IPO
 
-Sentage was established in 2019. That was late to the game — fintech had already blown up in China. But the company found a niche working with banks on the loan management problem. In July 2021, the company went public on the Nasdaq under ticker SNTG.
+Sentage was established in 2019. That was late to the game — fintech had already blown up in China. But the company found a niche working with banks on the loan management problem. In July 2021, the company went public on the [Nasdaq](/nasdaq/) under ticker SNTG.
 
 An IPO on a major U.S. exchange was a big deal for a tiny Shanghai fintech. It gave the company access to capital and visibility with investors. It seemed to validate the business model. Then things fell apart.
 
 ## The Collapse
 
-By the first half of 2024, Sentage reported zero revenue. Two years earlier, the same period had brought in roughly eighty thousand dollars. The company had not failed catastrophically — it was not in bankruptcy or liquidation. It had simply lost its customers and its revenue stream.
+By the first half of 2024, Sentage reported zero revenue. Two years earlier, the same period had brought in roughly eighty thousand dollars. The company had not failed catastrophically — it was not in bankruptcy or [liquidation](/liquidation/). It had simply lost its customers and its revenue stream.
 
 What happened? The regulatory environment for fintech in China shifted. As Beijing tightened rules on lending, payment platforms, and data handling, banks and merchants became more cautious about working with small fintech vendors. Bigger, better-connected companies took more of the work. Sentage, tiny and without deep government relationships, found its opportunities shrinking.
 

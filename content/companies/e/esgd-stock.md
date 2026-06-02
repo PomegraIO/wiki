@@ -17,7 +17,7 @@ handwritten: true
 
 The MSCI EAFE index (Europe, Australasia, Far East) was created in 1969 as a benchmark for developed-market stocks outside North America. It became the standard yardstick for international equity investing: a straightforward, market-cap-weighted portfolio of large and mid-cap companies in the United Kingdom, Continental Europe, Japan, Australia, and other developed nations. By the 1990s and 2000s, passive investing and index tracking transformed asset management, and iShares—BlackRock's ETF brand—built one of the industry's largest product franchises by offering cheap, liquid ways to track indices like the EAFE.
 
-The basic EAFE ETF became ubiquitous: a simple tool for holding Nestlé, ASML, SAP, Sony, Toyota, HSBC, and hundreds of other global corporations all at once. It was the international-equity building block for millions of portfolios.
+The basic EAFE ETF became ubiquitous: a simple tool for holding Nestlé, [ASML](/asml-stock/), SAP, [Sony](/sony-stock/), Toyota, HSBC, and hundreds of other global corporations all at once. It was the international-equity building block for millions of portfolios.
 
 ## The ESG turn and ESGD's creation
 
@@ -29,21 +29,21 @@ The intellectual case was twofold. First, ESG factors were increasingly understo
 
 ESGD tracks the MSCI EAFE ESG-screened index, a variant of the traditional EAFE. The underlying universe remains the 1,200 or so large and mid-cap stocks in developed Europe, Japan, and Australia, but the index applies screens based on MSCI's ESG ratings. Companies scoring poorly on environmental performance (emissions, energy efficiency, resource depletion), social factors (labor relations, supply-chain practices), or governance (board structure, executive pay, shareholder protections) are underweighted or excluded entirely.
 
-The fund is passive—it simply holds the screened index and rebalances periodically. It trades on US exchanges throughout each trading day at market prices, moving with the earnings, dividends, and valuations of its holdings, as well as currency fluctuations. Because roughly half the portfolio is Europe-listed and the rest is yen-denominated and dollar-priced Australian and Japanese stocks, ESGD carries significant currency exposure: a strong dollar depresses returns for US investors, while a weak dollar boosts them.
+The fund is passive—it simply holds the screened index and rebalances periodically. It trades on US exchanges throughout each trading day at market prices, moving with the earnings, [dividends](/dividend/), and valuations of its holdings, as well as currency fluctuations. Because roughly half the portfolio is Europe-listed and the rest is yen-denominated and dollar-priced Australian and Japanese stocks, ESGD carries significant currency exposure: a strong dollar depresses returns for US investors, while a weak dollar boosts them.
 
-BlackRock manages the fund and the index. The expense ratio is low, reflecting passive management, with a small premium over an unscreened EAFE fund to cover the work of applying ESG criteria. For most investors, the cost difference is negligible; the meaningful question is whether ESG screening improves returns or merely aligns the portfolio with investor values.
+[BlackRock](/blk-stock/) manages the fund and the index. The [expense ratio](/expense-ratio/) is low, reflecting passive management, with a small premium over an unscreened EAFE fund to cover the work of applying ESG criteria. For most investors, the cost difference is negligible; the meaningful question is whether ESG screening improves returns or merely aligns the portfolio with investor values.
 
 ## The current portfolio and screening trade-offs
 
 Today, ESGD holds roughly the same mix of sectors and geographies as the plain EAFE index, with a tilt toward companies the MSCI methodology has rated as ESG leaders. A diversified European bank with strong capital management and board independence may be overweighted relative to a rival facing environmental liabilities or governance questions. Energy companies are rare in the fund—fossil-fuel producers typically score low on environmental metrics. Technology and healthcare, which tend to score well on ESG criteria, are represented.
 
-The tilt is real but not extreme: the screening excludes the worst actors, but ESGD does not become a technology-heavy growth fund. It remains fundamentally a diversified developed-market vehicle, now with ESG preferences baked in.
+The tilt is real but not extreme: the screening excludes the worst actors, but ESGD does not become a technology-heavy [growth fund](/growth-fund/). It remains fundamentally a diversified developed-market vehicle, now with ESG preferences baked in.
 
 ## Risks and the open question of ESG returns
 
 The central risk is **ESG screening may exclude future winners**. A large diversified miner excluded for environmental concerns might benefit from a commodity-price spike and outperform the broader market. A company with strong ESG ratings today might face competitive disruption tomorrow unrelated to its governance or environmental footprint. ESG metrics do not predict stock returns with certainty; they are a risk filter, not a crystal ball.
 
-A second risk is **currency exposure**. Because the portfolio is priced in multiple currencies, U.S.-based investors face the volatility of the dollar versus the euro, yen, Australian dollar, and Swiss franc. A period of dollar strength can meaningfully reduce returns, regardless of how well the underlying companies perform.
+A second risk is **currency exposure**. Because the portfolio is priced in multiple currencies, U.S.-based investors face the volatility of the dollar versus the euro, yen, [Australian dollar](/australian-dollar/), and [Swiss franc](/swiss-franc/). A period of dollar strength can meaningfully reduce returns, regardless of how well the underlying companies perform.
 
 There is also a lingering **academic question**: whether ESG-screened portfolios actually outperform unscreened ones over long periods. Some studies suggest they do; others find no persistent advantage. This remains an open debate that investors should understand before committing.
 

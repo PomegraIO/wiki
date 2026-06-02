@@ -37,7 +37,7 @@ A bank's [loan-loss reserve](/balance-sheet/) is the accounting estimate of futu
 
 ## Deposits and Funding
 
-The other side of a bank's operations is the liability side: deposits. Banks compete for deposits by offering [interest rates](/interest-rate/), convenience (branch locations, online banking), and perceived safety. A community bank in California competes on personalized service and local knowledge—customers know the loan officers, trust the bank to understand their specific needs, and may be reluctant to move their business to a larger regional or [national bank](/nbhc-stock/).
+The other side of a bank's operations is the liability side: deposits. Banks compete for deposits by offering [interest rates](/interest-rate/), convenience (branch locations, online banking), and perceived safety. A community bank in California competes on personalized service and local knowledge—customers know the loan officers, trust the bank to understand their specific needs, and may be reluctant to move their business to a larger regional or national bank.
 
 Deposit stability is crucial. If depositors withdraw funds en masse (a "run"), the bank must liquidate assets or borrow at unfavorable rates. The [Federal Deposit Insurance Corporation](/securities-and-exchange-commission/) (FDIC) insures deposits up to $250,000 per account, which limits run risk for most community banks. Still, large depositors and business accounts can exceed the FDIC limit, adding some run risk.
 

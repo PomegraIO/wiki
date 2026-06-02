@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The Fidelity Disruptive Communications ETF (FDCF) targets companies transforming how people and machines communicate — from wireless-infrastructure operators to software-defined networking platforms to digital messaging services. As an actively managed fund, FDCF's portfolio managers select and continuously adjust holdings based on their assessment of which communications companies are best positioned to benefit from generational shifts in networks, data transmission, and content delivery.*
+*The Fidelity Disruptive Communications ETF (FDCF) targets companies transforming how people and machines communicate — from wireless-infrastructure operators to software-defined networking platforms to digital messaging services. As an [actively managed fund](/actively-managed-fund/), FDCF's portfolio managers select and continuously adjust holdings based on their assessment of which communications companies are best positioned to benefit from generational shifts in networks, data transmission, and content delivery.*
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ The fund invests across multiple layers of this ecosystem. Holdings include tele
 
 FDCF is not mechanically tracking a predetermined index. Fidelity's portfolio managers conduct fundamental research to identify which communications companies are genuinely disrupting their industries, which ones face exposure to the strongest secular trends, and which valuations offer reasonable risk-adjusted returns. This active process allows the fund to concentrate conviction in highest-confidence bets and rotate away from companies losing competitive ground faster than a passive index would.
 
-The cost of active management is that FDCF's expense ratio of approximately 0.61% is notably higher than a passive communications or technology index fund (which might charge 0.05% to 0.20%). The fund must justify this premium through outperformance. If the managers mistime disruption cycles, pick the wrong companies, or fail to identify emerging winners in communications technology, FDCF can significantly underperform passive alternatives.
+The cost of active management is that FDCF's [expense ratio](/expense-ratio/) of approximately 0.61% is notably higher than a passive communications or technology [index fund](/index-fund/) (which might charge 0.05% to 0.20%). The fund must justify this premium through outperformance. If the managers mistime disruption cycles, pick the wrong companies, or fail to identify emerging winners in communications technology, FDCF can significantly underperform passive alternatives.
 
 ## Risks and portfolio constraints
 
@@ -45,6 +45,6 @@ The definition of "disruptive communications" is also inherently subjective. A c
 
 ## Structure and how to evaluate it
 
-FDCF is a standard equity ETF traded on NASDAQ with no leverage or inverse mechanics. Daily trading is highly liquid given Fidelity's scale and the quality of the underlying holdings. The fund's turnover — how frequently managers reshape the portfolio — can vary; higher turnover may create tax consequences for buy-and-hold shareholders.
+FDCF is a standard [equity ETF](/equity-etf/) traded on [NASDAQ](/nasdaq/) with no leverage or inverse mechanics. Daily trading is highly liquid given Fidelity's scale and the quality of the underlying holdings. The fund's turnover — how frequently managers reshape the portfolio — can vary; higher turnover may create tax consequences for buy-and-hold shareholders.
 
 To evaluate FDCF, read the fund's prospectus and fact sheet from Fidelity, which disclose the investment objective, current holdings, and performance history. Review the 10 largest holdings to understand which communications-disruption themes the managers are emphasising. Compare FDCF's returns to broad technology and communications sector indices to assess whether the active-management fee has been earned over meaningful periods. Monitor holdings turnover and the portfolio's rebalancing, as these indicate how dynamically the managers are reshaping the fund as their disruption thesis evolves.

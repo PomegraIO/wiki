@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-TSLR is a 2x leveraged long fund tracking Tesla, built by GraniteShares, a company that specializes in single-stock leveraged and inverse products. Here is what you need to know.
+TSLR is a 2x leveraged long fund tracking [Tesla](/tsla-stock/), built by GraniteShares, a company that specializes in single-stock leveraged and inverse products. Here is what you need to know.
 
 ## What it does
 
@@ -24,7 +24,7 @@ The longer you hold TSLR through volatile trading, the more this drag eats into 
 
 ## Why GraniteShares built it
 
-GraniteShares operates as a niche sponsor in the leveraged-ETF market, focused on serving traders who want amplified exposure to individual mega-cap stocks. TSLR exists because there is sufficient trading volume among speculators who understand daily-reset mechanics and want to multiply their returns over very short holding periods. The fund's viability rests on consistent daily trading volume; if interest in Tesla leverage wanes, GraniteShares might choose to close or merge the fund with another product.
+GraniteShares operates as a niche sponsor in the leveraged-ETF market, focused on serving traders who want amplified exposure to individual mega-cap stocks. TSLR exists because there is sufficient trading volume among speculators who understand daily-reset mechanics and want to multiply their returns over very short [holding periods](/holding-period/). The fund's viability rests on consistent daily trading volume; if interest in Tesla leverage wanes, GraniteShares might choose to close or merge the fund with another product.
 
 The firm publishes a daily factsheet showing holdings and tracking performance, which prospective traders should use to verify that the 2x leverage is working as advertised before committing capital.
 
@@ -34,7 +34,7 @@ TSLR charges roughly 0.95% per year in fees, higher than a plain Tesla ETF becau
 
 ## How to understand the mechanics
 
-When you buy TSLR, you are not borrowing money to buy Tesla on margin, even though the effect is similar. Instead, the fund uses equity swaps, call options, or other derivatives to create 2x exposure without the borrow costs or the margin call mechanics that individual borrowers face. This matters: derivatives can become expensive or illiquid in certain market conditions, which can cause the fund to deviate from its 2x tracking goal.
+When you buy TSLR, you are not borrowing money to buy Tesla on margin, even though the effect is similar. Instead, the fund uses [equity swaps](/equity-swap/), [call options](/call-option/), or other derivatives to create 2x exposure without the borrow costs or the [margin call](/margin-call-forex/) mechanics that individual borrowers face. This matters: derivatives can become expensive or illiquid in certain market conditions, which can cause the fund to deviate from its 2x tracking goal.
 
 ## Who should own it
 

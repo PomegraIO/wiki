@@ -59,7 +59,7 @@ A key regulatory question is carbohydrate immunotherapy's safety profile. If the
 
 ## Competitive Positioning
 
-Cancer immunotherapy is densely competitive: large pharma (Roche, Merck, [Bristol Myers Squibb](/bmy-stock/), Gilead) and successful biotech firms (Juno, Nektar, Arcus) have deep expertise, cash, and approved therapies. Imunon's niche—carbohydrate-based immunotherapy—is smaller and less crowded than checkpoint inhibitors or CAR-T, but it is also less proven. The company's advantage is focus and clarity of hypothesis; its disadvantage is unproven modality and limited resources relative to larger competitors.
+Cancer immunotherapy is densely competitive: large pharma (Roche, [Merck](/mrk-stock/), [Bristol Myers Squibb](/bmy-stock/), Gilead) and successful biotech firms (Juno, Nektar, Arcus) have deep expertise, cash, and approved therapies. Imunon's niche—carbohydrate-based immunotherapy—is smaller and less crowded than checkpoint inhibitors or CAR-T, but it is also less proven. The company's advantage is focus and clarity of hypothesis; its disadvantage is unproven modality and limited resources relative to larger competitors.
 
 ## Business Model and Exit
 

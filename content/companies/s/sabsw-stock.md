@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-SAB Biotherapeutics is a biopharmaceutical company with an unusual origin story and a novel manufacturing approach to creating human antibody therapies. The company was founded to develop and commercialise a platform technology that uses genetically modified cattle to produce human polyclonal antibodies—a manufacturing method that differs fundamentally from the dominant monoclonal-antibody paradigm that has dominated therapeutic antibody development for decades. SAB is now in transition from a pre-clinical technology-validation phase toward clinical development of multiple programs, a shift that will test whether its transgenic-cattle platform can deliver therapeutic antibodies with advantages over conventional methods.
+[SAB Biotherapeutics](/sabs-stock/) is a biopharmaceutical company with an unusual origin story and a novel manufacturing approach to creating human antibody therapies. The company was founded to develop and commercialise a platform technology that uses genetically modified cattle to produce human polyclonal antibodies—a manufacturing method that differs fundamentally from the dominant monoclonal-antibody paradigm that has dominated therapeutic antibody development for decades. SAB is now in transition from a pre-clinical technology-validation phase toward clinical development of multiple programs, a shift that will test whether its transgenic-cattle platform can deliver therapeutic antibodies with advantages over conventional methods.
 
 ## The founding vision: cattle as bioreactors
 
@@ -19,7 +19,7 @@ SAB Biotherapeutics was founded in 2002 by scientists who recognised that antibo
 
 The company developed a proprietary technology to genetically engineer cattle such that their bodies produce human antibodies in their blood serum. When vaccinated or exposed to an antigen (a foreign molecule or pathogen), the transgenic cattle mount an immune response and produce a diverse collection of human antibodies tailored to that antigen. SAB harvests the antibodies from the cattle's blood and purifies them for therapeutic use.
 
-This approach has conceptual advantages over the dominant monoclonal-antibody (mAb) technology. Monoclonal antibodies are single, uniform antibodies derived from a single clone of immune cells, and they are the gold standard in modern therapeutics—tens of billions of dollars of pharmaceutical revenue flows from monoclonal-antibody drugs. However, they are expensive to develop and manufacture. A polyclonal antibody cocktail—a mixture of many different antibodies, all targeting the same antigen from different angles—can sometimes be more effective than a single monoclonal and may be cheaper and faster to produce.
+This approach has conceptual advantages over the dominant monoclonal-antibody (mAb) technology. Monoclonal antibodies are single, uniform antibodies derived from a single clone of immune cells, and they are the [gold standard](/gold-standard/) in modern therapeutics—tens of billions of dollars of pharmaceutical revenue flows from monoclonal-antibody drugs. However, they are expensive to develop and manufacture. A polyclonal antibody cocktail—a mixture of many different antibodies, all targeting the same antigen from different angles—can sometimes be more effective than a single monoclonal and may be cheaper and faster to produce.
 
 ## Technology and platform mechanics
 
@@ -39,7 +39,7 @@ The company also built out manufacturing capability, though scaling a transgenic
 
 ## Early clinical programs and the shift to independent development
 
-By the late 2010s, SAB had advanced multiple antibody programs toward clinical trials and was evaluating which programs to prioritise for internal development versus partnerships. The company went public in 2019 (through a merger with a special-purpose acquisition company, a common route for early-stage biotech) to raise capital for clinical development and manufacturing scale-up.
+By the late 2010s, SAB had advanced multiple antibody programs toward clinical trials and was evaluating which programs to prioritise for internal development versus partnerships. The company went public in 2019 (through a [merger](/merger/) with a [special-purpose acquisition company](/special-purpose-acquisition-company/), a common route for early-stage biotech) to raise capital for clinical development and manufacturing scale-up.
 
 Current and recent programs include antibody therapies targeting infectious diseases like COVID-19 and influenza, as well as cancer immunotherapy applications. The specifics of clinical progress vary by program, but the essential transition underway is from pure technology validation toward therapeutic development—a shift that requires substantially larger capital investment, longer timelines, and regulatory navigation.
 

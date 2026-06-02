@@ -11,15 +11,15 @@ keywords:
 handwritten: true
 ---
 
-Globa Terra Acquisition Corp exists in a liminal state: it is a public company with shareholders, SEC filings, and a Nasdaq listing, but it has no business operations. It is a financial structure designed to acquire a private company and bring it to public markets. The three ticker symbols—GTER for shares, GTERW for warrants, and GTERR for rights—reflect the complexity of how the initial public offering was structured.
+Globa Terra [Acquisition](/acquisition/) Corp exists in a liminal state: it is a public company with shareholders, SEC filings, and a [Nasdaq](/nasdaq/) listing, but it has no business operations. It is a financial structure designed to acquire a private company and bring it to public markets. The three ticker symbols—GTER for shares, GTERW for warrants, and GTERR for rights—reflect the complexity of how the [initial public offering](/initial-public-offering/) was structured.
 
 ## The capital structure explained
 
 When Globa Terra raised capital in July 2025, it sold units at $10 each. Each unit was a package containing one Class A Ordinary Share, one-half warrant, and one right. Investors who bought units could later separate them into their component parts and trade them independently.
 
-The Class A Ordinary Share (ticker GTER) represents ownership in Globa Terra. If a business combination closes, ordinary shareholders own equity in the merged company. If no deal happens within 24 months, shareholders can redeem their shares for their pro-rata portion of the trust account (where the IPO proceeds sit). This gives shareholders a downside floor: they will get at least their $10 back if nothing happens.
+The Class A Ordinary Share (ticker GTER) represents ownership in Globa Terra. If a [business combination](/business-combination-purchase/) closes, ordinary shareholders own equity in the merged company. If no deal happens within 24 months, shareholders can redeem their shares for their pro-rata portion of the trust account (where the IPO proceeds sit). This gives shareholders a downside floor: they will get at least their $10 back if nothing happens.
 
-A warrant (ticker GTERW) is the right to buy another Class A share later, typically at a strike price above the IPO price, usually around $11.50. Warrants allow investors to benefit from upside in the combined company without putting up the full capital upfront. But if the deal fails or the shares never appreciate above the strike price, the warrants expire worthless.
+A warrant (ticker GTERW) is the right to buy another Class A share later, typically at a [strike price](/strike-price/) above the IPO price, usually around $11.50. Warrants allow investors to benefit from upside in the combined company without putting up the full capital upfront. But if the deal fails or the shares never appreciate above the strike price, the warrants expire worthless.
 
 A right (ticker GTERR) is a voting instrument: it gives the holder the right to vote on any proposed business combination, even if they have sold or redeemed their shares. Rights can also be exercised or traded, depending on the specific SPAC terms. They are a mechanism to ensure that investors who funded the IPO have a say in whether the deal is acceptable, even if they have already exited their share position.
 
@@ -27,7 +27,7 @@ A right (ticker GTERR) is a voting instrument: it gives the holder the right to 
 
 From the upstream side, Globa Terra depends on sponsors with capital and networks: people who know potential targets in agribusiness and water, who can negotiate deals, and who carry enough credibility that private companies will want to merge with their SPAC. The sponsors' reputation and deal-making ability are the company's only real asset.
 
-Downstream, the company depends on private operating companies being willing to accept a SPAC merger as the path to going public. A private company might prefer a traditional IPO (where investment banks take the company directly to public markets) if it is large and high-profile enough. But SPACs move faster and allow founders to get liquidity before the public merger, which is attractive if a company has been bootstrapping or is backed by private equity looking to exit.
+Downstream, the company depends on private operating companies being willing to accept a SPAC [merger](/merger/) as the path to going public. A private company might prefer a traditional IPO (where investment banks take the company directly to public markets) if it is large and high-profile enough. But SPACs move faster and allow founders to get liquidity before the public merger, which is attractive if a company has been bootstrapping or is backed by private equity looking to exit.
 
 The agribusiness and water focus is deliberate. These sectors are fragmented: many small and mid-size private companies control valuable assets or capabilities. Consolidation can create value by combining operations, eliminating redundancy, and buying growth. A SPAC with $150 million in capital can acquire a business in these sectors, bring it public, and use the stock to acquire competitors or fund growth.
 

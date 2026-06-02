@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**Algernon Health is a clinical-stage biopharmaceutical firm advancing proprietary drug candidates targeting serious mental health and neurological conditions where traditional pharmaceutical companies have moved cautiously.** The company occupies a niche within biotech: focused enough to move quickly, small enough to remain nimble, but large enough to push science forward through rigorous clinical testing. Like most pre-commercial biotechs, its story centers on pipeline progression rather than revenue or earnings.
+**[Algernon Health](/agnpf-stock/) is a clinical-stage biopharmaceutical firm advancing proprietary drug candidates targeting serious mental health and neurological conditions where traditional pharmaceutical companies have moved cautiously.** The company occupies a niche within biotech: focused enough to move quickly, small enough to remain nimble, but large enough to push science forward through rigorous clinical testing. Like most pre-commercial biotechs, its story centers on pipeline progression rather than revenue or earnings.
 
 The therapeutic areas Algernon pursues—serious mental health disorders and related neurological conditions—represent spaces with genuine unmet medical need. Neuroscience remains one of pharma's most challenging frontiers; compounds often fail late in development, and regulatory pathways demand robust safety and efficacy data. But companies that succeed here can capture substantial value, both in terms of market size and in the gratitude of patients and clinicians facing limited alternatives. Algernon's strategy appears to rest on discovering novel mechanisms and advancing them through disciplined clinical programs.
 

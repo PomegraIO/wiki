@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-NewGenIvf Group Ltd is an assisted reproductive services provider operating clinics in Thailand, Cambodia, and Kyrgyzstan. The company serves couples and individuals seeking fertility treatments—in-vitro fertilization, egg freezing, sperm analysis and preparation, embryo screening, and surrogacy services. Founded in 2010 and based in Bangkok, NewGenIvf went public on the NASDAQ Capital Market in April 2024, offering both shares (NIVF) and warrants (NIVFW) to investors. The company targets patients across Asia-Pacific and beyond, especially those facing long wait times or regulatory barriers in their home countries.
+NewGenIvf Group Ltd is an assisted reproductive services provider operating clinics in Thailand, Cambodia, and Kyrgyzstan. The company serves couples and individuals seeking fertility treatments—in-vitro fertilization, egg freezing, sperm analysis and preparation, embryo screening, and surrogacy services. Founded in 2010 and based in Bangkok, NewGenIvf went public on the [NASDAQ](/nasdaq/) Capital Market in April 2024, offering both shares (NIVF) and warrants (NIVFW) to investors. The company targets patients across Asia-Pacific and beyond, especially those facing long wait times or regulatory barriers in their home countries.
 
 ## The Fertility Market: Who Buys and Why
 
@@ -51,5 +51,5 @@ An investor studying NewGenIvf would begin with the company's clinical outcomes�
 
 Financial filings reveal patient volumes (cycles started and completed), average revenue per cycle, and gross margins, allowing investors to model how many additional patients NewGenIvf needs to grow revenue. The risk factors in SEC filings would highlight regulatory changes, dependence on medical tourism, and outcome variance as key variables. Serious investors would also examine where NewGenIvf's patients come from—domestic or international—because that affects susceptibility to travel restrictions and economic downturns in key markets.
 
-The warrant (NIVFW) adds a derivative dimension: warrants are leveraged bets on NewGenIvf's execution—reaching target patient volumes, maintaining clinical quality, navigating regulatory changes, and delivering profitability. For fertility services, where outcomes directly drive customer acquisition and retention, clinical consistency matters as much as business scaling.
+The warrant (NIVFW) adds a derivative dimension: warrants are leveraged bets on NewGenIvf's execution—reaching target patient volumes, maintaining clinical quality, navigating regulatory changes, and delivering profitability. For fertility services, where outcomes directly drive customer [acquisition](/acquisition/) and retention, clinical consistency matters as much as business scaling.
 

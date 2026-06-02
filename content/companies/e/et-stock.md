@@ -29,7 +29,7 @@ handwritten: true
 
 Energy Transfer is a Houston-based midstream energy company that moves hydrocarbon molecules from production sites to refineries, storage hubs, and end consumers. It operates one of the most extensive pipeline networks in North America, handling [natural gas](/natural-gas/), natural gas liquids (NGLs), [crude oil](/crude-oil/), and refined petroleum products. The business is fundamentally simple: Energy Transfer owns and operates the infrastructure that transports energy, collecting fees from shippers who use its pipes and facilities.
 
-The company operates as a [master limited partnership](/wiki/stock/), a structure common in the midstream sector. This means it is taxed as a partnership rather than a corporation—distributions flow through to investors without double taxation. Investors receive regular distributions from operating cash flow, which attract income-focused portfolios. The [10-K](/wiki/10-k/) filing with the SEC discloses the operational details: pipeline capacity, utilization rates, contract terms, and capital expenditure plans.
+The company operates as a [master limited partnership](/wiki/stock/), a structure common in the midstream sector. This means it is taxed as a partnership rather than a corporation—distributions flow through to investors without double taxation. Investors receive regular distributions from operating cash flow, which attract income-focused portfolios. The [10-K](/wiki/10-k/) filing with the SEC discloses the operational details: pipeline [capacity, utilization rates](/capacity-utilization-rate/), contract terms, and capital expenditure plans.
 
 ## The Pipeline Network
 

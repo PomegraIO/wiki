@@ -47,20 +47,20 @@ That means your returns are less than if you owned the house yourself and did al
 
 Houses can go down in value. Tenants can cause damage or stop paying rent. Neighborhoods change. The economy can weaken and rents can fall. If the house is worth less when Arrived sells it, you get back less than you put in. You do not get wiped out — you still own your share — but your investment is smaller.
 
-Another risk is locked-in money. You cannot sell your shares on a whim. You are locked into whatever timeline Arrived uses to own and eventually sell the house. In recent years, Arrived has added a secondary market so you can sell to other investors, but that market is still new and there is no guarantee you will find a buyer quickly or at the price you want.
+Another risk is locked-in money. You cannot sell your shares on a whim. You are locked into whatever timeline Arrived uses to own and eventually sell the house. In recent years, Arrived has added a [secondary market](/secondary-market/) so you can sell to other investors, but that market is still new and there is no guarantee you will find a buyer quickly or at the price you want.
 
-Interest rates matter too. When mortgage rates go up, houses are harder to sell and worth less. That hits rental companies hard because they use mortgages to buy the houses. Higher rates also mean lower rents sometimes, because fewer people can afford to rent. So if you own shares in properties that Arrived financed with cheap loans, and rates spike, those properties may underperform.
+[Interest rates](/interest-rate/) matter too. When mortgage rates go up, houses are harder to sell and worth less. That hits rental companies hard because they use mortgages to buy the houses. Higher rates also mean lower rents sometimes, because fewer people can afford to rent. So if you own shares in properties that Arrived financed with cheap loans, and rates spike, those properties may underperform.
 
 ## Why you would invest here
 
-You believe rental houses will keep appreciating over the next five to ten years. You want yield because bonds and savings accounts do not pay much. You like real estate but do not want to be a landlord. You have money to invest and you trust Arrived's team to pick good houses and manage them well. You want exposure to a real asset — land and a building — not just stocks.
+You believe rental houses will keep appreciating over the next five to ten years. You want yield because [bonds](/bond/) and savings accounts do not pay much. You like real estate but do not want to be a landlord. You have money to invest and you trust Arrived's team to pick good houses and manage them well. You want exposure to a real asset — land and a building — not just stocks.
 
 ## Why you would stay away
 
-You need your money back quickly. You think housing is overpriced and will fall. You believe interest rates will stay high, crushing rental returns. You do not trust that Arrived will manage the houses competently. You want control — the ability to decide what repairs to make or which tenants to rent to. You worry that Arrived will fail or lose properties to foreclosure.
+You need your money back quickly. You think housing is overpriced and will fall. You believe interest rates will stay high, crushing rental returns. You do not trust that Arrived will manage the houses competently. You want control — the ability to decide what repairs to make or which tenants to rent to. You worry that Arrived will fail or lose properties to [foreclosure](/foreclosure/).
 
 ## What to watch
 
-Watch whether Arrived keeps acquiring new properties or slows down. If acquisitions slow, it means either they are having trouble finding good houses or they are running out of investor money. Watch what happens to rents in the cities where Arrived buys. If rents fall, property returns fall. Track interest rates — if they stay high, that is bad for Arrived and for the houses they own. Look at Arrived's secondary market: does anyone actually trade shares, or does it stay illiquid? If shares do not trade, your money is really locked up.
+Watch whether Arrived keeps acquiring new properties or slows down. If [acquisitions](/acquisition/) slow, it means either they are having trouble finding good houses or they are running out of investor money. Watch what happens to rents in the cities where Arrived buys. If rents fall, property returns fall. Track interest rates — if they stay high, that is bad for Arrived and for the houses they own. Look at Arrived's secondary market: does anyone actually trade shares, or does it stay illiquid? If shares do not trade, your money is really locked up.
 
 Also notice whether Arrived faces any regulatory trouble. Real estate and investment platforms get sued sometimes, and new rules can pop up. Keep an eye on their SEC filings to see if anything has changed in how they operate or how they make money.

@@ -27,7 +27,7 @@ OKLL is a leveraged exchange-traded fund built for traders who believe Oklo Inc.
 
 ## How the leverage works
 
-OKLL does not borrow money and buy extra shares the way a margin account does. Instead it uses total return swaps — contracts between the fund and a major financial institution (typically a large bank) where both sides exchange payments based on daily moves in Oklo stock. If Oklo rises $1 in a day, the fund receives money equivalent to a $2 move from its counterparty. If Oklo falls $1, the fund pays the counterparty money equivalent to a $2 loss. This synthetic approach gives the fund precise 2x exposure without balance-sheet debt.
+OKLL does not borrow money and buy extra shares the way a margin account does. Instead it uses [total return swaps](/total-return-swap/) — contracts between the fund and a major financial institution (typically a large bank) where both sides exchange payments based on daily moves in Oklo stock. If Oklo rises $1 in a day, the fund receives money equivalent to a $2 move from its counterparty. If Oklo falls $1, the fund pays the counterparty money equivalent to a $2 loss. This synthetic approach gives the fund precise 2x exposure without balance-sheet debt.
 
 Every evening, the fund's managers unwind the previous day's swap positions and enter new ones that are precisely calibrated to deliver 2x the next day's move in Oklo stock. This daily reset is why OKLL is called a "daily" leveraged fund. Each morning, the fund starts fresh with 2x exposure to the day's move. Each evening, it adjusts to maintain that 2x ratio for the next day's trading.
 
@@ -39,7 +39,7 @@ Over this period, Oklo stock is flat. An OKLL shareholder experiences different 
 
 That loss is volatility decay. It accumulates whenever the underlying stock bounces around instead of moving in a straight line. The more volatile the stock, the worse the decay becomes. A stock that swings 5% daily in a leveraged fund loses ground far faster than one that moves steadily. This decay is not a fee; it is a mathematical consequence of resetting leverage every day on a volatile asset.
 
-Oklo is a volatile stock. It is a young nuclear technology company with regulatory milestones that can move it 10% or more in a day. News about fuel-recycling progress, reactor licensing, energy policy, or quarterly results regularly creates big moves. That volatility is attractive to a leverage buyer for short holding periods — you get amplified moves — but deadly over weeks and months as decay accumulates.
+Oklo is a volatile stock. It is a young nuclear technology company with regulatory milestones that can move it 10% or more in a day. News about fuel-recycling progress, reactor licensing, energy policy, or quarterly results regularly creates big moves. That volatility is attractive to a leverage buyer for short [holding periods](/holding-period/) — you get amplified moves — but deadly over weeks and months as decay accumulates.
 
 ## Why holding period matters more than direction
 
@@ -49,13 +49,13 @@ This is why OKLL is designed for trades lasting days or weeks, not months or yea
 
 ## Tax consequences in taxable accounts
 
-Leveraged ETFs held in regular brokerage accounts create substantial tax problems. The daily rebalancing of swaps and positions generates very high turnover, and each transaction that results in gains triggers potential short-term capital gains. Because leverage amplifies moves, it also amplifies the number and size of taxable events. Over a year, an investor might accumulate substantial short-term capital gains liability — taxed at ordinary income rates, not the preferential capital-gains rates applied to long-term holdings — even though volatility decay has partially or fully eroded the underlying gains.
+[Leveraged ETFs](/leveraged-etf/) held in regular brokerage accounts create substantial tax problems. The daily rebalancing of swaps and positions generates very high turnover, and each transaction that results in gains triggers potential short-term capital gains. Because leverage amplifies moves, it also amplifies the number and size of taxable events. Over a year, an investor might accumulate substantial short-term capital gains liability — taxed at ordinary income rates, not the preferential capital-gains rates applied to long-term holdings — even though volatility decay has partially or fully eroded the underlying gains.
 
 OKLL is much more suitable in a tax-deferred retirement account (an IRA or 401(k)) where the daily churn of gains and losses does not immediately generate tax bills. In a taxable account, the tax drag compounds the volatility decay problem, making OKLL even less suitable for anything beyond very short-term trades.
 
 ## The expense ratio and hidden costs
 
-OKLL charges a stated expense ratio for administration and management, but this is only the visible cost. The total return swaps that provide leverage come with implicit costs embedded in the derivative pricing. The bank providing the swap does not do so for free; it charges a spread in the contract terms. This hidden cost, which never appears as a line item but is baked into the fund's performance, reduces returns below what simple mechanical leverage would suggest.
+OKLL charges a stated [expense ratio](/expense-ratio/) for administration and management, but this is only the visible cost. The total return swaps that provide leverage come with implicit costs embedded in the derivative pricing. The bank providing the swap does not do so for free; it charges a spread in the contract terms. This hidden cost, which never appears as a line item but is baked into the fund's performance, reduces returns below what simple mechanical leverage would suggest.
 
 ## Oklo Inc. and the context for leverage
 

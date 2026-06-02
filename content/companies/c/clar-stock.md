@@ -61,7 +61,7 @@ The regulatory and legal environment pushes Clarus toward more transparent, prom
 
 ## Environmental and Sustainability Regulation
 
-Outdoor companies face increasing pressure from customers and regulators to disclose environmental impacts and pursue sustainability. While not yet universally mandated in the US, the EU's Corporate Sustainability Reporting Directive (CSRD) and similar schemes in other markets require disclosure of greenhouse-gas emissions, [waste management](/wm-stock/), and supply-chain environmental practices. Clarus, if selling significantly in Europe, may face these obligations.
+Outdoor companies face increasing pressure from customers and regulators to disclose environmental impacts and pursue sustainability. While not yet universally mandated in the US, the EU's Corporate Sustainability Reporting Directive (CSRD) and similar schemes in other markets require disclosure of greenhouse-gas emissions, waste management, and supply-chain environmental practices. Clarus, if selling significantly in Europe, may face these obligations.
 
 The company likely discloses sustainability commitments voluntarily in corporate reports; regulators and shareholders expect consistency between stated commitments and actual practices. Greenwashing—claiming environmental benefits that are not substantiated—exposes Clarus to FTC and state attorney general enforcement and shareholder litigation.
 

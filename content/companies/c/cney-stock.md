@@ -36,7 +36,7 @@ Biodiesel demand in the U.S. is substantially driven by the renewable-fuel-stand
 
 - **Regulatory environment**: Does the U.S. maintain its biodiesel blending mandate (typically 4–5% of all diesel fuel sold must be biodiesel or renewable diesel)? If the mandate softens, demand collapses.
 - **Geographic markets**: Is CN Energy's volume dependent on U.S. mandate, or does it have international customers buying biodiesel for environmental or economic reasons independent of regulation?
-- **Policy risk**: Changes to the RFS, waivers for exemptions, or EPA policy shifts can create volatility. In the business description and risk factors, the company should acknowledge this tail risk.
+- **Policy risk**: Changes to the RFS, waivers for exemptions, or EPA policy shifts can create volatility. In the business description and risk factors, the company should acknowledge this [tail risk](/tail-risk/).
 
 A biodiesel company without a diversified customer base (beyond mandated blending) is essentially a regulatory-arbitrage play. The business thrives if mandates persist; it withers if they're weakened. Read the risk factors carefully for any hint that the company is lobbying hard to preserve mandates—a sign of high policy dependency.
 
@@ -66,7 +66,7 @@ Unlike some energy businesses with long-term supply contracts, biodiesel is ofte
 
 - **Offtake contracts**: Does CN Energy have contracts guaranteeing minimum purchases, or is it spot-market sales? Contracts reduce revenue volatility.
 - **Customer concentration**: If a large blender or distributor represents more than 20% of revenue, the relationship is a leverage point.
-- **Pricing mechanisms**: Are prices fixed at contract inception, or are they tied to commodity indices (WTI crude, biodiesel futures)? Indexed pricing passes volatility to the customer; fixed pricing locks in margin but creates execution risk if feedstock prices spike.
+- **Pricing mechanisms**: Are prices fixed at contract inception, or are they tied to commodity indices ([WTI crude](/wti-crude/), biodiesel futures)? Indexed pricing passes volatility to the customer; fixed pricing locks in margin but creates execution risk if feedstock prices spike.
 
 The notes to revenue in the 10-K will disclose contract terms and any major customer relationships.
 

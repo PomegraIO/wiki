@@ -17,7 +17,7 @@ The merger brings together [Obsidian Therapeutics](/wiki/public-company/), a pri
 
 ## The Two Operating Platforms
 
-Obsidian's lead asset, OBX-115, is in Phase 2 testing for melanoma that has resisted checkpoint inhibitor therapy (anti-PD-1 drugs), as well as Phase 1 work in non-small cell lung cancer. Early data showed a 50% objective response rate in melanoma with a complete response rate of 25%, achieved without the high-dose interleukin-2 (IL-2) that traditional TIL therapies require. The therapy uses a membrane-bound IL-15 enhancement to boost cell persistence and activity. OBX-115 has earned FDA [Fast Track](/ftrk-stock/) and Regenerative Medicine Advanced Therapy designations.
+Obsidian's lead asset, OBX-115, is in Phase 2 testing for melanoma that has resisted checkpoint inhibitor therapy (anti-PD-1 drugs), as well as Phase 1 work in non-small cell lung cancer. Early data showed a 50% objective response rate in melanoma with a complete response rate of 25%, achieved without the high-dose interleukin-2 (IL-2) that traditional TIL therapies require. The therapy uses a membrane-bound IL-15 enhancement to boost cell persistence and activity. OBX-115 has earned FDA Fast Track and Regenerative Medicine Advanced Therapy designations.
 
 Galera, meanwhile, develops small-molecule drugs targeting radiation-induced side effects and difficult cancers. Its lead candidate is avasopasem manganese, a dismutase mimetic for severe oral mucositis from head-and-neck cancer radiotherapy, along with a secondary indication in radiation-induced esophagitis. Galera also has tilarginine in early clinical development for triple-negative breast cancer.
 

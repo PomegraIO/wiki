@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Anghami is a music streaming service founded to serve listeners in the Middle East and North Africa — regions where internet penetration was growing but western music streaming services like Spotify and Apple Music had minimal presence and limited catalogues of Arabic music. The company went public via a SPAC merger in 2021, making it the first Arabic-language music streaming service to list on a major US exchange. Its trajectory traces a pattern common to streaming services worldwide: building audience in a region where the incumbent is weak, securing licenses from major music publishers, and then navigating the challenge of monetization in markets where paying for digital music is not yet a norm.
+Anghami is a music streaming service founded to serve listeners in the Middle East and North Africa — regions where internet penetration was growing but western music streaming services like Spotify and [Apple](/aapl-stock/) Music had minimal presence and limited catalogues of Arabic music. The company went public via a SPAC [merger](/merger/) in 2021, making it the first Arabic-language music streaming service to list on a major US exchange. Its trajectory traces a pattern common to streaming services worldwide: building audience in a region where the incumbent is weak, securing licenses from major music publishers, and then navigating the challenge of monetization in markets where paying for digital music is not yet a norm.
 
 ## The founding and early growth (2012–2018)
 
@@ -25,7 +25,7 @@ By the late 2010s, Anghami had established itself as a significant music streami
 
 By 2018–2019, Anghami faced the same challenge every music streaming startup eventually encounters: the capital intensity of licensing and operating a global platform. Spotify famously unprofitable for years as it invested to scale, and many regional streaming services either folded or were acquired. Anghami had built something durable — a service with millions of listeners — but needed capital to expand, improve its product, and compete against any western streaming services that might enter the region more aggressively.
 
-Rather than pursue a traditional IPO (which would have been difficult in US public markets given the company's regional focus and uncertain profitability), Anghami chose a SPAC merger. In 2021, it merged with Venom Holdings Corp., becoming publicly listed on the NASDAQ under the ticker ANGHW. The merger provided capital and public-market access without the IPO roadshow process. It also gave the company's founders and early investors a liquid exit for their stakes.
+Rather than pursue a traditional IPO (which would have been difficult in US public markets given the company's regional focus and uncertain profitability), Anghami chose a SPAC merger. In 2021, it merged with Venom Holdings Corp., becoming publicly listed on the [NASDAQ](/nasdaq/) under the ticker ANGHW. The merger provided capital and public-market access without the IPO roadshow process. It also gave the company's founders and early investors a liquid exit for their stakes.
 
 The move to public markets was a milestone, but it also required Anghami to operate under the scrutiny and disclosure requirements of US securities regulators, even though its business was primarily in the Middle East and North Africa.
 

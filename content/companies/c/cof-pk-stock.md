@@ -26,7 +26,7 @@ Capital One is in the business of lending money to people. Not to big corporatio
 
 ## Why Capital One Exists
 
-When you get a credit card or finance a car, the lender has to guess whether you will pay the money back. If the lender guesses wrong, they lose money. In the 1980s, that guessing was done mostly by humans using rules of thumb. Capital One was founded on a simple idea: use computers and statistics to make better guesses. If you can predict who will pay and who will not, you can lend to more people safely. You can also charge the right interest rate for the right borrower.
+When you get a credit card or finance a car, the lender has to guess whether you will pay the money back. If the lender guesses wrong, they lose money. In the 1980s, that guessing was done mostly by humans using rules of thumb. Capital One was founded on a simple idea: use computers and statistics to make better guesses. If you can predict who will pay and who will not, you can lend to more people safely. You can also charge the right [interest rate](/interest-rate/) for the right borrower.
 
 This still matters today. Capital One has millions of customers and computers that learn from that data. When you apply for a card, a computer algorithm reads your application and decides whether to approve you in seconds. A smaller lender cannot do this — they do not have enough customers or computer power to build good models.
 
@@ -64,15 +64,15 @@ Big also means Capital One can invest heavily in technology and data science. Th
 
 ## The Flip Side: Regulation
 
-Being big also means being watched closely. Capital One is regulated like a bank. It has to hold a large capital buffer — money set aside to absorb losses if things go wrong. The Federal Reserve runs stress tests every year to make sure Capital One has enough capital to survive a bad recession. That capital requirement limits how much profit the company can distribute to shareholders and how fast it can grow.
+Being big also means being watched closely. Capital One is regulated like a bank. It has to hold a large capital buffer — money set aside to absorb losses if things go wrong. The [Federal Reserve](/federal-reserve/) runs stress tests every year to make sure Capital One has enough capital to survive a bad [recession](/recession/). That capital requirement limits how much profit the company can distribute to shareholders and how fast it can grow.
 
 ## Pressures and Risks
 
 Capital One's profits depend heavily on how much interest people are paying on credit cards. When the Federal Reserve raises interest rates, credit-card rates rise too, and Capital One's profits rise. When the Fed lowers rates, Capital One's profits fall. This makes the company sensitive to Federal Reserve decisions.
 
-The economy also matters. When unemployment is low and people feel confident, they borrow more and default less. When unemployment is high, people default more often. Capital One's profits rise and fall with the business cycle.
+The economy also matters. When unemployment is low and people feel confident, they borrow more and default less. When unemployment is high, people default more often. Capital One's profits rise and fall with the [business cycle](/business-cycle/).
 
-Competition is constant. Big banks like Bank of America and Citigroup also issue credit cards. Online lenders and fintech companies are entering auto lending. Capital One has to stay good at predicting credit risk and at managing costs or it will lose customers.
+Competition is constant. Big banks like [Bank of America](/bank-of-america/) and [Citigroup](/c-stock/) also issue credit cards. Online lenders and fintech companies are entering auto lending. Capital One has to stay good at predicting [credit risk](/credit-risk/) and at managing costs or it will lose customers.
 
 ## How to Research Capital One
 

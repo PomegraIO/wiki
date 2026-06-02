@@ -21,7 +21,7 @@ The fund's creators believed that as wireless data consumption accelerated — d
 
 ## The spectrum landscape
 
-SPCT's holdings reflect the main categories of spectrum-owning businesses. Major wireless carriers like Verizon, AT&T, and T-Mobile hold vast amounts of spectrum across multiple frequency bands and geographies, accumulated through decades of auctions and acquisitions. Smaller regional carriers and wireless service providers also own spectrum, giving them a competitive foothold.
+SPCT's holdings reflect the main categories of spectrum-owning businesses. Major wireless carriers like Verizon, AT&T, and T-Mobile hold vast amounts of spectrum across multiple frequency bands and geographies, accumulated through decades of auctions and [acquisitions](/acquisition/). Smaller regional carriers and wireless service providers also own spectrum, giving them a competitive foothold.
 
 The fund also captures companies that have monetized spectrum holdings without operating a full cellular network — entities that acquired frequencies through auction or from bankrupt carriers and now lease or sell access to carriers and private wireless operators. These spectrum-light plays offer pure exposure to spectrum scarcity without the operational complexity of running nationwide networks.
 
@@ -35,7 +35,7 @@ This proved the original thesis: spectrum owners have become more valuable, not 
 
 ## Concentration and competitive dynamics
 
-SPCT, like any spectrum-focused fund, carries concentration risk. Wireless spectrum in most countries is concentrated among a handful of major carriers — in the United States, Verizon, AT&T, and T-Mobile dominate. This means SPCT will be weighted toward these three firms and a handful of smaller regional players, rather than offering broad diversification. Investors essentially get a bet on the telecom sector rather than a balanced slice of all public companies.
+SPCT, like any spectrum-focused fund, carries [concentration risk](/concentration-risk/). Wireless spectrum in most countries is concentrated among a handful of major carriers — in the United States, Verizon, AT&T, and T-Mobile dominate. This means SPCT will be weighted toward these three firms and a handful of smaller regional players, rather than offering broad [diversification](/diversification/). Investors essentially get a bet on the telecom sector rather than a balanced slice of all public companies.
 
 Competition for spectrum at auction has intensified, particularly as new entrants (like satellite-internet providers buying spectrum for complementary services) compete with traditional carriers. Regulatory changes that reallocate spectrum — such as decisions to free up frequencies for unlicensed use or to favor specific uses — can unexpectedly alter the value of existing licenses.
 
@@ -53,4 +53,4 @@ SPCT remains a pure play on spectrum scarcity and the communications infrastruct
 
 ## Researching the fund
 
-The prospectus and holdings reveal the fund's weighting toward the major carriers and any smaller spectrum holders included. Study how the fund's returns correlate with the wireless sector and with spectrum-auction cycles. Check the turnover: a pure theme index fund should turn slowly, as spectrum ownership is relatively stable. Compare the fund's expense ratio against owning the underlying carriers directly, to assess whether the themed focus is adding or subtracting value through fees.
+The prospectus and holdings reveal the fund's weighting toward the major carriers and any smaller spectrum holders included. Study how the fund's returns correlate with the wireless sector and with spectrum-auction cycles. Check the turnover: a pure theme [index fund](/index-fund/) should turn slowly, as spectrum ownership is relatively stable. Compare the fund's [expense ratio](/expense-ratio/) against owning the underlying carriers directly, to assess whether the themed focus is adding or subtracting value through fees.

@@ -40,7 +40,7 @@ Recurring revenue comes from employer contracts, which may run for years and are
 
 XWELL's entire growth strategy rests on buying clinics and making them more profitable. The company identifies targets — often independent urgent care chains or small multi-clinic operators who lack the scale to compete against larger health systems — negotiates a purchase, and then integrates them into the XWELL platform. Integration means standardizing operations, negotiating better contracts with insurance companies and pharmacies by leveraging the larger company's scale, sharing management overhead, and in many cases raising prices to patients or insurance companies to reflect the quality of service.
 
-This strategy works when a clinic is truly underperforming or when the owner is looking to exit but the clinic itself has sound fundamentals. It fails when acquisition debt is too high or when integration costs overrun, or when the acquired clinic's revenue doesn't justify the price paid. XWELL's history includes a mix of successful roll-ups and some acquisitions that underperformed, a pattern common to any company that grows by consolidation.
+This strategy works when a clinic is truly underperforming or when the owner is looking to exit but the clinic itself has sound fundamentals. It fails when [acquisition](/acquisition/) debt is too high or when integration costs overrun, or when the acquired clinic's revenue doesn't justify the price paid. XWELL's history includes a mix of successful roll-ups and some acquisitions that underperformed, a pattern common to any company that grows by consolidation.
 
 ## The moat, or the lack of one
 
@@ -52,12 +52,12 @@ The real moat, if one exists, is in the employer contracts. Once a large employe
 
 ## Margins and the cash flow challenge
 
-Urgent care clinics, like most healthcare businesses, operate on thin operating margins. Revenues per patient visit are fixed by insurance reimbursement rates, which move slowly. Labor costs (doctors, nurses, administrative staff) are a large fixed component, and rent is fixed. The path to profitability is to grow volume through high utilization (more patients per day per clinic) and reduce overhead per patient by spreading fixed costs across more visits.
+Urgent care clinics, like most healthcare businesses, operate on thin [operating margins](/operating-margin/). Revenues per patient visit are fixed by insurance reimbursement rates, which move slowly. Labor costs (doctors, nurses, administrative staff) are a large fixed component, and rent is fixed. The path to profitability is to grow volume through high utilization (more patients per day per clinic) and reduce overhead per patient by spreading fixed costs across more visits.
 
 This dynamic creates pressure to keep expanding the clinic network — the stock story often rests on adding new clinics and improving utilization at existing ones. But growth by acquisition requires debt or dilutive equity raises, and then the company has to generate the cash flow to pay that debt while still investing in integration and growth. A downturn in employment or healthcare utilization can hit hard, because most of the cost structure is fixed.
 
 ## What to watch
 
-Investors studying XWELL should look at the number of clinics and the revenue per clinic — this indicates whether the company is able to improve utilization at each location or whether it is stuck grinding out new acquisitions just to grow at all. The occupational health segment's growth matters because contracts are stickier than walk-in volume. Insurance reimbursement rate trends and payor mix (the balance between commercial insurance, government payers, and self-pay) affect pricing power. Cash generation is key — the company needs free cash flow to pay down acquisition debt and fund continued growth.
+Investors studying XWELL should look at the number of clinics and the revenue per clinic — this indicates whether the company is able to improve utilization at each location or whether it is stuck grinding out new acquisitions just to grow at all. The occupational health segment's growth matters because contracts are stickier than walk-in volume. Insurance reimbursement rate trends and payor mix (the balance between commercial insurance, government payers, and self-pay) affect pricing power. Cash generation is key — the company needs [free cash flow](/free-cash-flow/) to pay down acquisition debt and fund continued growth.
 
 The 10-K filing details these metrics and lays out the risk factors the company considers serious. Quarterly earnings calls reveal trends in utilization, margins by segment, and management's views on the competitive environment and the pace of future acquisitions.

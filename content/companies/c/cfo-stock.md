@@ -28,13 +28,13 @@ handwritten: true
 
 ## The core universe: five hundred large-cap stocks
 
-CFO begins with the same starting point as the S&P 500: the 500 largest U.S. companies by market capitalization. Technology, healthcare, financials, industrials, and all other major sectors appear in the eligible universe. The fund does not exclude any company based on valuation, profitability, or sector; it simply starts with the broadest five hundred names. This ensures the fund retains the core diversification benefit of a large-cap index.
+CFO begins with the same starting point as the S&P 500: the 500 largest U.S. companies by [market capitalization](/market-capitalization/). Technology, healthcare, financials, industrials, and all other major sectors appear in the eligible universe. The fund does not exclude any company based on valuation, profitability, or sector; it simply starts with the broadest five hundred names. This ensures the fund retains the core [diversification](/diversification/) benefit of a large-cap index.
 
 ## The volatility-weighting mechanism
 
 Where the fund diverges from a standard market-cap index is in allocation. Instead of weighting each stock by its market value, CFO ranks each stock by its historical price volatility — how much its share price has fluctuated over a rolling period (typically trailing 252 trading days). Stocks that have moved sharply receive higher portfolio weights; stocks that have moved little receive lower weights. A quiet utility stock might see its weight trimmed, while a choppy technology stock gets overweighted, purely on volatility grounds.
 
-The index rebalances quarterly, so weights shift as volatility patterns change. A stock becoming calmer can lose weight; one turning jittery can gain weight. This creates turnover and trading costs that a buy-and-hold market-cap index fund would not incur.
+The index rebalances quarterly, so weights shift as volatility patterns change. A stock becoming calmer can lose weight; one turning jittery can gain weight. This creates turnover and trading costs that a buy-and-hold market-cap [index fund](/index-fund/) would not incur.
 
 ## The thesis and the bet
 
@@ -44,11 +44,11 @@ This is one form of smart-beta investing — a systematic, rules-based departure
 
 ## Costs and tax drag
 
-Quarterly rebalancing introduces trading costs as the fund shifts allocations to reflect changing volatility. These frictions layer on top of the expense ratio and can be material in taxable accounts. The fund may distribute realized capital gains from rebalancing trades, even when the fund's net value has moved little. Holding CFO in a retirement account rather than a taxable brokerage mitigates this drag.
+Quarterly rebalancing introduces trading costs as the fund shifts allocations to reflect changing volatility. These frictions layer on top of the [expense ratio](/expense-ratio/) and can be material in taxable accounts. The fund may distribute realized capital gains from rebalancing trades, even when the fund's net value has moved little. Holding CFO in a retirement account rather than a taxable brokerage mitigates this drag.
 
 ## Broad market exposure with a volatility tilt
 
-Despite the weighting scheme, CFO remains a U.S. large-cap equity fund. It owns hundreds of names, retaining diversification. The volatility tilt is a secondary overlay; the primary driver of returns is still large-cap U.S. equities as a whole. In a bull market for high-volatility growth stocks, the tilt can amplify gains; in a broad downturn, it offers no shelter. The fund's behavior tracks the overall market direction far more than its volatility weighting does.
+Despite the weighting scheme, CFO remains a U.S. large-cap equity fund. It owns hundreds of names, retaining diversification. The volatility tilt is a secondary overlay; the primary driver of returns is still large-cap U.S. equities as a whole. In a [bull market](/bull-market/) for high-volatility growth stocks, the tilt can amplify gains; in a broad downturn, it offers no shelter. The fund's behavior tracks the overall market direction far more than its volatility weighting does.
 
 ## Who holds it and what to watch
 

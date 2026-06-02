@@ -22,7 +22,7 @@ keywords:
 
 ## The Semiconductor Assembly and Test Supply Chain
 
-Semiconductor manufacturing has fragmented into specialized tiers. Large fabless design companies (like Qualcomm or [Broadcom](/avgo-stock/)) design chips but own no factories. Foundries (like Taiwan Semiconductor Manufacturing Company) fabricate wafers. Packaging and testing companies like Chipmos take the fabricated wafers and convert them into finished products. This division of labor allows companies to specialize and scale, but it creates interdependencies: Chipmos' revenue depends entirely on foundries and designers shipping wafers for test and assembly.
+Semiconductor manufacturing has fragmented into specialized tiers. Large fabless design companies (like Qualcomm or [Broadcom](/avgo-stock/)) design chips but own no factories. Foundries (like [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company) fabricate wafers. Packaging and testing companies like Chipmos take the fabricated wafers and convert them into finished products. This division of labor allows companies to specialize and scale, but it creates interdependencies: Chipmos' revenue depends entirely on foundries and designers shipping wafers for test and assembly.
 
 Chipmos operates in the "back-end" of semiconductor manufacturing. A finished semiconductor wafer arrives at its facility containing hundreds or thousands of identical dies (small rectangular chips). Chipmos tests each die—verifies that it performs according to specification—identifies the good ones, and discards failures or sends them for rework. Yield (the percentage of good dies per wafer) directly affects Chipmos' revenue: if yield is 80%, the company collects fees only on 80% of the dies; if it drops to 60%, fees fall proportionally.
 

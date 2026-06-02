@@ -12,7 +12,7 @@ handwritten: true
 
 > Invest where momentum lives, exit where it dies.
 
-That principle animates Ocean Park International ETF. DUKX takes a simple idea—the opportunity to follow the best-performing international stock markets around the world—and pairs it with a mechanical discipline meant to prevent holding too long after the trend breaks. The fund shifts assets among international equity ETFs tracking developed economies and emerging markets, rotating dynamically to pursue strength and avoid prolonged weakness.
+That principle animates Ocean Park [International ETF](/international-etf/). DUKX takes a simple idea—the opportunity to follow the best-performing international [stock markets](/stock-market/) around the world—and pairs it with a mechanical discipline meant to prevent holding too long after the trend breaks. The fund shifts assets among international [equity ETFs](/equity-etf/) tracking developed economies and emerging markets, rotating dynamically to pursue strength and avoid prolonged weakness.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,7 +34,7 @@ This approach treats international markets as a competitive space. Rather than m
 
 ## The costs and the risks
 
-Active international equity management comes at a price—the fund levies an expense ratio to cover the decision-making overhead. That cost is only justified if the trend-following system's exits actually prevent losses deep enough to cover fees and then some. International markets can whipsaw: a sharp reversal can flip signals quickly, potentially locking in losses or missing a recovery that a passive investor would capture by sitting still.
+Active international equity management comes at a price—the fund levies an [expense ratio](/expense-ratio/) to cover the decision-making overhead. That cost is only justified if the trend-following system's exits actually prevent losses deep enough to cover fees and then some. International markets can whipsaw: a sharp reversal can flip signals quickly, potentially locking in losses or missing a recovery that a passive investor would capture by sitting still.
 
 Currency fluctuations add another layer of complexity. International equity exposure carries inherent foreign exchange risk, though the underlying ETFs handle currency exposure in their own ways—some unhedged, some hedged. DUKX itself does not hedge, so an investor is exposed both to stock market moves and to the dollar's strength or weakness relative to other currencies.
 
@@ -42,6 +42,6 @@ Liquidity in international ETFs can be thinner than in US-market funds, especial
 
 ## Who DUKX is for, and how to monitor it
 
-DUKX suits investors who want international diversification but are uncomfortable with a static allocation—those who prefer a system that responds to market conditions rather than one that requires them to rebalance manually. It is not for buy-and-hold purists or those in taxable accounts where capital-gains distributions are a major concern.
+DUKX suits investors who want international [diversification](/diversification/) but are uncomfortable with a static allocation—those who prefer a system that responds to market conditions rather than one that requires them to rebalance manually. It is not for buy-and-hold purists or those in taxable accounts where capital-gains distributions are a major concern.
 
-Monitoring the fund means checking the composition of underlying holdings each quarter to see whether the system is truly in motion or has been whipsawed into cash. Compare the fund's downside capture during international equity bear markets against a static international index—if the trend-following system actually delivers on its promise of limiting losses, that edge should be visible. The annual tax bill is also worth reviewing. Over longer holding periods, the cumulative cost of active management must justify itself against simpler passive international index funds.
+Monitoring the fund means checking the composition of underlying holdings each quarter to see whether the system is truly in motion or has been whipsawed into cash. Compare the fund's downside capture during international equity [bear markets](/bear-market/) against a static international index—if the trend-following system actually delivers on its promise of limiting losses, that edge should be visible. The annual tax bill is also worth reviewing. Over longer [holding periods](/holding-period/), the cumulative cost of active management must justify itself against simpler passive international [index funds](/index-fund/).

@@ -55,7 +55,7 @@ The biggest risk is cruise-ship demand. Cruise lines expand and contract their f
 
 Labor supply is another persistent challenge. The spa and fitness staff that ONESPAWORLD recruits work at wages that are competitive in their home countries. Recruitment, retention, and training of massage therapists, fitness trainers, and spa managers across multiple countries and ship locations is operationally complex. Turnover, visa restrictions, and wages rising in source countries all squeeze margins.
 
-[Currency risk](/currency-risk/) matters too. If ONESPAWORLD earns revenue in euros and U.S. dollars, but pays staff in multiple currencies, a shift in exchange rates can hurt profitability even if underlying operations are stable.
+[Currency risk](/currency-risk/) matters too. If ONESPAWORLD earns revenue in euros and [U.S. dollars](/us-dollar/), but pays staff in multiple currencies, a shift in exchange rates can hurt profitability even if underlying operations are stable.
 
 The wellness market itself is crowded and competitive. Land-based spas operate in a transparent, competitive market where pricing is visible and differentiation is difficult. ONESPAWORLD's main advantage in that segment is its scale and its ability to manage operations across multiple properties, but it is not protected by structural moats like a cruise line's fleet or a resort's location.
 

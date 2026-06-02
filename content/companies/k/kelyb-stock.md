@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Kelly Services operates one of the largest staffing and workforce solutions networks in the United States and internationally. The company makes its money by placing workers with employers — both temporary assignments and permanent placements — taking a cut from the fees employers pay or the markup on worker wages. It is regulated by labor laws in every jurisdiction it serves, which both protects it (competitors face the same rules) and constrains it (regulations can shift the cost structure).
+[Kelly Services](/kelya-stock/) operates one of the largest staffing and workforce solutions networks in the United States and internationally. The company makes its money by placing workers with employers — both temporary assignments and permanent placements — taking a cut from the fees employers pay or the markup on worker wages. It is regulated by labor laws in every jurisdiction it serves, which both protects it (competitors face the same rules) and constrains it (regulations can shift the cost structure).
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ Kelly Services operates one of the largest staffing and workforce solutions netw
 
 Kelly Services' work is straightforward on the surface: a company needs workers, Kelly finds and hires them, places them at the client, and earns money from the transaction. For temporary workers, Kelly typically charges the employer a percentage of the worker's wage — often 20 to 30 percent markup depending on the role and market. For permanent placements, the company earns a one-time fee, often tied to the hired worker's first-year salary. The cash moves fast: workers are paid from Kelly's payroll, and employers reimburse Kelly, creating a churn of money through the business daily.
 
-The company operates across multiple segments. Its core Americas segment handles the bulk of placements — light industrial, administrative, technical roles, and nursing — in the United States, Canada, and Latin America. A separate EMEA (Europe, Middle East, Africa) segment runs similar operations internationally. A smaller professional services and staffing has grown through acquisition and organic expansion.
+The company operates across multiple segments. Its core Americas segment handles the bulk of placements — light industrial, administrative, technical roles, and nursing — in the United States, Canada, and Latin America. A separate EMEA (Europe, Middle East, Africa) segment runs similar operations internationally. A smaller professional services and staffing has grown through [acquisition](/acquisition/) and organic expansion.
 
 ## What makes staffing a durable business
 
@@ -55,4 +55,4 @@ Yet Kelly remains viable because the core value proposition — handling the com
 
 Anyone evaluating Kelly should review its annual 10-K filing (SEC CIK 0000055135) for the breakdown of revenue by segment and geography, margins by segment, and commentary on pricing trends and cost pressures. Key metrics include the revenue-per-worker-per-year (indicating pricing and productivity), the gross margin trend (showing whether Kelly is winning or losing price wars), and turnover among large clients (a sign of competitive weakness or strength).
 
-Staffing companies are also highly sensitive to the labor market. Watch the unemployment rate and average wages: when unemployment falls and wage inflation rises, employers hire permanent staff directly, hurting temporary-staffing demand and increasing the wages Kelly must pay to attract workers, squeezing margins. Conversely, in a downturn, temporary staffing demand can spike, but pricing pressure intensifies. The quarterly earnings calls reveal which segments are growing and where management sees strength and weakness.
+Staffing companies are also highly sensitive to the labor market. Watch the [unemployment rate](/unemployment-rate/) and average wages: when unemployment falls and wage [inflation](/inflation/) rises, employers hire permanent staff directly, hurting temporary-staffing demand and increasing the wages Kelly must pay to attract workers, squeezing margins. Conversely, in a downturn, temporary staffing demand can spike, but pricing pressure intensifies. The quarterly earnings calls reveal which segments are growing and where management sees strength and weakness.

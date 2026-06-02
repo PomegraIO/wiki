@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Creative Media & Community Trust Corp is a real estate investment trust — a company that owns and leases commercial properties and is required by law to distribute most of its income to shareholders. The trust concentrates specifically on single-tenant properties leased to entertainment and media companies: movie theatres, entertainment venues, and media production facilities. It competes in a narrow but well-defined segment of the REIT market: producing income from properties in a sector that other investors often avoid because of volatility.
+Creative Media & Community Trust Corp is a [real estate investment trust](/real-estate-investment-trust/) — a company that owns and leases commercial properties and is required by law to distribute most of its income to shareholders. The trust concentrates specifically on single-tenant properties leased to entertainment and media companies: movie theatres, entertainment venues, and media production facilities. It competes in a narrow but well-defined segment of the REIT market: producing income from properties in a sector that other investors often avoid because of volatility.
 
 <aside class="wiki-infobox">
 <table>
@@ -30,7 +30,7 @@ Creative Media & Community Trust Corp is a real estate investment trust — a co
 
 ## The covenant: what a REIT trades for its tax benefit
 
-A real estate investment trust is an investment structure, not a real estate strategy. The tax code permits a REIT to pass through its income to shareholders without paying corporate tax, provided the trust owns primarily real estate assets and distributes at least 90 percent of its taxable income as dividends. In return, the trust sacrifices the ability to retain earnings and reinvest them — all surplus capital must go out the door as distributions. This makes REITs excellent vehicles for producing cash income to shareholders, but poor vehicles for capital growth.
+A real estate investment trust is an investment structure, not a real estate strategy. The tax code permits a REIT to pass through its income to shareholders without paying corporate tax, provided the trust owns primarily real estate assets and distributes at least 90 percent of its taxable income as [dividends](/dividend/). In return, the trust sacrifices the ability to retain earnings and reinvest them — all surplus capital must go out the door as distributions. This makes REITs excellent vehicles for producing cash income to shareholders, but poor vehicles for capital growth.
 
 This bargain shapes every strategic choice a REIT makes. A REIT cannot afford to own properties that are capital-intensive to maintain, because the cost cuts into distributions. It cannot afford to own properties that require years of development before generating income. And it cannot afford significant tenant vacancy or turnover, because lost rental income directly reduces distributions. REITs therefore tend to own stable, income-producing properties with long leases to creditworthy tenants.
 
@@ -42,7 +42,7 @@ The answer is simple: other investors avoid the entertainment real estate sector
 
 This is competition by sector selection. General REITs like Realty Income own thousands of properties across multiple industries: fast-food franchises, pharmacies, gas stations, industrial warehouses. Their tenants are diverse; if one industry struggles, others stabilize the overall income stream. Specialized REITs like Creative Media own fewer properties, but aim to extract higher yields from them because those properties are in sectors others avoid.
 
-The tradeoff is stark: higher yield in exchange for concentration risk. Creative Media's investors get larger distributions per dollar invested, but those distributions are more vulnerable to disruption in the entertainment sector. A decade of streaming growth decimated the theatre business. A pandemic can shut down all entertainment venues at once. A competitor with more diversified holdings can weather these shocks; Creative Media cannot, so its dividend must be higher to compensate investors for the additional risk.
+The tradeoff is stark: higher yield in exchange for [concentration risk](/concentration-risk/). Creative Media's investors get larger distributions per dollar invested, but those distributions are more vulnerable to disruption in the entertainment sector. A decade of streaming growth decimated the theatre business. A pandemic can shut down all entertainment venues at once. A competitor with more diversified holdings can weather these shocks; Creative Media cannot, so its dividend must be higher to compensate investors for the additional risk.
 
 ## The tenant problem and the capital trap
 
@@ -60,7 +60,7 @@ The mathematics of that trade depends on whether Creative Media's tenants actual
 
 ## How to research Creative Media as an investment
 
-Creative Media's quarterly and annual filings with the SEC (CIK 0000908311) detail the properties owned, the tenants occupying them, lease expiration dates, and rental income. Watch the occupancy rate (percentage of properties generating rent) and any tenant defaults or lease renegotiations. These are the metrics that predict future distributions.
+Creative Media's quarterly and annual filings with the SEC (CIK 0000908311) detail the properties owned, the tenants occupying them, lease [expiration dates](/expiration-contracts/), and rental income. Watch the occupancy rate (percentage of properties generating rent) and any tenant defaults or lease renegotiations. These are the metrics that predict future distributions.
 
 Pay particular attention to upcoming lease expirations. If a long-held lease is ending, will the tenant renew at current rates, renew at lower rates, or vacate? The answer determines whether Creative Media's income is stable or declining. Also track the broader entertainment sector — theatre attendance trends, streaming adoption rates, the health of concert venues and event spaces. Creative Media's dividend is a direct function of whether its tenants can keep paying.
 

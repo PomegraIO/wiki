@@ -67,7 +67,7 @@ Sugi faces several risks. The first is competition from other drugstore chains. 
 
 The second is the shift to online shopping. As more people buy medicines and cosmetics online, foot traffic to physical stores declines. Sugi has to invest in its own online platform and delivery capabilities to keep up. Those investments are expensive and less profitable than retail.
 
-A third risk is deflation or pricing pressure. In a low-inflation or deflationary environment, it is hard to raise prices, so margins can shrink unless Sugi can reduce its own costs. Japan has had periods of low inflation, which is tough for retailers.
+A third risk is [deflation](/deflation/) or pricing pressure. In a low-inflation or deflationary environment, it is hard to raise prices, so margins can shrink unless Sugi can reduce its own costs. Japan has had periods of low [inflation](/inflation/), which is tough for retailers.
 
 The fourth risk is the health of the Japanese economy and consumer spending. If people have less discretionary income, they might cut back on non-essential health items or cosmetics. Sugi would see lower traffic and transaction size.
 
@@ -75,10 +75,10 @@ Regulation also matters. The government controls what medicines can be sold over
 
 ## How to research Sugi Holdings
 
-Start with Sugi's annual report and SEC filings (CIK 0002027330). The report shows revenue, the breakdown by store count and format, and margins. Watch the same-store sales trend: if existing stores are growing in sales year over year, that is a good sign. If same-store sales are flat or declining, the business is under pressure.
+Start with Sugi's [annual report](/10-k/) and SEC filings (CIK 0002027330). The report shows revenue, the breakdown by store count and format, and margins. Watch the same-store sales trend: if existing stores are growing in sales year over year, that is a good sign. If same-store sales are flat or declining, the business is under pressure.
 
 Look at the number of stores Sugi is opening or closing. Are they expanding into new areas, or shrinking their footprint? Expansion suggests confidence; shrinkage suggests the company is struggling.
 
-Pay attention to gross margins and operating margins. If margins are stable, Sugi is managing suppliers and keeping costs in line. If margins are declining, Sugi is either being pressured by competitors or unable to manage costs—both bad signs.
+Pay attention to gross margins and [operating margins](/operating-margin/). If margins are stable, Sugi is managing suppliers and keeping costs in line. If margins are declining, Sugi is either being pressured by competitors or unable to manage costs—both bad signs.
 
 Track online and delivery sales as a percentage of total revenue. This shows how well Sugi is adapting to e-commerce. If online is growing but from a small base, Sugi is catching up but has a long way to go. Finally, watch consumer-spending trends in Japan. A stronger yen makes imported goods cheaper, which affects cosmetics and personal-care categories. Consumer confidence, employment, and wage growth all influence how much people spend at drugstores.

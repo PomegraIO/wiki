@@ -42,7 +42,7 @@ The 2018 cryptocurrency crash wiped out much of that demand overnight. Mining op
 
 ## Pivot to data center infrastructure
 
-The challenge forced a strategic pivot. Bitmine recognized that while cryptocurrency mining was a perfect early customer — highly motivated by cost savings and willing to adopt novel solutions — the market was too cyclical to build a sustainable business around. The longer-term opportunity was [hyperscale data](/gpus-stock/) centers: facilities operated by cloud providers like Amazon, [Microsoft](/msft-stock/), and Google that serve millions of users and require enormous amounts of computing capacity.
+The challenge forced a strategic pivot. Bitmine recognized that while cryptocurrency mining was a perfect early customer — highly motivated by cost savings and willing to adopt novel solutions — the market was too cyclical to build a sustainable business around. The longer-term opportunity was hyperscale data centers: facilities operated by cloud providers like Amazon, [Microsoft](/msft-stock/), and Google that serve millions of users and require enormous amounts of computing capacity.
 
 Hyperscale data centers face the same cooling problem that mining facilities do: as computing density increases, air cooling becomes inefficient. But the scale is vastly larger, the capital commitments are substantial, and the decision cycles are much longer. A hyperscale operator is not going to rip out an entire cooling architecture based on a startup's promise. It will run pilots, test reliability over months or years, and only then commit to a full deployment. This is a harder sell but a far more stable business once won.
 

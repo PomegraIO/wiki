@@ -14,7 +14,7 @@ Direxion Daily QCOM Bull 2X (QCMU) is a leveraged exchange-traded fund that aims
 
 ## What QCMU tracks
 
-QCMU follows Qualcomm's common stock (QCOM, trading on NASDAQ). The fund uses leverage — financial borrowing and derivatives — to amplify daily moves. When QCOM rises 1% in a day, QCMU aims for a 2% gain; when QCOM falls 1%, QCMU targets a 2% loss. That amplification happens afresh each trading day, then resets at market close.
+QCMU follows Qualcomm's [common stock](/common-stock/) (QCOM, trading on [NASDAQ](/nasdaq/)). The fund uses leverage — financial borrowing and derivatives — to amplify daily moves. When QCOM rises 1% in a day, QCMU aims for a 2% gain; when QCOM falls 1%, QCMU targets a 2% loss. That amplification happens afresh each trading day, then resets at market close.
 
 Qualcomm itself designs semiconductors and wireless technologies. It licenses its intellectual property and fabless designs to handset makers, wireless carriers, and infrastructure companies worldwide. The company's core value moves with smartphone adoption, 5G rollout, and semiconductor supply cycles. QCMU's value moves with Qualcomm's value, only faster and only on daily timescales.
 
@@ -28,7 +28,7 @@ This decay accelerates in volatile markets. A flat-to-slightly-positive year for
 
 ## Costs and how it trades
 
-QCMU has a gross expense ratio (the fund charges to operate) that Direxion publishes in the prospectus and fact sheet. Like any liquid ETF, it trades on the stock exchange during market hours at prices set by supply and demand. The fund typically has tight spreads — the gap between the bid and ask price — because it holds only liquid, widely-traded instruments and Direxion maintains active creations and redemptions.
+QCMU has a gross [expense ratio](/expense-ratio/) (the fund charges to operate) that Direxion publishes in the prospectus and fact sheet. Like any liquid ETF, it trades on the [stock exchange](/stock-exchange/) during market hours at prices set by supply and demand. The fund typically has tight spreads — the gap between the bid and ask price — because it holds only liquid, widely-traded instruments and Direxion maintains active creations and redemptions.
 
 The real cost of holding QCMU over time is not just the expense ratio but also the volatility decay built into daily rebalancing. A small number of traders use QCMU to hedge or to gain short-term exposure to a sharp Qualcomm move. Most long-term investors should avoid it; the math works against them.
 
@@ -36,4 +36,4 @@ The real cost of holding QCMU over time is not just the expense ratio but also t
 
 QCMU attracts three kinds of users: traders hedging a short position in Qualcomm and wanting amplified downside protection if the stock rises; tactical traders betting on a near-term spike in QCOM; and occasionally, investors confused about daily reset who expect to compound gains over quarters. That third group is the audience most likely to be surprised by underperformance.
 
-The prospectus and fact sheet on Direxion's website lay out the mechanics and past performance (though past performance does not predict future results). Any serious user of a daily-reset leveraged ETF should read the fund's actual documents, understand the reset cost, and have a clear thesis for a short holding period. QCMU is effective for what it does — precisely tracking twice Qualcomm's move each day — but that precision is valuable only to investors who understand the cost and have a specific reason to own it.
+The prospectus and fact sheet on Direxion's website lay out the mechanics and past performance (though past performance does not predict future results). Any serious user of a daily-reset [leveraged ETF](/leveraged-etf/) should read the fund's actual documents, understand the reset cost, and have a clear thesis for a short [holding period](/holding-period/). QCMU is effective for what it does — precisely tracking twice Qualcomm's move each day — but that precision is valuable only to investors who understand the cost and have a specific reason to own it.

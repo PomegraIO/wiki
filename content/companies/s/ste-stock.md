@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-STERIS is a global manufacturer of sterilization equipment, infection-prevention products, and surgical instruments used in hospitals, surgical centers, research facilities, and pharmaceutical manufacturing plants. The company's core mission is to help healthcare providers and life-sciences organizations prevent infection, control contamination, and maintain sterile environments where they are absolutely critical. STERIS operates across three distinct business segments: a products business that sells sterilization equipment and instruments, a [healthcare services](/hcsg-stock/) business that provides sterilization and instrument-reprocessing services to hospitals and surgical centers, and a life-sciences business selling consumables and services to pharmaceutical and biotech manufacturers.
+STERIS is a global manufacturer of sterilization equipment, infection-prevention products, and surgical instruments used in hospitals, surgical centers, research facilities, and pharmaceutical manufacturing plants. The company's core mission is to help healthcare providers and life-sciences organizations prevent infection, control contamination, and maintain sterile environments where they are absolutely critical. STERIS operates across three distinct business segments: a products business that sells sterilization equipment and instruments, a healthcare services business that provides sterilization and instrument-reprocessing services to hospitals and surgical centers, and a life-sciences business selling consumables and services to pharmaceutical and biotech manufacturers.
 
 <aside class="wiki-infobox">
 <table>

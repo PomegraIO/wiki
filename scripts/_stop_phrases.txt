@@ -1,0 +1,237 @@
+# Generic phrases that coincide with a company name — never auto-link.
+# Built by the audit-company-link-phrases workflow (262 raw -> deduped).
+21shares hyperliquid etf
+21shares' xrp etf
+3d systems
+ai era
+alignment (healthcare
+alkaline water
+alpha star acquisition
+alpha — investment
+american assets
+american electric power
+american financial
+american healthcare
+american water works
+amplify commodity
+annaly capital management
+apple hospitality
+arbor realty
+ares capital
+array digital infrastructure
+aspac ii acquisition
+associated banc-corp
+bank, first
+bank—first
+barrel, energy
+berto acquisition
+cell source
+chatham lodging
+co2 energy transition
+cohen
+cohen &
+collective acquisition
+commercial vehicle
+compass digital acquisition
+compass diversified
+concord acquisition corp ii
+connectm technology solutions
+constellation acquisition corp i
+construction partners
+consumers energy
+core ai
+crawford
+critical metals
+cvd equipment
+data storage
+data. storage
+defi development
+digital asset acquisition
+direct digital
+direct/digital
+diversified energy
+diversified healthcare
+domino's, pizza
+drugs made in america acquisition ii
+dt cloud star acquisition
+eco science solutions
+egh acquisition
+ellington financial
+embrace change acquisition
+energy fuels
+energy recovery
+energy transfer
+energy, recovery
+enterprise financial services
+epr properties
+equity residential
+essential utilities
+eureka acquisition
+fact ii acquisition
+fast track
+fg merger ii
+fifth era acquisition corp i
+financial institutions
+first, capital
+flag ship acquisition
+future vision ii acquisition
+gladstone capital
+globa terra acquisition
+global asset management
+global gas
+global industrial
+global leaders
+global payments
+gold fields
+goldenstone acquisition
+gp-act iii acquisition
+gsr iv acquisition
+hall chadwick acquisition
+harvard ave acquisition
+healthcare services
+hennessy capital investment corp. vii
+heritage, global
+highland opportunities & income
+horizon space acquisition i
+horizon space acquisition ii
+horizon technology finance
+hyperscale data
+ib acquisition
+impact analytics
+inception growth acquisition
+independent bank
+inflection point acquisition corp. iii
+information services
+inland real estate income
+innovative eyewear
+innovative industrial properties
+inpoint commercial real estate income
+integrated biopharma
+inter
+international media acquisition
+invesco mortgage capital
+invesco municipal
+ip strategy
+israel acquisitions
+ix acquisition
+jackson financial
+jfb construction
+keen vision acquisition
+kkr real estate finance
+ladder — capital
+lafayette acquisition
+lakeshore acquisition iii
+launch two acquisition
+legacy education
+legacy housing
+legato merger corp. iii
+loan artificial intelligence
+longevity health
+ltc properties
+m3-brigade acquisition v
+magnum (ice cream
+marine products
+medical properties
+merchants bancorp
+metal sky star acquisition
+metals royalty
+mfa financial
+midcap financial investment
+miluna acquisition
+mixed martial arts
+mobile infrastructure
+modular medical
+mountain crest acquisition corp. v
+mountain lake acquisition
+msp recovery
+music licensing
+music, licensing
+national bank
+national grid
+national healthcare
+national healthcare properties
+natural resource
+nature's miracle
+new momentum
+new providence acquisition corp. iii/cayman
+new zealand energy
+newbridge acquisition
+next technology
+noodles
+northfield, capital
+ofs capital
+ofs credit
+on semiconductor
+oncology institute
+or royalties
+oxford square capital
+oxley bridge acquisition
+pacific airport
+performance. shipping
+permian basin royalty
+piermont valley acquisition
+platinum group metals
+plum acquisition corp, iv
+plum acquisition corp. iii
+pop culture
+precision optics
+premium brands
+principal real asset
+priority income
+priority technology
+procap acquisition
+prospect capital
+public policy
+qdro acquisition
+quantum computing
+quantumsphere acquisition
+quetta acquisition
+range capital acquisition
+ready capital
+realty income
+region's financial
+regional health properties
+regional management
+regions financial
+renatus tactical acquisition corp i
+rf acquisition corp ii
+rise, gold
+rising dragon acquisition
+rivernorth/doubleline strategic opportunity
+roman dbdr acquisition corp. ii
+royalty management
+safety, insurance
+safety. insurance
+service properties
+silver pegasus acquisition
+sim acquisition corp. i
+sky acquisition
+soulpower acquisition
+spark i acquisition
+spdr s&p 500 etf
+special opportunities
+spring valley acquisition corp. iii
+stonebridge acquisition ii
+tavia acquisition
+technology & telecommunication acquisition
+texas ventures acquisition iii
+thesis. gold
+titan acquisition
+tlgy acquisition
+tmc the metals
+translational development acquisition
+travel). leisure
+travel, leisure
+u.s. energy
+u.s. nuclear
+united states commodity index funds
+united states oil
+united states, natural gas
+united states. oil
+us energy
+us nuclear
+waste management
+wearable devices
+world gold
+x financial
+zooz strategy

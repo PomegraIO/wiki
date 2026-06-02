@@ -11,21 +11,21 @@ keywords:
 handwritten: true
 ---
 
-The Fidelity Ethereum Fund (ticker FETH, SEC CIK 0002000046) is a spot Ethereum exchange-traded fund that trades on traditional stock exchanges and offers investors exposure to Ethereum's price performance without the need to hold Ethereum directly or manage cryptographic keys. Launched in mid-2024, alongside a suite of other Fidelity crypto ETFs, the fund represents Fidelity Investments' entry into regulated, SEC-approved cryptocurrency products and reflects the same logic that drove BlackRock's Bitcoin ETF: institutional and retail investors increasingly want cryptocurrency exposure, but prefer a familiar, custody-protected, tax-efficient vehicle integrated into traditional brokerage accounts rather than managing private keys and wallets.
+The Fidelity [Ethereum](/ethereum/) Fund (ticker FETH, SEC CIK 0002000046) is a spot Ethereum exchange-traded fund that trades on traditional [stock exchanges](/stock-exchange/) and offers investors exposure to Ethereum's price performance without the need to hold Ethereum directly or manage cryptographic keys. Launched in mid-2024, alongside a suite of other Fidelity crypto ETFs, the fund represents [Fidelity Investments](/fidelity-investments/)' entry into regulated, SEC-approved cryptocurrency products and reflects the same logic that drove BlackRock's [Bitcoin](/bitcoin/) ETF: institutional and retail investors increasingly want cryptocurrency exposure, but prefer a familiar, custody-protected, tax-efficient vehicle integrated into traditional brokerage accounts rather than managing private keys and wallets.
 
 Ethereum is the second-largest cryptocurrency by market value. Whereas Bitcoin is primarily a digital currency and store of value, Ethereum is a programmable blockchain platform — a foundation for decentralized applications, smart contracts, and other digital systems built atop its network. Fidelity's decision to launch an Ethereum ETF alongside its Bitcoin offering signals confidence that Ethereum has achieved sufficient regulatory clarity and institutional acceptance to merit the same fund structure reserved for established asset classes.
 
 ## Market structure: spot versus derivatives
 
-FETH is a spot Ethereum fund, meaning it holds actual Ethereum tokens in custody rather than tracking Ethereum through futures contracts or other derivatives. When an investor buys shares of FETH, they own a fractional claim on Ethereum held in qualified custody. The fund's value per share tracks Ethereum's market price minus a management fee.
+FETH is a spot Ethereum fund, meaning it holds actual Ethereum tokens in custody rather than tracking Ethereum through [futures contracts](/futures-contract/) or other derivatives. When an investor buys shares of FETH, they own a fractional claim on Ethereum held in qualified custody. The fund's value per share tracks Ethereum's market price minus a [management fee](/management-fee/).
 
-This is mechanically identical to the iShares Bitcoin Trust ETF structure: the fund purchases and holds the asset, custody is provided by qualified third parties, and the share price moves with the underlying cryptocurrency's market value. The fund does not synthetically replicate Ethereum's price through leverage, options, or futures; it holds the thing itself.
+This is mechanically identical to the [iShares Bitcoin Trust ETF](/ibit-stock/) structure: the fund purchases and holds the asset, custody is provided by qualified third parties, and the share price moves with the underlying cryptocurrency's market value. The fund does not synthetically replicate Ethereum's price through leverage, options, or futures; it holds the thing itself.
 
-Ethereum's technical structure is more complex than Bitcoin's. Bitcoin is a single, immutable ledger that records transactions. Ethereum, by contrast, is a platform that executes code — smart contracts — on a shared, decentralized computer. This complexity means Ethereum nodes do more computational work than Bitcoin nodes, and the network's properties can shift with protocol upgrades. From a custody and fund management perspective, however, the distinction is immaterial: a qualified custodian stores the Ethereum tokens, securing the cryptographic keys according to institutional standards, and the fund sponsor (in this case, Fidelity) holds no direct custody risk.
+Ethereum's technical structure is more complex than Bitcoin's. Bitcoin is a single, immutable ledger that records transactions. Ethereum, by contrast, is a platform that executes code — smart contracts — on a shared, decentralized computer. This complexity means Ethereum nodes do more computational work than Bitcoin nodes, and the network's properties can shift with protocol upgrades. From a custody and fund management perspective, however, the distinction is immaterial: a qualified [custodian](/custodian/) stores the Ethereum tokens, securing the cryptographic keys according to institutional standards, and the fund sponsor (in this case, Fidelity) holds no direct custody risk.
 
 ## Fidelity's role and the institutional angle
 
-Fidelity Investments is a private asset management firm managing trillions of dollars across retirement accounts, investment funds, brokerage accounts, and institutional mandates. Unlike BlackRock (a public company), Fidelity is private and closely held, which gives it a different strategic posture. Fidelity has long positioned itself as a full-service financial provider — investment funds, trading platforms, wealth advisory, retirement services — and the firm has been moving gradually into cryptocurrency for several years.
+Fidelity Investments is a private asset management firm managing trillions of dollars across retirement accounts, investment funds, brokerage accounts, and institutional mandates. Unlike [BlackRock](/blk-stock/) (a public company), Fidelity is private and closely held, which gives it a different strategic posture. Fidelity has long positioned itself as a full-service financial provider — investment funds, trading platforms, wealth advisory, retirement services — and the firm has been moving gradually into cryptocurrency for several years.
 
 Fidelity's entry into spot Ethereum ETFs is driven by client demand and competitive necessity. Large institutions are now allocating a portion of portfolios to cryptocurrency, and Fidelity cannot afford to be absent from that conversation. FETH allows Fidelity to serve those clients within a familiar, regulated, tax-efficient vehicle tied to Fidelity brokerage accounts.
 
@@ -41,11 +41,11 @@ Fidelity has competitive pressure to keep FETH's fee competitive with other spot
 
 ## Ethereum's revenue and utility pressures
 
-Unlike stocks, Ethereum does not generate earnings or dividends. The value of Ethereum — and therefore of FETH shares — depends entirely on what future investors are willing to pay for it. Ethereum's usefulness, network effects, and scarcity drive that willingness to pay.
+Unlike stocks, Ethereum does not generate earnings or [dividends](/dividend/). The value of Ethereum — and therefore of FETH shares — depends entirely on what future investors are willing to pay for it. Ethereum's usefulness, network effects, and scarcity drive that willingness to pay.
 
 Ethereum's utility comes from its role as the blockchain platform for smart contracts and decentralized applications. When applications and users find value on Ethereum, they must hold Ethereum to pay transaction fees, which creates demand for the token. Competition, however, is real: other blockchains (Solana, Polygon, Avalanche) offer similar functionality, sometimes with lower fees or faster processing. Ethereum has the largest network of developers and applications, which is a moat, but not an unbreakable one.
 
-Ethereum's supply is also relevant. Unlike Bitcoin, which has a fixed maximum supply of 21 million coins, Ethereum's supply has no absolute cap — new Ethereum is continuously issued as validator rewards. This inflation, though modest relative to historical rates, means Ethereum holders face perpetual dilution unless demand for Ethereum grows faster than supply increases.
+Ethereum's supply is also relevant. Unlike Bitcoin, which has a fixed maximum supply of 21 million coins, Ethereum's supply has no absolute cap — new Ethereum is continuously issued as validator rewards. This [inflation](/inflation/), though modest relative to historical rates, means Ethereum holders face perpetual dilution unless demand for Ethereum grows faster than supply increases.
 
 ## Volatility, regulatory risk, and structural limits
 
@@ -53,7 +53,7 @@ Ethereum's price volatility is substantial. FETH shares will experience price sw
 
 Regulatory risk is also material. While the SEC has approved spot Bitcoin and Ethereum ETFs, regulators could in theory impose restrictions on cryptocurrency trading, impose tax-reporting requirements that shift the economics, or decide to regulate Ethereum as a security (a designation that would be legally contentious and market-disruptive). Such developments seem unlikely given current political winds, but they are not impossible.
 
-Finally, FETH, like any ETF, can experience trading spreads and bid-ask deviations from Net Asset Value. The fund's liquidity depends on trading volume; a fund managing very large assets will typically tighten spreads more than a fund managing smaller amounts. Monitor FETH's trading volumes and spreads if you plan to buy or sell large positions.
+Finally, FETH, like any ETF, can experience trading spreads and bid-ask deviations from [Net Asset Value](/net-asset-value/). The fund's liquidity depends on trading volume; a fund managing very large assets will typically tighten spreads more than a fund managing smaller amounts. Monitor FETH's trading volumes and spreads if you plan to buy or sell large positions.
 
 ## How to research FETH as an investment
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Rockwool A/S is a building materials and insulation company headquartered in Denmark, publicly traded on US markets through American depositary receipts (RKWBF). The company manufactures mineral wool insulation and fire-protection products used in building construction, industrial piping, and other applications where thermal insulation or fire safety is required. Over more than a century, Rockwool has evolved from a regional Danish producer into a global supplier, competing on product quality, brand reputation, and geographic manufacturing reach. The company's moat rests on durable factors: manufacturing expertise, established distribution channels, and the high switching costs inherent in specifying building materials.
+Rockwool A/S is a building materials and insulation company headquartered in Denmark, publicly traded on US markets through [American depositary receipts](/adr/) (RKWBF). The company manufactures mineral wool insulation and fire-protection products used in building construction, industrial piping, and other applications where thermal insulation or fire safety is required. Over more than a century, Rockwool has evolved from a regional Danish producer into a global supplier, competing on product quality, brand reputation, and geographic manufacturing reach. The company's moat rests on durable factors: manufacturing expertise, established distribution channels, and the high switching costs inherent in specifying building materials.
 
 ## Founding and growth into the twentieth century
 
@@ -49,7 +49,7 @@ In many developed countries, building codes increasingly mandate insulation for 
 
 Rockwool's margins are under pressure from competition and from input-cost volatility. The company's primary raw materials — stone, binders, and energy for the kilns — are subject to price fluctuation. When energy prices spike (as happened during the 2021-2023 period in Europe), manufacturing costs rise, and if the company cannot immediately pass costs through to customers, margins compress. Large customers (homebuilders, construction companies, contractors) have leverage to negotiate prices, and they often do.
 
-The competitive field is dominated by large building-materials conglomerates and by regional players. Saint-Gobain, Owens Corning, Knauf, and others all manufacture insulation. Many are larger than Rockwool and have more diversified product portfolios, which gives them bargaining power with distributors and customers. Rockwool's competitive position is solid — it is a top-tier player in mineral wool — but it is not a unique or unreplicable position. A company could theoretically build insulation plants and capture share if it had capital and patience.
+The competitive field is dominated by large building-materials conglomerates and by regional players. Saint-Gobain, [Owens Corning](/oc-stock/), Knauf, and others all manufacture insulation. Many are larger than Rockwool and have more diversified product portfolios, which gives them bargaining power with distributors and customers. Rockwool's competitive position is solid — it is a top-tier player in mineral wool — but it is not a unique or unreplicable position. A company could theoretically build insulation plants and capture share if it had capital and patience.
 
 ## Sustainability and the energy transition
 
@@ -59,12 +59,12 @@ The company also faces pressure to reduce its own carbon footprint in manufactur
 
 ## History to the present: from family business to public company
 
-Rockwool remained largely family-controlled through much of its history, which gave it stable ownership and long-term thinking. The company went public in the early 2000s, and shares traded on the Copenhagen Stock Exchange and later on US exchanges through ADRs. This public-market structure has brought greater capital-raising ability but also short-term earnings pressure from equity investors.
+Rockwool remained largely family-controlled through much of its history, which gave it stable ownership and long-term thinking. The company went public in the early 2000s, and shares traded on the Copenhagen [Stock Exchange](/stock-exchange/) and later on US exchanges through ADRs. This public-market structure has brought greater capital-raising ability but also short-term earnings pressure from equity investors.
 
 The company has remained focused on its core business — mineral wool insulation and related products — rather than diversifying aggressively. This focus is strength and a weakness: strength because the company can build genuine expertise and scale in its segment; weakness because it is not diversified against cyclical downturns in construction.
 
 ## How to research Rockwool
 
-The company's annual SEC filings (CIK 0001969729) and investor relations materials provide detailed financial and operational information. The 10-K breaks down revenue by geographic region and segment, shows manufacturing capacity utilization, and discusses pricing and cost trends. Watch for gross-margin trends, which reflect both demand (price power) and cost inflation. Track capital expenditure, which reveals whether the company is investing in new plants or primarily maintaining existing ones.
+The company's annual SEC filings (CIK 0001969729) and investor relations materials provide detailed financial and operational information. The 10-K breaks down revenue by geographic region and segment, shows manufacturing capacity utilization, and discusses pricing and cost trends. Watch for gross-margin trends, which reflect both demand (price power) and cost [inflation](/inflation/). Track capital expenditure, which reveals whether the company is investing in new plants or primarily maintaining existing ones.
 
 Monitor building construction data in key markets — Rockwool's revenue is driven by construction volume in Europe and North America, so understanding regional construction cycles is essential. Compare Rockwool's margins and return on capital to competitors like Owens Corning and Saint-Gobain's building-materials division. Pay attention to commentary on input costs and energy prices, which are material to the company's profitability.

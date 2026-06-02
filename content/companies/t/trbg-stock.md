@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TurboGen began in Israel in 2014 with a singular focus: to build microturbines small enough and efficient enough to power buildings and microgrids at the point of use, burning natural gas or hydrogen in place of grid electricity. In early 2026, the company filed for listing on the Nasdaq under the ticker TRBG, moving from a privately held Israeli startup into a globally traded public company. The journey from foundation to commercialization spans the company's entire twelve-year history — a timeline that reveals how cleantech companies navigate the long, expensive path from prototype to revenue.
+TurboGen began in Israel in 2014 with a singular focus: to build microturbines small enough and efficient enough to power buildings and microgrids at the point of use, burning [natural gas](/natural-gas/) or hydrogen in place of grid electricity. In early 2026, the company filed for listing on the [Nasdaq](/nasdaq/) under the ticker TRBG, moving from a privately held Israeli startup into a globally traded public company. The journey from foundation to commercialization spans the company's entire twelve-year history — a timeline that reveals how cleantech companies navigate the long, expensive path from prototype to revenue.
 
 ## The founding insight: distributed power at scale
 
@@ -51,7 +51,7 @@ Established competitors exist in the microturbine space — primarily Capstone T
 
 ## From private to public: why list now?
 
-TurboGen is listing on Nasdaq while the company is still in early commercialization phase, before it has achieved significant scale or profitability. This is possible because the company has a plausible story — working technology, paying customers, strategic partnerships, addressable market — and because capital markets are willing to fund early-stage cleantech companies that can demonstrate traction. A public listing provides capital for scaling manufacturing, expanding the sales force, and funding customer onboarding costs while revenue grows. It also gives the company a currency (its own stock) that can be used for strategic acquisitions or employee compensation.
+TurboGen is listing on Nasdaq while the company is still in early commercialization phase, before it has achieved significant scale or profitability. This is possible because the company has a plausible story — working technology, paying customers, strategic partnerships, addressable market — and because capital markets are willing to fund early-stage cleantech companies that can demonstrate traction. A public listing provides capital for scaling manufacturing, expanding the sales force, and funding customer onboarding costs while revenue grows. It also gives the company a currency (its own stock) that can be used for strategic [acquisitions](/acquisition/) or employee compensation.
 
 The timing reflects conditions in clean energy. Hydrogen production is cost-competitive with conventional fuels in some regions and improving; regulatory support for distributed energy is strengthening; and investors remain convinced that the energy transition requires technologies beyond solar and wind. That backdrop makes this a plausible moment to take a cleantech power-generation company public, even though it has only recently begun generating revenue.
 

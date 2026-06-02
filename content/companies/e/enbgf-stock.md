@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Enbridge Inc. moves oil and natural gas. That is the company in one sentence. The business is straightforward: it owns and operates thousands of miles of pipelines and storage terminals across North America that transport crude oil from extraction sites to refineries, and natural gas from production fields to cities where people use it for heat and power. It is the oldest and largest energy infrastructure company on the continent, and nearly everything it does sits at the crossroads between energy production and energy consumption.
+Enbridge Inc. moves oil and [natural gas](/natural-gas/). That is the company in one sentence. The business is straightforward: it owns and operates thousands of miles of pipelines and storage terminals across North America that transport [crude oil](/crude-oil/) from extraction sites to refineries, and natural gas from production fields to cities where people use it for heat and power. It is the oldest and largest energy infrastructure company on the continent, and nearly everything it does sits at the crossroads between energy production and energy consumption.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,7 +34,7 @@ The business is not like a gas station or an oil company that drills wells. Enbr
 
 Think of energy markets as a chain: extraction → transportation → processing → distribution → consumption. Enbridge sits firmly in the transportation leg. Upstream from Enbridge are oil producers, natural gas producers, and drilling companies that depend on the pipelines to get their product to market. Without Enbridge's lines, oil stuck in the ground in western Canada or Alaska has no path to the refineries that would buy it. Downstream from Enbridge are refineries, natural gas utilities, and power generators that depend on steady supply. A blockage in an Enbridge pipeline creates a shortage for them.
 
-This positioning gives Enbridge a kind of structural importance. It is not as exposed to commodity prices as a producer is, and it is not as dependent on consumer demand fluctuations as a refiner or utility is. Instead, it sits in the middle, extracting value from volume and consistency. The more oil and gas flows through its pipes, the more tariff revenue it collects. The more stable and predictable the flow, the easier it is to forecast earnings and justify dividend payments.
+This positioning gives Enbridge a kind of structural importance. It is not as exposed to commodity prices as a producer is, and it is not as dependent on consumer demand fluctuations as a refiner or utility is. Instead, it sits in the middle, extracting value from volume and consistency. The more oil and gas flows through its pipes, the more tariff revenue it collects. The more stable and predictable the flow, the easier it is to forecast earnings and justify [dividend](/dividend/) payments.
 
 ## How regulation shapes the business
 

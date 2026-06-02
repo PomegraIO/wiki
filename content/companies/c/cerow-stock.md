@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Cero Therapeutics is a clinical-stage biopharmaceutical company focused on developing oral small-molecule drugs for serious human diseases caused by protein misfolding, genetic mutation, or immune dysfunction. The company was founded on a platform approach to these difficult-to-treat conditions, aiming to bring therapies to patients for whom current treatment options are inadequate.
+[Cero Therapeutics](/cero-stock/) is a clinical-stage biopharmaceutical company focused on developing oral small-molecule drugs for serious human diseases caused by protein misfolding, genetic mutation, or immune dysfunction. The company was founded on a platform approach to these difficult-to-treat conditions, aiming to bring therapies to patients for whom current treatment options are inadequate.
 
 <aside class="wiki-infobox">
 <table>

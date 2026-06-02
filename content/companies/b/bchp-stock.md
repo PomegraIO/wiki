@@ -14,7 +14,7 @@ Principal Focused Blue Chip ETF launched in 2023. Actively managed. Non-transpar
 
 Blue chips: companies well-established in their industries. Strong brands. Proven business models. The sort of firms that have staying power through cycles. The fund seeks long-term capital growth by investing at least eighty percent of net assets in large-cap companies with those qualities, plus the expectation of above-average earnings and real potential for capital appreciation.
 
-The manager is hunting for growth within a blue-chip frame — not IPO speculation or turnaround stories, but mature firms with proven earnings power that can still compound value over time. Apple and Microsoft belong here; so do JPMorgan and Berkshire Hathaway when they fit the growth and earnings criteria.
+The manager is hunting for growth within a blue-chip frame — not IPO speculation or turnaround stories, but mature firms with proven earnings power that can still compound value over time. [Apple](/aapl-stock/) and [Microsoft](/msft-stock/) belong here; so do JPMorgan and [Berkshire Hathaway](/brk-b-stock/) when they fit the growth and earnings criteria.
 
 The concentrated portfolio — only twenty-two stocks — is the defining feature. Most large-cap funds hold several hundred positions to spread risk. BCHP does the opposite. It puts capital behind the manager's highest-conviction ideas. Concentration creates volatility: if two or three of those twenty-two stocks disappoint, the fund's returns swing sharply. But it also means the manager is genuinely making a choice. The portfolio is what the team thinks will win.
 
@@ -26,11 +26,11 @@ Benchmark: Russell 1000 Growth Index. That is the universe of large-cap growth s
 
 Who owns this? Investors comfortable with concentrated portfolios and high conviction plays. Investors willing to track three-week-old holdings and infer the strategy rather than inspect it daily. Investors betting that a small team of stock pickers can beat a broad index in the large-cap space — and that concentration yields better returns than dilution across hundreds of positions.
 
-Who should avoid it? Investors seeking maximum diversification. Index-fund believers. Anyone uncomfortable with the possibility of material underperformance in any given year. Anyone who needs to see the full holdings list every day.
+Who should avoid it? Investors seeking maximum [diversification](/diversification/). Index-fund believers. Anyone uncomfortable with the possibility of material underperformance in any given year. Anyone who needs to see the full holdings list every day.
 
 The risks are plain: concentration magnifies both gains and losses. If the team is right, results compound beautifully. If they are wrong on a few big bets, the fund underperforms sharply. This is not a fund for someone who wants to set and forget; it requires belief in the managers and tolerance for volatility.
 
-Expense ratio is available in the fund documents. Active management costs. The pitch is that the active insight justifies the fee against a low-cost growth index.
+[Expense ratio](/expense-ratio/) is available in the fund documents. Active management costs. The pitch is that the active insight justifies the fee against a low-cost growth index.
 
 Sources:
 - [Principal Focused Blue Chip ETF (BCHP)](https://www.aaii.com/etf/ticker/BCHP)

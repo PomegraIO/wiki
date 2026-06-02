@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*[Virtus Convertible & Income](/ncv-stock/) Fund II is a closed-end mutual fund that buys [convertible bonds](/convertible-bond/) and [preferred stocks](/preferred-stock/) — hybrid securities that combine features of bonds (regular income payments) with features of stock (the potential to appreciate if the underlying company thrives). The fund distributes monthly income to shareholders and seeks capital appreciation.*
+*[Virtus Convertible & Income](/ncv-stock/) Fund II is a closed-end [mutual fund](/mutual-fund/) that buys [convertible bonds](/convertible-bond/) and [preferred stocks](/preferred-stock/) — hybrid securities that combine features of [bonds](/bond/) (regular income payments) with features of stock (the potential to appreciate if the underlying company thrives). The fund distributes monthly income to shareholders and seeks capital appreciation.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ handwritten: true
 
 A convertible bond is a [corporate bond](/corporate-bond/) — a loan to a company — with a twist: the bondholder has the right (but not the obligation) to convert the bond into a fixed number of shares of the company's stock at a preset price. If the stock price stays flat or falls, the bondholder has a bond paying regular interest. If the stock price soars above the conversion price, the bondholder can convert and become an equity owner. Convertibles appeal to investors who want income now but do not want to miss out if the company does very well.
 
-Preferred stocks are a middle ground between bonds and [common stock](/common-stock/). They are issued by companies and pay a fixed (or sometimes floating) dividend. Preferreds rank ahead of common stock in the event of bankruptcy — if a company is liquidated, preferred shareholders get paid before common shareholders but after bondholders. They do not usually have [voting rights](/voting-rights/). They can be called by the issuer (repurchased) if [interest rates](/interest-rate/) fall and the company wants to refinance.
+Preferred stocks are a middle ground between bonds and [common stock](/common-stock/). They are issued by companies and pay a fixed (or sometimes floating) [dividend](/dividend/). Preferreds rank ahead of common stock in the event of bankruptcy — if a company is liquidated, preferred shareholders get paid before common shareholders but after bondholders. They do not usually have [voting rights](/voting-rights/). They can be called by the issuer (repurchased) if [interest rates](/interest-rate/) fall and the company wants to refinance.
 
 Both convertibles and preferreds appeal to income-hungry investors in a low-yield world because they offer more cash flow than common stock or Treasuries, yet they carry less default risk than speculative bonds or the equity risk of owning common stock directly.
 
@@ -39,9 +39,9 @@ As a closed-end fund, NCZ issues a fixed number of shares that trade at market p
 
 ## Where the risk lives
 
-Convertible bonds and preferred stocks are neither fully bonds nor fully stocks, which means they carry both types of risk. If the underlying company falters, the convertible bond might not be paid in full, and the preferred stock might be cut or suspended. If the [stock market](/stock-market/) crashes, convertibles and preferreds usually fall less than common stock but more than [investment-grade bonds](/investment-grade-bond/). In a prolonged bear market, holders face the worst scenario: the underlying company deteriorates, so the equity upside is gone, and then the credit quality fails.
+Convertible bonds and preferred stocks are neither fully bonds nor fully stocks, which means they carry both types of risk. If the underlying company falters, the convertible bond might not be paid in full, and the preferred stock might be cut or suspended. If the [stock market](/stock-market/) crashes, convertibles and preferreds usually fall less than common stock but more than [investment-grade bonds](/investment-grade-bond/). In a prolonged [bear market](/bear-market/), holders face the worst scenario: the underlying company deteriorates, so the equity upside is gone, and then the credit quality fails.
 
-Preferred stocks add another risk: call risk. If interest rates fall sharply, companies often redeem preferreds and refinance at lower rates, capping the upside for shareholders who were enjoying the coupon.
+Preferred stocks add another risk: [call risk](/call-risk/). If interest rates fall sharply, companies often redeem preferreds and refinance at lower rates, capping the upside for shareholders who were enjoying the coupon.
 
 The convertible market is also smaller and less liquid than the bond market, meaning it is easier for prices to move sharply if sentiment shifts. A fund with significant leverage or a portfolio tilted toward thinly traded names can be vulnerable to sudden price moves.
 
@@ -55,4 +55,4 @@ Start with the fund's monthly or quarterly fact sheet and semi-annual report. Lo
 
 Watch the fund's premium or discount to net asset value over time. A widening discount can signal deteriorating investor confidence. Also track the monthly distribution: if it is stable, the underlying holdings are performing; if it starts to shrink, credit stress is likely building.
 
-Monitor the convertible bond index and broad equity market moves. When the stock market rallies, convertibles typically do well because the equity conversion feature gains value. When the stock market falls, convertibles lag because the credit risk surfaces. Understanding whether NCZ is hitting its target of income plus appreciation — or whether it is cutting the distribution while suffering price declines — tells you if the strategy is working.
+Monitor the convertible bond index and broad equity market moves. When the stock market rallies, convertibles typically do well because the equity conversion feature gains value. When the stock market falls, convertibles lag because the [credit risk](/credit-risk/) surfaces. Understanding whether NCZ is hitting its target of income plus appreciation — or whether it is cutting the distribution while suffering price declines — tells you if the strategy is working.

@@ -39,7 +39,7 @@ Today, index licensing is MSCI's largest revenue source. The company's indexes a
 
 The power of this position is subtle but enormous. Once an index gains adoption, the money that flows into index funds creates a form of stickiness. A pension fund manager cannot simply switch from the MSCI Emerging Markets Index to a competitor's version without triggering rebalancing costs and explaining the change to stakeholders. Changing indexes is also a technical undertaking — valuations and performance records are attached to the old index. This means large investors, once committed to an MSCI index, are likely to stay with it for decades.
 
-Revenue from indexes is mostly passive: once an index is launched and adopted, new money flows in and generates fees without much incremental cost. This is why [financial institutions](/fisi-stock/) prize index businesses — they compound. MSCI generates revenue by charging asset managers a basis-point fee on the assets they manage that track an MSCI index. A fund with a hundred billion tracking the MSCI World Index generates millions in annual license fees.
+Revenue from indexes is mostly passive: once an index is launched and adopted, new money flows in and generates fees without much incremental cost. This is why financial institutions prize index businesses — they compound. MSCI generates revenue by charging asset managers a basis-point fee on the assets they manage that track an MSCI index. A fund with a hundred billion tracking the MSCI World Index generates millions in annual license fees.
 
 ## Analytics and solutions — the faster-growing engine
 

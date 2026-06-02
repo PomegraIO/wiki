@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Perma-Fix Environmental Services Inc is an environmental remediation and [waste management](/wm-stock/) company operating mostly in niches that larger waste handlers avoid or cannot efficiently serve. Its core business centers on handling hazardous and radioactive materials, serving government agencies (particularly the Department of Energy and the Department of Defense), private industrial facilities, and decommissioning projects across nuclear and non-nuclear sites. The company is small by absolute revenue but occupies a specialized position — it handles material that requires expertise, licensing, and specialized facilities, none of which can be rushed or outsourced to the lowest bidder.
+Perma-Fix Environmental Services Inc is an environmental remediation and waste management company operating mostly in niches that larger waste handlers avoid or cannot efficiently serve. Its core business centers on handling hazardous and radioactive materials, serving government agencies (particularly the Department of Energy and the Department of Defense), private industrial facilities, and decommissioning projects across nuclear and non-nuclear sites. The company is small by absolute revenue but occupies a specialized position — it handles material that requires expertise, licensing, and specialized facilities, none of which can be rushed or outsourced to the lowest bidder.
 
 ### What is Perma-Fix, and what does it do?
 

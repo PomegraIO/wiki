@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*Western Asset High [Income Fund](/income-fund/) II is a **closed-end mutual fund** — a pooled investment vehicle that issues a fixed number of shares, invests those proceeds in a portfolio of [high-yield bonds](/high-yield-bond/), and returns the majority of its earnings to shareholders as monthly or quarterly distributions.*
+*Western Asset High [Income Fund](/income-fund/) II is a **closed-end [mutual fund](/mutual-fund/)** — a pooled investment vehicle that issues a fixed number of shares, invests those proceeds in a portfolio of [high-yield bonds](/high-yield-bond/), and returns the majority of its earnings to shareholders as monthly or quarterly distributions.*
 
 <aside class="wiki-infobox">
 
@@ -27,7 +27,7 @@ handwritten: true
 
 </aside>
 
-Western Asset High Income Fund II sits at the intersection of income investing and credit risk, offering shareholders a way to harvest the yield premium that high-yield bonds provide in exchange for accepting the possibility that some of those bonds will default. The fund invests at least 80 percent of its assets in high-yield debt securities — bonds issued by corporations with [credit ratings](/credit-rating/) below investment grade, commonly called "junk bonds" because of the elevated default risk they carry. The remaining 20 percent can go into [investment-grade bonds](/investment-grade-bond/), cash, or other opportunities, giving the manager flexibility to shift positioning based on market conditions.
+Western Asset High Income Fund II sits at the intersection of income investing and [credit risk](/credit-risk/), offering shareholders a way to harvest the yield premium that high-yield [bonds](/bond/) provide in exchange for accepting the possibility that some of those bonds will default. The fund invests at least 80 percent of its assets in high-yield debt securities — bonds issued by corporations with [credit ratings](/credit-rating/) below investment grade, commonly called "[junk bonds](/junk-bond/)" because of the elevated default risk they carry. The remaining 20 percent can go into [investment-grade bonds](/investment-grade-bond/), cash, or other opportunities, giving the manager flexibility to shift positioning based on market conditions.
 
 The fund is launched and managed by Legg Mason Partners Fund Advisor, with Western Asset Management Company serving as co-manager alongside Western Asset Management Company Limited and Western Asset Management Company Pte. This multi-entity structure reflects the reality that managing a large global fixed-income portfolio requires teams distributed across geographies. Western Asset is one of the largest fixed-income managers globally, and Western Asset High Income Fund II is one of its vehicles for capturing high-yield opportunity.
 

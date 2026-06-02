@@ -17,7 +17,7 @@ keywords: ["community bank", "Appalachia", "rural banking", "net-interest-margin
 
 ## Geographic Concentration and Regional Economic Stagnation
 
-Carter's branch network and loan portfolio are heavily concentrated in Appalachian counties that have faced decades of structural decline. Coal-mining economies have contracted, manufacturing employment has shifted or vanished, and population has stagnated or fallen. This creates a headwind for loan demand, deposit accumulation, and business formation. Economic stagnation also correlates with higher unemployment, lower borrower creditworthiness, and elevated nonperforming-loan rates during downturns. A diversified [national bank](/nbhc-stock/) can offset losses in one region with gains in growing markets; Carter lacks that cushion. Its entire earnings stream rides on the health of a region with limited job growth and demographic challenges.
+Carter's branch network and loan portfolio are heavily concentrated in Appalachian counties that have faced decades of structural decline. Coal-mining economies have contracted, manufacturing employment has shifted or vanished, and population has stagnated or fallen. This creates a headwind for loan demand, deposit accumulation, and business formation. Economic stagnation also correlates with higher unemployment, lower borrower creditworthiness, and elevated nonperforming-loan rates during downturns. A diversified national bank can offset losses in one region with gains in growing markets; Carter lacks that cushion. Its entire earnings stream rides on the health of a region with limited job growth and demographic challenges.
 
 ## Net-Interest-Margin Compression
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The First Trust Growth Strength ETF blends growth and quality into a single systematic screen, targeting US companies that show both rising earnings or revenue and the financial stability to sustain that growth. Rather than chasing pure growth momentum or pure quality metrics in isolation, FTGS aims to find the intersection: strong momentum in cash generation paired with a balance sheet that can weather stress.*
+*The First Trust Growth Strength ETF blends growth and quality into a single systematic screen, targeting US companies that show both rising earnings or revenue and the financial stability to sustain that growth. Rather than chasing pure growth momentum or pure quality metrics in isolation, FTGS aims to find the intersection: strong momentum in cash generation paired with a [balance sheet](/balance-sheet/) that can weather stress.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ handwritten: true
 
 ## Growth with a quality guardrail
 
-The growth-value split has long divided the investment world. Pure growth funds chase earnings momentum and price appreciation with little regard for valuation or financial stability. Pure quality funds reward balance-sheet strength and dividend payers, often at the cost of missing high-growth opportunities. FTGS attempts to thread that needle by requiring both. The fund screens for companies that are expanding earnings or revenue meaningfully — the growth signal — while simultaneously maintaining financial metrics that suggest the growth is sustainable rather than leveraged or unsustainable.
+The growth-value split has long divided the investment world. Pure [growth funds](/growth-fund/) chase earnings momentum and price appreciation with little regard for valuation or financial stability. Pure quality funds reward balance-sheet strength and [dividend](/dividend/) payers, often at the cost of missing high-growth opportunities. FTGS attempts to thread that needle by requiring both. The fund screens for companies that are expanding earnings or revenue meaningfully — the growth signal — while simultaneously maintaining financial metrics that suggest the growth is sustainable rather than leveraged or unsustainable.
 
 The methodology assigns each Russell 1000 company two scores: a growth score based on recent earnings momentum, revenue trends, and forward estimates, and a financial-strength score based on balance-sheet health, cash-flow generation, and profitability metrics. Both scores must be reasonably high for a stock to land in the portfolio. A high-growth but highly leveraged firm, or a strong-balance-sheet but stagnant company, would not qualify. The fund holds stocks that satisfy both criteria.
 
@@ -37,13 +37,13 @@ This dual-requirement approach produces a portfolio that looks different from ei
 
 FTGS typically maintains between 170 and 220 holdings, which narrows the Russell 1000 substantially. Technology and healthcare are usually the largest sector allocations, reflecting the prevalence of high-quality companies with strong earnings growth in those sectors. Industrials, consumer discretionary, and financial services also feature prominently. The fund is less represented in the most defensive or mature, slow-growing sectors like utilities, energy, and real estate.
 
-The sector mix shifts over economic cycles. During periods of strong earnings growth and confidence, more companies satisfy the growth criterion and the portfolio expands and becomes more growth-tilted. During slowdowns or recessions, fewer firms show accelerating earnings, and the fund becomes more concentrated in the very best growth-and-quality combinations.
+The sector mix shifts over economic cycles. During periods of strong earnings growth and confidence, more companies satisfy the growth criterion and the portfolio expands and becomes more growth-tilted. During slowdowns or [recessions](/recession/), fewer firms show accelerating earnings, and the fund becomes more concentrated in the very best growth-and-quality combinations.
 
-Individual stock weights within FTGS vary based on the scoring methodology. Larger, more profitable, faster-growing companies tend to score higher on both dimensions and receive higher allocations. This concentration risk is a feature, not a bug — it reflects the fund's belief that the best opportunities lie in the highest-quality growth names.
+Individual stock weights within FTGS vary based on the scoring methodology. Larger, more profitable, faster-growing companies tend to score higher on both dimensions and receive higher allocations. This [concentration risk](/concentration-risk/) is a feature, not a bug — it reflects the fund's belief that the best opportunities lie in the highest-quality growth names.
 
 ## Costs, liquidity, and positioning
 
-FTGS trades actively on the NASDAQ and carries an expense ratio consistent with other systematically managed, screened equity ETFs from First Trust. The fund has attracted meaningful assets since its launch, which translates to good daily trading liquidity and tight bid-ask spreads for most market conditions.
+FTGS trades actively on the [NASDAQ](/nasdaq/) and carries an [expense ratio](/expense-ratio/) consistent with other systematically managed, screened [equity ETFs](/equity-etf/) from First Trust. The fund has attracted meaningful assets since its launch, which translates to good daily trading liquidity and tight [bid-ask spreads](/bid-ask-spread/) for most market conditions.
 
 The fund appeals to growth-oriented investors who are unwilling to accept pure momentum chasing or excessive leverage, as well as to quality investors who are frustrated by the low-growth profiles of traditional quality screens. It also suits core portfolio allocators who want a single growth holding that balances expansion opportunities against financial stability.
 
@@ -55,4 +55,4 @@ A recession or sharp economic contraction would test both components: growth sco
 
 ## Comparison and research approach
 
-Investors comparing FTGS to alternatives should consider a pure Russell 1000 Growth Index fund (which holds every growth-categorised stock regardless of quality), a pure quality or dividend fund, and one or more competing growth-quality hybrids to see how returns, volatility, and drawdowns compare over full market cycles. The prospectus and fact sheets will detail the exact growth and strength scoring methodology, historical returns, and current holdings.
+Investors comparing FTGS to alternatives should consider a pure Russell 1000 Growth [Index fund](/index-fund/) (which holds every growth-categorised stock regardless of quality), a pure quality or dividend fund, and one or more competing growth-quality hybrids to see how returns, volatility, and drawdowns compare over full market cycles. The prospectus and fact sheets will detail the exact growth and strength scoring methodology, historical returns, and current holdings.

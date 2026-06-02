@@ -41,7 +41,7 @@ Lunai's cell therapy programs follow the typical biotech arc: early preclinical 
 
 ## The Competitive Landscape and Technical Differentiation
 
-Dozens of companies are chasing cell therapies; many are further advanced than Lunai. Giants like [Novartis](/nvs-stock/), Gilead, and others have acquired or built cell therapy capabilities. Lunai's competitive edge rests on technical innovation: a cheaper, faster, more reliable manufacturing process; a novel therapeutic target or cell engineering approach; or a superior [cell source](/clcs-stock/) or expansion method. The company must clearly articulate what it does that others do not, backed by data. Without a genuine technical moat, Lunai faces a path to [acquisition](/acquisition/) by a larger player, partnership with a pharma company, or slow progress if its therapies are less effective than competitors'.
+Dozens of companies are chasing cell therapies; many are further advanced than Lunai. Giants like [Novartis](/nvs-stock/), Gilead, and others have acquired or built cell therapy capabilities. Lunai's competitive edge rests on technical innovation: a cheaper, faster, more reliable manufacturing process; a novel therapeutic target or cell engineering approach; or a superior cell source or expansion method. The company must clearly articulate what it does that others do not, backed by data. Without a genuine technical moat, Lunai faces a path to [acquisition](/acquisition/) by a larger player, partnership with a pharma company, or slow progress if its therapies are less effective than competitors'.
 
 ## Patient Population and Indication Selection
 

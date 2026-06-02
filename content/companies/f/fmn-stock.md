@@ -12,7 +12,7 @@ handwritten: true
 
 [Federated Hermes](/fhi-stock/) Premier Municipal [Income Fund](/income-fund/) trades on the [stock exchange](/stock-exchange/) (NYSE: FMN) as a closed-end fund designed to generate ongoing income from [municipal bonds](/municipal-bond/). Unlike a traditional [mutual fund](/mutual-fund/) where you buy shares directly from the issuer, FMN trades throughout the day like a stock, allowing its investors to buy and sell at market prices that may drift above or below the fund's underlying [net asset value](/net-asset-value/).
 
-The fund focuses on investment-grade municipal bonds, which are issued by states, cities, counties, and other local government entities to finance public projects — schools, infrastructure, hospitals, and similar capital needs. The income FMN receives from these bonds is generally exempt from federal income tax, and often from state and local taxes as well for residents of the issuing state, making the yields valuable to investors in higher tax brackets.
+The fund focuses on investment-grade municipal [bonds](/bond/), which are issued by states, cities, counties, and other local government entities to finance public projects — schools, infrastructure, hospitals, and similar capital needs. The income FMN receives from these bonds is generally exempt from federal income tax, and often from state and local taxes as well for residents of the issuing state, making the yields valuable to investors in higher tax brackets.
 
 ## Monthly distributions on borrowed money
 

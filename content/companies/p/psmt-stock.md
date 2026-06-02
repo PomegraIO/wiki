@@ -45,7 +45,7 @@ Operational leverage is evident in the company's ability to reduce per-warehouse
 
 ## Currency and macroeconomic exposure
 
-A fundamental risk for PriceSmart is its exposure to currency fluctuations and macroeconomic cycles in Latin America and the Caribbean. The company reports in U.S. dollars but earns revenue and incurs costs in local currencies — Colombian pesos, Costa Rican colones, Mexican pesos, etc. When local currencies weaken relative to the dollar, it reduces the U.S. dollar value of PriceSmart's revenue and earnings, directly hitting the share price. Additionally, inflation and economic downturns in these regions can reduce consumer spending, especially discretionary purchases, even as bulk basics remain resilient.
+A fundamental risk for PriceSmart is its exposure to currency fluctuations and macroeconomic cycles in Latin America and the Caribbean. The company reports in [U.S. dollars](/us-dollar/) but earns revenue and incurs costs in local currencies — Colombian pesos, Costa Rican colones, Mexican pesos, etc. When local currencies weaken relative to the dollar, it reduces the U.S. dollar value of PriceSmart's revenue and earnings, directly hitting the share price. Additionally, inflation and economic downturns in these regions can reduce consumer spending, especially discretionary purchases, even as bulk basics remain resilient.
 
 Economic crises in Latin America have occasionally created sharp headwinds: Mexico's peso crisis in 1994–1995, Argentina's [hyperinflation](/hyperinflation/) in the early 2000s, and Colombia's macroeconomic stress at various points all created periods where consumers retrench and retail growth stalls. PriceSmart is insulated somewhat by its focus on value and necessities, but it is not immune.
 

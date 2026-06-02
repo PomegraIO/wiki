@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-Topaz Energy is a Canadian midstream energy company — meaning it does not explore for or produce oil and gas itself, but rather owns the infrastructure that processes and transports what others produce. Based in Calgary, Alberta, and traded on the Toronto Stock Exchange (with an ADR on NASDAQ under ticker TPZEY), Topaz owns and operates natural gas processing plants, hydrocarbon extraction facilities, and pipeline systems that move crude oil, natural gas, and other liquids from producing regions in western Canada toward refineries and export terminals.
+Topaz Energy is a Canadian midstream energy company — meaning it does not explore for or produce oil and gas itself, but rather owns the infrastructure that processes and transports what others produce. Based in Calgary, Alberta, and traded on the [Toronto Stock Exchange](/toronto-stock-exchange/) (with an ADR on [NASDAQ](/nasdaq/) under ticker TPZEY), Topaz owns and operates [natural gas](/natural-gas/) processing plants, hydrocarbon extraction facilities, and pipeline systems that move [crude oil](/crude-oil/), natural gas, and other liquids from producing regions in western Canada toward refineries and export terminals.
 
 > Midstream is infrastructure that captures margins by handling volume, not by making bold bets on commodity prices.
 
@@ -62,7 +62,7 @@ In the shorter term, Topaz faces cyclical risks: a prolonged oil and gas price c
 
 ## How to research Topaz as an investment
 
-Start with the company's annual report and 20-F filing (SEC CIK 0002073655). Monitor the utilization rates of the company's key processing plants and pipelines (disclosed in operational updates) and the production volumes of key customer fields connected to Topaz infrastructure. Watch for new field connections or expansions — these drive incremental throughput and revenue.
+Start with the company's [annual report](/10-k/) and 20-F filing (SEC CIK 0002073655). Monitor the utilization rates of the company's key processing plants and pipelines (disclosed in operational updates) and the production volumes of key customer fields connected to Topaz infrastructure. Watch for new field connections or expansions — these drive incremental throughput and revenue.
 
 Track the fee structure and contract terms — is Topaz indexed to commodity prices or fixed? Long-term contracts with stable prices are preferable to short-term contracts that reset frequently. Monitor capital expenditure plans and debt levels; a midstream company that is growing requires capital, and high leverage in a down cycle can constrain returns.
 

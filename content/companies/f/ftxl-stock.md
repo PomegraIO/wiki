@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-The First Trust Nasdaq Semiconductor ETF (FTXL) is a simple fund. It holds semiconductor companies listed on Nasdaq and lets you own a piece of all of them at once. You do not have to pick winners or losers — the fund buys the whole basket.
+The First Trust [Nasdaq](/nasdaq/) Semiconductor ETF (FTXL) is a simple fund. It holds semiconductor companies listed on Nasdaq and lets you own a piece of all of them at once. You do not have to pick winners or losers — the fund buys the whole basket.
 
 ## What semiconductors are and why they matter
 
-A semiconductor is a material (usually silicon) that conducts electricity when given energy. Chips made from semiconductors are the brains inside computers, phones, cars, and appliances. Every piece of electronics needs them. Without semiconductors, there are no smartphones, no data centers, no video games. Most of the world's chips are designed and made by companies traded on stock markets. FTXL owns shares in the biggest and most actively traded of these chip firms.
+A semiconductor is a material (usually silicon) that conducts electricity when given energy. Chips made from semiconductors are the brains inside computers, phones, cars, and appliances. Every piece of electronics needs them. Without semiconductors, there are no smartphones, no data centers, no video games. Most of the world's chips are designed and made by companies traded on [stock markets](/stock-market/). FTXL owns shares in the biggest and most actively traded of these chip firms.
 
 Chip companies come in two types. Some design chips in-house and pay other factories to manufacture them (called fabless companies). Others own their own manufacturing plants (called foundries). Some do both. FTXL holds a mix of all these types.
 
@@ -26,9 +26,9 @@ The semiconductor industry moves fast. New products come out constantly. Moore's
 
 ## How FTXL works
 
-FTXL does not pick favorites. It holds every chip company in the Nasdaq-100 at the same weight as the index uses. If a company is 5% of the index, it is 5% of your fund. When the index adds or removes a company, FTXL follows. When dividends are paid, you receive your share.
+FTXL does not pick favorites. It holds every chip company in the Nasdaq-100 at the same weight as the index uses. If a company is 5% of the index, it is 5% of your fund. When the index adds or removes a company, FTXL follows. When [dividends](/dividend/) are paid, you receive your share.
 
-The fund costs less money to own than hiring someone to pick chips for you. But it costs more than owning all of the Nasdaq or all of the stock market. That is the trade-off: you get pure chip exposure, but you lose diversification into other industries.
+The fund costs less money to own than hiring someone to pick chips for you. But it costs more than owning all of the Nasdaq or all of the stock market. That is the trade-off: you get pure chip exposure, but you lose [diversification](/diversification/) into other industries.
 
 ## Risks that chip companies face
 

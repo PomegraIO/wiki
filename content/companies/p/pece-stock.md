@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Peace Acquisition Corp is a blank-check company, meaning it is a shell corporation created specifically to raise money and find a private company to buy. Think of it as an empty legal box with $60 million in cash inside and a timer ticking. The company has no actual business, no products, and no employees working to earn revenue. Instead, the leadership team's job is to identify a private company somewhere in Asia and negotiate a deal to merge it into the SPAC. If they pull it off, the private company becomes public overnight, and the blank-check investors become shareholders in the combined entity.
+Peace [Acquisition](/acquisition/) Corp is a blank-check company, meaning it is a shell corporation created specifically to raise money and find a private company to buy. Think of it as an empty legal box with $60 million in cash inside and a timer ticking. The company has no actual business, no products, and no employees working to earn revenue. Instead, the leadership team's job is to identify a private company somewhere in Asia and negotiate a deal to merge it into the SPAC. If they pull it off, the private company becomes public overnight, and the blank-check investors become shareholders in the combined entity.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,9 +26,9 @@ Peace Acquisition Corp is a blank-check company, meaning it is a shell corporati
 
 ## How blank-check companies work
 
-When you bought a PECE unit at the IPO for ten dollars, you got three things: one ordinary share, one redeemable warrant (the right to buy another share later at a set price), and a fractional right (one-fifth of a share, which together with four others can convert into a full share). The warrant sits on a shelf; the right vests only if a merger closes. The ordinary share is what trades.
+When you bought a PECE unit at the IPO for ten dollars, you got three things: one ordinary share, one redeemable warrant (the right to buy another share later at a set price), and a fractional right (one-fifth of a share, which together with four others can convert into a full share). The warrant sits on a shelf; the right vests only if a [merger](/merger/) closes. The ordinary share is what trades.
 
-The company leadership was given roughly 25 percent of the shares for free at founding—their incentive to go find a good target and close the deal. If they pull off a merger, those founder shares become valuable. If they fail to find and close a target within a set window (typically 24 months from IPO), the cash goes back to investors and the blank-check company is wound down.
+The company leadership was given roughly 25 percent of the shares for free at founding—their incentive to go find a good target and close the deal. If they pull off a merger, those [founder shares](/founder-shares/) become valuable. If they fail to find and close a target within a set window (typically 24 months from IPO), the cash goes back to investors and the blank-check company is wound down.
 
 ## What Peace is looking for
 
@@ -42,7 +42,7 @@ A blank-check investment is a bet on the management team's ability to identify a
 
 Additionally, the warrant structure creates dilution. If the warrant holders exercise (buy new shares), the share count increases, diluting existing shareholders. The fractional rights also create administrative complexity and potential tax consequences for holders.
 
-Peace has two years from its May 2026 IPO to announce and close a business combination deal, or the cash returns to investors.
+Peace has two years from its May 2026 IPO to announce and close a [business combination](/business-combination-purchase/) deal, or the cash returns to investors.
 
 ## How to research Peace Acquisition
 

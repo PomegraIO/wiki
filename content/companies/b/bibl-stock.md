@@ -26,17 +26,17 @@ After these exclusions, the fund applies a financial quality screen to the remai
 
 Because BIBL excludes entire sectors — tobacco, beverages, gaming — the fund's composition necessarily deviates from a standard large-cap index. Technology, healthcare, consumer staples, and industrials typically represent meaningful portions of the portfolio. The fund's exclusions mean it underweights or eliminates some legacy components of the large-cap universe, which can create tracking differences against the broad market in periods when those excluded sectors outperform or underperform.
 
-The fund's financial-quality screen introduces a bias toward profitable, well-run companies with lower debt and stronger return on equity. This can tilt the portfolio toward quality-factor characteristics, which may outperform or lag depending on the market cycle.
+The fund's financial-quality screen introduces a bias toward profitable, well-run companies with lower debt and stronger [return on equity](/return-on-equity/). This can tilt the portfolio toward quality-factor characteristics, which may outperform or lag depending on the market cycle.
 
 ## Performance in a diversified portfolio
 
-Values-based investing inherently involves a trade-off: screening out entire industries reduces diversification and can drag returns in periods when those industries rally. Tobacco companies, for instance, have historically been profitable and paid reliable dividends, and excluding them means missing that exposure. On the other hand, the quality bias and exclusion of controversial sectors may improve risk-adjusted returns during market stress or periods of regulatory pressure.
+Values-based investing inherently involves a trade-off: screening out entire industries reduces [diversification](/diversification/) and can drag returns in periods when those industries rally. Tobacco companies, for instance, have historically been profitable and paid reliable [dividends](/dividend/), and excluding them means missing that exposure. On the other hand, the quality bias and exclusion of controversial sectors may improve risk-adjusted returns during market stress or periods of regulatory pressure.
 
 Investors should expect BIBL's performance to diverge from the S&P 500 in both positive and negative directions depending on which sectors are driving market returns. In years when excluded sectors lead the market, BIBL will lag; in years when included sectors and quality factors drive performance, BIBL may outperform.
 
 ## Expense ratio and transparency
 
-BIBL's expense ratio is competitive with other large-cap equity ETFs, reflecting passive index tracking and low turnover. A key advantage of Inspire's approach is transparency: the fund publishes its full holdings and screening methodology, so investors can verify which companies are included or excluded and why. This transparency contrasts with some competitor funds that apply values screens but do not disclose them fully.
+BIBL's [expense ratio](/expense-ratio/) is competitive with other large-cap [equity ETFs](/equity-etf/), reflecting passive index tracking and low turnover. A key advantage of Inspire's approach is transparency: the fund publishes its full holdings and screening methodology, so investors can verify which companies are included or excluded and why. This transparency contrasts with some competitor funds that apply values screens but do not disclose them fully.
 
 ## Who the fund is designed for
 

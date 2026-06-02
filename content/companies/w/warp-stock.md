@@ -41,15 +41,15 @@ Space has moved from an exclusively government-funded domain (NASA, Arianespace,
 
 ## The structure and how it trades
 
-WARP is a standard, non-leveraged exchange-traded fund. It holds equities directly and does not use derivatives or leverage. It trades on NASDAQ like any other ETF, meaning investors buy and sell shares throughout the day at market prices, not at net asset value calculated once daily like a mutual fund. The fund has modest daily volumes relative to broad-market ETFs, reflecting its narrow focus; spreads are typically tight for its size.
+WARP is a standard, non-leveraged exchange-traded fund. It holds equities directly and does not use derivatives or leverage. It trades on [NASDAQ](/nasdaq/) like any other ETF, meaning investors buy and sell shares throughout the day at market prices, not at [net asset value](/net-asset-value/) calculated once daily like a [mutual fund](/mutual-fund/). The fund has modest daily volumes relative to broad-market ETFs, reflecting its narrow focus; spreads are typically tight for its size.
 
 ## Costs and expense ratio
 
-VanEck charges an expense ratio to cover the fund's operations and index licensing (if applicable). For a thematic or narrowly focused equity ETF, the ratio is typically in the range of 0.65–0.90% annually. This is higher than a broad index fund (which might charge 0.03% for the S&P 500) but competitive within the thematic-fund category. There are no sales loads or transaction fees; cost occurs purely through the annual expense ratio, spread across all shareholders.
+VanEck charges an [expense ratio](/expense-ratio/) to cover the fund's operations and index licensing (if applicable). For a thematic or narrowly focused [equity ETF](/equity-etf/), the ratio is typically in the range of 0.65–0.90% annually. This is higher than a broad [index fund](/index-fund/) (which might charge 0.03% for the S&P 500) but competitive within the thematic-fund category. There are no sales loads or transaction fees; cost occurs purely through the annual expense [ratio, spread](/ratio-spread/) across all shareholders.
 
 ## Real risks specific to WARP
 
-**Concentration risk.** The fund holds a small number of stocks because the space industry is small and young. This means each holding has outsized weight in the portfolio, so poor performance by one or two names meaningfully drags the whole fund.
+**[Concentration risk](/concentration-risk/).** The fund holds a small number of stocks because the space industry is small and young. This means each holding has outsized weight in the portfolio, so poor performance by one or two names meaningfully drags the whole fund.
 
 **Sector volatility.** Space stocks — especially pure-play satellite and launch-vehicle companies — are highly cyclical. They depend on government spending, venture capital, and the willingness of telecoms and data companies to invest in new satellite systems. Downturns in government budgets or private investment can cause sharp declines.
 
@@ -61,6 +61,6 @@ VanEck charges an expense ratio to cover the fund's operations and index licensi
 
 ## Who WARP is for and how to research it
 
-WARP is suited to investors with a long-term horizon who believe the commercialization of space is a structural, multi-decade growth trend and want concentrated exposure to that theme without picking individual stocks. It is not suitable for conservative portfolios or those seeking broad diversification.
+WARP is suited to investors with a long-term horizon who believe the commercialization of space is a structural, multi-decade growth trend and want concentrated exposure to that theme without picking individual stocks. It is not suitable for conservative portfolios or those seeking broad [diversification](/diversification/).
 
 To research WARP and space-industry investing, start with the fund's fact sheet and prospectus (available on VanEck's website), which list the holdings, expense ratio, and detailed risk factors. Then read about the underlying index or screening criteria — what qualifies a company as "space industry" is a policy choice, and that definition matters. Follow news from key companies in the fund (major satellite operators, launch providers, Aerospace primes' space divisions) to understand near-term drivers. Space is an emerging industry with long development cycles, so multi-year patience is essential.

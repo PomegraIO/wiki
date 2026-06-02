@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Ten-League International Holdings Ltd, listed on the Hong Kong Stock Exchange under the ticker TLIH, is a diversified holding company with a sprawling portfolio that spans traditional Chinese medicine manufacturing, trading operations across Southeast Asia, and selective stakes in health-technology ventures. The company is rooted in decades of family business in TCM production and distribution, but over time it has evolved into a more broadly-focused regional vehicle — blending legacy herbal products with newer consumer-health exposure and opportunistic investments in the growing wellness sector.
+Ten-League International Holdings Ltd, listed on the [Hong Kong Stock Exchange](/hong-kong-stock-exchange/) under the ticker TLIH, is a diversified holding company with a sprawling portfolio that spans traditional Chinese medicine manufacturing, trading operations across Southeast Asia, and selective stakes in health-technology ventures. The company is rooted in decades of family business in TCM production and distribution, but over time it has evolved into a more broadly-focused regional vehicle — blending legacy herbal products with newer consumer-health exposure and opportunistic investments in the growing wellness sector.
 
 ## What is Ten-League, and where did it come from?
 
@@ -47,8 +47,8 @@ The **family control and long time horizon** is both a strength and a source of 
 
 ## How a reader would research Ten-League
 
-Start with the company's Hong Kong Stock Exchange filings (SEHK code: TLIH), which are published in English and Chinese. The annual report and interim disclosures lay out the breakdown by business segment and geography. Because Ten-League is a family holding company with a broad portfolio, the 10-20F filing (if the company ever lists on a US exchange) or the HK Exchange filings are the primary source of truth; earnings calls are less common and less detailed than at larger-cap firms.
+Start with the company's Hong Kong [Stock Exchange](/stock-exchange/) filings (SEHK code: TLIH), which are published in English and Chinese. The [annual report](/10-k/) and interim disclosures lay out the breakdown by business segment and geography. Because Ten-League is a family holding company with a broad portfolio, the 10-20F filing (if the company ever lists on a US exchange) or the HK Exchange filings are the primary source of truth; earnings calls are less common and less detailed than at larger-cap firms.
 
-Watch the trajectory of the TCM and trading segments separately — the former is mature and margin-pressured, while the latter is sensitive to regional economic cycles. Any announcement of new investment ventures or acquisitions is worth scrutinizing, because that is where the company's growth hopes lie. Currency impacts are material; compare earnings in reported currency versus standardized USD to see whether the company is growing organically or merely benefiting from currency swings.
+Watch the trajectory of the TCM and trading segments separately — the former is mature and margin-pressured, while the latter is sensitive to regional economic cycles. Any announcement of new investment ventures or [acquisitions](/acquisition/) is worth scrutinizing, because that is where the company's growth hopes lie. Currency impacts are material; compare earnings in reported currency versus standardized USD to see whether the company is growing organically or merely benefiting from currency swings.
 
 Peers to follow include larger regional herbal-products makers and Southeast Asian trading conglomerates; comparing Ten-League's margins and growth to those groups gives context for valuation and competitive positioning. Finally, monitor regulatory changes in key markets — announcements from China's NMPA (National Medical Products Administration) or local health authorities in target markets can shift the cost structure and growth outlook materially.

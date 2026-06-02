@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Grifols is a Spanish pharmaceutical company with a history stretching back to 1940. The company specializes in collecting, testing, and processing human blood plasma to produce medicines, diagnostics, and reagents used in hospitals, transfusion services, and clinical laboratories. Its products treat serious blood disorders, immune deficiencies, and bleeding conditions, making Grifols a player in a narrow but medically essential corner of the pharmaceutical industry. The company trades on the NASDAQ under ticker GRFS (GIFLF is the ticker used in some financial data systems).
+Grifols is a Spanish pharmaceutical company with a history stretching back to 1940. The company specializes in collecting, testing, and processing human blood plasma to produce medicines, diagnostics, and reagents used in hospitals, transfusion services, and clinical laboratories. Its products treat serious blood disorders, immune deficiencies, and bleeding conditions, making Grifols a player in a narrow but medically essential corner of the pharmaceutical industry. The company trades on the [NASDAQ](/nasdaq/) under ticker GRFS (GIFLF is the ticker used in some financial data systems).
 
 <aside class="wiki-infobox">
 <table>
@@ -42,7 +42,7 @@ The third segment, Bioscience, encompasses testing services, automation, and oth
 
 ## What are the competitive dynamics?
 
-The plasma-derived therapeutics market is concentrated but not monopolistic. Grifols competes with other large plasma processors including CSL Behring (an Australian company owned by CSL Ltd), Takeda Pharmaceutical (which owns Shire, a major player), Octapharma, and others. These competitors have strong brands, large donor networks, and established relationships with hospitals and regulators. The market has consolidated over decades, and barriers to entry are high.
+The plasma-derived therapeutics market is concentrated but not monopolistic. Grifols competes with other large plasma processors including CSL Behring (an Australian company owned by CSL Ltd), [Takeda Pharmaceutical](/tak-stock/) (which owns Shire, a major player), Octapharma, and others. These competitors have strong brands, large donor networks, and established relationships with hospitals and regulators. The market has consolidated over decades, and barriers to entry are high.
 
 One source of competition is recombinant (genetically engineered) versions of plasma proteins. For some products like clotting factors for hemophilia, recombinant versions have been developed and compete with plasma-derived ones. Recombinant products can be made without donors, potentially scaling more easily, though they may have different efficacy profiles and cost structures. This is a slow-moving competitive threat, not an existential one — plasma products still dominate for many indications — but it limits Grifols' pricing power over long time horizons.
 
@@ -56,7 +56,7 @@ Donor supply is a second major risk. Grifols must maintain enough donors to meet
 
 Pricing and reimbursement are also under pressure. In many countries, governments negotiate prices for plasma products as part of healthcare budgets. Pressure to control healthcare costs can squeeze prices and margins. The company faces ongoing negotiation with health ministries, insurance companies, and hospital systems, and these negotiations can be protracted and uncertain.
 
-The company also carries significant debt, incurred partly through acquisitions (including buying certain diagnostic and plasma collection businesses). Debt levels and interest rates affect profitability. Grifols must generate strong cash flow to service this debt while investing in new collection centers and manufacturing capacity.
+The company also carries significant debt, incurred partly through [acquisitions](/acquisition/) (including buying certain diagnostic and plasma collection businesses). Debt levels and [interest rates](/interest-rate/) affect profitability. Grifols must generate strong cash flow to service this debt while investing in new collection centers and manufacturing capacity.
 
 ## What is the investment thesis?
 

@@ -10,17 +10,17 @@ keywords:
 handwritten: true
 ---
 
-Brookstone Growth Stock ETF (BAMG) invests in large-cap companies that are growing their earnings faster than the broader market average. Instead of holding every large-cap name equally, BAMG tilts toward firms that are expanding profit and revenue rapidly, typically by reinvesting cash back into the business rather than paying dividends. For investors who want their money to compound through capital gains over decades, BAMG offers exposure to companies with momentum and improving fundamentals. The fund is simple in concept: pick big companies with strong growth trajectories and own them.
+Brookstone Growth Stock ETF (BAMG) invests in large-cap companies that are growing their earnings faster than the broader market average. Instead of holding every large-cap name equally, BAMG tilts toward firms that are expanding profit and revenue rapidly, typically by reinvesting cash back into the business rather than paying [dividends](/dividend/). For investors who want their money to compound through capital gains over decades, BAMG offers exposure to companies with momentum and improving fundamentals. The fund is simple in concept: pick big companies with strong growth trajectories and own them.
 
 ## What "growth" means in the real world
 
-A growth stock is not just a company with a nice idea. It is a company that is demonstrably increasing its earnings and revenue faster than average. Microsoft's earnings grow 10 percent a year. Utilities' earnings grow 2 percent. Microsoft is a growth stock; the utility is not. Growth stocks tend to trade at higher price-to-earnings ratios because investors are buying not what the company earns today, but what it will earn in five or ten years as growth compounds.
+A growth stock is not just a company with a nice idea. It is a company that is demonstrably increasing its earnings and revenue faster than average. Microsoft's earnings grow 10 percent a year. Utilities' earnings grow 2 percent. [Microsoft](/msft-stock/) is a growth stock; the utility is not. Growth stocks tend to trade at higher [price-to-earnings ratios](/price-to-earnings-ratio/) because investors are buying not what the company earns today, but what it will earn in five or ten years as growth compounds.
 
-The strength of growth investing is leverage: small improvements in the growth rate compound dramatically over time. A company growing earnings 15 percent a year doubles in five years. One growing 5 percent a year takes fourteen years. If BAMG picks companies in the first category, patient investors are rewarded. If growth slows or stalls, the payoff disappears and the high valuation becomes a liability.
+The strength of [growth investing](/growth-investing/) is leverage: small improvements in the growth rate compound dramatically over time. A company growing earnings 15 percent a year doubles in five years. One growing 5 percent a year takes fourteen years. If BAMG picks companies in the first category, patient investors are rewarded. If growth slows or stalls, the payoff disappears and the high valuation becomes a liability.
 
 ## How BAMG screens for growth
 
-Most growth ETFs use metrics like forward earnings growth rate, revenue growth, or earnings-per-share expansion. BAMG selects large-cap stocks based on these growth characteristics and may weight them by momentum (how much the stock has recently outperformed) or other factors. The prospectus details the exact rules. The idea is simple: overweight the companies with the strongest earnings acceleration and underweight or exclude the laggards.
+Most [growth ETFs](/growth-etf/) use metrics like forward earnings growth rate, revenue growth, or earnings-per-share expansion. BAMG selects large-cap stocks based on these growth characteristics and may weight them by momentum (how much the stock has recently outperformed) or other factors. The prospectus details the exact rules. The idea is simple: overweight the companies with the strongest earnings acceleration and underweight or exclude the laggards.
 
 This is an active tilt within the large-cap universe. BAMG does not hold all 500 S&P 500 stocks equally. It holds the 50 or 100 or 200 largest-cap growth names and ignores or underweights slower-growing companies in the same index.
 
@@ -38,9 +38,9 @@ Buying BAMG when growth stocks are out of favor (low multiples, high skepticism)
 
 ## Total return including reinvestment
 
-A growth stock rarely pays a dividend. Instead, it reinvests cash into R&D, acquisitions, or new factories to fuel expansion. The payoff to the shareholder comes from rising share price as the company expands, not from cash distributions. An investor in BAMG gets little dividend income but captures the full benefit of earnings growth through share-price appreciation.
+A growth stock rarely pays a dividend. Instead, it reinvests cash into R&D, [acquisitions](/acquisition/), or new factories to fuel expansion. The payoff to the shareholder comes from rising share price as the company expands, not from cash distributions. An investor in BAMG gets little dividend income but captures the full benefit of earnings growth through share-price appreciation.
 
-This is tax-efficient in taxable accounts (no annual dividend taxes) and compounding-efficient (all profits work for you rather than some being paid out), which is one reason growth funds suit young, long-time-horizon investors.
+This is tax-efficient in taxable accounts (no annual dividend taxes) and compounding-efficient (all profits work for you rather than some being paid out), which is one reason [growth funds](/growth-fund/) suit young, long-time-horizon investors.
 
 ## Growth versus value cycles
 
@@ -56,7 +56,7 @@ This is especially severe in technology, where product cycles and competitive sh
 
 ## Expenses and the importance of staying invested
 
-BAMG's expense ratio is set by Brookstone and covers management and trading costs. The bigger hidden cost is trading in and out at the wrong times. Growth funds are seductive when they are winning and demoralising when they lose to value. Investors who buy BAMG high and sell after a drawdown crystallise losses. The best long-term returns come from buying and holding through cycles.
+BAMG's [expense ratio](/expense-ratio/) is set by Brookstone and covers management and trading costs. The bigger hidden cost is trading in and out at the wrong times. Growth funds are seductive when they are winning and demoralising when they lose to value. Investors who buy BAMG high and sell after a drawdown crystallise losses. The best long-term returns come from buying and holding through cycles.
 
 ## Who BAMG is for
 
@@ -66,9 +66,9 @@ BAMG is not for investors near retirement who need stable income, or those who l
 
 ## How to research BAMG
 
-Start with Brookstone's prospectus and fact sheet, which list the current holdings and the fund's growth criteria. Look at the top 10 holdings — are they the tech megacaps and fast-growing smaller names you expect? Is there diversification across sectors, or is it entirely weighted to three stocks?
+Start with Brookstone's prospectus and fact sheet, which list the current holdings and the fund's growth criteria. Look at the top 10 holdings — are they the tech megacaps and fast-growing smaller names you expect? Is there [diversification](/diversification/) across sectors, or is it entirely weighted to three stocks?
 
-Check the current price-to-earnings ratio and price-to-sales ratio of BAMG and compare them to a broad index. A much higher multiple signals that growth expectations are priced in and there is limited margin for disappointment. A lower multiple suggests growth is out of favour and risk-reward might be attractive.
+Check the current price-to-earnings ratio and [price-to-sales ratio](/price-to-sales-ratio/) of BAMG and compare them to a broad index. A much higher multiple signals that growth expectations are priced in and there is limited margin for disappointment. A lower multiple suggests growth is out of favour and risk-reward might be attractive.
 
 Review the fund's 5 and 10-year track record versus a large-cap index and a value-oriented peer fund. Growth outperforms in some periods and lags in others. Has BAMG beaten its benchmark over a full market cycle, or has it mostly tracked the whims of whether growth is in or out of favour?
 

@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-*The **First Trust Managed Municipal ETF** (ticker FMB) is an exchange-traded fund that holds a diversified portfolio of investment-grade municipal bonds issued across the United States, offering investors exposure to tax-exempt income with the liquidity and daily pricing of an ETF.*
+*The **First Trust Managed Municipal ETF** (ticker FMB) is an exchange-traded fund that holds a diversified portfolio of investment-grade [municipal bonds](/municipal-bond/) issued across the United States, offering investors exposure to tax-exempt income with the liquidity and daily pricing of an ETF.*
 
 ## What the fund holds and tracks
 
-FMB tracks the investment-grade segment of the U.S. municipal bond market — general obligation bonds, revenue bonds, and other municipal debt obligations that carry investment-grade credit ratings. The fund aims to hold a broad basket of these securities across different states, regions, and issuers, reflecting the overall composition of the investment-grade muni market. It does not follow a narrow index based on a single criterion like duration or sector, but rather seeks to capture the opportunity set available in the broader muni landscape while maintaining investment-grade quality. This breadth means the fund's holdings vary with market conditions and the manager's judgment about which bonds offer reasonable value.
+FMB tracks the investment-grade segment of the U.S. municipal [bond](/bond/) market — [general obligation bonds](/general-obligation-bond/), [revenue bonds](/revenue-bond/), and other municipal debt obligations that carry investment-grade [credit ratings](/credit-rating/). The fund aims to hold a broad basket of these securities across different states, regions, and issuers, reflecting the overall composition of the investment-grade muni market. It does not follow a narrow index based on a single criterion like duration or sector, but rather seeks to capture the opportunity set available in the broader muni landscape while maintaining investment-grade quality. This breadth means the fund's holdings vary with market conditions and the manager's judgment about which bonds offer reasonable value.
 
 ## The tax advantage and who it serves
 
@@ -23,7 +23,7 @@ Municipal bonds offer a distinctive feature in U.S. tax law: interest income is 
 
 ## Structure and how it trades
 
-FMB is a passively managed ETF that trades on a stock exchange (NASDAQ) and can be bought and sold throughout the trading day at market prices, unlike closed-end muni funds or individual bonds which can be less liquid. It holds dozens or hundreds of individual municipal bonds, each with its own maturity and credit characteristics. The fund's share price moves daily with the market value of its holdings, influenced by changes in prevailing interest rates, credit conditions, and the risk appetite of fixed-income investors more broadly. Its expense ratio is competitive — less than most actively managed muni funds and far less than the implicit trading costs of assembling a comparable bond portfolio through a broker.
+FMB is a passively managed ETF that trades on a [stock exchange](/stock-exchange/) ([NASDAQ](/nasdaq/)) and can be bought and sold throughout the trading day at market prices, unlike closed-end muni funds or individual bonds which can be less liquid. It holds dozens or hundreds of individual municipal bonds, each with its own maturity and credit characteristics. The fund's share price moves daily with the market value of its holdings, influenced by changes in prevailing [interest rates](/interest-rate/), credit conditions, and the risk appetite of fixed-income investors more broadly. Its [expense ratio](/expense-ratio/) is competitive — less than most actively managed muni funds and far less than the implicit trading costs of assembling a comparable bond portfolio through a [broker](/broker/).
 
 ## Portfolio characteristics and duration
 
@@ -31,13 +31,13 @@ FMB is an intermediate-duration fund, meaning its weighted-average maturity and 
 
 ## Costs and liquidity
 
-The expense ratio is the main cost to investors holding the fund — a small annual percentage taken from assets. Trading costs exist at the point of purchase or sale (the bid-ask spread), just as they do for any security. Once held, FMB trades throughout the day with sufficient daily volume to allow most investors to enter and exit without moving the market. Distributions are typically made monthly, paid in cash (or reinvested if the investor elects automatic reinvestment), and are generally tax-exempt at the federal level, though the fund's prospectus is the authoritative source.
+The expense ratio is the main cost to investors holding the fund — a small annual percentage taken from assets. Trading costs exist at the point of purchase or sale (the [bid-ask spread](/bid-ask-spread/)), just as they do for any security. Once held, FMB trades throughout the day with sufficient daily volume to allow most investors to enter and exit without moving the market. Distributions are typically made monthly, paid in cash (or reinvested if the investor elects automatic reinvestment), and are generally tax-exempt at the federal level, though the fund's prospectus is the authoritative source.
 
 ## Risks and considerations
 
-Municipal bonds carry credit risk — the issuer may face financial stress and fail to pay interest or principal on schedule. FMB mitigates this by holding only investment-grade bonds, but investment-grade is a relative standard; credits within that category vary. The fund also carries interest-rate risk: when yields rise, the value of existing bonds falls, and vice versa. An investor who buys FMB at a high share price and sells shortly after a sharp rise in rates will crystallize a loss. Duration risk is meaningful for longer-horizon investors; investors with a short time horizon for the money should size the allocation carefully.
+Municipal bonds carry [credit risk](/credit-risk/) — the issuer may face financial stress and fail to pay interest or principal on schedule. FMB mitigates this by holding only [investment-grade bonds](/investment-grade-bond/), but investment-grade is a relative standard; credits within that category vary. The fund also carries [interest-rate risk](/interest-rate-risk/): when yields rise, the value of existing bonds falls, and vice versa. An investor who buys FMB at a high share price and sells shortly after a sharp rise in rates will crystallize a loss. Duration risk is meaningful for longer-horizon investors; investors with a short time horizon for the money should size the allocation carefully.
 
-Concentration risk varies with the market: if a particular state or sector faces fiscal stress, the portion of FMB exposed to that risk could underperform. The fund's manager attempts to maintain diversification across issuers and regions to mitigate this.
+[Concentration risk](/concentration-risk/) varies with the market: if a particular state or sector faces fiscal stress, the portion of FMB exposed to that risk could underperform. The fund's manager attempts to maintain [diversification](/diversification/) across issuers and regions to mitigate this.
 
 ## How investors research and monitor FMB
 

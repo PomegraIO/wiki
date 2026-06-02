@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-*TLA is an exchange-traded fund that holds Tesla shares inside an autocallable structured contract. If Tesla's stock hits a target price by a certain date, the fund pays investors out and closes. If Tesla never reaches that price, investors hold the shares until the contract matures. The trade is transparent: you cap your upside to get a predetermined exit point and a small coupon along the way.*
+*TLA is an exchange-traded fund that holds [Tesla](/tsla-stock/) shares inside an autocallable structured contract. If Tesla's stock hits a target price by a certain date, the fund pays investors out and closes. If Tesla never reaches that price, investors hold the shares until the contract matures. The trade is transparent: you cap your upside to get a predetermined exit point and a small coupon along the way.*
 
 ## How an autocallable actually works
 
-An autocallable is a contract bundled into an ETF. You buy in at the fund's opening price. The contract has two key dates: an observation date and a maturity date. On the observation date, the fund checks Tesla's closing price. If it equals or exceeds the call level, the fund redeems: shareholders get their capital back plus a coupon (a coupon is a fixed payment, like a bond's interest). If Tesla is below the call level, the contract stays alive. The coupon is paid anyway, and another observation date is set. This repeats. If Tesla never hits the call level by maturity, investors get whatever their shares are worth at that final date — potentially more or less than they paid.
+An autocallable is a contract bundled into an ETF. You buy in at the fund's opening price. The contract has two key dates: an observation date and a maturity date. On the observation date, the fund checks Tesla's closing price. If it equals or exceeds the call level, the fund redeems: shareholders get their capital back plus a coupon (a coupon is a fixed payment, like a [bond's](/bond/) interest). If Tesla is below the call level, the contract stays alive. The coupon is paid anyway, and another observation date is set. This repeats. If Tesla never hits the call level by maturity, investors get whatever their shares are worth at that final date — potentially more or less than they paid.
 
 The key difference from buying Tesla directly: you cannot profit above the call level. If you bought at 100 and the call is at 150, and Tesla soars to 200, you collect 150. You miss the move above. That foregone gain is the price you pay for the structure.
 
@@ -27,9 +27,9 @@ The phrase "downside protection" sometimes floats around autocallables because t
 
 ## Costs and trading liquidity
 
-GraniteShares manages the fund and charges an expense ratio that covers the structured wrapper and the cost of the embedded call option. This is more expensive than holding Tesla shares directly or owning a plain Tesla ETF. You are paying for the administrative complexity and the dealer margin baked into the autocallable contract.
+GraniteShares manages the fund and charges an [expense ratio](/expense-ratio/) that covers the structured wrapper and the cost of the embedded [call option](/call-option/). This is more expensive than holding Tesla shares directly or owning a plain Tesla ETF. You are paying for the administrative complexity and the dealer margin baked into the autocallable contract.
 
-The ETF trades on an exchange during market hours. Volume is typically lower than Tesla shares themselves, so bid-ask spreads can widen in quiet markets. If you need to exit before an observation date or maturity, liquidity may be thin and the price you get could be below intraday value. This is a liquidity risk that direct shareholders avoid.
+The ETF trades on an exchange during market hours. Volume is typically lower than Tesla shares themselves, so [bid-ask spreads](/bid-ask-spread/) can widen in quiet markets. If you need to exit before an observation date or maturity, liquidity may be thin and the price you get could be below intraday value. This is a [liquidity risk](/liquidity-risk/) that direct shareholders avoid.
 
 ## Who this is built for
 
@@ -39,6 +39,6 @@ The fund is also useful for advisors managing risk in a concentrated Tesla posit
 
 ## Research and decision-making
 
-Read the prospectus. It specifies the observation dates, the call level, the coupon rate, and the maturity date. These shift as the contract is renewed or reset. Check GraniteShares' website for the current term sheet. Compare the effective yield — what you earn in coupon over what you could earn elsewhere — against interest rates and other opportunities. If the coupon does not justify capping your upside, walk away.
+Read the prospectus. It specifies the observation dates, the call level, the [coupon rate](/coupon-rate/), and the maturity date. These shift as the contract is renewed or reset. Check GraniteShares' website for the current term sheet. Compare the effective yield — what you earn in coupon over what you could earn elsewhere — against [interest rates](/interest-rate/) and other opportunities. If the coupon does not justify capping your upside, walk away.
 
-Understand that an autocallable call is mechanical, not strategic. If Tesla hits the call level and you do not want to exit, you have no choice. The fund redeems and your capital is returned. Think through whether that timing aligns with your plan or whether it creates unwanted reinvestment risk. Only buy if you have genuinely accepted the trade-off and read the terms closely.
+Understand that an autocallable call is mechanical, not strategic. If Tesla hits the call level and you do not want to exit, you have no choice. The fund redeems and your capital is returned. Think through whether that timing aligns with your plan or whether it creates unwanted [reinvestment risk](/reinvestment-risk/). Only buy if you have genuinely accepted the trade-off and read the terms closely.

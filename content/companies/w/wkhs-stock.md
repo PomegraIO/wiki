@@ -53,7 +53,7 @@ Workhorse's only meaningful advantage is focus — it is dedicated entirely to e
 
 ### What is Workhorse's financial condition?
 
-As of recent reports, Workhorse has been unprofitable, burning cash, and dependent on capital raises to fund operations. The company's [market capitalization](/market-capitalization/) has fluctuated wildly, reflecting investor uncertainty about whether management can execute and whether the [commercial vehicle](/cvgi-stock/) electrification market will grow fast enough to support Workhorse's survival. The company's [balance sheet](/balance-sheet/) matters critically: How much cash does it have? How long can it operate at current burn rates before running out? What are management's plans to reach profitability?
+As of recent reports, Workhorse has been unprofitable, burning cash, and dependent on capital raises to fund operations. The company's [market capitalization](/market-capitalization/) has fluctuated wildly, reflecting investor uncertainty about whether management can execute and whether the commercial vehicle electrification market will grow fast enough to support Workhorse's survival. The company's [balance sheet](/balance-sheet/) matters critically: How much cash does it have? How long can it operate at current burn rates before running out? What are management's plans to reach profitability?
 
 ### How should an investor research Workhorse?
 

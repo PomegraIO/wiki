@@ -4,7 +4,7 @@ description: "Mobile-health Network Solutions develops mobile health technology 
 keywords: ["telemedicine", "mhealth", "healthcare technology", "patient engagement", "digital health", "remote healthcare"]
 ---
 
-*Mobile-health Network Solutions (MNDR) is a healthcare technology company focused on developing and deploying mobile health platforms and telemedicine solutions. The company designs software and infrastructure that enable patients to access [healthcare services](/hcsg-stock/) remotely, help healthcare providers manage patient interactions, and support healthcare organizations in modernizing their delivery operations through digital channels.*
+*Mobile-health Network Solutions (MNDR) is a healthcare technology company focused on developing and deploying mobile health platforms and telemedicine solutions. The company designs software and infrastructure that enable patients to access healthcare services remotely, help healthcare providers manage patient interactions, and support healthcare organizations in modernizing their delivery operations through digital channels.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MNDR</td></tr>

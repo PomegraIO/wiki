@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*JAB Acquisition Corp I is a special purpose acquisition company—a shell corporation formed to raise capital and find an existing company to merge with or acquire, transforming itself from an empty vessel into an operating business.*
+*JAB [Acquisition](/acquisition/) Corp I is a special purpose acquisition company—a shell corporation formed to raise capital and find an existing company to merge with or acquire, transforming itself from an empty vessel into an operating business.*
 
 JAB exists only to find a deal. Like all SPACs, it has no factories, no products, no employees in any meaningful sense, and no revenue. What it has is money raised from public investors—usually $10 per share in a basic unit that includes both a share and a partial warrant. The warrant gives the holder the right to buy more shares later at a set price, typically $11.50. This structure is the defining feature of the SPAC model: the public buys in cheaply, the promoters hunt for a target, and if a deal happens, everyone converts into shareholders of whatever company gets acquired.
 
@@ -22,4 +22,4 @@ The other ingredient in JAB's structure is the sponsor—the management team, us
 
 What makes JAB interesting as an investment—if it becomes interesting at all—is only what it becomes once a deal closes. Until then, it is pure speculation on the sponsors' ability to find a partner, negotiate fairly (or shrewdly), and not overpay. The public investors who bought in at $10 are betting they will not; the sponsors are betting they will. That tension is the whole story.
 
-Researching JAB before a deal closes is nearly pointless. The company has no business to analyze, no products to evaluate, and no financials beyond a bank account. Once a merger or acquisition target is announced, JAB becomes whatever that company is—and the honest research begins then. Until that moment, JAB is pure vehicle, and the only skill that matters is picking sponsors wisely.
+Researching JAB before a deal closes is nearly pointless. The company has no business to analyze, no products to evaluate, and no financials beyond a bank account. Once a [merger](/merger/) or acquisition target is announced, JAB becomes whatever that company is—and the honest research begins then. Until that moment, JAB is pure vehicle, and the only skill that matters is picking sponsors wisely.

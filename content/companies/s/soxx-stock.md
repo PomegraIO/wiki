@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-The iShares PHLX SOX Semiconductor Sector Index Fund (SOXX) is one of the oldest and largest semiconductor ETFs, issued by BlackRock and holding over 17 billion in assets. It tracks the PHLX Semiconductor Sector Index, a weighted collection of the 30 largest US semiconductor companies. SOXX is a passive fund, meaning it holds a portfolio that mirrors the index rather than making active bets on which chip stocks will outperform.
+The iShares PHLX SOX Semiconductor Sector [Index Fund](/index-fund/) (SOXX) is one of the oldest and largest semiconductor ETFs, issued by [BlackRock](/blk-stock/) and holding over 17 billion in assets. It tracks the PHLX Semiconductor Sector Index, a weighted collection of the 30 largest US semiconductor companies. SOXX is a passive fund, meaning it holds a portfolio that mirrors the index rather than making active bets on which chip stocks will outperform.
 
 ## What does SOXX own?
 
-SOXX holds shares of 30 companies engaged in the semiconductor business across the entire value chain. The top five holdings—Nvidia, Advanced Micro Devices, Broadcom, Qualcomm, and Marvell Technology—represent the core semiconductor design space. The fund also includes Intel, the integrated manufacturer that designs and fabricates its own chips. It holds Micron Technology and SK Hynix (for memory), and it includes equipment manufacturers like Applied Materials and ASML, whose tools are essential for making chips. This breadth across design, manufacturing, and equipment makes SOXX a comprehensive semiconductor exposure.
+SOXX holds shares of 30 companies engaged in the semiconductor business across the entire value chain. The top five holdings—[Nvidia](/nvda-stock/), [Advanced Micro Devices](/amd-stock/), [Broadcom](/avgo-stock/), Qualcomm, and [Marvell Technology](/mrvl-stock/)—represent the core semiconductor design space. The fund also includes [Intel](/intc-stock/), the integrated manufacturer that designs and fabricates its own chips. It holds [Micron Technology](/mu-stock/) and SK Hynix (for memory), and it includes equipment manufacturers like Applied Materials and [ASML](/asml-stock/), whose tools are essential for making chips. This breadth across design, manufacturing, and equipment makes SOXX a comprehensive semiconductor exposure.
 
 Nvidia has become the largest holding in recent years, reflecting the market's conviction that the company's AI accelerator chips will drive semiconductor demand for years to come. The top 10 holdings account for roughly 60% of the fund's assets, which reflects the market-capitalization weighting of the index.
 
@@ -26,13 +26,13 @@ SOXX avoids the bet-the-farm risk of owning one or two stocks. By holding 30 com
 
 ## What is the cost of owning SOXX?
 
-SOXX has a very low expense ratio, typically around 0.40%, which is the annual fee you pay to own the fund. For an actively managed semiconductor fund, you might pay twice that or more. The low cost reflects the fact that SOXX simply holds the index rather than employing a team of stock pickers.
+SOXX has a very low [expense ratio](/expense-ratio/), typically around 0.40%, which is the annual fee you pay to own the fund. For an actively managed semiconductor fund, you might pay twice that or more. The low cost reflects the fact that SOXX simply holds the index rather than employing a team of stock pickers.
 
-At SOXX's size and liquidity, trading costs are minimal. You can buy or sell large positions on the NASDAQ without significantly moving the price. The bid-ask spread is tight, often just pennies on the share price, meaning you lose little to the friction of buying and selling.
+At SOXX's size and liquidity, trading costs are minimal. You can buy or sell large positions on the [NASDAQ](/nasdaq/) without significantly moving the price. The [bid-ask spread](/bid-ask-spread/) is tight, often just pennies on the share price, meaning you lose little to the friction of buying and selling.
 
 ## How does SOXX behave in different market conditions?
 
-Semiconductors are cyclical. The industry booms when corporations and consumers upgrade computers, servers, and electronic devices, and it busts when they pull back. In a recession, capital spending on data centers often falls sharply, and consumer electronics sales decline, hitting semiconductor demand hard.
+Semiconductors are cyclical. The industry booms when corporations and consumers upgrade computers, servers, and electronic devices, and it busts when they pull back. In a [recession](/recession/), capital spending on data centers often falls sharply, and consumer electronics sales decline, hitting semiconductor demand hard.
 
 In the past decade, though, new uses for chips have emerged. Cloud computing created persistent demand for data center chips. Artificial intelligence has created an urgent need for specialized chips that can train and run language models. Self-driving vehicles (still emerging) could become a massive source of demand. These trends have made semiconductor demand more durable than in past cycles.
 
@@ -40,15 +40,15 @@ SOXX's share price will rise if investors believe semiconductors will remain cen
 
 ## Is SOXX concentrated too heavily in a few stocks?
 
-Yes, SOXX has concentration risk. Nvidia alone represents roughly 20–25% of the fund in many periods. A dramatic decline in Nvidia's share price would hurt SOXX significantly. If you believe Nvidia is overvalued or faces a competitive threat, owning SOXX amplifies that risk relative to owning a broader tech index.
+Yes, SOXX has [concentration risk](/concentration-risk/). Nvidia alone represents roughly 20–25% of the fund in many periods. A dramatic decline in Nvidia's share price would hurt SOXX significantly. If you believe Nvidia is overvalued or faces a competitive threat, owning SOXX amplifies that risk relative to owning a broader tech index.
 
-SOXQ, Invesco's competitor fund tracking the same index, has the same concentration because they track the same index. If you want more diversification, you would look at a broader technology ETF or a total-market index fund that includes semiconductors as one sector among many.
+SOXQ, Invesco's competitor fund tracking the same index, has the same concentration because they track the same index. If you want more [diversification](/diversification/), you would look at a broader technology ETF or a total-market index fund that includes semiconductors as one sector among many.
 
 ## What about geopolitical risk?
 
-Semiconductors are at the center of geopolitical tension between the United States and China. The U.S. government restricts the export of advanced chips to China and blocks Chinese investment in US chip companies. Taiwan, which manufactures many of the world's most advanced chips through Taiwan Semiconductor Manufacturing Company (TSMC), faces military and political threat from mainland China.
+Semiconductors are at the center of geopolitical tension between the United States and China. The U.S. government restricts the export of advanced chips to China and blocks Chinese investment in US chip companies. Taiwan, which manufactures many of the world's most advanced chips through [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company (TSMC), faces military and political threat from mainland China.
 
-Many companies in SOXX have significant exposure to Asia through revenue or manufacturing. A trade war that restricts chip exports could hit their earnings. A conflict over Taiwan could disrupt global chip supply catastrophically. These risks are real and are worth monitoring if you own semiconductor stocks for the long term.
+Many companies in SOXX have significant exposure to Asia through revenue or manufacturing. A [trade war](/trade-war/) that restricts chip exports could hit their earnings. A conflict over Taiwan could disrupt global chip supply catastrophically. These risks are real and are worth monitoring if you own semiconductor stocks for the long term.
 
 ## Who should own SOXX?
 
@@ -68,4 +68,4 @@ Follow semiconductor industry analysts and publications. Sites like Semiwiki, th
 
 Monitor geopolitical developments affecting Taiwan, China, and US chip policy. These can move the index sharply and without much warning.
 
-Finally, remember that SOXX is a long-term holding. Semiconductors are cyclical, so short-term swings are normal. A 30% decline in a bear market is painful but historically has not been the permanent loss. Your decision to own SOXX should rest on your belief that semiconductors will remain important and that you can tolerate volatility along the way.
+Finally, remember that SOXX is a long-term holding. Semiconductors are cyclical, so short-term swings are normal. A 30% decline in a [bear market](/bear-market/) is painful but historically has not been the permanent loss. Your decision to own SOXX should rest on your belief that semiconductors will remain important and that you can tolerate volatility along the way.

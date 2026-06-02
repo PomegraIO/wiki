@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-*The **iShares 1-3 Year International Treasury Bond ETF** (ISHG) holds short-maturity government bonds issued by stable, developed-economy sovereigns — Canada, Japan, Germany, the UK, and similar — denominated in their home currencies. It is the shorter-duration cousin to broader international bond funds; interest-rate swings have less lever on its price.*
+*The **iShares 1-3 Year International [Treasury Bond](/treasury-bond/) ETF** (ISHG) holds short-maturity government [bonds](/bond/) issued by stable, developed-economy sovereigns — Canada, Japan, Germany, the UK, and similar — denominated in their home currencies. It is the shorter-duration cousin to broader international bond funds; interest-rate swings have less lever on its price.*
 
-The fund tracks an index of international treasury securities with one to three years remaining to maturity. This narrow maturity window matters. A bond that will be repaid in two years is far less sensitive to a shift in interest rates than one that will not mature for a decade. For investors worried about rising rates eroding a bond portfolio's value, the short duration of ISHG acts as a natural hedge.
+The fund tracks an index of international treasury securities with one to three years remaining to maturity. This narrow maturity window matters. A bond that will be repaid in two years is far less sensitive to a shift in [interest rates](/interest-rate/) than one that will not mature for a decade. For investors worried about rising rates eroding a bond portfolio's value, the short duration of ISHG acts as a natural hedge.
 
 ## The composition and what drives returns
 
@@ -27,13 +27,13 @@ Income arrives as interest payments from the underlying government coupon. Becau
 
 Institutional investors and buy-and-hold retail accounts use ISHG as a diversifying ballast in a global portfolio. Because international sovereign bonds move somewhat independently from US Treasuries, they introduce uncorrelated risk — when US rates spike, Japanese or Canadian rates may move in a different direction or magnitude. That decorrelation is the point.
 
-It is also used as a cash-like holding in a world where certain investors want to stay outside the dollar. Some international pension funds and foreign-based money managers hold a slice of short-duration developed-market treasuries as a low-volatility placeholder with a real yield and no duration risk.
+It is also used as a cash-like holding in a world where certain investors want to stay outside the dollar. Some international pension funds and foreign-based money managers hold a slice of short-duration developed-market treasuries as a low-volatility placeholder with a [real yield](/real-yield/) and no duration risk.
 
 ISHG is not an income play for the yield-hungry. The income from short-duration sovereigns in developed markets is modest by absolute standards — these are investment-grade, stable governments. Someone chasing yield will find better pickings elsewhere. ISHG is for someone building a diversified bond allocation, adding a touch of geographical hedge, and willing to accept currency exposure as the price of not hedging it away.
 
 ## Costs and trading mechanics
 
-The expense ratio is low, in line with other developed-market bond ETFs. The fund trades on a major exchange with solid liquidity during regular hours. The bid-ask spread is typically tight — measured in basis points, not dollars — because institutional interest in developed-market sovereign bonds is steady. A trader can move a meaningful position in ISHG without shifting the market much.
+The [expense ratio](/expense-ratio/) is low, in line with other developed-market [bond ETFs](/bond-etf/). The fund trades on a major exchange with solid liquidity during regular hours. The [bid-ask spread](/bid-ask-spread/) is typically tight — measured in basis points, not dollars — because institutional interest in developed-market sovereign bonds is steady. A trader can move a meaningful position in ISHG without shifting the market much.
 
 ## Research and benchmarking
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Brookfield's modern shape is the product of more than a century of evolution, acquisitions, and strategic repositioning. The company began as a utility holding company with roots in Montreal and Eastern Canada. Over subsequent decades, it expanded geographically and into new asset classes, gradually transforming itself from a traditional utility into a global operator and manager of long-duration alternative assets. Understanding that evolution illuminates why Brookfield today looks the way it does.
+Brookfield's modern shape is the product of more than a century of evolution, [acquisitions](/acquisition/), and strategic repositioning. The company began as a utility holding company with roots in Montreal and Eastern Canada. Over subsequent decades, it expanded geographically and into new asset classes, gradually transforming itself from a traditional utility into a global operator and manager of long-duration alternative assets. Understanding that evolution illuminates why Brookfield today looks the way it does.
 
 ## From utility holding company to diversified operator
 
@@ -33,13 +33,13 @@ The renewable energy turn also positioned Brookfield ahead of secular trends. As
 
 ## The asset-management business
 
-A parallel and strategically important development was the formalization and expansion of Brookfield's asset-management arm. Rather than just deploying its own capital, the company began raising capital from institutional investors—pension funds, insurers, sovereign wealth funds—and deploying that capital into the same types of assets (real estate, infrastructure, renewable energy) that the company operated directly. This multiplication effect was transformative: it allowed Brookfield to scale its reach far beyond its own balance sheet while earning recurring management fees and performance-based carried interest.
+A parallel and strategically important development was the formalization and expansion of Brookfield's asset-management arm. Rather than just deploying its own capital, the company began raising capital from institutional investors—pension funds, insurers, sovereign wealth funds—and deploying that capital into the same types of assets (real estate, infrastructure, renewable energy) that the company operated directly. This multiplication effect was transformative: it allowed Brookfield to scale its reach far beyond its own [balance sheet](/balance-sheet/) while earning recurring [management fees](/management-fee/) and performance-based carried interest.
 
 The asset-management business was not invented overnight but grew organically as the company's operating platforms matured and third-party capital became attracted to the company's track record and expertise. Over time, the company formalized the structure, creating dedicated investment vehicles and expanding its fundraising capability. This evolution converted Brookfield from a company that deployed only its own capital into one that deployed both its capital and third-party capital at scale.
 
 ## Geographic expansion and scale
 
-Throughout this evolution, Brookfield expanded geographically. It moved from Canada into the United States, then into Europe, Brazil, Australia, and other regions. This expansion served multiple purposes: it diversified the portfolio away from any single economy, it provided access to larger opportunities (the U.S. real estate market, for instance, is larger than Canada's), and it reduced the company's geographic concentration risk.
+Throughout this evolution, Brookfield expanded geographically. It moved from Canada into the United States, then into Europe, Brazil, Australia, and other regions. This expansion served multiple purposes: it diversified the portfolio away from any single economy, it provided access to larger opportunities (the U.S. real estate market, for instance, is larger than Canada's), and it reduced the company's geographic [concentration risk](/concentration-risk/).
 
 Scale became increasingly central to competitive advantage. A company that operates utilities in five countries can share expertise, benchmark costs, and implement best practices across all five, improving efficiency across the portfolio. A company that owns both utilities and real estate can deploy capital flexibly into whichever opportunity set is most attractive at any point in time. A company that manages institutional capital can deploy capital at a scale that no single balance sheet could support.
 
@@ -62,6 +62,6 @@ A modern investor looking at Brookfield should understand that the company's pre
 
 ## How to research this arc
 
-The company's annual 10-K filings trace this evolution through disclosed segment information, discussion of acquisitions and divestitures, and management commentary on strategic direction. Historical annual reports, though less detailed than modern filings, provide context. Business press coverage of major Brookfield acquisitions and strategic moves offers color on the company's intent and thinking at key junctures.
+The company's annual 10-K filings trace this evolution through disclosed segment information, discussion of acquisitions and [divestitures](/divestiture/), and management commentary on strategic direction. Historical [annual reports](/10-k/), though less detailed than modern filings, provide context. Business press coverage of major Brookfield acquisitions and strategic moves offers color on the company's intent and thinking at key junctures.
 
 For investors, the history matters because it clarifies the company's thesis and its advantages. Brookfield is not a short-term trader; it is a player in markets where patience, scale, and access to capital are durable advantages. Understanding how the company built those advantages illuminates both the investment case and the risks. The shares trade at market-set prices on multiple exchanges, and nothing here is a recommendation to buy or sell—only context for understanding how the business came to be what it is today.

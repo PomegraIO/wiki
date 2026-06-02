@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **State Street SPDR S&P Emerging Markets ex-China ETF** (XCNY) owns companies from fast-growing countries around the world — places like India, Brazil, and Mexico — but deliberately leaves out China. It lets investors bet on developing economies without the concentration risk or the geopolitical questions that come with heavy China exposure.*
+*The **[State Street](/stt-stock/) SPDR S&P Emerging Markets ex-China ETF** (XCNY) owns companies from fast-growing countries around the world — places like India, Brazil, and Mexico — but deliberately leaves out China. It lets investors bet on developing economies without the [concentration risk](/concentration-risk/) or the geopolitical questions that come with heavy China exposure.*
 
 <aside class="wiki-infobox">
 <table>
@@ -41,20 +41,20 @@ The companies range from big banks and oil companies to telecom firms, retailers
 
 ## Growth and risk
 
-Emerging-market economies grow faster than mature ones on average. That faster growth can translate into faster corporate earnings growth and higher stock returns over time. But it comes with trade-offs. These economies are more affected by swings in commodity prices, changes in global trade, and shifts in foreign investment. When fear rises, money flees emerging markets and rushes into safe assets like U.S. Treasury bonds. So XCNY's price tends to be volatile, especially in downturns.
+Emerging-market economies grow faster than mature ones on average. That faster growth can translate into faster corporate earnings growth and higher stock returns over time. But it comes with trade-offs. These economies are more affected by swings in commodity prices, changes in global trade, and shifts in foreign investment. When fear rises, money flees emerging markets and rushes into safe assets like U.S. [Treasury bonds](/treasury-bond/). So XCNY's price tends to be volatile, especially in downturns.
 
-Currency risk matters too. XCNY holds stocks denominated in many currencies — Indian rupees, Brazilian reals, Mexican pesos, and so on. When those currencies weaken against the dollar, XCNY's value (measured in dollars) falls even if the underlying stocks hold their ground. That adds a layer of volatility on top of the stock risk.
+[Currency risk](/currency-risk/) matters too. XCNY holds stocks denominated in many currencies — [Indian rupees](/indian-rupee/), Brazilian reals, Mexican pesos, and so on. When those currencies weaken against the dollar, XCNY's value (measured in dollars) falls even if the underlying stocks hold their ground. That adds a layer of volatility on top of the stock risk.
 
-Geopolitical risk is another factor. Many emerging-market countries have less stable governments or legal systems than the United States. Politics, wars, or policy shifts can hit stock markets hard. The exclusion of China removes one major source of that risk, but others remain — political changes in India, economic turmoil in Brazil, or supply-chain disruptions that affect Mexico's manufacturing base.
+Geopolitical risk is another factor. Many emerging-market countries have less stable governments or legal systems than the United States. Politics, wars, or policy shifts can hit [stock markets](/stock-market/) hard. The exclusion of China removes one major source of that risk, but others remain — political changes in India, economic turmoil in Brazil, or supply-chain disruptions that affect Mexico's manufacturing base.
 
 ## Who buys XCNY and why
 
-Long-term investors with a 10-year or longer horizon often own emerging-market funds because they believe that fast-growing economies will produce better returns than slow-growing rich ones. Younger investors or those with high risk tolerance can stomach the volatility. Some investors allocate a fixed slice of their portfolio to emerging markets as a diversification play — the belief that when U.S. stocks are down, emerging markets might be up, or vice versa.
+Long-term investors with a 10-year or longer horizon often own emerging-market funds because they believe that fast-growing economies will produce better returns than slow-growing rich ones. Younger investors or those with high risk tolerance can stomach the volatility. Some investors allocate a fixed slice of their portfolio to emerging markets as a [diversification](/diversification/) play — the belief that when U.S. stocks are down, emerging markets might be up, or vice versa.
 
 For investors who had a strong emerging-market allocation but wanted to avoid China, or who wanted to take a stand against China's political system, XCNY offered a cleaner way to do that than owning dozens of individual stocks. It is also a practical tool for financial advisors and professionals who manage diversified portfolios and need a simple way to express a view on non-China emerging markets.
 
 ## How to evaluate it
 
-Check how many countries and how many stocks XCNY holds. More diversification is generally safer. Look at the expense ratio — the annual cost to own the fund — and compare it to other emerging-market funds. A fee that is 0.1% per year is very cheap; one that is 0.7% or more is pricey. Read the fact sheet to see which countries make up the bulk of the fund. If half the fund is India and you are nervous about India's government, XCNY might not be right for you.
+Check how many countries and how many stocks XCNY holds. More diversification is generally safer. Look at the [expense ratio](/expense-ratio/) — the annual cost to own the fund — and compare it to other emerging-market funds. A fee that is 0.1% per year is very cheap; one that is 0.7% or more is pricey. Read the fact sheet to see which countries make up the bulk of the fund. If half the fund is India and you are nervous about India's government, XCNY might not be right for you.
 
 Watch the fund's performance relative to the broader emerging-markets index, which includes China. If XCNY is trailing the broader index by a lot, you are paying a price for the China exclusion. Think about whether that price is worth the peace of mind of not owning Chinese stocks. For some investors it is; for others it is not.

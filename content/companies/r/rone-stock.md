@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-ReserveOne Holdings, Inc., trading as RONE on financial markets, is a holding company whose operations centre on reserve management and related financial services infrastructure. The company's business and historical trajectory reflect the constant reshaping of corporate structures in response to market conditions, regulatory environments, and strategic repositioning — a story of consolidation, divestiture, and refocus that spans multiple decades and sectors.
+ReserveOne Holdings, Inc., trading as RONE on financial markets, is a holding company whose operations centre on reserve management and related financial services infrastructure. The company's business and historical trajectory reflect the constant reshaping of corporate structures in response to market conditions, regulatory environments, and strategic repositioning — a story of consolidation, [divestiture](/divestiture/), and refocus that spans multiple decades and sectors.
 
 <aside class="wiki-infobox">
 <table>
@@ -22,7 +22,7 @@ ReserveOne Holdings, Inc., trading as RONE on financial markets, is a holding co
 
 ## Tracing the corporate lineage
 
-Like many financial holding companies of its era, ReserveOne's corporate identity is layered with history. The company did not emerge fully formed in its current shape; rather, it evolved through a series of acquisitions, mergers, divestitures, and strategic realignments that characterize the financial services sector in the post-deregulation era. Understanding ReserveOne means understanding the business landscape it navigated: waves of consolidation that rewarded size and specialization, the periodic need to exit certain markets or segments as returns eroded or regulation shifted, and the ongoing challenge of finding sustainable competitive advantage in commodity-like financial services.
+Like many financial holding companies of its era, ReserveOne's corporate identity is layered with history. The company did not emerge fully formed in its current shape; rather, it evolved through a series of [acquisitions](/acquisition/), [mergers](/merger/), divestitures, and strategic realignments that characterize the financial services sector in the post-deregulation era. Understanding ReserveOne means understanding the business landscape it navigated: waves of consolidation that rewarded size and specialization, the periodic need to exit certain markets or segments as returns eroded or regulation shifted, and the ongoing challenge of finding sustainable competitive advantage in commodity-like financial services.
 
 The reserve management and custody businesses — the core of what ReserveOne operates — are themselves byproducts of this larger transformation. As commercial banking moved toward consumer deposits and wealth management, the infrastructure supporting institutional reserves, cash management, and custodial services became either more valuable to specialist providers or too capital-intensive and regulation-heavy to sustain without significant scale. ReserveOne's place in this ecosystem reflects choices made by earlier management: which segments to build, which to maintain, and which to exit.
 
@@ -30,7 +30,7 @@ The reserve management and custody businesses — the core of what ReserveOne op
 
 At its centre, ReserveOne's operations touch reserve management and related custody and settlement infrastructure. Reserve management is not a consumer-facing business — it is the plumbing that sits behind the scenes when institutions, funds, or other holding structures need to maintain and manage cash, securities, or collateral. The business model revolves around fees, not on principal: a small charge on assets held, transactions cleared, or services rendered. It is defensive by nature — customers are not seeking growth or leverage, but safety and access.
 
-This kind of work involves persistent infrastructure demands: secure custodians, settlement partnerships with clearing houses, real-time reporting and reconciliation systems, and tight regulatory compliance. It is capital-light relative to traditional banking — ReserveOne holds and manages third-party assets rather than deploying proprietary capital — but it does demand operational discipline and the trust of large institutional counterparties. Losing a major client to a competitor or to consolidation among customers can meaningfully affect the fee base; winning new business or expanding services to existing clients is the path to growth.
+This kind of work involves persistent infrastructure demands: secure [custodians](/custodian/), settlement partnerships with clearing houses, real-time reporting and reconciliation systems, and tight regulatory compliance. It is capital-light relative to traditional banking — ReserveOne holds and manages third-party assets rather than deploying proprietary capital — but it does demand operational discipline and the trust of large institutional counterparties. Losing a major client to a competitor or to consolidation among customers can meaningfully affect the fee base; winning new business or expanding services to existing clients is the path to growth.
 
 ## The margin and efficiency challenge
 

@@ -43,7 +43,7 @@ Each funding round dilutes existing shareholders if it is not offset by rising a
 
 ## Competitive Position in Computational Oncology
 
-Lantern is one of several companies pursuing AI-driven oncology. Larger pharmaceutical companies (Roche, Merck, GSK) have acquired or partnered with computational oncology startups. Pure-play competitors include companies using similar approaches but operating in different niches (different cancer types, different molecular markers, different trial designs).
+Lantern is one of several companies pursuing AI-driven oncology. Larger pharmaceutical companies (Roche, [Merck](/mrk-stock/), GSK) have acquired or partnered with computational oncology startups. Pure-play competitors include companies using similar approaches but operating in different niches (different cancer types, different molecular markers, different trial designs).
 
 Lantern's defensibility depends on proprietary data and algorithm quality. If the company has trained its models on larger or higher-quality datasets than competitors, and if the resulting predictions outperform in actual trials, competitive moats exist. If the algorithms perform no better than public machine-learning models trained on the same data, Lantern has no durable advantage.
 

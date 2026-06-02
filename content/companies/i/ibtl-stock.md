@@ -13,7 +13,7 @@ handwritten: true
 
 ## What is IBTL and why does it exist?
 
-The **iShares iBonds Dec 2031 Term Treasury ETF** is a Treasury fund that will close and pay you back at a specific time: December 2031. This sounds simple, but it is a meaningful departure from how most bond funds work. A typical bond fund—whether tracking an index or actively managed—holds Treasury securities of varying maturities and continuously replaces them as they mature. The fund exists indefinitely. The investor never knows exactly when they will see their principal back; they just own a perpetual bond portfolio that the manager keeps at a constant average maturity.
+The **iShares iBonds Dec 2031 Term Treasury ETF** is a Treasury fund that will close and pay you back at a specific time: December 2031. This sounds simple, but it is a meaningful departure from how most [bond](/bond/) funds work. A typical bond fund—whether tracking an index or actively managed—holds Treasury securities of varying maturities and continuously replaces them as they mature. The fund exists indefinitely. The investor never knows exactly when they will see their principal back; they just own a [perpetual bond](/perpetual-bond/) portfolio that the manager keeps at a constant average maturity.
 
 IBTL does not work that way. Every single Treasury security it holds matures in December 2031. The fund does not buy new bonds to replace maturing ones. Instead, the entire portfolio ages toward that one date. On the maturity date, the fund terminates, and every investor receives their principal as Treasury securities (or cash, depending on settlement).
 
@@ -21,11 +21,11 @@ Why build a fund this way? Because investors often know when they will need mone
 
 ## How IBTL de-risks automatically
 
-The fund's most distinctive feature is its **declining-duration mechanism**. Duration measures a bond's sensitivity to interest-rate changes. A Treasury bond with five years to maturity has a higher duration than a bond with one year, so its price swings more if rates move.
+The fund's most distinctive feature is its **declining-duration mechanism**. Duration measures a bond's sensitivity to interest-rate changes. A [Treasury bond](/treasury-bond/) with five years to maturity has a higher duration than a bond with one year, so its price swings more if rates move.
 
-When IBTL is established, its portfolio spans Treasuries across several years until December 2031. The fund does not keep that initial duration. Instead, the fund manager executes a pre-set schedule that gradually shifts capital from longer-dated Treasuries toward shorter-dated ones. In year one, the portfolio might average four years to maturity. In year two, it drops to three. By the final year before termination, the fund holds mostly Treasury bills.
+When IBTL is established, its portfolio spans Treasuries across several years until December 2031. The fund does not keep that initial duration. Instead, the fund manager executes a pre-set schedule that gradually shifts capital from longer-dated Treasuries toward shorter-dated ones. In year one, the portfolio might average four years to maturity. In year two, it drops to three. By the final year before termination, the fund holds mostly [Treasury bills](/treasury-bill/).
 
-This happens automatically, according to a mathematical formula that the fund publishes. There is no discretion, no guessing about interest rates. The portfolio becomes progressively less volatile, less risky. A catastrophic interest-rate spike a year before maturity hurts IBTL far less than it would a traditional Treasury fund, because IBTL is already holding short-dated, low-duration paper. But that safety comes with a cost: if interest rates fall sharply, IBTL captures less upside than a traditional bond fund holding longer maturities would.
+This happens automatically, according to a mathematical formula that the fund publishes. There is no discretion, no guessing about [interest rates](/interest-rate/). The portfolio becomes progressively less volatile, less risky. A catastrophic interest-rate spike a year before maturity hurts IBTL far less than it would a traditional Treasury fund, because IBTL is already holding short-dated, low-duration paper. But that safety comes with a cost: if interest rates fall sharply, IBTL captures less upside than a traditional bond fund holding longer maturities would.
 
 ## What is the fund for?
 
@@ -35,7 +35,7 @@ The primary use is straightforward: an investor needs cash in 2031, and Treasury
 
 ### Simplicity
 
-A secondary benefit is simplicity. Building and managing a Treasury ladder—buying individual bills, notes, and bonds to mature on the same date—requires a Treasury broker, an account, a minimum investment, and ongoing decision-making as some securities mature and need reinvestment. IBTL wraps that entire process into a single ETF share that can be bought on any stock exchange with any broker.
+A secondary benefit is simplicity. Building and managing a Treasury ladder—buying individual bills, notes, and bonds to mature on the same date—requires a Treasury [broker](/broker/), an account, a minimum investment, and ongoing decision-making as some securities mature and need reinvestment. IBTL wraps that entire process into a single ETF share that can be bought on any [stock exchange](/stock-exchange/) with any broker.
 
 ### Return capture
 
@@ -43,15 +43,15 @@ There is also a mathematical return to the declining-duration schedule in stable
 
 ## The mechanics of holding and trading
 
-IBTL trades on the NASDAQ like any stock. It can be bought or sold at market price during trading hours. The bid-ask spread is tight because the underlying Treasury securities are highly liquid. The fund's net asset value—the theoretical value of its Treasury holdings—is calculated daily and widely published.
+IBTL trades on the [NASDAQ](/nasdaq/) like any stock. It can be bought or sold at market price during trading hours. The [bid-ask spread](/bid-ask-spread/) is tight because the underlying Treasury securities are highly liquid. The fund's [net asset value](/net-asset-value/)—the theoretical value of its Treasury holdings—is calculated daily and widely published.
 
 Before maturity, IBTL's market price fluctuates with interest rates and supply-demand dynamics. If rates spike, IBTL's price falls, but less than a traditional Treasury fund's would, because the portfolio is already shorter duration. If the fund trades at a discount to NAV, a buyer is getting the Treasury securities at a markdown; at a premium, the buyer is paying above the net value. As maturity approaches, arbitrage traders exploit any gap, pulling the market price toward NAV.
 
-The fund holds only U.S. Treasury securities, so credit risk is zero. The only default risk is the U.S. government, which is priced at effectively zero risk in markets. The primary risks are interest-rate risk (before maturity) and reinvestment risk (after maturity, when the investor receives principal and must deploy it at prevailing rates).
+The fund holds only U.S. Treasury securities, so [credit risk](/credit-risk/) is zero. The only default risk is the U.S. government, which is priced at effectively zero risk in markets. The primary risks are [interest-rate risk](/interest-rate-risk/) (before maturity) and [reinvestment risk](/reinvestment-risk/) (after maturity, when the investor receives principal and must deploy it at prevailing rates).
 
 ## Cost and fee structure
 
-IBTL charges an annual expense ratio, disclosed in the prospectus and on the fund fact sheet. This covers the active management required to execute the declining-duration schedule and the fund's ongoing operations. The fee is higher than a passive Treasury index fund charges—because of the active management—but typically lower than active equity fund fees. For investors who would otherwise hire a manager to maintain a Treasury ladder or pay trading costs to rebalance a DIY ladder, the IBTL fee is often economical.
+IBTL charges an annual [expense ratio](/expense-ratio/), disclosed in the prospectus and on the fund fact sheet. This covers the active management required to execute the declining-duration schedule and the fund's ongoing operations. The fee is higher than a passive Treasury [index fund](/index-fund/) charges—because of the active management—but typically lower than active equity fund fees. For investors who would otherwise hire a manager to maintain a Treasury ladder or pay trading costs to rebalance a DIY ladder, the IBTL fee is often economical.
 
 ## How to evaluate IBTL
 

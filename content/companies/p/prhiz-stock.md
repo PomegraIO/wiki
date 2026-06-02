@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Presurance Holdings is an insurance holding company based in Michigan. Until September 2025 it was called Conifer Holdings, but it changed its name and ticker symbol to reflect a new direction. The company writes property and casualty insurance—coverage against fire, theft, liability, and other physical losses. It does not deal in life insurance, health insurance, or pensions. It sells insurance through its own subsidiaries and through brokers and agents across the United States.
+Presurance Holdings is an insurance holding company based in Michigan. Until September 2025 it was called Conifer Holdings, but it changed its name and ticker symbol to reflect a new direction. The company writes property and casualty insurance—coverage against fire, theft, liability, and other physical losses. It does not deal in life insurance, health insurance, or pensions. It sells insurance through its own subsidiaries and through [brokers](/broker/) and agents across the United States.
 
 <aside class="wiki-infobox">
 <table>
@@ -44,11 +44,11 @@ This strategy shift has real consequences. Presurance still owns a "legacy" book
 
 ## Cash flow and investment income
 
-Like any insurance company, Presurance collects premium dollars before it pays claims. That float—the cash sitting in the bank waiting to be paid out as claims settle—can be invested in bonds or stocks. That investment income is a second revenue stream. If claims are light and interest rates are favorable, investment income can be substantial. If claims are heavy or rates fall, investment income shrinks. Most specialty insurers price their underwriting conservatively (aiming to break even or make a small profit on claims) and earn their real returns on the investment side. Presurance, focused on a small set of specialty risks, likely follows this pattern, though its small size limits the investment portfolio's absolute return.
+Like any insurance company, Presurance collects premium dollars before it pays claims. That float—the cash sitting in the bank waiting to be paid out as claims settle—can be invested in [bonds](/bond/) or stocks. That investment income is a second revenue stream. If claims are light and [interest rates](/interest-rate/) are favorable, investment income can be substantial. If claims are heavy or rates fall, investment income shrinks. Most specialty insurers price their underwriting conservatively (aiming to break even or make a small profit on claims) and earn their real returns on the investment side. Presurance, focused on a small set of specialty risks, likely follows this pattern, though its small size limits the investment portfolio's absolute return.
 
 ## Risk factors and what can go wrong
 
-Presurance's risks are concentrated in a few geographies and risk classes. Specialty homeowners insurance in Florida is cyclical: in quiet hurricane years, underwriting is excellent, but one bad hurricane season can wipe out years of profits. The small-business commercial insurance that Presurance writes is labor-intensive to administer and is prone to fraud (staged claims, misrepresented operations). The wholesale model protects against catastrophic claims but relies on the company's ability to stay profitable on a smaller spread.
+Presurance's risks are concentrated in a few geographies and risk classes. Specialty [homeowners insurance](/homeowners-insurance/) in Florida is cyclical: in quiet hurricane years, underwriting is excellent, but one bad hurricane season can wipe out years of profits. The small-business commercial insurance that Presurance writes is labor-intensive to administer and is prone to fraud (staged claims, misrepresented operations). The wholesale model protects against catastrophic claims but relies on the company's ability to stay profitable on a smaller spread.
 
 The bigger risk is competition. Larger national carriers like Allstate and State Farm have much deeper capital, brand recognition, and distribution. They can undercut Presurance on price in competitive markets and can absorb individual large claims without stress. Presurance, small and focused on specialty niches, survives by underwriting better or by serving customers that larger carriers have turned away—a fragile position if market conditions shift.
 

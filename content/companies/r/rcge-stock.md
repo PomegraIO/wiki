@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-RCGE holds large-cap stocks from developed and emerging markets outside the United States, allocating equal dollar weight to each position rather than weighting by market capitalization. The result is a portfolio tilted toward overlooked mid-to-large companies and emerging markets, compared to traditional global indices that concentrate in mega-cap European and Japanese names.
+RCGE holds large-cap stocks from developed and emerging markets outside the United States, allocating equal dollar weight to each position rather than weighting by [market capitalization](/market-capitalization/). The result is a portfolio tilted toward overlooked mid-to-large companies and emerging markets, compared to traditional global indices that concentrate in mega-cap European and Japanese names.
 
 ## The intellectual roots
 
@@ -29,11 +29,11 @@ Geographic weighting differs markedly from market-cap indices. A traditional glo
 
 The fund rebalances quarterly or semiannually to reset all positions to equal weight. As stocks appreciate, they grow beyond their target allocation, triggering sales. As stocks decline, they shrink below target, triggering purchases. This mechanical process creates a systematic tilt: the fund sells yesterday's winners and buys yesterday's losers.
 
-In mean-reverting or ranging markets, this discipline works well. During sustained trends — a multi-year rally in a specific country or sector — the fund is constantly trimming winners and underweights the outperformance. Rebalancing also drives turnover: 15–25 percent annually is typical, far higher than a buy-and-hold market-cap index. Transaction costs erode returns, though they are not visible in the stated expense ratio.
+In mean-reverting or ranging markets, this discipline works well. During sustained trends — a multi-year rally in a specific country or sector — the fund is constantly trimming winners and underweights the outperformance. Rebalancing also drives turnover: 15–25 percent annually is typical, far higher than a buy-and-hold market-cap index. Transaction costs erode returns, though they are not visible in the stated [expense ratio](/expense-ratio/).
 
 ## Emerging-market and currency exposure
 
-RCGE's returns depend on stock performance and currency movements. A US investor holds euros, yen, pounds, renminbi, rupees, and real. If the dollar strengthens, the portfolio's dollar value falls. The fund does not hedge currency, so investors bear full currency volatility. For those viewing international exposure as a currency hedge, this is a feature. For those uncomfortable with FX swings, it is a risk.
+RCGE's returns depend on stock performance and currency movements. A US investor holds euros, yen, pounds, renminbi, rupees, and real. If the dollar strengthens, the portfolio's dollar value falls. The fund does not hedge currency, so investors bear full [currency volatility](/currency-volatility/). For those viewing international exposure as a currency hedge, this is a feature. For those uncomfortable with FX swings, it is a risk.
 
 Emerging markets also carry political and regulatory risk: capital controls, devaluations, policy shifts, and geopolitical tensions that developed markets avoid. RCGE's higher emerging-market weight amplifies this exposure.
 
@@ -48,7 +48,7 @@ Today, RCGE costs 0.30–0.60 percent annually, higher than passive market-cap-w
 
 ## The portfolio structure and geographic mix
 
-RCGE constructs its portfolio by selecting large-cap stocks from developed markets (principally Europe, Japan, Australia, Canada, and other high-income democracies) and emerging markets (China, India, Brazil, Mexico, and elsewhere), then allocating equal dollar weight to each holding. The fund typically holds 200 to 400 stocks, with exact constituents determined by RockCreek's large-cap screening criteria and regional diversification rules.
+RCGE constructs its portfolio by selecting large-cap stocks from developed markets (principally Europe, Japan, Australia, Canada, and other high-income democracies) and emerging markets (China, India, Brazil, Mexico, and elsewhere), then allocating equal dollar weight to each holding. The fund typically holds 200 to 400 stocks, with exact constituents determined by RockCreek's large-cap screening criteria and regional [diversification](/diversification/) rules.
 
 The geographic distribution is materially different from a traditional global ex-US index. A market-cap-weighted global ex-US fund would be heavily skewed toward Europe and Japan (the largest developed markets outside the US) with modest emerging-market weight. RCGE's equal weighting boosts emerging-market exposure significantly, typically allocating 20 to 30 percent to China, India, and other developing economies, versus 10 to 15 percent in market-cap-weighted equivalents.
 
@@ -60,13 +60,13 @@ RCGE rebalances to equal weight periodically, typically quarterly or semi-annual
 
 This approach works well in ranging or mean-reverting markets. When high-flying stocks cool and neglected stocks revive, equal-weight rebalancing captures the rotation. But in sustained trends — a multi-year rally in a particular country or sector — equal weighting can lag, because it is constantly trimming positions in the winners.
 
-Rebalancing also creates turnover and costs. The fund must trade to rebalance, incurring bid-ask spreads and commissions. The turnover is meaningful, typically 15 to 25 percent annually (compared to single-digit turnover in a pure buy-and-hold market-cap-weighted index). These costs reduce net returns slightly.
+Rebalancing also creates turnover and costs. The fund must trade to rebalance, incurring [bid-ask spreads](/bid-ask-spread/) and commissions. The turnover is meaningful, typically 15 to 25 percent annually (compared to single-digit turnover in a pure buy-and-hold market-cap-weighted index). These costs reduce net returns slightly.
 
 ## International equity exposure and currency considerations
 
-RCGE's returns are influenced by both stock selection (which companies perform) and currency movements. A US-based investor holding RCGE is exposed to movements in the euro, yen, pound, renminbi, Indian rupee, Brazilian real, and dozens of other currencies. If the dollar strengthens, foreign currencies weaken, and the dollar-value of the RCGE position declines, all else equal. Conversely, dollar weakness boosts the value of the fund.
+RCGE's returns are influenced by both stock selection (which companies perform) and currency movements. A US-based investor holding RCGE is exposed to movements in the euro, yen, pound, renminbi, [Indian rupee](/indian-rupee/), Brazilian real, and dozens of other currencies. If the dollar strengthens, foreign currencies weaken, and the dollar-value of the RCGE position declines, all else equal. Conversely, dollar weakness boosts the value of the fund.
 
-The fund does not hedge currency exposure (does not use forward contracts to lock in exchange rates), so shareholders bear full currency volatility. For investors who view global diversification as a means to reduce dependence on dollar-denominated assets, this currency exposure is a feature. For those uncomfortable with currency swings, it is a risk.
+The fund does not hedge currency exposure (does not use [forward contracts](/forward-contract/) to lock in exchange rates), so shareholders bear full currency volatility. For investors who view global diversification as a means to reduce dependence on dollar-denominated assets, this currency exposure is a feature. For those uncomfortable with currency swings, it is a risk.
 
 ## Emerging-market concentration and political risk
 
@@ -82,7 +82,7 @@ In periods when deep-value stocks outperform, RCGE's equal-weight approach works
 
 ## Costs and expense structure
 
-RCGE's annual expense ratio reflects the costs of equal-weight rebalancing, international trading, custody across multiple markets and currencies, and fund administration. For an international equity fund, the expense ratio is typically 0.30 to 0.60 percent, competitive with other actively screened global ex-US funds but higher than a passive market-cap-weighted international index fund (which might cost 0.08 to 0.15 percent).
+RCGE's annual expense ratio reflects the costs of equal-weight rebalancing, international trading, custody across multiple markets and currencies, and fund administration. For an international equity fund, the expense ratio is typically 0.30 to 0.60 percent, competitive with other actively screened global ex-US funds but higher than a passive market-cap-weighted international [index fund](/index-fund/) (which might cost 0.08 to 0.15 percent).
 
 The fund's stated expense ratio captures fees and administration; the full economic cost also includes the bid-ask spread on RCGE shares when trading and the portfolio turnover costs embedded in quarterly rebalancing.
 
@@ -94,4 +94,4 @@ An investor considering RCGE should start with the fund's prospectus and fact sh
 
 Key metrics to track include the fund's geographic and sector weights versus a market-cap-weighted benchmark, the expense ratio and annual turnover, the fund's valuations relative to the broader international equity market, and performance relative to a plain market-cap-weighted global ex-US ETF across different market environments.
 
-The fund's strength lies in its systematic rebalancing discipline and its tilt toward overlooked emerging markets. Its weakness lies in concentration on emerging-market risks and in underperformance during sustained mega-cap rallies in developed markets. RCGE is a long-term allocation vehicle, not a tactical position, and its role in a portfolio should be reviewed periodically to ensure the emerging-market weight and equal-weight mechanics still align with the investor's overall strategy.
+The fund's strength lies in its systematic [rebalancing discipline](/rebalancing-discipline/) and its tilt toward overlooked emerging markets. Its weakness lies in concentration on emerging-market risks and in underperformance during sustained mega-cap rallies in developed markets. RCGE is a long-term allocation vehicle, not a tactical position, and its role in a portfolio should be reviewed periodically to ensure the emerging-market weight and equal-weight mechanics still align with the investor's overall strategy.

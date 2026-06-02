@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-FOXO Technologies is a digital health company building software and AI tools to slow aging and manage the chronic diseases that come with it. The name comes from the FOXO gene — a famous biological target in aging research — and the company's mission reflects that origin: use machine learning and mobile apps to help people detect disease early, monitor their health continuously, and adjust their behavior or treatment in real time. It is not selling drugs. It is selling decision-support software and continuous monitoring platforms to patients, doctors, and health systems, with the bet that early detection and personalized intervention can shift people away from expensive crisis care.
+[FOXO Technologies](/foxo-stock/) is a digital health company building software and AI tools to slow aging and manage the chronic diseases that come with it. The name comes from the FOXO gene — a famous biological target in aging research — and the company's mission reflects that origin: use machine learning and mobile apps to help people detect disease early, monitor their health continuously, and adjust their behavior or treatment in real time. It is not selling drugs. It is selling decision-support software and continuous monitoring platforms to patients, doctors, and health systems, with the bet that early detection and personalized intervention can shift people away from expensive crisis care.
 
 <aside class="wiki-infobox">
 <table>

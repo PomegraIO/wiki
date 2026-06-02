@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-CBTJ is one of four monthly variants in the Calamos Bitcoin 80 Series—each designed around the same principle of defined outcomes but staggered across the calendar. Where CBTA targets April and CBTO targets October, CBTJ centers on a one-year outcome period that concludes in January. For investors who prefer an annual reset at year-end or who are drawn to the January entry point for psychological or operational reasons, this series provides the same protection mechanics under a different calendar.
+CBTJ is one of four monthly variants in the Calamos [Bitcoin](/bitcoin/) 80 Series—each designed around the same principle of defined outcomes but staggered across the calendar. Where CBTA targets April and CBTO targets October, CBTJ centers on a one-year outcome period that concludes in January. For investors who prefer an annual reset at year-end or who are drawn to the January entry point for psychological or operational reasons, this series provides the same protection mechanics under a different calendar.
 
 ## Structure and the Options Engine
 
@@ -27,7 +27,7 @@ The January series is particularly relevant for advisors and clients who operate
 
 ## Expense Ratio and Ongoing Costs
 
-CBTJ carries an annual expense ratio of 0.69 percent, consistent with CBTA and the other monthly series. This fee covers the fund's operations, the cost of managing the underlying options positions, and the rebalancing required to maintain the cap-and-collar structure as Bitcoin's price moves. The expense ratio is deducted from the gross returns, so the actual returns an investor sees are the capped upside (net of that fee) or the floored loss (also net of the fee).
+CBTJ carries an annual [expense ratio](/expense-ratio/) of 0.69 percent, consistent with CBTA and the other monthly series. This fee covers the fund's operations, the cost of managing the underlying options positions, and the rebalancing required to maintain the cap-and-collar structure as Bitcoin's price moves. The expense ratio is deducted from the gross returns, so the actual returns an investor sees are the capped upside (net of that fee) or the floored loss (also net of the fee).
 
 ## The Matching and Mismatching Problem
 
@@ -43,7 +43,7 @@ Conversely, Bitcoin can move 30 percent or more in a matter of weeks. If the cap
 
 ## Tax and Liquidity Considerations
 
-CBTJ trades as an ETF, meaning it can be bought and sold intraday on any exchange where it is listed. The fund's expense ratio and trading costs are lower than those of structured products sold through banks, which often carry embedded markups. However, the options-based structure means that CBTJ's holdings are not as transparent as a traditional equity or Bitcoin ETF; the fund does not publish a simple list of holdings the way an index fund would.
+CBTJ trades as an ETF, meaning it can be bought and sold intraday on any exchange where it is listed. The fund's expense ratio and trading costs are lower than those of structured products sold through banks, which often carry embedded markups. However, the options-based structure means that CBTJ's holdings are not as transparent as a traditional equity or Bitcoin ETF; the fund does not publish a simple list of holdings the way an [index fund](/index-fund/) would.
 
 Investors should be aware that structured products with defined outcomes can have tax complications. The IRS has issued guidance on how to treat certain outcome-based investments, but the specific tax treatment of CBTJ may depend on the investor's circumstances and jurisdiction. Consulting a tax advisor before a large position is prudent.
 

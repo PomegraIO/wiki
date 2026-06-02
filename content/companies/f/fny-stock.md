@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-FNY. Tracks the Nasdaq AlphaDEX Mid Cap Growth Index. Rules-based approach, fundamental-weighted portfolio. Not cap-weighted. Focuses on growth companies — faster expansion, improving sales, positive price momentum. Five metrics drive the ranking.
+FNY. Tracks the [Nasdaq](/nasdaq/) AlphaDEX Mid Cap Growth Index. Rules-based approach, fundamental-weighted portfolio. Not cap-weighted. Focuses on growth companies — faster expansion, improving sales, positive price momentum. Five metrics drive the ranking.
 
 Three-month, six-month, 12-month momentum: price appreciation over those windows. One-year sales growth: how fast revenue is expanding. Sales-to-price ratio: valuation relative to top-line expansion. All five feed a single composite score. Bottom 25 percent of ranked stocks eliminated. Remaining growth candidates weighted by their scores.
 
@@ -18,7 +18,7 @@ Strong momentum plus rapid sales expansion plus reasonable valuation multiple ge
 
 Mid-cap growth occupies an inflection point. Larger and more stable than small caps. Smaller and faster-growing than the blue-chip names. FNY targets the operating, healthier segment. Real expansion, sustainable. The AlphaDEX process is mechanical about this distinction — a company needs both the sales metrics and the momentum to rank highly.
 
-Holdings at least 90 percent in index components. Expense ratio 0.73 percent. Periodic rebalancing. Portfolio turns over more frequently than static holdings would — stocks move in and out of favor as rankings shift. Practical cost of maintaining a systematic, updated approach that captures changing leadership in the mid-cap growth universe.
+Holdings at least 90 percent in index components. [Expense ratio](/expense-ratio/) 0.73 percent. Periodic rebalancing. Portfolio turns over more frequently than static holdings would — stocks move in and out of favor as rankings shift. Practical cost of maintaining a systematic, updated approach that captures changing leadership in the mid-cap growth universe.
 
 AlphaDEX weighting versus cap-weighted growth differences matter. A smaller company with explosive sales growth and momentum gets higher weight than a larger, slower competitor. Over full market cycles, this has historically captured faster-compounding businesses before they graduate to large-cap status, where they fade as they mature. Rising-rate environments test this thesis sharply. When growth stocks underperform, FNY underperforms broad benchmarks. Known risk. The bet works best when growth trades in favor relative to value.
 

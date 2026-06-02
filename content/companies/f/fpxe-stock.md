@@ -46,11 +46,11 @@ The sectors represented depend on where capital markets activity is strongest. I
 
 The appeal of FPXE is that it aims to capture the explosive growth phase most companies experience in their first five to ten years of public life. Many successful European businesses have delivered outsized returns in the years immediately after coming to market, riding favorable industry conditions, strong management execution, and the adrenaline of early public company status.
 
-The risk is equally stark. Many newly public companies fail to grow, miss their targets, or are battered by market downturns before they have a chance to establish themselves. European smaller-cap stocks also carry less analyst coverage and lower liquidity than mega-cap names, so finding accurate information and trading the fund can both be harder. A deteriorating IPO market or a recession can hit newly public companies especially hard because they have less financial cushion and more aggressive growth expectations baked into their valuations.
+The risk is equally stark. Many newly public companies fail to grow, miss their targets, or are battered by market downturns before they have a chance to establish themselves. European smaller-cap stocks also carry less analyst coverage and lower liquidity than mega-cap names, so finding accurate information and trading the fund can both be harder. A deteriorating IPO market or a [recession](/recession/) can hit newly public companies especially hard because they have less financial cushion and more aggressive growth expectations baked into their valuations.
 
 ## Costs, trading, and rebalancing
 
-FPXE is a passive fund tracking the published IPOX Europe index, so it has a low expense ratio. It trades on NASDAQ with moderate volume. Rebalancing happens quarterly or semi-annually as the index adds new IPOs and removes companies that age out of the window. This mechanical turnover is part of the fund's structure, not an active management choice, but it does create some transaction costs that pure buy-and-hold regional funds avoid.
+FPXE is a passive fund tracking the published IPOX Europe index, so it has a low [expense ratio](/expense-ratio/). It trades on [NASDAQ](/nasdaq/) with moderate volume. Rebalancing happens quarterly or semi-annually as the index adds new IPOs and removes companies that age out of the window. This mechanical turnover is part of the fund's structure, not an active management choice, but it does create some transaction costs that pure buy-and-hold regional funds avoid.
 
 The fund's composition shifts meaningfully over time, so holding FPXE is quite different from holding a static list of companies. A shareholder in 2020 owned a very different mix of companies than a shareholder in 2025; the older cohorts have aged out and been replaced.
 
@@ -62,4 +62,4 @@ Start with the fund's prospectus and fact sheet from First Trust and NASDAQ to u
 
 Compare FPXE against other small-cap or growth-tilted European ETFs to see where it fits. Look at the IPO calendar and the performance of recent European IPO cohorts to sense whether newly public companies are in a favorable environment.
 
-Monitor the fund's premium or discount to net asset value and the bid-ask spread on NASDAQ — widening gaps can signal reduced investor interest or liquidity stress. Given the concentration on smaller, less-liquid stocks, the fund's own trading costs may be higher in market stress.
+Monitor the fund's premium or discount to [net asset value](/net-asset-value/) and the [bid-ask spread](/bid-ask-spread/) on NASDAQ — widening gaps can signal reduced investor interest or liquidity stress. Given the concentration on smaller, less-liquid stocks, the fund's own trading costs may be higher in market stress.

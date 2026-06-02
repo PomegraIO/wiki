@@ -25,13 +25,13 @@ The effect is dramatic over time. In a range-bound market where the index swings
 
 ## The index and its concentration
 
-The Defiance Next Gen Connectivity Index holds stocks in telecommunications, semiconductors, and related technology companies with exposure to 5G networks, broadband, and infrastructure connectivity. The index is narrow — roughly 40 to 50 holdings — which means VSTL's double leverage amplifies not just the market but also the idiosyncratic risk of a concentrated sector. A single negative catalyst in semiconductor manufacturing, spectrum auctions, or 5G buildout can cascade through the entire fund in a single day.
+The Defiance Next Gen Connectivity Index holds stocks in telecommunications, semiconductors, and related technology companies with exposure to 5G networks, broadband, and infrastructure connectivity. The index is narrow — roughly 40 to 50 holdings — which means VSTL's double leverage amplifies not just the market but also the [idiosyncratic risk](/idiosyncratic-risk/) of a concentrated sector. A single negative catalyst in semiconductor manufacturing, spectrum auctions, or 5G buildout can cascade through the entire fund in a single day.
 
-The narrowness also cuts the other way: in periods when connectivity and semiconductor stocks outperform, VSTL's leverage amplifies gains. During the 2023–2024 semiconductor boom, VSTL and other semiconductor-tracking leveraged ETFs delivered eye-popping returns. During the subsequent pullback, they collapsed just as fast.
+The narrowness also cuts the other way: in periods when connectivity and semiconductor stocks outperform, VSTL's leverage amplifies gains. During the 2023–2024 semiconductor boom, VSTL and other semiconductor-tracking [leveraged ETFs](/leveraged-etf/) delivered eye-popping returns. During the subsequent pullback, they collapsed just as fast.
 
 ## Costs and structure
 
-VSTL charges an expense ratio of roughly 0.95% annually, which is steep compared to an ordinary ETF but reasonable for the daily hedging and derivatives work required to maintain leverage. The fund also incurs borrowing costs (the cost of the margin used to lever up) that come out implicitly; in rising interest-rate environments, these costs rise, further eroding returns.
+VSTL charges an [expense ratio](/expense-ratio/) of roughly 0.95% annually, which is steep compared to an ordinary ETF but reasonable for the daily hedging and derivatives work required to maintain leverage. The fund also incurs borrowing costs (the cost of the margin used to lever up) that come out implicitly; in rising interest-rate environments, these costs rise, further eroding returns.
 
 The fund is liquid, typically trading several million shares daily during tech volatility spikes, though liquidity dries up during calm periods. Entry and exit are generally straightforward at tight spreads.
 

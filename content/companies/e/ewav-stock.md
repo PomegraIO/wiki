@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-East West Ave Acquisition Corp. is a shell company designed to raise capital from public markets and use that capital to acquire or merge with an operating business. The company filed with the SEC in 2025 to raise up to $100 million through an initial public offering, with plans to list on Nasdaq under ticker EWAVU.
+East West Ave [Acquisition](/acquisition/) Corp. is a shell company designed to raise capital from public markets and use that capital to acquire or merge with an operating business. The company filed with the SEC in 2025 to raise up to $100 million through an [initial public offering](/initial-public-offering/), with plans to list on [Nasdaq](/nasdaq/) under ticker EWAVU.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,15 +27,15 @@ East West Ave Acquisition Corp. is a shell company designed to raise capital fro
 
 ## The SPAC Structure
 
-East West Ave Acquisition is what is commonly known as a SPAC — a special-purpose acquisition company, also called a blank-check company. Unlike traditional companies that operate a business, a SPAC is a shell: it has no operating assets or revenue. Its sole purpose is to raise money from investors and then use that capital to acquire an existing private company, taking it public through a reverse merger.
+East West Ave Acquisition is what is commonly known as a SPAC — a [special-purpose acquisition company](/special-purpose-acquisition-company/), also called a blank-check company. Unlike traditional companies that operate a business, a SPAC is a shell: it has no operating assets or revenue. Its sole purpose is to raise money from investors and then use that capital to acquire an existing private company, taking it public through a [reverse merger](/reverse-merger/).
 
 The investors who buy shares in the SPAC are betting on the SPAC's sponsorship team — in this case, the judgment and dealmaking skill of CEO Molly Huang and CFO Thomas Kerkaert. Huang previously served as a Managing Director at Amber Capital Asia and as CEO of Seazen Asset Management; Kerkaert held CFO roles at Riverbend Sandler Pools and Legacy Housing Corp (a publicly traded housing manufacturer). The theory is that their track record and networks will enable them to identify and execute a compelling acquisition.
 
 ## How the IPO Works
 
-The SPAC will raise the $100 million by selling units to the public at $10 each. Each unit contains one share of common stock and a fraction (one-eighth) of a warrant, which gives holders the right to buy additional shares at a set price if and when they wish. For a three-year window after the IPO, management has the right to search for a target company to acquire.
+The SPAC will raise the $100 million by selling units to the public at $10 each. Each unit contains one share of [common stock](/common-stock/) and a fraction (one-eighth) of a warrant, which gives holders the right to buy additional shares at a set price if and when they wish. For a three-year window after the IPO, management has the right to search for a target company to acquire.
 
-If management finds a target and the shareholders vote to approve a merger, the SPAC merges with the target company, and the target company becomes the publicly traded successor. Shareholders of the original private company become shareholders of the new public entity. If no deal closes within the time window, the cash is returned to SPAC shareholders (minus transaction costs), and the SPAC is liquidated.
+If management finds a target and the shareholders vote to approve a [merger](/merger/), the SPAC merges with the target company, and the target company becomes the publicly traded successor. Shareholders of the original private company become shareholders of the new public entity. If no deal closes within the time window, the cash is returned to SPAC shareholders (minus transaction costs), and the SPAC is liquidated.
 
 ## The Target Criteria
 
@@ -47,9 +47,9 @@ The company has not yet identified a specific target, so the business it ultimat
 
 SPACs have become more controversial in recent years. Some of the risks worth understanding:
 
-The SPAC provides a cash pool that sponsors can theoretically use to identify valuable businesses, but it also creates misaligned incentives. Sponsors typically retain founder shares at no cost and receive a promote (a percentage of the merged company) if a deal closes. This can incentivize managers to complete a deal—any deal—rather than walk away from a mediocre opportunity. The IPO investors bear the market risk, while the sponsors' upside is partially decoupled from performance.
+The SPAC provides a cash pool that sponsors can theoretically use to identify valuable businesses, but it also creates misaligned incentives. Sponsors typically retain [founder shares](/founder-shares/) at no cost and receive a promote (a percentage of the merged company) if a deal closes. This can incentivize managers to complete a deal—any deal—rather than walk away from a mediocre opportunity. The IPO investors bear the [market risk](/market-risk/), while the sponsors' upside is partially decoupled from performance.
 
-Valuation inflation is common in SPAC mergers. The sponsors and the target company's owners have a shared interest in presenting optimistic projections to IPO shareholders, who may not scrutinize the assumptions as rigorously as they would in a standalone IPO or M&A process.
+Valuation [inflation](/inflation/) is common in SPAC mergers. The sponsors and the target company's owners have a shared interest in presenting optimistic projections to IPO shareholders, who may not scrutinize the assumptions as rigorously as they would in a standalone IPO or M&A process.
 
 The three-year search window creates time pressure and the possibility of desperation as the deadline approaches. Some SPACs that failed to find a suitable target have pursued acquisitions that proved unwise in hindsight.
 

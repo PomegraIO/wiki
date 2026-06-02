@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Sugi Holdings Co., Ltd., traded in the United States under the ticker SGIPF as an American Depositary Receipt, is a Japanese company engaged in pharmaceutical and retail healthcare operations. The ADR structure allows Japanese companies to trade on U.S. exchanges without the complexity of a direct listing; each SGIPF share represents a claim on one or more shares of the underlying Japanese company, held in trust by a U.S. custodian bank and settled in US dollars. This bridge between markets lets international investors—pension funds, mutual funds, and retail traders—own a stake in companies headquartered outside the United States.
+Sugi Holdings Co., Ltd., traded in the United States under the ticker SGIPF as an [American Depositary Receipt](/adr/), is a Japanese company engaged in pharmaceutical and retail healthcare operations. The ADR structure allows Japanese companies to trade on U.S. exchanges without the complexity of a [direct listing](/direct-listing/); each SGIPF share represents a claim on one or more shares of the underlying Japanese company, held in trust by a U.S. [custodian](/custodian/) bank and settled in [US dollars](/us-dollar/). This bridge between markets lets international investors—pension funds, [mutual funds](/mutual-fund/), and retail traders—own a stake in companies headquartered outside the United States.
 
 <aside class="wiki-infobox">
 <table>
@@ -31,7 +31,7 @@ The company's business built on pharmacy retail—the storefront operation—but
 
 ## The business model: stores, scale, and supply chain
 
-Sugi Holdings operates through a network of retail pharmacy locations across Japan, primarily in densely populated urban and suburban regions. The company's suppliers include pharmaceutical manufacturers, health-product makers, and general consumer-goods vendors—anyone whose products flow through pharmacy and drugstore shelves. The business is land-intensive in the sense that each store is a fixed location with lease obligations, labor costs, and inventory carrying costs, yet it is not capital-intensive in the way a factory or warehouse network is. Profitability depends on foot traffic, inventory turnover, product mix, and labor efficiency.
+Sugi Holdings operates through a network of retail pharmacy locations across Japan, primarily in densely populated urban and suburban regions. The company's suppliers include pharmaceutical manufacturers, health-product makers, and general consumer-goods vendors—anyone whose products flow through pharmacy and drugstore shelves. The business is land-intensive in the sense that each store is a fixed location with lease obligations, labor costs, and inventory carrying costs, yet it is not capital-intensive in the way a factory or warehouse network is. Profitability depends on foot traffic, [inventory turnover](/inventory-turnover/), product mix, and labor efficiency.
 
 Like any retail operation, the supply chain matters enormously. Upstream, Sugi Holdings negotiates with pharmaceutical companies and suppliers—the larger its store base, the stronger its bargaining power, and the better the terms it can extract. Downstream, the customer is an individual consumer buying a toothbrush, a cold remedy, or a vitamin—a walk-in transaction with low average ticket and high volume. The margin on any single item is thin, so volume and inventory management are everything.
 
@@ -43,9 +43,9 @@ The shift upstream is equally important. By building healthcare service operatio
 
 ## The ADR and access for U.S. investors
 
-Sugi Holdings' shares trade on Japanese exchanges, but the SGIPF American Depositary Receipt provides a bridge for U.S. institutional and retail investors without requiring them to open a Japanese brokerage account, navigate Japanese tax law, or deal directly with the Japanese settlement system. The trade-off is that ADR shares trade in the over-the-counter market (not on a major U.S. exchange) and typically have wider bid-ask spreads, lower liquidity, and less analyst coverage than a major-exchange listing. For a U.S. investor, SGIPF offers geographic diversification and exposure to Japanese healthcare retail, a market with different dynamics than the U.S. healthcare system.
+Sugi Holdings' shares trade on Japanese exchanges, but the SGIPF American Depositary Receipt provides a bridge for U.S. institutional and retail investors without requiring them to open a Japanese brokerage account, navigate Japanese tax law, or deal directly with the Japanese settlement system. The trade-off is that ADR shares trade in the [over-the-counter market](/over-the-counter-market/) (not on a major U.S. exchange) and typically have wider [bid-ask spreads](/bid-ask-spread/), lower liquidity, and less analyst coverage than a major-exchange listing. For a U.S. investor, SGIPF offers geographic [diversification](/diversification/) and exposure to Japanese healthcare retail, a market with different dynamics than the U.S. healthcare system.
 
-The ADR pricing itself is not independent; it reflects the underlying share price in Japan, adjusted for currency exchange rates and the ADR ratio. If the Japanese yen weakens against the US dollar, SGIPF may fall even if Sugi Holdings' Japanese shares hold steady, because the conversion back to dollars is less favorable. Currency risk is embedded in any foreign ADR.
+The ADR pricing itself is not independent; it reflects the underlying share price in Japan, adjusted for currency exchange rates and the ADR ratio. If the [Japanese yen](/japanese-yen/) weakens against the US dollar, SGIPF may fall even if Sugi Holdings' Japanese shares hold steady, because the conversion back to dollars is less favorable. [Currency risk](/currency-risk/) is embedded in any foreign ADR.
 
 ## Pressures and competitive landscape
 

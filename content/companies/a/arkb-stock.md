@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Ark 21Shares Bitcoin ETF is a passively managed, exchange-traded fund that holds actual bitcoin on behalf of its shareholders. Unlike the older generation of bitcoin futures-based funds, ARKB holds physical bitcoin in a custodian's vault and aims to track the spot price of bitcoin as closely as possible. The fund trades under the ticker ARKB on the NASDAQ and sits among the largest bitcoin ETFs in the United States.
+Ark 21Shares [Bitcoin](/bitcoin/) ETF is a passively managed, exchange-traded fund that holds actual bitcoin on behalf of its shareholders. Unlike the older generation of bitcoin futures-based funds, ARKB holds physical bitcoin in a [custodian's](/custodian/) vault and aims to track the spot price of bitcoin as closely as possible. The fund trades under the ticker ARKB on the [NASDAQ](/nasdaq/) and sits among the largest bitcoin ETFs in the United States.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,15 +27,15 @@ Ark 21Shares Bitcoin ETF is a passively managed, exchange-traded fund that holds
 
 ## How the fund works and earns revenue
 
-The unit economics of a bitcoin ETF are straightforward. Investors buy shares through their brokers, money flows into the fund, and fund managers use that capital to buy and hold bitcoin in offline storage, known as cold storage, maintained by professional custodians. The only revenue the fund generates is the difference between the price of the bitcoin it holds and the fees it charges shareholders.
+The unit economics of a bitcoin ETF are straightforward. Investors buy shares through their [brokers](/broker/), money flows into the fund, and fund managers use that capital to buy and hold bitcoin in offline storage, known as cold storage, maintained by professional custodians. The only revenue the fund generates is the difference between the price of the bitcoin it holds and the fees it charges shareholders.
 
-ARKB charges an annual management fee expressed as a percentage of assets under management. This fee is deducted daily from the fund's net asset value and distributed to the sponsor and operator. The fee is lower than the cost of actively managed cryptocurrency products, though higher than what passive stock index funds charge. Because the fund holds physical bitcoin and must pay for custodial safeguarding, insurance, and operational overhead, those costs flow into the fee structure. The sponsor keeps a slice to cover their business expenses; the rest goes to the operator and service providers.
+ARKB charges an annual [management fee](/management-fee/) expressed as a percentage of assets under management. This fee is deducted daily from the fund's [net asset value](/net-asset-value/) and distributed to the sponsor and operator. The fee is lower than the cost of actively managed cryptocurrency products, though higher than what passive stock [index funds](/index-fund/) charge. Because the fund holds physical bitcoin and must pay for custodial safeguarding, insurance, and operational overhead, those costs flow into the fee structure. The sponsor keeps a slice to cover their business expenses; the rest goes to the operator and service providers.
 
 The fund's economics differ markedly from active investment vehicles or from traditional asset managers. There is no alpha-generation strategy — no team trying to outperform bitcoin itself. The goal is pure replication: hold one bitcoin for every fractional unit owed to shareholders. If bitcoin rises in value, every share rises in the same proportion. If bitcoin falls, so do the shares. The value proposition to shareholders is not superior returns but access, simplicity, and tax efficiency compared to directly holding bitcoin.
 
 ## Why ARKB arrived and what it competes against
 
-For most of bitcoin's history, retail investors could not access it through ordinary brokerage accounts. Buying bitcoin directly required finding an exchange, creating an account, and managing private keys — a process too technical and risky for mainstream investors. The first bitcoin ETFs used bitcoin futures contracts, which created tax complications and allowed for basis drift between the ETF price and the actual bitcoin price.
+For most of bitcoin's history, retail investors could not access it through ordinary brokerage accounts. Buying bitcoin directly required finding an exchange, creating an account, and managing private keys — a process too technical and risky for mainstream investors. The first bitcoin ETFs used bitcoin [futures contracts](/futures-contract/), which created tax complications and allowed for basis drift between the ETF price and the actual bitcoin price.
 
 When the SEC approved spot bitcoin ETFs in 2024, funds like ARKB became the simplest way for ordinary investors to gain bitcoin exposure. The fund competes directly against other spot bitcoin ETFs sponsored by rivals like iShares and Fidelity, and less directly against buying bitcoin directly through retail exchanges. A prospective shareholder chooses among them based on fee, custody reputation, and size. ARKB benefited from the brand recognition of ARK Invest, particularly among younger, growth-oriented investors.
 

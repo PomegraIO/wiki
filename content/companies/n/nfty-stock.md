@@ -13,7 +13,7 @@ handwritten: true
 
 ### What is the Nifty 50 and why does India matter?
 
-The Nifty 50 is an index of the 50 largest, most-liquid companies on the National Stock Exchange of India. These are India's mega-cap firms: large financial services companies, technology firms, manufacturers, energy companies, and conglomerates that dominate the Indian economy. As India's population exceeds one billion and the country's GDP ranks among the world's largest and fastest-growing, the Nifty 50 is the natural starting point for investors seeking exposure to India's largest companies. The index is the Indian equivalent of the S&P 500 in the United States.
+The Nifty 50 is an index of the 50 largest, most-liquid companies on the [National Stock Exchange of India](/national-stock-exchange-of-india/). These are India's mega-cap firms: large financial services companies, technology firms, manufacturers, energy companies, and conglomerates that dominate the Indian economy. As India's population exceeds one billion and the country's GDP ranks among the world's largest and fastest-growing, the Nifty 50 is the natural starting point for investors seeking exposure to India's largest companies. The index is the Indian equivalent of the S&P 500 in the United States.
 
 ### How does equal weighting work, and why would you use it?
 
@@ -25,17 +25,17 @@ Equal weighting also introduces systematic rebalancing. As the stocks drift in p
 
 ### What does NFTY actually hold?
 
-NFTY holds common shares in all 50 components of the Nifty 50 index, held in equal dollar amounts. The portfolio is dominated by Indian financial services (major banks, insurance companies, and financial conglomerates), information-technology services firms, energy companies, and manufacturing. Sector diversification is the result of the Nifty 50's own composition, which mirrors India's economy. There are no bonds, no derivatives, and no non-Indian holdings — this is a pure play on large-cap India.
+NFTY holds common shares in all 50 components of the Nifty 50 index, held in equal dollar amounts. The portfolio is dominated by Indian financial services (major banks, insurance companies, and financial conglomerates), information-technology services firms, energy companies, and manufacturing. Sector [diversification](/diversification/) is the result of the Nifty 50's own composition, which mirrors India's economy. There are no [bonds](/bond/), no derivatives, and no non-Indian holdings — this is a pure play on large-cap India.
 
 ### What are the costs and how does it compare to cap-weighted India funds?
 
-NFTY charges an expense ratio disclosed in the prospectus, which is typically modest for a passive ETF. The equal-weighting approach requires more frequent rebalancing than cap-weighting, so turnover and trading costs are higher than a simple cap-weighted Nifty 50 ETF. Over a year, these hidden costs can add up. The fund trades on an exchange during US market hours, with spreads set by supply and demand; liquidity is generally adequate.
+NFTY charges an [expense ratio](/expense-ratio/) disclosed in the prospectus, which is typically modest for a passive ETF. The equal-weighting approach requires more frequent rebalancing than cap-weighting, so turnover and trading costs are higher than a simple cap-weighted Nifty 50 ETF. Over a year, these hidden costs can add up. The fund trades on an exchange during US market hours, with spreads set by supply and demand; liquidity is generally adequate.
 
 Compared to a cap-weighted Nifty 50 ETF or a broader emerging-markets fund, NFTY offers a different risk-return profile. It emphasizes mid-cap exposure within the Nifty 50 and rebalances into contrarian bets, which can outperform cap-weighting during sideways markets but may lag if mega-cap tech stocks continue to dominate.
 
 ### What are the real risks of holding India?
 
-India itself carries political, regulatory, and currency risks. The Indian rupee can fluctuate significantly against the dollar, which affects US-based investors' returns when converting back to dollars. Corporate governance standards in some Indian firms lag developed markets, though the largest Nifty 50 firms are generally well-governed. Concentration in financials and tech means sectoral downturns can hit hard. Regulatory changes — tax policy, foreign-investment rules, labor laws — can shift unexpectedly. And equal weighting amplifies the impact of any single stock's underperformance, since each holding has outsized weight.
+India itself carries political, regulatory, and [currency risks](/currency-risk/). The [Indian rupee](/indian-rupee/) can fluctuate significantly against the dollar, which affects US-based investors' returns when converting back to dollars. Corporate governance standards in some Indian firms lag developed markets, though the largest Nifty 50 firms are generally well-governed. Concentration in financials and tech means sectoral downturns can hit hard. Regulatory changes — tax policy, foreign-investment rules, labor laws — can shift unexpectedly. And equal weighting amplifies the impact of any single stock's underperformance, since each holding has outsized weight.
 
 ### How do you research NFTY before investing?
 

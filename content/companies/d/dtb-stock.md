@@ -28,7 +28,7 @@ Utilities live by reinvestment. DTE's regulated model depends on the regulator's
 
 ## Competitive Landscape and Regional Positioning
 
-The Midwest utility sector clusters tightly. DTE competes not for customers—its service territory is exclusive—but for investor capital and regulatory favor. Peers like [Consumers Energy](/cms-pb-stock/), [Alliant Energy](/lnt-stock/), and [Xcel Energy](/xel-stock/) operate similarly structured, large integrated utilities. Where DTE differs is in its coal exposure (higher than some peers), its Michigan regulatory base (which has its own trajectory), and its Midwest industrial customer mix. A manufacturing downturn in the Great Lakes region hits DTE's load directly in ways that a Southeast utility serving growth metros does not.
+The Midwest utility sector clusters tightly. DTE competes not for customers—its service territory is exclusive—but for investor capital and regulatory favor. Peers like Consumers Energy, [Alliant Energy](/lnt-stock/), and [Xcel Energy](/xel-stock/) operate similarly structured, large integrated utilities. Where DTE differs is in its coal exposure (higher than some peers), its Michigan regulatory base (which has its own trajectory), and its Midwest industrial customer mix. A manufacturing downturn in the Great Lakes region hits DTE's load directly in ways that a Southeast utility serving growth metros does not.
 
 ## The Earnings Lever: Rate Base and Regulatory Returns
 

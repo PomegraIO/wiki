@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-PT XL Smart Telecom Sejahtera is a big telecommunications company in Indonesia. It is one of four or five major mobile phone networks running across the country, competing to serve millions of people who use mobile phones for calls, texts, and internet. The company is traded on the Indonesian stock exchange, and American investors can buy it through an American Depositary Receipt (ADR) under the ticker PTXAF, which represents shares of the Indonesian parent company.
+PT XL Smart Telecom Sejahtera is a big telecommunications company in Indonesia. It is one of four or five major mobile phone networks running across the country, competing to serve millions of people who use mobile phones for calls, texts, and internet. The company is traded on the Indonesian [stock exchange](/stock-exchange/), and American investors can buy it through an [American Depositary Receipt](/adr/) (ADR) under the ticker PTXAF, which represents shares of the Indonesian parent company.
 
 Indonesia is a massive and sprawling country — more than 270 million people spread across thousands of islands. Building and running a telecommunications network across that geography is expensive and complex. Cell towers need to reach remote areas. Power infrastructure is uneven. Competition is fierce. Yet mobile phone penetration has exploded over the past two decades, and now most Indonesians own at least one phone. Mobile data usage is growing fast as internet use spreads.
 
@@ -32,7 +32,7 @@ Rising competition also means customer churn: people switch networks to save mon
 
 Indonesia is one of the world's fastest-growing major economies, and rising incomes mean more people buying mobile data and making calls. Mobile broadband is a huge business there — many Indonesians access the internet primarily through their phones, not desktop computers. That growth is attractive for a telecom operator.
 
-However, Indonesia also carries risks for investors. Regulation is not always predictable. Currency fluctuations can hit returns for American investors holding Indonesian rupiah-denominated cash flows. Political stability and property rights are less certain than in developed markets. Inflation can erode profits if the company cannot raise prices as fast as costs rise. And competition from bigger, better-capitalized rivals — including the other major Indonesian operators and potentially international players — is always a threat.
+However, Indonesia also carries risks for investors. Regulation is not always predictable. Currency fluctuations can hit returns for American investors holding Indonesian rupiah-denominated cash flows. Political stability and property rights are less certain than in developed markets. [Inflation](/inflation/) can erode profits if the company cannot raise prices as fast as costs rise. And competition from bigger, better-capitalized rivals — including the other major Indonesian operators and potentially international players — is always a threat.
 
 ## Revenue and profitability under pressure
 
@@ -42,13 +42,13 @@ This is why telecom operators everywhere have consolidated over time. Scale matt
 
 ## The ADR structure and shareholder considerations
 
-PTXAF is an ADR — American investors buy it as a regular stock on American exchanges, but it represents shares of the Indonesian company. This adds a layer of complexity. Currency risk is one: when the Indonesian rupiah weakens against the US dollar, an American investor's returns suffer, even if the underlying company is doing fine. Corporate governance and disclosure standards are different in Indonesia than in the US, so investors must do extra homework to understand the company's true financial position and management incentives.
+PTXAF is an ADR — American investors buy it as a regular stock on American exchanges, but it represents shares of the Indonesian company. This adds a layer of complexity. [Currency risk](/currency-risk/) is one: when the Indonesian rupiah weakens against the [US dollar](/us-dollar/), an American investor's returns suffer, even if the underlying company is doing fine. Corporate governance and disclosure standards are different in Indonesia than in the US, so investors must do extra homework to understand the company's true financial position and management incentives.
 
-The company also pays dividends that must be converted from rupiah to dollars, which incurs currency risk and transaction costs. These are manageable for a large investor but worth knowing about.
+The company also pays [dividends](/dividend/) that must be converted from rupiah to dollars, which incurs currency risk and transaction costs. These are manageable for a large investor but worth knowing about.
 
 ## Researching an emerging-market telecom
 
-To understand XL as an investment, start with the annual report and look at subscriber numbers, revenue per subscriber, cash generation, and debt levels. Understand the regulatory environment in Indonesia: what are the current rules on spectrum allocation, on pricing, on foreign investment? Watch for any major decisions by competitors or government that could shift the competitive landscape.
+To understand XL as an investment, start with the [annual report](/10-k/) and look at subscriber numbers, revenue per subscriber, cash generation, and debt levels. Understand the regulatory environment in Indonesia: what are the current rules on spectrum allocation, on pricing, on foreign investment? Watch for any major decisions by competitors or government that could shift the competitive landscape.
 
 Track the rupiah exchange rate, because it directly affects what American shareholders receive. Look at the company's debt position — if the company owes money in foreign currency and that currency strengthens, debt servicing becomes more expensive. Pay attention to dividend policy: will management return cash to shareholders, or reinvest it in the network?
 

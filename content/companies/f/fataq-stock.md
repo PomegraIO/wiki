@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Fat Brands is a restaurant holding company that has built itself into a portfolio operator of independent dining concepts by acquiring struggling and mid-market chains and rolling them together under one management structure. The company owns roughly 18 restaurant brands—ranging from fast casual to casual dining—and franchises or operates approximately 2,300 units across the globe. Its ticker symbol on NASDAQ is FATAQ.
+Fat Brands is a restaurant holding company that has built itself into a portfolio operator of independent dining concepts by acquiring struggling and mid-market chains and rolling them together under one management structure. The company owns roughly 18 restaurant brands—ranging from fast casual to casual dining—and franchises or operates approximately 2,300 units across the globe. Its ticker symbol on [NASDAQ](/nasdaq/) is FATAQ.
 
 The core idea has been constant: buy an underperforming or standalone restaurant brand, install better operational discipline and management, then extract synergies by serving multiple brands to existing franchisees. Fat Brands did not invent this playbook, but it has applied it at unusual scale to concepts that competitors might have written off.
 
@@ -18,7 +18,7 @@ The core idea has been constant: buy an underperforming or standalone restaurant
 
 The company traces its public life back to 2017, when a holding structure for Fatburger executed what was called a "mini IPO" in the $24 million range. Fatburger itself—a fast-casual burger chain with a long history—formed the initial platform.
 
-From there, Fat Brands moved quickly into acquisitions. In August 2020, it bought Johnny Rockets, a casual-dining American restaurant concept, for $25 million. That same impulse drove a more ambitious acquisition in July 2021: the purchase of Global Franchise Group, which owned Round Table Pizza, Hot Dog on a Stick, Great American Cookies, Pretzelmaker, and Marble Slab Creamery. Each of these was a established regional brand with decades of operating history, but none was large enough or well-positioned to compete as a standalone public company.
+From there, Fat Brands moved quickly into [acquisitions](/acquisition/). In August 2020, it bought Johnny Rockets, a casual-dining American restaurant concept, for $25 million. That same impulse drove a more ambitious acquisition in July 2021: the purchase of Global Franchise Group, which owned Round Table Pizza, Hot Dog on a Stick, Great American Cookies, Pretzelmaker, and Marble Slab Creamery. Each of these was a established regional brand with decades of operating history, but none was large enough or well-positioned to compete as a standalone public company.
 
 The roster has grown since. The portfolio now includes Twin Peaks (a sports bar), Smokey Bones (barbecue), Fazoli's (Italian quick-service), Native Grill & Wings, Elevation Burger, Yalla Mediterranean, and several others. Andrew Wiederhorn, the founder and chairman, became the controlling shareholder and driving force behind the strategy.
 
@@ -40,7 +40,7 @@ In 2024, Fat Brands opened 92 new restaurants and reported over 250 franchise ag
 
 ## The leverage challenge
 
-A critical tension in the business is financial leverage. The company has undertaken substantial debt to fund acquisitions, and that debt load constrains flexibility. In January 2026, Fat Brands filed for Chapter 11 bankruptcy protection, signaling that debt service and operational pressures had exceeded the company's ability to manage them within its existing capital structure. Bankruptcy is not the same as liquidation, but it illustrated the severity of the leverage problem.
+A critical tension in the business is financial leverage. The company has undertaken substantial debt to fund acquisitions, and that debt load constrains flexibility. In January 2026, Fat Brands filed for Chapter 11 bankruptcy protection, signaling that debt service and operational pressures had exceeded the company's ability to manage them within its existing capital structure. Bankruptcy is not the same as [liquidation](/liquidation/), but it illustrated the severity of the leverage problem.
 
 ## What to watch
 

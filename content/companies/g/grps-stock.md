@@ -52,7 +52,7 @@ Margins are further compressed by commodity-like pricing. GRPS cannot charge a 5
 
 ## Geographic Exposure and Regulation
 
-Aquaculture is geographically dispersed because water, climate, and labor availability determine viability. GRPS operates farms in specific regions (disclosed in its [10-K](/10-k/)). Regions with favorable temperatures, abundant freshwater or saltwater access, cheap labor, and lenient environmental regulation are attractive. Regions with strict regulation (limiting stocking density, requiring effluent treatment, mandating [waste management](/wm-stock/)) impose higher costs.
+Aquaculture is geographically dispersed because water, climate, and labor availability determine viability. GRPS operates farms in specific regions (disclosed in its [10-K](/10-k/)). Regions with favorable temperatures, abundant freshwater or saltwater access, cheap labor, and lenient environmental regulation are attractive. Regions with strict regulation (limiting stocking density, requiring effluent treatment, mandating waste management) impose higher costs.
 
 A customer might demand that GRPS farms comply with certifications (ASC—Aquaculture Stewardship Council; GAP—Global Aquaculture Practice) proving environmental and labor standards. Certification is an additional cost but justifies price premiums and appeal to environmentally conscious retailers. GRPS's competitive position depends partly on where it operates and what certifications it holds.
 

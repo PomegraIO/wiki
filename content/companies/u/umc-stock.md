@@ -34,7 +34,7 @@ UMC operates dozens of fabs across Taiwan, Singapore, and China. Output capacity
 
 UMC generates revenue from customers across China, the US, Europe, and Asia-Pacific. China is a significant end-market and also home to a rival (SMIC), creating strategic complexity. Geopolitical tensions over semiconductor self-sufficiency mean that US policy, Taiwan stability, and cross-strait relations all affect UMC's long-term outlook. The company has manufacturing footprints in mainland China and Singapore, diversifying exposure but also raising compliance and political risk.
 
-Most customers do not disclose their orders publicly, making UMC's revenue less predictable than a sales-to-specific-customers breakdown might suggest. Quarterly earnings reflect actual fab utilization, which responds to [global industrial](/gic-stock/) and automotive cycles.
+Most customers do not disclose their orders publicly, making UMC's revenue less predictable than a sales-to-specific-customers breakdown might suggest. Quarterly earnings reflect actual fab utilization, which responds to global industrial and automotive cycles.
 
 ## How to read UMC's financial filings
 

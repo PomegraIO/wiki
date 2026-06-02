@@ -15,7 +15,7 @@ handwritten: true
 
 RiverNorth Opportunistic Municipal [Income Fund](/income-fund/) is a [closed-end fund](/closed-end-fund/) whose sole purpose is to build a portfolio of [municipal bonds](/municipal-bond/) — debt issued by states, cities, counties, and other local authorities to finance infrastructure and operations — and distribute the income to shareholders. The fund is managed by RiverNorth Capital Management, an alternative-investment manager specializing in closed-end and [interval funds](/interval-fund/) focused on income generation.
 
-Municipal bonds carry an inherent tax advantage: their interest is exempt from federal income tax and often from state income tax as well if the investor lives in the state that issued the bond. This tax exemption makes a municipal bond yielding 3 percent economically equivalent to a taxable bond yielding 5 percent (at a 40 percent marginal tax rate), a straightforward math that has made munis attractive to wealthy and upper-middle-class investors for over a century.
+Municipal [bonds](/bond/) carry an inherent tax advantage: their interest is exempt from federal income tax and often from state income tax as well if the investor lives in the state that issued the bond. This tax exemption makes a municipal bond yielding 3 percent economically equivalent to a taxable bond yielding 5 percent (at a 40 percent marginal tax rate), a straightforward math that has made munis attractive to wealthy and upper-middle-class investors for over a century.
 
 RMI's strategy is to capture that tax-advantaged income on behalf of shareholders. The portfolio includes investment-grade and speculative-grade municipal bonds, pre-refunded munis (bonds where the principal has been secured by a trust of U.S. Treasuries), and other municipal securities. The fund distributes income monthly, with the distribution structured to maximize tax efficiency — the portion attributable to tax-exempt interest flows through to shareholders as tax-free, while any capital gains or short-term trading gains are taxable.
 
@@ -31,7 +31,7 @@ The fund commonly employs leverage — borrowing money to purchase additional bo
 
 The core risk in RMI's portfolio is municipal credit risk. Some issuers are creditworthy and stable; others face fiscal pressures from declining tax bases, rising unfunded liabilities (especially [pension obligations](/pension-obligation/)), or economic deterioration. The 2010s saw a wave of smaller municipal defaults and restructurings, and individual bonds and portfolios remain vulnerable to local economic shocks. The fund's portfolio will include some lower-rated bonds in search of higher yield, meaning it is betting on the stability of the underlying issuer.
 
-The fund is also dependent on continued tax-exemption status. Any significant federal or state change to the tax treatment of municipal bond interest would alter the fundamental appeal of the investment. This is a low-probability but significant tail risk.
+The fund is also dependent on continued tax-exemption status. Any significant federal or state change to the tax treatment of municipal bond interest would alter the fundamental appeal of the investment. This is a low-probability but significant [tail risk](/tail-risk/).
 
 ## Researching RMI
 

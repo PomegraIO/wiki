@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AAOX, issued by Tradr, is a leveraged exchange-traded product that seeks to deliver twice the daily performance of the Roundhill Applied AI ETF (AAOI). Like other daily-reset leveraged funds, AAOX uses borrowed capital and derivative contracts to amplify its underlying's movements, and it rebalances every trading day to reset its leverage ratio. This structure makes it useful for traders betting on artificial intelligence sector moves within a single day or over a few days, but it imposes significant hidden costs on anyone holding it longer.
+AAOX, issued by Tradr, is a leveraged exchange-traded product that seeks to deliver twice the daily performance of the Roundhill Applied AI ETF (AAOI). Like other daily-reset leveraged funds, AAOX uses borrowed capital and derivative contracts to amplify its underlying's movements, and it rebalances every trading day to reset its [leverage ratio](/leverage-ratio-forex/). This structure makes it useful for traders betting on artificial intelligence sector moves within a single day or over a few days, but it imposes significant hidden costs on anyone holding it longer.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,9 +28,9 @@ AAOX, issued by Tradr, is a leveraged exchange-traded product that seeks to deli
 
 ## Mechanics: how Tradr achieves 2x daily tracking
 
-AAOX does not hold the underlying AAOI shares outright. Instead it uses financial derivatives — primarily futures contracts and equity swaps — to synthetically replicate and amplify AAOI's daily return. At the end of each trading day, the fund settles its positions and restructures its derivatives to reset leverage to exactly 2x, wiping clean any imbalances from intraday movements. This daily reset is essential to AAOX's appeal: it means a single winning day is a true win, independent of yesterday's or tomorrow's performance.
+AAOX does not hold the underlying AAOI shares outright. Instead it uses financial derivatives — primarily [futures contracts](/futures-contract/) and [equity swaps](/equity-swap/) — to synthetically replicate and amplify AAOI's daily return. At the end of each trading day, the fund settles its positions and restructures its derivatives to reset leverage to exactly 2x, wiping clean any imbalances from intraday movements. This daily reset is essential to AAOX's appeal: it means a single winning day is a true win, independent of yesterday's or tomorrow's performance.
 
-The cost of this synthetic structure is embedded in the fund's expense ratio and in the bid-ask spread — the gap between the price you pay to buy and what you get when you sell. Tradr must continually roll, rebalance, and manage derivatives, and those operations have real costs that accrue daily. On quiet markets, that drag is a slow leak; in volatile markets, the leak accelerates.
+The cost of this synthetic structure is embedded in the fund's [expense ratio](/expense-ratio/) and in the [bid-ask spread](/bid-ask-spread/) — the gap between the price you pay to buy and what you get when you sell. Tradr must continually roll, rebalance, and manage derivatives, and those operations have real costs that accrue daily. On quiet markets, that drag is a slow leak; in volatile markets, the leak accelerates.
 
 ## The segments of risk in leveraged trading
 
@@ -48,7 +48,7 @@ AAOX's amplification depends on AAOI's own movement. AAOI is a non-leveraged ETF
 
 ## Who should and should not hold AAOX
 
-**Who should hold it:** Traders with conviction about AAOI's direction over the next one to three days, who actively monitor their position, and who can afford to lose their entire stake. Hedge funds and algorithmic traders use these instruments to amplify short-term tactical bets. Day traders and swing traders are the intended audience.
+**Who should hold it:** Traders with conviction about AAOI's direction over the next one to three days, who actively monitor their position, and who can afford to lose their entire stake. [Hedge funds](/hedge-fund/) and algorithmic traders use these instruments to amplify short-term tactical bets. Day traders and swing traders are the intended audience.
 
 **Who should avoid it:** Investors seeking long-term artificial intelligence exposure should buy AAOI itself, or a broad market index. Anyone planning to hold AAOX for weeks or months will see returns degraded by volatility decay, even if AAOI itself finishes in the black. Retail investors without active monitoring should not hold it. Anyone uncomfortable losing 20% in a single bad day has no business owning a 2x leveraged product in a volatile sector.
 
@@ -56,4 +56,4 @@ AAOX's amplification depends on AAOI's own movement. AAOI is a non-leveraged ETF
 
 Examine the fund's fact sheet for its trailing expense ratio, expressed as a percentage. That is the annual fee, but in a leveraged daily-reset fund, costs are incurred continuously. Compare AAOX's performance to 2x the underlying AAOI's performance over various periods — weeks and months, not just single days. The shortfall, especially in sideways markets, is the decay. Track the bid-ask spread during the hours you plan to trade; a fund that trades tight at 10 a.m. ET might have a much wider spread after 3 p.m., and slippage on entry or exit eats real returns.
 
-The prospectus details AAOX's exact rebalancing mechanics and derivative structure. Most brokers provide access to fact sheets and prospectuses for free. Before holding AAOX for more than a few days, calculate what daily decay costs you; it is simple arithmetic and worth doing explicitly.
+The prospectus details AAOX's exact rebalancing mechanics and derivative structure. Most [brokers](/broker/) provide access to fact sheets and prospectuses for free. Before holding AAOX for more than a few days, calculate what daily decay costs you; it is simple arithmetic and worth doing explicitly.

@@ -19,7 +19,7 @@ keywords: ["healthcare", "hong-kong", "emerging-markets", "medical-services", "d
 
 MEDI Group's capital model is shaped by the dual imperatives of the healthcare business in Asia: rapid demand growth paired with limited domestic capital markets. As incomes rise and aging populations demand medical services, healthcare providers must expand—build new clinics, purchase equipment, hire specialists. But this expansion capital is difficult to finance through debt alone in markets where banking systems are less developed or where healthcare lending is nascent. [Equity financing](/equity-financing/) becomes necessary, but equity is also expensive because investors demand high returns for exposure to emerging-market risk.
 
-MEDI Group therefore raises capital through a combination of equity issuance (to Hong Kong investors and international institutional shareholders) and debt (from regional banks, international lenders, and local [financial institutions](/fisi-stock/)). The exact mix varies by market conditions, but the pattern is clear: the company cannot grow through operations alone and must tap external capital repeatedly.
+MEDI Group therefore raises capital through a combination of equity issuance (to Hong Kong investors and international institutional shareholders) and debt (from regional banks, international lenders, and local financial institutions). The exact mix varies by market conditions, but the pattern is clear: the company cannot grow through operations alone and must tap external capital repeatedly.
 
 ## Equity Issuance and Dilution Management
 
@@ -45,7 +45,7 @@ To manage currency risk, MEDI Group may enter into hedging arrangements—financ
 
 ## Revenue Predictability and Cash Flow
 
-[Healthcare services](/hcsg-stock/) generate recurring, relatively predictable revenue. Patients require ongoing care; diagnostic services are repeat customers; in-patient facilities maintain steady utilization. This predictability makes healthcare businesses attractive to lenders. Unlike a manufacturing company whose revenue depends on new orders, a healthcare provider's cash flow derives from existing patient relationships and seasonal (but foreseeable) variation.
+Healthcare services generate recurring, relatively predictable revenue. Patients require ongoing care; diagnostic services are repeat customers; in-patient facilities maintain steady utilization. This predictability makes healthcare businesses attractive to lenders. Unlike a manufacturing company whose revenue depends on new orders, a healthcare provider's cash flow derives from existing patient relationships and seasonal (but foreseeable) variation.
 
 This stability allows MEDI Group to lever more heavily than a more cyclical business. A lender will offer more favorable terms to a company with stable, recurring revenue because the risk of default is lower. A healthcare provider's [operating-margin](/operating-margin/) is also relatively stable, making cash-flow projections more reliable.
 

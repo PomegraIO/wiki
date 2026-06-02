@@ -62,7 +62,7 @@ Sustained underinvestment in exploration and development can deplete Icon's rese
 
 Icon's debt schedule shows maturity dates for notes, revolving credit facilities, and other obligations. Clustered maturities in a single year or two create [refinancing risk](/refinancing-risk/). If Icon cannot refinance maturing debt during a commodity downturn or tightening credit market, it may face distressed asset sales or dilutive equity issuance. Conservative E&P operators ladder maturities across years to smooth refinancing.
 
-Floating-rate debt exposes Icon to rising [interest rates](/interest-rate/), which compress net income if EBITDA doesn't rise correspondingly. Fixed-rate debt locks in rates but may become expensive if rates fall and refinancing opportunities open at lower cost.
+Floating-rate debt exposes Icon to rising [interest rates](/interest-rate/), which compress net income if [EBITDA](/ebitda/) doesn't rise correspondingly. Fixed-rate debt locks in rates but may become expensive if rates fall and refinancing opportunities open at lower cost.
 
 ## The Reserve Narrative
 

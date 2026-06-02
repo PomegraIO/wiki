@@ -32,7 +32,7 @@ The business model reflected a fundamental shift in real estate finance. Rather 
 
 ## The lending and servicing engine
 
-Lument's core activity is originating commercial real estate loans. When a hotel developer or office building owner needs financing, Lument evaluates the borrower's creditworthiness, the property's cash flow, and the loan-to-value ratio — the size of the loan relative to the asset's worth. If the deal meets the company's underwriting criteria, it funds the loan from capital it has raised from investors. The loans it originates typically have terms of three to ten years and carry [interest rates](/interest-rate/) that float above a benchmark rate such as SOFR or the [prime rate](/prime-rate/).
+Lument's core activity is originating commercial real estate loans. When a hotel developer or office building owner needs financing, Lument evaluates the borrower's creditworthiness, the property's cash flow, and the loan-to-value ratio — the size of the loan relative to the asset's worth. If the deal meets the company's underwriting criteria, it funds the loan from capital it has raised from investors. The loans it originates typically have terms of three to ten years and carry [interest rates](/interest-rate/) that float above a benchmark rate such as [SOFR](/sofr/) or the [prime rate](/prime-rate/).
 
 Beyond origination, Lument services many of the loans it holds and those originated by others. Servicing means collecting payments from borrowers, maintaining escrow accounts for taxes and insurance, handling delinquencies, and managing any workout or restructuring if a borrower struggles. Servicing generates recurring fee income and keeps Lument in direct contact with borrowers — useful intelligence for identifying refinancing opportunities or additional lending relationships.
 
@@ -46,7 +46,7 @@ Origination fees, servicing fees, and advisory fees provide additional income. B
 
 ## Competitive pressures and market cyclicality
 
-Lument competes in a crowded non-bank lending space. Other mortgage REITs — such as [Ellington Financial](/efc-stock/), [Chimera Investment](/cim-stock/), and various specialty finance companies — chase the same borrowers and the same loan opportunities. Competition drives down pricing and spreads. When credit conditions are favorable and property values rising, borrowers shop for the best terms and Lument must underwrite carefully to avoid pricing its way into poor returns.
+Lument competes in a crowded non-bank lending space. Other mortgage REITs — such as Ellington Financial, [Chimera Investment](/cim-stock/), and various specialty finance companies — chase the same borrowers and the same loan opportunities. Competition drives down pricing and spreads. When credit conditions are favorable and property values rising, borrowers shop for the best terms and Lument must underwrite carefully to avoid pricing its way into poor returns.
 
 The business is inherently cyclical. Commercial real estate credit performs well when property values are stable and growing, occupancy rates are high, and tenants pay rent on time. In a downturn — rising vacancy, economic contraction, or a shock like the 2020 pandemic — loan losses spike and the value of loans already on the books can fall sharply. Mortgage REITs that took on too much leverage or overexposed themselves to a single property type or geography can face acute stress.
 

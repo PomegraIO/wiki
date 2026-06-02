@@ -31,7 +31,7 @@ Not for you: someone who wants to own Amazon and hold it for a year. That person
 
 ## The structure and fees
 
-Direxion Shares makes AMZU. The fund launched in 2019 and trades on the NYSE Arca exchange. It holds thousands of shares per day, so buying and selling during market hours is easy and prices stay tight. The expense ratio is about 1.08% per year.
+Direxion Shares makes AMZU. The fund launched in 2019 and trades on the NYSE Arca exchange. It holds thousands of shares per day, so buying and selling during market hours is easy and prices stay tight. The [expense ratio](/expense-ratio/) is about 1.08% per year.
 
 The leverage itself comes from swap contracts — financial derivatives that let the fund get 2X exposure without holding borrowed shares directly. Swaps are transparent, well-regulated, and Direxion is stable, so this is not a hidden risk. But it is a cost that shows up in the expense ratio.
 
@@ -41,7 +41,7 @@ One: if you hold AMZU for weeks or months, volatility decay almost always means 
 
 Two: concentration. AMZU is 100% Amazon. One company-specific bad piece of news — a major business setback, an antitrust ruling, an earnings miss — hits this fund twice as hard.
 
-Three: the derivatives themselves. They are backed by solid counterparties, but counterparty risk is real. If something blows up in the financial system, AMZU could face losses beyond the Amazon move itself.
+Three: the derivatives themselves. They are backed by solid counterparties, but [counterparty risk](/counterparty-risk/) is real. If something blows up in the financial system, AMZU could face losses beyond the Amazon move itself.
 
 Four: gapping. If Amazon gaps down overnight on bad news, AMZU cannot escape until the market opens. You can own it at the close and wake up significantly poorer.
 
@@ -53,6 +53,6 @@ Check what you expect Amazon to do. If you think Amazon will rise 5% in a week, 
 
 ## Researching AMZU
 
-Read the fund's prospectus. It explains the 2X daily reset plainly and includes examples of how decay happens. Check the fact sheet for the expense ratio and the current holdings (which are basically just the swap contract). Look at Amazon's historical volatility — if you see years where Amazon moves 25% and years where it moves 35%, those volatility swings are the enemy of 2X leverage over long holds.
+Read the fund's prospectus. It explains the 2X daily reset plainly and includes examples of how decay happens. Check the fact sheet for the expense ratio and the current holdings (which are basically just the swap contract). Look at Amazon's [historical volatility](/historical-volatility/) — if you see years where Amazon moves 25% and years where it moves 35%, those volatility swings are the enemy of 2X leverage over long holds.
 
-Before buying, backtest your idea. Take the last month of Amazon's daily moves and calculate what 2X would have returned, then compare it to what simple 2X the total move would have been. The difference is decay. If the decay is small over your intended holding period, AMZU might work. If it is large, you are paying too much for leverage.
+Before buying, backtest your idea. Take the last month of Amazon's daily moves and calculate what 2X would have returned, then compare it to what simple 2X the total move would have been. The difference is decay. If the decay is small over your intended [holding period](/holding-period/), AMZU might work. If it is large, you are paying too much for leverage.

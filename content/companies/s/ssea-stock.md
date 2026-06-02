@@ -41,7 +41,7 @@ The proposed valuation for Forever Young was $750 million to $900 million (pre-m
 
 ## Why China and healthcare
 
-The geographic focus on China reflects a long-standing appetite among private equity and SPAC sponsors for Chinese growth stories. [Healthcare services](/hcsg-stock/) is a defensible sector: as incomes rise and populations age, demand for medical services typically grows faster than GDP. Primary healthcare—clinics and smaller hospitals that serve rural and semi-rural China—has been a specific policy focus for the Chinese government.
+The geographic focus on China reflects a long-standing appetite among private equity and SPAC sponsors for Chinese growth stories. Healthcare services is a defensible sector: as incomes rise and populations age, demand for medical services typically grows faster than GDP. Primary healthcare—clinics and smaller hospitals that serve rural and semi-rural China—has been a specific policy focus for the Chinese government.
 
 That said, any SPAC merger involving a Chinese company carries regulatory and geopolitical risks. U.S.-China relations have deteriorated steadily over the decade, and regulators in both countries have become more skeptical of cross-border deals. Chinese healthcare companies have also faced regulatory pressure and accounting scrutiny on U.S. markets.
 

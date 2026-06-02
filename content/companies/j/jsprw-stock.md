@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Jasper Therapeutics is a clinical-stage biotechnology company developing engineered cell therapies for oncology. The company's core approach involves taking immune cells from cancer patients, genetically modifying them to recognize and attack specific cancer cells, and then returning the enhanced cells to the patient's bloodstream. This adoptive cell therapy model sits within the broader category of cell therapy and immunotherapy — a field that has grown from academic curiosity in the 1990s to a meaningful segment of the oncology drug market.
+[Jasper Therapeutics](/jspr-stock/) is a clinical-stage biotechnology company developing engineered cell therapies for oncology. The company's core approach involves taking immune cells from cancer patients, genetically modifying them to recognize and attack specific cancer cells, and then returning the enhanced cells to the patient's bloodstream. This adoptive cell therapy model sits within the broader category of cell therapy and immunotherapy — a field that has grown from academic curiosity in the 1990s to a meaningful segment of the oncology drug market.
 
 <aside class="wiki-infobox">
 
@@ -27,7 +27,7 @@ Jasper Therapeutics is a clinical-stage biotechnology company developing enginee
 
 </aside>
 
-Cell therapies in cancer have a track record. The FDA approved the first chimeric antigen receptor T-cell therapy (CAR-T) from Novartis in 2017, and several others have followed. These therapies have shown dramatic efficacy in certain blood cancers but remain expensive, complex to manufacture, and applicable only to specific tumour types. Jasper Therapeutics is developing next-generation approaches that aim to expand the breadth of cancers amenable to cell therapy and to solve manufacturing bottlenecks that limit accessibility.
+Cell therapies in cancer have a track record. The FDA approved the first chimeric antigen receptor T-cell therapy (CAR-T) from [Novartis](/nvs-stock/) in 2017, and several others have followed. These therapies have shown dramatic efficacy in certain blood cancers but remain expensive, complex to manufacture, and applicable only to specific tumour types. Jasper Therapeutics is developing next-generation approaches that aim to expand the breadth of cancers amenable to cell therapy and to solve manufacturing bottlenecks that limit accessibility.
 
 ## The cell-therapy landscape and Jasper's positioning
 
@@ -55,7 +55,7 @@ The regulatory pathway for cell therapies is evolving. The FDA has cleared multi
 
 ## Capital, timeline, and key risks
 
-The most material risk for Jasper is capital adequacy. Clinical-stage biotechnology companies are perpetually dependent on capital markets. A downturn in biotech investment, a clinical trial failure, or a perceived shift in the competitive landscape can make capital extremely expensive or unavailable. Jasper's ability to fund its operations and advance its pipeline depends on the company's perceived risk-adjusted return by investors.
+The most material risk for Jasper is [capital adequacy](/capital-adequacy/). Clinical-stage biotechnology companies are perpetually dependent on capital markets. A downturn in biotech investment, a clinical trial failure, or a perceived shift in the competitive landscape can make capital extremely expensive or unavailable. Jasper's ability to fund its operations and advance its pipeline depends on the company's perceived risk-adjusted return by investors.
 
 Clinical risk is also acute. If Jasper's lead programs fail to demonstrate efficacy or suffer unexpected safety events, the company's value can evaporate. Conversely, positive clinical data can unlock substantial value and improve capital access. The binary nature of clinical development creates significant volatility.
 

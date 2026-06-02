@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Compass Diversified Holdings issues multiple share classes. Alongside the common stock traded as CODI, the company maintains a series of preferred shares. These represent a different risk and return profile: investors in CODI-PA, one of the company's preferred-stock series, hold a claim on the cash flows of the business that sits between the holders of debt and the holders of common equity.
+Compass Diversified Holdings issues multiple share classes. Alongside the [common stock](/common-stock/) traded as CODI, the company maintains a series of preferred shares. These represent a different risk and return profile: investors in CODI-PA, one of the company's preferred-stock series, hold a claim on the cash flows of the business that sits between the holders of debt and the holders of common equity.
 
 <aside class="wiki-infobox">
 <table>
@@ -25,31 +25,31 @@ Compass Diversified Holdings issues multiple share classes. Alongside the common
 
 ## The structure and dividend claim
 
-Preferred shares are a form of hybrid security—they have characteristics of both debt and equity. They pay a fixed dividend at a stated rate, usually quarterly, much like a bond pays interest. But unlike a bond, there is no maturity date. The company can theoretically hold the preferred shares outstanding indefinitely. Dividends are not an obligation the way interest on debt is; if the company runs short on cash, it can suspend preferred dividends while continuing to pay debt (though doing so invites ratings downgrades and signals distress).
+Preferred shares are a form of hybrid security—they have characteristics of both debt and equity. They pay a fixed [dividend](/dividend/) at a stated rate, usually quarterly, much like a [bond](/bond/) pays interest. But unlike a bond, there is no maturity date. The company can theoretically hold the preferred shares outstanding indefinitely. Dividends are not an obligation the way interest on debt is; if the company runs short on cash, it can suspend preferred dividends while continuing to pay debt (though doing so invites ratings downgrades and signals distress).
 
-In Compass's capital stack, the preferred shares rank senior to the common equity. If the holding company ever faces a liquidation or restructuring, preferred holders receive their stated value ahead of any remaining assets being distributed to common shareholders. They rank behind debt holders, however. Creditors of the company are first in line; preferred shareholders are second.
+In Compass's capital stack, the preferred shares rank senior to the common equity. If the holding company ever faces a [liquidation](/liquidation/) or restructuring, preferred holders receive their stated value ahead of any remaining assets being distributed to common shareholders. They rank behind debt holders, however. Creditors of the company are first in line; preferred shareholders are second.
 
 This ranking affects the yield. Because preferred shares are safer than common equity—they have a prior claim and a defined dividend—they typically offer a lower yield than the common stock. Conversely, they are riskier and offer lower returns than the company's bonds, because they lack a maturity guarantee and the creditor protections that debt provides.
 
 ## Why Compass issued preferred shares
 
-Companies issue preferred shares for a few reasons. One is balance-sheet flexibility. The accounting treatment of preferred stock sits between debt and equity, and depending on how the shares are structured, they may help the issuer avoid violating debt covenants or leverage limits. For a company like Compass, which has acquisition ambitions and needs to manage its leverage ratios carefully, preferred shares offer a way to raise capital without taking on the rigid obligations of debt.
+Companies issue preferred shares for a few reasons. One is balance-sheet flexibility. The accounting treatment of [preferred stock](/preferred-stock/) sits between debt and equity, and depending on how the shares are structured, they may help the issuer avoid violating debt covenants or leverage limits. For a company like Compass, which has [acquisition](/acquisition/) ambitions and needs to manage its [leverage ratios](/leverage-ratio-forex/) carefully, preferred shares offer a way to raise capital without taking on the rigid obligations of debt.
 
 Another reason is cost. If a company has strong cash flow but faces high stock valuations, issuing preferred shares with a fixed dividend can be cheaper than issuing new common stock—the company doesn't have to give up as much dilution. For a holding company oriented toward distributions, preferred shares also attract a specific investor base: conservative income investors who want more security than common stock but higher yield than bonds.
 
 ## What can the company do with preferred shares?
 
-The company has a few levers with preferred stock. It can redeem the shares—buy them back at par value or higher—if it has excess cash and wants to simplify its capital structure. It can issue new series with different terms: higher or lower dividend rates, different call dates, cumulative or non-cumulative dividends. The existing terms determine the flexibility. Many preferred shares issued by Compass are callable, meaning the company can retire them at its option after a specified date, typically at par value or a small premium.
+The company has a few levers with preferred stock. It can redeem the shares—buy them back at [par value](/par-value/) or higher—if it has excess cash and wants to simplify its capital structure. It can issue new series with different terms: higher or lower dividend rates, different call dates, cumulative or non-cumulative dividends. The existing terms determine the flexibility. Many preferred shares issued by Compass are callable, meaning the company can retire them at its option after a specified date, typically at par value or a small premium.
 
-The call feature is important to understand. If interest rates fall and preferred shares with a high dividend become expensive to maintain, the company might call them and replace them with new preferred shares at a lower rate. This is profitable for the company but disappointing for shareholders holding the old shares, because they lose the above-market dividend and are forced to redeploy capital, likely at lower yields.
+The call feature is important to understand. If [interest rates](/interest-rate/) fall and preferred shares with a high dividend become expensive to maintain, the company might call them and replace them with new preferred shares at a lower rate. This is profitable for the company but disappointing for shareholders holding the old shares, because they lose the above-market dividend and are forced to redeploy capital, likely at lower yields.
 
 ## Risk factors specific to preferred stock
 
-Preferred shares carry credit risk. If Compass's underlying businesses deteriorate, cash generation falls, and the company faces pressure to service both debt and preferred dividends, the preferred dividend is at risk of being suspended. While the company is legally obligated to respect the priority of preferred over common, there is no external enforcement—if cash runs out, preferred holders may see their dividend cut while common shareholders take a loss or zero.
+Preferred shares carry [credit risk](/credit-risk/). If Compass's underlying businesses deteriorate, cash generation falls, and the company faces pressure to service both debt and preferred dividends, the preferred dividend is at risk of being suspended. While the company is legally obligated to respect the priority of preferred over common, there is no external enforcement—if cash runs out, preferred holders may see their dividend cut while common shareholders take a loss or zero.
 
-Many preferred shares issued by companies like Compass are perpetual—they have no maturity. This means an investor could hold the shares indefinitely. It also means the investor is exposed to duration risk: if interest rates rise sharply, the fixed dividend on the preferred becomes less attractive, and the market value of the shares falls. A 10-year investor horizon in a Compass preferred share exposes the holder to whatever happens to the parent holding company over that decade—acquisitions, divestitures, economic cycles, management changes.
+Many preferred shares issued by companies like Compass are perpetual—they have no maturity. This means an investor could hold the shares indefinitely. It also means the investor is exposed to duration risk: if interest rates rise sharply, the fixed dividend on the preferred becomes less attractive, and the market value of the shares falls. A 10-year investor horizon in a Compass preferred share exposes the holder to whatever happens to the parent holding company over that decade—acquisitions, [divestitures](/divestiture/), economic cycles, management changes.
 
-The call risk mentioned above is also real. If you buy a preferred share specifically for its 7% dividend, and the company calls it three years later in a low-rate environment, you are forced to reinvest in a 3% environment. This is the company's gain and your loss.
+The [call risk](/call-risk/) mentioned above is also real. If you buy a preferred share specifically for its 7% dividend, and the company calls it three years later in a low-rate environment, you are forced to reinvest in a 3% environment. This is the company's gain and your loss.
 
 ## How these shares fit in the broader capital structure
 

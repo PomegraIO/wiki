@@ -27,9 +27,9 @@ First Trust RiverFront Dynamic Emerging Markets ETF is the emerging-markets sibl
 
 ## The fund's origins and the case for active EM management
 
-RFEM was launched as part of First Trust and RiverFront's suite of dynamically managed funds, built on the conviction that passive EM index funds can be improved upon. The static cap-weighted index approach — which overweights the largest EM markets — can leave a portfolio trapped in yesterday's winners. EM markets are younger, more volatile, and shift faster than developed markets do, the thesis goes, so there is more room for an active model to add value by rotating toward markets with improving fundamentals and away from those facing headwinds.
+RFEM was launched as part of First Trust and RiverFront's suite of dynamically managed funds, built on the conviction that passive EM [index funds](/index-fund/) can be improved upon. The static cap-weighted index approach — which overweights the largest EM markets — can leave a portfolio trapped in yesterday's winners. EM markets are younger, more volatile, and shift faster than developed markets do, the thesis goes, so there is more room for an active model to add value by rotating toward markets with improving fundamentals and away from those facing headwinds.
 
-The specific model RiverFront uses evaluates each major EM country on relative valuation (comparing price-to-earnings and other metrics to historical averages and to other EMs), economic growth trends, and market sentiment gauges. When valuations are attractive and growth is accelerating, the model overweights that market; when valuations rise and growth slows, it trims the position. This is not market-timing in the traditional sense — the model is rules-based, not discretionary — but it does lead to rotation.
+The specific model RiverFront uses evaluates each major EM country on [relative valuation](/relative-valuation/) (comparing price-to-earnings and other metrics to historical averages and to other EMs), economic growth trends, and market sentiment gauges. When valuations are attractive and growth is accelerating, the model overweights that market; when valuations rise and growth slows, it trims the position. This is not market-timing in the traditional sense — the model is rules-based, not discretionary — but it does lead to rotation.
 
 ## Portfolio construction and the universe of holdings
 
@@ -39,13 +39,13 @@ Because the portfolio is actively managed, the precise composition changes as th
 
 ## Currency dynamics in an unhedged EM portfolio
 
-RFEM holds stocks in dozens of EM currencies — the Brazilian real, Mexican peso, Indian rupee, Thai baht, Philippine peso, and many others. The fund is unhedged, so an American investor's returns include both equity performance and currency movement. When EM currencies strengthen against the dollar (often during periods of strong commodity prices or when the Fed is hiking rates less aggressively), RFEM's returns are boosted. When EM currencies weaken, returns suffer. Over long periods, currency exposure tends to correlate with the economic cycle, so investors betting on EM growth often view currency risk as intrinsic to the opportunity.
+RFEM holds stocks in dozens of EM currencies — the Brazilian real, Mexican peso, [Indian rupee](/indian-rupee/), Thai baht, Philippine peso, and many others. The fund is unhedged, so an American investor's returns include both equity performance and currency movement. When EM currencies strengthen against the dollar (often during periods of strong commodity prices or when the Fed is hiking rates less aggressively), RFEM's returns are boosted. When EM currencies weaken, returns suffer. Over long periods, currency exposure tends to correlate with the economic cycle, so investors betting on EM growth often view [currency risk](/currency-risk/) as intrinsic to the opportunity.
 
 ## Expense ratio and active management value
 
-RFEM's expense ratio is typically 0.60% to 0.80% per year, reflecting the cost of active management and research. Like any actively managed fund, the critical question for investors is whether the active returns (before fees) have been sufficient to offset the higher cost. RFEM's long-term track record relative to passively managed EM funds determines whether the active approach has earned its keep.
+RFEM's [expense ratio](/expense-ratio/) is typically 0.60% to 0.80% per year, reflecting the cost of active management and research. Like any [actively managed fund](/actively-managed-fund/), the critical question for investors is whether the active returns (before fees) have been sufficient to offset the higher cost. RFEM's long-term track record relative to passively managed EM funds determines whether the active approach has earned its keep.
 
-The fund's manager turnover in individual stocks varies with market conditions and the model's signals, but it is generally moderate — not a high-frequency trading strategy, but more active than a hold-and-rebalance approach.
+The fund's manager turnover in individual stocks varies with market conditions and the model's signals, but it is generally moderate — not a [high-frequency trading](/high-frequency-trading/) strategy, but more active than a hold-and-rebalance approach.
 
 ## Evolution and the case for dynamic allocation
 
@@ -55,4 +55,4 @@ The rise of RFEM and similar dynamically managed ETFs reflects a broader shift i
 
 RFEM suits investors seeking diversified emerging-market exposure with the belief that active allocation based on valuation and growth signals can outperform a static index. It appeals to those comfortable with the higher fees of active management and who have a medium to long-term time horizon. It is less appropriate for cost-conscious passive investors or those seeking maximum simplicity.
 
-To research RFEM, review the fund prospectus and RiverFront's detailed methodology materials explaining the quantitative model. Examine the fund's country allocation and sector weighting relative to a passive EM index to understand how the active approach differs. Compare RFEM's after-fee returns to passively managed EM ETFs over multiple years to assess whether the active approach has added value. Monitor the fund's quarterly holdings updates to observe how often and how substantially the portfolio rotates between countries and sectors.
+To research RFEM, review the [fund prospectus](/fund-prospectus/) and RiverFront's detailed methodology materials explaining the quantitative model. Examine the fund's country allocation and sector weighting relative to a passive EM index to understand how the active approach differs. Compare RFEM's after-fee returns to passively managed EM ETFs over multiple years to assess whether the active approach has added value. Monitor the fund's quarterly holdings updates to observe how often and how substantially the portfolio rotates between countries and sectors.

@@ -25,7 +25,7 @@ A dollar of revenue from James Hardie fiber cement arrives primarily from builde
 
 Gross margins are the characteristic strength: the manufacturing process, while capital-intensive enough to require plants and equipment, does not face the commodity pricing pressure that afflicts bulk construction materials like concrete or steel. Because the material is proprietary (the particular fiber blend, the manufacturing process, and the brand reputation are Hardie's), and because builders have incorporated it into their cost models and specifications, the company can sustain gross margins in the 40–50% range — materially higher than the building-products industry average. That margin advantage reflects the switching costs and brand durability in the product itself.
 
-From those gross margins, the company funds selling, distribution, and administrative overhead. The business is not capital-light — maintaining and upgrading plants, developing new products, and supporting a field sales and distribution network require sustained investment — but it is not capital-consuming either. That leaves room for meaningful operating leverage: as volumes rise, fixed overhead gets spread across more units, and operating margins can expand.
+From those gross margins, the company funds selling, distribution, and administrative overhead. The business is not capital-light — maintaining and upgrading plants, developing new products, and supporting a field sales and distribution network require sustained investment — but it is not capital-consuming either. That leaves room for meaningful operating leverage: as volumes rise, fixed overhead gets spread across more units, and [operating margins](/operating-margin/) can expand.
 
 ## Durability and the asbestos shadow
 

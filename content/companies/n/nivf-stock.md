@@ -13,7 +13,7 @@ handwritten: true
 
 ### What is NewGenIvf and where does it operate?
 
-NewGenIvf Group Limited is an assisted reproductive services company headquartered in Bangkok, Thailand, with clinics operating across Thailand, Cambodia, and Kyrgyzstan. The company provides in-vitro fertilization (IVF), surrogacy, and related fertility treatments to couples and individuals seeking assisted reproduction. It trades on the NASDAQ under the ticker NIVF and is regulated as a foreign private issuer by the SEC. The company was founded in 2010 and has evolved from a single Bangkok clinic into a multi-country franchise model offering a full suite of fertility services—from initial diagnostics through embryo transfer, egg freezing, and surrogacy support.
+NewGenIvf Group Limited is an assisted reproductive services company headquartered in Bangkok, Thailand, with clinics operating across Thailand, Cambodia, and Kyrgyzstan. The company provides in-vitro fertilization (IVF), surrogacy, and related fertility treatments to couples and individuals seeking assisted reproduction. It trades on the [NASDAQ](/nasdaq/) under the ticker NIVF and is regulated as a foreign private issuer by the SEC. The company was founded in 2010 and has evolved from a single Bangkok clinic into a multi-country franchise model offering a full suite of fertility services—from initial diagnostics through embryo transfer, egg freezing, and surrogacy support.
 
 ### How does the core fertility business work?
 
@@ -41,13 +41,13 @@ Fertility medicine in Asia is fragmented. Competitors range from single-clinic o
 
 NewGenIvf's revenue comes primarily from IVF cycle fees, ancillary testing, and surrogacy packages. Margins are high for the services themselves—once a clinic is built, additional IVF cycles add little incremental cost—but capital intensity is real. A functioning IVF clinic requires specialized equipment (ultrasound, microscopes, incubators, cryopreservation units), trained embryologists, and clinical staff. Expansion into new geographies requires replicate investment. The company operates in lower-cost jurisdictions where labor and overhead are cheaper than in the developed world, supporting higher margins than comparable U.S. clinics would achieve.
 
-International patient acquisition is driven by marketing, word-of-mouth, and medical tourism facilitators. The company must invest in web presence, search advertising, and fertility agency partnerships to reach and convert patient inquiries. Patient acquisition cost can be substantial, and the conversion funnel is complex—many inquiries do not convert to treatments, and many treatments do not result in successful pregnancy.
+International patient [acquisition](/acquisition/) is driven by marketing, word-of-mouth, and medical tourism facilitators. The company must invest in web presence, search advertising, and fertility agency partnerships to reach and convert patient inquiries. Patient acquisition cost can be substantial, and the conversion funnel is complex—many inquiries do not convert to treatments, and many treatments do not result in successful pregnancy.
 
 ### What regulatory and geopolitical risks does the company face?
 
-NewGenIvf is exposed to political and regulatory shifts in its operating countries. Thailand is politically volatile and has experienced multiple military coups; policy toward fertility tourism could change rapidly. Kyrgyzstan is less stable and less developed than Thailand. Changes in visa or travel policy could disrupt patient access. Any country could restrict or ban surrogacy, as some nations have, eliminating that revenue stream in that jurisdiction. Currency volatility affects revenues booked in foreign currency and then converted to reporting currency.
+NewGenIvf is exposed to political and regulatory shifts in its operating countries. Thailand is politically volatile and has experienced multiple military coups; policy toward fertility tourism could change rapidly. Kyrgyzstan is less stable and less developed than Thailand. Changes in visa or travel policy could disrupt patient access. Any country could restrict or ban surrogacy, as some nations have, eliminating that revenue stream in that jurisdiction. [Currency volatility](/currency-volatility/) affects revenues booked in foreign currency and then converted to reporting currency.
 
-The SEC's classification of the company as a foreign private issuer means it files Form 20-F (foreign issuer annual reports) rather than domestic Form 10-K, with less granular disclosure and longer reporting timelines. For investors, this means less detailed financial and operational transparency.
+The SEC's classification of the company as a foreign private issuer means it files Form 20-F (foreign issuer [annual reports](/10-k/)) rather than domestic Form 10-K, with less granular disclosure and longer reporting timelines. For investors, this means less detailed financial and operational transparency.
 
 ### What should investors track?
 

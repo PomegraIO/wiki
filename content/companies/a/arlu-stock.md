@@ -13,15 +13,15 @@ handwritten: true
 
 ## What is a buffer ETF and how does ARLU work?
 
-A buffer ETF is a structured investment that combines broad equity exposure with an embedded protection mechanism. The AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF delivers U.S. equity market exposure — typically tracking large-cap U.S. companies similar to an S&P 500 index — while absorbing the first 15 percent of any annual losses. This protection comes at a cost, built into the fund's expense ratio and embedded in the option strategies that create the buffer.
+A buffer ETF is a structured investment that combines broad equity exposure with an embedded protection mechanism. The AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF delivers U.S. equity market exposure — typically tracking large-cap U.S. companies similar to an [S&P 500 index](/sp-500-index/) — while absorbing the first 15 percent of any annual losses. This protection comes at a cost, built into the fund's [expense ratio](/expense-ratio/) and embedded in the option strategies that create the buffer.
 
 ## What underlying index or holdings does ARLU track?
 
-The fund provides exposure to the broad U.S. equity market, generally through holdings or derivatives tracking an index of large-cap U.S. companies. Unlike a simple index fund that holds the actual stocks, a structured buffer fund may use a combination of equity positions, futures contracts, and options strategies to achieve its dual objective of market participation and loss cushioning. The specific methodology — whether the fund owns the underlying shares directly, uses total-return swaps, or employs other derivatives — is detailed in the prospectus.
+The fund provides exposure to the broad U.S. equity market, generally through holdings or derivatives tracking an index of large-cap U.S. companies. Unlike a simple [index fund](/index-fund/) that holds the actual stocks, a structured buffer fund may use a combination of equity positions, [futures contracts](/futures-contract/), and options strategies to achieve its dual objective of market participation and loss cushioning. The specific methodology — whether the fund owns the underlying shares directly, uses total-return swaps, or employs other derivatives — is detailed in the prospectus.
 
 ## How much downside protection does the buffer really provide?
 
-The 15 percent buffer means that if the underlying U.S. equity index falls, losses within that 15 percent window are absorbed by the fund structure and do not affect the shareholder's net asset value. If the index falls 10 percent, the shareholder sees roughly no loss (minus ongoing expense ratios). If the index falls 20 percent, the shareholder typically experiences approximately a 5 percent loss (20 percent minus the 15 percent buffer). Losses beyond 15 percent flow through without further protection.
+The 15 percent buffer means that if the underlying U.S. equity index falls, losses within that 15 percent window are absorbed by the fund structure and do not affect the shareholder's [net asset value](/net-asset-value/). If the index falls 10 percent, the shareholder sees roughly no loss (minus ongoing expense ratios). If the index falls 20 percent, the shareholder typically experiences approximately a 5 percent loss (20 percent minus the 15 percent buffer). Losses beyond 15 percent flow through without further protection.
 
 ## Does the annual reset in April matter for long-term holders?
 

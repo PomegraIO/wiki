@@ -39,15 +39,15 @@ Costamare's fundamental advantage is the operational capability and relationship
 
 The more important driver of returns is the shipping cycle itself. Costamare has limited ability to influence the supply and demand for container shipping. Those forces are determined by global trade volumes, the number of ships in the world fleet, new ship construction rates, and the scrapping of old vessels. The company can manage its fleet size and composition, and it can be disciplined about time-charter decisions, but it cannot control the market.
 
-A spike in global trade — from economic recovery or from trade pattern shifts — can drive shipping demand higher, pushing rates up and benefiting Costamare. A recession or a slowdown in manufacturing and trade can drive demand down, pushing rates toward levels that barely cover operating costs. That cyclicality is inherent to shipping and affects all shipping companies regardless of their quality or operational prowess.
+A spike in global trade — from economic recovery or from trade pattern shifts — can drive shipping demand higher, pushing rates up and benefiting Costamare. A [recession](/recession/) or a slowdown in manufacturing and trade can drive demand down, pushing rates toward levels that barely cover operating costs. That cyclicality is inherent to shipping and affects all shipping companies regardless of their quality or operational prowess.
 
 ## Capital intensity and financing
 
-Costamare owns its vessels, which requires substantial capital. A modern container ship can cost $100 million to $200 million or more depending on size and specification. The company finances its fleet through a mix of operating cash flow and debt and equity financing. In a strong shipping cycle, cash flow can be substantial, allowing the company to pay down debt or invest in new ships. In a weak cycle, cash flow shrinks and debt service can strain the balance sheet.
+Costamare owns its vessels, which requires substantial capital. A modern container ship can cost $100 million to $200 million or more depending on size and specification. The company finances its fleet through a mix of operating cash flow and debt and [equity financing](/equity-financing/). In a strong shipping cycle, cash flow can be substantial, allowing the company to pay down debt or invest in new ships. In a weak cycle, cash flow shrinks and debt service can strain the [balance sheet](/balance-sheet/).
 
 The company also manages vessel age and replacement. Container ships have a useful life of roughly twenty-five to thirty years, after which they are typically scrapped. Costamare must continuously decide whether to modernize the fleet by selling older ships and buying new ones, or to maintain the existing fleet longer to preserve capital. That decision depends on the company's view of future shipping rates and the availability and cost of capital.
 
-In recent years Costamare has also taken positions in alternative vessel types and in other opportunities like liquefied natural gas (LNG) carriers, diversifying the fleet beyond pure container ships. Those moves reflect an attempt to hedge against changes in the container shipping market and to capture rates in other segments of maritime.
+In recent years Costamare has also taken positions in alternative vessel types and in other opportunities like liquefied [natural gas](/natural-gas/) (LNG) carriers, diversifying the fleet beyond pure container ships. Those moves reflect an attempt to hedge against changes in the container shipping market and to capture rates in other segments of maritime.
 
 ## Understanding Costamare as an investment
 

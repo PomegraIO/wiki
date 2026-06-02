@@ -14,7 +14,7 @@ keywords: ["community bank", "Virginia", "commercial bank", "deposits", "lending
 <tr><th>Industry</th><td>Commercial Bank</td></tr>
 </table></aside>
 
-Bank of the James is a Virginia-based community bank whose moat is fundamentally rooted in place. Community banks defend their lending and deposit franchises not through superior technology, brand recognition, or network effects, but through deep relationships with local business owners, knowledge of the local economy, and proximity to customers. For businesses in central Virginia seeking a loan officer who knows their company, their management, and their local market, a large [national bank](/nbhc-stock/) or an online competitor is often an inadequate substitute. This local advantage is real and durable—until it is not.
+Bank of the James is a Virginia-based community bank whose moat is fundamentally rooted in place. Community banks defend their lending and deposit franchises not through superior technology, brand recognition, or network effects, but through deep relationships with local business owners, knowledge of the local economy, and proximity to customers. For businesses in central Virginia seeking a loan officer who knows their company, their management, and their local market, a large national bank or an online competitor is often an inadequate substitute. This local advantage is real and durable—until it is not.
 
 ## The Geography Moat: Real but Shrinking
 

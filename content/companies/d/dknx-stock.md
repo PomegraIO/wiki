@@ -15,17 +15,17 @@ Defiance Daily Target 2X Long DKNG ETF is a leveraged exchange-traded product th
 
 ## How the leverage works
 
-DKNX does not simply buy DKNG shares and borrow money to amplify them. Instead, it uses a combination of call options, futures, and other derivatives to synthesise 2x leveraged exposure. The fund rebalances each day to maintain exactly 2x leverage relative to DKNG's closing price. So if DKNG closes up 3 percent, DKNX targets a 6 percent gain; if DKNG closes down 2 percent, DKNX aims for a 4 percent loss.
+DKNX does not simply buy DKNG shares and borrow money to amplify them. Instead, it uses a combination of [call options](/call-option/), futures, and other derivatives to synthesise 2x leveraged exposure. The fund rebalances each day to maintain exactly 2x leverage relative to DKNG's closing price. So if DKNG closes up 3 percent, DKNX targets a 6 percent gain; if DKNG closes down 2 percent, DKNX aims for a 4 percent loss.
 
 The daily rebalancing is key to understanding the decay risk. If DKNG rallies 10 percent one day and falls 10 percent the next day, returning to its starting price overall, DKNX will have gained 20 percent on day one and lost 20 percent on day two. But a 20 percent loss is applied to the fund's now-larger base, so it erodes more dollars. The result: DKNX finishes below where it started, even though DKNG is flat. That is volatility decay.
 
 ## The structure and costs
 
-DKNX is a standard ETF, not a note. It holds a portfolio of derivatives and cash, rebalancing intraday and at the close. The expense ratio is disclosed and usually moderate — higher than a plain DKNG holding but reasonable given the daily rebalancing and derivative costs.
+DKNX is a standard ETF, not a note. It holds a portfolio of derivatives and cash, rebalancing intraday and at the close. The [expense ratio](/expense-ratio/) is disclosed and usually moderate — higher than a plain DKNG holding but reasonable given the daily rebalancing and derivative costs.
 
-Trading cost is separate: the fund may have a wider bid-ask spread than DKNG itself because the underlying portfolio of derivatives is less liquid than the stock. During market stress or DKNG halts, the spread can widen further.
+Trading cost is separate: the fund may have a wider [bid-ask spread](/bid-ask-spread/) than DKNG itself because the underlying portfolio of derivatives is less liquid than the stock. During market stress or DKNG halts, the spread can widen further.
 
-Dividends paid by DKNG are not passed through to DKNX shareholders because the fund does not hold the stock directly — it owns derivatives that do not capture dividends. This is relevant if DKNG ever begins paying a dividend; DKNX holders would miss it.
+[Dividends](/dividend/) paid by DKNG are not passed through to DKNX shareholders because the fund does not hold the stock directly — it owns derivatives that do not capture dividends. This is relevant if DKNG ever begins paying a dividend; DKNX holders would miss it.
 
 ## Who it is for and how it fails
 
@@ -43,7 +43,7 @@ Volatility decay is second and less obvious. Even if you are right about the dir
 
 Leverage blow-up risk is third. If DKNG falls sharply enough, DKNX can lose more than 100 percent of its value.
 
-Liquidity risk is fourth. If DKNG becomes illiquid or DraftKings faces a major crisis, DKNX may not be tradeable even if you want to sell.
+[Liquidity risk](/liquidity-risk/) is fourth. If DKNG becomes illiquid or DraftKings faces a major crisis, DKNX may not be tradeable even if you want to sell.
 
 Finally, there is company-specific risk: DraftKings is a young company in sports betting and gaming, a competitive and regulated space where execution matters enormously. A series of bad quarterly results or a regulatory crackdown could crater the stock and the leveraged fund simultaneously.
 
@@ -55,4 +55,4 @@ Look at DKNX's trailing returns versus DKNG's over recent periods. The gap refle
 
 Read DraftKings' latest quarterly report and understand its business: how it makes money, what regulations it faces, who its competitors are. If you do not want to own DKNG outright, you should not own DKNX — leverage just amplifies the risk.
 
-Finally, decide your holding period. If it is longer than a few weeks, choose DKNG directly. If it is days or maybe one week, and you are confident in a sharp move, DKNX makes sense. But if you are not sure how long you will hold it, do not buy it.
+Finally, decide your [holding period](/holding-period/). If it is longer than a few weeks, choose DKNG directly. If it is days or maybe one week, and you are confident in a sharp move, DKNX makes sense. But if you are not sure how long you will hold it, do not buy it.

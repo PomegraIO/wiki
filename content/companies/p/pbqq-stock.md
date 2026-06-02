@@ -48,15 +48,15 @@ The math here is straightforward: the buffer ETF provider uses options and deriv
 
 PBQQ does not bet everything on a single three-month period. Instead, the fund holds four separate PGIM Nasdaq-100 Buffer 12 ETFs, each with its own quarterly expiry date and its own upside cap. One expires in January, one in April, one in July, and one in October. As each quarterly fund expires, a fresh one replaces it.
 
-This rotating structure has a purpose. The upside cap negotiated at any single moment depends on interest rates, market volatility, and how expensive options are on that particular day. By laddering across four different quarters with different launch dates, you smooth out those fluctuations. You do not bet your entire position on the cap levels set during a single quarter—you get an average of four different quarters' terms.
+This rotating structure has a purpose. The upside cap negotiated at any single moment depends on [interest rates](/interest-rate/), market volatility, and how expensive options are on that particular day. By laddering across four different quarters with different launch dates, you smooth out those fluctuations. You do not bet your entire position on the cap levels set during a single quarter—you get an average of four different quarters' terms.
 
 Every month, approximately one quarter of your position enters a fresh three-month protection window with newly calibrated terms. This means you maintain continuous coverage: at all times, at least part of your portfolio is benefiting from a current 12 percent buffer.
 
 ## The tradeoff: protection versus return
 
-The core tradeoff is real and unavoidable. In a sustained bull market where the Nasdaq-100 returns 40 percent per year, PBQQ will lag significantly. Capped quarterly gains of 8 to 12 percent compound to maybe 10 to 15 percent annually in a roaring market. You sacrifice meaningful upside for peace of mind.
+The core tradeoff is real and unavoidable. In a sustained [bull market](/bull-market/) where the Nasdaq-100 returns 40 percent per year, PBQQ will lag significantly. Capped quarterly gains of 8 to 12 percent compound to maybe 10 to 15 percent annually in a roaring market. You sacrifice meaningful upside for peace of mind.
 
-In a volatile or declining market, PBQQ shines. If the Nasdaq-100 falls 20 percent over a year but PBQQ loses only 5 percent because of the rolling buffers, you have bought real protection. The expense ratio of 0.50 percent per year is the ongoing cost of that insurance structure.
+In a volatile or declining market, PBQQ shines. If the Nasdaq-100 falls 20 percent over a year but PBQQ loses only 5 percent because of the rolling buffers, you have bought real protection. The [expense ratio](/expense-ratio/) of 0.50 percent per year is the ongoing cost of that insurance structure.
 
 This product makes sense if you are confident the Nasdaq-100 will trend upward over time but terrified of a sudden 15 to 25 percent crash. If you are confident in sustained strong growth, plain Nasdaq-100 funds will deliver better returns. If you are bearish on tech stocks, no buffer helps.
 
@@ -70,7 +70,7 @@ The exact upside cap and buffer mechanics are detailed in the quarterly prospect
 
 The 0.50 percent annual expense ratio covers the fund's management and the cost of the derivatives and options that create the protection. This is reasonable for a structured product but higher than a vanilla Nasdaq-100 ETF, which might cost 0.15 to 0.20 percent. You are paying for the privilege of having downside capped.
 
-The fund trades on the Nasdaq with liquidity that should be reasonable given PGIM's scale. The complexity of the quarterly rolling structure means bid-ask spreads may be slightly wider than for simpler funds.
+The fund trades on the [Nasdaq](/nasdaq/) with liquidity that should be reasonable given PGIM's scale. The complexity of the quarterly rolling structure means [bid-ask spreads](/bid-ask-spread/) may be slightly wider than for simpler funds.
 
 ## Who PBQQ fits and the real risks
 

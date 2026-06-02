@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-FG Nexus is a company that builds and operates energy infrastructure. Think pipelines, processing plants, power systems, and the equipment and services that keep oil, gas, and electricity moving. It is a tough business. The margins are tight. The work is dangerous. Competitors are big and well-funded. And the entire industry faces growing pressure from energy transition, which is making some of its traditional business lines less profitable over time.
+[FG Nexus](/fgnx-stock/) is a company that builds and operates energy infrastructure. Think pipelines, processing plants, power systems, and the equipment and services that keep oil, gas, and electricity moving. It is a tough business. The margins are tight. The work is dangerous. Competitors are big and well-funded. And the entire industry faces growing pressure from energy transition, which is making some of its traditional business lines less profitable over time.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,15 +26,15 @@ FG Nexus is a company that builds and operates energy infrastructure. Think pipe
 
 ## What FG Nexus actually does
 
-The company operates equipment and infrastructure in the energy sector. That could mean managing a compressor station that pushes natural gas through a pipeline. It could mean building a small power plant. It could mean operating a processing facility that separates crude oil into usable products. Or it could mean providing maintenance and support services to keep these systems running. The exact mix varies, but the principle is the same: FG Nexus owns or operates assets in the energy supply chain and charges customers for moving or processing energy.
+The company operates equipment and infrastructure in the energy sector. That could mean managing a compressor station that pushes [natural gas](/natural-gas/) through a pipeline. It could mean building a small power plant. It could mean operating a processing facility that separates [crude oil](/crude-oil/) into usable products. Or it could mean providing maintenance and support services to keep these systems running. The exact mix varies, but the principle is the same: FG Nexus owns or operates assets in the energy supply chain and charges customers for moving or processing energy.
 
-This is a business where competitors fall into a few tiers. Massive multinational companies like Shell, ExxonMobil, and TotalEnergies own and operate their own large-scale infrastructure. Large specialized companies like Enterprise Products Partners operate midstream assets (pipelines, storage, processing) across multiple regions. Then there are regional and smaller players that focus on specific geographies or specific types of equipment. FG Nexus appears to be in this latter group.
+This is a business where competitors fall into a few tiers. Massive multinational companies like Shell, ExxonMobil, and TotalEnergies own and operate their own large-scale infrastructure. Large specialized companies like [Enterprise Products Partners](/epd-stock/) operate midstream assets (pipelines, storage, processing) across multiple regions. Then there are regional and smaller players that focus on specific geographies or specific types of equipment. FG Nexus appears to be in this latter group.
 
 ## The commodity-cycle trap
 
 Here is the hard truth about FG Nexus's market: energy companies' profits swing wildly with commodity prices. When oil and gas prices are high, customers have money and they invest in new infrastructure or upgrade existing systems. When prices fall, capital budgets get slashed and customers defer maintenance. This is the commodity cycle, and it shapes every decision a company like FG Nexus makes.
 
-The competition in this space is relentless partly because there are low barriers to entry for certain services. Any reasonably capable engineering firm can bid on construction projects, maintenance contracts, or operations work. This drives down margins. Larger competitors can afford to operate at paper-thin margins because they have scale and diversification. A smaller player like FG Nexus has to be more selective about which work it pursues.
+The competition in this space is relentless partly because there are low barriers to entry for certain services. Any reasonably capable engineering firm can bid on construction projects, maintenance contracts, or operations work. This drives down margins. Larger competitors can afford to operate at paper-thin margins because they have scale and [diversification](/diversification/). A smaller player like FG Nexus has to be more selective about which work it pursues.
 
 ## Capital requirements and debt dependence
 
@@ -44,7 +44,7 @@ When the commodity cycle turns down and cash flow tightens, companies that lever
 
 ## Regional concentration and customer dependence
 
-Most energy infrastructure operators depend heavily on a handful of large customers. A pipeline operator's revenue comes from the companies that ship gas through its pipes. A processing plant's revenue comes from the oil companies that feed crude into it. This creates concentration risk. If a major customer cuts spending or shifts to a competitor, revenue drops sharply.
+Most energy infrastructure operators depend heavily on a handful of large customers. A pipeline operator's revenue comes from the companies that ship gas through its pipes. A processing plant's revenue comes from the oil companies that feed crude into it. This creates [concentration risk](/concentration-risk/). If a major customer cuts spending or shifts to a competitor, revenue drops sharply.
 
 FG Nexus likely has some reliance on regional customers or specific projects. That means the company's competitive success partly depends on factors beyond its control — whether a particular region's oil and gas output rises or falls, whether new pipeline projects get built, whether existing infrastructure stays in service. A competitor with more geographic or customer diversification can weather local downturns better.
 
@@ -60,7 +60,7 @@ A company that just maintains and operates existing fossil-fuel infrastructure i
 
 Energy companies face significant regulatory oversight. Environmental permits, safety standards, emissions rules — all of these constrain operations and add cost. New regulations can force expensive retrofits or shut down operations. FG Nexus has to manage these constraints, and so does every competitor, but larger competitors have bigger compliance and lobbying teams.
 
-Operational risks are also real. Energy infrastructure can fail. A pipeline rupture, a processing-plant accident, or poor maintenance can cause environmental damage and create massive liability. FG Nexus has to maintain high safety and operational standards to avoid these catastrophes. The cost of doing so is built into pricing, but so is it for competitors.
+[Operational risks](/operational-risk/) are also real. Energy infrastructure can fail. A pipeline rupture, a processing-plant accident, or poor maintenance can cause environmental damage and create massive liability. FG Nexus has to maintain high safety and operational standards to avoid these catastrophes. The cost of doing so is built into pricing, but so is it for competitors.
 
 ## Finding and valuing FG Nexus
 
@@ -68,4 +68,4 @@ If you are trying to understand FG Nexus as an investment, start with the 10-K f
 
 Monitor the company's capital spending plans. Is it still investing in growth, or is it in maintenance mode? Watch for any announcements about customer losses or new contracts — these signal whether the company is gaining or losing competitive position.
 
-The core question is whether FG Nexus can generate enough cash to pay down debt, fund dividends, and stay solvent through the inevitable downturns that come with commodity cyclicality and energy transition. That is a tough challenge for a mid-sized operator with high leverage. Only strong execution and some luck with the commodity cycle make it work.
+The core question is whether FG Nexus can generate enough cash to pay down debt, fund [dividends](/dividend/), and stay solvent through the inevitable downturns that come with commodity cyclicality and energy transition. That is a tough challenge for a mid-sized operator with high leverage. Only strong execution and some luck with the commodity cycle make it work.

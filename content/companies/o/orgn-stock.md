@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Origin Materials is an advanced materials company with a dual-track strategy: winding down a legacy supply-chain activation business while scaling production of its proprietary caps and closures technology. The company went public via SPAC merger in 2021 and has spent the years since transitioning from a research operation into a manufacturing enterprise.
+Origin Materials is an advanced materials company with a dual-track strategy: winding down a legacy supply-chain activation business while scaling production of its proprietary caps and closures technology. The company went public via SPAC [merger](/merger/) in 2021 and has spent the years since transitioning from a research operation into a manufacturing enterprise.
 
 The business sits at the intersection of three big pressures: consumer demand for sustainability, regulatory tightening around plastic packaging, and the brutal math of the global closures market. That $65 billion market is highly fragmented, dominated by a few petrochemical giants producing commodity bottle caps. Origin sees an opening to disrupt it with a technology that produces 100% recyclable, carbon-negative closures from its proprietary manufacturing process.
 

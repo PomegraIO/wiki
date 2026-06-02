@@ -55,7 +55,7 @@ The business has become more software-centric and subscription-based, which crea
 
 ## The customer base and competitive position
 
-F5's customers are large enterprises — the ones that build and run sophisticated web applications and cannot tolerate downtime. These include [financial institutions](/fisi-stock/), e-commerce companies, media platforms, and technology companies. The company's strength is in the enterprise segment; it has less presence in smaller, cloud-native companies that may choose cheaper or more lightweight solutions.
+F5's customers are large enterprises — the ones that build and run sophisticated web applications and cannot tolerate downtime. These include financial institutions, e-commerce companies, media platforms, and technology companies. The company's strength is in the enterprise segment; it has less presence in smaller, cloud-native companies that may choose cheaper or more lightweight solutions.
 
 Competition is intense and fragmented. Open-source projects like NGINX (which F5 owns but which anyone can use for free) compete with F5's commercial offerings. Cloud providers like Amazon and Microsoft bundle load-balancing and traffic management into their platforms. Specialist security vendors compete in WAF (Web Application Firewall). Newer companies like [Cloudflare](/net-stock/) have built formidable platforms that compete in DDoS protection and application delivery. F5's advantages are its enterprise relationships, the depth of its feature set, and the stickiness of BIG-IP (already deployed in thousands of companies).
 

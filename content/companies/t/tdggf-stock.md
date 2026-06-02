@@ -17,13 +17,13 @@ The exploration stage is long and uncertain. A junior gold explorer might drill 
 
 ## The exploration model and capital structure
 
-TDG Gold, like other junior explorers, funds its operations through a combination of equity offerings, debt, and occasionally option agreements with larger mining companies. The company's survival depends on its ability to attract capital — either through the stock market or through strategic deals with major miners that can option or joint-venture the most promising properties.
+TDG Gold, like other junior explorers, funds its operations through a combination of equity offerings, debt, and occasionally option agreements with larger mining companies. The company's survival depends on its ability to attract capital — either through the [stock market](/stock-market/) or through strategic deals with major miners that can option or joint-venture the most promising properties.
 
 The typical life cycle is measured in years or decades. Early-stage exploration might cost several million dollars annually and yield only drilling results and core samples. If a property shows genuine promise, the company invests in more drilling, geological modeling, and metallurgical testing to estimate the size and grade of the deposit. Should results remain encouraging, the company then funds feasibility studies — expensive engineering assessments that model how ore would be extracted, processed, and sold, and estimate capital costs and annual operating costs. Only after a feasibility study supports a development decision does a company typically transition toward actual mine construction.
 
 ## Discovery and jurisdiction risk
 
-The surest differentiator between exploration companies is the quality of their discoveries and the jurisdictions in which they operate. A major discovery — a deposit with 10 million ounces of gold or more, or a high-grade, compact deposit — can transform a junior explorer into a development company or an acquisition target for a major mining house. A modest discovery might support a modest mine, but the capital and time to develop it remain substantial.
+The surest differentiator between exploration companies is the quality of their discoveries and the jurisdictions in which they operate. A major discovery — a deposit with 10 million ounces of gold or more, or a high-grade, compact deposit — can transform a junior explorer into a development company or an [acquisition](/acquisition/) target for a major mining house. A modest discovery might support a modest mine, but the capital and time to develop it remain substantial.
 
 Jurisdiction matters equally. Gold exploration companies operating in stable, mining-friendly jurisdictions with clear permitting pathways (such as Canada, Australia, or Alaska) face lower political and regulatory risk than those in regions with unclear land tenure, unstable governments, or strict environmental regulations that could impede development. The jurisdiction chosen reflects the founder's and management's judgment about where to allocate scarce exploration capital.
 
@@ -35,12 +35,12 @@ The burn rate — the annual cash spent on exploration — determines how long a
 
 ## How to research TDG Gold as an investment
 
-An investor studying TDG Gold should examine the company's mineral property portfolio — which deposits does it own or control through claims or leases? Where are they located? What stage are they at (early exploration, drill testing, prefeasibility, feasibility)? This information appears in the company's SEC filings (CIK 0001972589), annual reports, and on the company website.
+An investor studying TDG Gold should examine the company's mineral property portfolio — which deposits does it own or control through claims or leases? Where are they located? What stage are they at (early exploration, drill testing, prefeasibility, feasibility)? This information appears in the company's SEC filings (CIK 0001972589), [annual reports](/10-k/), and on the company website.
 
 Drilling results are the single most important data point. Press releases announcing drilling holes, assay results, and expanded mineral resource estimates move exploration stocks significantly. Read these results with skepticism: a single drill hole showing gold is exciting but not a discovery; consistent, step-out drilling that expands a zone of mineralization over years is what builds confidence.
 
 Review the management and board carefully. Exploration success is partly technical luck but also driven by team experience. Managers with prior discovery or development success are more likely to identify and advance valuable deposits than those without a track record.
 
-Watch the balance sheet and funding runway. Check the company's latest quarterly reports (10-K and 10-Q filings) for cash on hand and projected burn rate. Calculate how many months or years of exploration funding remain before the company must raise fresh capital. A company running out of cash with no major discovery announced faces significant stock dilution or even insolvency.
+Watch the [balance sheet](/balance-sheet/) and funding runway. Check the company's latest quarterly reports (10-K and 10-Q filings) for cash on hand and projected burn rate. Calculate how many months or years of exploration funding remain before the company must raise fresh capital. A company running out of cash with no major discovery announced faces significant stock dilution or even insolvency.
 
 Finally, gold prices frame the investment case. When gold prices are strong and rising, exploration companies attract capital readily and can fund larger programs. When gold prices are weak, exploration becomes a harder sell and companies must curtail work.

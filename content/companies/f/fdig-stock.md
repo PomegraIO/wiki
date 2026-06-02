@@ -27,13 +27,13 @@ handwritten: true
 
 ## From fringe to ecosystem: cryptocurrency evolution
 
-Bitcoin launched in 2009 as an experiment in peer-to-peer digital money, dismissed by mainstream finance as cypherpunk fantasy. For nearly a decade, cryptocurrency remained a niche pursuit pursued by technologists and activists outside the traditional financial system. No legitimate financial institutions touched it; no regulated exchanges existed; no custody services offered institutional-grade security.
+[Bitcoin](/bitcoin/) launched in 2009 as an experiment in peer-to-peer digital money, dismissed by mainstream finance as cypherpunk fantasy. For nearly a decade, cryptocurrency remained a niche pursuit pursued by technologists and activists outside the traditional financial system. No legitimate financial institutions touched it; no regulated exchanges existed; no custody services offered institutional-grade security.
 
-This fringe status meant that in cryptocurrency early years, there was almost nothing to invest in except the digital assets themselves. The ecosystem barely existed. Miners used commodity hardware; exchanges were small and informal; there were no custodians, no trading platforms, no professional infrastructure.
+This fringe status meant that in cryptocurrency early years, there was almost nothing to invest in except the digital assets themselves. The ecosystem barely existed. Miners used commodity hardware; exchanges were small and informal; there were no [custodians](/custodian/), no trading platforms, no professional infrastructure.
 
 ## The emergence of infrastructure and services, 2013-2017
 
-As cryptocurrency prices rose and attention grew, entrepreneurs began building businesses to serve this emerging industry. Mining pools and hardware vendors arose to serve miners. Early exchanges — initially small and unregulated — began facilitating trading. The first custodians emerged to offer institutions a way to hold digital assets safely. Blockchain analytics companies were founded. Software developers began building applications on blockchains. By 2017, when Bitcoin price surged, the ecosystem had grown beyond just enthusiasts.
+As cryptocurrency prices rose and attention grew, entrepreneurs began building businesses to serve this emerging industry. [Mining pools](/mining-pool/) and hardware vendors arose to serve miners. Early exchanges — initially small and unregulated — began facilitating trading. The first custodians emerged to offer institutions a way to hold digital assets safely. Blockchain analytics companies were founded. Software developers began building applications on blockchains. By 2017, when Bitcoin price surged, the ecosystem had grown beyond just enthusiasts.
 
 ## Institutional adoption and regulatory clarity, 2018-2021
 
@@ -49,7 +49,7 @@ Over this period, cryptocurrency has transitioned from fringe to mainstream fina
 
 ## What FDIG holds today
 
-FDIG captures this entire infrastructure and services ecosystem. Holdings span mining operations and hardware vendors that provide computational foundation; cryptocurrency exchanges and trading platforms; institutional custodians and vault providers; blockchain developers building applications and layer-2 systems; fintech companies integrating cryptocurrency and blockchain into traditional financial services; and analytics and compliance providers helping institutions meet regulatory requirements.
+FDIG captures this entire infrastructure and services ecosystem. Holdings span mining operations and hardware vendors that provide computational foundation; [cryptocurrency exchanges](/cryptocurrency-exchange/) and trading platforms; institutional custodians and vault providers; blockchain developers building applications and layer-2 systems; fintech companies integrating cryptocurrency and blockchain into traditional financial services; and analytics and compliance providers helping institutions meet regulatory requirements.
 
 The exact portfolio mix shifts as Fidelity managers reassess which parts of the crypto ecosystem are capturing the most sustainable value. Mining is capital-intensive but valuable during periods of rising cryptocurrency prices. Custodians benefit from institutional inflows regardless of price volatility. Application developers depend on ecosystem adoption. Compliance companies have recurring revenue from institutions needing regulatory guardrails.
 

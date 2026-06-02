@@ -47,7 +47,7 @@ FF Global's filings disclose the company's [principal trading](/principal-tradin
 
 The company's filings describe the use of leverage (borrowed money) to amplify trading returns. Leverage magnifies both gains and losses; excessive leverage creates [systemic risk](/systemic-risk/). The company discloses [leverage ratios](/leverage-ratio-forex/), margin requirements, and collateral arrangements, indicating the degree of leverage employed.
 
-The company's filings address [counterparty risk](/counterparty-risk/) — the risk that trading partners or lenders may default, leaving the company with losses on trades or unable to access borrowed funds. The company discloses relationships with major counterparties (banks, brokers, other [financial institutions](/fisi-stock/)) and any significant exposures.
+The company's filings address [counterparty risk](/counterparty-risk/) — the risk that trading partners or lenders may default, leaving the company with losses on trades or unable to access borrowed funds. The company discloses relationships with major counterparties (banks, [brokers](/broker/), other financial institutions) and any significant exposures.
 
 ## Regulatory and Compliance Environment
 

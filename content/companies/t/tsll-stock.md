@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TSLL is an exchange-traded fund that holds Tesla stock and employs leverage to amplify daily gains by a factor of two. It is issued by Direxion and trades on the NASDAQ. For investors who believe Tesla stock will rise sharply in the near term, TSLL offers the attraction of doubling the percentage gain on a given day. That amplification comes with a cost: the daily reset mechanism that makes leverage work means that TSLL's returns diverge predictably from twice Tesla's returns over longer periods, especially in volatile markets. Understanding that divergence — volatility decay — is essential to using the fund properly.
+TSLL is an exchange-traded fund that holds [Tesla](/tsla-stock/) stock and employs leverage to amplify daily gains by a factor of two. It is issued by Direxion and trades on the [NASDAQ](/nasdaq/). For investors who believe Tesla stock will rise sharply in the near term, TSLL offers the attraction of doubling the percentage gain on a given day. That amplification comes with a cost: the daily reset mechanism that makes leverage work means that TSLL's returns diverge predictably from twice Tesla's returns over longer periods, especially in volatile markets. Understanding that divergence — volatility decay — is essential to using the fund properly.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,11 +41,11 @@ The longer a position is held, the larger this decay becomes. Months or years of
 
 TSLL exists for traders with a very specific outlook: Tesla will move noticeably higher over the next few days, and they want to amplify that move without taking on the operational complexity of borrowing stock or trading derivatives themselves. A trader convinced Tesla will pop on earnings or following a news event can use TSLL to double the benefit. A fund manager running a tactical overlay can use TSLL to increase exposure to Tesla for a limited window without buying the full amount of stock outright.
 
-TSLL is not designed for investors with even a medium-term horizon. Someone buying TSLL expecting to hold for a month or a quarter is almost certainly making a mistake. The volatility decay and the fund's 1.08% annual expense ratio mean that over any extended period, TSLL will underperform both Tesla stock itself and even a simple leveraged long position established through margin lending. The fund is a tactical tool, useful only in a very narrow set of circumstances.
+TSLL is not designed for investors with even a medium-term horizon. Someone buying TSLL expecting to hold for a month or a quarter is almost certainly making a mistake. The volatility decay and the fund's 1.08% annual [expense ratio](/expense-ratio/) mean that over any extended period, TSLL will underperform both Tesla stock itself and even a simple leveraged long position established through margin lending. The fund is a tactical tool, useful only in a very narrow set of circumstances.
 
 ## Costs and access
 
-TSLL carries an expense ratio of approximately 1.08%, which is substantially higher than non-leveraged single-stock ETFs charge. The higher cost reflects the daily derivative trading and rebalancing required to maintain the 2x reset. The fund is available through any broker offering ETFs, trades during regular market hours, and generally has tight bid-ask spreads given its reasonable daily volume.
+TSLL carries an expense ratio of approximately 1.08%, which is substantially higher than non-leveraged single-stock ETFs charge. The higher cost reflects the daily derivative trading and rebalancing required to maintain the 2x reset. The fund is available through any [broker](/broker/) offering ETFs, trades during regular market hours, and generally has tight [bid-ask spreads](/bid-ask-spread/) given its reasonable daily volume.
 
 The only real cost beyond the expense ratio is the loss from volatility decay if a position is held longer than intended. This is not an explicit fee but rather an economic consequence of how daily-reset leverage works.
 
@@ -53,6 +53,6 @@ The only real cost beyond the expense ratio is the loss from volatility decay if
 
 Any investor considering TSLL should begin with the prospectus and fact sheet available from Direxion. The prospectus explains in precise terms how the fund rebalances, what derivatives it uses, under what conditions it may deviate from its leverage target, and what happens during market stress or illiquidity. This is not optional reading — it is the source of truth about the fund's mechanics.
 
-Second, an investor should test recent holding periods to see volatility decay in action. Taking Tesla's last three months of daily returns and computing what TSLL's return would have been, then comparing that to twice Tesla's return, makes the decay concrete and measurable. This exercise also gives a sense of how quickly decay accumulates in current market conditions.
+Second, an investor should test recent [holding periods](/holding-period/) to see volatility decay in action. Taking Tesla's last three months of daily returns and computing what TSLL's return would have been, then comparing that to twice Tesla's return, makes the decay concrete and measurable. This exercise also gives a sense of how quickly decay accumulates in current market conditions.
 
 Third, be clear about the holding period before buying. TSLL makes sense only for bets measured in single digits of days. Anything longer than that should use a different approach.

@@ -28,27 +28,27 @@ iShares MSCI Turkey ETF is a fund that invests in Turkey — the large transcont
 
 TUR invests in the largest publicly traded Turkish companies according to the MSCI Turkey Index methodology. This includes banks (major financial institutions serving the Turkish economy), energy companies, industrial firms, telecommunications providers, and companies across other sectors that drive Turkey's economy. The fund typically holds 30 to 50 stocks, which means it captures the broad economic exposure of a country without being so large that every company in Turkey is represented.
 
-The MSCI methodology selects stocks by market capitalization — the largest and most liquid firms first — so the portfolio is dominated by mega-cap Turkish companies familiar to international investors. Banking is often a significant weight, because Turkey's major banks are large, publicly traded, and core to the economy. Diversification exists within the fund, but it is the diversification of one country, not a global diversification.
+The MSCI methodology selects stocks by [market capitalization](/market-capitalization/) — the largest and most liquid firms first — so the portfolio is dominated by mega-cap Turkish companies familiar to international investors. Banking is often a significant weight, because Turkey's major banks are large, publicly traded, and core to the economy. [Diversification](/diversification/) exists within the fund, but it is the diversification of one country, not a global diversification.
 
 ## Why invest in Turkey specifically?
 
-Turkey is a significant emerging market and a regional power at the crossroads of Europe, Asia, and the Middle East. Its economy is large relative to neighboring emerging markets, and it has a developed financial system and stock exchange. Investors who believe Turkey's economy will grow faster than developed markets or who want exposure to a specific regional narrative — for example, recovery from a period of macroeconomic instability, or strategic geopolitical importance — might use TUR to build that position.
+Turkey is a significant emerging market and a regional power at the crossroads of Europe, Asia, and the Middle East. Its economy is large relative to neighboring emerging markets, and it has a developed financial system and [stock exchange](/stock-exchange/). Investors who believe Turkey's economy will grow faster than developed markets or who want exposure to a specific regional narrative — for example, recovery from a period of macroeconomic instability, or strategic geopolitical importance — might use TUR to build that position.
 
 Single-country ETFs exist for two main reasons: some investors want concentrated exposure to a specific country's growth, and other investors are building a global portfolio and want the flexibility to choose exactly which countries to include and at what weight. TUR serves both uses.
 
 ## What are the big risks of owning Turkey?
 
-A single-country fund is a concentrated bet, and Turkey carries specific risks that a global or developed-market fund would not. Economic policy risk is real — inflation has been volatile in Turkey, and currency depreciation relative to the US dollar has been a significant headwind for Turkish investors in recent periods. The Turkish lira fluctuates substantially, and if it falls against the dollar, a US-based investor holding Turkish stocks in US dollars experiences a double hit: the stock decline in lira terms plus the currency loss when converting back.
+A single-country fund is a concentrated bet, and Turkey carries specific risks that a global or developed-market fund would not. Economic policy risk is real — [inflation](/inflation/) has been volatile in Turkey, and currency [depreciation](/depreciation/) relative to the [US dollar](/us-dollar/) has been a significant headwind for Turkish investors in recent periods. The Turkish lira fluctuates substantially, and if it falls against the dollar, a US-based investor holding Turkish stocks in US dollars experiences a double hit: the stock decline in lira terms plus the currency loss when converting back.
 
-Political risk also matters. Turkey's government structure and policy direction can shift, and these shifts can affect business conditions, regulation, and the safety of investments. Any unexpected political change can trigger currency weakness or capital flight.
+Political risk also matters. Turkey's government structure and policy direction can shift, and these shifts can affect business conditions, regulation, and the safety of investments. Any unexpected political change can trigger currency weakness or [capital flight](/capital-flight-sovereign/).
 
-The Turkish stock market is also less liquid and less deeply analyzed than major developed markets. Fewer analysts cover Turkish companies, information disclosure can be less transparent than in the United States or Europe, and trading volumes are lower. This means that buying or selling a large position in TUR can move prices more easily than trading a fund of US stocks would.
+The Turkish [stock market](/stock-market/) is also less liquid and less deeply analyzed than major developed markets. Fewer analysts cover Turkish companies, information disclosure can be less transparent than in the United States or Europe, and trading volumes are lower. This means that buying or selling a large position in TUR can move prices more easily than trading a fund of US stocks would.
 
 ## What does the fund cost to own?
 
-Like all iShares ETFs, TUR charges an expense ratio that covers BlackRock's costs of running the fund — management fees, trading, index licensing, and administrative overhead. The expense ratio is typically moderate for a single-country ETF but higher than that of a broad US stock fund, reflecting the specialized and less-liquid nature of the portfolio.
+Like all iShares ETFs, TUR charges an [expense ratio](/expense-ratio/) that covers BlackRock's costs of running the fund — [management fees](/management-fee/), trading, index licensing, and administrative overhead. The expense ratio is typically moderate for a single-country ETF but higher than that of a broad US stock fund, reflecting the specialized and less-liquid nature of the portfolio.
 
-TUR trades on the exchange during market hours, and its bid-ask spread — the difference between what buyers will pay and sellers will ask — varies depending on trading volume. More active trading days see tighter spreads; quieter days can see wider spreads, which costs a buyer or seller a bit more per share.
+TUR trades on the exchange during market hours, and its [bid-ask spread](/bid-ask-spread/) — the difference between what buyers will pay and sellers will ask — varies depending on trading volume. More active trading days see tighter spreads; quieter days can see wider spreads, which costs a buyer or seller a bit more per share.
 
 ## How does currency affect the returns?
 

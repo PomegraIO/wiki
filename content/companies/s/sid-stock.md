@@ -44,7 +44,7 @@ The company's customers are primarily industrial and infrastructure-focused: con
 
 ## Risks and the Commodity Cycle
 
-CSN's profitability moves with global steel prices, which in turn move with construction cycles, manufacturing sentiment, and Chinese demand. When China's real-estate market contracts or global growth slows, steel prices fall, utilization drops, and mills' margins compress. The company also faces exposure to currency movements — much of its cost base is in Brazilian reals, but global commodity prices are set in U.S. dollars, creating an imbalance when the real weakens.
+CSN's profitability moves with global steel prices, which in turn move with construction cycles, manufacturing sentiment, and Chinese demand. When China's real-estate market contracts or global growth slows, steel prices fall, utilization drops, and mills' margins compress. The company also faces exposure to currency movements — much of its cost base is in Brazilian reals, but global commodity prices are set in [U.S. dollars](/us-dollar/), creating an imbalance when the real weakens.
 
 Environmental regulation represents an evolving risk. Integrated steelmaking is energy-intensive and generates emissions; Brazil's government and global customers increasingly demand decarbonization. CSN has announced plans for renewable energy and low-carbon steel production, but competing in a global market where some peers have made larger climate commitments could pressure margins if customers demand green steel at a premium CSN cannot justify.
 

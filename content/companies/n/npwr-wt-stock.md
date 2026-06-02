@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-NET Power is betting on a fundamental insight about how to decarbonize power generation: if you change what you burn fuel with, you change what comes out the other end. The company develops what it calls the Net Power Cycle, an engineering approach to natural gas power generation that captures nearly all the carbon dioxide the fuel produces, eliminating traditional air pollutants in the process, and does so while generating electricity at costs competitive with conventional gas plants.
+[NET Power](/npwr-stock/) is betting on a fundamental insight about how to decarbonize power generation: if you change what you burn fuel with, you change what comes out the other end. The company develops what it calls the Net Power Cycle, an engineering approach to [natural gas](/natural-gas/) power generation that captures nearly all the carbon dioxide the fuel produces, eliminating traditional air pollutants in the process, and does so while generating electricity at costs competitive with conventional gas plants.
 
 <aside class="wiki-infobox">
 <table>
@@ -53,13 +53,13 @@ The company produces pipeline-quality pressurized CO2 as a free output—meaning
 
 ## The partnership ecosystem
 
-NET Power is not working alone. The company's investors and partners include Constellation (an energy company with nuclear and renewable assets), Occidental Low Carbon Ventures (the venture arm of a major oil and gas company investing in carbon solutions), 8 Rivers Capital (a venture fund focused on decarbonization), and Baker Hughes (an oilfield services company with expertise in turbines and compressors).
+NET Power is not working alone. The company's investors and partners include Constellation (an energy company with nuclear and renewable assets), Occidental Low Carbon Ventures (the venture arm of a major oil and gas company investing in carbon solutions), 8 Rivers Capital (a venture fund focused on decarbonization), and [Baker Hughes](/bkr-stock/) (an oilfield services company with expertise in turbines and compressors).
 
 This partner ecosystem is essential. Constellation and Occidental bring customers, regulatory relationships, and operational expertise. Baker Hughes brings turbomachinery innovation. 8 Rivers brought the initial capital and technology vision. No single company could easily do this alone. The question is whether the partnership aligns all parties' interests as the technology scales.
 
 ## Regulatory environment and policy tailwinds
 
-NET Power is operating in a climate moment. Governments are implementing carbon pricing, tax credits for captured carbon, and renewable energy mandates. In the United States, the Inflation Reduction Act provides tax credits for carbon-dioxide removal and utilization. The European Union's carbon border adjustment mechanism creates incentives for low-carbon electricity. These policies reduce the risk that natural gas plus carbon capture will become uneconomical or politically untenable.
+NET Power is operating in a climate moment. Governments are implementing carbon pricing, tax credits for captured carbon, and renewable energy mandates. In the United States, the [Inflation](/inflation/) Reduction Act provides tax credits for carbon-dioxide removal and utilization. The European Union's carbon border adjustment mechanism creates incentives for low-carbon electricity. These policies reduce the risk that natural gas plus carbon capture will become uneconomical or politically untenable.
 
 But policy can change. If carbon prices fall, if tax credits expire, or if political priorities shift, the economic case for NET Power's technology weakens. The company's business model depends on continued policy support for carbon capture and utilization.
 
@@ -77,7 +77,7 @@ The timing of deployment matters enormously. If NET Power commercializes before 
 
 ## How to research NET Power
 
-The company files quarterly and annual reports with the SEC under CIK 0001845437. Key metrics to track include project development timeline (when does Project Permian reach financial close and begin construction?), technology performance data from demonstration runs, partnership announcements, and regulatory developments. Monitor carbon policy at federal and state levels; changes in carbon credits or tax incentives directly affect NET Power's business case.
+The company files quarterly and [annual reports](/10-k/) with the SEC under CIK 0001845437. Key metrics to track include project development timeline (when does Project Permian reach financial close and begin construction?), technology performance data from demonstration runs, partnership announcements, and regulatory developments. Monitor carbon policy at federal and state levels; changes in carbon credits or tax incentives directly affect NET Power's business case.
 
 Watch for announcements about customer orders, financing commitments, and technology licensing agreements. These are leading indicators of commercial adoption. Finally, follow the company's cash position and capital requirements. Bringing the first commercial plant online requires substantial capital; if the company struggles to raise money at reasonable terms, that signals market skepticism about the technology or the business model.
 

@@ -12,7 +12,7 @@ handwritten: true
 
 > "The income-oriented investor accepts a steady, defined payment in exchange for limited participation in capital appreciation."
 
-This principle defines the GABELLI GLOBAL UTILITY & INCOME TRUST and its Series A Preferred shares (GLU-PA). The trust is a closed-end investment fund that focuses on utility stocks and other income-generating securities around the world, and GLU-PA represents a senior claim on the fund's income and assets—a fixed-dividend security that ranks ahead of the fund's common shares but behind any debt.
+This principle defines the [GABELLI GLOBAL UTILITY & INCOME](/glu-stock/) TRUST and its Series A Preferred shares (GLU-PA). The trust is a closed-end investment fund that focuses on utility stocks and other income-generating securities around the world, and GLU-PA represents a senior claim on the fund's income and assets—a fixed-dividend security that ranks ahead of the fund's common shares but behind any debt.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,17 +27,17 @@ This principle defines the GABELLI GLOBAL UTILITY & INCOME TRUST and its Series 
 
 ## What a closed-end fund is
 
-A closed-end fund is an investment fund that raises capital once, at inception, and then trades on an exchange like a stock. Unlike an open-end mutual fund, where new investors can buy shares at any time and the fund continuously expands and contracts, a closed-end fund issues a fixed number of shares. If an investor wants to buy, they must buy from someone else on the market—not from the fund itself. If they want to sell, they sell to another investor through an exchange.
+A [closed-end fund](/closed-end-fund/) is an investment fund that raises capital once, at inception, and then trades on an exchange like a stock. Unlike an open-end [mutual fund](/mutual-fund/), where new investors can buy shares at any time and the fund continuously expands and contracts, a closed-end fund issues a fixed number of shares. If an investor wants to buy, they must buy from someone else on the market—not from the fund itself. If they want to sell, they sell to another investor through an exchange.
 
-This structure has consequences. The share price of a closed-end fund can diverge from the net asset value (NAV) of the portfolio it holds. If the fund's portfolio of utility stocks is worth 100 dollars per share but the market is pessimistic about utilities, the fund's shares might trade at 95 dollars—trading at a discount to NAV. In other environments, sentiment might reverse and shares trade above NAV. This divergence between price and intrinsic value does not exist in mutual funds, where shares are always redeemable at NAV by definition.
+This structure has consequences. The share price of a closed-end fund can diverge from the [net asset value](/net-asset-value/) (NAV) of the portfolio it holds. If the fund's portfolio of utility stocks is worth 100 dollars per share but the market is pessimistic about utilities, the fund's shares might trade at 95 dollars—trading at a discount to NAV. In other environments, sentiment might reverse and shares trade above NAV. This divergence between price and [intrinsic value](/intrinsic-value/) does not exist in mutual funds, where shares are always redeemable at NAV by definition.
 
 ## The fund's investment mandate
 
-GABELLI GLOBAL UTILITY & INCOME TRUST focuses on utility stocks worldwide. Utilities are infrastructure companies—they own and operate power plants, transmission lines, water systems, and gas pipelines that provide essential services to consumers and businesses. Utilities typically deliver stable, predictable cash flow and often pay substantial dividends because regulation ensures them a reasonable return on capital while limiting capital appreciation.
+GABELLI GLOBAL UTILITY & INCOME TRUST focuses on utility stocks worldwide. Utilities are infrastructure companies—they own and operate power plants, transmission lines, water systems, and gas pipelines that provide essential services to consumers and businesses. Utilities typically deliver stable, predictable cash flow and often pay substantial [dividends](/dividend/) because regulation ensures them a reasonable return on capital while limiting capital appreciation.
 
-The trust also invests in other income-generating securities: corporate bonds, preferred stocks of other companies, and occasionally dividend-paying stocks outside utilities. The goal is to construct a portfolio weighted toward current income—distributions and dividends the fund receives—rather than capital gains from price appreciation.
+The trust also invests in other income-generating securities: [corporate bonds](/corporate-bond/), [preferred stocks](/preferred-stock/) of other companies, and occasionally dividend-paying stocks outside utilities. The goal is to construct a portfolio weighted toward current income—distributions and dividends the fund receives—rather than capital gains from price appreciation.
 
-Global diversification means the fund is not limited to United States utilities. It can own shares of European utilities, Asian utilities, and infrastructure companies in other regions. This exposes shareholders to currency fluctuations and to regulatory and political risks in foreign countries, but it also offers diversification away from any single country's economic cycle or regulatory environment.
+Global [diversification](/diversification/) means the fund is not limited to United States utilities. It can own shares of European utilities, Asian utilities, and infrastructure companies in other regions. This exposes shareholders to currency fluctuations and to regulatory and political risks in foreign countries, but it also offers diversification away from any single country's economic cycle or regulatory environment.
 
 ## Why preferred shares of this fund?
 
@@ -51,13 +51,13 @@ This is the key to understanding closed-end funds with preferred shares or debt.
 
 But if the fund raises money through preferred shares and uses that to buy more of the portfolio, the situation changes. Suppose the fund raises 100 million dollars from preferred shareholders (at 5% cost) and uses it to buy portfolio holdings yielding 6%. That incremental 100 million earning 6% yields 6 million dollars per year. The 5% cost of preferred shares is 5 million dollars per year, leaving 1 million dollars of incremental profit that flows to the common shareholders.
 
-This leverage amplifies both gains and losses. In good environments where yields exceed the cost of preferred shares, it enhances common-share returns. But if the portfolio yields fall below the cost of the preferred shares, common shareholders suffer the deficit. If the market value of the fund's holdings falls sharply, the preferred shareholders are ahead in the liquidation order, leaving common shareholders with a bigger loss.
+This leverage amplifies both gains and losses. In good environments where yields exceed the cost of preferred shares, it enhances common-share returns. But if the portfolio yields fall below the cost of the preferred shares, common shareholders suffer the deficit. If the market value of the fund's holdings falls sharply, the preferred shareholders are ahead in the [liquidation](/liquidation/) order, leaving common shareholders with a bigger loss.
 
 ## Risks specific to GLU-PA
 
 Preferred shares of closed-end funds carry several distinct risks. First is distribution risk. If the fund's portfolio of utilities declines in value or fails to generate expected dividends, the fund's cash available for distribution shrinks. Management can cut preferred dividends if necessary, though doing so signals distress. For a fixed-income investor relying on GLU-PA dividends to supplement retirement income, a dividend cut is particularly painful because it often appears only after the share price has already fallen.
 
-Second is interest-rate risk. Utility stocks and bonds are sensitive to interest rates. When the Federal Reserve raises rates, bond yields rise, making existing bonds less attractive and causing their prices to fall. Utility stocks also suffer because higher interest rates reduce the present value of their long-term cash flows. If the portfolio declines 20% due to a rate shock, GLU-PA shareholders lose value alongside the common shares (though preferred shares are protected in liquidation order).
+Second is [interest-rate risk](/interest-rate-risk/). Utility stocks and [bonds](/bond/) are sensitive to [interest rates](/interest-rate/). When the [Federal Reserve](/federal-reserve/) raises rates, bond yields rise, making existing bonds less attractive and causing their prices to fall. Utility stocks also suffer because higher interest rates reduce the present value of their long-term cash flows. If the portfolio declines 20% due to a rate shock, GLU-PA shareholders lose value alongside the common shares (though preferred shares are protected in liquidation order).
 
 A third risk is liquidity and trading discount. The fund's shares trade on the NYSE, but trading volume may be limited on any given day. If you own GLU-PA and need to sell a large block, you may have to accept a price well below the stated NAV. This is the tradeoff of a closed-end fund: lower liquidity and potential for discount trading in exchange for the ability to lever the portfolio and maintain a consistent number of shares.
 
@@ -75,6 +75,6 @@ Track the fund's NAV and the market price of the shares. If GLU-PA trades at a s
 
 Watch the fund's distribution history. If the preferred dividend has been stable for years, that is a positive signal. If the fund has cut the dividend even once, the preferred shares have already signaled stress, and further cuts may follow.
 
-Understand the leverage. Read the fund's annual report to see how much money is borrowed (either through debt or through preferred shares outstanding) and how much of the portfolio's yield is consumed by the cost of that leverage. If leverage is wide and the yield advantage is narrow, a market correction could quickly eliminate the benefit.
+Understand the leverage. Read the fund's [annual report](/10-k/) to see how much money is borrowed (either through debt or through preferred shares outstanding) and how much of the portfolio's yield is consumed by the cost of that leverage. If leverage is wide and the yield advantage is narrow, a market correction could quickly eliminate the benefit.
 
 Finally, assess the utility sector environment. Are utilities raising dividends or cutting them? Are regulatory authorities treating utilities favorably or are they imposing rate caps? Are interest rates stable or rising sharply? These sector trends directly affect the safety and sustainability of the GLU-PA dividend.

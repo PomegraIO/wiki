@@ -16,7 +16,7 @@ keywords: ["hepatitis C", "antiviral drugs", "biotech", "partnership revenue", "
 
 ## Collaborative Funding and Risk Allocation
 
-Enanta's capital model diverges from pure-equity-funded biotech through strategic partnerships. These typically involve a major pharmaceutical company (Gilead, Roche, Merck) committing capital — in the form of upfront payments, milestone payments, or royalty arrangements — in exchange for development or commercialization rights to one or more Enanta programs. For example, a partner might fund hepatitis C trials in exchange for North American sales rights, while Enanta retains Asian rights and milestone payments.
+Enanta's capital model diverges from pure-equity-funded biotech through strategic partnerships. These typically involve a major pharmaceutical company (Gilead, Roche, [Merck](/mrk-stock/)) committing capital — in the form of upfront payments, milestone payments, or royalty arrangements — in exchange for development or commercialization rights to one or more Enanta programs. For example, a partner might fund hepatitis C trials in exchange for North American sales rights, while Enanta retains Asian rights and milestone payments.
 
 This structure is capital-efficient for Enanta: instead of raising USD 50M from equity investors to fund a full trial, the company receives USD 20M upfront from a partner and USD 15M in development milestones, reducing the equity capital needed. The tradeoff is ownership: Enanta gives away commercial rights and future revenue (royalties) in exchange for de-risking balance-sheet cash. The net effect is a longer runway with lower equity dilution, but lower upside per successful program.
 

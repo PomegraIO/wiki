@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Evolv Technologies manufactures artificial-intelligence-driven security screening systems designed to scan people and small items for threats as they move through high-traffic venues. Unlike the checkpoint-style metal detectors and walk-through X-ray machines that have dominated airport and venue security for decades, Evolv's approach aims to screen visitors in real time without stopping the flow of foot traffic — a direct assault on the incumbent model that security venues have used for generations.
+[Evolv Technologies](/evlv-stock/) manufactures artificial-intelligence-driven security screening systems designed to scan people and small items for threats as they move through high-traffic venues. Unlike the checkpoint-style metal detectors and walk-through X-ray machines that have dominated airport and venue security for decades, Evolv's approach aims to screen visitors in real time without stopping the flow of foot traffic — a direct assault on the incumbent model that security venues have used for generations.
 
 The company's core product, Evolv Express, is a cabinet-sized scanner that sits at an entry point and uses artificial intelligence to identify weapons and explosives as people pass through. The pitch is straightforward: venues can maintain security without creating the queues and dwell time that traditional security checkpoints impose. That value proposition directly threatens the economic model of traditional security equipment manufacturers like Nuctech and L3Harris, which derive significant revenue from checkpoint installations that require substantial infrastructure, personnel, and passenger friction.
 

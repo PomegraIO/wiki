@@ -21,9 +21,9 @@ India and South Korea typically gain outsized weight in the NSI portfolio as a r
 
 ## Who manages NSI and what's its structure?
 
-iShares, the exchange-traded fund brand of BlackRock, sponsors and manages NSI. The fund is fully passive — iShares does not make stock-picking decisions but holds the stocks in the underlying index in their designated weights. NSI was launched in the early 2020s as emerging-market geopolitical tensions intensified and U.S. regulators focused more sharply on supply-chain security and defense industrial policy.
+iShares, the exchange-traded fund brand of [BlackRock](/blk-stock/), sponsors and manages NSI. The fund is fully passive — iShares does not make stock-picking decisions but holds the stocks in the underlying index in their designated weights. NSI was launched in the early 2020s as emerging-market geopolitical tensions intensified and U.S. regulators focused more sharply on supply-chain security and defense industrial policy.
 
-NSI trades on U.S. stock exchanges with intraday liquidity. Like all ETFs, its net asset value is computed and published daily, and authorized participants arbitrage any gap between the fund's market price and its underlying holdings value. Investors can buy and sell NSI through any standard brokerage account and hold it in retirement or taxable accounts.
+NSI trades on U.S. [stock exchanges](/stock-exchange/) with [intraday liquidity](/intraday-liquidity/). Like all ETFs, its [net asset value](/net-asset-value/) is computed and published daily, and [authorized participants](/authorized-participant/) arbitrage any gap between the fund's market price and its underlying holdings value. Investors can buy and sell NSI through any standard brokerage account and hold it in retirement or taxable accounts.
 
 ## What drives the fund's performance and risks?
 
@@ -33,7 +33,7 @@ The second risk is concentration. By excluding a large and growing portion of th
 
 A third risk is forced selling. When a company is newly added to the restricted list, NSI must sell it, and the fund does not choose the timing. A sudden removal can trigger a short-term valuation hit as the fund is forced to exit, and NSI holders bear that loss.
 
-The fund's expense ratio is modest — typical of passive iShares ETFs — but a reader should verify the current rate in the prospectus, as it may include some tracking error relative to the theoretical index return.
+The fund's [expense ratio](/expense-ratio/) is modest — typical of passive iShares ETFs — but a reader should verify the current rate in the prospectus, as it may include some tracking error relative to the theoretical index return.
 
 ## How should readers approach NSI?
 

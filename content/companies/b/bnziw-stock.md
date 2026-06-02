@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Banzai International is a marketing technology company that builds software platforms for video creation, lead generation, and event management. The company went public in December 2023 through a merger with 7GC & Co. Holdings (a SPAC), listing its Class A shares on Nasdaq under BNZI and its warrants under BNZIW. It is headquartered in Bainbridge Island, Washington and operates across North America, Europe, and Asia Pacific regions.
+[Banzai International](/bnzi-stock/) is a marketing technology company that builds software platforms for video creation, lead generation, and event management. The company went public in December 2023 through a [merger](/merger/) with 7GC & Co. Holdings (a SPAC), listing its Class A shares on [Nasdaq](/nasdaq/) under BNZI and its warrants under BNZIW. It is headquartered in Bainbridge Island, Washington and operates across North America, Europe, and Asia Pacific regions.
 
 <aside class="wiki-infobox">
 <table>
@@ -25,7 +25,7 @@ Banzai International is a marketing technology company that builds software plat
 
 ## From startup to public company
 
-Banzai began in 2015 as a private venture providing marketing intelligence and sales enablement software. The company attracted customers across technology, financial services, and professional services by focusing on the practical tools that sales and marketing teams actually use day to day. By the time of its public listing in 2023, it had assembled a portfolio of seven core products built both internally and through acquisitions, serving thousands of small to mid-market customers who rely on its platforms.
+Banzai began in 2015 as a private venture providing marketing intelligence and sales enablement software. The company attracted customers across technology, financial services, and professional services by focusing on the practical tools that sales and marketing teams actually use day to day. By the time of its public listing in 2023, it had assembled a portfolio of seven core products built both internally and through [acquisitions](/acquisition/), serving thousands of small to mid-market customers who rely on its platforms.
 
 The merger with 7GC & Co. Holdings (a blank check company) provided the capital needed to integrate these tools, fund engineering teams, and expand internationally. Going public via SPAC was a faster path to listing than a traditional IPO, though the company faced the standard pressures of answering to public markets while still building toward profitability.
 
@@ -39,7 +39,7 @@ This portfolio approach means Banzai can sell one product to a customer or gradu
 
 Like most SaaS companies, Banzai's unit economics hinge on customer acquisition cost versus lifetime value. The martech space is highly fragmented, with hundreds of point solutions competing for the same marketing teams' budget and attention. Larger companies with deep budgets can acquire customers through direct sales; smaller competitors rely on content marketing, free trials, and land-and-expand strategies.
 
-Going public gave Banzai the balance sheet to invest in sales and marketing, but it also created the pressure to demonstrate consistent customer growth and margin expansion. The company operates in a segment where scale helps — the ability to invest in product, support large customers, and operate across geographies — but where network effects do not apply. A customer benefits from using Banzai because the tools work, not because other customers use them.
+Going public gave Banzai the [balance sheet](/balance-sheet/) to invest in sales and marketing, but it also created the pressure to demonstrate consistent customer growth and margin expansion. The company operates in a segment where scale helps — the ability to invest in product, support large customers, and operate across geographies — but where network effects do not apply. A customer benefits from using Banzai because the tools work, not because other customers use them.
 
 ## What to watch
 

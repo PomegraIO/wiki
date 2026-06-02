@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Vertical Data Inc. is a Las Vegas–based infrastructure company that assembled three business lines to serve the booming demand for compute capacity driven by generative AI adoption. The company trades over the counter on the OTCQB market under the ticker VDTA. Founded in 2024, it represents a new category of AI infrastructure player—not the cloud giants (Amazon Web Services, Microsoft Azure, Google Cloud) and not the pure hardware vendors (NVIDIA), but rather the specialists building sovereign cloud, edge data centers, and financing mechanisms for the hardware shortage that has become the primary constraint on AI deployment.
+Vertical Data Inc. is a Las Vegas–based infrastructure company that assembled three business lines to serve the booming demand for compute capacity driven by generative AI adoption. The company trades over the counter on the OTCQB market under the ticker VDTA. Founded in 2024, it represents a new category of AI infrastructure player—not the cloud giants (Amazon Web Services, [Microsoft](/msft-stock/) Azure, Google Cloud) and not the pure hardware vendors ([NVIDIA](/nvda-stock/)), but rather the specialists building sovereign cloud, edge data centers, and financing mechanisms for the hardware shortage that has become the primary constraint on AI deployment.
 
 <aside class="wiki-infobox">
 <table>
@@ -45,7 +45,7 @@ Vertical Data operates three interlocking business lines, each addressing a diff
 
 Vertical Data exists because the primary cloud providers have limited incentive to provision excess GPU capacity to external customers at cost-based pricing. Amazon, Microsoft, and Google all develop their own AI products and need the compute for internal use. Third-party GPU demand competes with those internal projects for finite capacity. By starting a separate company focused solely on GPU provisioning, Vertical Data can undercut the cloud giants' pricing and move faster than they can in responding to enterprise requests.
 
-The company also competes with other specialist GPU providers (Lambda Labs, Crusoe, others) and pure data-center operators (Equinix, Digital Realty) who are adding AI-focused capacity. But Vertical Data's sovereign cloud positioning and edge platform differentiate it from pure infrastructure plays—it is attempting to own the full stack from hardware provisioning through application-level services.
+The company also competes with other specialist GPU providers (Lambda Labs, Crusoe, others) and pure data-center operators (Equinix, [Digital Realty](/dlr-stock/)) who are adding AI-focused capacity. But Vertical Data's sovereign cloud positioning and edge platform differentiate it from pure infrastructure plays—it is attempting to own the full stack from hardware provisioning through application-level services.
 
 ## Recent Momentum and Scale Questions
 
@@ -61,4 +61,4 @@ The current AI boom has created urgency around GPU provisioning, but boom condit
 
 ## How to Research Vertical Data
 
-Vertical Data's quarterly reports and current SEC filings at CIK 0002033264 show contract backlog, revenue recognition timing, and operating cash burn. As an OTCQB stock with thin trading and limited analyst coverage, the company requires more operator-level scrutiny than a seasoned public company. Watch for expansion in deployed GPU capacity, customer diversification beyond the major two-year contract, and evidence that Vertical Edge infrastructure is moving toward revenue. The critical metric is whether the company can grow into the $29.5 million annual contract value while managing operating costs—without that, the stock will remain speculative.
+Vertical Data's quarterly reports and current SEC filings at CIK 0002033264 show contract backlog, [revenue recognition](/revenue-recognition/) timing, and operating cash burn. As an OTCQB stock with thin trading and limited analyst coverage, the company requires more operator-level scrutiny than a seasoned public company. Watch for expansion in deployed GPU capacity, customer [diversification](/diversification/) beyond the major two-year contract, and evidence that Vertical Edge infrastructure is moving toward revenue. The critical metric is whether the company can grow into the $29.5 million annual contract value while managing operating costs—without that, the stock will remain speculative.

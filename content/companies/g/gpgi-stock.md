@@ -22,7 +22,7 @@ This origin shaped everything about how the firm grew. Rather than aspire to be 
 
 ## Market Position and Customer Base
 
-The company serves [financial institutions](/fisi-stock/), insurance firms, investment advisors, and other enterprises whose business models or regulatory obligations demand bespoke technology. Customers are often mid-market firms that have outgrown homegrown spreadsheet-and-manual-process operations but lack the scale to justify building proprietary systems in-house, and lack the stomach to jam themselves into a one-size-fits-most SaaS product.
+The company serves financial institutions, insurance firms, investment advisors, and other enterprises whose business models or regulatory obligations demand bespoke technology. Customers are often mid-market firms that have outgrown homegrown spreadsheet-and-manual-process operations but lack the scale to justify building proprietary systems in-house, and lack the stomach to jam themselves into a one-size-fits-most SaaS product.
 
 GPGI's value proposition hinges on three foundations: first, embedded understanding of the regulatory and compliance frameworks that constrain its customers' operations; second, technology that encodes that domain logic directly into workflows rather than treating it as a bolt-on; and third, the ability to evolve the platform as regulations and customer needs change. This is not a product you shop on feature checklists. It is the system your operations team uses because abandoning it would mean rearchitecting a core workflow.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The Xtrackers Cybersecurity Select Equity ETF (PSWD) provides exposure to the companies designing and selling the defences against digital threats—a relatively young theme that has grown from niche expertise to an essential enterprise and government spending category.*
+*The Xtrackers Cybersecurity Select [Equity ETF](/equity-etf/) (PSWD) provides exposure to the companies designing and selling the defences against digital threats—a relatively young theme that has grown from niche expertise to an essential enterprise and government spending category.*
 
 <aside class="wiki-infobox">
 <table>
@@ -34,27 +34,27 @@ PSWD was created to capture the companies powering this shift: the software make
 
 PSWD does not hold every technology stock with a "security module"; it selects companies for which cybersecurity or information security is a material part of revenue. This typically includes:
 
-**Pure-play security software vendors**—firms like Palo Alto Networks, CrowdStrike, Zscaler, and similar companies that derive a large fraction of revenue from selling security software, threat detection, or related platform services.
+**Pure-play security software vendors**—firms like [Palo Alto Networks](/panw-stock/), [CrowdStrike](/crwd-stock/), [Zscaler](/zs-stock/), and similar companies that derive a large fraction of revenue from selling security software, threat detection, or related platform services.
 
-**Integrated platform players**—larger technology firms (such as Microsoft, Cisco, IBM) where security is a significant business line alongside other offerings. The fund's methodology typically underweights or excludes these if security is a small fraction of revenue.
+**Integrated platform players**—larger technology firms (such as [Microsoft](/msft-stock/), Cisco, IBM) where security is a significant business line alongside other offerings. The fund's methodology typically underweights or excludes these if security is a small fraction of revenue.
 
-**Hardware and infrastructure providers**—companies like Fortinet that make security appliances and network gear.
+**Hardware and infrastructure providers**—companies like [Fortinet](/ftnt-stock/) that make security appliances and network gear.
 
 **Consulting and managed security services**—firms offering implementation, monitoring, and threat-response services.
 
-The holdings list typically includes a mix of large established vendors, mid-cap specialists, and smaller high-growth security startups that have gone public. The weighting varies by market cap or index methodology; larger security vendors carry higher weight, but PSWD usually maintains meaningful exposure to smaller names with higher growth trajectories.
+The holdings list typically includes a mix of large established vendors, mid-cap specialists, and smaller high-growth security startups that have gone public. The weighting varies by [market cap](/market-capitalization/) or index methodology; larger security vendors carry higher weight, but PSWD usually maintains meaningful exposure to smaller names with higher growth trajectories.
 
 ## The investment case and the risks
 
-The structural case for cybersecurity exposure is straightforward: digital risk is structural and growing, not cyclical. Breaches and attacks happen in recessions and expansions alike. Enterprises cannot defer security spending the way they defer facility upgrades or hiring. Government mandates (especially in critical infrastructure, banking, and healthcare) create floor demand. These factors create an expectation that security companies will grow faster than the market average over long periods.
+The structural case for cybersecurity exposure is straightforward: digital risk is structural and growing, not cyclical. Breaches and attacks happen in [recessions](/recession/) and expansions alike. Enterprises cannot defer security spending the way they defer facility upgrades or hiring. Government mandates (especially in critical infrastructure, banking, and healthcare) create floor demand. These factors create an expectation that security companies will grow faster than the market average over long periods.
 
-However, PSWD is not insulated from technology sector volatility. Many of its holdings are software companies trading on growth expectations, so the fund will participate in sell-offs when growth stocks fall out of favour. Security software can also suffer from rapid obsolescence; a vendor whose technology becomes outdated can collapse quickly, and the fund's smaller holdings carry significant concentration risk. Large consolidation by bigger tech players (acquisitions of security startups by Microsoft, Broadcom, Fortinet) can also reduce the universe of independent public companies, shrinking the fund's opportunity set.
+However, PSWD is not insulated from technology sector volatility. Many of its holdings are software companies trading on growth expectations, so the fund will participate in sell-offs when growth stocks fall out of favour. Security software can also suffer from rapid obsolescence; a vendor whose technology becomes outdated can collapse quickly, and the fund's smaller holdings carry significant [concentration risk](/concentration-risk/). Large consolidation by bigger tech players ([acquisitions](/acquisition/) of security startups by Microsoft, [Broadcom](/avgo-stock/), Fortinet) can also reduce the universe of independent public companies, shrinking the fund's opportunity set.
 
 Valuation is another consideration. Cybersecurity has been a popular theme, which can drive valuations to levels where returns depend on perpetual growth acceleration. Mature security vendors facing slowing revenue growth can see sharp declines.
 
 ## How the fund works
 
-PSWD trades on NASDAQ with typical ETF liquidity. The expense ratio is moderate, reflecting active index selection and rebalancing required to maintain a curated basket of security-focused companies. The fund holds typically thirty to fifty stocks depending on the underlying index methodology.
+PSWD trades on [NASDAQ](/nasdaq/) with typical ETF liquidity. The [expense ratio](/expense-ratio/) is moderate, reflecting active index selection and rebalancing required to maintain a curated basket of security-focused companies. The fund holds typically thirty to fifty stocks depending on the underlying index methodology.
 
 Rebalancing happens on a regular schedule (often quarterly), which means the fund gradually shifts weight as market caps change. If a smaller security startup surges in price and becomes the fund's largest holding, it gets reweighted. If a pure-play security vendor is acquired by a diversified tech giant, it typically drops out of the holdings.
 

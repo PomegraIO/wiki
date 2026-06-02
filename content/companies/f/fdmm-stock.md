@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-Freedom Metals Acquisition Corp. (FDMM) is a special purpose acquisition company created to find and merge with an operating business in the metals and mining space—a sector capital-intensive, commodity-driven, and often overlooked by the venture-backed crowd that has dominated SPAC activity.
+Freedom Metals [Acquisition](/acquisition/) Corp. (FDMM) is a special purpose acquisition company created to find and merge with an operating business in the metals and mining space—a sector capital-intensive, commodity-driven, and often overlooked by the venture-backed crowd that has dominated SPAC activity.
 
 ## The SPAC structure
 
-Like its peers, FDMM is a shell incorporated in the Cayman Islands with no ongoing operations. It raised capital from public markets and holds those funds in trust pending a merger with an identified target. Shareholders who buy into the company receive two things: ordinary shares representing a fractional stake in whatever deal closes, and warrants—call options that entitle the holder to buy additional shares at a strike price if exercised. That two-tier structure is the SPAC standard. The share is the lottery ticket; the warrant is the odds-improving kicker. Redemption rights sit at the core: any shareholder unhappy with a proposed merger can redeem their shares for their pro-rata slice of the trust account's cash, constraining the sponsors' room to negotiate unfavorable terms.
+Like its peers, FDMM is a shell incorporated in the Cayman Islands with no ongoing operations. It raised capital from public markets and holds those funds in trust pending a [merger](/merger/) with an identified target. Shareholders who buy into the company receive two things: ordinary shares representing a fractional stake in whatever deal closes, and warrants—[call options](/call-option/) that entitle the holder to buy additional shares at a [strike price](/strike-price/) if exercised. That two-tier structure is the SPAC standard. The share is the lottery ticket; the warrant is the odds-improving kicker. [Redemption rights](/redemption-rights-equity/) sit at the core: any shareholder unhappy with a proposed merger can redeem their shares for their pro-rata slice of the trust account's cash, constraining the sponsors' room to negotiate unfavorable terms.
 
 ## The metals and mining bet
 

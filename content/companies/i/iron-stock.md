@@ -33,7 +33,7 @@ Disc's core assets are patent positions covering hepcidin-modulating compounds a
 
 ## Regulatory Pathway and Approval Timelines
 
-Disc's drugs must navigate [FDA](/securities-and-exchange-commission/) approval, which for rare diseases can involve the Breakthrough Therapy or [Fast Track](/ftrk-stock/) designation if early data are compelling. The FDA pathway for hematologic disorders is well-established; Disc knows the clinical end points it needs to demonstrate (improvement in hemoglobin levels, reduced transfusion dependence, safety metrics). Still, approval is not guaranteed, and the timeline from Phase 2 to approved therapy is typically 5–10 years. During that time, Disc must sustain operations without product revenue, relying on cash reserves and capital raised from investors who believe in the science and the market opportunity.
+Disc's drugs must navigate [FDA](/securities-and-exchange-commission/) approval, which for rare diseases can involve the Breakthrough Therapy or Fast Track designation if early data are compelling. The FDA pathway for hematologic disorders is well-established; Disc knows the clinical end points it needs to demonstrate (improvement in hemoglobin levels, reduced transfusion dependence, safety metrics). Still, approval is not guaranteed, and the timeline from Phase 2 to approved therapy is typically 5–10 years. During that time, Disc must sustain operations without product revenue, relying on cash reserves and capital raised from investors who believe in the science and the market opportunity.
 
 ## Market Size and Reimbursement Assumptions
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-ENDRA Life Sciences is a medical-device company building a new imaging tool to measure liver fat content in patients. The company trades on NASDAQ as NDRA and is in the late-stage development phase, preparing regulatory submissions for its core technology.
+ENDRA Life Sciences is a medical-device company building a new imaging tool to measure liver fat content in patients. The company trades on [NASDAQ](/nasdaq/) as NDRA and is in the late-stage development phase, preparing regulatory submissions for its core technology.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ ENDRA Life Sciences is a medical-device company building a new imaging tool to m
 
 Fatty liver disease affects a growing share of adults worldwide. The condition—called non-alcoholic fatty liver disease or NAFLD, now often termed metabolic dysfunction-associated steatohepatitis or MASH—develops when fat accumulates in liver cells, initially harmless but potentially progressing to inflammation, scarring, and liver failure. Early detection matters: if patients know their liver fat level is elevated, lifestyle changes (weight loss, diet, exercise) can halt or reverse the condition.
 
-Today, the gold standard for measuring liver fat is magnetic resonance imaging (MRI), specifically a technique called MRI-PDFF that quantifies the exact percentage of fat in the organ. MRI is accurate but expensive—a single scan can cost two to five thousand dollars or more—and availability is limited. Most patients with suspected fatty liver disease are screened indirectly using blood tests or basic ultrasound, both of which are crude measures. What clinicians lack is a practical, affordable, on-site tool that gives them the precision of MRI without the cost and logistics burden.
+Today, the [gold standard](/gold-standard/) for measuring liver fat is magnetic resonance imaging (MRI), specifically a technique called MRI-PDFF that quantifies the exact percentage of fat in the organ. MRI is accurate but expensive—a single scan can cost two to five thousand dollars or more—and availability is limited. Most patients with suspected fatty liver disease are screened indirectly using blood tests or basic ultrasound, both of which are crude measures. What clinicians lack is a practical, affordable, on-site tool that gives them the precision of MRI without the cost and logistics burden.
 
 ## TAEUS: The Innovation
 
@@ -38,7 +38,7 @@ The elegant part of TAEUS is that it leverages the existing installed base. Over
 
 ## Clinical Validation
 
-ENDRA has conducted pilot and feasibility studies comparing TAEUS measurements of liver fat to the MRI gold standard. The results are encouraging. In a multisite pilot study, TAEUS achieved a sensitivity of 90% at clinically important fat thresholds and a Pearson correlation coefficient of 0.78 when compared to MRI-PDFF. In plain terms: the device is highly sensitive (catches most cases of elevated liver fat) and strongly correlated with the standard method.
+ENDRA has conducted pilot and feasibility studies comparing TAEUS measurements of liver fat to the MRI gold standard. The results are encouraging. In a multisite pilot study, TAEUS achieved a sensitivity of 90% at clinically important fat thresholds and a Pearson [correlation coefficient](/correlation-coefficient/) of 0.78 when compared to MRI-PDFF. In plain terms: the device is highly sensitive (catches most cases of elevated liver fat) and strongly correlated with the standard method.
 
 However, TAEUS is not yet on the market. The company has submitted a De Novo request to the FDA—a regulatory pathway for novel devices that do not fit into established categories. The De Novo process requires more data than a standard 510(k), but it also results in a broader market clearance if approved. A multicenter prospective trial is underway to gather the evidence the FDA will want to see.
 
@@ -56,7 +56,7 @@ The risk is that if TAEUS gains traction, large incumbents will respond. They ha
 
 ENDRA's plan is to sell TAEUS systems to hospitals and imaging centers, likely through a combination of capital equipment sales and recurring service contracts. The company may also pursue a subscription or per-scan licensing model if regulators and customers prefer that structure. Revenue does not begin until FDA clearance and market launch, which adds uncertainty to the financial timeline.
 
-The company has also pursued a digital-asset treasury strategy, investing a portion of its cash in cryptocurrencies managed by third-party firms. This is similar to other small tech companies and provides a modest hedge against currency erosion, though it introduces regulatory and market risk.
+The company has also pursued a digital-asset treasury strategy, investing a portion of its cash in cryptocurrencies managed by third-party firms. This is similar to other small tech companies and provides a modest hedge against currency erosion, though it introduces regulatory and [market risk](/market-risk/).
 
 ## Stage and Risks
 

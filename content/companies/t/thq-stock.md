@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-abrdn Healthcare Opportunities Fund is a closed-end mutual fund managed by abrdn, one of the world's largest investment managers. The fund pools capital from investors to purchase a diversified portfolio of healthcare company stocks, bonds, and other securities. It is listed on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker THQ and trades as a security in its own right, unlike an open-ended mutual fund. The fund's primary purpose is to provide investors with exposure to the healthcare sector and to distribute income — typically in the form of monthly or quarterly dividends — drawn from the dividends and interest the underlying portfolio generates, plus any capital gains the fund manager realizes by selling securities.
+abrdn Healthcare Opportunities Fund is a closed-end mutual fund managed by abrdn, one of the world's largest investment managers. The fund pools capital from investors to purchase a diversified portfolio of healthcare company stocks, [bonds](/bond/), and other securities. It is listed on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker THQ and trades as a security in its own right, unlike an open-ended mutual fund. The fund's primary purpose is to provide investors with exposure to the healthcare sector and to distribute income — typically in the form of monthly or quarterly [dividends](/dividend/) — drawn from the dividends and interest the underlying portfolio generates, plus any capital gains the fund manager realizes by selling securities.
 
 Closed-end healthcare funds like this one operate in a competitive landscape dominated by lower-cost passive [index funds](/index-fund/) and exchange-traded funds that track the healthcare sector. The fund's survival depends on its ability to outperform those alternatives and to justify the [management fees](/management-fee/) it charges.
 
@@ -35,7 +35,7 @@ The closed-end structure also creates a natural dividend focus. The manager can 
 
 ## abrdn's investment strategy and segments
 
-The fund's portfolio spans the healthcare sector broadly: large-cap pharmaceutical companies, smaller biotech firms developing novel drugs, medical-device manufacturers, diagnostics companies, [healthcare services](/hcsg-stock/) providers, and healthcare [real estate investment trusts](/real-estate-investment-trust/) (REITs). Some portion of the fund may also hold healthcare-related debt securities or preferred shares for income [diversification](/diversification/).
+The fund's portfolio spans the healthcare sector broadly: large-cap pharmaceutical companies, smaller biotech firms developing novel drugs, medical-device manufacturers, diagnostics companies, healthcare services providers, and healthcare [real estate investment trusts](/real-estate-investment-trust/) (REITs). Some portion of the fund may also hold healthcare-related debt securities or preferred shares for income [diversification](/diversification/).
 
 The fund's competitive positioning rests on three claims: that abrdn's healthcare analysts can identify undervalued healthcare stocks better than a broad passive index can; that the fund can generate attractive yields by holding high-dividend-paying healthcare companies; and that the closed-end structure delivers better after-fee returns to long-term holders than they would receive from open-ended funds or index funds.
 

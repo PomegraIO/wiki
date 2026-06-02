@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Sotherly Hotels is a REIT—a real estate investment trust. Think of it this way: a REIT buys real estate, rents it out or operates it, and passes most of the profit to shareholders as dividends. Sotherly owns and runs ten upscale hotels across the Southern United States, primarily in states like Florida, Georgia, and the Carolinas. The company was set up in 2004 and is based in Williamsburg, Virginia. It is self-managed, meaning the same executives who own the company also run the day-to-day operations. It trades on the Nasdaq under the ticker SOHO, though the ticker SOHOO refers to the company's preferred stock, a senior claim on the company's cash flow that pays a fixed dividend.
+Sotherly Hotels is a REIT—a [real estate investment trust](/real-estate-investment-trust/). Think of it this way: a REIT buys real estate, rents it out or operates it, and passes most of the profit to shareholders as [dividends](/dividend/). Sotherly owns and runs ten upscale hotels across the Southern United States, primarily in states like Florida, Georgia, and the Carolinas. The company was set up in 2004 and is based in Williamsburg, Virginia. It is self-managed, meaning the same executives who own the company also run the day-to-day operations. It trades on the [Nasdaq](/nasdaq/) under the ticker SOHO, though the ticker SOHOO refers to the company's [preferred stock](/preferred-stock/), a senior claim on the company's cash flow that pays a fixed dividend.
 
 The simple part: Sotherly buys hotel buildings, puts in management and staff, fills the rooms with guests, and keeps the revenue. Guests pay for rooms, meals, drinks, and incidentals. Sotherly keeps most of that money after paying for staff, utilities, maintenance, and the brand fees it owes to Hilton or Hyatt for the right to use their names. The moat here is not clever—it is location and property quality.
 
@@ -38,11 +38,11 @@ Different types of properties emphasize different sides. A resort property with 
 
 ## The real risks
 
-Hotel demand is cyclical. During economic booms, business travel picks up, tourists spend, and room rates rise. During recessions, demand drops, discounting begins, and profits shrink. Sotherly is exposed to this cycle—a significant recession would hit its cash flow and dividend.
+Hotel demand is cyclical. During economic booms, business travel picks up, tourists spend, and room rates rise. During [recessions](/recession/), demand drops, discounting begins, and profits shrink. Sotherly is exposed to this cycle—a significant recession would hit its cash flow and dividend.
 
 Real estate itself is illiquid and capital-intensive. Sotherly can't quickly sell a hotel if it wants to. It takes months or years to find a buyer and close a deal. So Sotherly must plan for the long term and cannot easily raise cash in a crunch. That means the company must manage debt carefully and maintain liquidity to survive bad quarters without being forced to sell property at unfavorable prices.
 
-Labor is another risk. Hotels are staff-intensive. Wages for housekeeping and front-desk workers have risen, and finding enough labor can be difficult in tight labor markets. Wage inflation directly cuts into Sotherly's margins unless it can raise room rates correspondingly.
+Labor is another risk. Hotels are staff-intensive. Wages for housekeeping and front-desk workers have risen, and finding enough labor can be difficult in tight labor markets. Wage [inflation](/inflation/) directly cuts into Sotherly's margins unless it can raise room rates correspondingly.
 
 Competition is continuous. Hotel rooms are largely commodities—if a guest can get a room comparable to Sotherly's at a competitor's property for less, they will. Price wars are common in mature markets. Sotherly's edge is property quality and brand, but those are defensible only by constant execution: keeping the properties in good condition, filling rooms, and maintaining service standards.
 
@@ -50,12 +50,12 @@ Competition is continuous. Hotel rooms are largely commodities—if a guest can 
 
 What keeps competitors out of Sotherly's business? Not much beyond capital and patience. A larger company with more capital and more properties has scale advantages: they can negotiate better rates with suppliers, benefit from economies of scale in operations, and weather downturns more easily. Sotherly is mid-sized, holding ten properties—large enough to have reasonable scale but not large enough to compete on cost with the mega-chains. Its moat is mostly that it owns decent properties in decent locations. If Sotherly stopped maintaining them, sold them off, or mismanaged them, the moat would evaporate.
 
-This is not a structural moat like Apple's ecosystem or Microsoft's lock-in. It is a working moat—dependent on the current management doing their job well. A change in management, a series of bad property acquisitions, or a market recession could erode Sotherly's position quickly.
+This is not a structural moat like Apple's ecosystem or Microsoft's lock-in. It is a working moat—dependent on the current management doing their job well. A change in management, a series of bad property [acquisitions](/acquisition/), or a market recession could erode Sotherly's position quickly.
 
 ## How to research Sotherly Hotels
 
 Look at the SEC filings (CIK 0001301236) and check the breakdown of revenue by property. See which hotels are performing well and which are lagging. Watch occupancy rates (the percentage of rooms filled) and average daily rate (the price per room). Both matter—high occupancy with low prices is not as good as lower occupancy at premium rates.
 
-Check the company's debt levels and interest expense. Hotels require leverage to be profitable at scale; too much debt makes the company vulnerable to downturns. Look at the dividend payout ratio: if the company is paying out most of its cash as dividends, it has little retained to invest in renovations or to cushion bad quarters.
+Check the company's debt levels and interest expense. Hotels require leverage to be profitable at scale; too much debt makes the company vulnerable to downturns. Look at the [dividend payout ratio](/dividend-payout-ratio/): if the company is paying out most of its cash as dividends, it has little retained to invest in renovations or to cushion bad quarters.
 
 Monitor hotel industry trends. Track demand in the Southern markets where Sotherly operates, inflation in labor and costs, and the brand partners' performance. A Hilton or Hyatt in weakness might affect Sotherly's brands indirectly. Finally, watch the company's capital allocation: is it buying new properties, renovating existing ones, or just harvesting cash to pay dividends? That tells you whether management sees growth opportunity or is in harvest mode.

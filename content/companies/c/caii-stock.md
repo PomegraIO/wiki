@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Collective Acquisition Corp. II is a special purpose acquisition company formed to merge with or acquire an operating business, with a deliberate focus on national-interest sectors: defense, artificial intelligence, critical financial infrastructure, or strategic resource supply.*
+*Collective [Acquisition](/acquisition/) Corp. II is a special purpose acquisition company formed to merge with or acquire an operating business, with a deliberate focus on national-interest sectors: defense, artificial intelligence, critical financial infrastructure, or strategic resource supply.*
 
 ## What is CAII actually looking for?
 

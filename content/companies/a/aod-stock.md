@@ -51,7 +51,7 @@ AOD competes with a large universe of other dividend-focused closed-end funds, o
 
 AOD's returns are shaped by two principal forces: the performance of the equity portfolio and the cost of the leverage. When [interest rates](/interest-rate/) are low, borrowing is cheap and the spread between portfolio returns and borrowing costs widens, benefiting shareholders. When rates rise, the opposite happens — the cost of leverage rises and can compress returns or even force the fund to cut distributions if the spread narrows enough. This dynamic is a persistent headwind for leveraged funds in high-rate environments and a persistent tailwind in low-rate periods.
 
-The portfolio itself is sensitive to the economic cycle and to dividend sustainability. A recession that forces companies to cut dividends can be particularly damaging to a fund like AOD, which relies on those payouts for its entire investment thesis. The 2008 financial crisis and 2020 pandemic illustrated this risk starkly, as many dividend-paying stocks cut or suspended distributions in rapid succession.
+The portfolio itself is sensitive to the economic cycle and to dividend sustainability. A [recession](/recession/) that forces companies to cut dividends can be particularly damaging to a fund like AOD, which relies on those payouts for its entire investment thesis. The 2008 financial crisis and 2020 pandemic illustrated this risk starkly, as many dividend-paying stocks cut or suspended distributions in rapid succession.
 
 ## How to research AOD
 

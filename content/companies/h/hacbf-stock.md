@@ -4,7 +4,7 @@ description: "A regional Japanese bank serving Nagano Prefecture; profitability 
 keywords: ["regional bank", "Japan", "Nagano", "net interest margin", "deposit base", "loan losses", "cik-793742"]
 ---
 
-*HACHIJUNI BANK LTD (HACBF) is a regional bank headquartered in Nagano Prefecture, Japan, where it operates as a traditional commercial bank — taking deposits from customers and businesses, making loans, and capturing the spread between deposit rates (which it pays) and loan rates (which it charges). The bank's economic viability rests on a simple but fragile formula: does the net interest margin (the percentage-point spread between what the bank earns on loans and what it pays on deposits) remain wide enough to cover operating costs, loan losses, and provide a return on equity? Unlike a growth-stage business that expands revenue, or a capital-efficient tech company that scales with minimal overhead, **HACHIJUNI BANK** operates in a mature, low-growth Japanese market where deposit competition is fierce, lending growth is modest, and [interest rates](/interest-rate/) have been historically low. The bank's economic challenges are neither operational nor cyclical but structural: how can it maintain profitability in a persistently low-rate environment where traditional banking spreads compress?*
+*[HACHIJUNI BANK](/hacby-stock/) LTD (HACBF) is a regional bank headquartered in Nagano Prefecture, Japan, where it operates as a traditional commercial bank — taking deposits from customers and businesses, making loans, and capturing the spread between deposit rates (which it pays) and loan rates (which it charges). The bank's economic viability rests on a simple but fragile formula: does the net interest margin (the percentage-point spread between what the bank earns on loans and what it pays on deposits) remain wide enough to cover operating costs, loan losses, and provide a return on equity? Unlike a growth-stage business that expands revenue, or a capital-efficient tech company that scales with minimal overhead, **HACHIJUNI BANK** operates in a mature, low-growth Japanese market where deposit competition is fierce, lending growth is modest, and [interest rates](/interest-rate/) have been historically low. The bank's economic challenges are neither operational nor cyclical but structural: how can it maintain profitability in a persistently low-rate environment where traditional banking spreads compress?*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>HACBF</td></tr>
@@ -76,7 +76,7 @@ The key insight is that HACHIJUNI BANK, like all regional Japanese banks, is ope
 - Credit risk and loan-loss provisions
 
 ### Wider context
-- [return on equity](/return-on-equity/) in mature [financial institutions](/fisi-stock/)
+- [return on equity](/return-on-equity/) in mature financial institutions
 - Regional economics and banking concentration
 - Interest-rate environment effects on banking spreads
 </div>

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **ProShares Ultra Nasdaq Biotechnology** (NASDAQ: BIB) is a leveraged ETF. It tracks the Nasdaq Biotechnology Index using 2x amplification—on up days, roughly double the index move; on down days, roughly double the loss. The leverage resets daily. It is tactical ammunition, not a long-term holding.*
+*The **ProShares Ultra [Nasdaq](/nasdaq/) Biotechnology** (NASDAQ: BIB) is a [leveraged ETF](/leveraged-etf/). It tracks the Nasdaq Biotechnology Index using 2x amplification—on up days, roughly double the index move; on down days, roughly double the loss. The leverage resets daily. It is tactical ammunition, not a long-term holding.*
 
 ## Structure and daily reset mechanics
 
@@ -21,21 +21,21 @@ Scenario: Index falls 1 percent (BIB down 2 percent to $98), then rises 1 percen
 
 ## What the fund holds
 
-The Nasdaq Biotechnology Index spans roughly 150 public biotech and biopharmaceutical firms—therapy developers, diagnostics makers, device manufacturers. Market-cap weighted, so large names—Novo Nordisk, Regeneron, Amgen—dominate, though smaller specialized biotech firms also feature.
+The Nasdaq Biotechnology Index spans roughly 150 public biotech and biopharmaceutical firms—therapy developers, diagnostics makers, device manufacturers. Market-cap weighted, so large names—Novo Nordisk, Regeneron, [Amgen](/amgn-stock/)—dominate, though smaller specialized biotech firms also feature.
 
-The biotech sector is inherently volatile. Drug approvals are binary events: a single FDA decision can swing a company's market value 20–40 percent in hours. Clinical trial results, merger announcements, and competitive disruptions create daily swings larger than broader equities. That volatility is precisely why BIB's leverage decay is so severe—biotech is not a calm, sideways market.
+The biotech sector is inherently volatile. Drug approvals are binary events: a single FDA decision can swing a company's market value 20–40 percent in hours. Clinical trial results, [merger](/merger/) announcements, and competitive disruptions create daily swings larger than broader equities. That volatility is precisely why BIB's leverage decay is so severe—biotech is not a calm, sideways market.
 
 ProShares (Nasdaq subsidiary) sponsors BIB as part of its suite of leveraged and inverse products. The fund is highly liquid on the NASDAQ, with reasonable trading volumes even on stressful days.
 
 ## The cost structure and compounding trap
 
-Expense ratio around 0.95 percent annually versus 0.15–0.40 percent for the plain biotech ETF. The gap reflects borrowing costs, derivatives costs, daily rebalancing. An investor in a calm market where biotech returns 10 percent might see 15–17 percent in BIB, not 20 percent, after accounting for volatility decay. Fees and decay compounding eat gains in sideways markets.
+[Expense ratio](/expense-ratio/) around 0.95 percent annually versus 0.15–0.40 percent for the plain biotech ETF. The gap reflects borrowing costs, derivatives costs, daily rebalancing. An investor in a calm market where biotech returns 10 percent might see 15–17 percent in BIB, not 20 percent, after accounting for volatility decay. Fees and decay compounding eat gains in sideways markets.
 
-Many brokers prohibit BIB in tax-advantaged accounts (IRAs, 401(k)s) precisely because regulators worry retail investors treat leveraged funds as long-term holdings and suffer losses that decay and fees inflict over time.
+Many [brokers](/broker/) prohibit BIB in tax-advantaged accounts (IRAs, 401(k)s) precisely because regulators worry retail investors treat leveraged funds as long-term holdings and suffer losses that decay and fees inflict over time.
 
 ## When BIB makes sense
 
-Tactical. A trader with a near-term conviction that biotech will surge over days to weeks—want 2x exposure without managing a margin account or facing margin calls? BIB is a liquid alternative. Hedge use: a biotech-heavy portfolio manager might short BIB to hedge expected weakness.
+Tactical. A trader with a near-term conviction that biotech will surge over days to weeks—want 2x exposure without managing a margin account or facing [margin calls](/margin-call-forex/)? BIB is a liquid alternative. Hedge use: a biotech-heavy portfolio manager might short BIB to hedge expected weakness.
 
 Hold for months or years? Stop. BIB will bleed you. The unlevered biotech fund beats it, even when biotech itself performs well. Decay plus costs guarantee it.
 
@@ -49,7 +49,7 @@ Paradoxically, decay is also worst during crisis periods, when investors most wa
 
 BIB trades with reasonable volume but tighter spreads than broader ETFs. A trader entering a position should have a clear, time-bound thesis: "Biotech will outperform over the next 10 trading days" is sensible. "Biotech is oversold and will recover within two weeks" is reasonable. "I will hold BIB for portfolio insurance" is a mistake.
 
-Exit discipline matters. Set a target price and a time limit before buying. Hold longer than your thesis and you guarantee decay will eat profits. BIB is a tool with an expiration date.
+Exit discipline matters. Set a target price and a time limit before buying. Hold longer than your thesis and you guarantee decay will eat profits. BIB is a tool with an [expiration date](/expiration-date/).
 
 ## Testing the fit
 

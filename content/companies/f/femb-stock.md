@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **First Trust Emerging Markets Local Currency Bond ETF** (ticker FEMB) is a bond-focused exchange-traded fund that invests in debt securities issued by governments and corporations in emerging markets, with a distinctive feature: the bonds are denominated in the local currencies of those countries rather than in U.S. dollars. An emerging-market government bond issued by Mexico is held in pesos; a corporate bond from India is held in rupees. This local-currency element introduces both opportunity and risk distinct from dollar-denominated emerging-market bonds.*
+*The **First Trust Emerging Markets Local Currency [Bond ETF](/bond-etf/)** (ticker FEMB) is a bond-focused exchange-traded fund that invests in debt securities issued by governments and corporations in emerging markets, with a distinctive feature: the [bonds](/bond/) are denominated in the local currencies of those countries rather than in [U.S. dollars](/us-dollar/). An emerging-market government bond issued by Mexico is held in pesos; a [corporate bond](/corporate-bond/) from India is held in rupees. This local-currency element introduces both opportunity and risk distinct from dollar-denominated emerging-market bonds.*
 
 <aside class="wiki-infobox">
 <table>
@@ -35,13 +35,13 @@ FEMB takes the opposite approach: it holds bonds issued in local currencies. If 
 
 FEMB's holdings come from two main sources: bonds issued by emerging-market governments and bonds issued by large corporations in those countries. Government bonds from Brazil, India, Mexico, Russia, and Poland, for example, are included if they meet the fund's criteria. Corporate bonds from large emerging-market companies are also eligible if they are denominated in local currency and traded in sufficiently liquid markets.
 
-The fund tracks the JP Morgan Government Bond Index - Emerging Markets Local Currency, which is a widely followed benchmark. This index includes investment-grade and below-investment-grade bonds (so FEMB may own some higher-yielding, higher-risk debt), and it weights holdings by market capitalization — larger, more liquid bonds have more influence on the fund's performance than smaller ones.
+The fund tracks the JP Morgan Government Bond Index - Emerging Markets Local Currency, which is a widely followed benchmark. This index includes investment-grade and below-investment-grade bonds (so FEMB may own some higher-yielding, higher-risk debt), and it weights holdings by [market capitalization](/market-capitalization/) — larger, more liquid bonds have more influence on the fund's performance than smaller ones.
 
-The geographic diversification is meaningful: FEMB's portfolio spreads across dozens of countries and currencies, which reduces the risk that a problem in any single country will devastate returns. However, that diversification also means the fund's performance depends on the health of the broader emerging-market sector rather than on the strength of any one nation's economy.
+The geographic [diversification](/diversification/) is meaningful: FEMB's portfolio spreads across dozens of countries and currencies, which reduces the risk that a problem in any single country will devastate returns. However, that diversification also means the fund's performance depends on the health of the broader emerging-market sector rather than on the strength of any one nation's economy.
 
 ## Interest-rate sensitivity and duration
 
-Like all bonds, those held by FEMB are sensitive to interest-rate changes. If interest rates in Brazil rise, existing Brazilian bonds (which carry a fixed coupon) become less attractive to new buyers, so their market price falls. FEMB's net asset value will move down. Conversely, if rates fall, bond prices rise. This interest-rate sensitivity is called duration risk, and it is present regardless of the currency denomination.
+Like all bonds, those held by FEMB are sensitive to interest-rate changes. If [interest rates](/interest-rate/) in Brazil rise, existing Brazilian bonds (which carry a fixed coupon) become less attractive to new buyers, so their market price falls. FEMB's [net asset value](/net-asset-value/) will move down. Conversely, if rates fall, bond prices rise. This interest-rate sensitivity is called duration risk, and it is present regardless of the currency denomination.
 
 FEMB has moderate duration — it is not as sensitive to rate changes as a long-term bond fund, but it is more sensitive than a short-term bond fund. This makes it suitable for investors seeking yield and some principal stability, but it is not a cash substitute.
 
@@ -53,7 +53,7 @@ This is where FEMB differs fundamentally from a dollar-denominated emerging-mark
 
 ## Costs and liquidity
 
-FEMB charges a modest expense ratio for a bond ETF. The JP Morgan index it tracks is transparent and well-established, so the fund can track it efficiently. Liquidity in FEMB itself (the ability to buy and sell shares) is generally adequate, though it will not have the intraday trading volume of massive U.S. Treasury or corporate-bond ETFs. For most buy-and-hold investors, liquidity is not a constraint.
+FEMB charges a modest [expense ratio](/expense-ratio/) for a bond ETF. The JP Morgan index it tracks is transparent and well-established, so the fund can track it efficiently. Liquidity in FEMB itself (the ability to buy and sell shares) is generally adequate, though it will not have the intraday trading volume of massive U.S. Treasury or corporate-bond ETFs. For most buy-and-hold investors, liquidity is not a constraint.
 
 ## Who FEMB is for and research approach
 

@@ -4,7 +4,7 @@ description: "A regional bank funded by core deposits and financed through modes
 keywords: ["FMCB", "community bank", "deposits", "equity funding", "capital ratio", "dividend"]
 ---
 
-*The operating model of **FARMERS & [MERCHANTS BANCORP](/mbin-stock/) (FMCB)** rests on deposits—the liabilities that fund its lending. A community bank, it holds itself to the same federal [capital ratio](/enterprise-value/) standards as larger peers while maintaining a regional, relationship-driven customer base. Its capital strategy is conservative: preserving adequate equity to cushion loan losses while returning modest excess earnings to [shareholders](/common-stock/).*
+*The operating model of **FARMERS & MERCHANTS BANCORP (FMCB)** rests on deposits—the liabilities that fund its lending. A community bank, it holds itself to the same federal [capital ratio](/enterprise-value/) standards as larger peers while maintaining a regional, relationship-driven customer base. Its capital strategy is conservative: preserving adequate equity to cushion loan losses while returning modest excess earnings to [shareholders](/common-stock/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FMCB</td></tr>
@@ -42,7 +42,7 @@ FMCB's true capital strength lies in its loan-loss-reserve practices. The bank e
 
 ## Dividend and Retained Earnings
 
-FMCB pays a quarterly [dividend](/dividend/) to shareholders, a modest yield reflecting community-bank economics. The dividend is sustainable because it draws only a portion of net income, leaving the majority in retained earnings to strengthen capital and fund growth. During downturns—when loan losses spike and earnings plunge—the bank can reduce or suspend the dividend rather than risk depleting capital. That flexibility is essential for [financial institutions](/fisi-stock/).
+FMCB pays a quarterly [dividend](/dividend/) to shareholders, a modest yield reflecting community-bank economics. The dividend is sustainable because it draws only a portion of net income, leaving the majority in retained earnings to strengthen capital and fund growth. During downturns—when loan losses spike and earnings plunge—the bank can reduce or suspend the dividend rather than risk depleting capital. That flexibility is essential for financial institutions.
 
 Retained earnings are the engine of equity growth. After a profitable year, FMCB retains perhaps 70–80% of earnings, pushing that amount into the equity column. Over a decade, even a mid-sized regional bank's equity can double from retained earnings alone, funding loan growth without external capital raises or equity dilution.
 

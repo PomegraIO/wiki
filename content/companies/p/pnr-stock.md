@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Pentair is an industrial manufacturer headquartered in Milwaukee that supplies critical equipment and systems for water management, fluid handling, and thermal management across utilities, industrial facilities, and data centers. The company operates in a collection of markets where its products are essential to infrastructure — not glamorous or visible to consumers, but indispensable to the businesses that run on them. Pentair's customers include utility companies managing water distribution networks, industrial plants processing fluids, food manufacturers controlling temperature and contamination, and [hyperscale data](/gpus-stock/) centers cooling massive server farms.
+Pentair is an industrial manufacturer headquartered in Milwaukee that supplies critical equipment and systems for water management, fluid handling, and thermal management across utilities, industrial facilities, and data centers. The company operates in a collection of markets where its products are essential to infrastructure — not glamorous or visible to consumers, but indispensable to the businesses that run on them. Pentair's customers include utility companies managing water distribution networks, industrial plants processing fluids, food manufacturers controlling temperature and contamination, and hyperscale data centers cooling massive server farms.
 
 <aside class="wiki-infobox">
 <table>

@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-Globa Terra Acquisition Corp is a company with money but no actual business. It raised that money by going public in July 2025. Now it is looking to buy or merge with a real company. This is called a SPAC, which stands for Special Purpose Acquisition Company. Some people call it a blank-check company because it has the check but has not written down what it is buying yet.
+Globa Terra [Acquisition](/acquisition/) Corp is a company with money but no actual business. It raised that money by going public in July 2025. Now it is looking to buy or merge with a real company. This is called a SPAC, which stands for Special Purpose Acquisition Company. Some people call it a blank-check company because it has the check but has not written down what it is buying yet.
 
 ## What happened in July 2025
 
-Globa Terra asked investors to buy shares and raised about $152 million. Each investor who bought in got one share, half of a warrant, and one right. A warrant is the right to buy another share later at a fixed price. A right gives you a vote on the deal when it is found. The shares traded on the stock market under the ticker GTERU. After the investor separated their unit into pieces, the shares became GTER, the warrants became GTERW, and the rights became GTERR.
+Globa Terra asked investors to buy shares and raised about $152 million. Each investor who bought in got one share, half of a warrant, and one right. A warrant is the right to buy another share later at a fixed price. A right gives you a vote on the deal when it is found. The shares traded on the [stock market](/stock-market/) under the ticker GTERU. After the investor separated their unit into pieces, the shares became GTER, the warrants became GTERW, and the rights became GTERR.
 
 The money went into a bank account called a trust. It stays there until Globa Terra finds a company to buy. The sponsors of Globa Terra—the people who set it up—are now looking for targets.
 
@@ -29,11 +29,11 @@ Why those sectors? The sponsors believe these industries have room to grow and c
 
 Right now Globa Terra is a shell. It has no factory, no farms, no products, and no revenue. It has executives and lawyers looking at candidate companies. When they find one that looks good, they negotiate a deal. Both sides need to agree on price, terms, and structure.
 
-Once a deal is agreed, Globa Terra shareholders vote on it. Shareholders can vote yes, vote no, or redeem their shares (which means getting money back instead of being stuck with the combined company). If most shareholders vote yes and not too many redeem, the merger closes. The private company becomes public. The combined company trades on the stock market.
+Once a deal is agreed, Globa Terra shareholders vote on it. Shareholders can vote yes, vote no, or redeem their shares (which means getting money back instead of being stuck with the combined company). If most shareholders vote yes and not too many redeem, the [merger](/merger/) closes. The private company becomes public. The combined company trades on the stock market.
 
 ## The clock is ticking
 
-SPACs typically have a deadline: usually 24 months from going public. If Globa Terra does not complete a business combination by that deadline, it has to give the money back to shareholders and shut down. This creates pressure to find a deal before time runs out. The sponsors do not make money unless a deal closes, so they have incentive to push hard. But they also cannot be reckless: if the deal is bad, shareholders will redeem their shares and the whole thing falls apart.
+SPACs typically have a deadline: usually 24 months from going public. If Globa Terra does not complete a [business combination](/business-combination-purchase/) by that deadline, it has to give the money back to shareholders and shut down. This creates pressure to find a deal before time runs out. The sponsors do not make money unless a deal closes, so they have incentive to push hard. But they also cannot be reckless: if the deal is bad, shareholders will redeem their shares and the whole thing falls apart.
 
 ## Risks and unknowns
 

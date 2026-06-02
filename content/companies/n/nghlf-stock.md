@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Nightingale Health operates a biomarker diagnostics platform that measures hundreds of proteins and metabolites in blood samples. The company has built a database of disease-linked biomarkers by scanning the blood chemistry of hundreds of thousands of people, identifying which protein patterns predict heart disease, diabetes, kidney disease, and cancer. It then sells access to that data and the diagnostic capability to pharmaceutical companies developing new drugs, to research institutions seeking to understand disease mechanisms, and increasingly to healthcare systems interested in preventive screening.
+[Nightingale Health](/nhlty-stock/) operates a biomarker diagnostics platform that measures hundreds of proteins and metabolites in blood samples. The company has built a database of disease-linked biomarkers by scanning the blood chemistry of hundreds of thousands of people, identifying which protein patterns predict heart disease, diabetes, kidney disease, and cancer. It then sells access to that data and the diagnostic capability to pharmaceutical companies developing new drugs, to research institutions seeking to understand disease mechanisms, and increasingly to healthcare systems interested in preventive screening.
 
 <aside class="wiki-infobox">
 <table>
@@ -49,7 +49,7 @@ Another risk is scientific uncertainty. The company's value proposition rests on
 
 ## Growth and strategic positioning
 
-Nightingale has expanded rapidly in recent years, partly through organic growth and partly through acquisitions. The company acquired Nightingale AI (a separate entity building machine-learning-driven diagnostics) and has expanded its biobank and sample processing capacity. The strategy is to grow the database faster than competitors, deepen the validation of key biomarkers, and build relationships with pharmaceutical companies that will license the data and adopt the test.
+Nightingale has expanded rapidly in recent years, partly through organic growth and partly through [acquisitions](/acquisition/). The company acquired Nightingale AI (a separate entity building machine-learning-driven diagnostics) and has expanded its biobank and sample processing capacity. The strategy is to grow the database faster than competitors, deepen the validation of key biomarkers, and build relationships with pharmaceutical companies that will license the data and adopt the test.
 
 The company is also pushing into clinical adoption — rather than waiting for healthcare systems to discover its test, it is working to build evidence that the biomarkers improve patient outcomes and, critically, reduce costs. If a health system can reduce costly emergency care by early detection, the test pays for itself many times over. That economics makes adoption more likely, but it requires patience and partnership with health systems that move slowly.
 

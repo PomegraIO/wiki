@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Templeton Dragon Fund is a [closed-end fund](/closed-end-fund/) that holds a portfolio of stocks listed in Hong Kong and mainland China. It was created in the early 1990s when few American investors had easy access to Chinese companies, and it remains one of the oldest and most established vehicles for gaining exposure to the Chinese stock market. The fund is managed by Franklin Templeton, one of the world's largest independent asset managers, and it sits at the intersection of several major themes: the rise of China's economy, the long-term case for equity ownership in that growth, and the practical challenge that American investors face in accessing Chinese securities markets at scale.
+Templeton Dragon Fund is a [closed-end fund](/closed-end-fund/) that holds a portfolio of stocks listed in Hong Kong and mainland China. It was created in the early 1990s when few American investors had easy access to Chinese companies, and it remains one of the oldest and most established vehicles for gaining exposure to the Chinese stock market. The fund is managed by [Franklin Templeton](/fgdl-stock/), one of the world's largest independent asset managers, and it sits at the intersection of several major themes: the rise of China's economy, the long-term case for equity ownership in that growth, and the practical challenge that American investors face in accessing Chinese securities markets at scale.
 
 <aside class="wiki-infobox">
 <table>

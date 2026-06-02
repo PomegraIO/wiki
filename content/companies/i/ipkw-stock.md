@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Invesco International BuyBack Achievers ETF (IPKW) holds a curated portfolio of publicly traded companies from developed economies outside the United States that engage in share buyback programs. The fund focuses on firms that return capital to shareholders through systematic repurchases of their own stock. The logic is straightforward: companies that buy back shares are signaling confidence in their valuation and committing cash that might otherwise be squandered on acquisitions or dividends. They are also mechanically increasing earnings per share by shrinking the denominator. The fund is designed for investors who believe share buybacks are a mark of management discipline and a driver of long-term shareholder value.
+Invesco International BuyBack Achievers ETF (IPKW) holds a curated portfolio of publicly traded companies from developed economies outside the United States that engage in [share buyback](/share-buyback/) programs. The fund focuses on firms that return capital to shareholders through systematic repurchases of their own stock. The logic is straightforward: companies that buy back shares are signaling confidence in their valuation and committing cash that might otherwise be squandered on [acquisitions](/acquisition/) or [dividends](/dividend/). They are also mechanically increasing [earnings per share](/earnings-per-share/) by shrinking the denominator. The fund is designed for investors who believe share buybacks are a mark of management discipline and a driver of long-term shareholder value.
 
 <aside class="wiki-infobox">
 <table>
@@ -59,11 +59,11 @@ An index that selects purely on historical buyback activity is backward-looking.
 
 International developed markets have slowed in recent decades. A heavy tilt toward these regions and toward mature, capital-returning firms may sacrifice growth exposure. Emerging markets and US tech have outperformed significantly.
 
-Currency risk is present. If your home currency strengthens against the euro or yen, your international holdings decline in value.
+[Currency risk](/currency-risk/) is present. If your home currency strengthens against the euro or yen, your international holdings decline in value.
 
 ## Costs and liquidity
 
-IPKW charges a modest annual expense ratio. The fund rebalances quarterly. Trading volume on most major stock exchanges is good, so bid-ask spreads on the ETF are tight and execution easy.
+IPKW charges a modest annual [expense ratio](/expense-ratio/). The fund rebalances quarterly. Trading volume on most major [stock exchanges](/stock-exchange/) is good, so [bid-ask spreads](/bid-ask-spread/) on the ETF are tight and execution easy.
 
 The underlying index is transparent and rules-based, not subjective. Investors can verify holdings and understand the portfolio logic.
 

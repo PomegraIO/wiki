@@ -27,11 +27,11 @@ handwritten: true
 
 </aside>
 
-*SMCZ is an inverse leveraged ETF designed to move in the opposite direction of Super Micro Computer stock, with 2x amplification and daily reset mechanics. It allows bearish traders to amplify gains from a decline without opening a short position, but it is exclusively a short-term vehicle—holding it for more than a few days transforms it from a directional bet into a volatility trap.*
+*SMCZ is an inverse [leveraged ETF](/leveraged-etf/) designed to move in the opposite direction of [Super Micro Computer](/smci-stock/) stock, with 2x amplification and daily reset mechanics. It allows bearish traders to amplify gains from a decline without opening a short position, but it is exclusively a short-term vehicle—holding it for more than a few days transforms it from a directional bet into a volatility trap.*
 
 SMCZ's mechanics are the inverse of SMCX. When SMCI rises 2%, SMCZ falls roughly 4%. When SMCI falls 2%, SMCZ rises roughly 4%. The daily reset rebalances leverage at the market close, ensuring that the fund enters each session with a fresh 2x inverse target, regardless of the previous day's outcome. A trader convinced Super Micro will drop in the near term can use SMCZ to magnify that decline without the operational friction of a short sale or the margin requirements of a naked short.
 
-The fund achieves inversion through derivative positions—primarily swap contracts or options—that flip the direction of the underlying's movement and amplify it. Defiance manages that overlay; it is transparent to the holder. The expense ratio reflects the cost of daily rebalancing and derivative management; it is higher than a simple long ETF, but reasonable for a leveraged product.
+The fund achieves inversion through derivative positions—primarily swap contracts or options—that flip the direction of the underlying's movement and amplify it. Defiance manages that overlay; it is transparent to the holder. The [expense ratio](/expense-ratio/) reflects the cost of daily rebalancing and derivative management; it is higher than a simple long ETF, but reasonable for a leveraged product.
 
 The critical limitation is volatility decay—and it operates differently for inverse funds. A sideways or choppy market is decay's best friend. Suppose SMCI rises 5%, then falls 5%, ending flat. SMCZ falls 10% on the first move, gains 10% on the second. But that 10% gain on a smaller base (after the initial 10% drop) does not fully recover, so SMCZ ends the round trip lower, even though SMCI went nowhere. Over weeks, especially if SMCI oscillates without a clear trend, decay compounds mercilessly. Inverse leveraged funds are most severely damaged in sideways markets, not down markets.
 

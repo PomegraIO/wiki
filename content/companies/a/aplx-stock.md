@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-APLX is a leveraged exchange-traded fund that targets two times the daily return of an Apple-focused index. Instead of holding Apple shares directly, APLX uses derivatives — primarily swaps and futures — to multiply its exposure. When the underlying index rises 1%, APLX aims to rise 2%. When it falls 1%, APLX falls 2%. This is a tool for traders betting on Apple in the near term, not for long-term investors.
+APLX is a leveraged exchange-traded fund that targets two times the daily return of an Apple-focused index. Instead of holding [Apple](/aapl-stock/) shares directly, APLX uses derivatives — primarily swaps and futures — to multiply its exposure. When the underlying index rises 1%, APLX aims to rise 2%. When it falls 1%, APLX falls 2%. This is a tool for traders betting on Apple in the near term, not for long-term investors.
 
 <aside class="wiki-infobox">
 <table>
@@ -43,11 +43,11 @@ This is volatility decay. It destroys long-term holders in leveraged funds, part
 
 APLX is exclusively a tool for traders who hold positions intraday or for at most a few days. It is useful if you believe Apple shares will move sharply higher over the next 24 hours and want magnified exposure. It is useless — and often a path to losses — for investors with a multi-month or multi-year horizon.
 
-Many retail investors buy leveraged ETFs not understanding volatility decay, hold them for months, and watch them underperform the leveraged return they expected. The fund is not broken; it is working as designed. The mismatch is between the design (daily reset leverage) and how it is being used (long holding periods).
+Many retail investors buy [leveraged ETFs](/leveraged-etf/) not understanding volatility decay, hold them for months, and watch them underperform the leveraged return they expected. The fund is not broken; it is working as designed. The mismatch is between the design (daily reset leverage) and how it is being used (long [holding periods](/holding-period/)).
 
 ## Costs and trading mechanics
 
-APLX trades on an exchange and typically carries tight bid-ask spreads because of its popularity. The fund's expense ratio is higher than a plain-vanilla fund — often 0.5% to 1.0% annually — because maintaining leverage through derivatives costs money. That fee erodes returns over time, particularly for anyone holding the fund longer than a few days.
+APLX trades on an exchange and typically carries tight [bid-ask spreads](/bid-ask-spread/) because of its popularity. The fund's [expense ratio](/expense-ratio/) is higher than a plain-vanilla fund — often 0.5% to 1.0% annually — because maintaining leverage through derivatives costs money. That fee erodes returns over time, particularly for anyone holding the fund longer than a few days.
 
 The fund is highly liquid during trading hours. If you own shares and want to exit in the middle of the day, you can sell at a price very close to the current index-tracking price.
 

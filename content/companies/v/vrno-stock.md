@@ -41,7 +41,7 @@ This acquisition reflected a broader consolidation trend in cannabis: smaller or
 
 In November 2025, Verano completed a redomicile of its parent company from British Columbia, Canada, to Nevada. This corporate restructuring removed a Canadian domicile and simplified U.S. tax positioning. The move signals Verano's commitment to U.S. domicile despite the continued federal illegality of cannabis—the company is betting its future on U.S. markets, not Canadian.
 
-The timing is significant. Federal cannabis prohibition remains in place, but enforcement priorities have shifted, states have continued legalization, and [financial institutions](/fisi-stock/) increasingly serve cannabis businesses. A Nevada domicile is cleaner and simpler than a Canadian parent for a U.S.-focused cannabis operator.
+The timing is significant. Federal cannabis prohibition remains in place, but enforcement priorities have shifted, states have continued legalization, and financial institutions increasingly serve cannabis businesses. A Nevada domicile is cleaner and simpler than a Canadian parent for a U.S.-focused cannabis operator.
 
 ## The changing regulatory environment
 

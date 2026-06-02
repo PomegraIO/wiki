@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The AGF U.S. Market Neutral Anti-Beta Fund (BTAL) sits in a distinct corner of the ETF universe: it is designed to make money when the stock market does not, and specifically to exploit a persistent pattern in how investor behaviour and volatility interact. Rather than riding the broad market upward, BTAL constructs a long-short portfolio that aims to profit from relative mispricings between stable, quality stocks and volatile, beaten-down ones.
+The AGF U.S. Market Neutral Anti-Beta Fund (BTAL) sits in a distinct corner of the ETF universe: it is designed to make money when the [stock market](/stock-market/) does not, and specifically to exploit a persistent pattern in how investor behaviour and volatility interact. Rather than riding the broad market upward, BTAL constructs a long-short portfolio that aims to profit from relative mispricings between stable, quality stocks and volatile, beaten-down ones.
 
 <aside class="wiki-infobox">
 <table>
@@ -30,13 +30,13 @@ The AGF U.S. Market Neutral Anti-Beta Fund (BTAL) sits in a distinct corner of t
 
 BTAL pursues what academics call a "low-volatility" or "anti-beta" factor play. The fund holds a long position in stocks that historically exhibit low price swings and high profitability — the kinds of names that institutional investors buy and hold for years because they deliver steady returns. Simultaneously, it shorts (borrows and sells) stocks that are volatile, beaten-down, and unprofitable — the names that tend to move dramatically and attract retail speculators or distressed sellers.
 
-The bet is elegant in its simplicity: quality has a persistent edge, and volatile names consistently disappoint. By owning one side and shorting the other, the fund should profit regardless of whether the broad market rises or falls, as long as the relative outperformance of quality stocks holds. In a bull market, quality stocks outperform cyclicals and junk. In a bear market, quality stocks fall less than junk. Either way, the long-short structure aims to neutralize the market and capture the spread between them.
+The bet is elegant in its simplicity: quality has a persistent edge, and volatile names consistently disappoint. By owning one side and shorting the other, the fund should profit regardless of whether the broad market rises or falls, as long as the relative outperformance of quality stocks holds. In a [bull market](/bull-market/), quality stocks outperform cyclicals and junk. In a [bear market](/bear-market/), quality stocks fall less than junk. Either way, the long-short structure aims to neutralize the market and capture the spread between them.
 
 ## How the leverage and borrowing work
 
 To execute this strategy, BTAL uses leverage. It might hold, for example, 125 percent of its assets in long equity positions and 100 percent short, for a net market exposure of 25 percent. The short positions are financed by borrowing stocks from a lending pool and selling them, and the proceeds help fund additional long purchases. This gross leverage — being long and short much larger than 100 percent of assets — magnifies both gains and losses on the long-short spread. If the quality premium widens, BTAL's returns can be impressive relative to its size. If the premium narrows, the losses are symmetric.
 
-The mechanics of the short sale also matter. BTAL must pay borrow fees for the stocks it shorts (fees that vary with how hard those stocks are to borrow), and it must manage dividend and corporate-action complications that arise from being short. These frictions erode returns slightly and contribute to why the fund's expense ratio is higher than a simple long-only equity fund.
+The mechanics of the short sale also matter. BTAL must pay borrow fees for the stocks it shorts (fees that vary with how hard those stocks are to borrow), and it must manage [dividend](/dividend/) and corporate-action complications that arise from being short. These frictions erode returns slightly and contribute to why the fund's [expense ratio](/expense-ratio/) is higher than a simple long-only equity fund.
 
 ## The assumptions baked in
 
@@ -48,9 +48,9 @@ Both assumptions have held much more often than they have failed, but neither is
 
 The first risk is style drift. If market conditions favour volatility and speculation over quality and stability, BTAL will struggle. The fund has lived through such periods, and in those years its returns diverged substantially from its promised market neutrality. An investor who bought BTAL expecting zero correlation to the broad market and then watched it fall 20 percent while the market rose would understandably feel disappointed.
 
-The second risk is fee drag. Because BTAL has a higher expense ratio than a simple index fund, and because the long-short mechanics introduce trading costs and borrow fees, the fund needs a consistent quality premium to overcome those headwinds. In years when the premium is small, fee drag is the dominant force and the fund underperforms a buy-and-hold investor's results.
+The second risk is fee drag. Because BTAL has a higher expense ratio than a simple [index fund](/index-fund/), and because the long-short mechanics introduce trading costs and borrow fees, the fund needs a consistent quality premium to overcome those headwinds. In years when the premium is small, fee drag is the dominant force and the fund underperforms a buy-and-hold investor's results.
 
-A third risk is leverage amplification. The leverage that magnifies gains in good years also magnifies losses in bad ones. A 10 percent adverse move in the long-short spread becomes a 15 to 20 percent loss for the fund, depending on the gross leverage employed. Investors accustomed to the steady, predictable returns of a bond fund or a large-cap stock index fund will find BTAL's volatility disorienting, especially when the "market neutral" label suggests stability.
+A third risk is leverage amplification. The leverage that magnifies gains in good years also magnifies losses in bad ones. A 10 percent adverse move in the long-short spread becomes a 15 to 20 percent loss for the fund, depending on the gross leverage employed. Investors accustomed to the steady, predictable returns of a [bond](/bond/) fund or a large-cap stock index fund will find BTAL's volatility disorienting, especially when the "market neutral" label suggests stability.
 
 Finally, there is short-selling risk. In extreme market conditions or if a heavily shorted name becomes hard to borrow, the fund might face forced covering (buying back the shorts at disadvantageous prices) or wider-than-expected costs. This risk is usually dormant but surfaces in crisis scenarios.
 

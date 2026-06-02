@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-A special-purpose acquisition company, or SPAC, is a shell corporation with a single stated purpose: to raise capital from public investors and use that capital to acquire a private business, thereby taking that business public through a merger rather than a traditional initial public offering. ALBERT ORIGIN ACQUISITION Corp (ALOG) is one such vehicle — a Delaware corporation formed with no operating business and no assets except the cash it raises in its initial public offering, held in trust for its shareholders until a merger target is identified and approved.
+A [special-purpose acquisition company](/special-purpose-acquisition-company/), or SPAC, is a shell corporation with a single stated purpose: to raise capital from public investors and use that capital to acquire a private business, thereby taking that business public through a [merger](/merger/) rather than a traditional [initial public offering](/initial-public-offering/). ALBERT ORIGIN [ACQUISITION](/acquisition/) Corp (ALOG) is one such vehicle — a Delaware corporation formed with no operating business and no assets except the cash it raises in its initial public offering, held in trust for its shareholders until a merger target is identified and approved.
 
 <aside class="wiki-infobox">
 <table>
@@ -39,15 +39,15 @@ When a SPAC like ALBERT ORIGIN is initially incorporated and raises capital, the
 
 During that search period, the SPAC incurs legal, accounting, and administrative costs paid from a separate pool of cash. The sponsors and the SPAC's small management team negotiate with potential targets, perform due diligence, and prepare merger agreements.
 
-Once a target is identified and a merger agreement is signed, the SPAC files a proxy statement with the SEC (a detailed disclosure document describing the target, the terms of the merger, the pro-forma financials, and the risks). Public shareholders vote on whether to approve the merger. Shareholders who voted against the merger and wish to exit are given a window to redeem their shares at net asset value (typically $10 per share, the original offering price).
+Once a target is identified and a merger agreement is signed, the SPAC files a proxy statement with the SEC (a detailed disclosure document describing the target, the terms of the merger, the pro-forma financials, and the risks). Public shareholders vote on whether to approve the merger. Shareholders who voted against the merger and wish to exit are given a window to redeem their shares at [net asset value](/net-asset-value/) (typically $10 per share, the original offering price).
 
-After shareholder approval, the merger closes. The private operating business becomes a subsidiary of the SPAC, which is now public. The formerly private-company shareholders own shares of the new public entity. The SPAC's original shareholders own shares of the operating business, though their ownership is diluted by the private shareholders' stake and by the sponsors' founder shares.
+After shareholder approval, the merger closes. The private operating business becomes a subsidiary of the SPAC, which is now public. The formerly private-company shareholders own shares of the new public entity. The SPAC's original shareholders own shares of the operating business, though their ownership is diluted by the private shareholders' stake and by the sponsors' [founder shares](/founder-shares/).
 
 ## The capital and incentive structure
 
 The SPAC model works because it aligns incentives in a particular way, at least in theory. Sponsors commit capital and reputation; they make money only if a deal closes and the merged entity performs well enough that the stock does not trade significantly below the initial offering price (often the warrants embedded in the units purchased at the IPO determine profitability).
 
-Public shareholders who buy SPAC shares at the IPO get the option to redeem if they dislike the merger terms. Importantly, their redemption rights protect them from downside if the merger looks bad; they can exit at face value rather than holding a merged entity they do not believe in.
+Public shareholders who buy SPAC shares at the IPO get the option to redeem if they dislike the merger terms. Importantly, their [redemption rights](/redemption-rights-equity/) protect them from downside if the merger looks bad; they can exit at face value rather than holding a merged entity they do not believe in.
 
 The warrant holders — investors who bought options on future SPAC shares at the IPO — have a different incentive: they profit from appreciation after the merger if the operating business executes well.
 

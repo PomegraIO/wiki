@@ -4,7 +4,7 @@ description: "A community bank serving Hispanic and immigrant communities in the
 keywords: ["community bank", "Latin America", "immigrant banking", "regional banking", "Hispanic market"]
 ---
 
-*Bogota Financial Corp. (**BSBK**) was founded from the recognition that Hispanic and immigrant communities in the New York metropolitan area — concentrated in parts of New Jersey and Queens — faced geographic and cultural barriers to banking services. Major national banks did not orient their products, language, or branch locations toward this demographic; many recent immigrants were underserved by mainstream [financial institutions](/fisi-stock/) despite strong [savings rates](/savings-rate/) and credit discipline. The company's founding vision was straightforward: establish a community bank rooted in this specific market, staffed and led by people who understood both the financial needs and cultural context of the communities it served.*
+*Bogota Financial Corp. (**BSBK**) was founded from the recognition that Hispanic and immigrant communities in the New York metropolitan area — concentrated in parts of New Jersey and Queens — faced geographic and cultural barriers to banking services. Major national banks did not orient their products, language, or branch locations toward this demographic; many recent immigrants were underserved by mainstream financial institutions despite strong [savings rates](/savings-rate/) and credit discipline. The company's founding vision was straightforward: establish a community bank rooted in this specific market, staffed and led by people who understood both the financial needs and cultural context of the communities it served.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BSBK</td></tr>
@@ -25,7 +25,7 @@ The founding of Bogota Financial reflected both a business opportunity and a mis
 
 Unlike national or regional banks with branch networks scattered across multiple states, Bogota Financial concentrated its operations in a defined geography: primarily the New Jersey and New York areas with significant Hispanic and immigrant populations. This geographic concentration allowed the bank to develop deep local knowledge, build community relationships, and staff branches with bilingual and culturally competent personnel. Rather than compete with major banks on scale or product breadth, Bogota Financial could compete on relationships, responsiveness, and understanding the specific financial needs of its chosen market.
 
-The founding strategy also reflected a disciplined market focus. Community banks succeed or fail based on their ability to understand credit quality in their local market — to know whether a borrower's income is stable even if it doesn't fit standard lending templates, to assess the likelihood of repayment based on community knowledge rather than just credit scores. Bogota Financial's concentrated geographic focus allowed it to develop that local expertise in a way a [national bank](/nbhc-stock/) could not.
+The founding strategy also reflected a disciplined market focus. Community banks succeed or fail based on their ability to understand credit quality in their local market — to know whether a borrower's income is stable even if it doesn't fit standard lending templates, to assess the likelihood of repayment based on community knowledge rather than just credit scores. Bogota Financial's concentrated geographic focus allowed it to develop that local expertise in a way a national bank could not.
 
 ## Serving an Underserved Market
 

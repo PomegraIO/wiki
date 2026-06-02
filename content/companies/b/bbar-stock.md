@@ -4,7 +4,7 @@ description: "Argentine subsidiary of Spanish banking conglomerate BBVA, providi
 keywords: ["Argentine banking", "BBVA", "emerging market finance", "inflation", "currency risk", "Latin American bank"]
 ---
 
-*The history of **Banco BBVA Argentina S.A.** (BBAR) is inseparable from two parallel narratives: the strategic expansion of Spain's BBVA ([Banco Bilbao Vizcaya Argentaria](/bbva-stock/)) into Latin America during the 1990s and 2000s, and Argentina's own turbulent financial arc from dollarization through currency crises and chronic [inflation](/inflation/). The bank was not created to pioneer Argentine finance but to plant a global European banking flag in a high-growth emerging market, yet it has instead become a test case in how multinational [financial institutions](/fisi-stock/) operate within structurally unstable macroeconomies.*
+*The history of **Banco BBVA Argentina S.A.** (BBAR) is inseparable from two parallel narratives: the strategic expansion of Spain's BBVA ([Banco Bilbao Vizcaya Argentaria](/bbva-stock/)) into Latin America during the 1990s and 2000s, and Argentina's own turbulent financial arc from dollarization through currency crises and chronic [inflation](/inflation/). The bank was not created to pioneer Argentine finance but to plant a global European banking flag in a high-growth emerging market, yet it has instead become a test case in how multinational financial institutions operate within structurally unstable macroeconomies.*
 
 <aside class="wiki-infobox">
 <table>
@@ -21,7 +21,7 @@ keywords: ["Argentine banking", "BBVA", "emerging market finance", "inflation", 
 
 The Banco Bilbao Vizcaya Argentaria Group consolidated in 1988 through the [merger](/merger/) of Banco Bilbao Vizcaya and Banco Argentaria in Spain, creating one of Iberia's largest financial institutions. By the 1990s, as Spain prepared for European Union integration and the single currency, BBVA pursued geographic expansion beyond a maturing domestic market. Mexico, Chile, and Argentina emerged as priority markets: large, privatizing economies with growing middle classes and increasing demand for modern banking services.
 
-BBVA Argentina was established in the mid-1990s as the group's Argentine subsidiary, arriving during a period of apparent stability. Argentina, under President Carlos Menem, had pegged the peso to the U.S. dollar at a 1:1 ratio (the Convertibility Plan of 1991) and had opened its markets to foreign capital. This peg created an illusion of certainty: imports flooded in, foreign banks established operations, and the financial sector seemed poised for long-term growth. BBVA's Argentine entry fit the global pattern: a foreign bank seeking retail depositors, corporate clients, and mortgage borrowers in a country that appeared economically stabilized.
+BBVA Argentina was established in the mid-1990s as the group's Argentine subsidiary, arriving during a period of apparent stability. Argentina, under President Carlos Menem, had pegged the peso to the [U.S. dollar](/us-dollar/) at a 1:1 ratio (the Convertibility Plan of 1991) and had opened its markets to foreign capital. This peg created an illusion of certainty: imports flooded in, foreign banks established operations, and the financial sector seemed poised for long-term growth. BBVA's Argentine entry fit the global pattern: a foreign bank seeking retail depositors, corporate clients, and mortgage borrowers in a country that appeared economically stabilized.
 
 ## Navigating the 2001 Collapse and Its Aftermath
 

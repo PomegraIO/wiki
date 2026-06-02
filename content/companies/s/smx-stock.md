@@ -54,7 +54,7 @@ The math is straightforward: if a software company operates efficiently, it migh
 
 Acquiring a new enterprise customer is expensive and slow. The sales process involves: prospecting and lead generation, multiple conversations and demos with the customer's security team and finance team, evaluation and competitive comparison, negotiation (enterprises always negotiate), legal review, implementation, and finally, the signed contract. This process might take 6–12 months for a large customer.
 
-The cost of this acquisition is real. A sales rep with a loaded cost (salary, benefits, commissions, equipment) of USD 200,000 per year, who closes one USD 500,000 deal annually, has a customer acquisition cost of USD 200,000. From the customer's perspective, that's fine—the deal pays for itself in the first year. But the sales rep closing only one large deal per year is below quota; more typically, a rep might close several smaller deals or a couple of large ones. The point is: acquiring new enterprise customers is expensive.
+The cost of this [acquisition](/acquisition/) is real. A sales rep with a loaded cost (salary, benefits, commissions, equipment) of USD 200,000 per year, who closes one USD 500,000 deal annually, has a customer acquisition cost of USD 200,000. From the customer's perspective, that's fine—the deal pays for itself in the first year. But the sales rep closing only one large deal per year is below quota; more typically, a rep might close several smaller deals or a couple of large ones. The point is: acquiring new enterprise customers is expensive.
 
 Once acquired, the customer renews. Renewal rates matter enormously in software licensing. If 80% of customers renew their subscriptions each year, the company has a predictable base and can forecast growth. If renewal rates are 90%, the company is winning loyalty and the business compounds. If renewal rates are below 70%, customers are actively leaving, and the company must pour new sales effort into acquiring replacements.
 
@@ -62,7 +62,7 @@ Security Matters, like most enterprise software, likely experiences high renewal
 
 ## Competitive pressure and the threat-landscape treadmill
 
-Security software is a brutal competitive market. There are dozens of players: large diversified security companies like Palo Alto Networks, CrowdStrike, and Fortinet; new specialized startups with novel approaches; and open-source alternatives that customers can deploy for free. Price competition is intense, particularly at the lower end of the market.
+Security software is a brutal competitive market. There are dozens of players: large diversified security companies like [Palo Alto Networks](/panw-stock/), [CrowdStrike](/crwd-stock/), and [Fortinet](/ftnt-stock/); new specialized startups with novel approaches; and open-source alternatives that customers can deploy for free. Price competition is intense, particularly at the lower end of the market.
 
 Security Matters' advantages—if it has them—come from: (1) the effectiveness of the product (does it catch threats that competitors miss?), (2) ease of use (can customers deploy and configure it without extensive consulting?), and (3) integration (does it work smoothly with the other security and IT tools enterprises already use?). If Security Matters is better on all three fronts, customers will stick and new customers will adopt it. If competitors are catching up, renewal rates will suffer.
 
@@ -84,4 +84,4 @@ Examine the gross margin on subscription revenue (subscription revenue minus cos
 
 Watch for metrics on customer concentration and renewal rates, if disclosed. High concentration (a few large customers representing most revenue) is risky. Renewal rates above 85% are healthy; below 80% suggests competitive pressure or customer dissatisfaction.
 
-Finally, track free cash flow—the cash the company generates from operations, minus capital spending. Free cash flow indicates whether the reported profits are real or an accounting illusion. A profitable company generating negative free cash flow is unsustainable; a company generating strong free cash flow relative to net income is a cash-generation machine.
+Finally, track [free cash flow](/free-cash-flow/)—the cash the company generates from operations, minus capital spending. Free cash flow indicates whether the reported profits are real or an accounting illusion. A profitable company generating negative free cash flow is unsustainable; a company generating strong free cash flow relative to net income is a cash-generation machine.

@@ -44,7 +44,7 @@ The third, and increasingly important, is data-center networking. Companies like
 
 ## How MaxLinear makes money and where the margins are
 
-MaxLinear licenses or sells its chip designs to customers (cable operators, broadband-equipment makers, data-center operators). The company does not manufacture the chips; instead, it pays semiconductor foundries (typically Taiwan Semiconductor Manufacturing Company, or TSMC) to physically produce them. That fabless model gives MaxLinear low capital intensity — it does not have to invest in building and maintaining fabs — but it also means the company is exposed to foundry pricing and capacity.
+MaxLinear licenses or sells its chip designs to customers (cable operators, broadband-equipment makers, data-center operators). The company does not manufacture the chips; instead, it pays semiconductor foundries (typically [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company, or TSMC) to physically produce them. That fabless model gives MaxLinear low capital intensity — it does not have to invest in building and maintaining fabs — but it also means the company is exposed to foundry pricing and capacity.
 
 The revenue splits roughly between broadband/cable access (the legacy and stable portion), video delivery, and data-center infrastructure (the growth portion). Broadband and video tend to be stable, high-margin business because the customers depend on the chips and switching costs are real. Data-center networking is higher-growth, particularly as AI workloads expand, but also more competitive, as larger semiconductor companies move into the space.
 

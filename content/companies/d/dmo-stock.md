@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*A [closed-end fund](/closed-end-fund/) lives or dies on whether the market values the income it distributes; Western Asset Mortgage Opportunity Fund does not exist to grow its shareholders' capital but to hand them cash, month after month, from the mortgage-backed securities and bonds it owns.*
+*A [closed-end fund](/closed-end-fund/) lives or dies on whether the market values the income it distributes; Western Asset Mortgage Opportunity Fund does not exist to grow its shareholders' capital but to hand them cash, month after month, from the mortgage-backed securities and [bonds](/bond/) it owns.*
 
 <aside class="wiki-infobox">
 <table>

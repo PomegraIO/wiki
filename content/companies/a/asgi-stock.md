@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-abrdn Global Infrastructure [Income Fund](/income-fund/) trades on the NASDAQ under the ticker ASGI and is a closed-end investment fund that focuses on owning or financing infrastructure assets across the globe. The fund aims to provide shareholders with a steady stream of income while capturing some growth as underlying assets appreciate. Infrastructure — toll roads, airports, water systems, power grids, telecommunications networks — is a specialized category of investment: these assets generate reliable, inflation-protected cash flows, which makes them attractive to institutional investors and income-focused individuals.
+abrdn Global Infrastructure [Income Fund](/income-fund/) trades on the [NASDAQ](/nasdaq/) under the ticker ASGI and is a closed-end investment fund that focuses on owning or financing infrastructure assets across the globe. The fund aims to provide shareholders with a steady stream of income while capturing some growth as underlying assets appreciate. Infrastructure — toll roads, airports, water systems, power grids, telecommunications networks — is a specialized category of investment: these assets generate reliable, inflation-protected cash flows, which makes them attractive to institutional investors and income-focused individuals.
 
 The fund is managed by abrdn, a global investment firm based in Edinburgh that oversees hundreds of billions in assets across equity, fixed income, and alternatives. abrdn Global Infrastructure Income Fund is one of abrdn's several vehicles focused on infrastructure, allowing retail investors to own a diversified portfolio of these typically large, illiquid assets through a single traded share.
 

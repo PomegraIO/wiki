@@ -43,7 +43,7 @@ The regulatory ceiling is real. Telehealth is heavily regulated at the state lev
 
 ## The size question
 
-For much of its early growth, Talkspace was in venture-backed scale mode. The company went public via merger with a SPAC in 2021, which raised capital but also introduced quarterly earnings pressure — a different operating rhythm than private venture capital. Digital mental health broadly faces questions about unit economics at scale: Can asynchronous therapy sustain profitability when therapist labor costs and platform maintenance are factored in? Can the company grow insurance revenue faster than the cost of therapist acquisition and retention? The pandemic drove a surge in telehealth adoption and digital mental health demand, but as utilization levels normalized, those growth rates moderated.
+For much of its early growth, Talkspace was in venture-backed scale mode. The company went public via [merger](/merger/) with a SPAC in 2021, which raised capital but also introduced quarterly earnings pressure — a different operating rhythm than private venture capital. Digital mental health broadly faces questions about unit economics at scale: Can asynchronous therapy sustain profitability when therapist labor costs and platform maintenance are factored in? Can the company grow insurance revenue faster than the cost of therapist [acquisition](/acquisition/) and retention? The pandemic drove a surge in telehealth adoption and digital mental health demand, but as utilization levels normalized, those growth rates moderated.
 
 ## How to research Talkspace
 

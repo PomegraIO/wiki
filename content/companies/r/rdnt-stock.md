@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-RadNet, Inc. is the largest operator of freestanding diagnostic imaging centers in the United States. The company built and has continued to grow a network of hundreds of imaging centers where patients come for MRI scans, CT exams, ultrasounds, X-rays, mammography, and related diagnostic procedures — all without being admitted to a hospital. The business is fundamentally about owning and operating the physical locations and the imaging equipment, staffing them with radiologists and technologists, and billing insurance companies and patients for the procedures performed. It is a provider of outpatient [healthcare services](/hcsg-stock/), not a hospital system or a manufacturer, and the economics are structured around utilization — how many procedures per imaging center, per day, per year.
+RadNet, Inc. is the largest operator of freestanding diagnostic imaging centers in the United States. The company built and has continued to grow a network of hundreds of imaging centers where patients come for MRI scans, CT exams, ultrasounds, X-rays, mammography, and related diagnostic procedures — all without being admitted to a hospital. The business is fundamentally about owning and operating the physical locations and the imaging equipment, staffing them with radiologists and technologists, and billing insurance companies and patients for the procedures performed. It is a provider of outpatient healthcare services, not a hospital system or a manufacturer, and the economics are structured around utilization — how many procedures per imaging center, per day, per year.
 
 ## The founding and early years
 

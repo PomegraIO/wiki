@@ -19,7 +19,7 @@ keywords: ["healthcare", "urgent care", "occupational medicine", "healthcare ser
 
 Concentra was created as a consolidation platform in the early 2010s, with private-equity backing. The thesis was simple: urgent-care clinics and occupational-health centers are abundant but fragmented. Most are single-location operators or small multi-clinic chains run by doctors or regional entrepreneurs. Consolidation could unlock scale—centralized billing, procurement leverage, standardized operations, shared IT infrastructure—allowing the platform to reinvest in growth, improve margins, and command higher valuations in capital markets.
 
-This model has been copied across [healthcare services](/hcsg-stock/) (dental, dermatology, post-acute care) with varying success. Concentra's specific bet was on urgent care and occupational health—two high-volume, relatively resilient service lines that do not require overnight hospitalization. Urgent care is the alternative to the emergency room for non-life-threatening injuries and illnesses; occupational health serves employers with on-site clinics for workplace injuries, physical exams, and wellness programs.
+This model has been copied across healthcare services (dental, dermatology, post-acute care) with varying success. Concentra's specific bet was on urgent care and occupational health—two high-volume, relatively resilient service lines that do not require overnight hospitalization. Urgent care is the alternative to the emergency room for non-life-threatening injuries and illnesses; occupational health serves employers with on-site clinics for workplace injuries, physical exams, and wellness programs.
 
 ## Growth Through Acquisition, Integration Risk
 

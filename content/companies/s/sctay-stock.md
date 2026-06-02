@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Sectra is a Swedish technology company specializing in medical imaging systems, IT security, and secure information management for healthcare and defense sectors. The company trades in the United States through American Depositary Receipts (SCTAY) and operates across multiple geographic markets, with a strong presence in Scandinavia and growing international reach. The business has evolved significantly over the past two decades, shifting from primarily hardware-focused imaging toward software, cloud services, and cybersecurity — a transformation driven by the healthcare industry's move toward digital systems and away from film-based radiology.
+Sectra is a Swedish technology company specializing in medical imaging systems, IT security, and secure information management for healthcare and defense sectors. The company trades in the United States through [American Depositary Receipts](/adr/) (SCTAY) and operates across multiple geographic markets, with a strong presence in Scandinavia and growing international reach. The business has evolved significantly over the past two decades, shifting from primarily hardware-focused imaging toward software, cloud services, and cybersecurity — a transformation driven by the healthcare industry's move toward digital systems and away from film-based radiology.
 
 <aside class="wiki-infobox">
 <table>
@@ -65,7 +65,7 @@ Geographic concentration is a third risk. Sectra is strong in Northern Europe bu
 
 ## How should an investor research Sectra?
 
-Start with Sectra's annual reports and SEC filings (CIK 0002032517). These documents break out revenue and growth by segment — medical systems, IT security, and defense. Look for evidence that the company is winning market share in cloud imaging and growing the higher-margin IT security business.
+Start with Sectra's [annual reports](/10-k/) and SEC filings (CIK 0002032517). These documents break out revenue and growth by segment — medical systems, IT security, and defense. Look for evidence that the company is winning market share in cloud imaging and growing the higher-margin IT security business.
 
 Monitor the company's R&D spending and product releases. In a competitive industry, continuous innovation is essential, and the company's ability to deliver new features (AI image analysis, mobile platforms, advanced security capabilities) separates it from competitors.
 

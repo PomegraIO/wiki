@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-WinVest Acquisition Corp. is a special purpose acquisition company, or SPAC — a shell created to raise capital and merge with an operating business. Its ticker is WINV, traded on NASDAQ. The company itself has no operational business; it is a capital vehicle whose only purpose is to identify and acquire a private company, bring it public, and provide the acquired firm with capital and liquidity.
+WinVest [Acquisition](/acquisition/) Corp. is a special purpose acquisition company, or SPAC — a shell created to raise capital and merge with an operating business. Its ticker is WINV, traded on [NASDAQ](/nasdaq/). The company itself has no operational business; it is a capital vehicle whose only purpose is to identify and acquire a private company, bring it public, and provide the acquired firm with capital and liquidity.
 
-SPACs emerged as an alternative path to the traditional initial public offering, or IPO. Rather than a private company spending 12 to 18 months in a lengthy registration process with the SEC, a SPAC accelerates the journey to a public listing by negotiating a merger deal that can close in months. The SPAC raises money from investors before identifying any target, then searches for a suitable company to acquire. Once a target is agreed, shareholders vote on the merger; if approved, the private company's owners become shareholders of the now-public merged entity.
+SPACs emerged as an alternative path to the traditional [initial public offering](/initial-public-offering/), or IPO. Rather than a private company spending 12 to 18 months in a lengthy registration process with the SEC, a SPAC accelerates the journey to a public listing by negotiating a [merger](/merger/) deal that can close in months. The SPAC raises money from investors before identifying any target, then searches for a suitable company to acquire. Once a target is agreed, shareholders vote on the merger; if approved, the private company's owners become shareholders of the now-public merged entity.
 
 ## The SPAC structure and incentives
 
@@ -21,13 +21,13 @@ A SPAC is formed by sponsors — experienced investors or executives — who sec
 
 Before a merger is announced, all of a SPAC's capital sits in trust. Shareholders — the fund investors and institutions that bought shares during the IPO — have liquidity and downside protection: if the SPAC fails to find a target within a specified timeframe (usually two to three years), or if shareholders disapprove of the merger, they can redeem their shares and get their money back. This redemption right is one of the structures designed to protect public shareholders from overpaying for a mediocre acquisition.
 
-The founders' shares, by contrast, have no redemption rights, so the incentive runs in the opposite direction: founders have every reason to close *a* deal, though not necessarily a *good* one. This misalignment has been a persistent tension in SPAC investing and has driven debates in Congress and among regulators about whether SPACs adequately protect public investors or whether they enable founders to extract value at shareholders' expense.
+The founders' shares, by contrast, have no [redemption rights](/redemption-rights-equity/), so the incentive runs in the opposite direction: founders have every reason to close *a* deal, though not necessarily a *good* one. This misalignment has been a persistent tension in SPAC investing and has driven debates in Congress and among regulators about whether SPACs adequately protect public investors or whether they enable founders to extract value at shareholders' expense.
 
 ## How the economics flow
 
 When a SPAC merges with a target company, investors in the original SPAC become shareholders in the merged entity. The capital raised by the SPAC forms the war chest for the newly public company; some is used to pay transaction costs and sponsor fees, with the remainder deployed into the business or held for operations. A successful merger typically happens at a discount to what a traditional IPO might have valued the company at — the acquirer gets cheaper capital than an IPO would have provided, while SPAC investors secure a stake in a pre-revenue or early-stage business they may not have reached otherwise.
 
-The SPAC framework has attracted a wide range of sponsors, from veteran venture-capital firms to hedge funds to prominent business executives. Some SPACs have been effective vehicles — merging with sound companies that went on to perform well. Others have struggled to find suitable targets, returned capital to investors, or completed deals with companies that underperformed after going public.
+The SPAC framework has attracted a wide range of sponsors, from veteran venture-capital firms to [hedge funds](/hedge-fund/) to prominent business executives. Some SPACs have been effective vehicles — merging with sound companies that went on to perform well. Others have struggled to find suitable targets, returned capital to investors, or completed deals with companies that underperformed after going public.
 
 ## Regulatory landscape and disclosure
 

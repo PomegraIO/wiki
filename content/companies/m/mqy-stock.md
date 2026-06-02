@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-MQY is a municipial bond closed-end fund — a pool of tax-exempt debt issued by states, cities, and other local governments, professionally managed and offered to American investors in share form. The fund targets investors in higher tax brackets seeking income sheltered from federal taxation, a traditional and durable use case in the US financial market.
+MQY is a municipial [bond](/bond/) closed-end fund — a pool of tax-exempt debt issued by states, cities, and other local governments, professionally managed and offered to American investors in share form. The fund targets investors in higher tax brackets seeking income sheltered from federal taxation, a traditional and durable use case in the US financial market.
 
 The mechanics are straightforward in intention. [Municipal bonds](/municipal-bond/) generate interest that is exempt from federal income tax and, if the investor lives in the issuing state, state and local tax as well. A individual investor buying municipal bonds directly faces two challenges: they require large initial capital and real expertise to build a diversified portfolio across hundreds of issuers and varying credit qualities. A closed-end fund like MQY pools capital from many shareholders, applies professional management and economies of scale, and distributes the collected interest to shareholders as periodic [dividends](/dividend/).
 

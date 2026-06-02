@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Albemarle Corporation extracts and refines lithium, bromine, and catalysts for use in lithium-ion batteries, oil refining, flame retardants, and industrial applications. It is one of the world's largest producers of battery-grade lithium compounds, a position built through aggressive expansion into electric-vehicle supply chains over the past two decades. The company trades on the New York Stock Exchange under the ticker ALB.
+Albemarle Corporation extracts and refines lithium, bromine, and catalysts for use in lithium-ion batteries, oil refining, flame retardants, and industrial applications. It is one of the world's largest producers of battery-grade lithium compounds, a position built through aggressive expansion into electric-vehicle supply chains over the past two decades. The company trades on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker ALB.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ Albemarle Corporation extracts and refines lithium, bromine, and catalysts for u
 
 Albemarle has an old story: it began in 1887 as a paper manufacturer in Richmond, Virginia, then evolved into bromine production after discovering abundant bromine salts beneath Virginia's surface. For most of the 20th century it was a regional chemical supplier, producing bromine for flame retardants and oil-refining catalysts. The company was profitable but ordinary, a textbook commodity-chemical play with narrow margins and limited growth.
 
-The pivot came in the early 2000s, when Albemarle saw electric vehicles and battery manufacturing as the future. Unlike competitors who shrugged at lithium as a niche material, Albemarle began building scale. It acquired lithium operations in Chile and Australia; it invested heavily in processing plants; it formed joint ventures with battery makers and automakers to secure long-term offtake agreements. By 2020, when Tesla and the broader auto industry began the shift to electrification in earnest, Albemarle was already positioned as one of only three or four suppliers with the scale and expertise to meet surging demand.
+The pivot came in the early 2000s, when Albemarle saw electric vehicles and battery manufacturing as the future. Unlike competitors who shrugged at lithium as a niche material, Albemarle began building scale. It acquired lithium operations in Chile and Australia; it invested heavily in processing plants; it formed joint ventures with battery makers and automakers to secure long-term offtake agreements. By 2020, when [Tesla](/tsla-stock/) and the broader auto industry began the shift to electrification in earnest, Albemarle was already positioned as one of only three or four suppliers with the scale and expertise to meet surging demand.
 
 That decision — to bet early and heavily on lithium — separated Albemarle from the pack. Competitors either arrived late or underinvested; Albemarle had already built the plants, trained the workforce, and locked in partnerships. The company captured the value created by the world's transition to battery-powered vehicles, a secular tailwind that has reshaped its earnings and valuation.
 
@@ -45,7 +45,7 @@ The **Bromine** segment is the stable legacy business. Bromine compounds serve o
 
 The lithium business has three features that favour large, integrated players: capital intensity (building a processing plant costs hundreds of millions), long lead times (moving from ore discovery to commercial supply takes years), and supply-chain lock-in (once a battery maker qualifies a supplier, switching is expensive and slow). Albemarle's early commitment meant it was ready when demand exploded. Smaller competitors either lacked the capital to expand or had positioned themselves too late in the cycle.
 
-The company also benefits from downstream integration. By selling directly to battery makers rather than trading commodities, Albemarle can capture higher margins and negotiate longer-term contracts that stabilise revenue. The trade-off is exposure to the automotive cycle — a sharp drop in EV sales (or a recession) reduces battery demand and puts pressure on prices — but the long-term secular trend is favorable.
+The company also benefits from downstream integration. By selling directly to battery makers rather than trading commodities, Albemarle can capture higher margins and negotiate longer-term contracts that stabilise revenue. The trade-off is exposure to the automotive cycle — a sharp drop in EV sales (or a [recession](/recession/)) reduces battery demand and puts pressure on prices — but the long-term secular trend is favorable.
 
 ## Cost pressures and competition
 
@@ -57,4 +57,4 @@ New entrants are emerging from China and India, some backed by state capital and
 
 Start with the annual 10-K (SEC CIK 0000915913), which breaks revenue by segment and geography and details the company's lithium contracts and their terms. The quarterly calls reveal how much lithium production is contracted forward (visibility into revenue) and how weighted the company is toward near-term battery demand versus longer-term demand from other applications.
 
-Watch three things: the lithium contract backlog and pricing (forward visibility into earnings), the company's capital plans and cost position relative to peers (Albemarle must stay low-cost to compete), and news about permitting or water-access disputes in the Atacama region (a tail risk). As with any cyclical-materials company, Albemarle's earnings swing sharply with commodity prices and industrial activity; the stock has historically been volatile.
+Watch three things: the lithium contract backlog and pricing (forward visibility into earnings), the company's capital plans and cost position relative to peers (Albemarle must stay low-cost to compete), and news about permitting or water-access disputes in the Atacama region (a [tail risk](/tail-risk/)). As with any cyclical-materials company, Albemarle's earnings swing sharply with commodity prices and industrial activity; the stock has historically been volatile.

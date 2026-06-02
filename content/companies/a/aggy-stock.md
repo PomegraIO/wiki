@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AGGY is an exchange-traded fund sponsored by WisdomTree that provides exposure to the U.S. bond market with a yield-enhancement overlay. The fund aims to track the performance of broadly diversified U.S. bonds — investment-grade corporate debt, U.S. Treasuries across the curve, and mortgage-backed securities — while applying a rules-based methodology designed to tilt holdings toward higher-yielding securities within each segment. It is a plain ETF, not leveraged or inverse, and settles daily like any equity-traded security.
+AGGY is an exchange-traded fund sponsored by WisdomTree that provides exposure to the U.S. [bond](/bond/) market with a yield-enhancement overlay. The fund aims to track the performance of broadly diversified U.S. bonds — investment-grade corporate debt, U.S. Treasuries across the curve, and mortgage-backed securities — while applying a rules-based methodology designed to tilt holdings toward higher-yielding securities within each segment. It is a plain ETF, not leveraged or inverse, and settles daily like any equity-traded security.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,9 +27,9 @@ AGGY is an exchange-traded fund sponsored by WisdomTree that provides exposure t
 
 ## What the fund holds and tracks
 
-The fund's index is built to mimic the broad U.S. investment-grade bond universe — the same bonds that make up the Bloomberg U.S. Aggregate Bond Index, one of the most widely followed benchmarks for the entire fixed-income market. That universe includes Treasuries of all maturities, investment-grade corporate bonds from thousands of issuers, mortgage-backed securities issued or guaranteed by government-sponsored enterprises, and smaller allocations to bonds issued by municipalities and other entities. The bonds are real securities trading in real markets, not synthetic derivatives.
+The fund's index is built to mimic the broad U.S. [investment-grade bond](/investment-grade-bond/) universe — the same bonds that make up the Bloomberg U.S. Aggregate Bond Index, one of the most widely followed benchmarks for the entire fixed-income market. That universe includes Treasuries of all maturities, investment-grade [corporate bonds](/corporate-bond/) from thousands of issuers, mortgage-backed securities issued or guaranteed by government-sponsored enterprises, and smaller allocations to bonds issued by municipalities and other entities. The bonds are real securities trading in real markets, not synthetic derivatives.
 
-Within that universe, WisdomTree's methodology reweights to favor higher-yielding bonds. The approach is mechanical and transparent: rather than giving every bond an equal voice or weighting it by market capitalization (which concentrates the portfolio in the largest, most popular issues), the index overweights securities offering more yield per unit of credit quality. The intent is to harvest the yield premium available to a disciplined investor willing to tilt away from the most liquid core issues without taking on substantially more credit risk.
+Within that universe, WisdomTree's methodology reweights to favor higher-yielding bonds. The approach is mechanical and transparent: rather than giving every bond an equal voice or weighting it by [market capitalization](/market-capitalization/) (which concentrates the portfolio in the largest, most popular issues), the index overweights securities offering more yield per unit of credit quality. The intent is to harvest the yield premium available to a disciplined investor willing to tilt away from the most liquid core issues without taking on substantially more [credit risk](/credit-risk/).
 
 ## Yield enhancement and what it means
 
@@ -39,13 +39,13 @@ The yield boost comes from avoiding the "popularity tax" that accrues to the saf
 
 ## Structure and how it trades
 
-AGGY is a traditional open-ended ETF, not an exchange-traded note (ETN). It holds the bonds themselves, and new shares are created and redeemed daily by authorized participants — large financial firms that can trade blocks of shares for their underlying portfolio of bonds. This creation/redemption mechanism keeps the ETF price closely aligned with the net asset value of its holdings; unlike closed-end funds or ETNs, there is no structural discount or premium. The fund settles like a stock, one day after trade.
+AGGY is a traditional open-ended ETF, not an exchange-traded note (ETN). It holds the bonds themselves, and new shares are created and redeemed daily by [authorized participants](/authorized-participant/) — large financial firms that can trade blocks of shares for their underlying portfolio of bonds. This creation/redemption mechanism keeps the ETF price closely aligned with the [net asset value](/net-asset-value/) of its holdings; unlike [closed-end funds](/closed-end-fund/) or ETNs, there is no structural discount or premium. The fund settles like a stock, one day after trade.
 
-WisdomTree publishes the full holdings and methodology online, allowing investors to verify exactly what they own and how the reweighting works. The expense ratio is qualitatively low — in line with other plain-vanilla bond ETFs — because the strategy requires no active decision-making or market-timing, only rules-based reweighting at intervals.
+WisdomTree publishes the full holdings and methodology online, allowing investors to verify exactly what they own and how the reweighting works. The [expense ratio](/expense-ratio/) is qualitatively low — in line with other plain-vanilla [bond ETFs](/bond-etf/) — because the strategy requires no active decision-making or market-timing, only rules-based reweighting at intervals.
 
 ## Risks and tracking considerations
 
-The fund's returns track the aggregate bond market closely because the tilt is narrow and within a universe of broadly equivalent securities. The primary risks are the risks of any bond portfolio: interest-rate risk (the value of all bonds falls when rates rise), duration and extension risk (longer-term bonds fall more when rates rise, and can extend in value decline if reinvestment rates drop), and credit risk (the issuer of a bond might default). AGGY carries these risks slightly differently at the margin — the yield tilt biases the fund modestly toward corporates and away from Treasuries — but the overall risk profile is mainstream fixed income.
+The fund's returns track the aggregate bond market closely because the tilt is narrow and within a universe of broadly equivalent securities. The primary risks are the risks of any bond portfolio: [interest-rate risk](/interest-rate-risk/) (the value of all bonds falls when rates rise), duration and [extension risk](/extension-risk/) (longer-term bonds fall more when rates rise, and can extend in value decline if reinvestment rates drop), and credit risk (the issuer of a bond might default). AGGY carries these risks slightly differently at the margin — the yield tilt biases the fund modestly toward corporates and away from Treasuries — but the overall risk profile is mainstream fixed income.
 
 There is no volatility decay or daily reset risk because the fund is not leveraged or inverse; it simply holds bonds. The main source of tracking error is the cost of maintaining the reweighting rule — trading to implement the tilt carries transaction costs and timing slippage — but WisdomTree's methodology is designed to keep these costs low by reweighting at intervals rather than continuously.
 

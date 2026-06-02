@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Calamos Bitcoin 90 Series Structured Alt Protection ETF (October) is one iteration of a family of structured Bitcoin products that Calamos has built around a central idea: Bitcoin is valuable to own, but not everyone can tolerate owning it in its raw form. The fund emerged from the industry's broader recognition that a large pool of capital — institutions, advisers, retail investors with defined risk tolerances — wanted Bitcoin exposure without the volatility.
+The Calamos [Bitcoin](/bitcoin/) 90 Series Structured Alt Protection ETF (October) is one iteration of a family of structured Bitcoin products that Calamos has built around a central idea: Bitcoin is valuable to own, but not everyone can tolerate owning it in its raw form. The fund emerged from the industry's broader recognition that a large pool of capital — institutions, advisers, retail investors with defined risk tolerances — wanted Bitcoin exposure without the volatility.
 
 ## The context: Bitcoin's rise and the demand for protection
 
@@ -25,13 +25,13 @@ CBXO carries October synchronization, meaning its year-end and annual reset fram
 
 ## From structured derivatives to ETF format
 
-Calamos originally built these protections as structured notes or separately managed accounts. The transition to an ETF wrapper—trading on an exchange, held in a regular brokerage account, with daily pricing and intraday liquidity—was a critical evolution. It made the protection accessible to retail advisers and individual investors who could not access structured notes and would not qualify for separate accounts. The ETF format also standardized fees and made costs more transparent than many structured product offerings.
+Calamos originally built these protections as structured notes or separately managed accounts. The transition to an ETF wrapper—trading on an exchange, held in a regular brokerage account, with daily pricing and [intraday liquidity](/intraday-liquidity/)—was a critical evolution. It made the protection accessible to retail advisers and individual investors who could not access structured notes and would not qualify for separate accounts. The ETF format also standardized fees and made costs more transparent than many structured product offerings.
 
 The shift to exchange-traded format did not change the underlying mechanics—the fund still uses derivatives and notional Bitcoin positions to create the protective band—but it changed who could own it and how easily. A financial adviser can now buy CBXO in a client account without complex legal agreements; a retail investor can own it directly inside an IRA or taxable account.
 
 ## The mechanics, present day
 
-At its current form, CBXO establishes a monthly reset schedule where the fund's protection floor is recalibrated to 90 percent of Bitcoin's then-current price. Investors capture upside participation up to a capped level; losses below the floor are capped. The fund implements this through derivatives, rebalancing, and daily management of a synthetic Bitcoin position. The costs are rolled into the fund's expense ratio and the embedded cost of protection.
+At its current form, CBXO establishes a monthly reset schedule where the fund's protection floor is recalibrated to 90 percent of Bitcoin's then-current price. Investors capture upside participation up to a capped level; losses below the floor are capped. The fund implements this through derivatives, rebalancing, and daily management of a synthetic Bitcoin position. The costs are rolled into the fund's [expense ratio](/expense-ratio/) and the embedded cost of protection.
 
 The fund is structured, meaning it does not hold Bitcoin in custody and the protection is a contractual feature, not a physical asset. For investors accustomed to spot Bitcoin—where there is no counterparty and no structure, only the blockchain—this represents a trade-off: the investor accepts structural risk and the creditworthiness of the issuer in exchange for the protection they want.
 
@@ -41,7 +41,7 @@ CBXO exists in a landscape now crowded with Bitcoin derivatives. Spot Bitcoin ET
 
 ## Why October, and the fund as a choice
 
-The October reset schedule is largely a matter of administrative convenience and fund-family organization. From an investor perspective, what matters is not which month the fund resets but rather whether the reset mechanics are understood and whether they make sense for the holding period. A holder of CBXO needs to grasp that the protection band moves monthly, that the floor will rise in bull markets and fall in bear markets, and that costs accumulate in exchange for that protection.
+The October reset schedule is largely a matter of administrative convenience and fund-family organization. From an investor perspective, what matters is not which month the fund resets but rather whether the reset mechanics are understood and whether they make sense for the [holding period](/holding-period/). A holder of CBXO needs to grasp that the protection band moves monthly, that the floor will rise in [bull markets](/bull-market/) and fall in [bear markets](/bear-market/), and that costs accumulate in exchange for that protection.
 
 The fund's utility has only increased as Bitcoin has matured. Early Bitcoin adoption was driven by speculators and technologists willing to accept volatility. As Bitcoin has become an accepted portfolio asset, demand has shifted toward people and institutions wanting exposure without the sleeplessness. CBXO, and funds like it, are the answer to that demand—imperfect, costly, and structurally complex, but honest about what they offer and what they cost.
 

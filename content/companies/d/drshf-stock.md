@@ -63,7 +63,7 @@ Scale economics matter for counter-UAS: larger competitors can amortize R&D cost
 
 DroneShield's market demand reflects a unique duality: the underlying problem (drone proliferation, airspace security) is secular and expanding; the capital expenditure to address it is cyclical. Customers cannot ignore the problem during [recessions](/recession/), but they can postpone solution deployment. This creates a mismatch: the secular problem grows steadily; procurement dollars respond to cycles, not problem severity.
 
-Over a decade or longer, the secular expansion of drone proliferation and the regulatory mandates requiring counter-UAS deployment will drive DroneShield's growth. The company benefits from a market that expands structurally, independent of economic cycles. But over quarters and years, cycles drive cash flow. Management must balance secular growth investment (R&D in detection technology, AI-powered classification, integration platforms) with financial discipline, maintaining cash buffers sufficient to absorb procurement delays and budget pauses that inevitably occur during downturns.
+Over a decade or longer, the secular expansion of drone proliferation and the regulatory mandates requiring counter-UAS deployment will drive DroneShield's growth. The company benefits from a market that expands structurally, independent of economic cycles. But over quarters and years, cycles drive [cash flow. Management](/cash-flow-management-personal/) must balance secular growth investment (R&D in detection technology, AI-powered classification, integration platforms) with financial discipline, maintaining cash buffers sufficient to absorb procurement delays and budget pauses that inevitably occur during downturns.
 
 ---
 

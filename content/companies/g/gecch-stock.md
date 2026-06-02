@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Great Elm Capital Corp. issues multiple tranches of debt to fund its investment operations, and the 8.125% senior notes due December 2029, trading under the NASDAQ ticker GECCH, represent one such tranche. These notes are claims on the company's earnings and assets — the question for any investor is what earnings those claims rest on, and how durable those earnings prove across changing economic conditions.
+[Great Elm Capital](/gecc-stock/) Corp. issues multiple [tranches](/tranche/) of debt to fund its investment operations, and the 8.125% senior notes due December 2029, trading under the [NASDAQ](/nasdaq/) ticker GECCH, represent one such tranche. These notes are claims on the company's earnings and assets — the question for any investor is what earnings those claims rest on, and how durable those earnings prove across changing economic conditions.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,13 +26,13 @@ Great Elm Capital Corp. issues multiple tranches of debt to fund its investment 
 
 ## The company's revenue segments
 
-Great Elm Capital Corp. generates income from three primary sources: interest collected from secured and senior secured debt investments, gains and income from collateralized loan obligation equity positions held through a dedicated joint venture called CLO Formation JV, and dividend and capital gains income from equity investments in specialty finance businesses.
+[Great Elm](/geg-stock/) Capital Corp. generates income from three primary sources: interest collected from secured and senior secured debt investments, gains and income from [collateralized loan obligation](/collateralized-loan-obligation/) equity positions held through a dedicated joint venture called CLO Formation JV, and [dividend](/dividend/) and capital gains income from equity investments in specialty finance businesses.
 
 **Secured and senior secured debt** forms the core of the portfolio. The company lends to middle-market companies, typically backed by collateral, at rates negotiated based on the credit quality of the borrower, the strength of the collateral, and broader market conditions. These investments produce contractual interest income, paid monthly or quarterly, as long as borrowers remain solvent and meet their payment obligations.
 
-**CLO equity positions** are structured differently. A collateralized loan obligation pools hundreds of floating-rate loans from middle-market borrowers, slices them into risk tiers, and sells the safest tranches as investment-grade securities. The CLO manager collects a management fee, and the equity holder absorbs the first losses but also retains the spread between the average yield on the underlying loans and the weighted cost of the debt tranches. Great Elm's CLO Formation JV, established to capture this dynamic over time, provides a recurring but variable stream of income as the underlying loan portfolios perform or deteriorate.
+**CLO equity positions** are structured differently. A collateralized loan obligation pools hundreds of floating-rate loans from middle-market borrowers, slices them into risk tiers, and sells the safest tranches as investment-grade securities. The CLO manager collects a [management fee](/management-fee/), and the equity holder absorbs the first losses but also retains the spread between the average yield on the underlying loans and the weighted cost of the debt tranches. Great Elm's CLO Formation JV, established to capture this dynamic over time, provides a recurring but variable stream of income as the underlying loan portfolios perform or deteriorate.
 
-**Specialty finance equity** rounds out the revenue picture. Rather than merely lending to specialty finance businesses, Great Elm sometimes takes equity stakes in finance companies themselves — underwriting platforms, insurance brokers, lending technology firms. These positions typically produce dividends when the underlying business prospers and capital gains if the company is sold or refinanced at a higher valuation.
+**Specialty finance equity** rounds out the revenue picture. Rather than merely lending to specialty finance businesses, Great Elm sometimes takes equity stakes in finance companies themselves — underwriting platforms, insurance [brokers](/broker/), lending technology firms. These positions typically produce dividends when the underlying business prospers and capital gains if the company is sold or refinanced at a higher valuation.
 
 | Revenue source | Character | Visibility |
 |---|---|---|
@@ -43,7 +43,7 @@ Great Elm Capital Corp. generates income from three primary sources: interest co
 
 ## Behavior in booms and downturns
 
-The composition of this revenue mix determines how GECCH note holders fare across the business cycle. In an expanding economy with low default rates, interest collections tick in reliably, CLO equity positions benefit from low losses in the underlying loan pools, and equity investments appreciate. The company's cash flows grow, distributions to shareholders increase, and the economic cushion below the GECCH notes widens.
+The composition of this revenue mix determines how GECCH note holders fare across the [business cycle](/business-cycle/). In an expanding economy with low [default rates](/default-rate/), interest collections tick in reliably, CLO equity positions benefit from low losses in the underlying loan pools, and equity investments appreciate. The company's cash flows grow, distributions to shareholders increase, and the economic cushion below the GECCH notes widens.
 
 When the cycle turns, the picture inverts. Borrowers in the secured debt portfolio begin to miss payments or breach covenants. Some positions must be written down or restructured at lower valuations. CLO portfolios experience higher realized and expected losses, compressing the equity distributions. Equity investments may stall in value or require write-downs. Management then faces pressure: it can maintain distributions temporarily by dipping into reserves, but a sustained erosion of earnings forces either a dividend cut or a gradual impairment of shareholder equity.
 
@@ -51,7 +51,7 @@ The GECCH notes, being secured and senior in the capital structure, are protecte
 
 ## Evaluating the position
 
-Prospective investors in GECCH should examine several dimensions of Great Elm's business. The company publishes quarterly net asset value per share, which reflects the aggregate value of the portfolio net of liabilities. A stable or rising NAV suggests the underlying credit quality is holding up; persistent declines suggest portfolio stress.
+Prospective investors in GECCH should examine several dimensions of Great Elm's business. The company publishes quarterly [net asset value](/net-asset-value/) per share, which reflects the aggregate value of the portfolio net of liabilities. A stable or rising NAV suggests the underlying credit quality is holding up; persistent declines suggest portfolio stress.
 
 Second, track the composition of the revenue streams. A portfolio tilted heavily toward CLO equity exposes the company to loan loss cycles across dozens of underlying CLO pools; conversely, a portfolio predominantly in direct secured lending to single businesses concentrates risk in fewer hands but makes it easier to monitor individual relationships.
 

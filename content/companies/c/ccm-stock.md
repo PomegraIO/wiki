@@ -53,7 +53,7 @@ The occupational health cycle will continue to turn with the economy. The questi
 - Hospital Systems
 
 ### Wider context
-- [Healthcare Services](/hcsg-stock/)
+- Healthcare Services
 - Occupational Health
 - Medical Imaging
 - [Business Cycles](/business-cycle/)

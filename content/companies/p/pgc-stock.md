@@ -27,7 +27,7 @@ handwritten: true
 
 ## A regional bank with a private-banking heritage
 
-Peapack Gladstone emerged from a merger in 2003 between two New Jersey-based [financial institutions](/fisi-stock/) with deep roots in the region. Unlike national megabanks such as [JPMorgan Chase](/jpmorgan-chase/) or [Bank of America](/bank-of-america/), PGC operates as a true regional player, concentrating its lending, deposit-gathering, and wealth-management operations across the northeastern corridor. This focus on a specific geography and customer set is both a strength and a constraint. The strength lies in localized expertise and relationships; the constraint is limited scale compared to national competitors.
+Peapack Gladstone emerged from a [merger](/merger/) in 2003 between two New Jersey-based financial institutions with deep roots in the region. Unlike national megabanks such as [JPMorgan Chase](/jpmorgan-chase/) or [Bank of America](/bank-of-america/), PGC operates as a true regional player, concentrating its lending, deposit-gathering, and wealth-management operations across the northeastern corridor. This focus on a specific geography and customer set is both a strength and a constraint. The strength lies in localized expertise and relationships; the constraint is limited scale compared to national competitors.
 
 The company's customer base is highly skewed toward the affluent: private-banking clients with liquid assets above $5 million, high-net-worth family offices, successful entrepreneurs, and small to mid-sized businesses seeking relationship banking. This positioning distinguishes Peapack Gladstone from large retail banks that chase deposits from the mass market and from pure investment banks that serve only the ultra-wealthy. The sweet spot is densely populated in the Northeast, which is where Peapack Gladstone plants its flag.
 
@@ -49,7 +49,7 @@ This creates pockets of outperformance. A high-net-worth individual seeking inte
 
 ## The loan portfolio and credit risk
 
-Peapack Gladstone's loan book is the core of its business. The bank lends to commercial real-estate developers, private businesses, and affluent individuals, primarily within its geographic footprint. The bank's underwriting standards and [credit risk](/credit-risk/) are therefore concentrated in a regional economy. If the Northeast experiences a recession, Peapack Gladstone's borrowers feel it directly.
+Peapack Gladstone's loan book is the core of its business. The bank lends to commercial real-estate developers, private businesses, and affluent individuals, primarily within its geographic footprint. The bank's underwriting standards and [credit risk](/credit-risk/) are therefore concentrated in a regional economy. If the Northeast experiences a [recession](/recession/), Peapack Gladstone's borrowers feel it directly.
 
 Historically, Peapack Gladstone has maintained strong credit quality, with non-performing loan ratios well below the industry median. This reflects both disciplined underwriting and the quality of its borrower base — affluent individuals and successful middle-market businesses are lower-risk than the mass-market borrowers of retail banks. However, stress-test scenarios matter. During the 2008–09 financial crisis, regional banks suffered severely because their borrowers (real-estate developers, small businesses) were hit hard by economic collapse. Credit risk concentrations are disclosed in quarterly 10-Q and annual 10-K filings.
 
@@ -57,7 +57,7 @@ Historically, Peapack Gladstone has maintained strong credit quality, with non-p
 
 Peapack Gladstone's profitability depends on the net interest margin (the spread between lending rates and deposit costs), the level of fee income, and the efficiency of operations. Regional banks typically operate at lower profit margins than diversified megabanks because they lack the capital-markets and investment-banking businesses that generate very high margins. Peapack Gladstone's [return on equity](/return-on-equity/) has historically been in the low-double-digit range, which is respectable for a regional bank but trails the returns of the largest banks during strong interest-rate environments.
 
-The bank returns capital to shareholders through dividends and occasional [share buybacks](/share-buyback/). The dividend is usually modest and grows slowly, reflecting the conservative posture of a regional bank that must maintain capital ratios to satisfy regulators. In downturns, the board typically reduces or suspends dividends to preserve capital, which can surprise income-focused investors.
+The bank returns capital to shareholders through [dividends](/dividend/) and occasional [share buybacks](/share-buyback/). The dividend is usually modest and grows slowly, reflecting the conservative posture of a regional bank that must maintain capital ratios to satisfy regulators. In downturns, the board typically reduces or suspends dividends to preserve capital, which can surprise income-focused investors.
 
 ## The competitive and regulatory environment
 

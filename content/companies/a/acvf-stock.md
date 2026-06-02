@@ -22,17 +22,17 @@ This restrictive screen means ACVF holds a materially different portfolio from a
 
 ## The tension between returns and principles
 
-Every values-based screen carries a risk: by excluding entire firms or sectors, the fund gives up the diversification benefit of owning the entire market. If excluded sectors have strong earnings growth or market momentum, the fund will lag a broad index. If excluded firms happen to be the safest, cheapest, or best-run in their industries, the screen costs performance.
+Every values-based screen carries a risk: by excluding entire firms or sectors, the fund gives up the [diversification](/diversification/) benefit of owning the entire market. If excluded sectors have strong earnings growth or market momentum, the fund will lag a broad index. If excluded firms happen to be the safest, cheapest, or best-run in their industries, the screen costs performance.
 
 This is not a hidden cost. Investors who choose ACVF are making a deliberate trade: they accept potential underperformance in exchange for owning companies they believe align with their values. Whether that trade is worth it depends on the investor's personal conviction and time horizon. Some investors view it as a permanent feature of investing according to principle; others see it as a temporary drag that will even out over long periods.
 
 ## Sector and style implications
 
-Because of the screening, ACVF is overweighted toward sectors and companies untouched by the exclusion criteria — technology, industrials, energy, financial services (excluding some healthcare finance), consumer discretionary (excluding some related firms), and utilities. The fund looks most like a broad-cap U.S. index but with meaningful gaps. That concentration means sector rotations can hit harder: a downturn in the overweighted sectors hurts more than it would in a fully diversified portfolio.
+Because of the screening, ACVF is overweighted toward sectors and companies untouched by the exclusion criteria — technology, industrials, energy, financial services (excluding some healthcare finance), consumer discretionary (excluding some related firms), and utilities. The fund looks most like a broad-cap U.S. index but with meaningful gaps. That concentration means [sector rotations](/sector-rotation/) can hit harder: a downturn in the overweighted sectors hurts more than it would in a fully diversified portfolio.
 
 ## Trading and costs
 
-ACVF holds established, liquid U.S. equities, so the fund trades with tight spreads and decent volume during normal market hours. The expense ratio is comparable to other screened index funds — higher than a bare-bones broad-market index fund but lower than most actively managed funds. The screening is rules-based and disclosed, not requiring discretionary stock-picking.
+ACVF holds established, liquid U.S. equities, so the fund trades with tight spreads and decent volume during normal market hours. The [expense ratio](/expense-ratio/) is comparable to other screened [index funds](/index-fund/) — higher than a bare-bones broad-market index fund but lower than most [actively managed funds](/actively-managed-fund/). The screening is rules-based and disclosed, not requiring discretionary stock-picking.
 
 ## Who ACVF is for and how to research it
 

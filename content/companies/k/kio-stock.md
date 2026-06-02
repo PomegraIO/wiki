@@ -12,7 +12,7 @@ handwritten: true
 
 > "The fund provides monthly income by investing in credit—both public bonds and private loans—in an era when savers are hungry for yield."
 
-KKR Income Opportunities Fund (ticker: KIO on the [New York Stock Exchange](/new-york-stock-exchange/)) is a closed-end fund sponsored by KKR, one of the world's largest private-equity and credit firms. The fund pools capital from public shareholders and invests it in a mix of private credit instruments and public fixed-income securities, aiming to generate a monthly income stream for shareholders.
+[KKR](/kkr-stock/) Income Opportunities Fund (ticker: KIO on the [New York Stock Exchange](/new-york-stock-exchange/)) is a closed-end fund sponsored by KKR, one of the world's largest private-equity and credit firms. The fund pools capital from public shareholders and invests it in a mix of private credit instruments and public fixed-income securities, aiming to generate a monthly income stream for shareholders.
 
 ## What is KKR and why does it run a closed-end fund?
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Yum China operates the KFC and Pizza Hut brands across mainland China, Hong Kong, Macau, and Taiwan, where it runs the largest restaurant networks by outlet count in the regions it serves. The company was spun off from Yum! Brands Inc. (the owner of KFC, Pizza Hut, and Taco Bell globally) in 2016 as a way to separate growth exposure to China from the slower-growth, mature markets of North America and Europe. Yum China's shares ([NASDAQ](/nasdaq/): YUMC) trade in New York, and the company represents one of the most direct ways for investors to gain exposure to Chinese consumer spending and economic growth.
+Yum China operates the KFC and Pizza Hut brands across mainland China, Hong Kong, Macau, and Taiwan, where it runs the largest restaurant networks by outlet count in the regions it serves. The company was spun off from [Yum! Brands](/yum-stock/) Inc. (the owner of KFC, Pizza Hut, and Taco Bell globally) in 2016 as a way to separate growth exposure to China from the slower-growth, mature markets of North America and Europe. Yum China's shares ([NASDAQ](/nasdaq/): YUMC) trade in New York, and the company represents one of the most direct ways for investors to gain exposure to Chinese consumer spending and economic growth.
 
 The business sits at an interesting intersection: it operates under brands originally developed in America, but it serves and is shaped by the preferences of Chinese consumers. This duality has been both an asset and occasionally a liability, requiring the company to localize its menus, adapt its store formats, and navigate the complexities of operating in China's regulatory environment.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Sprott Active Metals & Miners ETF** (ticker METL) is an actively managed exchange-traded fund that holds equity stakes in mining and metals extraction companies worldwide. Unlike passive index funds that track a preset benchmark, METL's portfolio managers at Sprott selectively buy and sell individual mining stocks based on their judgment of which companies offer the best value across precious metals, industrial metals, and exploration opportunities.*
+*The **Sprott Active Metals & Miners ETF** (ticker METL) is an actively managed exchange-traded fund that holds equity stakes in mining and metals extraction companies worldwide. Unlike passive [index funds](/index-fund/) that track a preset benchmark, METL's portfolio managers at Sprott selectively buy and sell individual mining stocks based on their judgment of which companies offer the best value across precious metals, industrial metals, and exploration opportunities.*
 
 ## What mining companies does METL actually hold?
 
@@ -19,7 +19,7 @@ METL invests in publicly traded mining firms engaged in the exploration, develop
 
 ## How does active stock-picking in mining differ from a passive metals index?
 
-A passive metals ETF holds mining companies according to a fixed, rules-based formula — perhaps all listed miners by market cap, or a published commodity index basket rebalanced quarterly. METL operates differently. Sprott's managers make discretionary decisions: they can overweight their highest-conviction picks, exit positions they believe have weakened, and shift the portfolio's geographic or metal emphasis based on their outlook for demand and prices. This discretion allows active managers to potentially buy undervalued miners before the market recognizes their merit. It also introduces manager risk — the team's stock picks may lag, and active management incurs higher fees than passive indexing would.
+A passive metals ETF holds mining companies according to a fixed, rules-based formula — perhaps all listed miners by [market cap](/market-capitalization/), or a published commodity index basket rebalanced quarterly. METL operates differently. Sprott's managers make discretionary decisions: they can overweight their highest-conviction picks, exit positions they believe have weakened, and shift the portfolio's geographic or metal emphasis based on their outlook for demand and prices. This discretion allows active managers to potentially buy undervalued miners before the market recognizes their merit. It also introduces manager risk — the team's stock picks may lag, and active management incurs higher fees than passive indexing would.
 
 ## Why would an investor choose mining stocks over physical metals?
 
@@ -27,11 +27,11 @@ Holding a mining company's shares gives exposure to the company's operations as 
 
 ## What are the costs and trading mechanics?
 
-METL is a standard exchange-traded fund, so shares can be bought and sold during market hours at market prices, typically with tight bid-ask spreads given the fund's size and trading volume. The expense ratio reflects active portfolio management — materially higher than a passive metals index fund. This annual cost is deducted from assets and should be weighed against the potential added value from stock-picking skill. Investors should compare METL's after-fee returns versus passive peers to gauge whether the active management is earning its keep.
+METL is a standard exchange-traded fund, so shares can be bought and sold during market hours at market prices, typically with tight [bid-ask spreads](/bid-ask-spread/) given the fund's size and trading volume. The [expense ratio](/expense-ratio/) reflects active portfolio management — materially higher than a passive metals index fund. This annual cost is deducted from assets and should be weighed against the potential added value from stock-picking skill. Investors should compare METL's after-fee returns versus passive peers to gauge whether the active management is earning its keep.
 
 ## What are the cyclical and geopolitical risks?
 
-Mining is one of the most economically cyclical industries. Mining stocks historically crater during recessions, periods of rising real interest rates, or when demand for industrial metals collapses. The sector experienced severe declines in 2008, 2014–2016, and 2022. Beyond macroeconomic cycles, mining carries acute operational and geopolitical risks: exploration programs frequently fail to find ore, permitting can be delayed by environmental opposition, equipment breakdowns disrupt production, labor disputes arise, and political instability in key mining regions — South Africa, Peru, Congo, parts of Russia's sphere — can rapidly idle mines. Individual companies can destroy shareholder value if their flagship asset underperforms or becomes uneconomic. Because METL is a single-sector fund with no diversification outside mining, it is far more volatile than a balanced portfolio and unsuitable for risk-averse investors.
+Mining is one of the most economically cyclical industries. Mining stocks historically crater during [recessions](/recession/), periods of rising [real interest rates](/real-interest-rate/), or when demand for industrial metals collapses. The sector experienced severe declines in 2008, 2014–2016, and 2022. Beyond macroeconomic cycles, mining carries acute operational and geopolitical risks: exploration programs frequently fail to find ore, permitting can be delayed by environmental opposition, equipment breakdowns disrupt production, labor disputes arise, and political instability in key mining regions — South Africa, Peru, Congo, parts of Russia's sphere — can rapidly idle mines. Individual companies can destroy shareholder value if their flagship asset underperforms or becomes uneconomic. Because METL is a single-sector fund with no [diversification](/diversification/) outside mining, it is far more volatile than a balanced portfolio and unsuitable for risk-averse investors.
 
 ## How should investors evaluate METL in their own portfolio?
 

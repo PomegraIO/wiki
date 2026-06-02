@@ -26,15 +26,15 @@ Because IoT is a theme rather than a sector, holdings span multiple traditional 
 
 ## How the fund trades and its structure
 
-SNSR is a standard equity ETF, not leveraged or inverse. It holds a basket of common stocks and does not employ derivatives, leverage, or hedging. It rebalances periodically according to its index methodology, typically quarterly, which minimizes turnover and trading costs compared to frequent rebalancing.
+SNSR is a standard [equity ETF](/equity-etf/), not leveraged or inverse. It holds a basket of [common stocks](/common-stock/) and does not employ derivatives, leverage, or hedging. It rebalances periodically according to its index methodology, typically quarterly, which minimizes turnover and trading costs compared to frequent rebalancing.
 
-The expense ratio is published in the prospectus and covers administration, custody, and ongoing costs. SNSR trades throughout the day at market prices, so entry and exit prices vary; investor should check bid-ask spreads before building or exiting a position. The fund's size and popularity determine liquidity; trading volume information is available from the exchange.
+The [expense ratio](/expense-ratio/) is published in the prospectus and covers administration, custody, and ongoing costs. SNSR trades throughout the day at market prices, so entry and exit prices vary; investor should check [bid-ask spreads](/bid-ask-spread/) before building or exiting a position. The fund's size and popularity determine liquidity; trading volume information is available from the exchange.
 
 ## Risks and considerations
 
-Thematic ETFs like SNSR face a structural challenge: the theme (in this case, IoT) can be defined broadly or narrowly, and companies can be included or excluded based on judgment rather than a rule-based, transparent methodology. The index provider's decisions about which companies truly belong in "Internet of Things" will directly affect returns relative to a competitor or a different version of the theme.
+[Thematic ETFs](/thematic-etf/) like SNSR face a structural challenge: the theme (in this case, IoT) can be defined broadly or narrowly, and companies can be included or excluded based on judgment rather than a rule-based, transparent methodology. The index provider's decisions about which companies truly belong in "Internet of Things" will directly affect returns relative to a competitor or a different version of the theme.
 
-The portfolio is also exposed to concentration risk within the theme. If the index weighting favors semiconductor suppliers, then a chip market downturn disproportionately hurts the fund. A steep decline in industrial production could pressure the logistics and automation holdings. An interest-rate rise might particularly dent the valuation of growth-oriented software companies in the basket.
+The portfolio is also exposed to [concentration risk](/concentration-risk/) within the theme. If the index weighting favors semiconductor suppliers, then a chip market downturn disproportionately hurts the fund. A steep decline in industrial production could pressure the logistics and automation holdings. An interest-rate rise might particularly dent the valuation of growth-oriented software companies in the basket.
 
 Additionally, IoT adoption is uneven by geography and industry. A fund concentrated in companies serving developed markets may miss exposure to IoT deployment in emerging economies, or vice versa.
 

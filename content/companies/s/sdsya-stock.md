@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-South Dakota Soybean Processors LLC operates one of the Midwest's important links in the commodity-processing chain: it takes raw soybeans from farmers and cooperatives, crushes them, and produces two valuable outputs — soybean meal for livestock feed and soybean oil for food and industrial use. The company, based in Volga, South Dakota, founded in 1993, has become a essential buyer and converter for regional agriculture, processing millions of bushels annually and supplying feed mills, livestock producers, and the commodity trade across a wide geography.
+South Dakota Soybean Processors LLC operates one of the Midwest's important links in the commodity-processing chain: it takes raw soybeans from farmers and cooperatives, crushes them, and produces two valuable outputs — [soybean meal](/soybean-meal/) for livestock feed and [soybean oil](/soybean-oil/) for food and industrial use. The company, based in Volga, South Dakota, founded in 1993, has become a essential buyer and converter for regional agriculture, processing millions of bushels annually and supplying feed mills, livestock producers, and the commodity trade across a wide geography.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,7 +41,7 @@ The geographic reach is substantial: South Dakota Soybean Processors sells acros
 
 The company operates as a limited liability corporation, not a traditional corporation, and its ownership structure is built around agricultural cooperatives and producers who have capital in the business. Units (the SDSYA ticker) represent fractional interests in the company's cash flows and assets. This structure aligns the interests of owners — they are both suppliers (bringing beans to crush) and beneficiaries (receiving distributions of profits or losses). Cooperatives have long used this model to share processing capacity and retain value that would otherwise flow to an external processor.
 
-The unit structure creates a unique ownership base: many holders are agricultural operations, cooperatives, or their members who view the SDSYA stake as a long-term partnership in the supply chain. Distributions depend on the volume crushed and the margins earned, not on a fixed dividend policy. Years of strong crush spreads see healthy distributions; years of thin margins see little or nothing.
+The unit structure creates a unique ownership base: many holders are agricultural operations, cooperatives, or their members who view the SDSYA stake as a long-term partnership in the supply chain. Distributions depend on the volume crushed and the margins earned, not on a fixed [dividend](/dividend/) policy. Years of strong crush spreads see healthy distributions; years of thin margins see little or nothing.
 
 ## Market exposure and seasonal rhythm
 

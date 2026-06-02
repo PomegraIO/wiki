@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*SATG — the Leverage Shares 2X Long SATS Daily ETF — is a leveraged bet on Bitcoin that doubles your daily gains and losses, then resets every night. It is built for tactical traders making short-term directional bets, not for long-term holders.*
+*SATG — the Leverage Shares 2X Long SATS Daily ETF — is a leveraged bet on [Bitcoin](/bitcoin/) that doubles your daily gains and losses, then resets every night. It is built for tactical traders making short-term directional bets, not for long-term holders.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,13 +27,13 @@ handwritten: true
 
 ## The founding of leveraged structured products
 
-Leverage Shares emerged in the 2010s as part of a broader wave of structured-products firms offering retail traders complex derivatives-based vehicles that were once available only to institutions. The firm built its product suite around daily-reset leverage — the idea that short-term traders could access amplified returns on stocks, currencies, and commodities without needing to borrow money directly or trade futures contracts. The mechanics were simple in theory: take the daily price move of an underlying asset, multiply it by a factor like 2x or 3x, and reset at the end of each day.
+Leverage Shares emerged in the 2010s as part of a broader wave of structured-products firms offering retail traders complex derivatives-based vehicles that were once available only to institutions. The firm built its product suite around daily-reset leverage — the idea that short-term traders could access amplified returns on stocks, currencies, and commodities without needing to borrow money directly or trade [futures contracts](/futures-contract/). The mechanics were simple in theory: take the daily price move of an underlying asset, multiply it by a factor like 2x or 3x, and reset at the end of each day.
 
-SATG emerged as one of the firm's Bitcoin-focused products, capitalizing on the cryptocurrency's emergence as a tradeable asset class. Like other Leverage Shares products, SATG was structured as an exchange-traded product — something that trades like a stock but holds derivatives instead of the actual asset. This hybrid form gave it tax treatment advantages in some jurisdictions and made it accessible to retail brokers and platforms that restrict cryptocurrency trading.
+SATG emerged as one of the firm's Bitcoin-focused products, capitalizing on the cryptocurrency's emergence as a tradeable asset class. Like other Leverage Shares products, SATG was structured as an exchange-traded product — something that trades like a stock but holds derivatives instead of the actual asset. This hybrid form gave it tax treatment advantages in some jurisdictions and made it accessible to retail [brokers](/broker/) and platforms that restrict cryptocurrency trading.
 
 ## How SATG's leverage mechanism works
 
-SATG uses derivatives and rebalancing to achieve its 2x daily target. If Bitcoin rises 1% in a trading session, SATG aims to rise 2%. If Bitcoin falls 3%, SATG targets a 6% loss. The fund accomplishes this by holding options, futures, or synthetic positions that track Bitcoin's daily move, then rebalancing back to the 2x ratio at the close. This daily reset is what distinguishes SATG from a traditional leveraged mutual fund, which might compound leverage over longer periods.
+SATG uses derivatives and rebalancing to achieve its 2x daily target. If Bitcoin rises 1% in a trading session, SATG aims to rise 2%. If Bitcoin falls 3%, SATG targets a 6% loss. The fund accomplishes this by holding options, futures, or synthetic positions that track Bitcoin's daily move, then rebalancing back to the 2x ratio at the close. This daily reset is what distinguishes SATG from a traditional leveraged [mutual fund](/mutual-fund/), which might compound leverage over longer periods.
 
 The sponsor — Leverage Shares — maintains these positions dynamically throughout the day. As Bitcoin price moves, SATG's delta exposure shifts, requiring the fund to buy or sell more derivatives to stay at 2x. At 4 p.m. New York time, the day's leverage is unwound entirely, and the fund resets to a clean 2x position for the next session. This constant rebalancing is what creates the fund's greatest hidden cost.
 
@@ -47,13 +47,13 @@ This decay is not a flaw in the fund's engineering. It is a fundamental feature 
 
 ## Costs and trading characteristics
 
-SATG does not disclose a traditional expense ratio. Instead, costs are embedded in the bid-ask spread and in the financing costs baked into the fund's price each day. The daily rebalancing itself — buying and selling derivatives to reset leverage — burns money in execution costs and market impact. These costs are invisible to the casual holder but compound significantly over time.
+SATG does not disclose a traditional [expense ratio](/expense-ratio/). Instead, costs are embedded in the [bid-ask spread](/bid-ask-spread/) and in the financing costs baked into the fund's price each day. The daily rebalancing itself — buying and selling derivatives to reset leverage — burns money in execution costs and market impact. These costs are invisible to the casual holder but compound significantly over time.
 
-Trading liquidity in SATG is thinner than in major-exchange ETFs. The fund trades over-the-counter rather than on Nasdaq or NYSE, and average daily volume is modest. Large orders can face slippage, and bid-ask spreads are wider than in liquid equity ETFs. This makes SATG suitable only for traders planning to hold for short periods and exit at liquid times during the trading day.
+Trading liquidity in SATG is thinner than in major-exchange ETFs. The fund trades over-the-counter rather than on [Nasdaq](/nasdaq/) or NYSE, and average daily volume is modest. Large orders can face slippage, and bid-ask spreads are wider than in liquid [equity ETFs](/equity-etf/). This makes SATG suitable only for traders planning to hold for short periods and exit at liquid times during the trading day.
 
 ## Who holds SATG and appropriate use cases
 
-SATG is designed exclusively for traders making short-term directional bets on Bitcoin's near-term price action. A trader might hold SATG for a few hours or a few days if they expect Bitcoin to rally strongly. The moment the bet is closed — or the holding period stretches beyond a few weeks — volatility decay begins eroding value faster than directional moves can compensate.
+SATG is designed exclusively for traders making short-term directional bets on Bitcoin's near-term price action. A trader might hold SATG for a few hours or a few days if they expect Bitcoin to rally strongly. The moment the bet is closed — or the [holding period](/holding-period/) stretches beyond a few weeks — volatility decay begins eroding value faster than directional moves can compensate.
 
 SATG is unsuitable for retirement accounts, long-term wealth-building portfolios, or any holder who does not actively monitor positions and plan to close them within days. An investor who wants Bitcoin exposure should buy unleveraged Bitcoin or a non-leveraged Bitcoin ETF. An investor who wants short-term Bitcoin upside should understand the decay mechanics before risking capital.
 

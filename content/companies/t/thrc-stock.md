@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Havana Roasters Coffee Companies operates in the specialty coffee market, a segment where roasters source, blend, and sell coffee beans directly to consumers and retailers. The company represents one of many micro-cap entrants in an industry that has fractured dramatically over the past two decades — no longer dominated by the mass-market brands that once defined American coffee consumption, but increasingly populated by hundreds of small roasteries, each betting on a specific angle: single-origin sourcing, a particular roast profile, a heritage story, or a geographic identity.
+[Havana Roasters Coffee](/nafs-stock/) Companies operates in the specialty coffee market, a segment where roasters source, blend, and sell coffee beans directly to consumers and retailers. The company represents one of many micro-cap entrants in an industry that has fractured dramatically over the past two decades — no longer dominated by the mass-market brands that once defined American coffee consumption, but increasingly populated by hundreds of small roasteries, each betting on a specific angle: single-origin sourcing, a particular roast profile, a heritage story, or a geographic identity.
 
 <aside class="wiki-infobox">
 <table>
@@ -30,9 +30,9 @@ Entry into coffee roasting requires modest capital — a roaster, storage, quali
 
 ## Economics of a small roaster
 
-Coffee roasting businesses live on tight margins. The cost of green (unroasted) beans typically consumes 40–50% of retail revenue, leaving room for labour, facility costs, packaging, shipping, and distribution. A roaster at Havana Roasters' scale lacks the buying power of large competitors and must source directly or through specialty importers, which keeps bean costs relatively high. Direct-to-consumer sales through an online store offer the highest margin — no retailer middleman — but require sustained customer acquisition, repeat purchases, and a logistics operation to handle small orders.
+Coffee roasting businesses live on tight margins. The cost of green (unroasted) beans typically consumes 40–50% of retail revenue, leaving room for labour, facility costs, packaging, shipping, and distribution. A roaster at Havana Roasters' scale lacks the buying power of large competitors and must source directly or through specialty importers, which keeps bean costs relatively high. Direct-to-consumer sales through an online store offer the highest margin — no retailer middleman — but require sustained customer [acquisition](/acquisition/), repeat purchases, and a logistics operation to handle small orders.
 
-The cyclical challenge is acute for small roasters. In boom times, when consumers have discretionary income and are willing to spend premium prices on specialty products, a well-positioned small roaster can grow. In recessions, consumer spending on premium coffee often contracts, and customers default to cheaper, familiar brands. A roaster that has built expensive fixed costs (large facilities, staff) in the boom faces margin pressure in the bust — especially if revenues decline faster than costs.
+The cyclical challenge is acute for small roasters. In boom times, when consumers have discretionary income and are willing to spend premium prices on specialty products, a well-positioned small roaster can grow. In [recessions](/recession/), consumer spending on premium coffee often contracts, and customers default to cheaper, familiar brands. A roaster that has built expensive fixed costs (large facilities, staff) in the boom faces margin pressure in the bust — especially if revenues decline faster than costs.
 
 ## Scale and distribution
 
@@ -48,6 +48,6 @@ The company's exposure to this cycle is direct: retail strength drives online or
 
 ## Research and evaluation
 
-Anyone studying Havana Roasters should begin with its annual 10-K filing (SEC CIK 0001409253), which discloses the composition of revenue — how much comes from direct sales, retailer accounts, and wholesale channels — and which cost categories dominate the P&L. Monitor the gross-margin trend: declining margins in a growth story suggest pricing pressure, rising input costs, or channel mix shifting toward lower-margin distribution. Watch accounts receivable and inventory: they are the early warning system for demand softness.
+Anyone studying Havana Roasters should begin with its annual 10-K filing (SEC CIK 0001409253), which discloses the composition of revenue — how much comes from direct sales, retailer accounts, and wholesale channels — and which cost categories dominate the P&L. Monitor the gross-margin trend: declining margins in a growth story suggest pricing pressure, rising input costs, or channel mix shifting toward lower-margin distribution. Watch [accounts receivable](/accounts-receivable/) and inventory: they are the early warning system for demand softness.
 
-For a micro-cap, the stock is inherently volatile and illiquid. Trading volume matters; thin volume means bid-ask spreads widen and execution becomes costly. The company's future depends on whether it can build a sustainable, defensible brand in a market where the barriers to entry remain low.
+For a micro-cap, the stock is inherently volatile and illiquid. Trading volume matters; thin volume means [bid-ask spreads](/bid-ask-spread/) widen and execution becomes costly. The company's future depends on whether it can build a sustainable, defensible brand in a market where the barriers to entry remain low.

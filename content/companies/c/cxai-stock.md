@@ -60,7 +60,7 @@ The export-control landscape is technical and changes frequently as the governme
 
 ## Sector-Specific Regulations
 
-If CXApp sells software to specific industries, it faces additional regulations. If the software is sold to [financial institutions](/fisi-stock/) (banks, insurance companies, investment firms), CXApp is subject to financial-services regulations. The software must meet security standards (like the [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/)'s safeguards requirements), and financial institutions must conduct vendor risk assessments. The company faces audits and must demonstrate security compliance.
+If CXApp sells software to specific industries, it faces additional regulations. If the software is sold to financial institutions (banks, insurance companies, investment firms), CXApp is subject to financial-services regulations. The software must meet security standards (like the [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/)'s safeguards requirements), and financial institutions must conduct vendor risk assessments. The company faces audits and must demonstrate security compliance.
 
 If the software is sold to healthcare providers, it may handle Protected Health Information (PHI) under the Health Insurance Portability and Accountability Act (HIPAA). The company must implement technical and administrative safeguards, provide business associate agreements, and maintain audit trails. HIPAA violations trigger fines and litigation.
 

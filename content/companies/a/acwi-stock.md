@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*ACWI (iShares MSCI ACWI ETF) is a passive exchange-traded fund issued by iShares (part of BlackRock) that tracks the MSCI All Country World Index. The index includes publicly traded stocks from both developed and emerging markets, covering roughly 47 countries and 3,000 securities. It is one of the simplest ways for an investor to own a slice of global stock markets in a single fund.*
+*ACWI (iShares MSCI ACWI ETF) is a passive exchange-traded fund issued by iShares (part of [BlackRock](/blk-stock/)) that tracks the MSCI All Country World Index. The index includes publicly traded stocks from both developed and emerging markets, covering roughly 47 countries and 3,000 securities. It is one of the simplest ways for an investor to own a slice of global [stock markets](/stock-market/) in a single fund.*
 
 <aside class="wiki-infobox">
 <table>
@@ -30,7 +30,7 @@ handwritten: true
 
 The MSCI ACWI is designed to capture the broadest possible picture of investable global equities in a single benchmark. It includes developed markets—the United States, Western Europe, Japan, Australia, Canada—and emerging markets such as China, India, Taiwan, Brazil, and Mexico. Rather than arbitrarily excluding a country or sector, the index aims to include all liquid, publicly traded stocks above a certain size threshold across all markets. This breadth means ACWI is genuinely global; no single country or region dominates to the extent it would in other indexes.
 
-The index is market-cap weighted, which means Apple and Microsoft carry outsized influence relative to smaller companies, but it includes mid-cap and small-cap firms as well. This size breadth gives genuine diversification across company scale. The emerging-markets allocation is meaningful, typically around 10 to 15 percent of the fund, which means an ACWI holder is exposed to faster-growing economies but also to currency risk and political uncertainty in less stable markets.
+The index is market-cap weighted, which means [Apple](/aapl-stock/) and [Microsoft](/msft-stock/) carry outsized influence relative to smaller companies, but it includes mid-cap and small-cap firms as well. This size breadth gives genuine [diversification](/diversification/) across company scale. The emerging-markets allocation is meaningful, typically around 10 to 15 percent of the fund, which means an ACWI holder is exposed to faster-growing economies but also to [currency risk](/currency-risk/) and political uncertainty in less stable markets.
 
 ## Geographic spread and sector neutrality
 
@@ -40,13 +40,13 @@ This neutrality—avoiding any country or sector tilt—is the appeal for many i
 
 ## Cost and liquidity make the difference
 
-The expense ratio of approximately 0.08 percent is extraordinarily cheap—less than a dollar per ten thousand dollars invested per year. This reflects the passive nature of the fund and the scale of iShares' operations. ACWI is also highly liquid, trading millions of shares daily with tight bid-ask spreads. Large investors can buy or sell substantial positions with minimal price impact.
+The [expense ratio](/expense-ratio/) of approximately 0.08 percent is extraordinarily cheap—less than a dollar per ten thousand dollars invested per year. This reflects the passive nature of the fund and the scale of iShares' operations. ACWI is also highly liquid, trading millions of shares daily with tight [bid-ask spreads](/bid-ask-spread/). Large investors can buy or sell substantial positions with minimal price impact.
 
 The low cost is important because in a globally diversified fund, the fund itself—its fees and trading costs—is often the only return generator you directly control. You cannot control whether stocks rise or fall, but you can control what you pay to own them. Lower fees preserve more of what the market returns to you. That difference compounds: a 0.08 percent fee versus a 0.50 percent fee means an extra 0.42 percent per year staying in your pocket over decades.
 
 ## Currency, politics, and tail risks
 
-ACWI is denominated in U.S. dollars, which means a U.S. investor is exposed to currency fluctuations. When the dollar rises against other currencies, foreign earnings are worth less in dollar terms, which can drag returns. Conversely, if the dollar weakens, ACWI can gain from favorable currency moves. This currency exposure is real and sometimes material; it is not diversification away, it is an additional bet embedded in the fund.
+ACWI is denominated in [U.S. dollars](/us-dollar/), which means a U.S. investor is exposed to currency fluctuations. When the dollar rises against other currencies, foreign earnings are worth less in dollar terms, which can drag returns. Conversely, if the dollar weakens, ACWI can gain from favorable currency moves. This currency exposure is real and sometimes material; it is not diversification away, it is an additional bet embedded in the fund.
 
 The emerging-markets portion introduces additional risks: political instability, capital controls, accounting standards that differ from developed markets, and sudden policy shifts. China exposure in particular brings geopolitical risk tied to U.S.-China relations, technology restrictions, and regulatory swings. A sudden escalation in tensions can cause emerging-market currencies and stocks to move sharply and unfavorably.
 

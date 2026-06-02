@@ -27,7 +27,7 @@ NetEase is a Chinese internet company born in the early 2000s whose fortunes hav
 
 ## The portal years and the pivot to games
 
-NetEase launched in 2001 as a web portal and email service provider, competing in what looked like a mass-market internet expansion in China. It went public in the United States in 2000 — technically after the Nasdaq crash but part of the same chaotic wave of Chinese internet listings. For years it was marginal: a portal operator watching stronger rivals (Sina, Sohu) capture advertising dollars and traffic. Growth was slow, and it was unclear whether NetEase would survive the consolidation ahead.
+NetEase launched in 2001 as a web portal and email service provider, competing in what looked like a mass-market internet expansion in China. It went public in the United States in 2000 — technically after the [Nasdaq](/nasdaq/) crash but part of the same chaotic wave of Chinese internet listings. For years it was marginal: a portal operator watching stronger rivals (Sina, Sohu) capture advertising dollars and traffic. Growth was slow, and it was unclear whether NetEase would survive the consolidation ahead.
 
 The turning point came in the early-to-mid 2000s when the company licensed online games from South Korea and Japan. At the time, massively multiplayer online games (MMOs) were exploding in Asia, and Chinese players were willing to spend money on in-game items, cosmetics, and convenience features. NetEase recognized that games could convert casual internet users into paying customers far more effectively than advertising ever could. It licensed titles like World of Warcraft and then began developing its own games, mixing licensed international IP with original titles that appealed directly to Chinese taste.
 
@@ -47,7 +47,7 @@ Recognizing the risk of game dependence, NetEase began aggressively diversifying
 
 The company also invested heavily in video, including the NetEase Yanxishe platform for short-form video and the NetEase Video service for longer content. It launched online education offerings (NetEase Youdao) focused on language learning and test preparation. It built NetEase Kaola, a cross-border e-commerce platform. And it invested in social and community features as hooks to keep users in the NetEase ecosystem.
 
-These diversification moves served two functions: they spread revenue risk across services with different growth and cyclicality profiles, and they gave the company multiple ways to monetize a user who might pay for a game one month and a music subscription the next. The challenge was that most of these adjacent services compete in hyper-competitive Chinese internet markets with dominant incumbents — Tencent in music and video, Baidu in education. NetEase had to be willing to run many of these at modest profitability (or breakeven) just to stay in the game.
+These [diversification](/diversification/) moves served two functions: they spread revenue risk across services with different growth and cyclicality profiles, and they gave the company multiple ways to monetize a user who might pay for a game one month and a music subscription the next. The challenge was that most of these adjacent services compete in hyper-competitive Chinese internet markets with dominant incumbents — Tencent in music and video, Baidu in education. NetEase had to be willing to run many of these at modest profitability (or breakeven) just to stay in the game.
 
 ## Unit economics and the recurring revenue opportunity
 

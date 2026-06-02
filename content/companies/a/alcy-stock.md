@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Alchemy Investments Acquisition Corp 1 is a special purpose acquisition company—a blank-check firm formed to identify and merge with an operating business. The company went public to raise capital for this purpose, and in 2025 it identified its target: Cartiga, LLC, a legal-claims asset management platform. As of mid-2026, the proposed merger remains pending shareholder approval, with a September 2026 deadline looming.
+[Alchemy Investments Acquisition Corp 1](/alcyf-stock/) is a special purpose [acquisition](/acquisition/) company—a blank-check firm formed to identify and merge with an operating business. The company went public to raise capital for this purpose, and in 2025 it identified its target: Cartiga, LLC, a legal-claims asset management platform. As of mid-2026, the proposed [merger](/merger/) remains pending shareholder approval, with a September 2026 deadline looming.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ Alchemy Investments Acquisition Corp 1 is a special purpose acquisition company�
 
 ## What is a blank-check company?
 
-A blank-check SPAC raises money from public investors through an initial offering, then has a limited window—usually two to three years—to find and acquire a private operating company. The SPAC founders and initial investors bet that they can identify a better-than-average target. If a merger happens, the private company becomes public, and the original SPAC shareholders become shareholders in the merged entity. If no deal closes before the deadline, investors who haven't redeemed their shares face a liquidation: the trust account is returned to those who didn't sell during the merger vote.
+A blank-check SPAC raises money from public investors through an initial offering, then has a limited window—usually two to three years—to find and acquire a private operating company. The SPAC founders and initial investors bet that they can identify a better-than-average target. If a merger happens, the private company becomes public, and the original SPAC shareholders become shareholders in the merged entity. If no deal closes before the deadline, investors who haven't redeemed their shares face a [liquidation](/liquidation/): the trust account is returned to those who didn't sell during the merger vote.
 
 Alchemy formed in 2024 and raised capital through its public offering. The merger agreement with Cartiga was signed in August 2025, committing the company to a specific path forward.
 
@@ -34,7 +34,7 @@ Alchemy formed in 2024 and raised capital through its public offering. The merge
 
 Cartiga is a data-driven asset management platform focused on an unconventional category: purchasing and managing legal claims and law firm partnerships. The platform uses proprietary data analytics and algorithms to assess the risk-adjusted returns on legal investments—a space that has grown as institutional capital has sought non-traditional yield sources.
 
-The business is speculative by nature. Legal outcomes are uncertain, settlements take time, and the market for law-firm-backed securities remains small and illiquid compared to traditional equities or bonds. Cartiga's edge, if one exists, is in its data infrastructure and its ability to spot patterns in litigation outcomes that other market participants miss.
+The business is speculative by nature. Legal outcomes are uncertain, settlements take time, and the market for law-firm-backed securities remains small and illiquid compared to traditional equities or [bonds](/bond/). Cartiga's edge, if one exists, is in its data infrastructure and its ability to spot patterns in litigation outcomes that other market participants miss.
 
 ## Why pursue this merger now?
 

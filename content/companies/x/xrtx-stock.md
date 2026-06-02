@@ -21,9 +21,9 @@ In its early years, XORTX remained a private research venture, building its scie
 
 ## The public market entry and reorientation (2018 onward)
 
-On January 10, 2018, XORTX executed a reverse merger with APAC Resources Inc., a British Columbia public company, to achieve listing on the NASDAQ exchange. This reverse take-over is the inflection point in the company's history — it provided the capital and public-market machinery necessary for clinical-stage advancement. Upon completion, the company assumed its current legal name, XORTX Therapeutics Inc., and began trading under the ticker XRTX.
+On January 10, 2018, XORTX executed a [reverse merger](/reverse-merger/) with APAC Resources Inc., a British Columbia public company, to achieve listing on the [NASDAQ](/nasdaq/) exchange. This reverse take-over is the inflection point in the company's history — it provided the capital and public-market machinery necessary for clinical-stage advancement. Upon completion, the company assumed its current legal name, XORTX Therapeutics Inc., and began trading under the ticker XRTX.
 
-The reverse merger transformed XORTX from a private R&D operation into a NASDAQ-listed biopharmaceutical firm, giving it direct access to the North American capital markets. That market access has allowed the company to fund its transition from early research into multi-asset clinical development. The Calgary headquarters became the operational nerve center for a small, focused team managing clinical programs and investor relations.
+The reverse [merger](/merger/) transformed XORTX from a private R&D operation into a NASDAQ-listed biopharmaceutical firm, giving it direct access to the North American capital markets. That market access has allowed the company to fund its transition from early research into multi-asset clinical development. The Calgary headquarters became the operational nerve center for a small, focused team managing clinical programs and investor relations.
 
 ## Clinical pipeline and therapeutic areas
 

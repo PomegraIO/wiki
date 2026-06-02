@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-enGene Therapeutics is a clinical-stage company focused on developing gene-editing technologies and therapies, particularly an approach called selective ex vivo correction, where patient cells are isolated, genetically modified outside the body, and returned to work as a corrective therapy. The company operates in the intersection of gene therapy and cell therapy, an area that remains largely pre-commercial — meaning the company is not yet generating meaningful revenue from commercial operations, and like most biotech ventures at this stage, it burns cash while conducting clinical trials.
+[enGene Therapeutics](/engn-stock/) is a clinical-stage company focused on developing gene-editing technologies and therapies, particularly an approach called selective ex vivo correction, where patient cells are isolated, genetically modified outside the body, and returned to work as a corrective therapy. The company operates in the intersection of gene therapy and cell therapy, an area that remains largely pre-commercial — meaning the company is not yet generating meaningful revenue from commercial operations, and like most biotech ventures at this stage, it burns cash while conducting clinical trials.
 
 <aside class="wiki-infobox">
 <table>

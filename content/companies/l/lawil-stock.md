@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Light & Wonder is one of the largest gaming and entertainment companies in the world, operating casino resorts across Las Vegas, the United States, and internationally, as well as a substantial gaming-machine business and an expanding digital sports betting platform. The company generates revenue from three distinct but interconnected segments: casino resorts (owned and operated properties), gaming and machines (electronic gaming devices leased or sold to retail and tribal casinos), and digital interactive (online sports betting and gaming). Its shares (NASDAQ: LAWL) appeal to investors seeking exposure to the recovery of leisure travel and in-person gaming, as well as the emerging digital wagering opportunity.
+Light & Wonder is one of the largest gaming and entertainment companies in the world, operating casino resorts across Las Vegas, the United States, and internationally, as well as a substantial gaming-machine business and an expanding digital sports betting platform. The company generates revenue from three distinct but interconnected segments: casino resorts (owned and operated properties), gaming and machines (electronic gaming devices leased or sold to retail and tribal casinos), and digital interactive (online sports betting and gaming). Its shares ([NASDAQ](/nasdaq/): LAWL) appeal to investors seeking exposure to the recovery of leisure travel and in-person gaming, as well as the emerging digital wagering opportunity.
 
 <aside class="wiki-infobox">
 <table>
@@ -43,7 +43,7 @@ Machines are regularly upgraded to incorporate new games, themes, and technology
 
 ## Digital and interactive: the growth bet
 
-The digital segment encompasses online sports betting platforms and online gaming products — a newer and rapidly evolving piece of Light & Wonder. As U.S. states have legalized sports betting and online gambling, the company has positioned itself to capture share in this emerging channel. The opportunity is large (online wagering is growing rapidly across the country) but highly competitive and uncertain — the market is still taking shape, many jurisdictions remain closed, and customer acquisition is expensive.
+The digital segment encompasses online sports betting platforms and online gaming products — a newer and rapidly evolving piece of Light & Wonder. As U.S. states have legalized sports betting and online gambling, the company has positioned itself to capture share in this emerging channel. The opportunity is large (online wagering is growing rapidly across the country) but highly competitive and uncertain — the market is still taking shape, many jurisdictions remain closed, and customer [acquisition](/acquisition/) is expensive.
 
 Digital operations have lower physical-asset requirements than resort casinos but require significant investment in technology, compliance, customer acquisition, and marketing. Profitability in this segment depends on building scale and managing customer acquisition cost relative to lifetime value. Unlike the resort business, where a property generates cash flow for decades once built, digital can face rapid shifts in competitive position and customer preference if the platform or offering falls behind rivals.
 
@@ -51,7 +51,7 @@ Digital operations have lower physical-asset requirements than resort casinos bu
 
 The customer profile differs across the three segments. Resort casinos draw a mix of destination tourists (often higher-spend, multi-day visitors) and local Las Vegas residents. Gaming machines reach a broader geographic base across the United States through their retail and tribal placement. Digital sports betting customers are typically younger, tech-enabled, and motivated by convenience and promotional offers.
 
-All three segments share a common principle: Light & Wonder profits when customers wager and lose. The house edge is mathematically built into games and betting odds, ensuring that over time the company and its venue partners capture a percentage of customer spend. This dynamic makes the business sensitive to consumer discretionary spending and mood — in recessions, gaming volumes tend to fall. But it also makes gaming counter-cyclical to certain economic indicators: when unemployment is low and confidence is high, customers have more leisure money to spend on gaming.
+All three segments share a common principle: Light & Wonder profits when customers wager and lose. The house edge is mathematically built into games and betting odds, ensuring that over time the company and its venue partners capture a percentage of customer spend. This dynamic makes the business sensitive to consumer [discretionary spending](/discretionary-spending/) and mood — in [recessions](/recession/), gaming volumes tend to fall. But it also makes gaming counter-cyclical to certain economic indicators: when unemployment is low and confidence is high, customers have more leisure money to spend on gaming.
 
 ## Risks and the regulatory environment
 

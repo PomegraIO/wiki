@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Octave Intelligence is a data-driven insights company founded in the United Kingdom with a focus on understanding and predicting consumer behaviour across financial services, retail, and other sectors. The company has evolved from a boutique analytical consultancy into a data platform business, shifting its revenue model from high-touch advisory to recurring software subscriptions and data licensing. This trajectory — from people-powered services to productized software — is the story of Octave and the tensions that come with that transition.
+[Octave Intelligence](/octv-stock/) is a data-driven insights company founded in the United Kingdom with a focus on understanding and predicting consumer behaviour across financial services, retail, and other sectors. The company has evolved from a boutique analytical consultancy into a data platform business, shifting its revenue model from high-touch advisory to recurring software subscriptions and data licensing. This trajectory — from people-powered services to productized software — is the story of Octave and the tensions that come with that transition.
 
 ## The founding and early model
 
@@ -28,7 +28,7 @@ This shift required different capabilities: product management, data infrastruct
 
 Octave operates in a crowded space. Established research firms like Euromonitor and GlobalData have large consumer-insight divisions. Tech-driven competitors like Palantir and Databricks have far more capital and computing resources. Traditional business intelligence software makers like Tableau and Looker have embedded analytics capabilities that can be repurposed for consumer insights. Even financial tech platforms like Bloomberg and Refinitiv have bolted on consumer-behaviour modules.
 
-What gives Octave room to exist is focus and credibility with a specific vertical. The financial services industry cares deeply about understanding retail customers' deposit behaviour, borrowing habits, spending patterns, and churn signals. A bank wants to know which customers are at risk of switching, which borrower cohorts are most profitable, and how economic downturns affect different demographic segments. Octave has built relationships and datasets in this sector that are difficult to replicate. But the competitive advantage is not invulnerable: any large player willing to spend enough can build equivalent capabilities, and the cloud data platforms (Snowflake, BigQuery) are democratizing the ability to run sophisticated analytics on consumer data.
+What gives Octave room to exist is focus and credibility with a specific vertical. The financial services industry cares deeply about understanding retail customers' deposit behaviour, borrowing habits, spending patterns, and churn signals. A bank wants to know which customers are at risk of switching, which borrower cohorts are most profitable, and how economic downturns affect different demographic segments. Octave has built relationships and datasets in this sector that are difficult to replicate. But the competitive advantage is not invulnerable: any large player willing to spend enough can build equivalent capabilities, and the cloud data platforms ([Snowflake](/snow-stock/), BigQuery) are democratizing the ability to run sophisticated analytics on consumer data.
 
 ## From boutique to platform: the challenges
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-VanEck Africa Index ETF stands as one of the few liquid vehicles for investors seeking African equity exposure. Since its inception in the mid-2000s, AFK has offered a rules-based entry point to the continent's stock markets — a straightforward way to own the companies that trade publicly in Africa rather than betting on a single country or sector.
+VanEck Africa Index ETF stands as one of the few liquid vehicles for investors seeking African equity exposure. Since its inception in the mid-2000s, AFK has offered a rules-based entry point to the continent's [stock markets](/stock-market/) — a straightforward way to own the companies that trade publicly in Africa rather than betting on a single country or sector.
 
 ## The genesis and VanEck's approach
 
@@ -23,13 +23,13 @@ AFK solved that problem by tracking the MSCI Africa Index, a market-weighted ben
 
 The MSCI Africa Index includes large-cap and mid-cap stocks from countries across the continent: South Africa dominates the index by weight (roughly 80 percent or more of the holdings), followed by smaller positions in Egypt, Kenya, Nigeria, and occasionally other markets. The index is heavily weighted toward financials — banks, insurers, and other financial institutions make up a large slice — along with consumer discretionary, industrials, and resources.
 
-South Africa's dominance reflects economic reality: it is the continent's largest equity market by liquidity, has the deepest regulatory framework for public markets, and hosts the companies with the biggest market capitalizations. Investors seeking diversified African exposure often find themselves, through the index, predominantly exposed to South African companies, which carry their own set of risks and currency dynamics.
+South Africa's dominance reflects economic reality: it is the continent's largest equity market by liquidity, has the deepest regulatory framework for public markets, and hosts the companies with the biggest [market capitalizations](/market-capitalization/). Investors seeking diversified African exposure often find themselves, through the index, predominantly exposed to South African companies, which carry their own set of risks and currency dynamics.
 
 ## How the fund works and what it costs
 
-AFK is a standard, non-leveraged ETF. It holds the underlying stocks directly or holds them through subsidiary funds, moving proportionally with the index. Shares trade on the NYSE Arca exchange during market hours, meaning investors can buy or sell throughout the day at market prices rather than once-daily pricing. The fund's expense ratio reflects the costs of holding a basket of less-liquid stocks across multiple African exchanges and currencies.
+AFK is a standard, non-leveraged ETF. It holds the underlying stocks directly or holds them through subsidiary funds, moving proportionally with the index. Shares trade on the NYSE Arca exchange during market hours, meaning investors can buy or sell throughout the day at market prices rather than once-daily pricing. The fund's [expense ratio](/expense-ratio/) reflects the costs of holding a basket of less-liquid stocks across multiple African exchanges and currencies.
 
-The fund is denominated in U.S. dollars, so U.S.-based investors buying AFK are implicitly taking a position in African currencies — primarily South African rand, Egyptian pound, Nigerian naira, and others. When those currencies strengthen against the dollar, AFK benefits from currency appreciation on top of stock gains. When they weaken, AFK loses that currency windfall. For investors, this currency exposure is both a feature (diversification beyond pure equities) and a risk (currency moves can be volatile and swamp stock performance).
+The fund is denominated in [U.S. dollars](/us-dollar/), so U.S.-based investors buying AFK are implicitly taking a position in African currencies — primarily [South African rand](/south-african-rand/), Egyptian pound, Nigerian naira, and others. When those currencies strengthen against the dollar, AFK benefits from currency appreciation on top of stock gains. When they weaken, AFK loses that currency windfall. For investors, this currency exposure is both a feature ([diversification](/diversification/) beyond pure equities) and a risk (currency moves can be volatile and swamp stock performance).
 
 ## Risks specific to Africa
 
@@ -41,7 +41,7 @@ Because the index is weighted by market capitalization, it tilts toward the larg
 
 The currency exposure cuts both ways. An investor who believes African currencies will appreciate relative to the dollar finds currency tailwinds in AFK's returns. An investor worried about currency instability sees it as an additional layer of volatility. Because South Africa makes up the bulk of the index, the rand's health and volatility dominate the fund's currency profile.
 
-Concentration risk is real despite the fund's name. Roughly 80 percent of AFK's assets are in South African companies, so AFK is, functionally, mostly a South African equity fund with a thin layer of diversification into other countries. A political or economic crisis in South Africa would hit the fund far more severely than a similar crisis elsewhere on the continent.
+[Concentration risk](/concentration-risk/) is real despite the fund's name. Roughly 80 percent of AFK's assets are in South African companies, so AFK is, functionally, mostly a South African equity fund with a thin layer of diversification into other countries. A political or economic crisis in South Africa would hit the fund far more severely than a similar crisis elsewhere on the continent.
 
 ## Who this fund is for and research approach
 

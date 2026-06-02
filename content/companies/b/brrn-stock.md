@@ -4,7 +4,7 @@ description: "Specialty healthcare services provider earning revenue through cli
 keywords: [healthcare-services, clinical-operations, physician-network, healthcare-administration, specialty-care, outsourcing]
 ---
 
-*Bryn operates in [healthcare services](/hcsg-stock/), generating revenue through two distinct mechanisms: direct clinical delivery (where the company or its network physicians treat patients and bill insurers for services rendered) and administrative or consulting engagements where the company charges healthcare organizations for operational or management expertise. The margin structure depends on the revenue mix—clinical services carry high patient-volume requirements and insurance reimbursement rates; administrative services offer greater predictability but lower volume.*
+*Bryn operates in healthcare services, generating revenue through two distinct mechanisms: direct clinical delivery (where the company or its network physicians treat patients and bill insurers for services rendered) and administrative or consulting engagements where the company charges healthcare organizations for operational or management expertise. The margin structure depends on the revenue mix—clinical services carry high patient-volume requirements and insurance reimbursement rates; administrative services offer greater predictability but lower volume.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>BRRN</td></tr>

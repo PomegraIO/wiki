@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Grayscale Litecoin Trust (LTCN) is a closed-end investment trust that holds Litecoin, one of the longest-running cryptocurrencies after Bitcoin. Created in 2011, Litecoin was designed by Charlie Lee as a "lite" version of Bitcoin—faster block times, a different mining algorithm, and a larger supply cap. The trust structure allows traditional investors to hold Litecoin indirectly through a registered investment vehicle, sidestepping the operational burden of private key management and enabling placement in tax-advantaged accounts.
+Grayscale Litecoin Trust (LTCN) is a closed-end investment trust that holds Litecoin, one of the longest-running cryptocurrencies after [Bitcoin](/bitcoin/). Created in 2011, Litecoin was designed by Charlie Lee as a "lite" version of Bitcoin—faster block times, a different mining algorithm, and a larger supply cap. The trust structure allows traditional investors to hold Litecoin indirectly through a registered investment vehicle, sidestepping the operational burden of private key management and enabling placement in tax-advantaged accounts.
 
 ## The origins and design intent of Litecoin
 
@@ -21,9 +21,9 @@ The supply cap differs too: Bitcoin is capped at 21 million coins, while Litecoi
 
 ## Market position and the long-running shadow to Bitcoin
 
-For over a decade, Litecoin occupied a peculiar place: it had real developer support, genuine merchant acceptance in some contexts, and a loyal community, but it was perpetually in Bitcoin's shadow. Whenever Bitcoin prices climbed, Litecoin tended to climb as well; whenever cryptocurrency sentiment weakened, both fell. Litecoin's market capitalization and trading volume remained a small fraction of Bitcoin's, and the promised advantages—faster transactions, Scrypt mining, as a digital silver—never delivered the clear, durable edge Lee had imagined.
+For over a decade, Litecoin occupied a peculiar place: it had real developer support, genuine merchant acceptance in some contexts, and a loyal community, but it was perpetually in Bitcoin's shadow. Whenever Bitcoin prices climbed, Litecoin tended to climb as well; whenever cryptocurrency sentiment weakened, both fell. Litecoin's [market capitalization](/market-capitalization/) and trading volume remained a small fraction of Bitcoin's, and the promised advantages—faster transactions, Scrypt mining, as a digital silver—never delivered the clear, durable edge Lee had imagined.
 
-The rise of alternative cryptocurrencies (altcoins) over subsequent years included Ethereum, which became a genuine alternative to Bitcoin with smart-contract capabilities, and countless others. Litecoin's claim to differentiation eroded: Bitcoin became faster through layer-two solutions like the Lightning Network; Ethereum proved far more useful for applications; and the digital-silver framing rang hollow when investors treated Litecoin as a speculative asset rather than a medium of exchange.
+The rise of alternative cryptocurrencies (altcoins) over subsequent years included [Ethereum](/ethereum/), which became a genuine alternative to Bitcoin with smart-contract capabilities, and countless others. Litecoin's claim to differentiation eroded: Bitcoin became faster through layer-two solutions like the Lightning Network; Ethereum proved far more useful for applications; and the digital-silver framing rang hollow when investors treated Litecoin as a speculative asset rather than a medium of exchange.
 
 ## The transition to layer-two scaling and the Mimble Wimble saga
 
@@ -33,19 +33,19 @@ More broadly, like Bitcoin, Litecoin has evolved toward being a store of value a
 
 ## Mining, supply dynamics, and inflation schedule
 
-Litecoin uses Scrypt proof-of-work mining, the same algorithm it has used since inception. Litecoin mining is less centralized by hash rate than Bitcoin—more individual miners and small mining operations participate—but it has also faced pressure from Bitcoin miners who dominate computational resources and can direct those resources toward Litecoin mining profitably when prices favor it.
+Litecoin uses Scrypt proof-of-work mining, the same algorithm it has used since inception. Litecoin mining is less centralized by [hash rate](/hash-rate/) than Bitcoin—more individual miners and small mining operations participate—but it has also faced pressure from Bitcoin miners who dominate computational resources and can direct those resources toward Litecoin mining profitably when prices favor it.
 
-Litecoin's supply schedule follows Bitcoin's model: new coins are created on each block (currently about 6.25 LTC per block following the most recent halving), but that issuance is cut in half every four years. This deflationary trajectory means Litecoin's inflation rate decreases over time, eventually approaching zero. The mathematics mean that not all 84 million Litecoin will ever be mined—some will be lost to forgotten wallets and destroyed keys—creating a shrinking circulating supply relative to the theoretical maximum. This scarcity mechanic is built into the protocol and is one of Litecoin's persistent design features.
+Litecoin's supply schedule follows Bitcoin's model: new coins are created on each block (currently about 6.25 LTC per block following the most recent halving), but that issuance is cut in half every four years. This deflationary trajectory means Litecoin's [inflation](/inflation/) rate decreases over time, eventually approaching zero. The mathematics mean that not all 84 million Litecoin will ever be mined—some will be lost to forgotten wallets and destroyed keys—creating a shrinking circulating supply relative to the theoretical maximum. This scarcity mechanic is built into the protocol and is one of Litecoin's persistent design features.
 
 ## Adoption and economic velocity
 
 Litecoin achieved merchant adoption in the early-to-mid 2010s: retailers like Overstock and others accepted it directly. Over time, that direct adoption has diminished as merchant interest in accepting cryptocurrencies at all has contracted. Today, Litecoin sees transaction volumes on-chain, but the volume of genuine economic activity (as opposed to price speculation and trading between accounts) is difficult to measure precisely and appears modest compared to Bitcoin's.
 
-The question of whether Litecoin sees meaningful use as currency—the original thesis—versus being held purely as a speculative asset is complex and contested. On-chain metrics like daily active addresses and transaction fees collected by miners provide signals, but they do not distinguish between settlement of real value and internal transfers between cryptocurrency exchange accounts.
+The question of whether Litecoin sees meaningful use as currency—the original thesis—versus being held purely as a speculative asset is complex and contested. On-chain metrics like daily active addresses and transaction fees collected by miners provide signals, but they do not distinguish between settlement of real value and internal transfers between [cryptocurrency exchange](/cryptocurrency-exchange/) accounts.
 
 ## Grayscale trust structure and fee considerations
 
-The Litecoin Trust is structured as a closed-end trust, meaning it is not redeemed daily like an open-end fund. Grayscale purchases Litecoin and stores it in custody (via Coinbase Custody), then issues shares. The trust's net asset value reflects the underlying Litecoin holdings minus operating costs and management fees. LTCN shares trade on OTC markets, which typically means wider bid-ask spreads and less liquidity than major exchange-listed ETFs.
+The Litecoin Trust is structured as a closed-end trust, meaning it is not redeemed daily like an [open-end fund](/open-end-fund/). Grayscale purchases Litecoin and stores it in custody (via Coinbase Custody), then issues shares. The trust's [net asset value](/net-asset-value/) reflects the underlying Litecoin holdings minus operating costs and [management fees](/management-fee/). LTCN shares trade on OTC markets, which typically means wider [bid-ask spreads](/bid-ask-spread/) and less liquidity than major exchange-listed ETFs.
 
 The management fee compounds annually and creates a drag relative to holding Litecoin directly. However, the trust provides custody that meets institutional standards, the ability to hold Litecoin in tax-deferred investment accounts (such as IRAs in the United States), and simplified reporting—advantages that justify the fee for some investors.
 

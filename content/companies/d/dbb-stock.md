@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The INVESCO DB Base Metals Fund trades under the ticker DBB and holds a diversified basket of industrial metal futures contracts. Unlike precious metals funds that track gold or silver, or the palladium fund that focuses on a single platinum-group metal, DBB tracks the three base metals that dominate global construction and manufacturing: copper, zinc, and aluminum. The fund's value rises and falls with global industrial demand, supply disruptions in mining-heavy countries, and the mechanical cost of rolling futures contracts as they expire. It serves investors who believe industrial production will accelerate and metals will become scarcer, or who operate businesses that consume these metals and need to hedge against price spikes.
+The INVESCO DB Base Metals Fund trades under the ticker DBB and holds a diversified basket of industrial metal [futures contracts](/futures-contract/). Unlike precious metals funds that track gold or silver, or the palladium fund that focuses on a single platinum-group metal, DBB tracks the three base metals that dominate global construction and manufacturing: copper, zinc, and aluminum. The fund's value rises and falls with global industrial demand, supply disruptions in mining-heavy countries, and the mechanical cost of rolling futures contracts as they expire. It serves investors who believe industrial production will accelerate and metals will become scarcer, or who operate businesses that consume these metals and need to hedge against price spikes.
 
 ## Birth of the index, 1990s to 2000s
 
@@ -40,7 +40,7 @@ That thesis competes with the countervailing risk of aluminum: China's enormous 
 
 ## The roll cost and futures mechanics
 
-DBB holds rolling futures positions in copper, zinc, and aluminum, each listed on the London Metal Exchange. As contracts expire, the fund sells the near-term contract and buys a more distant one, locking in the futures curve at that moment. When the curve is in contango—far-dated prices higher than near-dated prices—the roll is expensive; when in backwardation, it benefits the fund. Averaged over time, the roll cost is typically a modest drag on returns, amounting to perhaps 1–2 percent per year, though this varies with market conditions.
+DBB holds rolling futures positions in copper, zinc, and aluminum, each listed on the London Metal Exchange. As contracts expire, the fund sells the near-term contract and buys a more distant one, locking in the futures curve at that moment. When the curve is in [contango](/contango/)—far-dated prices higher than near-dated prices—the roll is expensive; when in [backwardation](/backwardation/), it benefits the fund. Averaged over time, the roll cost is typically a modest drag on returns, amounting to perhaps 1–2 percent per year, though this varies with market conditions.
 
 The fund rebalances quarterly to restore its target weights among the three metals, which introduces further trading costs and volatility but also provides a discipline: the fund automatically sells the metal that has outperformed and buys the one that has lagged.
 
@@ -48,9 +48,9 @@ The fund rebalances quarterly to restore its target weights among the three meta
 
 Industrial companies that consume these metals—construction firms, automakers, electrical equipment manufacturers, utilities building renewable infrastructure—use DBB as a hedge against rising material costs. A large construction company might hold DBB to offset the risk that copper and aluminum prices spike and squeeze margins.
 
-Macro investors and hedge funds hold DBB as a bet on global industrial cycles. A trader who believes China is about to announce a massive infrastructure stimulus, which would drive industrial demand higher, might buy DBB expecting a price run. Conversely, a trader who expects recession and falling industrial demand might short it.
+Macro investors and [hedge funds](/hedge-fund/) hold DBB as a bet on global industrial cycles. A trader who believes China is about to announce a massive infrastructure stimulus, which would drive industrial demand higher, might buy DBB expecting a price run. Conversely, a trader who expects [recession](/recession/) and falling industrial demand might short it.
 
-Long-term portfolio investors sometimes hold a small allocation as a hedge against inflation, because base metals prices typically rise when inflation is elevated and tend to be negatively correlated with bonds.
+Long-term portfolio investors sometimes hold a small allocation as a hedge against [inflation](/inflation/), because base metals prices typically rise when inflation is elevated and tend to be negatively correlated with [bonds](/bond/).
 
 Speculators trade DBB actively on short-term price swings, particularly around economic data releases that might signal stronger or weaker global manufacturing.
 
@@ -62,8 +62,8 @@ China's role is unique: it is the world's largest aluminum producer and a major 
 
 ## Comparing DBB to alternatives
 
-An investor seeking base metals exposure can hold DBB, or alternatively can buy single-metal ETFs (JJM for zinc, CPER for copper) or hold stock in mining companies like Teck Resources, Antofagasta, or Glencore. Mining stocks add another layer of complexity—they are leveraged to metal prices but filtered through company-specific management decisions, capital allocation, and leverage. A mining stock can underperform rising metal prices if the company is poorly managed or overperform if it is well-run and the company shrewdly capital-allocates during booms and busts.
+An investor seeking base metals exposure can hold DBB, or alternatively can buy single-metal ETFs (JJM for zinc, CPER for copper) or hold stock in mining companies like [Teck Resources](/teck-stock/), Antofagasta, or Glencore. Mining stocks add another layer of complexity—they are leveraged to metal prices but filtered through company-specific management decisions, capital allocation, and leverage. A mining stock can underperform rising metal prices if the company is poorly managed or overperform if it is well-run and the company shrewdly capital-allocates during booms and busts.
 
-DBB's advantage is simplicity and diversification: hold one ticker, gain exposure to three essential industrial metals, and avoid the idiosyncratic risk of individual mining companies or the complexity of buying futures directly. The disadvantage is the same as with all commodity ETFs: over the long term, the fund underperforms the spot price of metals because of roll costs and rebalancing drag, making it a tool for tactical views or hedging rather than a buy-and-hold wealth builder.
+DBB's advantage is simplicity and [diversification](/diversification/): hold one ticker, gain exposure to three essential industrial metals, and avoid the [idiosyncratic risk](/idiosyncratic-risk/) of individual mining companies or the complexity of buying futures directly. The disadvantage is the same as with all [commodity ETFs](/commodity-etf/): over the long term, the fund underperforms the spot price of metals because of roll costs and rebalancing drag, making it a tool for tactical views or hedging rather than a buy-and-hold wealth builder.
 
 For investors building a long-only portfolio with some inflation protection and industrial-demand exposure, DBB provides a straightforward lever into the metals that power manufacturing, construction, and the energy transition. For long-term wealth building, the stronger bet is typically in the companies that extract and process these metals or that build and sell products that consume them.

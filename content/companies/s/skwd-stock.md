@@ -51,7 +51,7 @@ The combined entity now labels itself Skyward Group, with Skyward Specialty (U.S
 
 ## Distribution and the broker dependency
 
-Skyward relies on some four hundred and twenty-five wholesale brokers and specialised retail agents. Unlike a company selling through [direct digital](/drct-stock/) channels or employee sales forces, Skyward does not control its customer relationships—it depends on intermediaries to source opportunities, and those brokers are free to shop Skyward's quotes against every competitor on the market.
+Skyward relies on some four hundred and twenty-five wholesale brokers and specialised retail agents. Unlike a company selling through direct digital channels or employee sales forces, Skyward does not control its customer relationships—it depends on intermediaries to source opportunities, and those brokers are free to shop Skyward's quotes against every competitor on the market.
 
 This creates both opportunity and risk. The opportunity: brokers are incentivised to place business with carriers that understand the risks and respond quickly, which rewards Skyward's underwriting depth. The risk: there is no contractual lock-in, and if Skyward stumbles on claims payouts, underwriting cycles, or turnaround time, brokers will simply stop routing business its way.
 

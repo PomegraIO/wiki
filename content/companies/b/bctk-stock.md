@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Baron Technology ETF (BCTK) concentrates its portfolio into roughly 25 to 40 technology and internet companies, a deliberate narrowing that reflects Baron Capital's belief that deep research into individual businesses yields better returns than owning hundreds of holdings. The fund's segments—software and cloud services, semiconductors and hardware, digital platforms and commerce—each house the manager's conviction ideas, weighted by conviction strength rather than market cap.
+Baron Technology ETF (BCTK) concentrates its portfolio into roughly 25 to 40 technology and internet companies, a deliberate narrowing that reflects Baron Capital's belief that deep research into individual businesses yields better returns than owning hundreds of holdings. The fund's segments—software and cloud services, semiconductors and hardware, digital platforms and commerce—each house the manager's conviction ideas, weighted by conviction strength rather than [market cap](/market-capitalization/).
 
 ## Software and cloud infrastructure
 
@@ -19,7 +19,7 @@ The software segment represents companies building or selling cloud platforms, e
 
 ## Semiconductors and hardware
 
-Semiconductor companies and device makers represent a distinct category within BCTK, reflecting the fact that chip design, manufacturing, and the end products built around them carry different economic profiles. Semiconductor valuations swing sharply with the business cycle, but Baron's approach focuses on companies with genuine product differentiation, strong customer relationships, or leadership in specialized markets (graphics, machine learning, wireless) rather than commodity chip makers. Hardware makers in the fund are similarly selected for product differentiation and ecosystem advantages rather than cost leadership.
+Semiconductor companies and device makers represent a distinct category within BCTK, reflecting the fact that chip design, manufacturing, and the end products built around them carry different economic profiles. Semiconductor valuations swing sharply with the [business cycle](/business-cycle/), but Baron's approach focuses on companies with genuine product differentiation, strong customer relationships, or leadership in specialized markets (graphics, machine learning, wireless) rather than commodity chip makers. Hardware makers in the fund are similarly selected for product differentiation and ecosystem advantages rather than cost leadership.
 
 ## Digital platforms and commerce
 
@@ -37,11 +37,11 @@ Technology is inherently volatile, and BCTK amplifies that volatility through co
 
 ## Costs and tax efficiency
 
-BCTK carries an active management fee reflecting research, trading, and operations. The active turnover (moderate, not hyperactive) creates tax drag in taxable accounts; the fund is most sensible in retirement accounts or for very long-term holders indifferent to annual tax consequences. Liquidity is good—the fund is reasonably liquid on major exchanges.
+BCTK carries an active [management fee](/management-fee/) reflecting research, trading, and operations. The active turnover (moderate, not hyperactive) creates tax drag in taxable accounts; the fund is most sensible in retirement accounts or for very long-term holders indifferent to annual tax consequences. Liquidity is good—the fund is reasonably liquid on major exchanges.
 
 ## Who BCTK suits
 
-BCTK appeals to long-term investors with high risk tolerance who believe Baron Capital's technology research produces excess returns worth the concentration and volatility. It suits retirement accounts and investors comfortable with a tight, actively managed portfolio. It is ill-suited for income seekers, risk-averse investors, or those wanting broad, low-volatility diversification.
+BCTK appeals to long-term investors with high risk tolerance who believe Baron Capital's technology research produces excess returns worth the concentration and volatility. It suits retirement accounts and investors comfortable with a tight, actively managed portfolio. It is ill-suited for income seekers, risk-averse investors, or those wanting broad, low-volatility [diversification](/diversification/).
 
 ## Researching BCTK
 

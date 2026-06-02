@@ -25,7 +25,7 @@ handwritten: true
 </table>
 </aside>
 
-T-Mobile operates the third major wireless network in the United States, a facilities-based carrier that owns spectrum licenses and physical infrastructure and sells access to it. The company derives the bulk of its income from monthly subscriptions — postpaid accounts that operate on contracts, prepaid services, and business plans — and supplements that with device sales, tower leasing, and a newer home internet offering. With over 100 million customers, T-Mobile is far smaller than Verizon and AT&T by market cap and revenue, yet large enough to be profitable and to invest meaningfully in network upgrades.
+T-Mobile operates the third major wireless network in the United States, a facilities-based carrier that owns spectrum licenses and physical infrastructure and sells access to it. The company derives the bulk of its income from monthly subscriptions — postpaid accounts that operate on contracts, prepaid services, and business plans — and supplements that with device sales, tower leasing, and a newer home internet offering. With over 100 million customers, T-Mobile is far smaller than Verizon and AT&T by [market cap](/market-capitalization/) and revenue, yet large enough to be profitable and to invest meaningfully in network upgrades.
 
 ## The products and revenue streams
 
@@ -39,7 +39,7 @@ The wireless subscription revenue is highly predictable and recurring, which is 
 
 Wireless carriers cannot exist without spectrum — radio frequencies licensed by the Federal Communications Commission. T-Mobile's portfolio is diverse:
 
-- **600 MHz (low-band):** Covers vast areas with moderate penetration into buildings; the foundation of nationwide coverage. T-Mobile acquired significant 600 MHz holdings from the Sprint merger.
+- **600 MHz (low-band):** Covers vast areas with moderate penetration into buildings; the foundation of nationwide coverage. T-Mobile acquired significant 600 MHz holdings from the Sprint [merger](/merger/).
 - **2.5 GHz / n41 (mid-band):** The backbone of modern 5G; faster than low-band but shorter range. T-Mobile has rich mid-band depth.
 - **Millimetre-wave (high-band):** Extremely fast but only useful in densely populated urban areas with line of sight.
 
@@ -73,10 +73,10 @@ The 2020 merger with Sprint was transformative. It eliminated a fourth major com
 
 Start with the company's 10-K (SEC CIK 0001283699), which itemizes revenue by customer type, provides capex guidance, discusses spectrum licenses and their terms, and outlines risk factors.
 
-Quarterly earnings are where the narrative unfolds: track postpaid net additions and churn versus competitors, ARPU trends, prepaid momentum, free cash flow, and management commentary on 5G deployment and market share. Compare T-Mobile's gross margins, operating margins, and return on capital to Verizon and AT&T to understand competitive positioning.
+Quarterly earnings are where the narrative unfolds: track postpaid net additions and churn versus competitors, ARPU trends, prepaid momentum, [free cash flow](/free-cash-flow/), and management commentary on 5G deployment and market share. Compare T-Mobile's gross margins, [operating margins](/operating-margin/), and return on capital to Verizon and AT&T to understand competitive positioning.
 
 Monitor FCC spectrum auctions and licensing decisions. Follow announcements from Verizon and AT&T on pricing, network upgrades, and competitive moves. Watch for any regulatory proposal aimed at price controls or forced infrastructure sharing.
 
-Consider macroeconomic conditions: device upgrade cycles correlate with consumer spending and tech-refresh momentum. Recessions historically hit prepaid harder than postpaid as customers trade down. Interest-rate cycles affect both capex funding costs and consumer ability to buy devices.
+Consider macroeconomic conditions: device upgrade cycles correlate with consumer spending and tech-refresh momentum. [Recessions](/recession/) historically hit prepaid harder than postpaid as customers trade down. Interest-rate cycles affect both capex funding costs and consumer ability to buy devices.
 
 T-Mobile is a stable, mature cash-generative business competing in a three-player market where further consolidation is barred. The upside depends on incremental market share gains, home internet scale, and margin expansion. The downside risks are churn, pricing compression, and regulatory constraints.

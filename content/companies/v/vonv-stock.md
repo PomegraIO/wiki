@@ -11,17 +11,17 @@ keywords:
 handwritten: true
 ---
 
-The Vanguard Russell 1000 Value ETF (VONV) is a passively managed exchange-traded fund that tracks the Russell 1000 Value index, a subset of large-cap U.S. stocks screened for value characteristics. It offers investors a straightforward, low-cost way to gain exposure to the value segment of the domestic stock market.
+The Vanguard Russell 1000 Value ETF (VONV) is a passively managed exchange-traded fund that tracks the Russell 1000 Value index, a subset of large-cap U.S. stocks screened for value characteristics. It offers investors a straightforward, low-cost way to gain exposure to the value segment of the domestic [stock market](/stock-market/).
 
 ## What index does VONV track?
 
-The Russell 1000 Value index is constructed from the 1,000 largest U.S. companies by market capitalization, filtered to include only those that exhibit value characteristics — namely lower price-to-book and price-to-earnings ratios relative to their growth prospects. Russell uses these metrics to classify companies as either "Growth" or "Value" rather than applying a strict cutoff; the classification is relative within the set. Because the Russell construction tilts heavily toward profitability and lower valuations, the resulting index typically excludes expensive technology and biotechnology companies that dominate growth indices.
+The Russell 1000 Value index is constructed from the 1,000 largest U.S. companies by [market capitalization](/market-capitalization/), filtered to include only those that exhibit value characteristics — namely lower price-to-book and [price-to-earnings ratios](/price-to-earnings-ratio/) relative to their growth prospects. Russell uses these metrics to classify companies as either "Growth" or "Value" rather than applying a strict cutoff; the classification is relative within the set. Because the Russell construction tilts heavily toward profitability and lower valuations, the resulting index typically excludes expensive technology and biotechnology companies that dominate growth indices.
 
 The index reconstitutes annually in June, meaning Russell rebuilds its constituent list each year to reflect which large-cap stocks currently meet the value criteria. This annual reset means VONV experiences modest turnover as companies move between the Value and Growth indices or fall below the 1,000-company cutoff.
 
 ## How does VONV's cost structure work?
 
-VONV carries one of the lowest expense ratios available for value index funds. Vanguard's scale and reputation for cost leadership have made this fund particularly efficient for long-term holders. The fund trades on NASDAQ with typical daily volumes in the millions of shares, so bid-ask spreads are tight and slippage is minimal for most trade sizes. Income distributions arrive quarterly as dividends from the underlying stocks; because value stocks historically pay higher yields than growth stocks, VONV's yield tends to be notably higher than broad market index funds.
+VONV carries one of the lowest [expense ratios](/expense-ratio/) available for value [index funds](/index-fund/). Vanguard's scale and reputation for cost leadership have made this fund particularly efficient for long-term holders. The fund trades on [NASDAQ](/nasdaq/) with typical daily volumes in the millions of shares, so [bid-ask spreads](/bid-ask-spread/) are tight and slippage is minimal for most trade sizes. Income distributions arrive quarterly as [dividends](/dividend/) from the underlying stocks; because value stocks historically pay higher yields than growth stocks, VONV's yield tends to be notably higher than broad market index funds.
 
 ## Which sectors does VONV hold?
 
@@ -31,7 +31,7 @@ Value stocks are disproportionately represented in sectors such as financials, i
 
 Style drift is the primary concern. If value stocks broadly underperform growth stocks for extended periods — as happened notably from 2015 through much of the 2020s — VONV will lag a diversified fund tracking the entire Russell 1000 or the broader market. Over long periods, growth has periodically dominated value, and no investor can reliably predict which style will lead next. The fund is therefore best suited to investors comfortable with the possibility of trailing the broader market for years at a time.
 
-A second risk is concentration. Although the fund holds 800+ stocks, the largest positions account for a meaningful fraction of assets. The Russell methodology does not explicitly cap position size, so if a few very large value stocks dominate the index, they dominate the fund. Economic shocks that disproportionately harm value-oriented sectors — such as shifts toward tech-driven productivity or changes in interest rates that reduce the relative appeal of dividend-paying stocks — can cause the index to lose ground to broader alternatives.
+A second risk is concentration. Although the fund holds 800+ stocks, the largest positions account for a meaningful fraction of assets. The Russell methodology does not explicitly cap position size, so if a few very large value stocks dominate the index, they dominate the fund. Economic shocks that disproportionately harm value-oriented sectors — such as shifts toward tech-driven productivity or changes in [interest rates](/interest-rate/) that reduce the relative appeal of dividend-paying stocks — can cause the index to lose ground to broader alternatives.
 
 Tracking error is minimal in practice, as Vanguard's index funds are engineered to match their target indices extremely closely.
 

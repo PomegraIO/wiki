@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Nixxy, Inc. is a warrant company — a publicly traded shell vehicle that issues tradeable warrant contracts to investors. A warrant is a derivative instrument that gives the holder the right, but not the obligation, to buy an underlying security at a fixed strike price. Unlike traditional index funds or stock purchases, warrants offer leveraged exposure to price movements: you control a larger position with a smaller upfront investment, but your downside is limited to the premium you paid for the warrant. Nixxy exists as a structure to make these instruments accessible and tradeable to retail investors who might otherwise lack easy access to warrants.
+Nixxy, Inc. is a warrant company — a publicly traded shell vehicle that issues tradeable warrant contracts to investors. A warrant is a derivative instrument that gives the holder the right, but not the obligation, to buy an underlying security at a fixed [strike price](/strike-price/). Unlike traditional [index funds](/index-fund/) or stock purchases, warrants offer leveraged exposure to price movements: you control a larger position with a smaller upfront investment, but your downside is limited to the premium you paid for the warrant. Nixxy exists as a structure to make these instruments accessible and tradeable to retail investors who might otherwise lack easy access to warrants.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Nixxy, Inc. is a warrant company — a publicly traded shell vehicle that issues
 
 ## How warrants work
 
-A warrant is a simpler relative of a stock option. When you buy a warrant, you pay a premium (let's say $5) for the right to buy a share of an underlying security at a fixed strike price (let's say $100) on or before a specified expiration date. If the underlying stock rises to $120, your warrant is now worth more — roughly $20 — because you can exercise it and buy the stock for $100, pocketing the $20 difference. You made a 300% return on your $5 investment.
+A warrant is a simpler relative of a stock option. When you buy a warrant, you pay a premium (let's say $5) for the right to buy a share of an underlying security at a fixed strike price (let's say $100) on or before a specified [expiration date](/expiration-date/). If the underlying stock rises to $120, your warrant is now worth more — roughly $20 — because you can exercise it and buy the stock for $100, pocketing the $20 difference. You made a 300% return on your $5 investment.
 
 But if the stock falls to $80, your warrant expires worthless. You lose your entire $5 premium, but your loss is capped at that amount. You do not owe anything additional. This defined risk is the appeal: for a small amount of capital, you get leveraged upside, and your downside is known at the outset.
 
@@ -35,7 +35,7 @@ Warrants trade on exchanges just like stocks. You can buy and sell them before e
 
 ## Nixxy as a warrant platform
 
-Nixxy is a company structured to issue and manage warrants. It functions as the mechanism through which these derivative instruments are made publicly tradeable and standardized. The company issues warrants with specified strike prices and expiration dates, creating a transparent, exchange-traded product that retail investors can buy and sell.
+Nixxy is a company structured to issue and manage warrants. It functions as the mechanism through which these derivative instruments are made publicly tradeable and standardized. The company issues warrants with specified strike prices and [expiration dates](/expiration-contracts/), creating a transparent, exchange-traded product that retail investors can buy and sell.
 
 The structure is sometimes called a "blank-check company" because the warrant issuer does not necessarily have an explicit underlying business — it exists primarily to facilitate the warrant issuance. This is different from a traditional company whose stock represents a claim on operating assets and future earnings. Nixxy's "business" is managing the warrant contracts and maintaining the standards that allow them to trade.
 
@@ -67,6 +67,6 @@ The company also faces regulatory risk. Warrant issuance is subject to securitie
 
 Start with Nixxy's public filings (SEC CIK 0001462223) to understand the terms of any outstanding warrants it has issued. The key details are the strike price, expiration date, and underlying security for each warrant series. Track the performance of the underlying security and the implied value of the warrants based on that movement.
 
-Also pay attention to trading volume and bid-ask spreads for the warrants. If trading is thin, you may face wide spreads when trying to buy or sell, reducing your returns. Monitor any new warrant issuances Nixxy announces — the terms and the management's commentary reveal how the company is positioning itself and what exposures it sees as attractive to investors.
+Also pay attention to trading volume and [bid-ask spreads](/bid-ask-spread/) for the warrants. If trading is thin, you may face wide spreads when trying to buy or sell, reducing your returns. Monitor any new warrant issuances Nixxy announces — the terms and the management's commentary reveal how the company is positioning itself and what exposures it sees as attractive to investors.
 
 Finally, remember that warrant investing is inherently a timing bet. You are betting not just that the underlying will move in a certain direction, but that it will do so before the warrant expires. This makes warrants suitable for short-term traders and sophisticated investors comfortable with leverage and defined-expiration instruments — not for buy-and-hold portfolio investors.

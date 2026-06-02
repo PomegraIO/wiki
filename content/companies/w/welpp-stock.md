@@ -28,7 +28,7 @@ Wisconsin Electric Power Co is a utility company that supplies electricity to ho
 
 Wisconsin Electric owns three things: power plants that generate electricity, transmission lines that carry electricity long distances at high voltage, and distribution lines that carry electricity from the main grid down to your house. The company also handles billing, customer service, and the technical work of balancing supply and demand every second of every day. When you flip a light switch, electricity from Wisconsin Electric's system flows into your home.
 
-The company generates electricity in several ways. It operates coal-fired power plants, natural gas plants, nuclear plants, and increasingly solar and wind farms. Different power sources have different costs and characteristics. Coal plants are cheap to operate once built but expensive to build and bad for the environment. Natural gas plants are flexible and can turn on or off quickly to match demand. Nuclear plants are extremely expensive to build but generate cheap power once running. Renewables like wind and solar are getting cheaper but depend on weather.
+The company generates electricity in several ways. It operates coal-fired power plants, [natural gas](/natural-gas/) plants, nuclear plants, and increasingly solar and wind farms. Different power sources have different costs and characteristics. Coal plants are cheap to operate once built but expensive to build and bad for the environment. Natural gas plants are flexible and can turn on or off quickly to match demand. Nuclear plants are extremely expensive to build but generate cheap power once running. Renewables like wind and solar are getting cheaper but depend on weather.
 
 ## The regulated utility model: stability in exchange for limited profits
 
@@ -40,7 +40,7 @@ This creates an unusual incentive: a utility makes more money by investing in in
 
 Wisconsin Electric bills customers for electricity based on how much they use. Residential customers pay per kilowatt-hour. Large industrial users negotiate contracts. The bills are predictable because most people use electricity year-round and usage does not swing wildly month to month. In winter usage goes up due to heating; in summer it goes up due to air conditioning. But averaged over a year, it is stable. That means Wisconsin Electric's revenue is stable and predictable.
 
-The costs are straightforward too: fuel (coal, natural gas) to run the power plants, wages for plant operators and line workers, property taxes, depreciation on old plants being replaced by new ones, and interest on debt. The largest cost is usually fuel and operations. A spike in coal or natural gas prices hits margins. But because the company can pass large costs through to customers in rate cases, a sustained fuel-price increase usually results in higher customer bills, not lower company profits.
+The costs are straightforward too: fuel (coal, natural gas) to run the power plants, wages for plant operators and line workers, property taxes, [depreciation](/depreciation/) on old plants being replaced by new ones, and interest on debt. The largest cost is usually fuel and operations. A spike in coal or natural gas prices hits margins. But because the company can pass large costs through to customers in rate cases, a sustained fuel-price increase usually results in higher customer bills, not lower company profits.
 
 ## Capital and debt are the story
 
@@ -60,6 +60,6 @@ The third shift is electrification. More things are running on electricity — c
 
 Start with the company's 10-K filing (SEC CIK 0000107815). It breaks down revenue by customer type (residential, industrial, commercial), the mix of power generation sources, and capital expenditure plans for the next few years. The quarterly earnings calls reveal how regulators are treating rate cases and what the company plans to invest in.
 
-Watch for news about coal plant retirements, capital spending plans, and any rate case decisions. Because the business depends on regulators, regulatory decisions matter as much as company decisions. A regulator that denies a rate increase or disallows a major investment changes the return profile. The dividend is important to watch too — utilities are bought largely for stable dividends, so any cut is a significant event.
+Watch for news about coal plant retirements, capital spending plans, and any rate case decisions. Because the business depends on regulators, regulatory decisions matter as much as company decisions. A regulator that denies a rate increase or disallows a major investment changes the return profile. The [dividend](/dividend/) is important to watch too — utilities are bought largely for stable dividends, so any cut is a significant event.
 
 The key thing to understand about utilities is that they are not about beating competitors or growing faster than peers. They are about earning a fair return on a large asset base, for a long time, with minimal risk of losing the business. If that appeals to you, utilities are interesting. If you are looking for growth, they are not the place.

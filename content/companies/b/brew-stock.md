@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The Corgi Coffee & Energy Drinks ETF (ticker BREW) is a thematic exchange-traded fund that holds stocks of companies involved in the coffee and energy drink industry. Rather than holding a broad slice of the stock market, BREW focuses narrowly on one consumer theme: the businesses that produce, process, distribute, and sell coffee and energy drinks to consumers worldwide. It is designed for investors who believe that coffee and energy drink consumption will continue to grow and who want to make a bet on the companies that stand to profit from that trend.
+The Corgi Coffee & Energy Drinks ETF (ticker BREW) is a thematic exchange-traded fund that holds stocks of companies involved in the coffee and energy drink industry. Rather than holding a broad slice of the [stock market](/stock-market/), BREW focuses narrowly on one consumer theme: the businesses that produce, process, distribute, and sell coffee and energy drinks to consumers worldwide. It is designed for investors who believe that coffee and energy drink consumption will continue to grow and who want to make a bet on the companies that stand to profit from that trend.
 
 <aside class="wiki-infobox">
 <table>
@@ -31,15 +31,15 @@ The selection methodology screens for companies with material exposure to the co
 
 ## Risk and concentration
 
-A thematic fund like BREW inherently carries more concentration risk than a broad-market fund. By definition, it holds only companies in a single industry theme, not a diversified mix across all of the economy. This means the fund's returns are heavily dependent on how that particular theme performs. If coffee and energy drink companies struggle, the fund struggles with them. There is no cushion from uncorrelated sectors like utilities or staples to offset losses.
+A thematic fund like BREW inherently carries more [concentration risk](/concentration-risk/) than a broad-market fund. By definition, it holds only companies in a single industry theme, not a diversified mix across all of the economy. This means the fund's returns are heavily dependent on how that particular theme performs. If coffee and energy drink companies struggle, the fund struggles with them. There is no cushion from uncorrelated sectors like utilities or staples to offset losses.
 
 Additionally, the coffee and energy drink industries are competitive and face headwinds from time to time. Companies battle for market share, regulatory changes can affect product formulation or marketing, and consumer preferences can shift. A fund that rises and falls entirely with these companies' fortunes will be more volatile than the broader market.
 
 ## How it trades and what it costs
 
-BREW trades throughout the day on a stock exchange at prices set by the market, just like any ETF. The fund charges an expense ratio to cover management and operational costs. Because it is a more specialized, thematic product rather than a broad index fund, the expense ratio is typically higher than a fund tracking the entire stock market.
+BREW trades throughout the day on a [stock exchange](/stock-exchange/) at prices set by the market, just like any ETF. The fund charges an [expense ratio](/expense-ratio/) to cover management and operational costs. Because it is a more specialized, thematic product rather than a broad [index fund](/index-fund/), the expense ratio is typically higher than a fund tracking the entire stock market.
 
-The liquidity of the fund depends on how many investors trade in and out of it. A popular thematic fund will have tight bid-ask spreads and efficient trading; a less-liquid thematic fund may have wider spreads and higher friction costs for individual investors.
+The liquidity of the fund depends on how many investors trade in and out of it. A popular thematic fund will have tight [bid-ask spreads](/bid-ask-spread/) and efficient trading; a less-liquid thematic fund may have wider spreads and higher friction costs for individual investors.
 
 ## Performance cycles and research
 

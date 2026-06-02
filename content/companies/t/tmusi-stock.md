@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-T-Mobile is a wireless carrier: it owns spectrum, operates towers, and sells monthly subscriptions for calls, texts, and data to over 100 million customers. Born from the 2013 merger of T-Mobile and MetroPCS, and significantly enlarged by the 2020 acquisition of Sprint, it sits as the third national player in a three-company market alongside Verizon and AT&T. The business is cyclical yet stable — tied to device upgrade patterns and economic conditions — but the company has navigated the past decade by emphasizing price and 5G, while carving share from competitors.
+T-Mobile is a wireless carrier: it owns spectrum, operates towers, and sells monthly subscriptions for calls, texts, and data to over 100 million customers. Born from the 2013 [merger](/merger/) of T-Mobile and MetroPCS, and significantly enlarged by the 2020 [acquisition](/acquisition/) of Sprint, it sits as the third national player in a three-company market alongside Verizon and AT&T. The business is cyclical yet stable — tied to device upgrade patterns and economic conditions — but the company has navigated the past decade by emphasizing price and 5G, while carving share from competitors.
 
 <aside class="wiki-infobox">
 <table>
@@ -71,9 +71,9 @@ Watch quarterly earnings for:
 - Postpaid net additions and churn
 - Prepaid trends (more volatile, lower-margin)
 - ARPU trends — stable or eroding?
-- Free cash flow — is capex crowding out shareholder returns?
+- [Free cash flow](/free-cash-flow/) — is capex [crowding out](/crowding-out/) shareholder returns?
 - 5G deployment progress relative to AT&T and Verizon
 
-Follow FCC spectrum auctions and licensing decisions. Monitor competitive announcements from Verizon and AT&T on pricing, 5G, and home internet. Watch for any regulatory move toward price controls or forced unbundling. Evaluate macro conditions — device upgrade cycles are correlated to consumer spending; recessions hit prepaid harder than postpaid.
+Follow FCC spectrum auctions and licensing decisions. Monitor competitive announcements from Verizon and AT&T on pricing, 5G, and home internet. Watch for any regulatory move toward price controls or forced unbundling. Evaluate macro conditions — device upgrade cycles are correlated to consumer spending; [recessions](/recession/) hit prepaid harder than postpaid.
 
 T-Mobile is a mature, stable cash-flow business with genuine network advantages if its 5G lead is durable, but also a company where scale and regulatory approval are already maximized. The upside is incremental — margin expansion, market share gains, or secular growth in home internet. Downside risks are pricing compression, churn, and regulatory pressure.

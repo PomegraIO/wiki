@@ -26,7 +26,7 @@ handwritten: true
 
 ## From search engine to AI platform
 
-Baidu began in 2000 as a search engine for Chinese-language web content, rapidly becoming the dominant search platform in China. For the first decade of operation, the company's revenue came almost entirely from search advertising, the same model that powered Google in the West. Baidu went public on NASDAQ in 2005 under ticker BIDU, becoming one of the first major Chinese internet firms to list on a U.S. exchange.
+Baidu began in 2000 as a search engine for Chinese-language web content, rapidly becoming the dominant search platform in China. For the first decade of operation, the company's revenue came almost entirely from search advertising, the same model that powered Google in the West. Baidu went public on [NASDAQ](/nasdaq/) in 2005 under ticker BIDU, becoming one of the first major Chinese internet firms to list on a U.S. exchange.
 
 The company diversified meaningfully over the following years. Maps, streaming video, cloud computing, and financial services all became material business lines. By the late 2010s, Baidu had shifted strategic emphasis toward artificial intelligence and autonomous vehicles. The company launched Apollo, an autonomous-driving platform, and invested heavily in large language models and machine learning. This pivot positioned Baidu as a play on Chinese AI development rather than simply a search advertising company.
 
@@ -48,7 +48,7 @@ When held over periods longer than one day, KBDU experiences volatility decay â€
 
 Consider a simple case: Baidu trades at $100 and rises 10 per cent to $110, then falls 10 per cent to $99. The underlying stock is down 1 per cent overall. KBDU, rebalancing daily at 2x, gains roughly 20 per cent on day one to $120, then loses roughly 20 per cent on day two, arriving at approximately $96. The leveraged fund ends down 4 per cent, roughly four times the underlying loss.
 
-This is not a flaw; it is a mathematical property of daily rebalancing. The longer you hold KBDU, the more volatility decay erodes the fund's value relative to simply holding BIDU and reinvesting. For investors with holding periods longer than a few days or weeks, an unlevered position in BIDU makes far more sense.
+This is not a flaw; it is a mathematical property of daily rebalancing. The longer you hold KBDU, the more volatility decay erodes the fund's value relative to simply holding BIDU and reinvesting. For investors with [holding periods](/holding-period/) longer than a few days or weeks, an unlevered position in BIDU makes far more sense.
 
 ## Baidu's competitive and regulatory position
 
@@ -58,9 +58,9 @@ These fundamental challenges affect KBDU directly. If Baidu faces regulatory set
 
 ## Costs and the hidden drag
 
-KBDU charges an expense ratio above that of unlevered equity ETFs, covering the cost of maintaining leverage infrastructure and executing daily rebalancing. These costs compound over time. Combined with volatility decay, they create a significant headwind against multi-week or multi-month holding periods.
+KBDU charges an [expense ratio](/expense-ratio/) above that of unlevered [equity ETFs](/equity-etf/), covering the cost of maintaining leverage infrastructure and executing daily rebalancing. These costs compound over time. Combined with volatility decay, they create a significant headwind against multi-week or multi-month holding periods.
 
-The fund also carries concentration risk: the entire position depends on one company's performance, with no diversification buffer. Leverage means a 50 per cent drop in BIDU results in approximately a 100 per cent loss in KBDU.
+The fund also carries [concentration risk](/concentration-risk/): the entire position depends on one company's performance, with no [diversification](/diversification/) buffer. Leverage means a 50 per cent drop in BIDU results in approximately a 100 per cent loss in KBDU.
 
 ## Who should use this fund
 

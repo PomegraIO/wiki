@@ -49,7 +49,7 @@ This kind of strategic reinvention is common in small biotechs that lack near-te
 
 ## The state of the business
 
-Oragenics is pre-revenue — it has no FDA-approved medicines and no product sales. It operates as a research company, spending money on clinical trials and development. This is standard for clinical-stage biotechs, but it means the company burns cash and depends on access to capital markets for funding. The company has undergone multiple capital raises to sustain operations, and like many small-cap biotechs, it carries a "going concern" qualification in its audit reports, meaning auditors have flagged doubt about the company's ability to continue as a going concern without additional financing.
+Oragenics is pre-revenue — it has no FDA-approved medicines and no product sales. It operates as a research company, spending money on clinical trials and development. This is standard for clinical-stage biotechs, but it means the company burns cash and depends on access to capital markets for funding. The company has undergone multiple capital raises to sustain operations, and like many small-cap biotechs, it carries a "[going concern](/going-concern/)" qualification in its audit reports, meaning auditors have flagged doubt about the company's ability to continue as a going concern without additional financing.
 
 This is not unique to Oragenics — pre-revenue biotechs often see going-concern warnings — but it does signal that cash runway is finite and the company must either raise capital, partner with larger pharma, or advance a candidate to revenue-generating approval in the near term.
 

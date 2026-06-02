@@ -25,7 +25,7 @@ Brandywine Realty Trust is a [real estate investment trust](/real-estate-investm
 </table>
 </aside>
 
-Brandywine's value proposition to investors is straightforward: exposure to real estate as an inflation hedge, a source of dividend income, and a portfolio diversifier. But the company's competitive position in the real estate market is under acute pressure from structural shifts in how and where people work.
+Brandywine's value proposition to investors is straightforward: exposure to real estate as an [inflation](/inflation/) hedge, a source of dividend income, and a portfolio diversifier. But the company's competitive position in the real estate market is under acute pressure from structural shifts in how and where people work.
 
 ## The office-market headwind
 
@@ -55,4 +55,4 @@ REITs borrow heavily to finance property [acquisitions](/acquisition/), and [int
 
 Start with the 10-K filing (SEC CIK 0000790816) to understand the geographic and property-type breakdown of revenue, the weighted-average lease term remaining on current leases, and the refinancing schedule of the company's debt. A REIT with leases expiring all at once faces more risk than one with a ladder of lease expirations spread over years. Watch quarterly occupancy rates and rent trends — if occupancy is falling or rents are under pressure in specific markets, that is a red flag. Compare Brandywine's dividend yield and [payout ratio](/payout-ratio/) to those of other REITs and to the broader market; an unusually high yield may signal that the market views the dividend as at risk.
 
-Track the company's capital allocation strategy. Is management maintaining the industrial portfolio while letting office properties age? Are they acquiring new industrial properties or selling office ones? Industry reports on office and industrial real estate provide market context — knowing whether overall office leasing is stable, declining, or in free fall helps you assess Brandywine's outlook relative to the sector. Finally, monitor [refinancing risks](/refinancing-risk/): if a significant tranche of debt is maturing in the next 12 months, watch whether the company successfully refinances at reasonable rates and what the impact on the dividend might be.
+Track the company's capital allocation strategy. Is management maintaining the industrial portfolio while letting office properties age? Are they acquiring new industrial properties or selling office ones? Industry reports on office and industrial real estate provide market context — knowing whether overall office leasing is stable, declining, or in free fall helps you assess Brandywine's outlook relative to the sector. Finally, monitor [refinancing risks](/refinancing-risk/): if a significant [tranche](/tranche/) of debt is maturing in the next 12 months, watch whether the company successfully refinances at reasonable rates and what the impact on the dividend might be.

@@ -23,13 +23,13 @@ handwritten: true
 </table>
 </aside>
 
-The Defiance Nasdaq 100 Weekly Distribution ETF aims for approximately 30% annualized distributions by pairing long exposure to the Nasdaq-100 Index with daily short call spreads. Unlike traditional funds that seek capital appreciation, QQQY is built for current income. It pays that income weekly, creating a high-frequency distribution schedule that appeals to investors who live on portfolio distributions or who want to reinvest premiums regularly.
+The Defiance [Nasdaq](/nasdaq/) 100 Weekly Distribution ETF aims for approximately 30% annualized distributions by pairing long exposure to the Nasdaq-100 Index with daily short [call spreads](/call-spread/). Unlike traditional funds that seek capital appreciation, QQQY is built for current income. It pays that income weekly, creating a high-frequency distribution schedule that appeals to investors who live on portfolio distributions or who want to reinvest premiums regularly.
 
 ## How the weekly income engine works
 
 Each trading day, QQQY sells call spreads on the Nasdaq-100 Index. A call spread is a defined-risk options structure: sell an at-the-money or slightly out-of-the-money call, buy a call further out of the money. The premium collected from the sale is partially paid out to buy the upper call, leaving a net debit (the cost of the spread) or a net credit (pure premium). The fund aims to structure spreads that generate net credits, and those credits accumulate over the course of the week before being distributed. Roll new spreads every business day and the weekly distribution is built from the accumulation of five days of premium income.
 
-The target of 30% annual yield assumes prevailing conditions of moderate volatility in the Nasdaq-100. When implied volatility is elevated — during periods of market stress or sector rotations — the premiums on call spreads swell, and distributions may exceed the 30% target. When volatility contracts, premiums shrivel and distributions shrink. The fund does not guarantee any distribution at all; the prospectus makes clear that distributions depend on the fund's ability to sell profitable call spreads.
+The target of 30% annual yield assumes prevailing conditions of moderate volatility in the Nasdaq-100. When [implied volatility](/implied-volatility/) is elevated — during periods of market stress or [sector rotations](/sector-rotation/) — the premiums on call spreads swell, and distributions may exceed the 30% target. When volatility contracts, premiums shrivel and distributions shrink. The fund does not guarantee any distribution at all; the prospectus makes clear that distributions depend on the fund's ability to sell profitable call spreads.
 
 ## The long position and the cap on upside
 
@@ -41,7 +41,7 @@ Selling spreads every day for a year means the fund faces the compounding effect
 
 ## Distributions and tax considerations
 
-Weekly distributions are taxable events in non-retirement accounts. Because distributions consist primarily of option premiums and gains from the sold calls, the tax character may be ordinary income, short-term capital gains, or a blend, depending on how Defiance structures the fund accounting. Investors should review the fund's distributions reporting to understand the tax character of each payment. Reinvesting distributions automatically is convenient, but the tax liability accrues even if the distribution is reinvested.
+Weekly distributions are taxable events in non-retirement accounts. Because distributions consist primarily of [option premiums](/option-premium/) and gains from the sold calls, the tax character may be ordinary income, short-term capital gains, or a blend, depending on how Defiance structures the [fund accounting](/fund-accounting/). Investors should review the fund's distributions reporting to understand the tax character of each payment. Reinvesting distributions automatically is convenient, but the tax liability accrues even if the distribution is reinvested.
 
 ## Who this fund serves
 
@@ -49,7 +49,7 @@ QQQY is built for retirees and investors who need regular income and are comfort
 
 ## Costs and execution
 
-QQQY trades on the Nasdaq under its ticker with liquidity typical of a moderately popular active ETF. The expense ratio covers Defiance's active management, the cost of executing daily option trades, and administrative expenses. The bid-ask spread depends on the liquidity of the secondary market; during normal conditions, spreads are tight, but during market stress the spread can widen. The fund also faces slippage and market impact from rolling thousands of dollars in options positions every single day. These execution costs are implicit and not itemized separately but are material.
+QQQY trades on the Nasdaq under its ticker with liquidity typical of a moderately popular [active ETF](/active-etf/). The [expense ratio](/expense-ratio/) covers Defiance's active management, the cost of executing daily option trades, and administrative expenses. The [bid-ask spread](/bid-ask-spread/) depends on the liquidity of the [secondary market](/secondary-market/); during normal conditions, spreads are tight, but during market stress the spread can widen. The fund also faces slippage and market impact from rolling thousands of dollars in options positions every single day. These execution costs are implicit and not itemized separately but are material.
 
 ## How to evaluate QQQY
 

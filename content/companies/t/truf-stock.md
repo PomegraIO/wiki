@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **VanEck Financials TruSector ETF** (TRUF) is an equal-weight sector fund holding a broad cross-section of large and mid-cap US financial institutions: commercial banks, investment banks, insurance companies, investment managers, credit companies, and specialised mortgage and finance businesses. The fund reflects the modern financial sector as it emerged from post-war regulation and evolved through successive crises and deregulation.*
+*The **VanEck Financials TruSector ETF** (TRUF) is an equal-weight [sector fund](/sector-fund/) holding a broad cross-section of large and mid-cap US financial institutions: commercial banks, investment banks, insurance companies, investment managers, credit companies, and specialised mortgage and finance businesses. The fund reflects the modern financial sector as it emerged from post-war regulation and evolved through successive crises and deregulation.*
 
 <aside class="wiki-infobox">
 <table>
@@ -28,29 +28,29 @@ handwritten: true
 
 ## The postwar banking structure
 
-American banking after World War II operated under Glass-Steagall, a framework that separated commercial banking from investment banking. Institutions like JPMorgan Chase and Bank of America grew as commercial lenders—taking deposits, making loans, holding capital reserves. This period defined the basic profit model: borrow short (deposits), lend long (mortgages, business loans), and pocket the spread between the two. Savings and loan institutions specialised in residential mortgages. Insurance companies—Berkshire Hathaway, Prudential, MetLife—built stable businesses from underwriting and investing premium reserves.
+American banking after World War II operated under Glass-Steagall, a framework that separated commercial banking from investment banking. Institutions like [JPMorgan Chase](/jpmorgan-chase/) and [Bank of America](/bank-of-america/) grew as commercial lenders—taking deposits, making loans, holding capital reserves. This period defined the basic profit model: borrow short (deposits), lend long (mortgages, business loans), and pocket the spread between the two. Savings and loan institutions specialised in residential mortgages. Insurance companies—[Berkshire Hathaway](/brk-b-stock/), Prudential, MetLife—built stable businesses from underwriting and investing premium reserves.
 
-The structure was stable but constrained. Banks could not trade securities or underwrite stock offerings. Investment banks like Goldman Sachs and Morgan Stanley operated separately, living on advisory fees and trading profits, but were banned from taking deposits. This artificial separation persisted for decades because it aligned the interests of banks (stable, regulated, protected) with public safety (less systemic risk).
+The structure was stable but constrained. Banks could not trade securities or underwrite stock offerings. Investment banks like [Goldman Sachs](/goldman-sachs/) and [Morgan Stanley](/morgan-stanley/) operated separately, living on advisory fees and trading profits, but were banned from taking deposits. This artificial separation persisted for decades because it aligned the interests of banks (stable, regulated, protected) with public safety (less [systemic risk](/systemic-risk/)).
 
 ## Deregulation and integration
 
-Starting in the 1980s and accelerating through the 1990s, regulatory barriers eroded. The Gramm-Leach-Bliley Act of 1999 formally repealed Glass-Steagall, allowing commercial and investment banking to consolidate. JPMorgan merged with Chase Manhattan, then bought Bear Stearns (investment bank) and Washington Mutual (savings bank). Bank of America bought Merrill Lynch. Citigroup became a financial supermarket holding a commercial bank, investment bank, and insurance operations under one roof.
+Starting in the 1980s and accelerating through the 1990s, regulatory barriers eroded. The [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/) of 1999 formally repealed Glass-Steagall, allowing commercial and investment banking to consolidate. JPMorgan merged with Chase Manhattan, then bought Bear Stearns (investment bank) and Washington Mutual (savings bank). Bank of America bought Merrill Lynch. [Citigroup](/c-stock/) became a financial supermarket holding a commercial bank, investment bank, and insurance operations under one roof.
 
 This consolidation created megabanks with massive capital bases, sophisticated trading operations, and diversified revenue streams. But it also concentrated systemic risk: if one mega-institution failed, the ripple would spread across deposits, capital markets, and lending simultaneously. The financial crisis of 2008—triggered by mortgage-backed securities and cascading bank failures—proved the concern warranted.
 
 ## Post-crisis regulation and today's landscape
 
-After 2008, regulators imposed new requirements: higher capital reserves, stress testing, living wills, limits on proprietary trading (the Volcker Rule). The largest banks became even larger and more tightly regulated, while community and regional banks remained smaller and simpler. Investment management firms (BlackRock, Vanguard, Fidelity) rose to prominence as passive and active asset management grew. Insurance companies adapted to a low-rate environment by seeking higher returns and simplifying product lines. Mortgage REITs emerged as a distinct category, financing residential and commercial property through securitised pools.
+After 2008, regulators imposed new requirements: higher capital reserves, [stress testing](/stress-testing/), [living wills](/living-will/), limits on proprietary trading (the [Volcker Rule](/volcker-rule/)). The largest banks became even larger and more tightly regulated, while community and regional banks remained smaller and simpler. Investment management firms ([BlackRock](/blk-stock/), Vanguard, Fidelity) rose to prominence as passive and active asset management grew. Insurance companies adapted to a low-rate environment by seeking higher returns and simplifying product lines. [Mortgage REITs](/mortgage-reit/) emerged as a distinct category, financing residential and commercial property through securitised pools.
 
-Today's financial sector is not one thing. It is commercial banking (taking deposits, making loans), investment banking (trading, advisory, underwriting), asset management (managing other people's money for fees), insurance (underwriting and reserves), and specialty finance (mortgages, consumer credit, commercial real estate finance).
+Today's financial sector is not one thing. It is commercial banking (taking deposits, making loans), investment banking (trading, advisory, underwriting), asset management (managing other people's money for fees), insurance (underwriting and reserves), and specialty finance (mortgages, consumer credit, [commercial real estate](/commercial-real-estate/) finance).
 
 ## What TRUF holds and how they make money
 
-A typical TRUF portfolio spans JPMorgan Chase, Bank of America, Wells Fargo (commercial banks); Goldman Sachs, Morgan Stanley (investment banks); BlackRock, Vanguard, Invesco (asset managers); Berkshire Hathaway, Allstate, Travelers (insurance); and firms like Fannie Mae and regional banks. Each holds 2 to 4 percent due to equal weighting.
+A typical TRUF portfolio spans [JPMorgan Chase](/jpm-stock/), Bank of America, [Wells Fargo](/wells-fargo/) (commercial banks); Goldman Sachs, Morgan Stanley (investment banks); BlackRock, Vanguard, Invesco (asset managers); Berkshire Hathaway, Allstate, Travelers (insurance); and firms like [Fannie Mae](/fannie-mae/) and regional banks. Each holds 2 to 4 percent due to equal weighting.
 
 Commercial banks profit from the spread between deposit rates and lending rates, plus fee income from advisory, payments, and asset management. Investment banks earn from trading, underwriting, and advisory fees. Asset managers earn percentage-of-assets fees on trillions under management. Insurance companies earn underwriting profit (if premiums exceed payouts) and investment income. Mortgage REITs borrow short and lend long through mortgage securities, using leverage to amplify returns—and losses.
 
-The sector as a whole is cyclical and sensitive to interest rates. When rates rise, banks earn wider spreads but borrowers default more. When rates fall, spreads compress. Regulation shapes profitability: tighter capital rules reduce leverage and return on equity but add safety. Credit cycles matter enormously: during expansions, loan losses decline and valuations rise; during recessions, loan losses spike and valuations crater.
+The sector as a whole is cyclical and sensitive to [interest rates](/interest-rate/). When rates rise, banks earn wider spreads but borrowers default more. When rates fall, spreads compress. Regulation shapes profitability: tighter capital rules reduce leverage and [return on equity](/return-on-equity/) but add safety. Credit cycles matter enormously: during expansions, loan losses decline and valuations rise; during [recessions](/recession/), loan losses spike and valuations crater.
 
 ## Why equal-weight for financials
 
@@ -58,7 +58,7 @@ The financial sector is dominated by a handful of megabanks. A market-cap-weight
 
 ## Costs and investor fit
 
-TRUF's expense ratio is around 0.26 percent—among the lowest in the sector—reflecting straightforward equal-weight rebalancing and decent trading volume in the holdings. The fund suits investors who believe financial institutions will remain profitable and who want broad sector exposure without overweighting megabanks. It is also useful for tactical plays: rotating into TRUF when interest rates are rising (wider spreads for banks), credit fundamentals are strong, and regulatory pressure is easing.
+TRUF's [expense ratio](/expense-ratio/) is around 0.26 percent—among the lowest in the sector—reflecting straightforward equal-weight rebalancing and decent trading volume in the holdings. The fund suits investors who believe financial institutions will remain profitable and who want broad sector exposure without overweighting megabanks. It is also useful for tactical plays: rotating into TRUF when interest rates are rising (wider spreads for banks), credit fundamentals are strong, and regulatory pressure is easing.
 
 However, financial stocks are volatile and sensitive to macroeconomic shocks. TRUF amplifies that volatility relative to a broad market index, so it is best suited to investors with multi-year horizons and tolerance for downside risk.
 

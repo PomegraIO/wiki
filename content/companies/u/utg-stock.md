@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-REAVES Utility Income Fund is not a single company but a basket of investments—a closed-end fund that holds stocks in electric utilities, water companies, and pipelines, alongside bonds issued by the same sector. The fund itself trades as a stock (ticker UTG on the NYSE) and is constructed to pay a high [current yield](/current-yield/) to investors who want steady income from the essential infrastructure that modern life depends on.
+REAVES Utility [Income Fund](/income-fund/) is not a single company but a basket of investments—a closed-end fund that holds stocks in electric utilities, water companies, and pipelines, alongside [bonds](/bond/) issued by the same sector. The fund itself trades as a stock (ticker UTG on the NYSE) and is constructed to pay a high [current yield](/current-yield/) to investors who want steady income from the essential infrastructure that modern life depends on.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,9 +27,9 @@ REAVES Utility Income Fund is not a single company but a basket of investments�
 
 ## Why utilities matter, and why someone would bundle them
 
-Utility companies own and operate the infrastructure—power lines, water pipes, gas distribution networks—that connects electricity, water, and natural gas to homes and businesses. Because they provide essential services, they are regulated monopolies in most jurisdictions: a single company gets the exclusive right to serve a region, and a regulator sets the rates they can charge to ensure profitability without excess profit-taking.
+Utility companies own and operate the infrastructure—power lines, water pipes, gas distribution networks—that connects electricity, water, and [natural gas](/natural-gas/) to homes and businesses. Because they provide essential services, they are regulated monopolies in most jurisdictions: a single company gets the exclusive right to serve a region, and a regulator sets the rates they can charge to ensure profitability without excess profit-taking.
 
-That regulated structure makes utilities fundamentally different from other stocks. They grow slowly (tied to population growth and inflation), they are not subject to the same competitive pressures as other industries, and they are required by law to be reliable. The tradeoff is that regulators cap profit margins, which means utility stocks are not growth engines. What they are instead is income sources: utilities are required to distribute a large portion of their earnings to shareholders as dividends, and those dividends are steady and predictable because the earnings are predictable.
+That regulated structure makes utilities fundamentally different from other stocks. They grow slowly (tied to population growth and [inflation](/inflation/)), they are not subject to the same competitive pressures as other industries, and they are required by law to be reliable. The tradeoff is that regulators cap profit margins, which means utility stocks are not growth engines. What they are instead is income sources: utilities are required to distribute a large portion of their earnings to shareholders as [dividends](/dividend/), and those dividends are steady and predictable because the earnings are predictable.
 
 An investor who wants income and stability buys utility stocks. An investor who wants to outsource the selection of which utilities to buy, while also collecting income from some bonds in the sector, buys a utility fund. REAVES Utility Income Fund exists for that second investor.
 
@@ -43,7 +43,7 @@ REAVES Utility Income Fund is a closed-end fund, which means its share price can
 
 ## What is actually in the portfolio
 
-A closed-end fund that invests in utilities and utility bonds holds a diversified basket of the major electric utilities (companies like [NextEra Energy](/nee-stock/), [Duke Energy](/duk-stock/), [American Electric Power](/aep-stock/)), water utilities ([American Water Works](/awk-stock/), [Essential Utilities](/wtrg-stock/)), pipeline operators (energy infrastructure companies), and bonds issued by these same companies or their parent holding companies.
+A closed-end fund that invests in utilities and utility bonds holds a diversified basket of the major electric utilities (companies like [NextEra Energy](/nee-stock/), [Duke Energy](/duk-stock/), American Electric Power), water utilities (American Water Works, Essential Utilities), pipeline operators (energy infrastructure companies), and bonds issued by these same companies or their parent holding companies.
 
 The exact holdings shift over time as the fund manager makes decisions about which utilities offer the best risk-adjusted yield. Utility stocks vary by size—some are megacap national players, others are regional monopolies—and by their specific exposures. Some are pure electric; others also distribute natural gas or water. Some operate in regions with high demand growth; others in mature, stable markets. By combining 40 to 60 individual positions, the fund diversifies away single-company risk while maintaining the core benefit: exposure to stable, dividend-paying utility businesses.
 

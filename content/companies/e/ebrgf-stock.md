@@ -11,17 +11,17 @@ keywords:
 handwritten: true
 ---
 
-Enbridge is a Canadian company that operates pipelines. Lots of them. Think of it as a plumber for oil and gas. A company pumps crude oil out of the ground in Alberta. That oil needs to get to a refinery in the U.S. Midwest or a port on the coast. Enbridge owns the pipes that move it. The oil company pays Enbridge a fee for this service. Enbridge repeats this with hundreds of other shippers, moving thousands of barrels every day.
+Enbridge is a Canadian company that operates pipelines. Lots of them. Think of it as a plumber for oil and gas. A company pumps [crude oil](/crude-oil/) out of the ground in Alberta. That oil needs to get to a refinery in the U.S. Midwest or a port on the coast. Enbridge owns the pipes that move it. The oil company pays Enbridge a fee for this service. Enbridge repeats this with hundreds of other shippers, moving thousands of barrels every day.
 
 The business model is straightforward. You build a pipe between two places. You charge money to pump product through it. The customer pays per barrel or per unit of volume. That's the income. Subtract the cost of operating the pipe — staff, maintenance, energy, taxes — and you have profit. Add regulated returns, and you have a business that runs predictably, year after year.
 
 ## The network that crosses two countries
 
-Enbridge was born in Ontario in the 1950s as a regional gas company. It delivered gas to homes and businesses. Over time it grew into a long-distance pipeline operator. The big moment came in the 1970s when the company built its flagship line — the Mainline — to carry crude oil from Alberta to the U.S. Midwest. This was transformational. It connected North American oil production to North American refineries. By the 1980s and 1990s the company added more pipes: laterals branching off the main trunk, networks for natural gas, systems for distributing gas to cities and suburbs.
+Enbridge was born in Ontario in the 1950s as a regional gas company. It delivered gas to homes and businesses. Over time it grew into a long-distance pipeline operator. The big moment came in the 1970s when the company built its flagship line — the Mainline — to carry crude oil from Alberta to the U.S. Midwest. This was transformational. It connected North American oil production to North American refineries. By the 1980s and 1990s the company added more pipes: laterals branching off the main trunk, networks for [natural gas](/natural-gas/), systems for distributing gas to cities and suburbs.
 
 The 1990s and 2000s were growth years. Deregulation in energy markets meant transportation and production split into separate businesses. Enbridge focused on transportation. It bought gas utilities in the U.S. Midwest and acquired pipeline systems in the South. By 2010, Enbridge operated one of the largest networks on the continent. A map of the U.S. and Canada with Enbridge's pipes drawn on it looks like a nervous system. Some pipes carry crude, others carry natural gas, others carry refined products or chemicals. All of them move product between buyers and sellers.
 
-In the 2010s the company kept growing through acquisitions. It bought renewable-energy assets. It expanded into liquids handling and terminals. The business became less a single pipeline company and more an energy-infrastructure house.
+In the 2010s the company kept growing through [acquisitions](/acquisition/). It bought renewable-energy assets. It expanded into liquids handling and terminals. The business became less a single pipeline company and more an energy-infrastructure house.
 
 ## Three main segments, all regulated
 
@@ -31,13 +31,13 @@ The Natural Gas Pipelines division owns transmission lines that move gas over lo
 
 Distribution is the local utility business. The company owns systems that deliver gas to homes and businesses across Ontario, Quebec, Michigan, and other regions. Customers receive a monthly bill for the gas they used. The utility earns a regulated return on the infrastructure it owns.
 
-All three segments operate under government regulation. A regulator sets tariffs. Enbridge cannot charge more than the allowed rate. In return, the regulator guarantees that costs will be covered and the company will earn a fair return on its investment. This means stable, predictable income, but also a ceiling on profits.
+All three segments operate under government [regulation. A](/regulation-a/) regulator sets tariffs. Enbridge cannot charge more than the allowed rate. In return, the regulator guarantees that costs will be covered and the company will earn a fair return on its investment. This means stable, predictable income, but also a ceiling on profits.
 
 ## How money actually flows
 
 Enbridge has two main revenue sources: tariff-based revenues from regulated pipelines and distribution, and fees for ancillary services.
 
-On the Mainline, a barrel of crude travels 2,100 miles or more from Alberta to Chicago. Enbridge charges a tariff per barrel for this trip. If it transports 3 million barrels per day, and the tariff is 5 dollars per barrel, that is 15 million dollars per day in revenue. Costs are lower — staff, maintenance, power for pumps, property taxes — so the profit margin is significant. The tariff itself is set by a regulator and adjusted annually for inflation and costs.
+On the Mainline, a barrel of crude travels 2,100 miles or more from Alberta to Chicago. Enbridge charges a tariff per barrel for this trip. If it transports 3 million barrels per day, and the tariff is 5 dollars per barrel, that is 15 million dollars per day in revenue. Costs are lower — staff, maintenance, power for pumps, property taxes — so the profit margin is significant. The tariff itself is set by a regulator and adjusted annually for [inflation](/inflation/) and costs.
 
 In the gas distribution business, a customer in Ontario uses 100 cubic meters of gas in a month. The utility charges a per-unit rate set by the regulator, say, 5 dollars per cubic meter. The bill is 500 dollars. Multiply that by millions of customers and you have the annual distribution revenue.
 
@@ -67,8 +67,8 @@ If you are studying Enbridge, look at throughput on major pipelines. How many ba
 
 Watch regulatory decisions on new projects. Are regulators approving expansions or rejecting them? Approval means growth; rejection means stagnation.
 
-Check the company's dividend. Does it grow each year? Can the company afford it from cash flow? A rising, sustainable dividend is a sign of health; a cut is a warning.
+Check the company's [dividend](/dividend/). Does it grow each year? Can the company afford it from cash flow? A rising, sustainable dividend is a sign of health; a cut is a warning.
 
-Look at the debt-to-equity ratio. Pipelines are capital-intensive, so companies borrow heavily. Too much debt is a risk if interest rates rise or cash flow falls.
+Look at the [debt-to-equity ratio](/debt-to-equity-ratio/). Pipelines are capital-intensive, so companies borrow heavily. Too much debt is a risk if [interest rates](/interest-rate/) rise or cash flow falls.
 
 These numbers tell the story of a company moving product across a continent, earning stable fees, and returning cash to shareholders — or struggling if volumes fall and regulators restrict growth.

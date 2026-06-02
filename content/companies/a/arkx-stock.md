@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The ARK Space & Defense Innovation ETF (NASDAQ: ARKX) is ARK Invest's narrowest thematic fund: a portfolio betting that space is entering an era of rapid commercialization and that companies building the infrastructure and applications for space — and the advanced defense technologies that sit alongside it — will deliver exceptional returns over the next decade.
+The ARK Space & Defense Innovation ETF ([NASDAQ](/nasdaq/): ARKX) is ARK Invest's narrowest thematic fund: a portfolio betting that space is entering an era of rapid commercialization and that companies building the infrastructure and applications for space — and the advanced defense technologies that sit alongside it — will deliver exceptional returns over the next decade.
 
 ARKX represents a deliberate narrowing of the investment aperture. Where the flagship ARKK fund spans genomics, artificial intelligence, robotics, and fintech, and where ARKQ focuses on autonomous systems, ARKX concentrates on a single domain that ARK believes is underappreciated: the industrial and commercial transformation of space.
 
@@ -41,7 +41,7 @@ There is also significant company-specific risk. A single failure by a major lau
 
 ARKX is ARK's smallest fund by assets under management, partly because the space ecosystem is nascent and partly because the concentrated thesis attracts investors with conviction but limits broad appeal. With 30 to 50 holdings at most, ARKX concentrates capital in individual positions more than the broader ARK funds. This magnifies both gains and losses.
 
-The expense ratio is in line with ARK's other active ETFs — roughly 0.75 percent annually — and reflects the cost of research, rebalancing, and active management. That fee is nontrivial when applied to a small, volatile fund.
+The [expense ratio](/expense-ratio/) is in line with ARK's other [active ETFs](/active-etf/) — roughly 0.75 percent annually — and reflects the cost of research, rebalancing, and active management. That fee is nontrivial when applied to a small, volatile fund.
 
 ## The supply-chain perspective
 
@@ -53,4 +53,4 @@ ARKX suits investors with genuine conviction that space commercialisation is imm
 
 ## How to research ARKX
 
-Read the prospectus and the holdings list carefully. Most of ARKX's holdings will be unfamiliar to typical investors; spend time understanding what each company actually does. Follow space industry news sources to understand the regulatory landscape, the current state of launch costs, and whether commercial demand for space services is actually growing. Be skeptical of venture-backed claims and look for demonstrated revenue, customers, and paths to profitability. Finally, assess whether you are investing in ARKX because you have conviction in space commercialisation, or because you hope ARKX rises in a bull market. The former is appropriate; the latter is speculation that could prove expensive.
+Read the prospectus and the holdings list carefully. Most of ARKX's holdings will be unfamiliar to typical investors; spend time understanding what each company actually does. Follow space industry news sources to understand the regulatory landscape, the current state of launch costs, and whether commercial demand for space services is actually growing. Be skeptical of venture-backed claims and look for demonstrated revenue, customers, and paths to profitability. Finally, assess whether you are investing in ARKX because you have conviction in space commercialisation, or because you hope ARKX rises in a [bull market](/bull-market/). The former is appropriate; the latter is speculation that could prove expensive.

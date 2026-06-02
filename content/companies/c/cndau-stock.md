@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Concord Acquisition Corp II is a Special Purpose Acquisition Company, commonly known as a SPAC or blank-check company. It was formed as a shell corporation with the sole purpose of raising capital from public investors and using that capital to acquire or merge with a private operating company, taking that company public without going through a traditional initial public offering.
+Concord [Acquisition](/acquisition/) Corp II is a Special Purpose Acquisition Company, commonly known as a SPAC or blank-check company. It was formed as a shell corporation with the sole purpose of raising capital from public investors and using that capital to acquire or merge with a private operating company, taking that company public without going through a traditional [initial public offering](/initial-public-offering/).
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ Concord Acquisition Corp II is a Special Purpose Acquisition Company, commonly k
 
 ## What a SPAC is and how it works
 
-A SPAC is a publicly traded corporation with no business operations. Its only assets are the capital it raised in an initial public offering. When Concord Acquisition raised capital from investors who bought shares and warrants, the company took in that money and placed it in a trust account, restricted from use until a merger was approved.
+A SPAC is a publicly traded corporation with no business operations. Its only assets are the capital it raised in an initial public offering. When Concord Acquisition raised capital from investors who bought shares and warrants, the company took in that money and placed it in a trust account, restricted from use until a [merger](/merger/) was approved.
 
 The SPAC then has a defined period (typically 24 to 36 months) to identify a private company willing to merge with it. Once a target is identified, the deal structure works like this: shareholders of the private company agree to sell to the SPAC's shell, and the two entities combine. The private company becomes the operating business of the now-public combined entity, and its former shareholders own a significant portion of the merged company. The original SPAC investors also receive shares in the merged entity, and they have a redemption right — if they disapprove of the merger, they can vote to redeem their shares and take their capital back from the trust account.
 
@@ -34,7 +34,7 @@ The private company gets access to public capital markets without the time and e
 
 ## Why SPACs exist
 
-SPACs proliferated because they offer advantages over traditional IPOs in certain situations. A traditional IPO requires months of regulatory filing, roadshow presentations to potential investors, and price discovery in the public market, all of which is slow and expensive. A SPAC merger is faster — typically four to nine months from announcement to close — and allows the seller to negotiate directly with a known buyer (the SPAC) rather than waiting to see what public investors think the company is worth.
+SPACs proliferated because they offer advantages over traditional IPOs in certain situations. A traditional IPO requires months of regulatory filing, roadshow presentations to potential investors, and [price discovery](/price-discovery/) in the public market, all of which is slow and expensive. A SPAC merger is faster — typically four to nine months from announcement to close — and allows the seller to negotiate directly with a known buyer (the SPAC) rather than waiting to see what public investors think the company is worth.
 
 For late-stage private companies, this speed and certainty can be valuable. Growth companies that want to access public capital quickly, to make acquisitions, or to enable employee option exercises may prefer a SPAC merger to a traditional IPO. For SPAC sponsors — the founders and operators of the shell company — the incentive is the sponsor promote, a carried interest that gives them a large equity stake in the merged company if the deal closes.
 
@@ -46,7 +46,7 @@ This is where the risk becomes apparent. A SPAC is only as good as the deal its 
 
 ## The economics of a SPAC transaction
 
-When Concord announces a merger target, the deal typically involves cash paid by the SPAC from its trust account, plus issuance of new shares to the seller's shareholders. If the trust account has 200 million dollars and the seller wants 250 million, Concord must raise additional capital through a private investment in public equity (a PIPE) from hedge funds or other institutional investors. This additional capital dilutes the original shareholders' ownership but is necessary to close the deal.
+When Concord announces a merger target, the deal typically involves cash paid by the SPAC from its trust account, plus issuance of new shares to the seller's shareholders. If the trust account has 200 million dollars and the seller wants 250 million, Concord must raise additional capital through a private investment in public equity (a PIPE) from [hedge funds](/hedge-fund/) or other institutional investors. This additional capital dilutes the original shareholders' ownership but is necessary to close the deal.
 
 At closing, the private company's shareholders own a majority of the merged entity, and the original SPAC shareholders own a minority. The sponsors receive their promote (typically 20 percent of the post-merger common shares), which incentivizes them to negotiate a good deal but also means they retain a large stake at no cost.
 

@@ -60,7 +60,7 @@ TOP is small relative to many regional competitors and does not have the economi
 
 ## The regulatory sandbox TOP operates in
 
-Online brokerages in Asia face substantial regulatory constraints. Hong Kong's Securities and Futures Commission oversees securities brokers and derivatives firms. Singapore's Monetary Authority regulates [financial institutions](/fisi-stock/). Each jurisdiction has rules on capital requirements, customer protection, handling of customer funds, and disclosures to customers about risk.
+Online brokerages in Asia face substantial regulatory constraints. Hong Kong's Securities and Futures Commission oversees securities brokers and derivatives firms. Singapore's Monetary Authority regulates financial institutions. Each jurisdiction has rules on capital requirements, customer protection, handling of customer funds, and disclosures to customers about risk.
 
 These regulations define what TOP can and cannot do. They set minimum capital standards, which means TOP must maintain enough cash and liquid assets to absorb losses and cover customer claims if something goes wrong. They mandate segregation of customer funds—TOP cannot use client money as its own cash. They require TOP to hedge its derivatives exposure so that a sudden market move does not wipe out the company's capital. They also limit what risks the company can take on and how much leverage customers can use.
 

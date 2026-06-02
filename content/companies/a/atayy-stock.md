@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-American Tungsten & Antimony Ltd (OTC: ATAYY) extracts, processes, and sells tungsten and antimony — two industrial metals used in manufacturing, electronics, and specialized alloys. The company operates as a small-cap mining venture, trading on OTC markets with minimal public visibility and thinly traded shares. Mining tungsten and antimony is a low-volume, capital-intensive business, and the company's scale, finances, and market access reflect that reality.
+[American Tungsten](/tungf-stock/) & Antimony Ltd (OTC: ATAYY) extracts, processes, and sells tungsten and antimony — two industrial metals used in manufacturing, electronics, and specialized alloys. The company operates as a small-cap mining venture, trading on OTC markets with minimal public visibility and thinly traded shares. Mining tungsten and antimony is a low-volume, capital-intensive business, and the company's scale, finances, and market access reflect that reality.
 
 <aside class="wiki-infobox">
 <table>

@@ -29,7 +29,7 @@ Market exists. Water scarcity acute in target regions. Willingness to pay low bu
 
 Technical risk modest. Solar-powered distillation proven. Atmospheric water extraction feasible but capital-intensive; limited deployment suggest limited demand. No evidence of catastrophic reliability issues. Risk is operational: staffing remote sites, managing supply chains in fragile states, collecting revenue from customers with limited ability to pay.
 
-Stock price reflects desperation: tiny market cap, illiquid, trades OTC. Institutional investors absent. Retail speculation on impact narrative or long-dated renewable-water megatrend. Company has not demonstrated path to profitability at scale. May achieve social impact; financial returns to shareholders speculative.
+Stock price reflects desperation: tiny [market cap](/market-capitalization/), illiquid, trades OTC. Institutional investors absent. Retail speculation on impact narrative or long-dated renewable-water megatrend. Company has not demonstrated path to profitability at scale. May achieve social impact; financial returns to shareholders speculative.
 
 Watch indicators: system deployment pace, revenue per system, customer churn, project funding sources, key-person risk (founder transition), and commodity input costs (solar panel prices, materials). If company can demonstrate growing cash-flow-positive sites and scale to 50+ operating systems across regions, position shifts. If capital raising stalls or sites fail to generate expected revenue, story unwinds quickly.
 

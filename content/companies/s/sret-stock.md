@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Global X SuperDividend REIT ETF (SRET) is an exchange-traded fund that selects real estate investment trusts (REITs) based primarily on their dividend yields, then builds a portfolio of the highest-yielding opportunities in the REIT universe. Real estate investment trusts are companies that own, operate, or finance income-producing real estate — shopping centers, apartments, offices, industrial warehouses, cell-phone towers, data centers, and more — and by law must distribute at least ninety percent of their taxable income to shareholders as dividends. SRET tilts toward REITs paying the richest distributions, making it a vehicle for yield-focused investors seeking real estate exposure through the stock market.
+The Global X SuperDividend REIT ETF (SRET) is an exchange-traded fund that selects [real estate investment trusts](/real-estate-investment-trust/) (REITs) based primarily on their [dividend yields](/dividend-yield/), then builds a portfolio of the highest-yielding opportunities in the REIT universe. Real estate investment trusts are companies that own, operate, or finance income-producing real estate — shopping centers, apartments, offices, industrial warehouses, cell-phone towers, data centers, and more — and by law must distribute at least ninety percent of their taxable income to shareholders as [dividends](/dividend/). SRET tilts toward REITs paying the richest distributions, making it a vehicle for yield-focused investors seeking real estate exposure through the [stock market](/stock-market/).
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ The Global X SuperDividend REIT ETF (SRET) is an exchange-traded fund that selec
 
 ## The REIT structure and dividend requirements
 
-Real estate investment trusts emerged in the United States in the 1960s as a vehicle to allow ordinary investors to hold real estate without buying physical property or managing tenants. A REIT is a company that owns (or in some cases finances) real estate and is required by law to distribute at least ninety percent of its taxable income to shareholders annually as dividends. This legal requirement makes REITs structurally different from traditional corporations, which retain earnings and reinvest them. A REIT's primary goal is income generation and distribution, not growth through retained earnings.
+Real estate investment trusts emerged in the United States in the 1960s as a vehicle to allow ordinary investors to hold real estate without buying physical property or managing tenants. A REIT is a company that owns (or in some cases finances) real estate and is required by law to distribute at least ninety percent of its taxable income to shareholders annually as dividends. This legal requirement makes REITs structurally different from traditional corporations, which retain earnings and reinvest them. A REIT's primary goal is income generation and distribution, not growth through [retained earnings](/retained-earnings/).
 
 Global X, the fund's issuer, was founded in 2008 and has built a suite of thematic and strategic ETFs. The SuperDividend REIT ETF sits within that family as one approach to real estate exposure — specifically, the approach of harvesting dividend income from the REIT sector.
 
@@ -39,11 +39,11 @@ This yield-focused approach has important implications. A REIT's dividend yield 
 
 ## Real estate property types
 
-REIT holdings are diverse. A single SRET position might own apartment buildings; another might own shopping centers or office parks; another might own industrial warehouses used for logistics and e-commerce; another might own cell-phone towers or data centers; another might finance mortgages backed by commercial real estate. Each property type has different economics, tenant stability, and sensitivity to economic cycles.
+REIT holdings are diverse. A single SRET position might own apartment buildings; another might own shopping centers or office parks; another might own industrial warehouses used for logistics and e-commerce; another might own cell-phone towers or data centers; another might finance mortgages backed by [commercial real estate](/commercial-real-estate/). Each property type has different economics, tenant stability, and sensitivity to economic cycles.
 
-Industrial and logistics REITs have been strong beneficiaries of e-commerce growth; apartment REITs are sensitive to residential real estate cycles; office REITs have faced structural headwinds as remote work reduced demand for commercial office space; retail REITs (shopping centers) have been challenged by brick-and-mortar retail decline. A yield-focused strategy does not pick among these; it simply owns the highest-yielding representatives in each category, which can sometimes mean loading up on property types with real structural challenges.
+Industrial and logistics REITs have been strong beneficiaries of e-commerce growth; apartment REITs are sensitive to [residential real estate](/residential-real-estate/) cycles; [office REITs](/office-reit/) have faced structural headwinds as remote work reduced demand for commercial office space; [retail REITs](/retail-reit/) (shopping centers) have been challenged by brick-and-mortar retail decline. A yield-focused strategy does not pick among these; it simply owns the highest-yielding representatives in each category, which can sometimes mean loading up on property types with real structural challenges.
 
-This concentration risk is worth acknowledging. If SRET becomes heavily weighted toward office REITs yielding eight percent because office vacancies have spiked (and thus depressed prices), the fund carries both the yield benefit and the risk that those office REITs might cut dividends if the underlying properties fail to stabilize.
+This [concentration risk](/concentration-risk/) is worth acknowledging. If SRET becomes heavily weighted toward office REITs yielding eight percent because office vacancies have spiked (and thus depressed prices), the fund carries both the yield benefit and the risk that those office REITs might cut dividends if the underlying properties fail to stabilize.
 
 ## Dividend and yield characteristics
 
@@ -55,9 +55,9 @@ The total return from SRET includes both the income paid and the change in the s
 
 ## Risks and considerations
 
-SRET carries several risks beyond the normal equity and real estate risks. First, yield-chasing strategies can lead to concentration in distressed names; a REIT yielding seven percent may be doing so because investors believe a dividend cut is looming. Second, REITs are sensitive to interest rates: as interest rates rise, the borrowing costs for real estate developers and REIT financing rise, and discount rates used to value future REIT cash flows climb, often pushing REIT share prices lower. Third, the REIT sector can face significant headwinds from changes in real estate use (like the structural decline of retail or the shift to remote work for offices).
+SRET carries several risks beyond the normal equity and real estate risks. First, yield-chasing strategies can lead to concentration in distressed names; a REIT yielding seven percent may be doing so because investors believe a dividend cut is looming. Second, REITs are sensitive to [interest rates](/interest-rate/): as interest rates rise, the borrowing costs for real estate developers and REIT financing rise, and [discount rates](/discount-rate/) used to value future REIT cash flows climb, often pushing REIT share prices lower. Third, the REIT sector can face significant headwinds from changes in real estate use (like the structural decline of retail or the shift to remote work for offices).
 
-Additionally, SRET's expense ratio is a material cost for any long-term holder, and the fund's turnover (the rate at which it buys and sells holdings as yields shift) generates trading costs and tax consequences.
+Additionally, SRET's [expense ratio](/expense-ratio/) is a material cost for any long-term holder, and the fund's turnover (the rate at which it buys and sells holdings as yields shift) generates trading costs and tax consequences.
 
 ## How to research SRET
 

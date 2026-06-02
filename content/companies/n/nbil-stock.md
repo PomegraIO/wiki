@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-NBIL is a leveraged exchange-traded fund issued by GraniteShares that tracks the Nasdaq Biotechnology Index with a 2x daily multiplier. The fund aims to deliver twice the daily return of the NBIS — amplifying both gains and losses — but this daily reset mechanism creates a mathematical drag when held beyond a few trading sessions. It is explicitly a tactical instrument for near-term positioning, not a buy-and-hold vehicle.
+NBIL is a leveraged exchange-traded fund issued by GraniteShares that tracks the [Nasdaq](/nasdaq/) Biotechnology Index with a 2x daily multiplier. The fund aims to deliver twice the daily return of the NBIS — amplifying both gains and losses — but this daily reset mechanism creates a mathematical drag when held beyond a few trading sessions. It is explicitly a tactical instrument for near-term positioning, not a buy-and-hold vehicle.
 
 ## The index and the leverage mechanism
 
-The Nasdaq Biotechnology Index (NBIS) is a market-cap-weighted collection of roughly 100 biotech and pharmaceutical firms listed on Nasdaq. The index weights heavily toward larger, more-established players, but includes names across drug discovery, diagnostics, medical devices, and therapeutics at various development stages. Unlike broad equity indices, NBIS is structurally volatile — clinical trial outcomes, regulatory decisions, and acquisition news can shift the sector sentiment sharply within a day.
+The Nasdaq Biotechnology Index (NBIS) is a market-cap-weighted collection of roughly 100 biotech and pharmaceutical firms listed on Nasdaq. The index weights heavily toward larger, more-established players, but includes names across drug discovery, diagnostics, medical devices, and therapeutics at various development stages. Unlike broad equity indices, NBIS is structurally volatile — clinical trial outcomes, regulatory decisions, and [acquisition](/acquisition/) news can shift the sector sentiment sharply within a day.
 
-GraniteShares achieves the 2x leverage through index futures, equity swaps, and options. At the close of each trading day, the fund rebalances to reset its leverage target for the next session. This daily reset is the core of NBIL's design: it locks in each day's directional move at 2x, then starts fresh. That mechanism works cleanly for overnight traders and intraweek positions.
+GraniteShares achieves the 2x leverage through index futures, [equity swaps](/equity-swap/), and options. At the close of each trading day, the fund rebalances to reset its leverage target for the next session. This daily reset is the core of NBIL's design: it locks in each day's directional move at 2x, then starts fresh. That mechanism works cleanly for overnight traders and intraweek positions.
 
 ## Volatility decay and why hold time matters
 
@@ -35,8 +35,8 @@ When you layer 2x leverage onto a volatile sector, the daily price moves become 
 
 ## Costs and liquidity
 
-The expense ratio is typically 0.95% to 1.0% annually, higher than the unleveraged biotech ETF, to account for the derivatives overlay and daily rebalancing. Bid-ask spreads are wide — often 0.5% to 1% of the fund price — because volatility and low overall volume make market-making expensive. A trader holding overnight or across a few days will accumulate slippage that reduces net returns.
+The [expense ratio](/expense-ratio/) is typically 0.95% to 1.0% annually, higher than the unleveraged biotech ETF, to account for the derivatives overlay and daily rebalancing. [Bid-ask spreads](/bid-ask-spread/) are wide — often 0.5% to 1% of the fund price — because volatility and low overall volume make market-making expensive. A trader holding overnight or across a few days will accumulate slippage that reduces net returns.
 
 ## The trader's tool, not the investor's
 
-NBIL exists for traders making directional bets on biotech sentiment over hours or days. It is also used by hedge funds to express leverage into the sector for specific tactical windows. It is not an alternative to holding biotech stocks for a conviction, not a hedge (because daily rebalancing provides no stable downside protection), and not a suitable vehicle for medium-term or long-term allocation. Anyone using NBIL for longer than a trading day or two should ask whether they are using the right instrument.
+NBIL exists for traders making directional bets on biotech sentiment over hours or days. It is also used by [hedge funds](/hedge-fund/) to express leverage into the sector for specific tactical windows. It is not an alternative to holding biotech stocks for a conviction, not a hedge (because daily rebalancing provides no stable downside protection), and not a suitable vehicle for medium-term or long-term allocation. Anyone using NBIL for longer than a trading day or two should ask whether they are using the right instrument.

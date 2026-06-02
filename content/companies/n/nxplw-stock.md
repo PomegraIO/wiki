@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-NextPlat Corp trades under two securities: NXPL (common stock) and NXPLW (warrants). A warrant is not stock but an option to buy stock at a predetermined price within a set timeframe. NXPLW holders have the right—but not the obligation—to purchase NextPlat common shares at a fixed strike price before the warrants expire. This structure gives warrant holders leveraged upside exposure: if NextPlat's stock rises significantly, the warrant holder profits more than a shareholder would on the same dollar amount invested. If the stock falls, the warrant holder's loss is larger. Warrants are more volatile than the underlying stock and carry higher risk.
+NextPlat Corp trades under two securities: NXPL ([common stock](/common-stock/)) and NXPLW (warrants). A warrant is not stock but an option to buy stock at a predetermined price within a set timeframe. NXPLW holders have the right—but not the obligation—to purchase NextPlat common shares at a fixed [strike price](/strike-price/) before the warrants expire. This structure gives warrant holders leveraged upside exposure: if NextPlat's stock rises significantly, the warrant holder profits more than a shareholder would on the same dollar amount invested. If the stock falls, the warrant holder's loss is larger. Warrants are more volatile than the underlying stock and carry higher risk.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ NextPlat Corp trades under two securities: NXPL (common stock) and NXPLW (warran
 
 ## What is a warrant, and how does it differ from owning the stock?
 
-A warrant is a contract that gives the holder the right to purchase the underlying security (in this case, NXPL stock) at a fixed price (the strike price) on or before an expiration date. Warrants are typically issued by companies when they raise capital—for example, a company might issue stock and warrants together as a package, giving investors sweetened returns in exchange for capital. NXPLW was issued by NextPlat to investors as part of a capital raise or incentive structure.
+A warrant is a contract that gives the holder the right to purchase the underlying security (in this case, NXPL stock) at a fixed price (the strike price) on or before an [expiration date](/expiration-date/). Warrants are typically issued by companies when they raise capital—for example, a company might issue stock and warrants together as a package, giving investors sweetened returns in exchange for capital. NXPLW was issued by NextPlat to investors as part of a capital raise or incentive structure.
 
 The key differences between owning NXPL stock and owning NXPLW warrants are leverage, expiration, and payoff structure. A warrant holder does not own shares until they exercise; they own only the right to buy. If NXPL rises from $10 to $20, a shareholder doubles their money. A warrant with a $5 strike price has increased in value by much more—perhaps from $3 to $15, a five-bagger—because the increase in the underlying stock directly translates to a larger percentage gain in the warrant. Conversely, if NXPL falls from $10 to $5, the shareholder loses half; a warrant holder might lose much more or even all their investment if the warrant expires worthless (the stock closes below the strike price).
 
@@ -39,7 +39,7 @@ NextPlat Corp is incorporated in Nevada and operates from Miami, Florida. The co
 
 NextPlat's business model centers on providing communications infrastructure and data services to customers that need connectivity across geographies where traditional terrestrial networks are absent or expensive. Satellite coverage reaches remote areas where cell towers and fiber optic lines are impractical. This geographic niche—serving regions that terrestrial networks avoid—gives NextPlat a potential addressable market in rural areas, offshore operations, emergency response, and international markets.
 
-The company has a history of acquisitions and restructuring. It has operated under multiple names historically—Orbital Tracking Corp, Orbsat Corp, Advanced 3-D Ultrasound Services, and others—reflecting a pattern of pivots and changes in strategic direction. This history of rebranding and business line shifting suggests the company has been searching for a sustainable market position. The current focus on satellite communications and Internet of Things connectivity appears to be a multi-year direction, but the past pattern warrants caution about execution risk.
+The company has a history of [acquisitions](/acquisition/) and restructuring. It has operated under multiple names historically—Orbital Tracking Corp, Orbsat Corp, Advanced 3-D Ultrasound Services, and others—reflecting a pattern of pivots and changes in strategic direction. This history of rebranding and business line shifting suggests the company has been searching for a sustainable market position. The current focus on satellite communications and Internet of Things connectivity appears to be a multi-year direction, but the past pattern warrants caution about execution risk.
 
 ## How does NextPlat generate revenue?
 
@@ -67,7 +67,7 @@ The path between success and failure is uncertain. NextPlat faces strong competi
 
 ## How would someone research NextPlat and NXPLW?
 
-Start with NextPlat's SEC filings under CIK 0001058307. The annual 10-K report details the business segments, customer concentration, revenue trends, and operational risks. Quarterly 10-Q reports update the numbers and offer management commentary on business conditions.
+Start with NextPlat's SEC filings under CIK 0001058307. The annual 10-K report details the business segments, customer concentration, revenue trends, and [operational risks](/operational-risk/). Quarterly 10-Q reports update the numbers and offer management commentary on business conditions.
 
 Look specifically at: revenue growth or decline; customer acquisition and retention rates; cash burn (how long can the company survive if revenue stalls); debt and capital structure; and management's discussion of competitive threats. Satellite communications is a crowded market; NextPlat must articulate why it can compete against Starlink, Amazon Kuiper, and established terrestrial carriers.
 

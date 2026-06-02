@@ -43,7 +43,7 @@ Capital allocation in mining is high-stakes: a company betting on future gold pr
 
 ## Commodity Hedging
 
-Some gold companies use [derivatives](/bond/) to hedge future price exposure—selling forward a portion of expected future production at a locked-in price to reduce earnings volatility. Hedging trades price upside for stability. Heavy hedging can prevent catastrophic losses but caps gains during [bull markets](/bull-market/). Light hedging leaves the company exposed to price swings. Gold Enterprise Group's hedging policy (if any) appears in its 10-K risk disclosures.
+Some gold companies use [derivatives](/bond/) to hedge future price exposure—selling forward a portion of expected future production at a locked-in price to reduce earnings [volatility. Hedging](/volatility-hedging/) trades price upside for stability. Heavy hedging can prevent catastrophic losses but caps gains during [bull markets](/bull-market/). Light hedging leaves the company exposed to price swings. Gold Enterprise Group's hedging policy (if any) appears in its 10-K risk disclosures.
 
 ## Access to Capital Markets
 

@@ -36,9 +36,9 @@ handwritten: true
 
 ## The aviation sector takes shape
 
-The modern commercial aviation industry crystallised after World War II, when aircraft manufacturers repurposed wartime production capacity to serve civilians. By the 1960s, the jet age had arrived: transcontinental flights, then intercontinental ones, made the world smaller. Airlines grew from regional carriers into global networks. Manufacturing consolidated around a handful of giants — Boeing in the United States, Airbus in Europe, and challengers in Canada and elsewhere.
+The modern commercial aviation industry crystallised after World War II, when aircraft manufacturers repurposed wartime production capacity to serve civilians. By the 1960s, the jet age had arrived: transcontinental flights, then intercontinental ones, made the world smaller. Airlines grew from regional carriers into global networks. Manufacturing consolidated around a handful of giants — [Boeing](/ba-stock/) in the United States, Airbus in Europe, and challengers in Canada and elsewhere.
 
-The sector's growth trajectory followed the growth of global trade and middle-class income. Every additional passenger meant planes sold, planes maintained, parts supplied, fuel consumed. The 1980s deregulation of U.S. airlines shifted competitive dynamics but did not slow demand. The 2000s saw the rise of low-cost carriers like Southwest and Ryanair, which operated newer, cheaper aircraft and sustained fleet growth even during recessions.
+The sector's growth trajectory followed the growth of global trade and middle-class income. Every additional passenger meant planes sold, planes maintained, parts supplied, fuel consumed. The 1980s deregulation of U.S. airlines shifted competitive dynamics but did not slow demand. The 2000s saw the rise of low-cost carriers like Southwest and Ryanair, which operated newer, cheaper aircraft and sustained fleet growth even during [recessions](/recession/).
 
 ## The structure of the sector today
 
@@ -58,7 +58,7 @@ Aviation is a canonical cyclical industry. Global GDP growth fuels passenger dem
 
 This cyclicality cuts two ways. In an upswing, the leverage is obvious: a few percentage points of GDP growth translates to 20%+ earnings growth for manufacturers. Investors who buy AUSM (or any aviation fund) at the nadir of a cycle can see spectacular returns as the sector expands. But the reverse is equally true: in a downturn, a fund that was soaring can lose half its value in a year.
 
-Fuel prices add another layer. Aviation is intensely energy-dependent; when crude oil prices surge, airlines' margins compress and demand may soften as travel becomes more expensive. Manufacturers are less directly exposed, but supplier costs and airline health affect their order backlog. A sharp, sustained oil spike can cascade through the sector.
+Fuel prices add another layer. Aviation is intensely energy-dependent; when [crude oil](/crude-oil/) prices surge, airlines' margins compress and demand may soften as travel becomes more expensive. Manufacturers are less directly exposed, but supplier costs and airline health affect their order backlog. A sharp, sustained oil spike can cascade through the sector.
 
 ## Concentration risk in AV
 
@@ -78,4 +78,4 @@ Start with the fund's prospectus and holdings list. Identify the biggest positio
 
 Track the fund's returns over the past 10 years and correlate them to global GDP growth and crude oil prices. Strong positive correlation to GDP and negative correlation to oil suggest the fund is sensitive to the factors you expect. Plot the fund's performance through the 2008–2009 financial crisis and the 2020 COVID shutdown — both saw aviation hammered — to understand what a downturn looks like.
 
-Finally, ask yourself: do you believe global air traffic will grow faster than GDP over the next five years, and that airlines and manufacturers will sustain margin expansion? If yes, AV is a concentrated bet that will amplify your conviction. If you are unsure, the 25–40 holdings provide little diversification comfort; a broad U.S. stock fund is safer.
+Finally, ask yourself: do you believe global air traffic will grow faster than GDP over the next five years, and that airlines and manufacturers will sustain margin expansion? If yes, AV is a concentrated bet that will amplify your conviction. If you are unsure, the 25–40 holdings provide little [diversification](/diversification/) comfort; a broad U.S. stock fund is safer.

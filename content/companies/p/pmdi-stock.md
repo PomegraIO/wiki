@@ -40,7 +40,7 @@ The regulatory environment supports the use of hair testing in employment and le
 
 ## Recent changes and current position
 
-As of 2026, Psychemedics transitioned from the Nasdaq exchange to over-the-counter trading, moving from ticker PMD to PMDI. This shift reflects the company's position as a smaller, profitable operating business rather than a growth stock. The company maintains laboratory operations in Culver City, California, and has consolidated its headquarters to Acton, Massachusetts.
+As of 2026, Psychemedics transitioned from the [Nasdaq](/nasdaq/) exchange to over-the-counter trading, moving from ticker PMD to PMDI. This shift reflects the company's position as a smaller, profitable operating business rather than a growth stock. The company maintains laboratory operations in Culver City, California, and has consolidated its headquarters to Acton, Massachusetts.
 
 The business faces pressure from competing testing modalities — some employers prefer saliva or urine tests for convenience — and from increasing automation in hiring, which can reduce the volume of traditional drug testing. However, the 90-day window and legal admissibility of results provide a defensible niche, particularly in safety-sensitive industries where regulators mandate comprehensive testing.
 

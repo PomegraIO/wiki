@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-SASOL is a South African energy and chemicals company that emerged from the country's historical isolation and evolved into a global industrial enterprise. Trades internationally as SASOF on the over-the-counter markets, SASOL embodies the transformation of a nation's resource constraints into technological capability and, later, into a complex multinational business that generates revenue from fuel production, chemicals, and specialty materials across multiple continents.
+SASOL is a South African energy and chemicals company that emerged from the country's historical isolation and evolved into a global industrial enterprise. Trades internationally as SASOF on the [over-the-counter markets](/over-the-counter-market/), SASOL embodies the transformation of a nation's resource constraints into technological capability and, later, into a complex multinational business that generates revenue from fuel production, chemicals, and specialty materials across multiple continents.
 
 ## Origins in isolation: coal becomes fuel
 
-SASOL was founded in 1950 in South Africa as the government sought to solve a strategic problem: the country was heavily dependent on imported crude oil yet sat atop massive reserves of coal. International sanctions and trade restrictions, especially as apartheid-era South Africa grew more isolated globally, made import dependence a vulnerability. In response, government and industry invested in technology to convert coal into synthetic fuels — gasoline and diesel — using processes that had been pioneered in Nazi Germany during World War II.
+SASOL was founded in 1950 in South Africa as the government sought to solve a strategic problem: the country was heavily dependent on imported [crude oil](/crude-oil/) yet sat atop massive reserves of coal. International sanctions and trade restrictions, especially as apartheid-era South Africa grew more isolated globally, made import dependence a vulnerability. In response, government and industry invested in technology to convert coal into synthetic fuels — gasoline and diesel — using processes that had been pioneered in Nazi Germany during World War II.
 
 This coal-to-liquids technology became SASOL's founding business. The company built the world's first commercial coal-liquefaction plants in the 1950s and 1960s, converting abundant domestic coal into usable transportation fuels. At its peak, this synthetic fuels business was critical to South Africa's economy and national security, allowing the country to reduce dependence on imported oil and keep its industry running during times of scarcity and embargo.
 
@@ -38,7 +38,7 @@ The scale of SASOL's operations reflects its decades of accumulated industrial c
 
 SASOL's historical dependence on coal and coal-derived feedstocks creates a central strategic tension. The world is moving toward cleaner energy and away from coal. For a company that was built on coal synthesis and that still relies on South African coal reserves as a feedstock, the energy transition represents both a risk and a challenge.
 
-The company has responded by investing in cleaner fuels and lower-carbon chemical production methods. SASOL has also diversified toward petrochemicals that are less dependent on coal and toward natural gas-based feedstocks, particularly through its interest in African oil and gas. Yet the company remains exposed to the commodity prices of oil, natural gas, and coal, and to regulatory shifts that affect the cost of carbon-intensive production.
+The company has responded by investing in cleaner fuels and lower-carbon chemical production methods. SASOL has also diversified toward petrochemicals that are less dependent on coal and toward natural gas-based feedstocks, particularly through its interest in African oil and gas. Yet the company remains exposed to the commodity prices of oil, [natural gas](/natural-gas/), and coal, and to regulatory shifts that affect the cost of carbon-intensive production.
 
 ## Operating in emerging markets and regulatory complexity
 
@@ -54,6 +54,6 @@ This capital intensity means that SASOL's ability to return cash to shareholders
 
 ## How to research SASOL
 
-Investors and researchers should begin with SASOL's annual reports and SEC filings (CIK 0000314590), which detail the company's segment earnings, production volumes, and capital spending plans. The company's strategy disclosure reveals how management is positioning SASOL for the energy transition and where the company sees growth opportunities.
+Investors and researchers should begin with SASOL's [annual reports](/10-k/) and SEC filings (CIK 0000314590), which detail the company's segment earnings, production volumes, and capital spending plans. The company's strategy disclosure reveals how management is positioning SASOL for the energy transition and where the company sees growth opportunities.
 
 Key metrics to watch include the company's cash generation relative to capital spending, the health of its chemical product margins, trends in coal and oil prices as they affect input costs and revenue, and any updates on new ventures or exits from underperforming businesses. The regulatory environment in South Africa — particularly around electricity, carbon pricing, and labor — is material to cost structure. Understanding SASOL requires tracking both the commodity prices that affect its profitability and the long-term industry trends that will determine whether SASOL's legacy coal expertise becomes an asset or a liability in a decarbonizing world.

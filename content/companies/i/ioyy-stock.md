@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-GraniteShares YieldBOOST IONQ ETF (IOYY) is structured to hold IonQ Inc. (IONQ) stock while selling call options against it on a rolling monthly basis. By selling call options, the fund receives premium income, which is distributed to shareholders monthly. In exchange, the fund caps its upside if IonQ rallies significantly beyond the call strike price. The fund is designed for investors who want IonQ exposure but prefer monthly income over capital appreciation, and are willing to give up some upside in exchange.
+GraniteShares YieldBOOST IONQ ETF (IOYY) is structured to hold IonQ Inc. (IONQ) stock while selling [call options](/call-option/) against it on a rolling monthly basis. By selling call options, the fund receives premium income, which is distributed to shareholders monthly. In exchange, the fund caps its upside if IonQ rallies significantly beyond the call [strike price](/strike-price/). The fund is designed for investors who want IonQ exposure but prefer monthly income over capital appreciation, and are willing to give up some upside in exchange.
 
 <aside class="wiki-infobox">
 <table>
@@ -42,13 +42,13 @@ The fund continuously repeats this cycle. Shareholders receive monthly distribut
 
 ## Why choose income over growth
 
-IOYY appeals to investors who want IonQ exposure but would rather have reliable monthly income than wait for a big capital gain. Quantum computing is speculative; IonQ could stagnate for years. In a sideways market, covered call funds tend to outperform: they earn monthly premiums while the stock goes nowhere, whereas a traditional holder gets nothing.
+IOYY appeals to investors who want IonQ exposure but would rather have reliable monthly income than wait for a big capital gain. Quantum computing is speculative; IonQ could stagnate for years. In a sideways market, [covered call](/covered-call/) funds tend to outperform: they earn monthly premiums while the stock goes nowhere, whereas a traditional holder gets nothing.
 
 Conversely, if IonQ rallies 50 percent in a year, a covered call holder misses a chunk of that if calls are exercised. There is a real cost to capping upside.
 
 ## The yield math
 
-The monthly distribution is not a "yield" in the traditional sense. It is not earnings or dividends; it is a return of premium collected. If premiums are 3 percent per month, the annualized distribution is roughly 36 percent before costs. But this is not sustainable forever. It reflects the strike selection and realized volatility in that period. When volatility is low, premiums shrink. When realized moves are large, you miss them.
+The monthly distribution is not a "yield" in the traditional sense. It is not earnings or [dividends](/dividend/); it is a return of premium collected. If premiums are 3 percent per month, the annualized distribution is roughly 36 percent before costs. But this is not sustainable forever. It reflects the strike selection and realized volatility in that period. When volatility is low, premiums shrink. When realized moves are large, you miss them.
 
 Shareholders should understand that distributions can vary month to month and year to year based on market conditions.
 
@@ -66,7 +66,7 @@ IOYY is not for investors betting on a sharp IonQ rally, or for those who believ
 
 ## Costs and risks
 
-GraniteShares charges an annual expense ratio for fund management and option trading execution. This eats into gross premiums collected. The net distribution to shareholders is premium minus fees.
+GraniteShares charges an annual [expense ratio](/expense-ratio/) for fund management and option trading execution. This eats into gross premiums collected. The net distribution to shareholders is premium minus fees.
 
 A key risk is call exercise. If IONQ rallies sharply, you are forced to sell at the strike and miss further gains. This is sometimes called assignment risk. It is not a flaw but a design feature: you accepted capped upside for steady income.
 
@@ -82,6 +82,6 @@ Track the fund's monthly distribution amount. If it is stable and sustainable, t
 
 Review the underlying IonQ's fundamentals and competitive position. The covered call does not change your core exposure to IonQ business risk.
 
-Monitor the call strike level relative to IonQ's price. A strike near the current price signals high premium collection but high call risk. A strike far above suggests lower premium and more upside protection.
+Monitor the call strike level relative to IonQ's price. A strike near the current price signals high premium collection but high [call risk](/call-risk/). A strike far above suggests lower premium and more upside protection.
 
 Compare IOYY's total return (distributions plus price change) to IonQ alone over a year. In sideways markets, covered calls often win. In strong uptrends, they lag.

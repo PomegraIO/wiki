@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **AB Core Plus Bond ETF** (CPLS) is a bond fund that adapts. It owns mostly investment-grade bonds — the safe ones — but when the market creates opportunities, it hunts for better deals in riskier territory. It is managed by people making judgment calls, not by a computer following an index.*
+*The **AB Core Plus [Bond ETF](/bond-etf/)** (CPLS) is a [bond](/bond/) fund that adapts. It owns mostly [investment-grade bonds](/investment-grade-bond/) — the safe ones — but when the market creates opportunities, it hunts for better deals in riskier territory. It is managed by people making judgment calls, not by a computer following an index.*
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ handwritten: true
 
 ## The idea behind core-plus
 
-Most bond funds choose one lane and stay there. One fund holds Treasuries. Another holds investment-grade corporate bonds. A third holds high-yield junk bonds. You pick the one that matches your risk tolerance and you are done.
+Most bond funds choose one lane and stay there. One fund holds Treasuries. Another holds investment-grade [corporate bonds](/corporate-bond/). A third holds high-yield [junk bonds](/junk-bond/). You pick the one that matches your risk tolerance and you are done.
 
 Core-plus works differently. It says: I will keep a solid foundation of safe, investment-grade bonds. That is my core. But I will also watch the markets constantly. When something risky starts trading cheap — when the market gets scared and prices fall below what the risk is actually worth — I will buy it. Then when the price recovers and it gets expensive again, I will sell it. That is the plus.
 
@@ -38,21 +38,21 @@ Think of a core-plus fund as an opportunist. It is safe most of the time, but it
 
 AllianceBernstein is a big investment firm. It employs hundreds of bond analysts and portfolio managers. It manages money for pension funds, insurance companies, universities, and individual investors. AB has spent decades building a reputation around active bond management — the idea that skilled people can beat the market by making smart decisions about what to buy and sell.
 
-CPLS is one of their active bond ETFs. A real person, or a small team of people, decides what goes in the fund. They read credit reports. They argue about whether a company will default. They make bets on interest rates. They hunt for mispricings. This costs more than a passive fund that just tracks an index automatically. You pay for the expertise and the effort.
+CPLS is one of their active bond ETFs. A real person, or a small team of people, decides what goes in the fund. They read credit reports. They argue about whether a company will default. They make bets on [interest rates](/interest-rate/). They hunt for mispricings. This costs more than a passive fund that just tracks an index automatically. You pay for the expertise and the effort.
 
 The bet is that the extra returns from skill will exceed the extra fees. Sometimes that works. Sometimes it does not.
 
 ## How the fund actually invests
 
-Right now, CPLS might hold 60% investment-grade bonds, 20% high-yield bonds, and 20% other stuff. Tomorrow, if the manager thinks something has changed, that allocation might shift to 70%, 15%, and 15%. The fund has no fixed target. The manager adjusts constantly.
+Right now, CPLS might hold 60% investment-grade bonds, 20% [high-yield bonds](/high-yield-bond/), and 20% other stuff. Tomorrow, if the manager thinks something has changed, that allocation might shift to 70%, 15%, and 15%. The fund has no fixed target. The manager adjusts constantly.
 
-When credit conditions are calm and prices look fair, CPLS stays mostly core. When credit spreads blow out — when investors panic and high-yield bonds get crushed — the manager buys them at fire-sale prices, expecting to profit when prices recover. When interest rates look poised to fall, the manager might extend the fund's maturity out further, to capture bigger price gains when rates decline. When the manager thinks rates will rise, the fund becomes shorter, to limit losses.
+When credit conditions are calm and prices look fair, CPLS stays mostly core. When [credit spreads](/credit-spread/) blow out — when investors panic and high-yield bonds get crushed — the manager buys them at fire-sale prices, expecting to profit when prices recover. When interest rates look poised to fall, the manager might extend the fund's maturity out further, to capture bigger price gains when rates decline. When the manager thinks rates will rise, the fund becomes shorter, to limit losses.
 
 All of this is active decision-making. The manager is trying to be in the right place at the right time. When it works, investors make money. When the manager guesses wrong, returns suffer.
 
 ## Income from the bonds
 
-Like any bond fund, CPLS generates income from interest paid by the bonds it owns. That yield changes depending on what the manager is holding. In months when the fund owns a lot of high-yield bonds, the yield is high. In months when it is mostly Treasury bonds, the yield is lower. You do not get a fixed income stream; you get whatever the manager's positioning produces.
+Like any bond fund, CPLS generates income from interest paid by the bonds it owns. That yield changes depending on what the manager is holding. In months when the fund owns a lot of high-yield bonds, the yield is high. In months when it is mostly [Treasury bonds](/treasury-bond/), the yield is lower. You do not get a fixed income stream; you get whatever the manager's positioning produces.
 
 Total return is what matters. Yield plus or minus price changes. A year when bond prices fall can leave you with a loss, even if the interest kept coming. A year when prices rise can be great, even if the interest was modest.
 
@@ -60,9 +60,9 @@ Total return is what matters. Yield plus or minus price changes. A year when bon
 
 The biggest risk is that the manager guesses wrong. Core-plus funds exist in a middle ground. They are not as stable as straight investment-grade funds, because they own riskier stuff. They are not as rewarding as high-yield funds, because they keep that core ballast of safe bonds. If the manager is good, that balance produces solid returns. If the manager is mediocre, you pay fees for no added value. If the manager is bad, you pay fees to underperform.
 
-Credit risk is real too. When the fund owns high-yield bonds and credit conditions deteriorate, losses can be sharp. The fund can fall 10–15% in a bad credit event, even though it is supposed to be relatively conservative.
+[Credit risk](/credit-risk/) is real too. When the fund owns high-yield bonds and credit conditions deteriorate, losses can be sharp. The fund can fall 10–15% in a bad [credit event](/credit-event-sovereign/), even though it is supposed to be relatively conservative.
 
-Interest-rate risk is always present. The fund's average maturity changes with the manager's decisions. If the manager thinks rates will fall and they actually rise, the fund will underperform. If the manager thinks rates will rise and they actually fall, the fund will outperform.
+[Interest-rate risk](/interest-rate-risk/) is always present. The fund's average maturity changes with the manager's decisions. If the manager thinks rates will fall and they actually rise, the fund will underperform. If the manager thinks rates will rise and they actually fall, the fund will outperform.
 
 Liquidity can tighten in a panic. The "plus" part of the portfolio — emerging-market bonds, high-yield debt, structured products — becomes hard to sell when markets seize up. That can force the manager to accept worse prices or hold positions longer than planned.
 
@@ -74,10 +74,10 @@ It is not for people who want a simple, predictable, low-cost bond holding. It i
 
 ## How to decide if it is working
 
-Compare CPLS to a passive investment-grade bond fund over the past one, three, and five years. Is CPLS beating it by enough to justify the higher fees? If it is trailing, there is no reason to own it — just buy the cheaper index fund.
+Compare CPLS to a passive investment-grade bond fund over the past one, three, and five years. Is CPLS beating it by enough to justify the higher fees? If it is trailing, there is no reason to own it — just buy the cheaper [index fund](/index-fund/).
 
 Look at what the fund is holding right now. Check the AllianceBernstein website or the fund fact sheet. Is the manager being aggressive or defensive? Does that positioning align with your own view of the markets? If the manager is making bets you disagree with, CPLS might not be the right fit.
 
-Pay attention to the fund's performance in different market environments. How did CPLS do the last time the stock market fell? Did the bonds cushion the loss? How did it do the last time bonds rallied? Did it participate? A fund that does both is adding real value. A fund that does neither is just expensive.
+Pay attention to the fund's performance in different market environments. How did CPLS do the last time the [stock market](/stock-market/) fell? Did the bonds cushion the loss? How did it do the last time bonds rallied? Did it participate? A fund that does both is adding real value. A fund that does neither is just expensive.
 
 Finally, think about whether you actually want an active manager in your bond allocation. Do you trust this person or team enough to let them make positioning calls? Or would you rather have the simplicity and predictability of an index fund? Honest answers matter here.

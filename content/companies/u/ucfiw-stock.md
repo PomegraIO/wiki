@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-CN Healthy Food Tech Group is a shell company looking for a business to buy and take public. It trades as UCFIW (the W means warrants). The company was created to raise money from investors and use that money to merge with a real operating company in the food, health food, or food-technology space. Think of it as an empty vessel waiting to be filled.
+[CN Healthy Food Tech](/ucfi-stock/) Group is a shell company looking for a business to buy and take public. It trades as UCFIW (the W means warrants). The company was created to raise money from investors and use that money to merge with a real operating company in the food, health food, or food-technology space. Think of it as an empty vessel waiting to be filled.
 
 <aside class="wiki-infobox">
 <table>
@@ -25,9 +25,9 @@ CN Healthy Food Tech Group is a shell company looking for a business to buy and 
 
 ## Why companies use this path to go public
 
-Normally, when a company wants to sell shares to the public, it goes through an initial public offering, or IPO. That takes about a year. The company has to be profitable, or at least have real revenue. Lawyers and accountants get involved. You have to do investor roadshows. It's expensive and slow.
+Normally, when a company wants to sell shares to the public, it goes through an [initial public offering](/initial-public-offering/), or IPO. That takes about a year. The company has to be profitable, or at least have real revenue. Lawyers and accountants get involved. You have to do investor roadshows. It's expensive and slow.
 
-A blank-check company skips all that. The sponsors — the people running the shell — raise money from investors right away. The company doesn't need a real product yet because the whole point is that it will buy or merge with a company that does have a product. Once the merger happens, that operating company becomes public instead. It's faster and easier, especially for companies in fast-growing sectors like food technology.
+A blank-check company skips all that. The sponsors — the people running the shell — raise money from investors right away. The company doesn't need a real product yet because the whole point is that it will buy or merge with a company that does have a product. Once the [merger](/merger/) happens, that operating company becomes public instead. It's faster and easier, especially for companies in fast-growing sectors like food technology.
 
 ## Who buys into this and why
 
@@ -63,4 +63,4 @@ Also, the food and beverage industry is competitive and often operates on thin p
 
 Before the merger closes, you can read the investor presentation and the S-1 document the company files with the SEC. These explain the sponsors' background, the target sector, and the financial terms of any proposed deal. Ask: Who are the sponsors and what have they done before? Are they experienced in the food industry or new to it? What is the target company, and how expensive is it relative to its growth rate?
 
-After the merger, the combined company files a 10-K annual report. Read that to understand the actual business — how much revenue it makes, where that revenue comes from, and whether the company is profitable. Watch the quarterly earnings calls for updates on new products, customer growth, and any problems the business is facing.
+After the merger, the combined company files a 10-K [annual report](/10-k/). Read that to understand the actual business — how much revenue it makes, where that revenue comes from, and whether the company is profitable. Watch the quarterly earnings calls for updates on new products, customer growth, and any problems the business is facing.

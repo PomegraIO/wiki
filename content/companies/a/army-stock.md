@@ -41,7 +41,7 @@ A major shift toward peace would hurt ARMY. If Russia and the West negotiated a 
 
 An actual war between major powers would probably crash all stocks. Panic sells everything, even though defense budgets might rise later. In a true crisis, equities crash first.
 
-Export controls can tighten. Programs get cancelled when new administrations take office. Scandals at large contractors ripple through the whole fund—there are only 40 to 50 holdings, so one major stumble moves the fund. A handful of huge contractors dominate the industry, so concentration risk is real.
+Export controls can tighten. Programs get cancelled when new administrations take office. Scandals at large contractors ripple through the whole fund—there are only 40 to 50 holdings, so one major stumble moves the fund. A handful of huge contractors dominate the industry, so [concentration risk](/concentration-risk/) is real.
 
 ## Who should own this
 

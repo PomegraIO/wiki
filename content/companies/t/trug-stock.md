@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-TruGolf Holdings operates in the indoor golf technology space, providing simulators, software, launch monitors, and related hardware to golf facilities, clubs, and consumers. The company became publicly listed in 2024 through a business combination with Deep Medicine Acquisition Corp., a special-purpose acquisition vehicle. TruGolf's ordinary shares trade on The Nasdaq Capital Market under the symbol TRUG. The business model is a mix of hardware sales and recurring software licensing — a mixture designed to smooth revenue and create customer lock-in, though execution has proven challenging in a market where simulator demand is cyclical and capital-constrained.
+TruGolf Holdings operates in the indoor golf technology space, providing simulators, software, launch monitors, and related hardware to golf facilities, clubs, and consumers. The company became publicly listed in 2024 through a [business combination](/business-combination-purchase/) with Deep Medicine [Acquisition](/acquisition/) Corp., a special-purpose acquisition vehicle. TruGolf's ordinary shares trade on The [Nasdaq](/nasdaq/) Capital Market under the symbol TRUG. The business model is a mix of hardware sales and recurring software licensing — a mixture designed to smooth revenue and create customer lock-in, though execution has proven challenging in a market where simulator demand is cyclical and capital-constrained.
 
 ## The hardware line
 
@@ -40,7 +40,7 @@ The company has no moat to speak of. Golf simulation technology itself — measu
 
 TruGolf reported first-quarter 2026 revenue of $5.0 million, down modestly from $5.2 million in Q1 2025. Hardware sales declined as noted; software contracts improved slightly. The company burned cash in its early public life and has struggled to achieve profitability. The business model — mixing lumpy hardware sales with modest subscription revenue — creates revenue volatility and leaves little room for error.
 
-The core issue is unit economics. To be worth public-market capital, TruGolf needs either rapid growth (adding venues and subscribers fast enough to offset hardware maturity) or a path to acceptable margins and free cash flow. Growth has stalled; margins remain pressured. The company's capital position is constrained, limiting investment in marketing or product development.
+The core issue is unit economics. To be worth public-market capital, TruGolf needs either rapid growth (adding venues and subscribers fast enough to offset hardware maturity) or a path to acceptable margins and [free cash flow](/free-cash-flow/). Growth has stalled; margins remain pressured. The company's capital position is constrained, limiting investment in marketing or product development.
 
 ## Competitive moats and how they're eroding
 

@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-Grayscale Zcash Trust (ZCSH) holds Zcash, a cryptocurrency built on privacy-first principles. Zcash uses advanced cryptography—specifically, zero-knowledge proofs—to let users move money on a public blockchain while keeping the sender, receiver, and amount completely hidden if they choose. The trust offers investors exposure to Zcash without managing keys directly, through a conventional securities wrapper.
+Grayscale Zcash Trust (ZCSH) holds Zcash, a cryptocurrency built on privacy-first principles. Zcash uses advanced cryptography—specifically, zero-knowledge proofs—to let users move money on a [public blockchain](/public-blockchain/) while keeping the sender, receiver, and amount completely hidden if they choose. The trust offers investors exposure to Zcash without managing keys directly, through a conventional securities wrapper.
 
 ## What Zcash does differently
 
-Most cryptocurrencies, including Bitcoin and Ethereum, record all transactions on a transparent public ledger. Anyone can see that address A sent some amount to address B at a certain time. If you link an address to a real person (say, through an exchange where you registered), then you have created a permanent record of their financial movements.
+Most cryptocurrencies, including [Bitcoin](/bitcoin/) and [Ethereum](/ethereum/), record all transactions on a transparent public ledger. Anyone can see that address A sent some amount to address B at a certain time. If you link an address to a real person (say, through an exchange where you registered), then you have created a permanent record of their financial movements.
 
 Zcash, launched in 2016, was designed to solve this. It uses zero-knowledge proofs—a cryptographic technique that lets one party prove knowledge of a fact (like owning a sum of money) to another party without revealing the fact itself. Using Zcash's shielded pools, a user can send money to another shielded address while keeping the amount, sender, and receiver completely private. The transaction happens on the blockchain and is verified by the network, but from the outside, it looks like magic: value moved, but nobody knows how much, from where, or to where.
 
@@ -23,9 +23,9 @@ Think of it this way. Bitcoin transactions are like writing checks—everyone ca
 
 ## Why privacy matters and the regulatory squeeze
 
-Privacy in finance is genuinely valuable. Businesses do not want competitors seeing their payment patterns. Individuals do not want data brokers or governments tracking their spending. Activists and journalists in authoritarian countries need untrackable money. Zcash's privacy features address real needs.
+Privacy in finance is genuinely valuable. Businesses do not want competitors seeing their payment patterns. Individuals do not want data [brokers](/broker/) or governments tracking their spending. Activists and journalists in authoritarian countries need untrackable money. Zcash's privacy features address real needs.
 
-But that same feature has made Zcash a lightning rod for regulatory concern. Regulators worry that privacy coins enable money laundering, sanctions evasion, and other financial crimes. Several major cryptocurrency exchanges, including Coinbase and Kraken in the United States, have delisted Zcash or restricted shielded transaction support in response to regulatory pressure. In some jurisdictions, regulators have hinted or stated outright that they view privacy coins as non-compliant with financial regulations. This regulatory hostility has had real impact: Zcash has seen declining transaction volumes and reduced merchant support over time, and its price has lagged major cryptocurrencies.
+But that same feature has made Zcash a lightning rod for regulatory concern. Regulators worry that privacy coins enable money laundering, sanctions evasion, and other financial crimes. Several major [cryptocurrency exchanges](/cryptocurrency-exchange/), including Coinbase and Kraken in the United States, have delisted Zcash or restricted shielded transaction support in response to regulatory pressure. In some jurisdictions, regulators have hinted or stated outright that they view privacy coins as non-compliant with financial regulations. This regulatory hostility has had real impact: Zcash has seen declining transaction volumes and reduced merchant support over time, and its price has lagged major cryptocurrencies.
 
 ## Mining and the founder's reward
 
@@ -45,7 +45,7 @@ Zcash is governed by a decentralized community rather than a company, though the
 
 ## Holding Zcash through the trust
 
-ZCSH shareholders own a proportional share of the Zcash held in Grayscale's custody. The trust is structured as a closed-end vehicle trading on OTC markets, which typically means less liquid trading and wider spreads than major exchanges. The management fees charged by Grayscale create a drag relative to holding Zcash directly, but the trust provides institutional custody and the ability to hold Zcash in tax-advantaged accounts.
+ZCSH shareholders own a proportional share of the Zcash held in Grayscale's custody. The trust is structured as a closed-end vehicle trading on OTC markets, which typically means less liquid trading and wider spreads than major exchanges. The [management fees](/management-fee/) charged by Grayscale create a drag relative to holding Zcash directly, but the trust provides institutional custody and the ability to hold Zcash in tax-advantaged accounts.
 
 ## What shapes Zcash's future
 

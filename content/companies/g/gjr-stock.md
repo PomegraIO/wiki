@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **STRATS(SM) Trust for Procter & Gamble Securities, Series 2006-1** — ticker GJR — is a closed-end structured investment trust that holds a fixed basket of dividend-paying Procter & Gamble securities and distributes the income those securities generate to its unitholders. It is a passive vehicle with no active management, designed to provide investors a streamlined way to collect P&G's dividend cash flow without buying the company's shares directly.*
+*The **STRATS(SM) Trust for [Procter & Gamble](/pg-stock/) Securities, Series 2006-1** — ticker GJR — is a closed-end structured investment trust that holds a fixed basket of dividend-paying Procter & Gamble securities and distributes the income those securities generate to its unitholders. It is a passive vehicle with no active management, designed to provide investors a streamlined way to collect P&G's [dividend](/dividend/) cash flow without buying the company's shares directly.*
 
 <aside class="wiki-infobox">
 <table>
@@ -39,13 +39,13 @@ The economics are therefore very simple: investors pay a unit price to buy into 
 
 ## The permanence and the trap
 
-One characteristic that defines GJR and similar structured trusts is their static composition. Unlike a mutual fund or an exchange-traded fund, which can adjust holdings and respond to changing market conditions, GJR's portfolio is fixed at inception and remains fixed in perpetuity. This is both the appeal and the limitation. An investor attracted to the trust knows with certainty what they own: if the trust holds 10,000 shares of P&G common and 5,000 units of a P&G preferred, that is what the trust will hold until the securities mature or are redeemed.
+One characteristic that defines GJR and similar structured trusts is their static composition. Unlike a [mutual fund](/mutual-fund/) or an exchange-traded fund, which can adjust holdings and respond to changing market conditions, GJR's portfolio is fixed at inception and remains fixed in perpetuity. This is both the appeal and the limitation. An investor attracted to the trust knows with certainty what they own: if the trust holds 10,000 shares of P&G common and 5,000 units of a P&G preferred, that is what the trust will hold until the securities mature or are redeemed.
 
-This immutability protects against fee drag and the risk of poor active management, but it also means the trust cannot adapt. If P&G's dividend policy changes, the trust's distribution to unitholders changes with it — for better or worse. If P&G faces business headwinds and cuts its dividend, the trust's distributions fall immediately. The unitholder has no buffer; they are exposed directly to the underlying cash flows. There is no diversification beyond what the initial portfolio designer chose, and no opportunity to improve the allocation as circumstances evolve.
+This immutability protects against fee drag and the risk of poor active management, but it also means the trust cannot adapt. If P&G's dividend policy changes, the trust's distribution to unitholders changes with it — for better or worse. If P&G faces business headwinds and cuts its dividend, the trust's distributions fall immediately. The unitholder has no buffer; they are exposed directly to the underlying cash flows. There is no [diversification](/diversification/) beyond what the initial portfolio designer chose, and no opportunity to improve the allocation as circumstances evolve.
 
 ## Unit prices, trading, and exit
 
-GJR units trade on the stock exchange like any other security, and their market price can drift above or below the underlying value of the P&G securities held in the trust — a phenomenon called a premium or discount to net asset value. An investor buying GJR at a premium is paying more than the liquidation value of the trust's holdings, betting that the distributions will justify that premium over time. Conversely, buying at a discount captures a hidden value if the holder is willing to wait or if the trust is eventually wound up.
+GJR units trade on the [stock exchange](/stock-exchange/) like any other security, and their market price can drift above or below the underlying value of the P&G securities held in the trust — a phenomenon called a premium or discount to [net asset value](/net-asset-value/). An investor buying GJR at a premium is paying more than the [liquidation value](/liquidation-value/) of the trust's holdings, betting that the distributions will justify that premium over time. Conversely, buying at a discount captures a hidden value if the holder is willing to wait or if the trust is eventually wound up.
 
 Because GJR is a closed-end vehicle, there is a finite lifespan. The trust eventually terminates — either at a set maturity date or when the underlying P&G securities mature and are redeemed. Once wound up, unitholders receive the remaining cash and any remaining securities. Until then, the trust exists as a static, unchanging conduit for P&G's dividends.
 

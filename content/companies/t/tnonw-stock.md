@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Tenon Medical, trading on the NASDAQ under the symbol TNON, is a pre-commercial medical device company founded to address a large but underserved problem in orthopedic surgery: chronic pain in the sacroiliac joint. The sacroiliac joint, where the sacrum at the base of the spine connects to the pelvis, is a common source of lower back pain in adults. Despite affecting millions of people, treatment options have been limited. Physical therapy helps some; spinal fusion surgery, the historical gold standard, is invasive and has high morbidity. Tenon's strategy is to occupy the middle ground—a device that stabilizes the joint with minimal tissue disruption and quicker recovery than fusion.
+[Tenon Medical](/tnon-stock/), trading on the [NASDAQ](/nasdaq/) under the symbol TNON, is a pre-commercial medical device company founded to address a large but underserved problem in orthopedic surgery: chronic pain in the sacroiliac joint. The sacroiliac joint, where the sacrum at the base of the spine connects to the pelvis, is a common source of lower back pain in adults. Despite affecting millions of people, treatment options have been limited. Physical therapy helps some; spinal fusion surgery, the historical [gold standard](/gold-standard/), is invasive and has high morbidity. Tenon's strategy is to occupy the middle ground—a device that stabilizes the joint with minimal tissue disruption and quicker recovery than fusion.
 
 ## The sacroiliac joint pain problem
 
@@ -49,6 +49,6 @@ The upside scenario is substantial. If sacroiliac joint implantation becomes the
 
 Tenon Medical remains a pre-commercial company with limited revenue. The company's strategy is focused on three elements: completing necessary clinical studies and obtaining regulatory clearance for its implant, expanding the surgeon network trained and credentialed to use the device, and working with major insurance providers to establish coverage and reimbursement.
 
-The company's burn rate and available capital dictate the pace. If the company is burning millions annually and has only years of capital on the balance sheet, the timeline to profitability or break-even is constrained. In this scenario, achieving a transaction—a strategic acquisition by a larger medical device company, a partnership, or a capital raise—becomes likely before or in parallel with independence.
+The company's burn rate and available capital dictate the pace. If the company is burning millions annually and has only years of capital on the [balance sheet](/balance-sheet/), the timeline to profitability or break-even is constrained. In this scenario, achieving a transaction—a strategic [acquisition](/acquisition/) by a larger medical device company, a partnership, or a capital raise—becomes likely before or in parallel with independence.
 
 For investors, the key is to track clinical trial progress and regulatory milestones, as these determine whether reimbursement negotiations can succeed and whether surgeon adoption can accelerate. Early adoption rates in key markets and initial payer coverage agreements would be positive signals that the company is on a path to scale.

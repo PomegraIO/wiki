@@ -22,7 +22,7 @@ Abbott's reach spans both developed and emerging markets, a dual strategy that h
 
 ## Market Position and Challenges
 
-Abbott ranks among the top five [diversified healthcare](/dhc-stock/) companies globally, but it does not dominate a single segment the way a pure-play drug maker or device specialist might. Its [diversification](/diversification/) is both shield and ceiling: resilience in downturns versus lower growth potential in any one therapy area. Patent expirations on key drugs have required continued investment in pipeline development and emerging markets. Regulatory pressures on device pricing and healthcare spending in developed countries persist. The company faces intense competition from specialized rivals and generic manufacturers. Supply-chain resilience and manufacturing cost control remain strategic priorities, particularly for products like infant formula where brand trust and quality assurance are non-negotiable.
+Abbott ranks among the top five diversified healthcare companies globally, but it does not dominate a single segment the way a pure-play drug maker or device specialist might. Its [diversification](/diversification/) is both shield and ceiling: resilience in downturns versus lower growth potential in any one therapy area. Patent expirations on key drugs have required continued investment in pipeline development and emerging markets. Regulatory pressures on device pricing and healthcare spending in developed countries persist. The company faces intense competition from specialized rivals and generic manufacturers. Supply-chain resilience and manufacturing cost control remain strategic priorities, particularly for products like infant formula where brand trust and quality assurance are non-negotiable.
 
 ## At a Glance
 

@@ -31,11 +31,11 @@ Downstream, UDynamics serves small to mid-sized enterprises and government entit
 
 ## Scale and substance
 
-UDynamics went public on the Nasdaq Capital Market with a modest IPO that raised roughly eighteen million dollars. The company is not huge in terms of revenue—it reported roughly six and three-quarter million dollars in annual revenue in its most recent period—but it is profitable, earning about one million dollars in net income. This is a real, operating business, not a shell company or a speculative venture.
+UDynamics went public on the [Nasdaq](/nasdaq/) Capital Market with a modest IPO that raised roughly eighteen million dollars. The company is not huge in terms of revenue—it reported roughly six and three-quarter million dollars in annual revenue in its most recent period—but it is profitable, earning about one million dollars in net income. This is a real, operating business, not a shell company or a speculative venture.
 
 The Hong Kong and China base matters. The Asia-Pacific region is growing in technology adoption. Businesses in the region that cannot afford or do not want to build their own data centre infrastructure have to outsource it. UDynamics is positioned in that market, competing against larger global cloud providers and local regional competitors.
 
-The modest scale also reflects the limited appeal of cloud hosting commodities. Once giant providers like Amazon Web Services, Microsoft Azure, and Google Cloud built truly massive scale, smaller regional players became hard to justify. UDynamics survives and grows because it understands local markets, offers personalised support that big clouds do not, and has built relationships over decades. But it is not going to become a megacap company. That is not the business.
+The modest scale also reflects the limited appeal of cloud hosting commodities. Once giant providers like Amazon Web Services, [Microsoft](/msft-stock/) Azure, and Google Cloud built truly massive scale, smaller regional players became hard to justify. UDynamics survives and grows because it understands local markets, offers personalised support that big clouds do not, and has built relationships over decades. But it is not going to become a megacap company. That is not the business.
 
 ## Distinctive features and risks
 

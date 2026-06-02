@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-T-Mobile US operates one of the three largest wireless networks in the United States, competing directly against Verizon and AT&T. The company is a mobile network operator that owns and controls spectrum assets — the radio frequencies over which it transmits calls, texts, and data — and builds and maintains cell towers and transmission infrastructure. It derives revenue by selling wireless service to individuals, families, and businesses, and has differentiated itself from its competitors primarily through aggressive pricing and a reputation for customer-friendly policies.
+[T-Mobile US](/tmus-stock/) operates one of the three largest wireless networks in the United States, competing directly against Verizon and AT&T. The company is a mobile network operator that owns and controls spectrum assets — the radio frequencies over which it transmits calls, texts, and data — and builds and maintains cell towers and transmission infrastructure. It derives revenue by selling wireless service to individuals, families, and businesses, and has differentiated itself from its competitors primarily through aggressive pricing and a reputation for customer-friendly policies.
 
 <aside class="wiki-infobox">
 <table>
@@ -39,7 +39,7 @@ T-Mobile also earns revenue from enterprise and government customers, towers it 
 
 ## What makes T-Mobile different from Verizon and AT&T?
 
-T-Mobile's competitive position rests on two pillars: spectrum and pricing strategy. The company acquired significant low-band spectrum licenses in the 600 MHz band following the 2017 merger with Sprint, which gave it coverage capabilities that had previously been a relative weakness. It has since aggressively deployed 5G service, initially using mid-band spectrum that offers faster speeds than low-band. By operating a fully deployed 5G network, T-Mobile has closed a technology gap that once favored Verizon and AT&T.
+T-Mobile's competitive position rests on two pillars: spectrum and pricing strategy. The company acquired significant low-band spectrum licenses in the 600 MHz band following the 2017 [merger](/merger/) with Sprint, which gave it coverage capabilities that had previously been a relative weakness. It has since aggressively deployed 5G service, initially using mid-band spectrum that offers faster speeds than low-band. By operating a fully deployed 5G network, T-Mobile has closed a technology gap that once favored Verizon and AT&T.
 
 The second pillar is positioning. T-Mobile has marketed itself as the price leader and customer-friendly disruptor, introducing unlimited-data plans earlier than competitors, eliminating overage charges, and avoiding long-term contracts. This strategy has resonated with price-sensitive customers and has forced the larger carriers to match many of those terms. The company has also simplified its pricing, reducing the alphabet soup of plan variants that competitors offer.
 
@@ -51,7 +51,7 @@ Wireless carriers operate in a mature, highly competitive market where the large
 
 The capex intensity of the business is significant. T-Mobile must continuously invest in towers, spectrum licenses, and network equipment to maintain and improve coverage and speed. Spectrum licenses are acquired through government auctions and can be very expensive; the company competes with Verizon and AT&T for each new spectrum block released. Upgrades from 4G to 5G, and future upgrades to 6G, require ongoing capital deployment.
 
-Regulatory risk is also material. The wireless industry is heavily regulated; the FCC controls spectrum allocation and licensing, can impose conditions on mergers and acquisitions, and can change rules affecting pricing, data privacy, and network management. Any major acquisition would require antitrust review, and the industry's consolidated structure means future consolidation is unlikely to be approved. Additionally, there is periodic political pressure to regulate prices, especially for broadband and telecommunications services.
+Regulatory risk is also material. The wireless industry is heavily regulated; the FCC controls spectrum allocation and licensing, can impose conditions on mergers and [acquisitions](/acquisition/), and can change rules affecting pricing, data privacy, and network management. Any major acquisition would require antitrust review, and the industry's consolidated structure means future consolidation is unlikely to be approved. Additionally, there is periodic political pressure to regulate prices, especially for broadband and telecommunications services.
 
 Customer churn — the rate at which subscribers leave for competitors — is a key operational metric and source of pressure. T-Mobile has improved its churn profile in recent years but remains attentive to keeping customers, especially in postpaid, where switching costs and brand loyalty are higher than in prepaid.
 
@@ -59,6 +59,6 @@ Customer churn — the rate at which subscribers leave for competitors — is a 
 
 Start with the company's annual 10-K filing (SEC CIK 0001283699), which breaks down revenue by service type and customer segment, details the company's spectrum licenses and their terms, outlines capital expenditures, and discusses competitive and regulatory risks. The quarterly earnings reports are essential: track postpaid customer additions and churn, the average revenue per user (ARPU), and trends in the prepaid business. Management commentary on 5G deployment progress and subscriber growth reveals the competitive position relative to Verizon and AT&T.
 
-Key metrics to monitor include operating margins (how much of each revenue dollar flows to operating profit before interest and taxes), free cash flow (the cash the business generates after capital spending), and capital intensity (how much the company must invest to grow or maintain its business). Compare T-Mobile's multiples — price-to-earnings, EV/EBITDA — to Verizon and AT&T to understand how the market values the three carriers relative to one another.
+Key metrics to monitor include [operating margins](/operating-margin/) (how much of each revenue dollar flows to operating profit before interest and taxes), [free cash flow](/free-cash-flow/) (the cash the business generates after capital spending), and capital intensity (how much the company must invest to grow or maintain its business). Compare T-Mobile's multiples — price-to-earnings, EV/[EBITDA](/ebitda/) — to Verizon and AT&T to understand how the market values the three carriers relative to one another.
 
 Finally, stay abreast of FCC actions, spectrum auction outcomes, and any regulatory proposals that might affect wireless carriers. The wireless industry's structure and profitability are deeply shaped by government policy, and changes there can have immediate and material consequences for all three national carriers.

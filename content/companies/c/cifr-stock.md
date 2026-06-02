@@ -47,7 +47,7 @@ The unit economics of staking services are attractive in theory: once infrastruc
 
 ## Competition and market positioning
 
-Cipher competes against other professional crypto staking and custody providers—some operating independently (like Figment, Lido, others), and some as divisions of larger [financial institutions](/fisi-stock/) (Coinbase Custody, which offers similar services within the Coinbase ecosystem). The competitive advantage goes to companies with strong operational discipline, regulatory clarity in multiple jurisdictions, institutional-grade security, and low-cost infrastructure.
+Cipher competes against other professional crypto staking and custody providers—some operating independently (like Figment, Lido, others), and some as divisions of larger financial institutions (Coinbase Custody, which offers similar services within the Coinbase ecosystem). The competitive advantage goes to companies with strong operational discipline, regulatory clarity in multiple jurisdictions, institutional-grade security, and low-cost infrastructure.
 
 Cipher's advantage is its focus: it was built from the ground up for institutional crypto services, whereas some competitors are divisions of traditional exchanges or are less focused on the professional custody and staking market. The disadvantage is size and institutional credibility. Established financial institutions or crypto exchanges with millions of users can offer staking services as part of a larger platform, creating convenience and network effects that pure-play infrastructure providers cannot match.
 

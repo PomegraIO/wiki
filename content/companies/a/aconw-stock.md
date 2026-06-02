@@ -48,9 +48,9 @@ There is also the question of what problem Aclarion is solving. If the problem i
 
 The company's best hope is partnership. If a major equipment maker or network operator believes in the technology enough to integrate it into a product roadmap, that creates revenue and credibility. Early adoption by a respected player can open doors and prove the concept works at scale. Strategic partnerships also bring resources: the partner may fund development in exchange for licensing rights, de-risking Aclarion's cash burn.
 
-Another path is acquisition. If Aclarion's technology is genuinely useful but the company is too small to commercialise it alone, a larger player might buy the company, its team, and its intellectual property to fold into a bigger product. Acquisitions happen frequently in wireless and semiconductor spaces. However, acquisition typically means the public investors get cashed out at whatever price the buyer negotiates, and employees and founders may or may not do well depending on deal terms.
+Another path is [acquisition](/acquisition/). If Aclarion's technology is genuinely useful but the company is too small to commercialise it alone, a larger player might buy the company, its team, and its intellectual property to fold into a bigger product. Acquisitions happen frequently in wireless and semiconductor spaces. However, acquisition typically means the public investors get cashed out at whatever price the buyer negotiates, and employees and founders may or may not do well depending on deal terms.
 
-The worst case is slow decline: the company keeps burning cash, partnerships fail to materialise, and the stock becomes worthless. This happens to many startups. The bet on Aclarion is whether the team, the technology, and the market timing align in the narrow window when capital is available and customers are willing to listen.
+The worst case is slow decline: the company keeps burning cash, partnerships fail to materialise, and the stock becomes worthless. This happens to many startups. The bet on Aclarion is whether the team, the technology, and the [market timing](/market-timing/) align in the narrow window when capital is available and customers are willing to listen.
 
 ## Watching Aclarion
 

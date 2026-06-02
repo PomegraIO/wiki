@@ -11,17 +11,17 @@ keywords:
 handwritten: true
 ---
 
-Mountain Lake Acquisition Corp. (MLACR) is a blank-check company — a shell corporation created with a single, explicit purpose: to raise capital from public investors and then use that capital to acquire or merge with a private company. The SPAC itself has no operating business; its only asset is cash, and its only strategy is a transaction. Until that transaction closes, shareholders own a piece of an empty vessel. Once it closes (or if no acceptable target emerges within a set timeframe), the SPAC either becomes the public vehicle for the acquired company or is liquidated.
+Mountain Lake [Acquisition](/acquisition/) Corp. (MLACR) is a blank-check company — a shell corporation created with a single, explicit purpose: to raise capital from public investors and then use that capital to acquire or merge with a private company. The SPAC itself has no operating business; its only asset is cash, and its only strategy is a transaction. Until that transaction closes, shareholders own a piece of an empty vessel. Once it closes (or if no acceptable target emerges within a set timeframe), the SPAC either becomes the public vehicle for the acquired company or is liquidated.
 
 ## The capital-raising structure
 
-A SPAC begins with a small group of sponsors — usually investors or entrepreneurs with a track record — who put up their own capital and form the blank-check company. The sponsors then take the company public, issuing shares to retail and institutional investors. This initial public offering raises cash, which is placed in a trust account and held pending a transaction. The sponsors also receive founder shares at a discount, giving them a stake that benefits them when a deal closes.
+A SPAC begins with a small group of sponsors — usually investors or entrepreneurs with a track record — who put up their own capital and form the blank-check company. The sponsors then take the company public, issuing shares to retail and institutional investors. This [initial public offering](/initial-public-offering/) raises cash, which is placed in a trust account and held pending a transaction. The sponsors also receive [founder shares](/founder-shares/) at a discount, giving them a stake that benefits them when a deal closes.
 
-Mountain Lake raised capital through the issuance of common shares (MLACR) and units (MLACU) that bundled shares with warrants — call options allowing holders to purchase additional shares at a preset strike price. The unit structure is common in SPAC financings: it allows sponsors to offer investors a package that feels like it has downside protection (the share) and upside participation (the warrant) without explicitly offering leverage.
+Mountain Lake raised capital through the issuance of common shares (MLACR) and units (MLACU) that bundled shares with warrants — [call options](/call-option/) allowing holders to purchase additional shares at a preset [strike price](/strike-price/). The unit structure is common in SPAC financings: it allows sponsors to offer investors a package that feels like it has downside protection (the share) and upside participation (the warrant) without explicitly offering leverage.
 
 ## The acquisition timeline
 
-Once a SPAC goes public, the sponsors have a window — usually two or three years, though extensions are possible — to identify and negotiate an acquisition or merger target. During this period, the trust account holding investor capital earns interest (a modest return that goes to shareholders if no deal closes). The sponsors, using their own capital and reputations, hunt for a private company interested in going public through a SPAC rather than through a traditional initial public offering.
+Once a SPAC goes public, the sponsors have a window — usually two or three years, though extensions are possible — to identify and negotiate an acquisition or [merger](/merger/) target. During this period, the trust account holding investor capital earns interest (a modest return that goes to shareholders if no deal closes). The sponsors, using their own capital and reputations, hunt for a private company interested in going public through a SPAC rather than through a traditional initial public offering.
 
 If a target is found, the SPAC and the target company negotiate a merger agreement. The deal is put to a shareholder vote. If investors approve, the companies combine: the target company's operations merge into the SPAC's shell, and the resulting public company trades under a new name and ticker. Shareholders in the original target company receive shares in the new public company, and SPAC investors own a piece of the combined entity.
 
@@ -31,7 +31,7 @@ The SPAC structure creates aligned and misaligned incentives in equal measure. S
 
 For public investors, the SPAC offers a bet on management skill. You are betting that the sponsors will find a quality target and negotiate a fair price, returning capital to shareholders. Some SPACs have done this excellently; others have delivered poor returns to those who held through or after the merger. Common investor protections include a redemption right: if you do not approve of the proposed merger, you can redeem your shares for a pro rata slice of the trust account cash, effectively exiting before the deal closes.
 
-If no acceptable target emerges within the time window, the SPAC must either extend its charter (requiring shareholder approval) or liquidate. In liquidation, cash in the trust account is returned to shareholders, minus fees and expenses. Sponsors lose their founder shares if no deal happens.
+If no acceptable target emerges within the time window, the SPAC must either extend its charter (requiring shareholder approval) or liquidate. In [liquidation](/liquidation/), cash in the trust account is returned to shareholders, minus fees and expenses. Sponsors lose their founder shares if no deal happens.
 
 ## The mechanics of the securities
 

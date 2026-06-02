@@ -33,7 +33,7 @@ handwritten: true
 
 ## Who does it serve?
 
-The bank operates across three distinct customer franchises. Its Institutional Securities division caters to large [financial institutions](/fisi-stock/), corporations, and sophisticated investors trading and raising capital. The Wealth Management division serves ultrahigh-net-worth individuals and large family offices, managing portfolios and providing advisory services for substantial assets. The Investment Management arm serves institutional investors, pension funds, and [mutual fund](/mutual-fund/) clients with asset management and advisory products. This three-part structure means Morgan Stanley's fortunes depend partly on Wall Street deal flow, partly on trading volatility and client transaction volumes, and increasingly on the money it can attract and hold in client accounts.
+The bank operates across three distinct customer franchises. Its Institutional Securities division caters to large financial institutions, corporations, and sophisticated investors trading and raising capital. The Wealth Management division serves ultrahigh-net-worth individuals and large family offices, managing portfolios and providing advisory services for substantial assets. The Investment Management arm serves institutional investors, pension funds, and [mutual fund](/mutual-fund/) clients with asset management and advisory products. This three-part structure means Morgan Stanley's fortunes depend partly on Wall Street deal flow, partly on trading volatility and client transaction volumes, and increasingly on the money it can attract and hold in client accounts.
 
 ## How does the bank make money?
 

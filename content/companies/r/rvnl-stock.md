@@ -23,7 +23,7 @@ handwritten: true
 
 ## What RVNL does (and what it does not do)
 
-RVNL is a leveraged ETF that aims to deliver two times the daily return of Rivian Automotive stock. If RIVN gains 1% in a day, RVNL attempts to gain 2%. If RIVN falls 1%, RVNL attempts to fall 2%. It achieves this leverage using derivatives—primarily swaps and futures contracts—rather than borrowing money directly. GraniteShares, the fund sponsor, manages the daily rebalancing needed to maintain the 2x exposure as markets move.
+RVNL is a [leveraged ETF](/leveraged-etf/) that aims to deliver two times the daily return of Rivian Automotive stock. If RIVN gains 1% in a day, RVNL attempts to gain 2%. If RIVN falls 1%, RVNL attempts to fall 2%. It achieves this leverage using derivatives—primarily swaps and [futures contracts](/futures-contract/)—rather than borrowing money directly. GraniteShares, the fund sponsor, manages the daily rebalancing needed to maintain the 2x exposure as markets move.
 
 RVNL is explicitly not designed to track RIVN over weeks, months, or years. The "daily" in the fund's name is critical: the leverage reset happens every single market day. This makes RVNL radically different from a simple loan that let you buy twice as much Rivian stock at yesterday's price.
 
@@ -33,7 +33,7 @@ When a fund resets leverage daily, it rebalances its derivatives each night to m
 
 Suppose RIVN rises 20% one day, then falls 16.67% the next (a round trip that leaves it flat overall). A 1x investor buying RIVN at the start breaks even. But RVNL would have gained 40% on day one (2x the 20% move), then lost 33.33% on day two (2x the 16.67% fall), ending down roughly 7% overall despite the underlying stock being flat. The larger the swings, the worse the decay.
 
-This decay is mathematical, not a fee the fund charges. It arises directly from resetting leverage daily in a volatile market. Over short holding periods—hours to a few days—decay is manageable. Over weeks or months, decay becomes the dominant force, and RVNL will lose money even if Rivian stock stays flat or edges slightly higher.
+This decay is mathematical, not a fee the fund charges. It arises directly from resetting leverage daily in a volatile market. Over short [holding periods](/holding-period/)—hours to a few days—decay is manageable. Over weeks or months, decay becomes the dominant force, and RVNL will lose money even if Rivian stock stays flat or edges slightly higher.
 
 ## Rivian as the underlying
 
@@ -57,9 +57,9 @@ The fund carries significant risks: if Rivian stock drops sharply, RVNL will dro
 
 ## Costs and how it trades
 
-RVNL trades as an ETF on NASDAQ throughout the market day. The expense ratio is moderate—higher than a standard equity ETF but lower than actively managed funds—reflecting the cost of maintaining the leverage through derivative positions. The biggest cost, however, is not the fee but the volatility decay, which is baked into the mathematics rather than charged explicitly.
+RVNL trades as an ETF on [NASDAQ](/nasdaq/) throughout the market day. The [expense ratio](/expense-ratio/) is moderate—higher than a standard [equity ETF](/equity-etf/) but lower than [actively managed funds](/actively-managed-fund/)—reflecting the cost of maintaining the leverage through derivative positions. The biggest cost, however, is not the fee but the volatility decay, which is baked into the mathematics rather than charged explicitly.
 
-RVNL trades with reasonable liquidity given its single-stock focus. You can buy and sell shares directly through any brokerage account. However, the bid-ask spread may be wider than it is for simpler, more widely held ETFs, particularly during periods of low market activity.
+RVNL trades with reasonable liquidity given its single-stock focus. You can buy and sell shares directly through any brokerage account. However, the [bid-ask spread](/bid-ask-spread/) may be wider than it is for simpler, more widely held ETFs, particularly during periods of low market activity.
 
 ## Understanding this fund's true role
 

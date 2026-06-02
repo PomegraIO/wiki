@@ -32,15 +32,15 @@ Uptrend's evolution likely involved several M&A transactions — acquiring minor
 
 By the time Uptrend established itself as a mature holding company, its asset base likely included several categories: direct interests in resource properties (perhaps mineral claims, production rights, or working interests in oil-and-gas operations); equity stakes in subsidiary operating companies; and potentially real-estate holdings or other investments. The specifics depend on the founder's networks, past successes, and capital-allocation priorities.
 
-This diversification serves multiple purposes. It reduces the company's exposure to any single commodity or asset, insulating shareholders from total loss if one property underperforms. It also allows the founder or board to allocate capital toward the highest-return opportunities available at any given moment, without being locked into a single sector. In boom times, that might mean accelerating a mining project; in downturns, it might mean consolidating, divesting, or deploying capital into a completely different sector where valuations have compressed.
+This [diversification](/diversification/) serves multiple purposes. It reduces the company's exposure to any single commodity or asset, insulating shareholders from total loss if one property underperforms. It also allows the founder or board to allocate capital toward the highest-return opportunities available at any given moment, without being locked into a single sector. In boom times, that might mean accelerating a mining project; in downturns, it might mean consolidating, divesting, or deploying capital into a completely different sector where valuations have compressed.
 
 ## The founder/operator culture and capital allocation
 
 The framing lens for this batch — founder and operator culture — manifests clearly in mature Canadian holding companies. These structures often retain significant founder influence, whether through board representation, voting shares, or the sheer weight of founder reputation and relationships. A founder who has survived multiple commodity cycles and successfully built a profitable operation typically earns tremendous latitude from shareholders and the market.
 
-That autonomy comes with a high bar: the founder must consistently demonstrate good capital allocation. This means exiting losing positions, not riding them down; spotting nascent trends and positioning accordingly; and balancing growth ambitions with financial conservatism. A founder who loses discipline — overpaying for acquisitions, holding losers too long, or over-leveraging — quickly loses investor support and market confidence.
+That autonomy comes with a high bar: the founder must consistently demonstrate good capital allocation. This means exiting losing positions, not riding them down; spotting nascent trends and positioning accordingly; and balancing growth ambitions with financial conservatism. A founder who loses discipline — overpaying for [acquisitions](/acquisition/), holding losers too long, or over-leveraging — quickly loses investor support and market confidence.
 
-Uptrend's capital allocation over its history likely reflects these dynamics: some periods of aggressive expansion as opportunities beckoned, others of disciplined consolidation and cash generation. The size of the dividend (if any) and the pace of share buybacks also reveal management philosophy — whether the company is optimistic about deploying capital internally or is returning excess cash to shareholders.
+Uptrend's capital allocation over its history likely reflects these dynamics: some periods of aggressive expansion as opportunities beckoned, others of disciplined consolidation and cash generation. The size of the [dividend](/dividend/) (if any) and the pace of [share buybacks](/share-buyback/) also reveal management philosophy — whether the company is optimistic about deploying capital internally or is returning excess cash to shareholders.
 
 ## Navigating commodity cycles
 
@@ -50,9 +50,9 @@ Surviving multiple full cycles (from peak prices to trough and back) requires di
 
 ## Present structure and strategy
 
-Today, Uptrend operates as a holding company holding a portfolio of investments, the specifics of which likely evolve with board decisions and management opportunity. The company's annual reports and filings detail the current asset base, financial position, and strategic priorities. For investors, the key insight is that a holding company's value is ultimately the sum of its subsidiary and equity values, minus overhead costs and taxes.
+Today, Uptrend operates as a holding company holding a portfolio of investments, the specifics of which likely evolve with board decisions and management opportunity. The company's [annual reports](/10-k/) and filings detail the current asset base, financial position, and strategic priorities. For investors, the key insight is that a holding company's value is ultimately the sum of its subsidiary and equity values, minus overhead costs and taxes.
 
-This structure can create a "conglomerate discount," where the holding company trades at less than the net asset value of its holdings, because the market does not award a premium for the holding company's structure and may discount it for overhead and potential misallocation. Conversely, a holding company with an outstanding founder can trade at a premium if shareholders believe the founder's capital allocation will compound shareholder value over time.
+This structure can create a "[conglomerate discount](/conglomerate-discount/)," where the holding company trades at less than the [net asset value](/net-asset-value/) of its holdings, because the market does not award a premium for the holding company's structure and may discount it for overhead and potential misallocation. Conversely, a holding company with an outstanding founder can trade at a premium if shareholders believe the founder's capital allocation will compound shareholder value over time.
 
 ## The investment case
 

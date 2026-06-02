@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AVL is a leveraged exchange-traded fund issued by Direxion Shares that tracks the Broadcom Inc. (AVGO) stock with a 2X daily reset mechanism. It is not intended for buy-and-hold investors. The fund amplifies daily price moves of AVGO by a factor of two, rebalancing every market close to reset leverage back to 2X — a design that compounds losses over time in volatile or sideways-moving markets, often at odds with the underlying stock's longer-term direction.
+AVL is a leveraged exchange-traded fund issued by Direxion Shares that tracks the [Broadcom](/avgo-stock/) Inc. (AVGO) stock with a 2X daily reset mechanism. It is not intended for buy-and-hold investors. The fund amplifies daily price moves of AVGO by a factor of two, rebalancing every market close to reset leverage back to 2X — a design that compounds losses over time in volatile or sideways-moving markets, often at odds with the underlying stock's longer-term direction.
 
 ## What it tracks and how leverage works
 
@@ -27,7 +27,7 @@ The opposite bet exists in AVS (Direxion Daily AVGO Bear 1X), which moves one-to
 
 ## Costs and mechanics
 
-AVL trades on major exchanges with tight spreads, typically liquid enough for quick entry and exit. The fund carries an annual expense ratio (a small percentage of assets charged yearly to cover Direxion's management and operating costs), which is the only explicit fee an investor sees — there is no trading commission if bought through a brokerage.
+AVL trades on major exchanges with tight spreads, typically liquid enough for quick entry and exit. The fund carries an annual [expense ratio](/expense-ratio/) (a small percentage of assets charged yearly to cover Direxion's management and operating costs), which is the only explicit fee an investor sees — there is no trading commission if bought through a brokerage.
 
 Holding costs come implicitly through the decay itself. In range-bound or down markets, the daily-reset structure drains value faster than the underlying stock falls, a drag that worsens with higher volatility.
 
@@ -35,7 +35,7 @@ Holding costs come implicitly through the decay itself. In range-bound or down m
 
 The central risk in AVL is not AVGO falling (though that certainly hurts a 2X bull). It is volatility decay — the erosion that happens when a highly leveraged position rebalances daily through ups and downs. A stock that finishes the month where it started but swung wildly in between may leave a 2X fund down 20% or more. This is not a failure of the fund; it is the mechanical cost of leverage and daily reset.
 
-A related risk is gap risk: if Broadcom has a catastrophic drop in a single session (owing to earnings, acquisition news, or sector shock), AVL could fall 40%, 50%, or more in a day. Leverage amplifies tail risk, so a 20% stock drop becomes a 40% fund drop.
+A related risk is gap risk: if Broadcom has a catastrophic drop in a single session (owing to earnings, [acquisition](/acquisition/) news, or sector shock), AVL could fall 40%, 50%, or more in a day. Leverage amplifies [tail risk](/tail-risk/), so a 20% stock drop becomes a 40% fund drop.
 
 ## How to research it
 

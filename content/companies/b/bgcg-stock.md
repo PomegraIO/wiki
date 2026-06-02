@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-Baillie Gifford is a Scottish investment firm founded in the early 1800s, and the International Concentrated Growth ETF distills its philosophy of patient capital and disciplined stock selection into an exchange-traded wrapper. The fund does not track an index; instead, it reflects the judgment of a team of managers hunting for exceptional growth companies outside the United States, held in a concentrated portfolio designed to reward conviction.
+Baillie Gifford is a Scottish investment firm founded in the early 1800s, and the International Concentrated [Growth ETF](/growth-etf/) distills its philosophy of patient capital and disciplined stock selection into an exchange-traded wrapper. The fund does not track an index; instead, it reflects the judgment of a team of managers hunting for exceptional growth companies outside the United States, held in a concentrated portfolio designed to reward conviction.
 
 ## How the strategy evolved
 
-Baillie Gifford built its reputation through mutual funds managed on a long-dated investment horizon, a philosophy that traced to the firm's Scottish institutional roots and its ownership structure as a partnership. As exchange-traded funds gained popularity and proved themselves as vehicles for active management, Baillie Gifford adapted, bringing its proven international growth strategy into the ETF structure. The shift to ETF form preserved the investment philosophy while offering investors intraday trading, transparent pricing, and tax-loss harvesting opportunities that mutual funds could not provide.
+Baillie Gifford built its reputation through [mutual funds](/mutual-fund/) managed on a long-dated investment horizon, a philosophy that traced to the firm's Scottish institutional roots and its ownership structure as a partnership. As exchange-traded funds gained popularity and proved themselves as vehicles for active management, Baillie Gifford adapted, bringing its proven international growth strategy into the ETF structure. The shift to ETF form preserved the investment philosophy while offering investors intraday trading, transparent pricing, and [tax-loss harvesting](/tax-loss-harvesting/) opportunities that mutual funds could not provide.
 
 The strategy itself remained unchanged: bottom-up stock selection unconstrained by index benchmarks or geographic quotas.
 
@@ -39,9 +39,9 @@ By holding primarily non-US equities, BGCG provides a hedge against US-specific 
 
 ## Structure and mechanics
 
-The fund trades on stock exchanges throughout the day, allowing investors to buy and sell at real-time market prices rather than waiting for a single daily valuation. This intraday liquidity and the ETF structure's tax efficiency make it accessible to investors who prefer active management but want modern trading mechanics.
+The fund trades on [stock exchanges](/stock-exchange/) throughout the day, allowing investors to buy and sell at real-time market prices rather than waiting for a single daily valuation. This [intraday liquidity](/intraday-liquidity/) and the ETF structure's tax efficiency make it accessible to investors who prefer active management but want modern trading mechanics.
 
-The fund's expense ratio is published transparently and covers management and operating costs. Active managers of global growth funds typically charge higher fees than passive indices, reflecting both the research required and the opportunity for outperformance.
+The fund's [expense ratio](/expense-ratio/) is published transparently and covers management and operating costs. Active managers of global [growth funds](/growth-fund/) typically charge higher fees than passive indices, reflecting both the research required and the opportunity for outperformance.
 
 ## Evaluating the fund
 

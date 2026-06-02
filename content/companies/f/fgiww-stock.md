@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-FGI Industries trades the warrant (FGIWW) on the Nasdaq; the underlying common shares trade as FGI. The company is a supplier of bathroom and kitchen products—toilets, sinks, vanities, cabinetry, shower systems, and related fixtures—positioned squarely in the repair and remodel market, serving builders, contractors, and homeowners through a network of wholesalers and retailers rather than selling direct to end users. Nearly all revenue is regional: the United States accounts for roughly 60 percent, Canada about 25 percent, with the remainder spread across Europe and other markets.
+[FGI Industries](/fgi-stock/) trades the warrant (FGIWW) on the [Nasdaq](/nasdaq/); the underlying common shares trade as FGI. The company is a supplier of bathroom and kitchen products—toilets, sinks, vanities, cabinetry, shower systems, and related fixtures—positioned squarely in the repair and remodel market, serving builders, contractors, and homeowners through a network of wholesalers and retailers rather than selling direct to end users. Nearly all revenue is regional: the United States accounts for roughly 60 percent, Canada about 25 percent, with the remainder spread across Europe and other markets.
 
 ## Asset-light importer and distributor
 
@@ -25,11 +25,11 @@ Sales break down roughly as: wholesale and commercial distributors account for a
 
 FGI's heavy reliance on Chinese sanitaryware creates exposure to tariffs, shipping disruptions, and currency moves that the company cannot control. The 2024 and 2025 fiscal years illustrated this risk. In 2024, the company grew revenue 15 percent year-over-year; in 2025, revenue fell slightly despite a larger installed distributor base, held back by tariff pressures, weak contractor demand, and extended lead times on inventory. Gross margin compressed as import costs rose and the company chose not to raise prices immediately.
 
-A second pressure is diversification within the supplier base. Most sanitaryware still flows from China; FGI has explored alternate sources in India and Southeast Asia but has not yet shifted significant volume. This concentration means tariff shocks hit hard and suddenly.
+A second pressure is [diversification](/diversification/) within the supplier base. Most sanitaryware still flows from China; FGI has explored alternate sources in India and Southeast Asia but has not yet shifted significant volume. This concentration means tariff shocks hit hard and suddenly.
 
 ## Seasonality and the renovation cycle
 
-Bathroom and kitchen renovations are seasonal, with activity strongest in spring and early summer and slower in winter, though this varies by region and by whether work is driven by insurance claims (storm damage, flooding) or discretionary spending. FGI's quarterly results show this pattern clearly. The company's near-term visibility depends on what contractors and retailers expect from the repair and remodel market over the coming six months—a leading indicator that can shift quickly.
+Bathroom and kitchen renovations are seasonal, with activity strongest in spring and early summer and slower in winter, though this varies by region and by whether work is driven by insurance claims (storm damage, flooding) or [discretionary spending](/discretionary-spending/). FGI's quarterly results show this pattern clearly. The company's near-term visibility depends on what contractors and retailers expect from the repair and remodel market over the coming six months—a leading indicator that can shift quickly.
 
 ## How the market buys from FGI
 
@@ -47,7 +47,7 @@ The path to improved margins depends on three things: tariff relief or supplier 
 
 ## Capital allocation and visibility
 
-FGI generates cash from operations but faces a choice in allocating it: reinvest in inventory as suppliers and retailers expand; deploy it into acquisitions of complementary brands (kitchen lines, shower enclosures); or return it to shareholders. Over recent years the company has favored organic growth and modest inventory buildouts, signaling confidence in steady-state operations rather than transformational acquisition targets. Debt levels remain reasonable. The company is not capital-intensive, so the constraint is demand, not capacity. This is the core dynamic: revenue growth is limited not by ability to manufacture or finance but by market demand for bathroom and kitchen fixtures in North America and Europe.
+FGI generates cash from operations but faces a choice in allocating it: reinvest in inventory as suppliers and retailers expand; deploy it into [acquisitions](/acquisition/) of complementary brands (kitchen lines, shower enclosures); or return it to shareholders. Over recent years the company has favored organic growth and modest inventory buildouts, signaling confidence in steady-state operations rather than transformational acquisition targets. Debt levels remain reasonable. The company is not capital-intensive, so the constraint is demand, not capacity. This is the core dynamic: revenue growth is limited not by ability to manufacture or finance but by market demand for bathroom and kitchen fixtures in North America and Europe.
 
 ## How to research FGI Industries
 

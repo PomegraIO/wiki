@@ -43,7 +43,7 @@ BTCT may also offer portfolio management or advisory services to wealthy clients
 
 ## DeFi and Protocol Development
 
-Decentralized finance (DeFi) is a newer sector where financial services (lending, borrowing, trading) are provided by automated software protocols running on blockchain networks rather than by traditional [financial institutions](/fisi-stock/). BTCT may develop DeFi protocols or offer software-as-a-service to other projects.
+Decentralized finance (DeFi) is a newer sector where financial services (lending, borrowing, trading) are provided by automated software protocols running on blockchain networks rather than by traditional financial institutions. BTCT may develop DeFi protocols or offer software-as-a-service to other projects.
 
 DeFi revenue models include protocol fees (a small percentage of transactions or assets), token sales, or venture capital funding. The DeFi sector is younger and more speculative than traditional crypto exchanges. Revenue is lower but potential is higher if the sector matures.
 

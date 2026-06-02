@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Mercator Acquisition Corp. is a special-purpose acquisition company, or SPAC, focused on acquiring software and technology infrastructure businesses. The company was formed in 2025 by Hondius Capital Management and filed with the SEC for a public listing targeting $250 million in capital raised at $10 per unit through the over-the-counter market (later moved to Nasdaq) under the symbol MRCOU before the securities in the units split and began separate trading under MRCO (for shares) and MRCOW (for warrants).
+Mercator [Acquisition](/acquisition/) Corp. is a [special-purpose acquisition company](/special-purpose-acquisition-company/), or SPAC, focused on acquiring software and technology infrastructure businesses. The company was formed in 2025 by Hondius Capital Management and filed with the SEC for a public listing targeting $250 million in capital raised at $10 per unit through the [over-the-counter market](/over-the-counter-market/) (later moved to [Nasdaq](/nasdaq/)) under the symbol MRCOU before the securities in the units split and began separate trading under MRCO (for shares) and MRCOW (for warrants).
 
 ## What is Mercator's acquisition strategy?
 
@@ -20,13 +20,13 @@ The sponsor is Hondius Capital Management, and the SPAC's Chief Executive Office
 
 ## How much capital is Mercator raising?
 
-Mercator's initial IPO was sized at $250 million, divided into 25 million units at $10 per unit. Each unit consisted of one share of common stock and one-third of a redeemable warrant. Once the securities began separate trading, investors could hold shares and warrants independently. The underwriter for the offering was Clear Street.
+Mercator's initial IPO was sized at $250 million, divided into 25 million units at $10 per unit. Each unit consisted of one share of [common stock](/common-stock/) and one-third of a redeemable warrant. Once the securities began separate trading, investors could hold shares and warrants independently. The underwriter for the offering was Clear Street.
 
-Of the $250 million raised, a portion was placed into a trust account and held for investors to reclaim if they voted against a proposed merger, or to fund any transaction that management proposed. The remainder was available for the SPAC's general operations and the eventual transaction.
+Of the $250 million raised, a portion was placed into a trust account and held for investors to reclaim if they voted against a proposed [merger](/merger/), or to fund any transaction that management proposed. The remainder was available for the SPAC's general operations and the eventual transaction.
 
 ## What is the business-combination timeline?
 
-Like virtually all SPACs, Mercator faced a deadline to complete a business combination. The typical requirement is that a merger must be negotiated, announced, and closed within two years of the IPO; otherwise, the company must liquidate and return cash to shareholders (minus fees and expenses). This deadline creates urgency and, occasionally, incentive to close a suboptimal deal rather than face liquidation.
+Like virtually all SPACs, Mercator faced a deadline to complete a [business combination](/business-combination-purchase/). The typical requirement is that a merger must be negotiated, announced, and closed within two years of the IPO; otherwise, the company must liquidate and return cash to shareholders (minus fees and expenses). This deadline creates urgency and, occasionally, incentive to close a suboptimal deal rather than face [liquidation](/liquidation/).
 
 ## What makes technology and software attractive to SPACs?
 
@@ -42,7 +42,7 @@ A second risk is market conditions. At the time of any eventual business combina
 
 Third, there is always integration risk. Combining a private company with a public shell is operationally and culturally challenging. Management departures, loss of key clients, or disruption during the transition can harm the business.
 
-Finally, the warrant component creates leverage. Warrant holders have purchased the right to buy shares at a preset strike price, typically $11.50. If the merged company's stock rises significantly, warrants become valuable; if it falls, they expire worthless. This leverage can magnify both gains and losses.
+Finally, the warrant component creates leverage. Warrant holders have purchased the right to buy shares at a preset [strike price](/strike-price/), typically $11.50. If the merged company's stock rises significantly, warrants become valuable; if it falls, they expire worthless. This leverage can magnify both gains and losses.
 
 ## How would an investor research a Mercator deal?
 

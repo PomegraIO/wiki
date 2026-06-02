@@ -37,7 +37,7 @@ Rising interest rates change the deposit game. When the [Federal Reserve](/feder
 
 FBNC operates in a market where it competes against national banks ([Bank of America](/bank-of-america/), [Wells Fargo](/wells-fargo/), Truist) and other regional community banks. National banks have scale advantages: lower cost of funds, diversified loan portfolios, and the ability to undercut on price. FBNC's defense is not price but specialization and relationship. It cannot match the technology spending of a megabank, but it can respond faster to a local borrower's need. It cannot offer the breadth of products of a national institution, but it can offer clarity and personalized service.
 
-The bank is also small enough to be nimble. When a real-estate investor or agricultural operation needs a decision quickly, FBNC's underwriting process is faster than that of a bureaucratic giant. This agility is a form of competitive moat, though not an unbreakable one. As financial technology improves, the distinction between "local" and "digital" erodes. A mobile app from a [national bank](/nbhc-stock/) can offer convenience that no brick-and-mortar community bank matches.
+The bank is also small enough to be nimble. When a real-estate investor or agricultural operation needs a decision quickly, FBNC's underwriting process is faster than that of a bureaucratic giant. This agility is a form of competitive moat, though not an unbreakable one. As financial technology improves, the distinction between "local" and "digital" erodes. A mobile app from a national bank can offer convenience that no brick-and-mortar community bank matches.
 
 ## Asset Quality and Credit Risk
 

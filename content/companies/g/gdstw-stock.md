@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-GDSTW is a warrant — a financial instrument derived from Goldenstone Acquisition Ltd., the blank-check company. Where GDSTU is the parent share, GDSTW is the right to purchase one new share at a fixed strike price, valid until the warrant expires or is redeemed. Warrants are leverage instruments; they allow holders to control equity upside with minimal capital outlay.
+GDSTW is a warrant — a financial instrument derived from Goldenstone [Acquisition](/acquisition/) Ltd., the blank-check company. Where GDSTU is the parent share, GDSTW is the right to purchase one new share at a fixed [strike price](/strike-price/), valid until the warrant expires or is redeemed. Warrants are leverage instruments; they allow holders to control equity upside with minimal capital outlay.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ GDSTW is a warrant — a financial instrument derived from Goldenstone Acquisiti
 
 A warrant bundled into a SPAC unit gives the holder the right — but not the obligation — to purchase one new share at a predetermined strike price. If Goldenstone merges with a target and the resulting company's share price rises above the strike, the warrant holder can exercise and capture the difference. If the share price stays below the strike, the warrant holder lets it expire worthless. The leverage cuts both ways: a small move in the share price creates a much larger percentage move in the warrant price.
 
-Institutional investors buying SPAC units at the initial offering typically exercise or sell their warrants immediately after the unit splits. Retail traders, by contrast, hold warrants speculatively, betting that the eventual business combination will produce outsized returns. The warrant holder bears the full time decay and the binary risk that the merger never happens and the warrant expires.
+Institutional investors buying SPAC units at the initial offering typically exercise or sell their warrants immediately after the unit splits. Retail traders, by contrast, hold warrants speculatively, betting that the eventual [business combination](/business-combination-purchase/) will produce outsized returns. The warrant holder bears the full [time decay](/time-decay-theta/) and the binary risk that the [merger](/merger/) never happens and the warrant expires.
 
 ## The SPAC warrant timeline
 
@@ -38,7 +38,7 @@ A key feature of SPAC warrants is redemption. Many SPAC charters allow the compa
 
 ## Why warrants trade at a premium
 
-In the SPAC lifecycle, warrants are most valuable immediately after unit formation and before the merger target is known, because the uncertainty is highest and the time value is longest. Once a merger is announced, warrant prices typically converge toward their intrinsic value — the difference between the underlying share price and the strike. Before that announcement, GDSTW warrants trade on sentiment and supply-demand dynamics; a SPAC with a well-known sponsor or in a hot sector may see warrants trade well above intrinsic value simply because demand is high.
+In the SPAC lifecycle, warrants are most valuable immediately after unit formation and before the merger target is known, because the uncertainty is highest and the [time value](/time-value/) is longest. Once a merger is announced, warrant prices typically converge toward their [intrinsic value](/intrinsic-value/) — the difference between the underlying share price and the strike. Before that announcement, GDSTW warrants trade on sentiment and supply-demand dynamics; a SPAC with a well-known sponsor or in a hot sector may see warrants trade well above intrinsic value simply because demand is high.
 
 Conversely, warrants on a SPAC where the sponsor is unknown or the market sours on SPACs generally may trade below intrinsic value, offering a discount to early believers or a trap to those who catch a falling knife.
 

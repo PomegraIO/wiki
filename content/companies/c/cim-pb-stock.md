@@ -10,9 +10,9 @@ keywords:
 handwritten: true
 ---
 
-Chimera Investment is a mortgage REIT. That means it buys mortgages — bundles of home loans from across the country — and the securities backed by those mortgages. The company earns money by collecting the interest people pay on those mortgages. Then it pays most of that money out to shareholders as dividends.
+[Chimera Investment](/cim-stock/) is a [mortgage REIT](/mortgage-reit/). That means it buys mortgages — bundles of home loans from across the country — and the securities backed by those mortgages. The company earns money by collecting the interest people pay on those mortgages. Then it pays most of that money out to shareholders as [dividends](/dividend/).
 
-The business is simple to describe. Chimera borrows money at one interest rate and lends it out through mortgages at a higher rate. The difference is the profit. If the company borrows at 2% and mortgages pay 4%, the 2% gap is what flows to investors. That spread has to cover the company's costs and the risks it takes on. What remains goes to shareholders.
+The business is simple to describe. Chimera borrows money at one [interest rate](/interest-rate/) and lends it out through mortgages at a higher rate. The difference is the profit. If the company borrows at 2% and mortgages pay 4%, the 2% gap is what flows to investors. That spread has to cover the company's costs and the risks it takes on. What remains goes to shareholders.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ The business is simple to describe. Chimera borrows money at one interest rate a
 
 ## What Chimera actually owns
 
-Chimera's portfolio is mostly mortgages guaranteed by Fannie Mae or Freddie Mac. Those are the two big government-owned companies that buy home mortgages from banks and package them into securities. The government backs the payments. That means Chimera does not have to worry about people defaulting — the government promise is good. Chimera buys these guaranteed securities because they are safe and liquid.
+Chimera's portfolio is mostly mortgages guaranteed by [Fannie Mae](/fannie-mae/) or [Freddie Mac](/freddie-mac/). Those are the two big government-owned companies that buy home mortgages from banks and package them into securities. The government backs the payments. That means Chimera does not have to worry about people defaulting — the government promise is good. Chimera buys these guaranteed securities because they are safe and liquid.
 
 The company also holds some mortgages that are not government-backed. These pay higher interest but carry real risk: if a homeowner defaults, Chimera loses money. Most mortgage REITs focus mainly on the safer government-backed mortgages, like Chimera does.
 
@@ -76,11 +76,11 @@ Leverage cuts both ways. When spreads are positive and rates are stable, leverag
 
 Chimera is a REIT, which means it is taxed like a partnership — it does not pay corporate tax as long as it distributes at least 90% of income to shareholders. This structure is favorable for investors because they receive income and the company avoids double taxation. But it also means the company cannot retain capital easily and must constantly raise new money to grow.
 
-REITs are regulated by the SEC and must file detailed reports. Mortgage REITs are also implicitly regulated by the Fed's monetary policy: the level of interest rates and the Fed's stance determine the profitability of the business.
+REITs are regulated by the SEC and must file detailed reports. Mortgage REITs are also implicitly regulated by the Fed's [monetary policy](/monetary-policy/): the level of interest rates and the Fed's stance determine the profitability of the business.
 
 ## Tracking Chimera
 
-To understand the company, read the quarterly and annual reports (SEC CIK 0001409493). They lay out the portfolio composition, the hedge ratios, the funding costs, and the net interest margin. The earnings calls are where management discusses what might happen next.
+To understand the company, read the quarterly and [annual reports](/10-k/) (SEC CIK 0001409493). They lay out the portfolio composition, the hedge ratios, the funding costs, and the net interest margin. The earnings calls are where management discusses what might happen next.
 
 Watch the net interest margin — that is the spread the company is earning. If it is widening, the business is healthy. If it is narrowing, trouble is coming. Watch the book value per share — that is total assets minus liabilities, divided by shares. Rising rates cause book value to fall because the value of mortgages declines. Falling rates cause it to rise.
 

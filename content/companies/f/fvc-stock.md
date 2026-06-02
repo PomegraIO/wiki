@@ -25,9 +25,9 @@ This dynamic approach has a trade-off. Regular turnover (buying and selling as n
 
 ## Active management in an ETF wrapper
 
-FVC is an actively managed fund structured as an exchange-traded product, which means shares trade on an exchange during market hours at stock-like prices, but the portfolio itself reflects active management decisions. This is different from a passive index ETF, where the holdings follow a fixed rule.
+FVC is an [actively managed fund](/actively-managed-fund/) structured as an exchange-traded product, which means shares trade on an exchange during market hours at stock-like prices, but the portfolio itself reflects active management decisions. This is different from a passive index ETF, where the holdings follow a fixed rule.
 
-The trade-off is that the fund charges an expense ratio that typically exceeds that of a passive index fund, to cover the cost of ongoing research and portfolio management. Investors receive the benefit of active decision-making; they pay for it through higher fees.
+The trade-off is that the fund charges an [expense ratio](/expense-ratio/) that typically exceeds that of a passive [index fund](/index-fund/), to cover the cost of ongoing research and portfolio management. Investors receive the benefit of active decision-making; they pay for it through higher fees.
 
 ## Concentration risk and reward
 
@@ -43,6 +43,6 @@ The fund's frequent rebalancing makes it less tax-efficient in taxable accounts 
 
 ## Evaluating the approach
 
-Assess FVC by comparing its returns to a broad large-cap index (such as the S&P 500 index) over multiple market cycles — ideally 5, 10, and 15 years where available. Has the dynamic selection process delivered returns that justify its higher expense ratio and concentration risk? Watch the fund's turnover rate and the overlap between its current holdings and those of a few months prior; understand how frequently the strategy rotates.
+Assess FVC by comparing its returns to a broad large-cap index (such as the [S&P 500 index](/sp-500-index/)) over multiple market cycles — ideally 5, 10, and 15 years where available. Has the dynamic selection process delivered returns that justify its higher expense ratio and [concentration risk](/concentration-risk/)? Watch the fund's turnover rate and the overlap between its current holdings and those of a few months prior; understand how frequently the strategy rotates.
 
 Research the five current holdings directly to assess whether they genuinely have the relative-strength and fundamental characteristics the methodology claims to identify. The strength of an active strategy ultimately depends on whether the manager's edge is real and durable.

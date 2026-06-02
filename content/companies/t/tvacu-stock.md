@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Texas Ventures Acquisition III Corp is the third blank-check vehicle spun from Texas Ventures, a venture capital firm specializing in industrial technology. The company was formed to seek a merger with a private operating business that leverages advanced technologies and high-bandwidth services in the industrial sector. TVACU priced its initial public offering at two hundred million dollars in late 2024, reflecting the capital reserves and track record of its sponsoring partnership.
+Texas Ventures [Acquisition](/acquisition/) III Corp is the third blank-check vehicle spun from Texas Ventures, a venture capital firm specializing in industrial technology. The company was formed to seek a [merger](/merger/) with a private operating business that leverages advanced technologies and high-bandwidth services in the industrial sector. TVACU priced its [initial public offering](/initial-public-offering/) at two hundred million dollars in late 2024, reflecting the capital reserves and track record of its sponsoring partnership.
 
 <aside class="wiki-infobox">
 <table>
@@ -40,9 +40,9 @@ The specific domains the SPAC targets reflect this view: Internet of Things (sen
 
 ## The SPAC Search and Timeline
 
-TVACU completed its IPO in late 2024 with twenty-two million units priced at ten dollars each, raising two hundred twenty-five million dollars gross. Like all SPACs, it has a finite window—typically eighteen to twenty-four months from IPO—to identify a target, negotiate a merger agreement, and consummate the combination. That deadline approaching creates time pressure: the longer the search stretches without a suitable candidate, the more the trust account erodes through corporate costs and the closer the firm comes to forced liquidation.
+TVACU completed its IPO in late 2024 with twenty-two million units priced at ten dollars each, raising two hundred twenty-five million dollars gross. Like all SPACs, it has a finite window—typically eighteen to twenty-four months from IPO—to identify a target, negotiate a merger agreement, and consummate the combination. That deadline approaching creates time pressure: the longer the search stretches without a suitable candidate, the more the trust account erodes through corporate costs and the closer the firm comes to forced [liquidation](/liquidation/).
 
-The unit structure—one Class A share plus one-half of a warrant—follows SPAC convention, but the warrant component reflects market expectations. Warrant holders carry execution risk: if TVACU's combination creates a business with weak competitive positioning or poor management, the warrant will trade far below its strike price and expire worthless. Share holders can vote to redeem at roughly ten dollars per share if they disapprove of any proposed deal, but warrant holders have no such protection.
+The unit structure—one Class A share plus one-half of a warrant—follows SPAC convention, but the warrant component reflects market expectations. Warrant holders carry execution risk: if TVACU's combination creates a business with weak competitive positioning or poor management, the warrant will trade far below its [strike price](/strike-price/) and expire worthless. Share holders can vote to redeem at roughly ten dollars per share if they disapprove of any proposed deal, but warrant holders have no such protection.
 
 ## Positioning Within Industrial M&A
 

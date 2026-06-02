@@ -19,7 +19,7 @@ keywords: ["community bank", "southeastern banking", "small business lending", "
 
 ## Southeast Regional Footprint and Market Positioning
 
-Capital City operates approximately 40–50 branches clustered across Georgia (the densest footprint) with secondary presence in Florida and surrounding states. This geographic concentration gives Capital City local brand recognition and deep relationships within regional business communities. A contractor in suburban Atlanta knows the Capital City loan officer who has financed the last three projects; switching to a [national bank](/nbhc-stock/) means losing that continuity and institutional knowledge.
+Capital City operates approximately 40–50 branches clustered across Georgia (the densest footprint) with secondary presence in Florida and surrounding states. This geographic concentration gives Capital City local brand recognition and deep relationships within regional business communities. A contractor in suburban Atlanta knows the Capital City loan officer who has financed the last three projects; switching to a national bank means losing that continuity and institutional knowledge.
 
 The Southeast is a higher-growth region relative to the rustbelt and parts of the Midwest, driven by in-migration, manufacturing, and real estate development. Capital City's market includes both blue-collar industrial areas and affluent suburbs around Atlanta and Jacksonville. The bank therefore sees a mix of blue-collar working-capital lending (auto repair, construction trades, HVAC contractors) and more affluent residential mortgages. This diversity provides some stability — if residential lending weakens, commercial and industrial lending may remain robust, and vice versa.
 

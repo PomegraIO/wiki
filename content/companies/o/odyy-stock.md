@@ -39,7 +39,7 @@ In 2024, Odyssey Health signed a definitive agreement under which Oragenics, Inc
 
 ## Competitive and Regulatory Context
 
-Emergency medicine is an enormous market. Millions of people suffer acute cardiac events, strokes, head injuries, and respiratory emergencies annually. The vendors in this space are mostly large medical device and pharmaceutical companies with established distribution and clinical relationships. For a small-cap company like Odyssey Health, the path to meaningful market share requires either FDA approval and strong clinical endorsement, or acquisition by a larger player with distribution already in place.
+Emergency medicine is an enormous market. Millions of people suffer acute cardiac events, strokes, head injuries, and respiratory emergencies annually. The vendors in this space are mostly large medical device and pharmaceutical companies with established distribution and clinical relationships. For a small-cap company like Odyssey Health, the path to meaningful market share requires either FDA approval and strong clinical endorsement, or [acquisition](/acquisition/) by a larger player with distribution already in place.
 
 The neurological space is particularly challenging. Concussion and mild traumatic brain injury are vastly underdiagnosed and undertreated. The absence of effective pharmaceutical intervention has left the field to supportive care and rest. If PRV-002 were to demonstrate compelling clinical benefit in Phase 2 and Phase 3 trials, it could pioneer an entirely new category of therapy. But that journey is long, and many promising neurological compounds fail in late-stage trials. The sale of this program to Oragenics reflects realistic acknowledgment that Odyssey could not fund the full development alone.
 

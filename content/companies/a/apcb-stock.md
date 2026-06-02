@@ -11,23 +11,23 @@ keywords:
 handwritten: true
 ---
 
-*APCB is a bond ETF that combines passive index tracking with active management, holding a mix of investment-grade corporate, government, and other debt securities with intermediate maturity profiles.*
+*APCB is a [bond ETF](/bond-etf/) that combines passive index tracking with active management, holding a mix of investment-grade corporate, government, and other debt securities with intermediate maturity profiles.*
 
-The fund sits at a hybrid point: it uses a core holding of bonds that track a broad investment-grade index, then layers active selection on top. The idea is simple and somewhat counterintuitive — rather than incurring the full cost of active bond management across the entire portfolio, APCB keeps most money in a low-cost index that does what it is supposed to do (track the market), then allocates a smaller bucket to an active manager hunting for value among bonds the index is likely to miss or misprize.
+The fund sits at a hybrid point: it uses a core holding of [bonds](/bond/) that track a broad investment-grade index, then layers active selection on top. The idea is simple and somewhat counterintuitive — rather than incurring the full cost of active bond management across the entire portfolio, APCB keeps most money in a low-cost index that does what it is supposed to do (track the market), then allocates a smaller bucket to an active manager hunting for value among bonds the index is likely to miss or misprize.
 
 ## The portfolio construction
 
-The fund's structure reflects a broader trend in fixed income. Rather than betting an entire portfolio on an active manager's ability to pick the best bonds, APCB accepts that much of the bond market is efficiently priced and routes a large chunk into a bond index. That index core typically holds thousands of bonds across U.S. Treasuries, investment-grade corporate debt, and other credit sectors, weighted by market capitalization. The active sleeve — the smaller piece — focuses on securities where the manager believes skill matters more: trading dislocations, credit selection in corporate bonds, or longer-dated yields where the manager's duration view has conviction.
+The fund's structure reflects a broader trend in fixed income. Rather than betting an entire portfolio on an active manager's ability to pick the best bonds, APCB accepts that much of the bond market is efficiently priced and routes a large chunk into a bond index. That index core typically holds thousands of bonds across U.S. Treasuries, investment-grade corporate debt, and other credit sectors, weighted by [market capitalization](/market-capitalization/). The active sleeve — the smaller piece — focuses on securities where the manager believes skill matters more: trading dislocations, credit selection in [corporate bonds](/corporate-bond/), or longer-dated yields where the manager's duration view has conviction.
 
 This blend aims to capture most of the bond market's return with the cost structure of passive investing, while preserving the edge active management can deliver in pockets where human judgment arguably still matters. The fund holds debt with intermediate maturity — typically the 3-to-10-year range — rather than very-short-term money-market instruments or very-long-dated bonds, which means its price moves with interest-rate changes and credit conditions.
 
 ## Costs and structure
 
-APCB trades as a conventional ETF, settling at market prices during trading hours while its net asset value reflects the underlying bond holdings. The expense ratio blends the cost of the passive index portion (often near 0.05 percent) with the active manager's fee (often 0.20 to 0.40 percent). The blended fee typically runs between 0.20 and 0.40 percent annually — well below a fully active bond fund but above a pure bond-index ETF.
+APCB trades as a conventional ETF, settling at market prices during trading hours while its [net asset value](/net-asset-value/) reflects the underlying bond holdings. The [expense ratio](/expense-ratio/) blends the cost of the passive index portion (often near 0.05 percent) with the active manager's fee (often 0.20 to 0.40 percent). The blended fee typically runs between 0.20 and 0.40 percent annually — well below a fully active bond fund but above a pure bond-index ETF.
 
 ## The real risks
 
-Bond prices move inversely to interest rates, so if rates rise, the fund's value falls. Credit risk — the chance that a bondholder defaults — is mitigated by the investment-grade focus, but it is never zero. The active sleeve introduces manager risk: if the active manager's bets go wrong, the fund underperforms the index by more than the fees charged justify. Tracking error between the fund and whatever benchmark it targets is an important metric to watch.
+Bond prices move inversely to [interest rates](/interest-rate/), so if rates rise, the fund's value falls. [Credit risk](/credit-risk/) — the chance that a bondholder defaults — is mitigated by the investment-grade focus, but it is never zero. The active sleeve introduces manager risk: if the active manager's bets go wrong, the fund underperforms the index by more than the fees charged justify. Tracking error between the fund and whatever benchmark it targets is an important metric to watch.
 
 ## Who holds it and why
 

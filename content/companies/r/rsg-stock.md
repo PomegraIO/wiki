@@ -26,7 +26,7 @@ Republic Services collects and disposes of garbage and recycling. It is the seco
 
 ## The consolidation story
 
-[Waste management](/wm-stock/) in America used to be a fragmented industry — thousands of small, regional haulers run by local families. Republic Services is a roll-up story. It started as a smaller regional player and spent the 1990s and 2000s acquiring competitors and smaller waste companies, each time absorbing their routes and infrastructure into a larger network.
+Waste management in America used to be a fragmented industry — thousands of small, regional haulers run by local families. Republic Services is a roll-up story. It started as a smaller regional player and spent the 1990s and 2000s acquiring competitors and smaller waste companies, each time absorbing their routes and infrastructure into a larger network.
 
 This consolidation made economic sense. A large operator can negotiate better rates with landfills, buy equipment in bulk, optimize collection routes across a wider area, and share administrative overhead across more customers. By the 2010s, the industry had consolidated into a handful of large public players: Waste Management (WM, the biggest), Republic Services, and a few others. The consolid­ators have largely saturated the U.S. market — there are not many meaningful independent waste companies left to buy.
 

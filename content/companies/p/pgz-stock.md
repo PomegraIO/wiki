@@ -47,7 +47,7 @@ The closed-end structure has two implications. First, there is no forced selling
 
 ## The yield story and where risks hide
 
-The appeal of PGZ and its peer funds rests on yield — the income the fund pays out relative to its share price. In periods when bonds pay little and stocks pay nothing, real estate [income funds](/income-fund/) attract money seeking current return. But yield is a siren song that blinds investors to risk if they are not careful.
+The appeal of PGZ and its peer funds rests on yield — the income the fund pays out relative to its share price. In periods when [bonds](/bond/) pay little and stocks pay nothing, real estate [income funds](/income-fund/) attract money seeking current return. But yield is a siren song that blinds investors to risk if they are not careful.
 
 The primary risk is interest-rate sensitivity. When real estate investors borrow to buy buildings, they lock in a mortgage rate. If [interest rates](/interest-rate/) rise sharply, two things happen: the value of that existing mortgage falls (because new borrowers can get cheaper rates), and the appetite for new real estate lending collapses. Rising rates hurt mortgage securities held in the fund directly and depress REIT valuations because future [cap rates](/cap-rate/) (the yield new investors expect from property) move higher. PGZ is vulnerable to rate shocks, and periods of rapid tightening can bruise the share price.
 

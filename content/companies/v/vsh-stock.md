@@ -35,7 +35,7 @@ But Vishay also faces the reality that component manufacturing in many product l
 
 The cyclicality of electronics demand is the largest risk. When computer makers, automakers, and industrial-equipment suppliers cut back on capital spending or inventory, demand for Vishay's components falls off a cliff. The company is particularly exposed to downturns in automotive production, because that is a major end market and automotive manufacturers buy aggressively in booms and slash spending in downturns.
 
-The second risk is the ongoing price erosion in commodity components. Vishay has been managing that pressure for decades by exiting the lowest-margin businesses, consolidating factories, and moving into higher-value products. But there is a limit to how far up the value chain the company can move before it bumps into direct competition from larger semiconductor companies like [Texas Instruments](/txn-stock/) or [ON Semiconductor](/on-stock/), which have more R&D firepower and larger economies of scale.
+The second risk is the ongoing price erosion in commodity components. Vishay has been managing that pressure for decades by exiting the lowest-margin businesses, consolidating factories, and moving into higher-value products. But there is a limit to how far up the value chain the company can move before it bumps into direct competition from larger semiconductor companies like [Texas Instruments](/txn-stock/) or ON Semiconductor, which have more R&D firepower and larger economies of scale.
 
 A third risk is the complexity of the supply chain and the exposure to geopolitical tensions. Vishay has significant manufacturing in Asia and is exposed to trade disputes, tariffs, and the broader tension around semiconductor manufacturing and China.
 

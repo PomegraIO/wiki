@@ -17,7 +17,7 @@ keywords: ["semiconductor-design", "china-based", "video-processing", "adr", "fa
 
 ## The Fabless Semiconductor Model
 
-Montage Technology is a fabless chip designer — it designs semiconductor chips but outsources manufacturing to specialized fabs (foundries) like Taiwan Semiconductor Manufacturing Company (TSMC). This is capital-light compared to integrated device manufacturers (IDMs) that own fabs, but it creates fab dependency and limits scale. When you open the 10-K, understand that Montage's profitability depends on design efficiency (how much R&D it takes to design a chip), unit economics at scale (how much a chip costs to manufacture at a foundry, relative to the selling price), and customer concentration. A fabless company with limited customers faces revenue [concentration risk](/concentration-risk/). One with a broad customer base has more stable revenue but less pricing power.
+Montage Technology is a fabless chip designer — it designs semiconductor chips but outsources manufacturing to specialized fabs (foundries) like [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company (TSMC). This is capital-light compared to integrated device manufacturers (IDMs) that own fabs, but it creates fab dependency and limits scale. When you open the 10-K, understand that Montage's profitability depends on design efficiency (how much R&D it takes to design a chip), unit economics at scale (how much a chip costs to manufacture at a foundry, relative to the selling price), and customer concentration. A fabless company with limited customers faces revenue [concentration risk](/concentration-risk/). One with a broad customer base has more stable revenue but less pricing power.
 
 ## Product Portfolio and Market Application
 

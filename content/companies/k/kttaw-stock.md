@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Pasithea Therapeutics Corporation is an early-stage biotech firm at the intersection of central nervous system biology, oncology, and rare genetic disease. The company was incorporated in 2020 and is headquartered in Miami Beach, Florida, trading on NASDAQ under the symbols KTTA for common stock and KTTAW for warrants. Pasithea's strategy is to identify and develop next-generation small-molecule drugs targeting specific molecular pathways implicated in severe, underserved disease areas — chiefly conditions driven by mutations in the RAS/MAPK signaling cascade and selected central nervous system disorders.
+[Pasithea Therapeutics](/ktta-stock/) Corporation is an early-stage biotech firm at the intersection of central nervous system biology, oncology, and rare genetic disease. The company was incorporated in 2020 and is headquartered in Miami Beach, Florida, trading on [NASDAQ](/nasdaq/) under the symbols KTTA for [common stock](/common-stock/) and KTTAW for warrants. Pasithea's strategy is to identify and develop next-generation small-molecule drugs targeting specific molecular pathways implicated in severe, underserved disease areas — chiefly conditions driven by mutations in the RAS/MAPK signaling cascade and selected central nervous system disorders.
 
 ## The lead program: PAS-004 for RASopathies and MAPK-driven cancers.
 
@@ -29,7 +29,7 @@ A third program, earlier in development, is PAS-001, intended to address schizop
 
 ## The financing landscape and cash runway.
 
-Pasithea is pre-revenue — it generates no income from product sales. The company is entirely dependent on equity financing to fund operations, clinical trials, and preclinical research. In May 2025, Pasithea announced a public offering of five million dollars in common stock, a modest raise used to extend cash runway and support ongoing and upcoming clinical studies. Clinical-stage biotech companies routinely require repeated financing rounds to advance through Phase II and Phase III trials, which are more expensive and longer-running than Phase I. The cost and timeline of each financing round are material risks for shareholders; dilution accelerates as new equity is issued.
+Pasithea is pre-revenue — it generates no income from product sales. The company is entirely dependent on [equity financing](/equity-financing/) to fund operations, clinical trials, and preclinical research. In May 2025, Pasithea announced a public offering of five million dollars in common stock, a modest raise used to extend cash runway and support ongoing and upcoming clinical studies. Clinical-stage biotech companies routinely require repeated financing rounds to advance through Phase II and Phase III trials, which are more expensive and longer-running than Phase I. The cost and timeline of each financing round are material risks for shareholders; dilution accelerates as new equity is issued.
 
 ## The regulatory and execution path.
 

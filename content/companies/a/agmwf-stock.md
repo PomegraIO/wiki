@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Silver Mountain Resources is a Toronto-based mineral exploration and development company that owns and operates precious-metal mining assets in Peru, one of the world's richest silver-producing regions. The company's flagship asset is the Reliquias underground silver-gold mine in Huancavelica, which it is actively developing toward commercial production. Unlike larger diversified miners, Silver Mountain focuses narrowly on silver and base metals in Peru, making a concentrated bet on successfully bringing Reliquias into production and developing its additional projects in the Castrovirreyna district.
+[Silver Mountain Resources](/agmrf-stock/) is a Toronto-based mineral exploration and development company that owns and operates precious-metal mining assets in Peru, one of the world's richest silver-producing regions. The company's flagship asset is the Reliquias underground silver-gold mine in Huancavelica, which it is actively developing toward commercial production. Unlike larger diversified miners, Silver Mountain focuses narrowly on silver and base metals in Peru, making a concentrated bet on successfully bringing Reliquias into production and developing its additional projects in the Castrovirreyna district.
 
 <aside class="wiki-infobox">
 <table>
@@ -48,17 +48,17 @@ However, exploration is inherently uncertain. Many holes are drilled and few tur
 
 Silver Mountain is a private company that raises capital by issuing shares on the TSX Venture Exchange (a junior market for early-stage exploration and development companies). Its ticker in Canada is AGMR. The company also trades over-the-counter in the US under AGMWF. Like most junior miners, Silver Mountain does not generate meaningful cash flow; it is funded by equity issuance and occasional strategic partnerships or debt facilities. This means existing shareholders face dilution each time the company raises capital to fund exploration and development work.
 
-The company's balance sheet and cash position are material to its survival. If Silver Mountain runs low on cash and cannot raise more, it will have to slow spending on Reliquias development, extend timelines, or potentially sell assets. Conversely, if it finds funding partners or joint-venture arrangements, it can accelerate toward production without diluting current shareholders as severely.
+The company's [balance sheet](/balance-sheet/) and cash position are material to its survival. If Silver Mountain runs low on cash and cannot raise more, it will have to slow spending on Reliquias development, extend timelines, or potentially sell assets. Conversely, if it finds funding partners or joint-venture arrangements, it can accelerate toward production without diluting current shareholders as severely.
 
 ## Peru as a jurisdiction and geopolitical risk
 
-Peru is one of the world's largest silver producers, but operating in the country carries political and social risks. Mining is a contested industry in Peru; local communities have at times protested or blocked mining projects over water, land, and environmental concerns. Regulatory changes have occasionally tightened permitting requirements or environmental standards. Civil unrest and currency volatility are also historical concerns.
+Peru is one of the world's largest silver producers, but operating in the country carries political and social risks. Mining is a contested industry in Peru; local communities have at times protested or blocked mining projects over water, land, and environmental concerns. Regulatory changes have occasionally tightened permitting requirements or environmental standards. Civil unrest and [currency volatility](/currency-volatility/) are also historical concerns.
 
 Silver Mountain's ability to advance Reliquias depends on maintaining good standing with Peruvian regulators, local communities, and the central government. Political instability or a shift toward stricter environmental enforcement could delay or derail development. For investors, this adds a geopolitical layer to the investment case beyond the inherent risks of mine development.
 
 ## Market positioning within junior miners
 
-Silver Mountain competes with other junior and intermediate silver miners for investor capital, partnerships, and commodity upside. It is smaller than established silver miners like Pan American Silver or First Majestic, but it has a clearer path to production than purely exploration-focused juniors. The company's position — a restart asset with infrastructure already in place — appeals to investors who want silver exposure without the waiting period that early-stage exploration implies.
+Silver Mountain competes with other junior and intermediate silver miners for investor capital, partnerships, and commodity upside. It is smaller than established silver miners like [Pan American Silver](/paas-stock/) or First Majestic, but it has a clearer path to production than purely exploration-focused juniors. The company's position — a restart asset with infrastructure already in place — appeals to investors who want silver exposure without the waiting period that early-stage exploration implies.
 
 Recent recognition (inclusion in the 2026 TSX Venture 50) signals that investors and market observers believe the company has merit and momentum. However, junior miners are inherently volatile and correlated to commodity prices. When silver falls, the entire cohort trades down. When silver rises and finance is available, they trade up.
 

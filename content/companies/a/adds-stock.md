@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Hedgeye Index Adds ETF (ticker ADDS) holds the companies that have been newly added to the S&P 500 index in recent periods. The fund rests on the observation that stocks promoted into the S&P 500 often experience a buying surge as index funds and trackers are forced to add them, and that many of these newly promoted companies are successful growth stories or recovering businesses gaining weight in the market.*
+*Hedgeye Index Adds ETF (ticker ADDS) holds the companies that have been newly added to the [S&P 500 index](/sp-500-index/) in recent periods. The fund rests on the observation that stocks promoted into the S&P 500 often experience a buying surge as [index funds](/index-fund/) and trackers are forced to add them, and that many of these newly promoted companies are successful growth stories or recovering businesses gaining weight in the market.*
 
 <aside class="wiki-infobox">
 <table>
@@ -41,7 +41,7 @@ Unlike a static index, ADDS is a rolling basket. As newly added stocks age in th
 
 Not all newly added S&P 500 constituents are winners. Some join because a high-flying tech company finally reached sufficient size, but then falters once the novelty wears off. Others enter because an older industrial company recovered from obscurity, only to fade again. The inclusion effect can be strong enough to carry a stock higher for several weeks on pure mechanics, but mechanics fade when the rest of the market reassesses fundamentals. An investor buying ADDS betting on that post-inclusion pop assumes that the newly promoted companies will maintain strength; the fund offers no guarantee of that.
 
-There is also concentration risk inherent in any strategy that narrows its focus to a small, rotating cohort of stocks. ADDS at any given time holds only the companies that fit its criteria, which means it is far more volatile and concentrated than the S&P 500 itself. A few large additions dominating the portfolio can swing the fund sharply. This is the trade-off for seeking momentum in a specific segment of the market.
+There is also [concentration risk](/concentration-risk/) inherent in any strategy that narrows its focus to a small, rotating cohort of stocks. ADDS at any given time holds only the companies that fit its criteria, which means it is far more volatile and concentrated than the S&P 500 itself. A few large additions dominating the portfolio can swing the fund sharply. This is the trade-off for seeking momentum in a specific segment of the market.
 
 ## Who ADDS fits
 

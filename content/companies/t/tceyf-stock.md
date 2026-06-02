@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TC Energy Corporation is the operating heartbeat of North American energy delivery. Based in Calgary and listed on major exchanges, the company operates roughly 94,000 kilometres of natural gas pipelines, power generation facilities, and energy storage infrastructure across Canada, the United States, and Mexico. The TCEYF ticker represents the company's publicly traded equity, accessible to international investors seeking exposure to essential energy infrastructure.
+[TC Energy](/trp-stock/) Corporation is the operating heartbeat of North American energy delivery. Based in Calgary and listed on major exchanges, the company operates roughly 94,000 kilometres of [natural gas](/natural-gas/) pipelines, power generation facilities, and energy storage infrastructure across Canada, the United States, and Mexico. The TCEYF ticker represents the company's publicly traded equity, accessible to international investors seeking exposure to essential energy infrastructure.
 
 > "We move more than 30% of the natural gas consumed in North America." This single fact frames everything about TC Energy's business model.
 
@@ -31,19 +31,19 @@ Power and Energy Solutions represents a strategic shift — the company's pivot 
 
 What makes TC Energy defensible is the nature of its revenues. Most pipeline capacity is sold under long-term, take-or-pay contracts with customers like utility companies, industrial processors, and gas distributors. These contracts guarantee revenue even if the customer does not use the full capacity — the customer pays a reservation fee regardless. This structure removes volume and commodity-price risk from the operator and creates predictable cash flow.
 
-The company operates under regulatory frameworks in each jurisdiction. Canadian interprovincial pipelines fall under federal regulation (historically the National Energy Board; now integrated into the Canadian Energy Regulator). U.S. pipelines are regulated by the Federal Energy Regulatory Commission (FERC), which approves rates and major projects. Mexico operates its own regulatory regime. These frameworks protect TC Energy by allowing cost recovery and a permitted return on invested capital, but they also constrain pricing power and can delay new projects through permitting processes.
+The company operates under regulatory frameworks in each jurisdiction. Canadian interprovincial pipelines fall under federal regulation (historically the National Energy Board; now integrated into the Canadian Energy Regulator). U.S. pipelines are regulated by the Federal Energy Regulatory Commission (FERC), which approves rates and major projects. Mexico operates its own regulatory regime. These frameworks protect TC Energy by allowing cost recovery and a permitted [return on invested capital](/return-on-invested-capital/), but they also constrain pricing power and can delay new projects through permitting processes.
 
 ## The energy transition question
 
 For decades, natural gas pipelines were seen as boring, stable utilities — exactly the kind of long-duration asset that pension funds and conservative portfolios wanted to own. That backdrop has shifted. Net-zero commitments, renewable energy adoption, and electrification are reshaping the long-term demand outlook for fossil fuels. Some analysts argue that pipeline operators face declining throughput over the next 20–30 years as the energy mix shifts toward wind, solar, and batteries.
 
-TC Energy has responded by building generation and storage capacity, positioning itself as an energy infrastructure company rather than purely a gas-pipeline operator. This diversification is genuine, but it also introduces execution risk — developing large power projects requires regulatory approval, customer contracts, and capital discipline, none of which is guaranteed.
+TC Energy has responded by building generation and storage capacity, positioning itself as an energy infrastructure company rather than purely a gas-pipeline operator. This [diversification](/diversification/) is genuine, but it also introduces execution risk — developing large power projects requires regulatory approval, customer contracts, and capital discipline, none of which is guaranteed.
 
 The company's existing portfolio of pipelines will likely remain productive for decades because the energy transition will not happen overnight. North America will continue consuming natural gas for years. But the trajectory matters for valuation and for the long-term sustainability of growth. Investors in TCEYF are betting that TC Energy can manage that transition effectively.
 
 ## Capital allocation and financial strength
 
-TC Energy operates with a strong balance sheet and generates substantial free cash flow. The company prioritises debt servicing, preferred dividends, and reinvestment in maintaining and upgrading its pipeline network. Excess cash funds capital expenditures for new projects, acquisitions of infrastructure assets, and shareholder distributions through common dividends and buybacks (or distributions if the company operates as a limited partnership in some jurisdictions or structures).
+TC Energy operates with a strong [balance sheet](/balance-sheet/) and generates substantial [free cash flow](/free-cash-flow/). The company prioritises debt servicing, preferred [dividends](/dividend/), and reinvestment in maintaining and upgrading its pipeline network. Excess cash funds capital expenditures for new projects, [acquisitions](/acquisition/) of infrastructure assets, and shareholder distributions through common dividends and buybacks (or distributions if the company operates as a limited partnership in some jurisdictions or structures).
 
 The company has made major portfolio shifts, including the sale of certain pipeline assets and the purchase of others, to rebalance toward growth opportunities and away from mature, slow-growth infrastructure. These moves reflect management's view of where energy infrastructure will be valuable over the next decade.
 
@@ -57,6 +57,6 @@ Disruptions upstream — such as a production shortfall or oversupply that reduc
 
 Begin with the company's investor relations site and annual 10-K filing (SEC CIK 0001232384), which breaks revenue by segment, geography, and customer type, and outlines the regulatory environment and risks. The quarterly earnings calls reveal management's commentary on throughput trends, project progress, and strategic priorities.
 
-A few metrics illuminate the business. The debt-to-EBITDA ratio shows whether the company is borrowing prudently or overleveraging. The dividend yield (or distribution yield, if the company operates as a partnership) indicates what income you earn from holding the shares. The return on invested capital reveals whether new projects earn an adequate return. Segment revenue growth shows which parts of the business are expanding and which are maturing.
+A few metrics illuminate the business. The [debt-to-EBITDA ratio](/debt-to-ebitda-ratio/) shows whether the company is borrowing prudently or overleveraging. The [dividend yield](/dividend-yield/) (or distribution yield, if the company operates as a partnership) indicates what income you earn from holding the shares. The return on invested capital reveals whether new projects earn an adequate return. Segment revenue growth shows which parts of the business are expanding and which are maturing.
 
 Watch for regulatory decisions on pending projects, updates on the energy transition strategy, and any commentary on customer contract renewals — these are the leading indicators of whether TC Energy's cash flow will remain stable or decline over time.

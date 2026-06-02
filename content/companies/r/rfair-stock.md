@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-RF Acquisition Corp II is a Singapore-based SPAC that raised $100 million at its May 2024 IPO to identify and acquire a deep-technology company in Asia. RFAIR is not a share itself; it is the rights ticker — the separate trading vehicle for the warrant component that is bundled into RFAIU units. Understanding how RFAIR trades, and how its economics differ from the ordinary shares (RFAI), is essential to evaluating the capital structure of the merger that lies ahead.
+RF [Acquisition](/acquisition/) Corp II is a Singapore-based SPAC that raised $100 million at its May 2024 IPO to identify and acquire a deep-technology company in Asia. RFAIR is not a share itself; it is the rights ticker — the separate trading vehicle for the warrant component that is bundled into RFAIU units. Understanding how RFAIR trades, and how its economics differ from the ordinary shares (RFAI), is essential to evaluating the capital structure of the [merger](/merger/) that lies ahead.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ RF Acquisition Corp II is a Singapore-based SPAC that raised $100 million at its
 
 ## The warrant structure: leverage and risk
 
-When you own RFAIR, you own the right to purchase one ordinary share of RF Acquisition at a set strike price, typically $11.50 per share, for a defined window (usually five to seven years post-merger close). The mechanics are simple: if the merged company's stock trades above that strike, the warrant is in the money — you can exercise it, pay the strike, and immediately own a share worth more than your exercise cost. If the stock never rises above the strike or if the warrant is near expiration, it may expire worthless.
+When you own RFAIR, you own the right to purchase one ordinary share of RF Acquisition at a set [strike price](/strike-price/), typically $11.50 per share, for a defined window (usually five to seven years post-merger close). The mechanics are simple: if the merged company's stock trades above that strike, the warrant is in the money — you can exercise it, pay the strike, and immediately own a share worth more than your exercise cost. If the stock never rises above the strike or if the warrant is near expiration, it may expire worthless.
 
 The appeal of warrants is leverage. A $2 warrant gives you $2 of exposure to share price appreciation, but with defined risk — you lose only what you paid for the warrant if the stock collapses. A $10 warrant on a $12 share gives you exposure to 12 dollars of value with 10 dollars at risk. For investors betting that a SPAC merger will produce significant price appreciation, holding the warrant (rather than the share alone) can magnify returns. The downside is equally important: if the merged company disappoints, warrant holders lose everything. Shares at least have a claim on book value; warrants do not.
 
@@ -37,7 +37,7 @@ Originally, RFAIU units bundle one share and one right. When the merger is annou
 
 ## Warrant dilution risk in the merger
 
-A key detail buried in the SPAC merger agreement concerns warrant overhang. In the merged company, the SPAC sponsors and any other pre-deal equity holders will own a stake. The warrant holders — RF Acquisition's public shareholders — will own another. If too many warrants are in the money and exercised after close, the share count rises, diluting the ownership stakes of both the operating business shareholders and the sponsors. This is sometimes a point of contention: sponsors dislike dilution, so some SPACs include anti-dilution provisions that adjust the strike price downward if certain events occur. RFAIR holders should review the merger agreement for any such terms.
+A key detail buried in the SPAC merger agreement concerns warrant overhang. In the merged company, the SPAC sponsors and any other pre-deal equity holders will own a stake. The warrant holders — RF Acquisition's public shareholders — will own another. If too many warrants are in the money and exercised after close, the share count rises, diluting the ownership stakes of both the operating business shareholders and the sponsors. This is sometimes a point of contention: sponsors dislike dilution, so some SPACs include [anti-dilution provisions](/anti-dilution-provisions/) that adjust the strike price downward if certain events occur. RFAIR holders should review the merger agreement for any such terms.
 
 ## Why trade RFAIR separately?
 
@@ -53,4 +53,4 @@ RFAIR traders are implicitly backing the sponsors' ability to find a deal that c
 
 ## Tracking the deal
 
-Investors holding or considering RFAIR should monitor SEC filings under CIK 0002012807 for deal announcements, proxy statements, and merger terminations. The proxy statement filing will disclose all terms of the proposed acquisition, including the strike price and expiration date for warrants, any anti-dilution protections, and redemption rights. A decision on whether to hold, sell, or exercise RFAIR should turn on reading the merger agreement and assessing the target company's underlying business fundamentals — not on sentiment alone.
+Investors holding or considering RFAIR should monitor SEC filings under CIK 0002012807 for deal announcements, proxy statements, and merger terminations. The proxy statement filing will disclose all terms of the proposed acquisition, including the strike price and [expiration date](/expiration-date/) for warrants, any anti-dilution protections, and [redemption rights](/redemption-rights-equity/). A decision on whether to hold, sell, or exercise RFAIR should turn on reading the merger agreement and assessing the target company's underlying business fundamentals — not on sentiment alone.

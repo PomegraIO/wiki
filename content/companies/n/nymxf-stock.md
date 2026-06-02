@@ -25,7 +25,7 @@ The gap Nymox is targeting is the population of men who want a faster, more effe
 
 Nymox's lead program is targeted at the underlying biology of benign prostate hyperplasia. The company has advanced its molecular candidate through preclinical work and into human clinical trials, testing whether the drug demonstrates efficacy and safety in real patients. Clinical development is a decades-long process: Phase I trials (small, safety-focused); Phase II trials (larger, early efficacy signals in actual patients); Phase III trials (large, confirmatory studies that will likely form the basis of regulatory approval). Each phase is expensive, time-consuming, and carries the risk of failure.
 
-The company also pursues secondary programs in other urological and gastroenterological conditions, though these are less advanced. Diversification of targets is prudent — if the lead program fails, the company needs alternate opportunities to justify continued existence and capital raises.
+The company also pursues secondary programs in other urological and gastroenterological conditions, though these are less advanced. [Diversification](/diversification/) of targets is prudent — if the lead program fails, the company needs alternate opportunities to justify continued existence and capital raises.
 
 ## How Nymox stays alive: the perpetual funding cycle
 
@@ -33,7 +33,7 @@ Clinical-stage biotech firms do not generate revenue from drug sales; they are f
 
 The capital-raise cycle is tied to clinical and scientific progress. Positive Phase II data — evidence that the drug works in patients — can drive a stock higher and make equity fundraising cheaper (the company raises more shares per dollar). Disappointing data or failed trials can trigger sharp declines and force the company to raise capital at punitive terms, or to announce layoffs and consolidation.
 
-Nymox's cash burn rate (the amount it spends monthly on research, clinical trials, and overhead) relative to its cash balance determines the runway — how many months or years the company can operate before exhausting cash and facing a make-or-break raise or exit. Investors closely track runway and compare it to expected clinical milestones. A company with 18 months of runway but only 12 months until Phase II data is considered at higher risk; if data disappoints, a liquidity crisis could force a bankruptcy or a fire-sale merger.
+Nymox's cash burn rate (the amount it spends monthly on research, clinical trials, and overhead) relative to its cash balance determines the runway — how many months or years the company can operate before exhausting cash and facing a make-or-break raise or exit. Investors closely track runway and compare it to expected clinical milestones. A company with 18 months of runway but only 12 months until Phase II data is considered at higher risk; if data disappoints, a [liquidity crisis](/liquidity-crisis/) could force a bankruptcy or a fire-sale [merger](/merger/).
 
 ## What makes biotech speculation different from other small-caps
 
@@ -57,7 +57,7 @@ Clinical trial results are binary events. An interim analysis showing strong eff
 
 The company's latest 10-K and quarterly updates (available via SEC Edgar, CIK 0001018735) lay out the clinical program status and the cash position. Look for dates of expected clinical milestones — when Phase II data is expected, when the next financing might be needed. These dates are crucial for assessing near-term catalysts and risks.
 
-Examine the balance sheet's cash and cash equivalents; compare it to quarterly burn rate to calculate runway. A company with $10 million cash and $1 million monthly burn has 10 months of runway; if Phase II data is expected in 15 months, the company will need to raise capital before results arrive, which could happen at lower valuations if investor appetite has waned.
+Examine the [balance sheet's](/balance-sheet/) cash and cash equivalents; compare it to quarterly burn rate to calculate runway. A company with $10 million cash and $1 million monthly burn has 10 months of runway; if Phase II data is expected in 15 months, the company will need to raise capital before results arrive, which could happen at lower valuations if investor appetite has waned.
 
 Read the business risk section carefully — it should disclose competitive threats, regulatory uncertainties, and known safety signals or concerns. Management commentary on trial enrollment, interim analyses, and partnerships with larger pharma companies signals progress and risk.
 

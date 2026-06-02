@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AirJoule Technologies is a company focused on developing heating, cooling, and climate-control systems based on thermoacoustic technology — a method of moving heat or cold without moving refrigerant or complex mechanical components. The company's approach aims to create air-conditioning and heating solutions that are more efficient, quieter, and potentially lower in cost than conventional systems. AIRJW is the warrant ticker; it represents the right to purchase common shares at a set exercise price.
+[AirJoule Technologies](/airj-stock/) is a company focused on developing heating, cooling, and climate-control systems based on thermoacoustic technology — a method of moving heat or cold without moving refrigerant or complex mechanical components. The company's approach aims to create air-conditioning and heating solutions that are more efficient, quieter, and potentially lower in cost than conventional systems. AIRJW is the warrant ticker; it represents the right to purchase common shares at a set [exercise price](/exercise-price/).
 
 <aside class="wiki-infobox">
 <table>
@@ -44,7 +44,7 @@ The market opportunity is substantial. Heating and cooling account for a large s
 
 AirJoule's journey into the public market likely followed the SPAC or acquisition-company route because traditional venture financing and manufacturing scale-up are capital-intensive for hardware companies. A private company developing thermoacoustic technology would need tens or hundreds of millions in capital to build manufacturing capacity, conduct field trials, achieve regulatory certification if applicable, and market products to builders and HVAC contractors.
 
-Going public through a SPAC or special acquisition company allows the founders and early investors to cash out a portion of their stake while maintaining operational control, and it provides the capital needed for manufacturing and market entry. The typical terms involve the founding team retaining meaningful equity while the SPAC sponsor and public shareholders provide fresh capital.
+Going public through a SPAC or special [acquisition](/acquisition/) company allows the founders and early investors to cash out a portion of their stake while maintaining operational control, and it provides the capital needed for manufacturing and market entry. The typical terms involve the founding team retaining meaningful equity while the SPAC sponsor and public shareholders provide fresh capital.
 
 ## Technology risk and regulatory environment
 

@@ -31,7 +31,7 @@ Every quarter, the fund looks at all U.S. basic materials stocks and ranks them 
 
 The logic is straightforward. If a copper miner's stock has shot up 40 percent in the past year, something — better earnings, rising copper prices, improved outlook — is probably driving that rise. The theory says that momentum tends to persist for a while. Stocks that were going up keep going up; stocks that were going down keep going down. By buying the winners, you theoretically catch that continuation. Of course, that pattern breaks sometimes. A stock can reverse sharply and leave momentum investors flat-footed.
 
-Compared to owning a simple materials index fund, PYZ bets harder on the strongest performers and ignores the laggards. That focus makes it move more sharply in both directions.
+Compared to owning a simple materials [index fund](/index-fund/), PYZ bets harder on the strongest performers and ignores the laggards. That focus makes it move more sharply in both directions.
 
 ## When materials do well and when they crash
 
@@ -49,9 +49,9 @@ The fund's quarterly rebalancing — rotating out of faded winners and into new 
 
 ## The costs and who should own it
 
-PYZ carries an expense ratio in the range of actively managed or rules-based momentum strategies — slightly higher than passive, broad-market index funds but reasonable for what you are getting. The fund trades on an exchange with decent liquidity, though bid-ask spreads are wider than mega-cap ETFs.
+PYZ carries an [expense ratio](/expense-ratio/) in the range of actively managed or rules-based momentum strategies — slightly higher than passive, broad-market index funds but reasonable for what you are getting. The fund trades on an exchange with decent liquidity, though [bid-ask spreads](/bid-ask-spread/) are wider than mega-cap ETFs.
 
-This is not a core position for most investors. It is a satellite or tactical holding. Someone might own PYZ if they believe the global economy is accelerating, inflation is accelerating, or commodity demand is about to spike. They might hold it for a year or two while that thesis plays out, then move the money elsewhere. 
+This is not a core position for most investors. It is a satellite or tactical holding. Someone might own PYZ if they believe the global economy is accelerating, [inflation](/inflation/) is accelerating, or commodity demand is about to spike. They might hold it for a year or two while that thesis plays out, then move the money elsewhere. 
 
 A retiree living on portfolio income would probably find PYZ too volatile. A young investor might allocate 5 to 10 percent of a diversified portfolio to it, particularly early in an economic cycle when commodity demand typically picks up.
 

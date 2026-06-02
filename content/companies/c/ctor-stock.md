@@ -31,7 +31,7 @@ For each program, the filings disclose major upcoming milestones: initiation of 
 
 ## The Science and Intellectual Property
 
-CITIUS's competitive position rests on its intellectual property (IP)—patents covering novel compounds, their use, dosing regimens, and combinations with other agents. The company's [IP strategy](/ipst-stock/) shapes both revenue potential and vulnerability. Broad patents that cover a class of molecules offer wide freedom to operate; narrow patents covering a specific compound are more vulnerable to competitor design-arounds. The filings include an IP section disclosing patent expirations, pending applications, and litigation risks.
+CITIUS's competitive position rests on its intellectual property (IP)—patents covering novel compounds, their use, dosing regimens, and combinations with other agents. The company's IP strategy shapes both revenue potential and vulnerability. Broad patents that cover a class of molecules offer wide freedom to operate; narrow patents covering a specific compound are more vulnerable to competitor design-arounds. The filings include an IP section disclosing patent expirations, pending applications, and litigation risks.
 
 Early-stage biotech often licenses technology from academic institutions or larger companies, paying royalties on future sales and sometimes upfront fees. CITIUS's filing may disclose such arrangements: if the company licenses a promising technology, it must pay the licensor a percentage of future revenue, reducing the economics of any drug it develops using that technology. Conversely, licensing reduces the company's R&D cost upfront.
 

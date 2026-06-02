@@ -25,7 +25,7 @@ The company does not design the factories or mandate the rules; it solves the pr
 
 The demand for CECO's products flows from two sources that often reinforce each other. First, [environmental regulations](/securities-and-exchange-commission/) impose limits on emissions of particulates, sulfur dioxide, nitrogen oxides, and volatile organic compounds. Facilities must comply or shut down. Second, facility operators have economic incentives to recapture materials—dust that can be resold, water that can be recycled, heat that can be recovered. An efficient treatment system pays for itself by reducing waste and reuse costs.
 
-CECO serves power generation, oil refining, chemical manufacturing, steel mills, food processing, and [waste management](/wm-stock/). The composition of demand shifts with regulation and industry health. When coal-fired power plants operate, baghouse and scrubber demand rises. When refinery margins compress, capital spending on new treatment systems falls. The company's revenue therefore rides both the pace of new regulatory mandates and the economic cycles of the industries it serves.
+CECO serves power generation, oil refining, chemical manufacturing, steel mills, food processing, and waste management. The composition of demand shifts with regulation and industry health. When coal-fired power plants operate, baghouse and scrubber demand rises. When refinery margins compress, capital spending on new treatment systems falls. The company's revenue therefore rides both the pace of new regulatory mandates and the economic cycles of the industries it serves.
 
 ## Supplier Relationships and Procurement
 

@@ -10,13 +10,13 @@ keywords:
 handwritten: true
 ---
 
-*The **Invesco QQQ Hedged Advantage ETF** (QQHG) is a variant of Invesco's flagship Nasdaq-100 tracking fund that combines direct exposure to technology and growth stocks with an embedded options strategy designed to reduce portfolio losses during market downturns. Unlike a standard index fund, it trades the possibility of outsized gains for measurably lower portfolio volatility.*
+*The **Invesco QQQ Hedged Advantage ETF** (QQHG) is a variant of Invesco's flagship Nasdaq-100 tracking fund that combines direct exposure to technology and growth stocks with an embedded options strategy designed to reduce portfolio losses during market downturns. Unlike a standard [index fund](/index-fund/), it trades the possibility of outsized gains for measurably lower portfolio volatility.*
 
 ## What QQHG holds and how it works
 
-QQHG owns the same 100 large-cap non-financial companies that make up the Nasdaq-100 Index — the same universe as the original QQQ, weighted the same way. Those holdings include the largest tech firms (Apple, Microsoft, Nvidia, Amazon, Tesla), biotechs, and dominant software and internet companies.
+QQHG owns the same 100 large-cap non-financial companies that make up the Nasdaq-100 Index — the same universe as the original QQQ, weighted the same way. Those holdings include the largest tech firms ([Apple](/aapl-stock/), [Microsoft](/msft-stock/), [Nvidia](/nvda-stock/), Amazon, [Tesla](/tsla-stock/)), biotechs, and dominant software and internet companies.
 
-What sets QQHG apart is the overlay structure. The fund simultaneously holds long call options it has sold to investors and long put options it has purchased for protection. Concretely, Invesco writes call options at a strike price above the current index level, pocketing the premium from buyers; that income is used to buy put option protection at a lower strike. This creates a collar — a range within which gains and losses are capped.
+What sets QQHG apart is the overlay structure. The fund simultaneously holds long [call options](/call-option/) it has sold to investors and long [put options](/put-option/) it has purchased for protection. Concretely, Invesco writes call options at a [strike price](/strike-price/) above the current index level, pocketing the premium from buyers; that income is used to buy put option protection at a lower strike. This creates a collar — a range within which gains and losses are capped.
 
 The mechanics: if the Nasdaq-100 rallies sharply, QQHG shares gain but with a ceiling. If the index falls, the put options limit losses within a defined floor. The result is tighter bands around steady performance — less downside, less upside, and reduced volatility as a result.
 
@@ -28,9 +28,9 @@ The practical consequence is that in years when the Nasdaq-100 surges 30% or mor
 
 ## Costs and liquidity
 
-QQHG carries an expense ratio of roughly 0.27% annually — higher than the flagship QQQ (which costs around 0.20%) but lower than many actively managed funds. That extra cost reflects the ongoing management of the options overlay and Invesco's work to reset the hedge periodically.
+QQHG carries an [expense ratio](/expense-ratio/) of roughly 0.27% annually — higher than the flagship QQQ (which costs around 0.20%) but lower than many [actively managed funds](/actively-managed-fund/). That extra cost reflects the ongoing management of the options overlay and Invesco's work to reset the hedge periodically.
 
-The fund is moderately liquid. It has attracted less AUM than QQQ and therefore lighter trading volume, which can widen bid-ask spreads during large trades. For typical retail orders, the spread is tight, but large institutional block trades may face less immediate counterparty depth than the most liquid equity ETFs.
+The fund is moderately liquid. It has attracted less AUM than QQQ and therefore lighter trading volume, which can widen [bid-ask spreads](/bid-ask-spread/) during large trades. For typical retail orders, the spread is tight, but large institutional block trades may face less immediate counterparty depth than the most liquid [equity ETFs](/equity-etf/).
 
 ## Who QQHG is for and what to watch
 

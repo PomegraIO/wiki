@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **First Trust Dorsey Wright Focus 5 ETF** (FV) is an actively managed exchange-traded fund that concentrates its holdings in a small number of stocks — typically no more than five — selected by Dorsey Wright analysts using a proprietary research methodology. Unlike passive index funds, FV's holdings are chosen by human managers making discretionary decisions about which companies offer the best value.*
+*The **First Trust Dorsey Wright Focus 5 ETF** (FV) is an actively managed exchange-traded fund that concentrates its holdings in a small number of stocks — typically no more than five — selected by Dorsey Wright analysts using a proprietary research methodology. Unlike passive [index funds](/index-fund/), FV's holdings are chosen by human managers making discretionary decisions about which companies offer the best value.*
 
 <aside class="wiki-infobox">
 
@@ -31,7 +31,7 @@ handwritten: true
 
 Dorsey Wright is an investment research firm known for combining relative-strength analysis with fundamental evaluation. The Focus 5 strategy applies this framework to identify the highest-quality, most attractively valued large-cap stocks at any given time.
 
-The result is a portfolio that is radically concentrated by modern standards. Whereas most equity funds hold dozens or hundreds of stocks to manage risk through diversification, FV intentionally holds a tiny number of positions — each representing a significant chunk of the portfolio. This concentration magnifies both gains and losses. When a holding rises, it lifts the whole fund more than it would in a diversified portfolio; when it falls, the drawdown is deeper.
+The result is a portfolio that is radically concentrated by modern standards. Whereas most equity funds hold dozens or hundreds of stocks to manage risk through [diversification](/diversification/), FV intentionally holds a tiny number of positions — each representing a significant chunk of the portfolio. This concentration magnifies both gains and losses. When a holding rises, it lifts the whole fund more than it would in a diversified portfolio; when it falls, the drawdown is deeper.
 
 The fund does not follow a mechanical index. The managers actively monitor holdings, research alternatives, and rotate in and out of positions as their assessment of value and quality changes. This is an advantage if the managers are right and a source of underperformance if they are wrong. Investors in FV are explicitly betting on the skill of the Dorsey Wright and First Trust teams.
 
@@ -43,7 +43,7 @@ The counterargument is equally straightforward: even skilled managers are wrong 
 
 ## Costs, liquidity, and risk
 
-As an actively managed fund, FV charges an expense ratio that typically runs higher than a passive index fund — the cost of research and frequent rebalancing. The exact figure should be verified in current materials from First Trust.
+As an [actively managed fund](/actively-managed-fund/), FV charges an [expense ratio](/expense-ratio/) that typically runs higher than a passive index fund — the cost of research and frequent rebalancing. The exact figure should be verified in current materials from First Trust.
 
 The fund itself trades on an exchange with generally good liquidity on normal trading days. The liquidity of the positions it holds matters too; if FV needs to raise cash quickly to meet redemptions, selling out of a concentrated holding can be disruptive.
 
@@ -55,6 +55,6 @@ A second risk is manager risk. If the Dorsey Wright process loses efficacy — i
 
 Read the fund's prospectus and regular portfolio reports to see which five stocks are currently held. Understand the Dorsey Wright methodology by reading their published research and case studies. Then research the five companies directly: their competitive position, their financial trends, the quality of their management, and their current valuation.
 
-Compare FV's returns to a broad-market index fund or a large-cap equity index over the past 3, 5, and 10 years (where data is available). Has the concentrated approach delivered the outperformance that justifies its higher volatility and concentration risk? This is the central question.
+Compare FV's returns to a broad-market index fund or a large-cap equity index over the past 3, 5, and 10 years (where data is available). Has the concentrated approach delivered the outperformance that justifies its higher volatility and [concentration risk](/concentration-risk/)? This is the central question.
 
 The fund's active-management approach is its defining characteristic; whether that is a strength or a weakness depends on whether the managers' judgement is sound and whether their edge persists through changing market regimes.

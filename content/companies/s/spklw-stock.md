@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Spark I Acquisition Corp is a special purpose acquisition company, or SPAC — essentially an investment vehicle with one explicit job: find a private company, buy it, and turn it into a public company. The entity raised $100 million through an initial public offering in October 2023, with investors receiving units consisting of shares and warrants. The common shares trade as SPKL, the warrants as SPKLW, and the units as SPKLU. All three securities trade on Nasdaq. The company is led by James Rhee, a technology executive and serial investor.
+Spark I [Acquisition](/acquisition/) Corp is a special purpose acquisition company, or SPAC — essentially an investment vehicle with one explicit job: find a private company, buy it, and turn it into a public company. The entity raised $100 million through an [initial public offering](/initial-public-offering/) in October 2023, with investors receiving units consisting of shares and warrants. The common shares trade as SPKL, the warrants as SPKLW, and the units as SPKLU. All three securities trade on [Nasdaq](/nasdaq/). The company is led by James Rhee, a technology executive and serial investor.
 
 ## What a SPAC is and why they exist
 
@@ -30,11 +30,11 @@ The specificity of the target is important. A SPAC with defined focus (late-stag
 
 The IPO raised $100 million, which becomes the pool of capital available to acquire a target company. Not all $100 million goes to the acquirer. The SPAC must pay expenses — legal fees, underwriter commissions, advisory costs — that consume a portion. The typical cost of running a SPAC is 20–30% of the gross IPO proceeds, meaning roughly $70–80 million would actually be available to pursue an acquisition.
 
-Warrant holders receive the right to buy common shares at a $11.50 strike price. If the post-merger company's stock rises to, say, $20, the warrant becomes in-the-money, and holders can exercise it to buy shares at a discount to market price. Warrants are leveraged instruments: they cost less than shares but offer outsized gains if the stock price rises significantly and outsized losses if it falls.
+Warrant holders receive the right to buy common shares at a $11.50 [strike price](/strike-price/). If the post-merger company's stock rises to, say, $20, the warrant becomes in-the-money, and holders can exercise it to buy shares at a discount to market price. Warrants are leveraged instruments: they cost less than shares but offer outsized gains if the stock price rises significantly and outsized losses if it falls.
 
 ## The timeline and the deadline
 
-SPACs typically have 18 to 24 months to close a business combination. If the SPAC doesn't complete a deal within that window, it liquidates, returning the IPO cash to shareholders (minus expenses and any amount spent on deal-hunting). The deadline creates urgency both for the SPAC sponsor (who has invested his own capital and reputation) and for potential target companies (who know the window is closing).
+SPACs typically have 18 to 24 months to close a [business combination](/business-combination-purchase/). If the SPAC doesn't complete a deal within that window, it liquidates, returning the IPO cash to shareholders (minus expenses and any amount spent on deal-hunting). The deadline creates urgency both for the SPAC sponsor (who has invested his own capital and reputation) and for potential target companies (who know the window is closing).
 
 ## The risks
 

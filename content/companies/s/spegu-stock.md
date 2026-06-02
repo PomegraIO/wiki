@@ -12,7 +12,7 @@ handwritten: true
 
 ## The basics
 
-Silver Pegasus Acquisition Corp is a SPAC — a public shell company, a capital vehicle, nothing more. No operations. No revenue. No business. The shares trade; the cash sits in trust. Management's job is singular: find a private company, negotiate a deal, get shareholders to vote yes, and close a merger. The company that emerges is public.
+Silver Pegasus [Acquisition](/acquisition/) Corp is a SPAC — a public shell company, a capital vehicle, nothing more. No operations. No revenue. No business. The shares trade; the cash sits in trust. Management's job is singular: find a private company, negotiate a deal, get shareholders to vote yes, and close a [merger](/merger/). The company that emerges is public.
 
 The structure is now routine, but it inverts the traditional IPO. Instead of a private company spending months pitching itself to underwriters and institutional investors, the capital is already raised and waiting. The private company comes to the merger table with a specific valuation already negotiated. Simpler. Faster. Cheaper than a roadshow.
 
@@ -20,13 +20,13 @@ The structure is now routine, but it inverts the traditional IPO. Instead of a p
 
 Silver Pegasus raised money by selling shares and warrants to public investors. The proceeds went into a trust account — segregated, untouchable until a merger closes or the window expires. Trust money cannot pay salaries, cannot fund operations, cannot be touched for any reason except a qualifying acquisition or a return to shareholders.
 
-Management and sponsors hold promote shares — founder's equity, valuable only if a deal gets done and the stock rises. This creates the incentive structure: sponsors win when shareholders win. In theory. In practice, sponsors sometimes have more incentive to do *a* deal than *a good* deal, because the legal and accounting time to close a bad merger is similar to the time for a good one, and sponsors get paid either way. Investor redemption rights are supposed to discipline this tendency. Sometimes they do. Sometimes they don't.
+Management and sponsors hold promote shares — founder's equity, valuable only if a deal gets done and the stock rises. This creates the incentive structure: sponsors win when shareholders win. In theory. In practice, sponsors sometimes have more incentive to do *a* deal than *a good* deal, because the legal and accounting time to close a bad merger is similar to the time for a good one, and sponsors get paid either way. Investor [redemption rights](/redemption-rights-equity/) are supposed to discipline this tendency. Sometimes they do. Sometimes they don't.
 
 Warrant holders are residual. The warrant strike is typically set above the IPO price, so the warrant only prints money if the post-merger stock rises. Many SPAC warrant holders lose money because the target either underperforms or the market revalues the newly public company downward. It is not uncommon for SPAC warrants to expire worthless.
 
 ## The merger window
 
-Silver Pegasus has a deadline — typically two to three years to complete an acquisition or face liquidation. This is non-negotiable. When the window nears its end, pressure mounts. Shareholders may redeem (return their shares for cash), which shrinks the pool available for a merger. Management must choose: accelerate deal-making, extend the timeline with a difficult shareholder vote, or return capital and shut down.
+Silver Pegasus has a deadline — typically two to three years to complete an acquisition or face [liquidation](/liquidation/). This is non-negotiable. When the window nears its end, pressure mounts. Shareholders may redeem (return their shares for cash), which shrinks the pool available for a merger. Management must choose: accelerate deal-making, extend the timeline with a difficult shareholder vote, or return capital and shut down.
 
 The timeline also affects deal quality. A merger announced three months before the deadline faces different dynamics than one announced at IPO plus eighteen months. Late-stage deals often see heavier redemptions because shareholders have lost patience or have had time to compare the proposed target against other investment opportunities.
 

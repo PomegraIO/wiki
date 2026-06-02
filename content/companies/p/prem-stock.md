@@ -25,7 +25,7 @@ Premier Air Charter's business model is to own or manage aircraft, recruit and e
 | Aircraft management | Operations and crew for third-party-owned jets | Management fee percentage |
 | Planned fleet expansion | Two Bombardier Challengers and two Gulfstream G4 additions | Increased charter capacity and revenue |
 
-The business is relatively straightforward. Premier Air Charter earns money when planes are flying and generating revenue or when it manages planes on behalf of owners. The cost structure is fixed and high — aircraft depreciation, crew salaries, fuel, insurance, maintenance, and hanger fees must be covered before any profit is possible. This means the company needs to keep planes flying at high utilization rates to achieve profitability.
+The business is relatively straightforward. Premier Air Charter earns money when planes are flying and generating revenue or when it manages planes on behalf of owners. The cost structure is fixed and high — aircraft [depreciation](/depreciation/), crew salaries, fuel, insurance, maintenance, and hanger fees must be covered before any profit is possible. This means the company needs to keep planes flying at high utilization rates to achieve profitability.
 
 ## Market traction and recent growth
 

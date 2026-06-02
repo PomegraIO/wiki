@@ -28,7 +28,7 @@ Specialty finance and merchant banking firms like Marwynn Holdings operate on a 
 
 ## Leverage Ratios and Debt Sustainability
 
-Marwynn's leverage—the ratio of debt to equity or to EBITDA—reveals how aggressively the firm is deployed. A [debt-to-equity ratio](/debt-to-equity-ratio/) of 2.0 means the company is borrowing $2 for every $1 of equity capital; at 5.0, it is $5 per $1. Higher leverage magnifies returns when the underlying investments perform (equity holders capture all the upside once debt is paid), but it also magnifies losses when acquisitions underperform or markets turn. A specialty finance firm with 3× or 4× leverage is normal; at 6× or 7×, lenders become nervous and may tighten covenants or demand higher [interest rates](/interest-rate/). Marwynn's historical leverage shows how aggressively management is willing to deploy and how much financial stress the company can absorb before forced asset sales or equity dilution become necessary.
+Marwynn's leverage—the ratio of debt to equity or to [EBITDA](/ebitda/)—reveals how aggressively the firm is deployed. A [debt-to-equity ratio](/debt-to-equity-ratio/) of 2.0 means the company is borrowing $2 for every $1 of equity capital; at 5.0, it is $5 per $1. Higher leverage magnifies returns when the underlying investments perform (equity holders capture all the upside once debt is paid), but it also magnifies losses when acquisitions underperform or markets turn. A specialty finance firm with 3× or 4× leverage is normal; at 6× or 7×, lenders become nervous and may tighten covenants or demand higher [interest rates](/interest-rate/). Marwynn's historical leverage shows how aggressively management is willing to deploy and how much financial stress the company can absorb before forced asset sales or equity dilution become necessary.
 
 ## Interest Coverage and Covenant Pressure
 
@@ -36,7 +36,7 @@ Interest coverage—the ratio of operating earnings to interest expense—reveal
 
 ## The Debt Structure and Refinancing Risk
 
-Marwynn likely carries multiple layers of debt: senior secured loans, subordinated notes, possibly preferred equity or partnership units. Each layer has different seniority, interest rates, and maturity dates. A firm with a barbell structure—some debt due in 2–3 years and some due in 7–10 years—spreads [refinancing risk](/refinancing-risk/); one where a large tranche matures in a single year faces acute refinancing risk if markets tighten. The interest rates on Marwynn's debt reflect the lender's assessment of risk: if rates are 5%, the market believes default risk is low; at 10% or above, the market is pricing in substantial distress risk. The company's ability to refinance as debt matures depends on whether it continues to generate the expected returns on its portfolio of acquisitions.
+Marwynn likely carries multiple layers of debt: senior secured loans, subordinated notes, possibly preferred equity or partnership units. Each layer has different seniority, interest rates, and maturity dates. A firm with a barbell structure—some debt due in 2–3 years and some due in 7–10 years—spreads [refinancing risk](/refinancing-risk/); one where a large [tranche](/tranche/) matures in a single year faces acute refinancing risk if markets tighten. The interest rates on Marwynn's debt reflect the lender's assessment of risk: if rates are 5%, the market believes default risk is low; at 10% or above, the market is pricing in substantial distress risk. The company's ability to refinance as debt matures depends on whether it continues to generate the expected returns on its portfolio of acquisitions.
 
 ## Portfolio Company Performance and Credit Quality
 
@@ -48,7 +48,7 @@ Marwynn may periodically issue new shares to reduce leverage, fund acquisitions,
 
 ## Asset Impairments and Mark-to-Market Risk
 
-When acquired companies underperform or market valuations reset, Marwynn must write down the value of its [intangible assets](/intangible-assets/)—goodwill and acquired intangibles like customer relationships, brand value, or technology. Large impairments reduce reported book value per share and can trigger covenant violations if the impairment is large enough to reduce EBITDA or equity below thresholds. A firm with a history of large impairments (visible in the 10-K notes) signals past errors in acquisition pricing or integration failure; these are warning signs for investors. Conversely, a firm whose acquisitions consistently perform enables the debt model to work repeatedly.
+When acquired companies underperform or market valuations reset, Marwynn must write down the value of its [intangible assets](/intangible-assets/)—[goodwill](/goodwill/) and acquired intangibles like customer relationships, brand value, or technology. Large impairments reduce reported book value per share and can trigger covenant violations if the impairment is large enough to reduce EBITDA or equity below thresholds. A firm with a history of large impairments (visible in the 10-K notes) signals past errors in acquisition pricing or integration failure; these are warning signs for investors. Conversely, a firm whose acquisitions consistently perform enables the debt model to work repeatedly.
 
 ## Exit Strategy and Capital Recovery
 
@@ -56,7 +56,7 @@ The specialty finance model depends on exits: selling acquired companies to stra
 
 ## Macro Sensitivity and Credit Cycles
 
-Specialty finance firms are sensitive to credit cycles: in expansions, valuations rise, debt becomes cheap, and acquisitions are profitable; in recessions or credit crunches, valuations fall, debt becomes expensive or unavailable, and acquisitions become uneconomical. Marwynn's returns over time are therefore highly dependent on the macro environment and the credit cycle. A firm that did well in 2015–2020 (low rates, rising valuations, cheap debt) may face severe stress in 2022–2024 (higher rates, compressed valuations, tighter lending). Understanding the company through its capital structure requires thinking about where we are in the credit cycle and whether conditions are likely to favor or hinder the leverage model going forward.
+Specialty finance firms are sensitive to credit cycles: in expansions, valuations rise, debt becomes cheap, and acquisitions are profitable; in [recessions](/recession/) or credit crunches, valuations fall, debt becomes expensive or unavailable, and acquisitions become uneconomical. Marwynn's returns over time are therefore highly dependent on the macro environment and the credit cycle. A firm that did well in 2015–2020 (low rates, rising valuations, cheap debt) may face severe stress in 2022–2024 (higher rates, compressed valuations, tighter lending). Understanding the company through its capital structure requires thinking about where we are in the credit cycle and whether conditions are likely to favor or hinder the leverage model going forward.
 
 The company's [10-K](/10-k/) and quarterly earnings presentations detail the debt structure, portfolio composition, recent acquisitions and exits, and management's strategy for capital deployment and return.
 

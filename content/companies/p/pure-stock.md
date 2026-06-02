@@ -27,7 +27,7 @@ Through the late 1990s and into the 2000s, Pure Bioscience began the transition 
 
 The SDC technology platform became the basis for a range of products spanning wound care, surface disinfection, textile treatments, and consumer-facing antimicrobial formulations. Being based on silver, the compound offered residual protective qualities that many conventional antimicrobial treatments lacked: application to a surface provided ongoing protection even after the initial treatment dried. For applications like hospital-grade disinfection or consumer health products, that residual effect meant real practical value.
 
-Pure Bioscience's size meant it could not match the sales and marketing budgets of the major pharmaceutical companies, but it could operate efficiently in markets where deep technical knowledge and regulatory navigation mattered more than sheer promotional firepower. The company pursued acquisitions and partnerships to broaden its portfolio, bringing in the Innovex pesticide line through acquisition, giving it exposure to agricultural and public-health uses of antimicrobial chemistry.
+Pure Bioscience's size meant it could not match the sales and marketing budgets of the major pharmaceutical companies, but it could operate efficiently in markets where deep technical knowledge and regulatory navigation mattered more than sheer promotional firepower. The company pursued [acquisitions](/acquisition/) and partnerships to broaden its portfolio, bringing in the Innovex pesticide line through acquisition, giving it exposure to agricultural and public-health uses of antimicrobial chemistry.
 
 ## The modern business and its constraints
 

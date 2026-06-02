@@ -41,7 +41,7 @@ The health of ProCap's net income therefore depends entirely on credit disciplin
 
 BDCs are permitted to employ debt to fund lending, subject to regulatory limits (typically a 1:1 maximum [debt-to-equity ratio](/debt-to-equity-ratio/), though ProCap's specific leverage ceiling depends on its regulatory exemptions and disclosures in recent filings). A BDC with $100 million of shareholder equity and $100 million of debt can deploy $200 million to loans, doubling the earned-income base. Leverage amplifies returns in a rising-rate or credit-expansion environment but magnifies losses if credit deteriorates or funding costs rise sharply.
 
-ProCap's [cost of debt](/cost-of-debt/)—whether through bank credit facilities, bond issuances, or preferred equity—is a critical margin driver. If the company borrows at 6% and lends at 10%, the spread is attractive. If debt costs rise to 8% or 9%, the arbitrage compresses, and net income per share may stagnate or decline even if loan yields remain stable.
+ProCap's [cost of debt](/cost-of-debt/)—whether through bank credit facilities, [bond](/bond/) issuances, or preferred equity—is a critical margin driver. If the company borrows at 6% and lends at 10%, the spread is attractive. If debt costs rise to 8% or 9%, the arbitrage compresses, and net income per share may stagnate or decline even if loan yields remain stable.
 
 ## Distribution Policy and Dividend Sustainability
 

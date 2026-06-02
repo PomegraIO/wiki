@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-GraniteShares 2x Long TSM Daily ETF (TSMU) is a leveraged exchange-traded fund that tracks the daily price movement of Taiwan Semiconductor Manufacturing Company stock with a 2x multiplier. It is a tactical instrument meant for short-term traders aiming to amplify exposure to TSM over a single trading day or a few days, not an instrument for holding across weeks or months.
+GraniteShares 2x Long TSM Daily ETF (TSMU) is a leveraged exchange-traded fund that tracks the daily price movement of [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company stock with a 2x multiplier. It is a tactical instrument meant for short-term traders aiming to amplify exposure to TSM over a single trading day or a few days, not an instrument for holding across weeks or months.
 
 ## What does TSMU actually track?
 
-TSMU holds a portfolio of TSM stock, borrowings, and derivative positions constructed so that on any given day the fund's net asset value moves twice as much as TSM's stock price moves. If TSM rises 1% on a Tuesday, TSMU is engineered to rise approximately 2%. If TSM falls 1%, TSMU falls roughly 2%. This 2x leverage amplifies both gains and losses symmetrically during the daily trading window.
+TSMU holds a portfolio of TSM stock, borrowings, and derivative positions constructed so that on any given day the fund's [net asset value](/net-asset-value/) moves twice as much as TSM's stock price moves. If TSM rises 1% on a Tuesday, TSMU is engineered to rise approximately 2%. If TSM falls 1%, TSMU falls roughly 2%. This 2x leverage amplifies both gains and losses symmetrically during the daily trading window.
 
 The fund rebalances daily — every day at market close, its managers adjust the leverage back to exactly 2x, regardless of how the stock has moved. That daily reset is what makes TSMU suitable for traders holding it for a single session or a few days, but it becomes a problem if held for longer periods.
 
@@ -27,13 +27,13 @@ This is not a bug or a cost the fund is trying to hide — it is the mathematica
 
 ## Who is TSMU for?
 
-TSMU is built for active traders and hedge managers aiming to express a bullish tactical bet on TSM for a single day or a few days. It is not suitable for a buy-and-hold investor. Retail traders sometimes reach for these products expecting them to multiply their returns over a holding period of weeks or months, only to find the daily reset mathematics working against them. That mismatch is the central risk to understand.
+TSMU is built for active traders and hedge managers aiming to express a bullish tactical bet on TSM for a single day or a few days. It is not suitable for a buy-and-hold investor. Retail traders sometimes reach for these products expecting them to multiply their returns over a [holding period](/holding-period/) of weeks or months, only to find the daily reset mathematics working against them. That mismatch is the central risk to understand.
 
 The fund is also exposed to the ordinary risks of owning TSM — the company faces concentration in the semiconductor manufacturing industry, geopolitical exposure around Taiwan, and cyclical demand from its major customers. Those risks are simply magnified by the 2x leverage.
 
 ## Cost and structure
 
-GraniteShares charges a modest expense ratio for the leverage and daily rebalancing operations. The fund trades on a major exchange with reasonable liquidity, though the spread can widen during periods of low volume. Holders should be aware that the fund's assets under management may be smaller than broader ETFs, which can affect trading costs in volatile markets.
+GraniteShares charges a modest [expense ratio](/expense-ratio/) for the leverage and daily rebalancing operations. The fund trades on a major exchange with reasonable liquidity, though the spread can widen during periods of low volume. Holders should be aware that the fund's assets under management may be smaller than broader ETFs, which can affect trading costs in volatile markets.
 
 ## How to research TSMU
 

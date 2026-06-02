@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Starlink AI Acquisition Corp (OTAI) is a SPAC — a Special Purpose Acquisition Company, also known colloquially as a blank-check company. These vehicles are shell corporations with no operating business, formed solely to raise capital from public investors and then deploy that capital to identify, negotiate, and consummate a merger with a private company. The SPAC does not tell you in advance what company it will acquire. The sponsor group backs the SPAC and bears the cost of finding a suitable target; once a deal is struck and shareholder approval secured, the target company effectively goes public overnight through the merger.
+Starlink AI [Acquisition](/acquisition/) Corp (OTAI) is a SPAC — a Special Purpose Acquisition Company, also known colloquially as a blank-check company. These vehicles are shell corporations with no operating business, formed solely to raise capital from public investors and then deploy that capital to identify, negotiate, and consummate a [merger](/merger/) with a private company. The SPAC does not tell you in advance what company it will acquire. The sponsor group backs the SPAC and bears the cost of finding a suitable target; once a deal is struck and shareholder approval secured, the target company effectively goes public overnight through the merger.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,9 +26,9 @@ Starlink AI Acquisition Corp (OTAI) is a SPAC — a Special Purpose Acquisition 
 
 ## The SPAC mechanism
 
-SPACs became a significant route to going public in the late 2010s and early 2020s, offering an alternative to the traditional initial public offering (IPO) process. Here's how they work: a sponsor group raises money from public investors by selling shares in the SPAC, which holds that capital in a trust account. The SPAC then has a defined window — usually 24 months, sometimes extended — to identify a private company, negotiate a merger, and win shareholder approval. Once the merger closes, the private company's shareholders own a stake in the newly public merged entity, and the SPAC's ticker becomes the public vehicle for that operating company.
+SPACs became a significant route to going public in the late 2010s and early 2020s, offering an alternative to the traditional [initial public offering](/initial-public-offering/) (IPO) process. Here's how they work: a sponsor group raises money from public investors by selling shares in the SPAC, which holds that capital in a trust account. The SPAC then has a defined window — usually 24 months, sometimes extended — to identify a private company, negotiate a merger, and win shareholder approval. Once the merger closes, the private company's shareholders own a stake in the newly public merged entity, and the SPAC's ticker becomes the public vehicle for that operating company.
 
-The advantage to the private company is speed and certainty: rather than filing registration statements with the Securities and Exchange Commission, roadshow meetings with institutional investors, and the multi-month IPO process, a SPAC merger can move faster and offers a clearer valuation negotiated between the sponsor and the target's owners. For the SPAC investors, the appeal is the opportunity to back a sponsor's judgment about what good acquisition target they will find — though they also bear the risk that no suitable merger materializes or that the chosen target disappoints.
+The advantage to the private company is speed and certainty: rather than filing registration statements with the [Securities and Exchange Commission](/securities-and-exchange-commission/), roadshow meetings with institutional investors, and the multi-month IPO process, a SPAC merger can move faster and offers a clearer valuation negotiated between the sponsor and the target's owners. For the SPAC investors, the appeal is the opportunity to back a sponsor's judgment about what good acquisition target they will find — though they also bear the risk that no suitable merger materializes or that the chosen target disappoints.
 
 ## Why OTAI exists and what it is not
 

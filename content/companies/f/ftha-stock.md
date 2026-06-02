@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-Forefront Tech Holdings Acquisition Corp is a blank-check company set up to find and combine with an operating business. Think of it as a pool of investor cash waiting to be deployed into a merger. The company incorporated in the Cayman Islands and filed to go public in early 2026.
+Forefront Tech Holdings [Acquisition](/acquisition/) Corp is a blank-check company set up to find and combine with an operating business. Think of it as a pool of investor cash waiting to be deployed into a [merger](/merger/). The company incorporated in the Cayman Islands and filed to go public in early 2026.
 
 ## The IPO and what investors received
 
-Forefront Tech completed its IPO on May 1, 2026, raising $100 million. The company sold 10 million units at $10 per unit on the NASDAQ stock exchange. Each unit gave you one Class A share and half a warrant. A whole warrant would let you buy one Class A share at $11.50. Once trading separated out, the Class A shares trade under FTHA and the warrants under FTHAW.
+Forefront Tech completed its IPO on May 1, 2026, raising $100 million. The company sold 10 million units at $10 per unit on the [NASDAQ](/nasdaq/) [stock exchange](/stock-exchange/). Each unit gave you one Class A share and half a warrant. A whole warrant would let you buy one Class A share at $11.50. Once trading separated out, the Class A shares trade under FTHA and the warrants under FTHAW.
 
 $100 million is not a huge SPAC raise. It sits in the smaller-to-midsize range, which means Forefront can acquire a meaningful private company but not a massive one. The underwriting and legal costs still apply, so the actual cash available for a deal is less than the headline number.
 
@@ -35,7 +35,7 @@ When Forefront announces a target, shareholders get to vote on whether to procee
 
 ## Who owns Forefront and what they profit from
 
-The people who founded Forefront (the sponsors) own a block of shares they paid almost nothing for. These founder shares are worthless unless Forefront closes a successful merger. That makes their incentives align with yours — if they blow it or pick a bad target, their founder shares are worth zero.
+The people who founded Forefront (the sponsors) own a block of shares they paid almost nothing for. These [founder shares](/founder-shares/) are worthless unless Forefront closes a successful merger. That makes their incentives align with yours — if they blow it or pick a bad target, their founder shares are worth zero.
 
 But the incentive structure isn't perfect. Once a deal closes, the founder shares often start vesting based on stock price milestones. This can push sponsors to overpay for a target and oversell its potential just to close something, knowing they'll profit if the stock goes up in the first few months regardless of long-term value.
 

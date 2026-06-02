@@ -48,7 +48,7 @@ The real competition, though, comes not from other software vendors but from ine
 
 ## Customer acquisition and retention
 
-CareCloud's growth depends on adding practices faster than existing ones churn, and on expanding within existing customers as they grow or adopt additional services. Acquisition typically happens through direct sales teams that call on practices, demonstrate the software, and explain the economic benefit (reduced billing staff hours, faster payment, fewer claim rejections). The company may compete on price, on specific features, or on support quality.
+CareCloud's growth depends on adding practices faster than existing ones churn, and on expanding within existing customers as they grow or adopt additional services. [Acquisition](/acquisition/) typically happens through direct sales teams that call on practices, demonstrate the software, and explain the economic benefit (reduced billing staff hours, faster payment, fewer claim rejections). The company may compete on price, on specific features, or on support quality.
 
 Retention is where most recurring revenue businesses win or fail. A practice that is happy with CareCloud's performance and support stays a customer for years, generating predictable revenue. One that feels neglected, encounters constant bugs, or experiences poor customer service looks to switch at the next contract renewal. For CareCloud, the metric that matters most is retention rate — what percentage of customers renew each year. A retention rate above 90 percent indicates healthy unit economics; below 80 percent suggests that customers are being lost faster than they can profitably be replaced.
 

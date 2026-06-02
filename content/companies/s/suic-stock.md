@@ -44,7 +44,7 @@ Supply chain disruptions — shipping delays, port congestion, tariffs — hit s
 
 International trade and tariffs add another layer of unpredictability. SUIC operates across borders where tariff regimes change, shipping routes shift, and currency fluctuations can erase thin margins in a quarter. The cost structure of apparel manufacturing is sensitive to many policy variables outside any company's control: tariffs on imported goods, quotas on countries of origin (historically important in textiles but less so now), labor standards and cost increases in manufacturing hubs, and shipping costs that vary with fuel prices and global capacity utilization.
 
-These systemic risks are not unique to SUIC but weigh more heavily on firms without the geographic and financial diversification of a global conglomerate. A large diversified apparel company can absorb a tariff shock by shifting production geographies or raising prices across multiple brands; a smaller, specialized company has fewer options.
+These [systemic risks](/systemic-risk/) are not unique to SUIC but weigh more heavily on firms without the geographic and financial [diversification](/diversification/) of a global conglomerate. A large diversified apparel company can absorb a tariff shock by shifting production geographies or raising prices across multiple brands; a smaller, specialized company has fewer options.
 
 ## Scale as Destiny
 
@@ -52,4 +52,4 @@ The fundamental competitive challenge for SUIC is one of size and reach. To inve
 
 ## How to Research SUIC
 
-The company files annual 10-K reports with the Securities and Exchange Commission (SEC CIK 0001394108), which lay out its business segments, revenue sources, and risk factors. The 10-K is the most reliable source for understanding what the company actually does, how it makes money, and where management sees threats and opportunities. Because SUIC is a much smaller company than the household names in retail and apparel, the filings are shorter and more direct but no less important for analysis.
+The company files annual 10-K reports with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (SEC CIK 0001394108), which lay out its business segments, revenue sources, and risk factors. The 10-K is the most reliable source for understanding what the company actually does, how it makes money, and where management sees threats and opportunities. Because SUIC is a much smaller company than the household names in retail and apparel, the filings are shorter and more direct but no less important for analysis.

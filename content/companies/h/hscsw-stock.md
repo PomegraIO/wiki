@@ -34,7 +34,7 @@ HeartSciences built software that does this work automatically. Feed it an EKG f
 
 Coronary artery disease happens when plaque builds up inside the arteries that feed your heart muscle. You might have no symptoms until the artery gets so narrow that not enough blood reaches the heart. That's when you have chest pain or a heart attack. Catching it early means finding the disease before it pinches off blood flow.
 
-The software analyzes the electrical patterns the heart makes as it beats. A healthy heart makes one pattern. A heart with blocked arteries makes different patterns—subtle ones that a harried nurse or ER doctor might not catch. The AI has been trained on thousands of EKGs from patients who also had heart catheterization (the gold standard test that actually lets you see inside the arteries) or stress tests (which provoke the heart to see if it's getting enough blood). So the software learned what the bad ones look like.
+The software analyzes the electrical patterns the heart makes as it beats. A healthy heart makes one pattern. A heart with blocked arteries makes different patterns—subtle ones that a harried nurse or ER doctor might not catch. The AI has been trained on thousands of EKGs from patients who also had heart catheterization (the [gold standard](/gold-standard/) test that actually lets you see inside the arteries) or stress tests (which provoke the heart to see if it's getting enough blood). So the software learned what the bad ones look like.
 
 When a new patient comes in and gets an EKG, the software analyzes the recording. If it finds patterns that match the ones it learned from sick patients, it flags the case. The doctor then knows to think harder about that patient's heart risk and might order more tests.
 

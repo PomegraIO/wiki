@@ -27,7 +27,7 @@ Nature's Miracle Holding Inc. is a manufacturer and distributor of LED fixtures,
 
 ## The SPAC origin and the consolidation bet
 
-Nature's Miracle did not exist as a public company until 2024, when it emerged from a merger between a blank-check company called Lakeshore Acquisition II and NM Holding, a private operator of indoor-growing facilities and horticultural equipment distribution. The deal brought together two bets: the long-term structural shift toward controlled environment agriculture (CEA), where crops are grown indoors under LED lights rather than in open fields, and the rising legitimacy of cannabis as a regulated agricultural product.
+Nature's Miracle did not exist as a public company until 2024, when it emerged from a [merger](/merger/) between a blank-check company called Lakeshore [Acquisition](/acquisition/) II and NM Holding, a private operator of indoor-growing facilities and horticultural equipment distribution. The deal brought together two bets: the long-term structural shift toward controlled environment agriculture (CEA), where crops are grown indoors under LED lights rather than in open fields, and the rising legitimacy of cannabis as a regulated agricultural product.
 
 The SPAC route gave Nature's Miracle immediate access to public capital in a sector that had previously attracted only private equity and venture backing. The company is led by an operating team brought in during 2026 under new CEO Frank Du, formerly of Megaphoton, a Chinese LED and horticultural-science firm — a signal that the new ownership intends to expand beyond cannabis-adjacent markets toward mainstream vegetable and specialty-crop production.
 
@@ -53,7 +53,7 @@ Federal legalization of cannabis, if it occurs, would be profoundly ambiguous fo
 
 Indoor-growing systems are capital-intensive to design and build. The company operates not just as a manufacturer but as an integrator of lighting, environmental controls, and construction — this means engineering staff, prototype facilities, and a need to understand the specific challenges of growing different crops under different conditions.
 
-The company went public via SPAC, a route that typically brings meaningful cash to the balance sheet but also carries the cost of dilution and public-market pressure for near-term growth. After the merger, the key question is whether the capital on hand is sufficient to fund product development and market expansion without additional dilution, and whether revenue growth can accelerate faster than the dilution from the SPAC process compounds.
+The company went public via SPAC, a route that typically brings meaningful cash to the [balance sheet](/balance-sheet/) but also carries the cost of dilution and public-market pressure for near-term growth. After the merger, the key question is whether the capital on hand is sufficient to fund product development and market expansion without additional dilution, and whether revenue growth can accelerate faster than the dilution from the SPAC process compounds.
 
 ## How to research Nature's Miracle as an investment
 

@@ -41,7 +41,7 @@ A portion of revenue also comes from fees — mortgage origination fees, wealth 
 
 ## The deposit franchise as moat and weakness
 
-A stable base of locally gathered deposits is the competitive advantage that allows Washington Trust to operate at all. Deposits are cheaper than wholesale borrowing, stickier than hot money from Wall Street, and harder for a [national bank](/nbhc-stock/) to displace because they are relationship-based. But deposits are also an obligation: when rates rise or when economic fear spreads, depositors can move their cash to higher-paying alternatives or safer megabanks, forcing the regional bank to raise rates on deposits to compete or to shrink its [balance sheet](/balance-sheet/).
+A stable base of locally gathered deposits is the competitive advantage that allows Washington Trust to operate at all. Deposits are cheaper than wholesale borrowing, stickier than hot money from Wall Street, and harder for a national bank to displace because they are relationship-based. But deposits are also an obligation: when rates rise or when economic fear spreads, depositors can move their cash to higher-paying alternatives or safer megabanks, forcing the regional bank to raise rates on deposits to compete or to shrink its [balance sheet](/balance-sheet/).
 
 The 2023 banking turmoil, sparked by rapid Federal Reserve rate increases, exposed this weakness across the regional banking sector. Some mid-sized banks faced depositor runs when customers learned that [bond](/bond/) portfolios had unrealized losses due to higher rates. Washington Trust, like other regional banks, had to manage its funding mix carefully, raising deposit rates to retain balance sheet size while protecting margins under pressure.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-A blank-check company is, by design, a shell waiting for purpose. FortuneX Acquisition Corp (Nasdaq: FXAC), incorporated in the Cayman Islands, closed its initial public offering in May 2026 and raised capital from public markets for the explicit purpose of finding that purpose—to identify and merge with an operating business in markets with room to grow.
+A blank-check company is, by design, a shell waiting for purpose. FortuneX [Acquisition](/acquisition/) Corp ([Nasdaq](/nasdaq/): FXAC), incorporated in the Cayman Islands, closed its [initial public offering](/initial-public-offering/) in May 2026 and raised capital from public markets for the explicit purpose of finding that purpose—to identify and merge with an operating business in markets with room to grow.
 
 > "A SPAC today is a capital-pooling vehicle in a race against a deadline, betting that faster access to public markets will trump the risks of misalignment between sponsors and public shareholders."
 
@@ -20,7 +20,7 @@ FortuneX raised USD 75 million in its IPO, issuing 7.5 million units at ten doll
 
 What separates FortuneX from the crowd is less its size than its stated focus. Management identified underpenetrated markets as its hunting ground—geographies, sectors, or customer niches where demand outpaces supply and a well-funded operator can grow fast. That targeting is savvy. It does not compete on the commodity question—another ten-billion-dollar tech SPAC—but on the market thesis. If FortuneX's sponsors have genuine insight into which markets are about to boom, they win. If they are wrong about growth, the shares go sideways and shareholders redeem.
 
-The clock is FortuneX's perpetual competitor. SPACs operate under explicit timelines. Shareholders have the right to redeem their shares for a pro-rata slice of the trust account if they dislike a proposed merger; that redemption right is both the SPAC's appeal and its pressure valve. Management must find a target, negotiate terms, and secure shareholder approval before the deadline—usually 24 months, sometimes extended to 36. If a SPAC fails to close a merger within that window, it winds up. The longer the search takes, the more value erodes from the trust account as interest rates move and opportunity costs accumulate.
+The clock is FortuneX's perpetual competitor. SPACs operate under explicit timelines. Shareholders have the right to redeem their shares for a pro-rata slice of the trust account if they dislike a proposed [merger](/merger/); that redemption right is both the SPAC's appeal and its pressure valve. Management must find a target, negotiate terms, and secure shareholder approval before the deadline—usually 24 months, sometimes extended to 36. If a SPAC fails to close a merger within that window, it winds up. The longer the search takes, the more value erodes from the trust account as [interest rates](/interest-rate/) move and opportunity costs accumulate.
 
 FortuneX's competition for deal flow is also internal to the SPAC ecosystem. Thousands of blank-check companies are hunting the same finite set of targets—private companies willing to go public via merger rather than the traditional route. A founder or private-equity sponsor will choose the SPAC whose sponsors bring the most value: capital, sure, but also operational expertise, board connections, and credibility with customers and lenders. FortuneX must compete on that basis against more established sponsors with longer track records and deeper pockets.
 

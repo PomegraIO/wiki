@@ -47,7 +47,7 @@ UEC's thesis assumes a multi-project, expanding-production model. The company wo
 
 ## The competitive and regulatory landscape
 
-UEC competes with a small number of other US-focused uranium developers (notably Sprott Physical Uranium Trust and [Energy Fuels](/uuuu-stock/) Inc., a more advanced producer) and against the global supply of uranium from Kazakhstan, Canada, Uzbekistan, and Russia. Kazakhstan dominates by far, and any geopolitical shift in Central Asia or any expansion of Russian uranium marketing would reshape the supply picture. On the US side, no new domestic mines have opened in decades, and the path to a new major mine is politically complex and capital-intensive.
+UEC competes with a small number of other US-focused uranium developers (notably Sprott Physical Uranium Trust and Energy Fuels Inc., a more advanced producer) and against the global supply of uranium from Kazakhstan, Canada, Uzbekistan, and Russia. Kazakhstan dominates by far, and any geopolitical shift in Central Asia or any expansion of Russian uranium marketing would reshape the supply picture. On the US side, no new domestic mines have opened in decades, and the path to a new major mine is politically complex and capital-intensive.
 
 Regulation is a central wild card. UEC's projects depend on state and federal permits, and public opposition to uranium mining — driven by historical legacies of contamination and by environmental concerns — is real. The company has invested in local engagement and environmental practices, but the politics of uranium are never simple. State legislatures and the US Congress set the tone for nuclear policy, and that tone has shifted in UEC's favor in recent years. But regulatory momentum is not permanent.
 
@@ -67,7 +67,7 @@ The company's investors are betting on a convergence: that uranium prices stay e
 
 ## What moves UEC and how to follow it
 
-The stock's price will track uranium prices above all else. The spot price of uranium is set in a global market; UEC cannot control it, but the company's margins move with it directly. Anyone researching UEC should track [the uranium sector](/wiki/commodity-index-fund/) broadly — the spot and futures prices, geopolitical supply news from Kazakhstan and Russia, and [US energy](/useg-stock/) policy announcements — because those macro signals dominate the individual company story.
+The stock's price will track uranium prices above all else. The spot price of uranium is set in a global market; UEC cannot control it, but the company's margins move with it directly. Anyone researching UEC should track [the uranium sector](/wiki/commodity-index-fund/) broadly — the spot and futures prices, geopolitical supply news from Kazakhstan and Russia, and US energy policy announcements — because those macro signals dominate the individual company story.
 
 On the operational side, follow Willow Creek's quarterly production and cost reports in the earnings filings (SEC CIK 1334933). Watch for ramp progress and any changes to guidance. Track permitting timelines for the next-phase projects. And monitor the physical inventory [balance sheet](/balance-sheet/); if the company has to draw it down to fund operations, that signals cash strain.
 

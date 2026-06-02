@@ -28,7 +28,7 @@ Operating under U.S. public company rules while incorporated in the People's Rep
 
 ## Capital Flows and Currency
 
-The ADR denomination in U.S. dollars means that capital raised from U.S. equity sales enters Fortior's mainland operations as foreign currency, subject to China's complex SAFE (State Administration of Foreign Exchange) approvals for capital movement. Repatriation of profits back to U.S. shareholders, or deployment of earnings to expand in China, both cross this regulatory gate. [Dividend](/dividend/) payments to ADR holders must clear Chinese foreign exchange controls — a structural delay not present in purely domestic U.S. issuers. The company's financial statements, denominated in renminbi but translated into dollars for SEC filing, embed exchange-rate assumptions and conversion mechanics that move independently of business fundamentals.
+The ADR denomination in [U.S. dollars](/us-dollar/) means that capital raised from U.S. equity sales enters Fortior's mainland operations as foreign currency, subject to China's complex SAFE (State Administration of Foreign Exchange) approvals for capital movement. Repatriation of profits back to U.S. shareholders, or deployment of earnings to expand in China, both cross this regulatory gate. [Dividend](/dividend/) payments to ADR holders must clear Chinese foreign exchange controls — a structural delay not present in purely domestic U.S. issuers. The company's financial statements, denominated in renminbi but translated into dollars for SEC filing, embed exchange-rate assumptions and conversion mechanics that move independently of business fundamentals.
 
 ## Research Pathway
 

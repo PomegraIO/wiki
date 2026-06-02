@@ -49,7 +49,7 @@ A second pressure is capital intensity. Advancing a novel biotech platform from 
 
 ## How to Research ProtoKinetix as an Investment
 
-ProtoKinetix files with the SEC under CIK 0001128189. The company's annual reports and quarterly filings contain updates on clinical trial progress, the status of regulatory submissions, and management commentary on the technology's therapeutic potential and timeline. Interested researchers should look for announcements of clinical trial initiation, enrollment milestones, and preliminary efficacy or safety data.
+ProtoKinetix files with the SEC under CIK 0001128189. The company's [annual reports](/10-k/) and quarterly filings contain updates on clinical trial progress, the status of regulatory submissions, and management commentary on the technology's therapeutic potential and timeline. Interested researchers should look for announcements of clinical trial initiation, enrollment milestones, and preliminary efficacy or safety data.
 
 The fundamental questions for any investor are whether AAGP will demonstrate clinical efficacy, whether that efficacy will be large enough to justify the development costs and win regulatory approval, and whether the company can secure sufficient funding to see the program through to that point. Because ProtoKinetix has not yet commercialized a product, its value is entirely speculative, resting on the probability assigned to these clinical and regulatory outcomes.
 

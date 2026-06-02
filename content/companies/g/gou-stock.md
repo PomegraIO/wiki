@@ -28,7 +28,7 @@ Google's stock has been one of the most durable wealth generators in the market.
 
 ## What this ETF does: daily leverage on Alphabet
 
-GOU holds derivatives — primarily swaps and futures on Alphabet stock — that expose the fund to twice the daily return of GOOGL. On a day when Google stock rises 2 percent, GOU aims to rise approximately 4 percent. On a day when Google falls 2 percent, GOU aims to fall approximately 4 percent. The key word is daily: the fund rebalances every evening to reset its leverage, maintaining exactly 2x exposure to the next day's move.
+GOU holds derivatives — primarily swaps and futures on [Alphabet](/googl-stock/) stock — that expose the fund to twice the daily return of GOOGL. On a day when Google stock rises 2 percent, GOU aims to rise approximately 4 percent. On a day when Google falls 2 percent, GOU aims to fall approximately 4 percent. The key word is daily: the fund rebalances every evening to reset its leverage, maintaining exactly 2x exposure to the next day's move.
 
 This is a directional bet with training wheels. You are not buying Google stock outright; you are buying leveraged exposure to it through derivatives. GraniteShares manages the daily reset using futures, swaps, and cash positions to keep the leverage steady at 2x.
 
@@ -46,21 +46,21 @@ This is not a design flaw; it is a mathematical certainty. Leverage on any daily
 
 ## A stock-specific instrument, not a portfolio
 
-GOU is a single-stock leveraged ETF. Unlike a broad leveraged fund (which might hold many stocks), GOU's entire return depends on one company. That means:
+GOU is a single-stock [leveraged ETF](/leveraged-etf/). Unlike a broad leveraged fund (which might hold many stocks), GOU's entire return depends on one company. That means:
 
-- Concentration risk is extreme. If Alphabet enters serious trouble — antitrust breakup, major revenue collapse, management crisis — GOU will decline far more sharply than a diversified leveraged fund.
-- There is no diversification hedge. A broad equity fund might benefit if one sector suffers while another thrives; GOU has no such escape.
+- [Concentration risk](/concentration-risk/) is extreme. If Alphabet enters serious trouble — antitrust breakup, major revenue collapse, management crisis — GOU will decline far more sharply than a diversified leveraged fund.
+- There is no [diversification](/diversification/) hedge. A broad equity fund might benefit if one sector suffers while another thrives; GOU has no such escape.
 - The volatility is directly tied to Google's business news and quarterly earnings. A bad earnings report or regulatory announcement can move GOOGL 5-10 percent in a day, which means GOU moves 10-20 percent.
 
 For these reasons, GOU is best suited to traders or tactical allocators with strong conviction about Google's near-term direction, not long-term passive investors.
 
 ## Costs and how to trade
 
-GOU trades on the NASDAQ at market prices during market hours. Bid-ask spreads are typically tight given the fund's liquidity, though they can widen in unusual market conditions.
+GOU trades on the [NASDAQ](/nasdaq/) at market prices during market hours. [Bid-ask spreads](/bid-ask-spread/) are typically tight given the fund's liquidity, though they can widen in unusual market conditions.
 
-The expense ratio covers GraniteShares' management, the cost of rebalancing daily, and the cost of borrowing (leverage is not free — the fund must pay a borrowing cost to use leverage, and that cost fluctuates with interest rates and market demand for leverage). These costs are modest relative to the value proposition: you are paying for the daily rebalancing machinery and the use of capital.
+The [expense ratio](/expense-ratio/) covers GraniteShares' management, the cost of rebalancing daily, and the cost of borrowing (leverage is not free — the fund must pay a borrowing cost to use leverage, and that cost fluctuates with [interest rates](/interest-rate/) and market demand for leverage). These costs are modest relative to the value proposition: you are paying for the daily rebalancing machinery and the use of capital.
 
-The real cost is the volatility decay mentioned above. In a bull market with steady uptrends, this cost is barely noticeable. In a choppy market, it is material and can overwhelm the gains from leverage.
+The real cost is the volatility decay mentioned above. In a [bull market](/bull-market/) with steady uptrends, this cost is barely noticeable. In a choppy market, it is material and can overwhelm the gains from leverage.
 
 ## The real uses and risks
 

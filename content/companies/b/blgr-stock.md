@@ -13,7 +13,7 @@ handwritten: true
 
 > "Growth at scale is discipline."
 
-Bluemonte's Large Cap Growth ETF is a straightforward bet: that large companies with the financial muscle to invest in their own expansion will deliver returns that exceed the broader market. It targets firms with established market positions, durable competitive advantages, and the cash generation to fund product development, acquisitions, or geographic expansion without relying on external capital.
+Bluemonte's Large Cap [Growth ETF](/growth-etf/) is a straightforward bet: that large companies with the financial muscle to invest in their own expansion will deliver returns that exceed the broader market. It targets firms with established market positions, durable competitive advantages, and the cash generation to fund product development, [acquisitions](/acquisition/), or geographic expansion without relying on external capital.
 
 The fund tracks an index of large-cap US stocks selected for above-average earnings growth. The selection process screens the largest companies by market capitalisation — those commanding hundreds of billions in total value — and narrows to those where management has demonstrated consistent ability to grow profits faster than the economy. The result is a portfolio of names most investors recognise: companies that dominate their sectors and have shown they can keep expanding profit without losing pricing power or control of their markets.
 
@@ -21,9 +21,9 @@ BLGR is a simple ETF with no leverage or inverse mechanics, so it carries no dai
 
 ## How the fund operates and what it costs
 
-Bluemonte structures BLGR as a passively managed fund tracking a published index, so costs are low relative to actively managed alternatives. The annual expense ratio is modest and does not vary with trading volume or market movement. Shareholders pay proportionally through the ongoing fee.
+Bluemonte structures BLGR as a [passively managed fund](/passively-managed-fund/) tracking a published index, so costs are low relative to actively managed alternatives. The annual [expense ratio](/expense-ratio/) is modest and does not vary with trading volume or market movement. Shareholders pay proportionally through the ongoing fee.
 
-Large-cap growth companies, by nature, are established and profitable. Many pay dividends, though growth-tilted indexes often hold companies that prioritise reinvestment over payouts. The dividend yield is typically lower than a fund focused on value or income, but capital appreciation is often the primary return driver.
+Large-cap growth companies, by nature, are established and profitable. Many pay [dividends](/dividend/), though growth-tilted indexes often hold companies that prioritise reinvestment over payouts. The [dividend yield](/dividend-yield/) is typically lower than a fund focused on value or income, but capital appreciation is often the primary return driver.
 
 ## The growth bias and what it means
 
@@ -39,12 +39,12 @@ A growth-tilted portfolio is more sensitive to changes in expectations. When the
 
 Valuation risk is real. Growth stocks typically trade at higher price-to-earnings multiples than value stocks, pricing in the expectation of future expansion. If a company disappoints on growth or the multiple compresses, shareholders face headwinds.
 
-The fund is unhedged, so non-US investors carry currency risk. Holdings generate revenues and profits globally, but the index is dollar-denominated, and exchange-rate movements affect the value for foreign-currency investors.
+The fund is unhedged, so non-US investors carry [currency risk](/currency-risk/). Holdings generate revenues and profits globally, but the index is dollar-denominated, and exchange-rate movements affect the value for foreign-currency investors.
 
 ## How to research BLGR and understand its fit
 
 Understanding the fund begins with reviewing the prospectus and the current holdings. A reader should know which companies dominate the portfolio and what sectors they represent. The index methodology document explains the selection criteria and the weightings. Bluemonte publishes fact sheets with sector and geographic breakdowns.
 
-Evaluating whether BLGR is a good fit requires thinking about the role it plays in a broader portfolio. In combination with value or income funds, it can provide diversification through different selection criteria. Held alone, it creates a concentrated bet on large-cap growth, which may be suitable for some investors and too narrow for others. The key is understanding what you own and why you own it.
+Evaluating whether BLGR is a good fit requires thinking about the role it plays in a broader portfolio. In combination with value or [income funds](/income-fund/), it can provide [diversification](/diversification/) through different selection criteria. Held alone, it creates a concentrated bet on large-cap growth, which may be suitable for some investors and too narrow for others. The key is understanding what you own and why you own it.
 
 Tracking BLGR's performance relative to the broader market and against other large-cap growth indexes shows whether it is doing what its name promises. Comparing the expense ratio to competitors and the portfolio turnover to understand hidden costs rounds out the picture.

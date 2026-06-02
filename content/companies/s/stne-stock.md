@@ -27,7 +27,7 @@ The brilliance of this model is that it targets a market nobody else was serving
 
 **Lending.** Merchants who process a lot of money through StoneCo's platform generate data that tells StoneCo how healthy the business is. Revenue, transaction frequency, and customer loyalty all become visible. StoneCo uses that data to make loans to merchants without the bureaucracy of traditional banking. A merchant in need of cash can get a loan the next day, and StoneCo earns interest. Lending margins are high, but [credit risk](/credit-risk/) is real: merchants can default, especially in an economic downturn.
 
-**Financial services and other.** StoneCo has expanded into digital banking products: accounts, money transfers, payroll services, insurance. The company licenses or partners with other [financial institutions](/fisi-stock/) to offer these services and takes a commission. A merchant using StoneCo for payments might also hold a checking account, buy business insurance, or use StoneCo's platform to pay employees. Each service is a new revenue stream and also increases the stickiness of the customer relationship.
+**Financial services and other.** StoneCo has expanded into digital banking products: accounts, money transfers, payroll services, insurance. The company licenses or partners with other financial institutions to offer these services and takes a commission. A merchant using StoneCo for payments might also hold a checking account, buy business insurance, or use StoneCo's platform to pay employees. Each service is a new revenue stream and also increases the stickiness of the customer relationship.
 
 ## The unit economics and the path to profit
 

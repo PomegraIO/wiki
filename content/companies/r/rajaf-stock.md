@@ -39,7 +39,7 @@ Distribution to Hong Kong and mainland China extends the addressable market beyo
 
 Cordyceps Sunshine is not a pharmaceutical giant. It is a niche company in the dietary supplement space. It has not undergone extensive clinical trials for cordyceps efficacy in the way a drug company must. The products are sold on the basis of traditional use and consumer belief in their health benefits—a segment that is real and substantial in Asia but small compared to mainstream pharmaceuticals or large supplement companies in the West.
 
-The company's strengths are in cultivation expertise, brand recognition within its niche, and the appeal of cordyceps as a product. Its main vulnerabilities are the small size of the overall business, dependence on retail trends in Asia, exposure to currency fluctuations in the Chinese yuan and Hong Kong dollar, and the risk that consumer preferences might shift away from traditional supplements toward other health products.
+The company's strengths are in cultivation expertise, brand recognition within its niche, and the appeal of cordyceps as a product. Its main vulnerabilities are the small size of the overall business, dependence on retail trends in Asia, exposure to currency fluctuations in the Chinese yuan and [Hong Kong dollar](/hong-kong-dollar/), and the risk that consumer preferences might shift away from traditional supplements toward other health products.
 
 ## Competition and market position
 
@@ -51,6 +51,6 @@ The market for cordyceps and traditional health supplements in Asia is mature an
 
 For anyone studying Cordyceps Sunshine, the key question is the company's ability to grow revenue in a mature market. The 10-K filing (SEC CIK 0001885680) will show revenue by product line and by geography, if that detail is disclosed. The most important metrics are year-over-year sales growth, gross margin, and the health of the company's retail relationships.
 
-Because the company trades on the OTC market and is small, information is less abundant than for Nasdaq-listed companies. The annual report and quarterly filings are the best sources. An investor would want to understand what proportion of revenue comes from direct e-commerce versus retail partnerships, whether retail chains are increasing or decreasing their shelf space allocated to the brand, and whether the company is expanding into new product categories or consolidating around cordyceps-focused lines.
+Because the company trades on the OTC market and is small, information is less abundant than for Nasdaq-listed companies. The [annual report](/10-k/) and quarterly filings are the best sources. An investor would want to understand what proportion of revenue comes from direct e-commerce versus retail partnerships, whether retail chains are increasing or decreasing their shelf space allocated to the brand, and whether the company is expanding into new product categories or consolidating around cordyceps-focused lines.
 
 Cordyceps Sunshine is a straightforward business: it grows fungi, makes supplements, and sells them to people who believe in the health benefits. Whether that belief is well-founded is a question for medical research; whether the business is sound is a question about growth, margins, and customer retention—the ordinary questions any small company faces.

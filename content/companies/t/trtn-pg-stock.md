@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Triton International is the world's largest independent lessor of intermodal containers, owning and managing millions of standardised steel boxes that move containerised cargo across oceans, ports, and inland routes. The company does not own the ships or run the freight operations; instead, it provides the containers and collects lease payments from the carriers, freight forwarders, and logistics companies that need them. The business turns capital into steady, predictable cash flow by financing containers that are essential to global trade.
+[Triton International](/trtn-pa-stock/) is the world's largest independent lessor of intermodal containers, owning and managing millions of standardised steel boxes that move containerised cargo across oceans, ports, and inland routes. The company does not own the ships or run the freight operations; instead, it provides the containers and collects lease payments from the carriers, freight forwarders, and logistics companies that need them. The business turns capital into steady, predictable cash flow by financing containers that are essential to global trade.
 
 <aside class="wiki-infobox">
 <table>
@@ -44,9 +44,9 @@ The manufacturing segment is also where Triton has some ability to manage its co
 
 ## Financing: cash flow and capital structure
 
-Triton's business model requires enormous amounts of capital. The company finances container purchases through a combination of cash flow from operations, debt, and equity. It is highly leveraged — typical of capital-intensive leasing companies — with debt often running several multiples of annual operating income. That high leverage magnifies returns during strong periods: when utilisation is high and lease rates firm, the equity returns are robust. But the same leverage magnifies losses during downturns. A recession that cuts shipping volumes by twenty percent hits lease revenue sharply, and if Triton has borrowed heavily to expand the fleet, it may struggle to service debt while facing pressure to maintain or expand the fleet just to keep market share.
+Triton's business model requires enormous amounts of capital. The company finances container purchases through a combination of cash flow from operations, debt, and equity. It is highly leveraged — typical of capital-intensive leasing companies — with debt often running several multiples of annual operating income. That high leverage magnifies returns during strong periods: when utilisation is high and lease rates firm, the equity returns are robust. But the same leverage magnifies losses during downturns. A [recession](/recession/) that cuts shipping volumes by twenty percent hits lease revenue sharply, and if Triton has borrowed heavily to expand the fleet, it may struggle to service debt while facing pressure to maintain or expand the fleet just to keep market share.
 
-Triton's ability to refinance debt at reasonable rates is therefore a critical determinant of its economics. Rising interest rates increase the cost of carrying the fleet; if rates spike, the company may need to raise prices to customers, risking utilisation, or absorb margin compression. The 2022–2023 period of rising rates and the 2024 slowdown in global trade both tested this dynamic, forcing Triton to manage growth and pricing carefully.
+Triton's ability to refinance debt at reasonable rates is therefore a critical determinant of its economics. Rising [interest rates](/interest-rate/) increase the cost of carrying the fleet; if rates spike, the company may need to raise prices to customers, risking utilisation, or absorb margin compression. The 2022–2023 period of rising rates and the 2024 slowdown in global trade both tested this dynamic, forcing Triton to manage growth and pricing carefully.
 
 ## Geography and trade exposure
 
@@ -56,6 +56,6 @@ Trade patterns shift with tariffs, supply-chain decisions, and economic cycles. 
 
 ## Understanding Triton as an investment
 
-Triton's 10-K filing (SEC CIK 0001660734) details fleet composition by container type and region, depreciation and maintenance costs, and the concentration of revenue by major customer and geography. Quarterly earnings calls reveal trends in lease pricing, utilisation, new container orders, and management's outlook for trade growth.
+Triton's 10-K filing (SEC CIK 0001660734) details fleet composition by container type and region, [depreciation](/depreciation/) and maintenance costs, and the concentration of revenue by major customer and geography. Quarterly earnings calls reveal trends in lease pricing, utilisation, new container orders, and management's outlook for trade growth.
 
-Key metrics: the lease rate per container per month across each customer segment; fleet utilisation; the average age of the fleet (older fleets need more investment); the ratio of debt to equity; and the company's free cash flow after maintenance capital spending. Triton's stock historically trades on sentiment about global trade and shipping rates; understanding whether freight is tightening or loosening is as important as the balance sheet. Investors should also track geopolitical risks to shipping lanes and the regulatory environment around emissions and port operations.
+Key metrics: the lease rate per container per month across each customer segment; fleet utilisation; the average age of the fleet (older fleets need more investment); the ratio of debt to equity; and the company's [free cash flow](/free-cash-flow/) after maintenance capital spending. Triton's stock historically trades on sentiment about global trade and shipping rates; understanding whether freight is tightening or loosening is as important as the [balance sheet](/balance-sheet/). Investors should also track geopolitical risks to shipping lanes and the regulatory environment around emissions and port operations.

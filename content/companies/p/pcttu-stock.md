@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-PureCycle Technologies is a development-stage company founded in 2015 that is attempting to commercialize a chemical recycling process for polypropylene, a common plastic used in packaging, automotive parts, and consumer goods. The company went public through a SPAC merger in 2021 (trading under the ticker PCTTU for warrants and PCTTW for common shares), but it remains pre-revenue and capital-intensive, working to scale a proprietary technology that Procter and Gamble helped develop and licensed to PureCycle. The business model hinges on taking low-value, contaminated plastic waste that would otherwise go to landfill or incineration, processing it chemically to recover virgin-quality polypropylene, and selling the resulting resin to manufacturers.
+[PureCycle Technologies](/pct-stock/) is a development-stage company founded in 2015 that is attempting to commercialize a chemical recycling process for polypropylene, a common plastic used in packaging, automotive parts, and consumer goods. The company went public through a SPAC [merger](/merger/) in 2021 (trading under the ticker PCTTU for warrants and PCTTW for common shares), but it remains pre-revenue and capital-intensive, working to scale a proprietary technology that Procter and Gamble helped develop and licensed to PureCycle. The business model hinges on taking low-value, contaminated plastic waste that would otherwise go to landfill or incineration, processing it chemically to recover virgin-quality polypropylene, and selling the resulting resin to manufacturers.
 
 <aside class="wiki-infobox">
 <table>

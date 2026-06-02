@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-GraniteShares YieldBOOST AMD ETF (AMYY) holds Advanced Micro Devices Inc. stock and overlays an options strategy to generate income. The fund buys shares of AMD, then systematically sells (writes) out-of-the-money call options against those shares. The premium collected from selling calls becomes distributions to shareholders, boosting the current yield above what AMD's ordinary dividend offers. In exchange, the fund caps its upside if AMD shares rise above the strike price of the sold calls.
+GraniteShares YieldBOOST AMD ETF (AMYY) holds [Advanced Micro Devices](/amd-stock/) Inc. stock and overlays an options strategy to generate income. The fund buys shares of AMD, then systematically sells (writes) out-of-the-money [call options](/call-option/) against those shares. The premium collected from selling calls becomes distributions to shareholders, boosting the [current yield](/current-yield/) above what AMD's [ordinary dividend](/ordinary-dividend/) offers. In exchange, the fund caps its upside if AMD shares rise above the [strike price](/strike-price/) of the sold calls.
 
 ## The mechanics: the yield comes from capped upside
 
-AMYY functions as a covered call strategy in ETF form. The portfolio holds a full position in AMD stock. Monthly, the fund sells call options that expire in roughly 30 days, typically at a strike price 5% to 15% above the current AMD price. A shareholder in AMYY thus receives the appreciation of AMD shares up to the call strike, plus the call premium as an extra return, distributed as a monthly cash payment. If AMD rises beyond the strike, the shares are called away (sold to the call buyer) at the strike price, capping the fund's gain. If AMD falls, both the shares and the short calls lose money together, though the call premium provides a small cushion.
+AMYY functions as a [covered call](/covered-call/) strategy in ETF form. The portfolio holds a full position in AMD stock. Monthly, the fund sells call options that expire in roughly 30 days, typically at a strike price 5% to 15% above the current AMD price. A shareholder in AMYY thus receives the appreciation of AMD shares up to the call strike, plus the call premium as an extra return, distributed as a monthly cash payment. If AMD rises beyond the strike, the shares are called away (sold to the call buyer) at the strike price, capping the fund's gain. If AMD falls, both the shares and the short calls lose money together, though the call premium provides a small cushion.
 
-The appeal is attractive: yield-focused investors get a higher income stream than AMD itself pays in dividends. The tradeoff is explicit: you give up some upside potential on days when AMD rallies strongly. This is not hidden; it is the entire point.
+The appeal is attractive: yield-focused investors get a higher income stream than AMD itself pays in [dividends](/dividend/). The tradeoff is explicit: you give up some upside potential on days when AMD rallies strongly. This is not hidden; it is the entire point.
 
 ## Who the strategy targets
 
@@ -29,13 +29,13 @@ The fund appeals most to investors in a lower tax bracket (or in tax-advantaged 
 
 The primary risk is that AMD rallies sharply and the call strikes get breached, locking in gains at a level the investor might have preferred to exceed. This is not catastrophic — you made money — but it caps your participation in a bull run. If you are deeply bullish on AMD, an uncapped position in AMD stock or a simple AMD ETF will likely outperform AMYY in a sustained rally.
 
-The secondary risk is momentum loss. If AMD enters a downtrend, the premium from selling calls provides some support, but it is typically small relative to the stock's move. In a bear market, AMYY does not cushion the fall meaningfully; it simply loses money slightly less fast than the underlying stock would, then you face the question of whether to hold or cut the loss.
+The secondary risk is momentum loss. If AMD enters a downtrend, the premium from selling calls provides some support, but it is typically small relative to the stock's move. In a [bear market](/bear-market/), AMYY does not cushion the fall meaningfully; it simply loses money slightly less fast than the underlying stock would, then you face the question of whether to hold or cut the loss.
 
 There is also timing risk: the fund resets the call strikes monthly, so if AMD gaps up sharply just after a roll, you have to wait 30 days before capturing upside again via higher strikes.
 
 ## Sponsorship and liquidity
 
-GraniteShares is a UK-based ETF provider owned by Invesco, one of the largest asset managers globally. AMYY launched in 2022 as part of GraniteShares' YieldBOOST line covering single stocks and indices. The fund has modest but adequate liquidity on the NYSE, typically trading 20,000 to 50,000 shares daily. The expense ratio is moderate, in the range of 0.50% to 0.75% annually, reflecting the cost of the options strategy and the fund's overhead.
+GraniteShares is a UK-based ETF provider owned by Invesco, one of the largest asset managers globally. AMYY launched in 2022 as part of GraniteShares' YieldBOOST line covering single stocks and indices. The fund has modest but adequate liquidity on the NYSE, typically trading 20,000 to 50,000 shares daily. The [expense ratio](/expense-ratio/) is moderate, in the range of 0.50% to 0.75% annually, reflecting the cost of the options strategy and the fund's overhead.
 
 ## Comparing to alternatives
 

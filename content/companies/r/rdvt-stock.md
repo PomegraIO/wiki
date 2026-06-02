@@ -26,7 +26,7 @@ The market is large and growing. Regulatory requirements like [sanctions screeni
 
 Red Violet generates revenue from multiple data intelligence products. The core business is subscription access to databases and investigation tools. Customers pay recurring fees to access the platform and conduct searches and analysis. The company also earns transaction-based revenue when customers use specific lookup features beyond their subscription tier.
 
-The customer base spans government agencies, law enforcement, [financial institutions](/fisi-stock/), and corporate compliance teams. Government contracts are a meaningful share of revenue. Financial institutions use the platform for [customer due diligence](/customer-due-diligence/) and anti-money-laundering screening. Corporations use it for background checks, vendor management, and fraud investigation.
+The customer base spans government agencies, law enforcement, financial institutions, and corporate compliance teams. Government contracts are a meaningful share of revenue. Financial institutions use the platform for [customer due diligence](/customer-due-diligence/) and anti-money-laundering screening. Corporations use it for background checks, vendor management, and fraud investigation.
 
 Margin economics are attractive in principle: data is collected and aggregated once, then sold repeatedly with minimal additional cost. If the company can grow its customer base without proportional increases in infrastructure or customer [acquisition](/acquisition/) costs, gross margins should expand. However, data quality, legal compliance, and customer support all carry ongoing costs that are difficult to scale away.
 

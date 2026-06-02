@@ -37,7 +37,7 @@ BRP's revenue is heavily concentrated in North America, particularly the United 
 
 International expansion is a long-term growth lever—BRP has operations in Europe and Asia—but these regions remain smaller and growth is slower. Dependence on North America for the majority of revenue means BRP is exposed to North American economic cycles and consumer confidence, not diversified across multiple developed markets.
 
-Geographic concentration also means [currency risk](/currency-risk/): a strong U.S. dollar makes BRP's products more expensive internationally and reduces profit when translated back to [Canadian dollars](/canadian-dollar/) (BRP is Canadian-listed). Management hedges some of this currency exposure through financial instruments, but not all.
+Geographic concentration also means [currency risk](/currency-risk/): a strong [U.S. dollar](/us-dollar/) makes BRP's products more expensive internationally and reduces profit when translated back to [Canadian dollars](/canadian-dollar/) (BRP is Canadian-listed). Management hedges some of this currency exposure through financial instruments, but not all.
 
 ## Dealer network and relationship management
 

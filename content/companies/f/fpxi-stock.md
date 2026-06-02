@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The **First Trust International Equity Opportunities ETF** brings the DNA of the US-listed NASDAQ-100 to the rest of the world. It holds non-US companies that share the growth, profitability, and innovation characteristics of the index, offering US-based investors a way to capture global growth outside America without abandoning the NASDAQ's characteristic tilt toward technology and high-growth sectors.*
+*The **First Trust International Equity Opportunities ETF** brings the DNA of the US-listed NASDAQ-100 to the rest of the world. It holds non-US companies that share the growth, profitability, and innovation characteristics of the index, offering US-based investors a way to capture global growth outside America without abandoning the [NASDAQ's](/nasdaq/) characteristic tilt toward technology and high-growth sectors.*
 
 <aside class="wiki-infobox">
 <div class="wiki-infobox-title">FPXI — key facts</div>
@@ -46,7 +46,7 @@ The exact composition rotates quarterly as the index rebalances, adding companie
 
 ## Why the NASDAQ methodology works internationally
 
-Investors in FPXI are betting that the characteristics that make the US NASDAQ-100 companies valuable — growth, profitability, return on equity, earnings momentum — are equally valuable outside the United States. A technology company in Sweden or Canada with strong margins and growth should compound wealth just as effectively as its US peer.
+Investors in FPXI are betting that the characteristics that make the US NASDAQ-100 companies valuable — growth, profitability, [return on equity](/return-on-equity/), earnings momentum — are equally valuable outside the United States. A technology company in Sweden or Canada with strong margins and growth should compound wealth just as effectively as its US peer.
 
 This methodology also naturally selects for global, internationally oriented businesses. A company strong enough to meet the NASDAQ's international criteria is likely already exporting, operating multinationally, and exposed to global demand rather than being purely domestic.
 
@@ -54,18 +54,18 @@ The downside is that by screening for growth and quality, FPXI will own fewer of
 
 ## Currency and regional risks
 
-FPXI holds stocks denominated in dozens of currencies — euros, Canadian dollars, Australian dollars, Japanese yen, British pounds, and others. Currency movements against the US dollar will meaningfully affect total returns. A strengthening dollar makes foreign holdings less valuable in dollar terms; a weakening dollar provides a tailwind.
+FPXI holds stocks denominated in dozens of currencies — euros, [Canadian dollars](/canadian-dollar/), [Australian dollars](/australian-dollar/), [Japanese yen](/japanese-yen/), [British pounds](/british-pound/), and others. Currency movements against the [US dollar](/us-dollar/) will meaningfully affect total returns. A strengthening dollar makes foreign holdings less valuable in dollar terms; a weakening dollar provides a tailwind.
 
-Developed markets like Europe, Canada, and Australia are relatively stable, but some emerging markets in FPXI's universe carry regulatory or political risks. Each country's tax treatment of dividends and capital gains also varies, affecting the net returns that reach US shareholders.
+Developed markets like Europe, Canada, and Australia are relatively stable, but some emerging markets in FPXI's universe carry regulatory or political risks. Each country's tax treatment of [dividends](/dividend/) and capital gains also varies, affecting the net returns that reach US shareholders.
 
 ## Costs and liquidity
 
-FPXI trades on NASDAQ with moderate volume. As a passive fund tracking a published index, it has a low expense ratio. The underlying stocks are generally liquid and well-traded, so the fund itself should be straightforward to trade, though intraday spreads depend on market conditions.
+FPXI trades on NASDAQ with moderate volume. As a passive fund tracking a published index, it has a low [expense ratio](/expense-ratio/). The underlying stocks are generally liquid and well-traded, so the fund itself should be straightforward to trade, though intraday spreads depend on market conditions.
 
 ## How to research FPXI
 
 Start with the fund's prospectus and fact sheet from First Trust and NASDAQ to understand the exact NASDAQ-100 International index methodology and current holdings. This will clarify which sectors, countries, and individual companies the fund emphasizes.
 
-Compare FPXI against other international equity ETFs — both cap-weighted ones and other growth-tilted alternatives — to see how it differs. A cap-weighted international fund will have higher weightings to large multinational banks, energy companies, and capital-goods manufacturers; FPXI will be tilted more toward software, biotech, and consumer discretionary names.
+Compare FPXI against other international [equity ETFs](/equity-etf/) — both cap-weighted ones and other growth-tilted alternatives — to see how it differs. A cap-weighted international fund will have higher weightings to large multinational banks, energy companies, and capital-goods manufacturers; FPXI will be tilted more toward software, biotech, and consumer discretionary names.
 
-Look at how FPXI correlates with the US NASDAQ-100 itself. A high correlation suggests the international version is capturing similar growth themes; divergence might signal regional differences or sector rotations. Track currency valuations to sense when currency movements might boost or drag on the fund's returns.
+Look at how FPXI correlates with the US NASDAQ-100 itself. A high correlation suggests the international version is capturing similar growth themes; divergence might signal regional differences or [sector rotations](/sector-rotation/). Track currency valuations to sense when currency movements might boost or drag on the fund's returns.

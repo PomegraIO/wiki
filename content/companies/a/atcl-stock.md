@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-The REX Autocallable Income ETF, traded as ATCL, wraps a structured autocallable strategy around the S&P 500 Index. Rather than holding the index directly, the fund implements a redemption mechanism borrowed from structured products: the fund observes the index level on preset dates and, if it has gained past a trigger level, automatically redeems and restarts the strategy — locking in gains and resetting the bet. If the index declines, the fund cushions the downside within predefined limits.
+The REX Autocallable [Income ETF](/income-etf/), traded as ATCL, wraps a structured autocallable strategy around the [S&P 500 Index](/sp-500-index/). Rather than holding the index directly, the fund implements a redemption mechanism borrowed from structured products: the fund observes the index level on preset dates and, if it has gained past a trigger level, automatically redeems and restarts the strategy — locking in gains and resetting the bet. If the index declines, the fund cushions the downside within predefined limits.
 
-Autocallable structures are common in wealth management and private structured products, where they appeal to income-focused investors who accept complexity in exchange for a defined payoff ladder. ATCL brings that logic into a daily-trading ETF format, making it accessible to retail investors who would normally encounter these only through private placements or hedge funds.
+Autocallable structures are common in wealth management and private structured products, where they appeal to income-focused investors who accept complexity in exchange for a defined payoff ladder. ATCL brings that logic into a daily-trading ETF format, making it accessible to retail investors who would normally encounter these only through [private placements](/private-placement/) or [hedge funds](/hedge-fund/).
 
 ## What the fund actually tracks
 
@@ -25,13 +25,13 @@ The strategy's appeal is that it converts buy-and-hold market returns into a ser
 
 REX Shares (the sponsor behind the ticker) is part of the ecosystem of quant-focused ETF providers. ATCL is structured as a standard ETF — it trades on an exchange during market hours and uses the creation/redemption mechanism typical of all ETFs to maintain parity between the fund's price and its underlying value.
 
-Operationally, the fund likely holds a mixture of equity index exposure and options (or synthetic equivalents) to implement the autocall and buffer mechanics. The specifics of how much is held in S&P 500 futures, S&P 500 index options, Treasury bonds, or cash-equivalents will vary based on the prevailing market environment and the exact mechanics of that year's cycle.
+Operationally, the fund likely holds a mixture of equity index exposure and options (or synthetic equivalents) to implement the autocall and buffer mechanics. The specifics of how much is held in S&P 500 futures, S&P 500 index options, [Treasury bonds](/treasury-bond/), or cash-equivalents will vary based on the prevailing market environment and the exact mechanics of that year's cycle.
 
 ## Costs and trading
 
-The fund carries an expense ratio reflective of its structured nature — higher than a plain S&P 500 ETF like SPY, but lower than the fees you would pay for a privately structured product. It trades on a major U.S. exchange with reasonable liquidity (though liquidity is lower than mega-cap index ETFs because the strategy appeals to a smaller, more specialized audience).
+The fund carries an [expense ratio](/expense-ratio/) reflective of its structured nature — higher than a plain S&P 500 ETF like SPY, but lower than the fees you would pay for a privately structured product. It trades on a major U.S. exchange with reasonable liquidity (though liquidity is lower than mega-cap index ETFs because the strategy appeals to a smaller, more specialized audience).
 
-The fund's daily net asset value is publicly disclosed, as with all ETFs. Wide bid-ask spreads can appear during periods of low volume or market stress, which is a routine friction cost for small or exotic ETFs.
+The fund's daily [net asset value](/net-asset-value/) is publicly disclosed, as with all ETFs. Wide [bid-ask spreads](/bid-ask-spread/) can appear during periods of low volume or market stress, which is a routine friction cost for small or exotic ETFs.
 
 ## The real risks
 
@@ -39,7 +39,7 @@ The defining risk in any autocallable structure is that the investor accepts a c
 
 The second risk is the buffer itself. Autocallables typically offer protection within a buffer zone (for example, down 10–20% from the starting level per cycle), but if the market crashes past that buffer in a single observation period, the fund can take significant losses. This is not a guaranteed capital preservation product — it is a tactical hedging mechanism with limits.
 
-There is also basis risk: the fund's price may diverge from its calculated net asset value in extreme market conditions or if liquidity dries up. Retail investors should be aware that complex strategies, in times of stress, can be harder to exit.
+There is also [basis risk](/basis-risk/): the fund's price may diverge from its calculated net asset value in extreme market conditions or if liquidity dries up. Retail investors should be aware that complex strategies, in times of stress, can be harder to exit.
 
 Finally, there is the risk of misunderstanding the payoff. Autocallables are not intuitive to most individual investors. The fund appeals to investors seeking a defined outcome over a period and willing to forego upside upside to reduce downside. An investor who expects direct index exposure should own SPY or IVV, not ATCL.
 

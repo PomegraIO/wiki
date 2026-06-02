@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Strata Critical Medical, Inc. ([NASDAQ](/nasdaq/): SRTA) is a [healthcare services](/hcsg-stock/) company that moves organs, transplant teams, and patients at time-critical speed, and provides specialized clinical services like perfusion and organ preservation to support transplantation and cardiac surgery. The company was formerly known as Blade Air Mobility, Inc., a venture-backed air taxi startup, until Blade's medical division was spun out and rebranded as Strata in August 2025. The new Strata focuses exclusively on aviation-based medical logistics and clinical services — a vertical that had become the strongest part of the parent company.
+Strata Critical Medical, Inc. ([NASDAQ](/nasdaq/): SRTA) is a healthcare services company that moves organs, transplant teams, and patients at time-critical speed, and provides specialized clinical services like perfusion and organ preservation to support transplantation and cardiac surgery. The company was formerly known as Blade Air Mobility, Inc., a venture-backed air taxi startup, until Blade's medical division was spun out and rebranded as Strata in August 2025. The new Strata focuses exclusively on aviation-based medical logistics and clinical services — a vertical that had become the strongest part of the parent company.
 
 <aside class="wiki-infobox">
 <table>
@@ -52,7 +52,7 @@ The market for organ recovery services is not crowded. Few companies have the co
 
 The bigger risk is regulatory and operational. Any incident involving organ loss, patient harm, or breach of UNOS protocols could be catastrophic for the company's reputation and certifications. The company is also labor-intensive: it must employ trained perfusionists, surgeons, and pilots, and these are specialized professionals in tight supply. Turnover or inability to hire and retain staff would directly harm the company's ability to fulfill contracts.
 
-Volume depends on organ donation rates, which are determined by [public policy](/pphc-stock/) and demographic trends. Newer preservation technologies like normothermic regional perfusion expand the window for organ viability and could increase transplant volumes, which would benefit Strata. Conversely, if organ donation rates fall, Strata's revenue falls too.
+Volume depends on organ donation rates, which are determined by public policy and demographic trends. Newer preservation technologies like normothermic regional perfusion expand the window for organ viability and could increase transplant volumes, which would benefit Strata. Conversely, if organ donation rates fall, Strata's revenue falls too.
 
 ## The path to profitability
 

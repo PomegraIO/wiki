@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-SS&C Technologies is a large software and services company serving the global financial industry, providing core operating systems and platforms that power trading desks, asset managers, wealth advisors, [custodians](/custodian/), and insurance firms. Founded in 1986 and headquartered in Stamford, Connecticut, the company has grown through organic development and [acquisitions](/acquisition/) into one of the most pervasive financial-software vendors: thousands of [financial institutions](/fisi-stock/) depend on SS&C's systems to process trades, manage client assets, calculate fees, and maintain regulatory compliance. The company's installed base is deep and sticky; switching away from a core SS&C platform is expensive and disruptive, making it a business with durable competitive moats and recurring revenue.
+SS&C Technologies is a large software and services company serving the global financial industry, providing core operating systems and platforms that power trading desks, asset managers, wealth advisors, [custodians](/custodian/), and insurance firms. Founded in 1986 and headquartered in Stamford, Connecticut, the company has grown through organic development and [acquisitions](/acquisition/) into one of the most pervasive financial-software vendors: thousands of financial institutions depend on SS&C's systems to process trades, manage client assets, calculate fees, and maintain regulatory compliance. The company's installed base is deep and sticky; switching away from a core SS&C platform is expensive and disruptive, making it a business with durable competitive moats and recurring revenue.
 
 | Dimension | Profile |
 |---|---|

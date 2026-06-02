@@ -35,9 +35,9 @@ The market opportunity is real but distributed. No single farmer or farm operati
 
 The company is very small. Annual revenue has fluctuated in the range of $300,000 to $600,000 in recent years. In 2024, the company reported $310,511 in revenue; in 2025, it reported $564,000. The trailing twelve-month revenue is approximately $286,000. These are micro-cap numbers, reflecting a company that is more venture-stage than an established operating business.
 
-With revenue in that range, Purebase does not have much room for error. Overhead must be minimal. The company likely has very few employees and operates with a lean structure. Profitability is marginal at best; the company is probably fighting year to year to cover basic operating costs and fund product development or mineral acquisition.
+With revenue in that range, Purebase does not have much room for error. Overhead must be minimal. The company likely has very few employees and operates with a lean structure. Profitability is marginal at best; the company is probably fighting year to year to cover basic operating costs and fund product development or mineral [acquisition](/acquisition/).
 
-The company has approximately 278 million shares outstanding (a typical marker of a company that has issued shares to raise capital multiple times) and a market capitalization of roughly $6 million, putting it squarely in the micro-cap range. This is a highly illiquid, speculative security.
+The company has approximately 278 million shares outstanding (a typical marker of a company that has issued shares to raise capital multiple times) and a [market capitalization](/market-capitalization/) of roughly $6 million, putting it squarely in the micro-cap range. This is a highly illiquid, speculative security.
 
 ## Market dynamics and sourcing
 

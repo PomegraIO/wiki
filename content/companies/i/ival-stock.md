@@ -26,7 +26,7 @@ handwritten: true
 
 ## The fund's mandate and holdings
 
-IVAL holds stocks from developed markets outside the United States and Canada — primarily Europe, Australia, and Japan — filtering for two characteristics: value (companies trading below their fundamental worth on conventional metrics) and quality (strong balance sheets, profitability, and operational efficiency). The fund uses a systematic quantitative model to rank candidates, rather than subjective judgment. At any given time it holds roughly 50 to 100 stocks, concentrating its capital where the algorithm identifies the strongest opportunity set.
+IVAL holds stocks from developed markets outside the United States and Canada — primarily Europe, Australia, and Japan — filtering for two characteristics: value (companies trading below their fundamental worth on conventional metrics) and quality (strong [balance sheets](/balance-sheet/), profitability, and operational efficiency). The fund uses a systematic quantitative model to rank candidates, rather than subjective judgment. At any given time it holds roughly 50 to 100 stocks, concentrating its capital where the algorithm identifies the strongest opportunity set.
 
 The holdings are rebalanced and reselected quarterly as the underlying data refreshes. Because the screening process is transparent and rules-based, the holdings change in predictable ways — no surprise overhauls that catch shareholders off guard, but also no flexibility to avoid a stock because a manager perceives trouble ahead.
 
@@ -34,19 +34,19 @@ The holdings are rebalanced and reselected quarterly as the underlying data refr
 
 The fund's core bet is that value — the tendency of undervalued stocks to outperform over time — is a durable return source. The academic evidence for value as a factor is long-standing; the intuition is straightforward: a company trading at a low price relative to its earnings or cash flow has more room to surprise on the upside, and the market's initial pessimism may be overdone. That said, value has been out of favour in several stretches of recent history, most notably during the years when mega-cap technology stocks dominated performance. Any investor deploying a value-focused strategy should expect periods where the fund underperforms broader indices.
 
-The international focus adds another layer. Developed markets outside North America — the European Union, the United Kingdom, Japan, Switzerland, Australia, and others — often have different valuations, sector compositions, and macroeconomic sensitivities than U.S. stocks. For a portfolio that is already heavily weighted toward American equities (as most U.S. investor portfolios are), IVAL offers diversification, but it also introduces currency exposure: the fund holds these stocks in their local currencies, so movements in exchange rates will affect returns for a dollar-denominated investor.
+The international focus adds another layer. Developed markets outside North America — the European Union, the United Kingdom, Japan, Switzerland, Australia, and others — often have different valuations, sector compositions, and macroeconomic sensitivities than U.S. stocks. For a portfolio that is already heavily weighted toward American equities (as most U.S. investor portfolios are), IVAL offers [diversification](/diversification/), but it also introduces currency exposure: the fund holds these stocks in their local currencies, so movements in exchange rates will affect returns for a dollar-denominated investor.
 
 ## Costs, structure, and trading
 
-Like most ETFs, IVAL trades continuously on an exchange throughout the trading day, so investors can buy or sell shares at market prices rather than waiting for end-of-day net-asset-value pricing. The expense ratio is kept moderate — Alpha Architect's strategy as a smaller fund manager is to keep costs competitive. The fund is a traditional open-end ETF structure, so there are no leverage mechanics, no synthetic holdings, and no tracking-error amplification to manage.
+Like most ETFs, IVAL trades continuously on an exchange throughout the trading day, so investors can buy or sell shares at market prices rather than waiting for end-of-day net-asset-value pricing. The [expense ratio](/expense-ratio/) is kept moderate — Alpha Architect's strategy as a smaller fund manager is to keep costs competitive. The fund is a traditional open-end ETF structure, so there are no leverage mechanics, no synthetic holdings, and no tracking-error amplification to manage.
 
-Liquidity is meaningful but not massive. IVAL trades fewer shares daily than a comparable Vanguard or BlackRock mega-cap fund, so investors placing large orders may move prices slightly. For retail investors trading in typical quantities, this is rarely a friction point; for large institutional transfers, it deserves a closer look.
+Liquidity is meaningful but not massive. IVAL trades fewer shares daily than a comparable Vanguard or [BlackRock](/blk-stock/) mega-cap fund, so investors placing large orders may move prices slightly. For retail investors trading in typical quantities, this is rarely a friction point; for large institutional transfers, it deserves a closer look.
 
 ## Who buys IVAL and why
 
-The typical buyer is an investor who believes value investing works as a long-term strategy and wants international diversification outside U.S. tech and growth. It suits those who already own domestic U.S. indices and want to tilt a sleeve of their portfolio toward international value. It is also useful for advisors constructing a globally diversified factor-tilted allocation.
+The typical buyer is an investor who believes [value investing](/value-investing/) works as a long-term strategy and wants international diversification outside U.S. tech and growth. It suits those who already own domestic U.S. indices and want to tilt a sleeve of their portfolio toward international value. It is also useful for advisors constructing a globally diversified factor-tilted allocation.
 
-The fund is not appropriate for investors seeking broad-market international exposure — there are simpler, cheaper index funds for that job. It is also not a hedge against U.S. market weakness in the traditional sense (a flight-to-safety allocation would look elsewhere).
+The fund is not appropriate for investors seeking broad-market international exposure — there are simpler, cheaper [index funds](/index-fund/) for that job. It is also not a hedge against U.S. market weakness in the traditional sense (a flight-to-safety allocation would look elsewhere).
 
 ## Risks specific to IVAL
 
@@ -56,6 +56,6 @@ The fund also carries small-cap and mid-cap risk. Quantitative value screens oft
 
 ## How to research IVAL
 
-Start with the fund's prospectus and fact sheet on the Alpha Architect website, which lay out the selection criteria, the historical performance, and the expense ratio. The fund's top 10 holdings and sector breakdown are updated regularly and offer a quick snapshot of what the quantitative model is finding attractive. Compare IVAL's performance against a simple benchmark such as the MSCI EAFE Index (a broad developed-market ex-North America index) or a competing international value fund to see whether the quantitative approach is delivering value-add or whether the cost and complexity justify the strategy relative to simpler alternatives.
+Start with the fund's prospectus and fact sheet on the Alpha Architect website, which lay out the selection criteria, the historical performance, and the expense ratio. The fund's top 10 holdings and sector breakdown are updated regularly and offer a quick snapshot of what the quantitative model is finding attractive. Compare IVAL's performance against a simple benchmark such as the MSCI EAFE Index (a broad developed-market ex-North America index) or a competing international [value fund](/value-fund/) to see whether the quantitative approach is delivering value-add or whether the cost and complexity justify the strategy relative to simpler alternatives.
 
 Monitor the performance of value as a factor within international stocks more broadly — IVAL will track fairly closely with how the value factor is treating developed international markets relative to growth.

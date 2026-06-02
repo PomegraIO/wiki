@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-Quetta Acquisition Corp units (QETAU) bundle together the ordinary shares, rights, and warrant components of a special-purpose acquisition company preparing to merge with Jiujiang Lida Technology Co. Ltd., a Chinese manufacturer of automotive protective films and advanced coatings. The unit structure is a common SPAC mechanism: investors in the IPO purchased bundled securities expecting to receive separate tradeable components—ordinary shares (QETA), rights (QETAR), and warrants (QETAW)—upon separation. Understanding the merged entity requires understanding both the SPAC mechanics and the operating business being acquired.
+Quetta [Acquisition](/acquisition/) Corp units (QETAU) bundle together the ordinary shares, rights, and warrant components of a [special-purpose acquisition company](/special-purpose-acquisition-company/) preparing to merge with Jiujiang Lida Technology Co. Ltd., a Chinese manufacturer of automotive protective films and advanced coatings. The unit structure is a common SPAC mechanism: investors in the IPO purchased bundled securities expecting to receive separate tradeable components—ordinary shares (QETA), rights (QETAR), and warrants (QETAW)—upon separation. Understanding the merged entity requires understanding both the SPAC mechanics and the operating business being acquired.
 
 ## The SPAC Structure and Unit Economics
 
-A SPAC unit bundled together ordinary shares, one right, and one warrant. The ordinary shares entitle the holder to voting power in the shell company and, following the merger, ownership in the combined entity. The right is a security that gives the holder priority to subscribe for additional shares at a fixed price—effectively a call option exercised if the combined company's shares trade above that subscription price. The warrant is a longer-dated option to purchase common stock at a preset strike price, usually exercisable years after merger closing.
+A SPAC unit bundled together ordinary shares, one right, and one warrant. The ordinary shares entitle the holder to voting power in the shell company and, following the [merger](/merger/), ownership in the combined entity. The right is a security that gives the holder priority to subscribe for additional shares at a fixed price—effectively a [call option](/call-option/) exercised if the combined company's shares trade above that subscription price. The warrant is a longer-dated option to purchase [common stock](/common-stock/) at a preset [strike price](/strike-price/), usually exercisable years after merger closing.
 
 In unit form, all three components trade as a single security (QETAU). Once separated, they trade individually. The warrant (QETAW initially; NAKAW after any name change) trades independently of the equity, allowing investors to take leveraged positions on the equity upside or hedge against it. The right (QETAR) is typically exercised or expires after a defined period. The ordinary share (QETA) becomes the direct ownership stake in the merged company.
 
@@ -35,7 +35,7 @@ A third office operates in Los Angeles, representing the company's entry into di
 
 ## Product Categories and Expansion Trajectory
 
-The company's primary revenue historically comes from automotive protective films (PPF)—the paint-protection product. The portfolio expands into window tints (for heat and privacy), car wraps (decorative vinyl coverings), and smart films (electrochromic coatings that adjust transparency). This diversification across multiple film categories reduces dependence on any single product and allows the company to cross-sell to customers.
+The company's primary revenue historically comes from automotive protective films (PPF)—the paint-protection product. The portfolio expands into window tints (for heat and privacy), car wraps (decorative vinyl coverings), and smart films (electrochromic coatings that adjust transparency). This [diversification](/diversification/) across multiple film categories reduces dependence on any single product and allows the company to cross-sell to customers.
 
 The stated growth ambition is toward advanced materials. The company has announced plans to increase nanomaterial production to 5,000 tons annually and high-end TPU automotive paint-protection film production to 10 million meters per year. Nanomaterials represent a shift from commodity extrusion toward specialty chemistry—higher-margin products requiring closer customer collaboration and more specialized manufacturing. This transition is geographically meaningful: specialty materials development and customer co-creation tend to gravitate toward design hubs like Los Angeles and away from commodity manufacturing centers like Jiangxi.
 
@@ -47,7 +47,7 @@ The product category itself faces long-term questions. Paint protection films ar
 
 ## Merger Timeline and Integration
 
-The business combination is pending closing, subject to regulatory approvals and customary conditions. The SPAC structure means the transaction is already agreed in principle; closing is the administrative step of satisfying conditions and obtaining shareholder/regulatory approval. Once closed, Lida's existing management will likely retain operational control while Quetta's shareholders hold equity ownership in the merged entity.
+The [business combination](/business-combination-purchase/) is pending closing, subject to regulatory approvals and customary conditions. The SPAC structure means the transaction is already agreed in principle; closing is the administrative step of satisfying conditions and obtaining shareholder/regulatory approval. Once closed, Lida's existing management will likely retain operational control while Quetta's shareholders hold equity ownership in the merged entity.
 
 The geographic spread—Jiangxi manufacturing, Guangzhou regional hub, Los Angeles growth office—will remain in place post-merger. Integration risks are primarily operational (maintaining manufacturing quality and cost discipline) and strategic (executing the transition toward advanced materials and OEM supplier relationships). The SPAC structure itself does not create operational integration challenges; those lie entirely in the business and its markets.
 

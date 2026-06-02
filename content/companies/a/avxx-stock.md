@@ -11,17 +11,17 @@ keywords:
 handwritten: true
 ---
 
-AVXX is a leveraged exchange-traded fund issued by Defiance (a New York-based ETF sponsor) that seeks to deliver twice the daily return of Teledyne Technologies (NASDAQ: TDY), an aerospace and industrial-technology company. It uses daily reset mechanics — meaning it rebalances its holdings each morning to target exactly 2x leverage for that trading day — which makes it useful only for traders who hold for hours or a single day, never for buy-and-hold investors.
+AVXX is a leveraged exchange-traded fund issued by Defiance (a New York-based ETF sponsor) that seeks to deliver twice the daily return of [Teledyne Technologies](/tdy-stock/) ([NASDAQ](/nasdaq/): TDY), an aerospace and industrial-technology company. It uses daily reset mechanics — meaning it rebalances its holdings each morning to target exactly 2x leverage for that trading day — which makes it useful only for traders who hold for hours or a single day, never for buy-and-hold investors.
 
 ## What AVXX tracks and how it works
 
 Teledyne Technologies is a diversified manufacturer and technology company with operations in aerospace and defence, marine electronics, digital imaging, and instrumentation. AVXX does not hold Teledyne shares directly. Instead, it uses derivatives — primarily equity index futures and swaps — to construct a position that amplifies the daily move of the underlying stock. If Teledyne rises 1% in a day, AVXX aims to rise 2%. If Teledyne falls 1%, AVXX aims to fall 2%.
 
-This is a single-stock leveraged ETF, meaning all its exposure is to one company. That concentration is stark and is one reason these products are marketed only to sophisticated traders with explicit risk tolerance.
+This is a single-stock [leveraged ETF](/leveraged-etf/), meaning all its exposure is to one company. That concentration is stark and is one reason these products are marketed only to sophisticated traders with explicit risk tolerance.
 
 ## Daily reset and the decay trap
 
-The daily reset mechanism is both the product's utility and its fatal flaw for longer-term holding. Each morning, Defiance rebalances the fund so that its leverage ratio resets to exactly 2x. This allows traders to reliably get 2x returns for that day only.
+The daily reset mechanism is both the product's utility and its fatal flaw for longer-term holding. Each morning, Defiance rebalances the fund so that its [leverage ratio](/leverage-ratio-forex/) resets to exactly 2x. This allows traders to reliably get 2x returns for that day only.
 
 But if you hold AVXX for weeks or months, the daily reset compounds against you. Suppose the underlying stock bounces between 99 and 101 three days in a row (no net change). A 2x-leveraged fund that resets daily will lose money through those ups and downs because volatility itself — independent of direction — erodes the value of leverage. A volatile sideways market is the worst possible environment for a 2x leveraged fund. This is called volatility decay or leverage decay, and it affects every leveraged ETF that resets daily.
 
@@ -29,20 +29,20 @@ For multi-day or multi-week holding, this decay becomes severe. AVXX is not desi
 
 ## Costs and how it trades
 
-AVXX trades on the NYSE Arca exchange under the ticker AVXX. Its expense ratio is relatively high for a standard ETF — typically in the range of 0.95% to 1.20% annually — reflecting the cost of maintaining daily derivatives positions and the fund's operational overhead. That annual cost, combined with volatility decay on longer horizons, makes it unsuitable for buy-and-hold investing.
+AVXX trades on the NYSE Arca exchange under the ticker AVXX. Its [expense ratio](/expense-ratio/) is relatively high for a standard ETF — typically in the range of 0.95% to 1.20% annually — reflecting the cost of maintaining daily derivatives positions and the fund's operational overhead. That annual cost, combined with volatility decay on longer horizons, makes it unsuitable for buy-and-hold investing.
 
-The fund's intraday liquidity is generally adequate for small to medium trades, though it is not one of the most heavily traded leveraged ETFs. Bid-ask spreads can vary; checking the current quote before trading is essential.
+The fund's [intraday liquidity](/intraday-liquidity/) is generally adequate for small to medium trades, though it is not one of the most heavily traded leveraged ETFs. [Bid-ask spreads](/bid-ask-spread/) can vary; checking the current quote before trading is essential.
 
 ## Real risks and who it is for
 
 The risks are straightforward but severe:
 
 - **Leverage decay**: Holding across multiple trading days in a volatile market will erode your capital faster than the underlying stock declines.
-- **Single-stock concentration**: All the risk is Teledyne. There is no diversification.
+- **Single-stock concentration**: All the risk is Teledyne. There is no [diversification](/diversification/).
 - **High volatility**: Leverage magnifies both daily ups and downs. A 5% down day in Teledyne becomes a 10% down day in AVXX.
 - **Borrowing costs embedded**: The fund must pay to borrow money and to maintain derivatives positions. These costs are baked into the returns.
 
-AVXX is intended exclusively for traders who are holding for intraday moves or at most one or two days, understand leverage mechanics in depth, and are comfortable with Teledyne's specific business and market risk. It is not for retirement accounts, beginner investors, or anyone with a long-term time horizon.
+AVXX is intended exclusively for traders who are holding for intraday moves or at most one or two days, understand leverage mechanics in depth, and are comfortable with Teledyne's specific business and [market risk](/market-risk/). It is not for retirement accounts, beginner investors, or anyone with a long-term time horizon.
 
 ## How to research it
 

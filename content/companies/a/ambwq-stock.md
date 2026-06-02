@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Ambipar Emergency Response is a Brazilian company specializing in emergency response to industrial accidents, chemical spills, environmental disasters, and other crises that threaten safety or the environment. The company deploys trained teams, equipment, and logistics to contain, neutralize, and remediate incidents across industries — petrochemicals, mining, manufacturing, transportation, and utilities. Its business model is straightforward: customers (industrial companies and governments) contract with Ambipar before emergencies occur, or call the company during crises and pay for mobilization and response.
+[Ambipar Emergency Response](/ambiq-stock/) is a Brazilian company specializing in emergency response to industrial accidents, chemical spills, environmental disasters, and other crises that threaten safety or the environment. The company deploys trained teams, equipment, and logistics to contain, neutralize, and remediate incidents across industries — petrochemicals, mining, manufacturing, transportation, and utilities. Its business model is straightforward: customers (industrial companies and governments) contract with Ambipar before emergencies occur, or call the company during crises and pay for mobilization and response.
 
 <aside class="wiki-infobox">
 <table>
@@ -43,7 +43,7 @@ Ambipar operates with a capital-intensive model. The company must maintain facil
 
 The company's cash generation depends on contract utilization and incident frequency. In years with many incidents, cash generation is strong. In quiet years, the company runs leaner and may cut costs or deploy capital to new markets. The business is more stable than pure incident-response would be, because the standing contracts provide a floor of recurring revenue.
 
-Ambipar likely returns a modest amount of cash to shareholders through dividends, but the bulk of cash is reinvested in expanding capacity, entering new markets, or maintaining the equipment and personnel base needed to respond quickly.
+Ambipar likely returns a modest amount of cash to shareholders through [dividends](/dividend/), but the bulk of cash is reinvested in expanding capacity, entering new markets, or maintaining the equipment and personnel base needed to respond quickly.
 
 ## What are the competitive pressures?
 
@@ -51,7 +51,7 @@ Ambipar competes against other emergency-response contractors, both regional pla
 
 Regulatory changes also create pressures. Stricter environmental rules may increase the number of incidents and raise demand for response services, a positive tailwind. But they may also impose new compliance costs on Ambipar itself, raising its operating expenses.
 
-The business is also geographically concentrated. Ambipar's primary market is Brazil and nearby Latin American countries. Economic slowdowns in that region reduce industrial activity and lower the frequency of incidents, dampening revenue and margins. Geographic diversification is a growth priority, but extending into new countries is slow and requires building relationships with local regulators, customers, and perhaps partners.
+The business is also geographically concentrated. Ambipar's [primary market](/primary-market/) is Brazil and nearby Latin American countries. Economic slowdowns in that region reduce industrial activity and lower the frequency of incidents, dampening revenue and margins. Geographic [diversification](/diversification/) is a growth priority, but extending into new countries is slow and requires building relationships with local regulators, customers, and perhaps partners.
 
 ## Is revenue predictable?
 
@@ -61,7 +61,7 @@ The balance between standing contracts and incident response is therefore critic
 
 ## Where does capital go?
 
-Ambipar invests in expanding its geographic footprint, upgrading equipment, and attracting specialized talent (trained hazmat responders are not abundant). The company may also invest in acquisitions of smaller regional response companies, a common consolidation strategy in fragmented service markets. That capital comes from operating cash flow and, if needed, debt or equity financing.
+Ambipar invests in expanding its geographic footprint, upgrading equipment, and attracting specialized talent (trained hazmat responders are not abundant). The company may also invest in [acquisitions](/acquisition/) of smaller regional response companies, a common consolidation strategy in fragmented service markets. That capital comes from operating cash flow and, if needed, debt or [equity financing](/equity-financing/).
 
 The company returns some cash to shareholders as dividends, but the dividend is likely modest because the business has growth opportunities and needs capital to compete.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Nuveen Virginia Quality Municipal Income Fund is a closed-end investment company focused on purchasing and holding [municipal bonds](/municipal-bond/) issued by the Commonwealth of Virginia and its localities and school districts. It functions as a passive income vehicle: the fund collects interest payments from its bond holdings and distributes a regular amount to shareholders, who in turn hold the fund's shares, which trade on a [stock exchange](/stock-exchange/) like any corporate equity. This structure — a closed-end fund — is fundamentally different from an operating company and creates its own distinctive economics around fees, leverage, and discounts to [net asset value](/net-asset-value/).
+The Nuveen Virginia Quality Municipal [Income Fund](/income-fund/) is a closed-end investment company focused on purchasing and holding [municipal bonds](/municipal-bond/) issued by the Commonwealth of Virginia and its localities and school districts. It functions as a passive income vehicle: the fund collects interest payments from its [bond](/bond/) holdings and distributes a regular amount to shareholders, who in turn hold the fund's shares, which trade on a [stock exchange](/stock-exchange/) like any corporate equity. This structure — a closed-end fund — is fundamentally different from an operating company and creates its own distinctive economics around fees, leverage, and discounts to [net asset value](/net-asset-value/).
 
 ## What does the fund actually own, and where does its income come from?
 
@@ -33,7 +33,7 @@ However, leverage also amplifies risk. If the portfolio's value declines — bec
 
 ## The discount (or premium) puzzle
 
-[Closed-end funds](/closed-end-fund/) often trade at a discount to their net asset value — meaning the market price of the fund's shares is lower than the per-share value of the fund's underlying assets. If the fund's bonds are worth $100 million and 10 million shares are outstanding, the net asset value per share is $10, but the shares might trade for $9 or less. This happens for various reasons: closed-end funds lack the redemption feature of open-end mutual funds, fees chip away at value over time, and market sentiment about the fund itself (separate from its holdings) can drive the discount wider or narrower.
+[Closed-end funds](/closed-end-fund/) often trade at a discount to their net asset value — meaning the market price of the fund's shares is lower than the per-share value of the fund's underlying assets. If the fund's bonds are worth $100 million and 10 million shares are outstanding, the net asset value per share is $10, but the shares might trade for $9 or less. This happens for various reasons: closed-end funds lack the redemption feature of open-end [mutual funds](/mutual-fund/), fees chip away at value over time, and market sentiment about the fund itself (separate from its holdings) can drive the discount wider or narrower.
 
 From an investor's perspective, a discount can be attractive: you are buying a dollar of municipal bonds for 90 cents, in effect. But discounts often exist for a reason — the fund might be illiquid, have stale holdings, or carry high leverage that worries the market. Widening discounts also create mark-to-market losses that are separate from the underlying bonds' value. Understanding whether NPV trades at a premium or discount and why is central to evaluating whether the fund is a good vehicle for municipal bond exposure.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Vertical Aerospace is an aerospace company designing zero-emission electric vertical take-off and landing aircraft for commercial use, combining advanced engineering with a capital-efficient manufacturing model and a growing order book from established airlines.*
+*[Vertical Aerospace](/evtl-stock/) is an aerospace company designing zero-emission electric vertical take-off and landing aircraft for commercial use, combining advanced engineering with a capital-efficient manufacturing model and a growing order book from established airlines.*
 
 <aside class="wiki-infobox">
 <table>
@@ -36,7 +36,7 @@ The appeal to airlines and operators is clear: a four-passenger air taxi can ope
 
 Vertical's manufacturing strategy is deliberately outsourced. The company designs aircraft but has contracted production to partner firms, capturing the margins of engineering while avoiding the capital intensity of owning and operating factories. This model has a proven track record in aerospace—most aircraft manufacturers rely on supplier networks for fuselage, avionics, and assembly.
 
-What makes Vertical's version distinctive is the cost baseline. The company has achieved roughly 75 percent lower per-unit development spending than competing eVTOL firms. This translates to a significant advantage in a market where the path to profitability depends on volume and margin recovery. In cyclical downturns, when demand softens, an asset-light firm can reduce labour and overhead faster than a vertically integrated competitor burdened with factory depreciation. In upswings, it can scale production by activating supplier capacity rather than waiting for new plant construction.
+What makes Vertical's version distinctive is the cost baseline. The company has achieved roughly 75 percent lower per-unit development spending than competing eVTOL firms. This translates to a significant advantage in a market where the path to profitability depends on volume and margin recovery. In cyclical downturns, when demand softens, an asset-light firm can reduce labour and overhead faster than a vertically integrated competitor burdened with factory [depreciation](/depreciation/). In upswings, it can scale production by activating supplier capacity rather than waiting for new plant construction.
 
 ## Revenue and Profitability Targets
 
@@ -52,17 +52,17 @@ The company also faces technology risks specific to batteries: energy density, c
 
 ## The Competitive Landscape and First-Mover Advantage
 
-Vertical is not alone in the eVTOL space. Joby Aviation, Lilium, Archer Aviation, and others are pursuing similar aircraft designs and customer bases. The differences lie in execution speed, capital efficiency, and customer commitment. Vertical's claim to 75 percent lower development cost per aircraft is a potential moat, but only if manufacturing scale proves it sustainable. Early in a category, first-mover advantage can be meaningful; the customer with the first proven, certified eVTOL has a head start in fleet integration and regulatory relationships. Vertical's major airline customers—American, Japan Airlines, AirAsia—carry weight; they are sophisticated enough not to lock themselves into a vendor without confidence in execution.
+Vertical is not alone in the eVTOL space. [Joby Aviation](/joby-stock/), Lilium, [Archer Aviation](/achr-stock/), and others are pursuing similar aircraft designs and customer bases. The differences lie in execution speed, capital efficiency, and customer commitment. Vertical's claim to 75 percent lower development cost per aircraft is a potential moat, but only if manufacturing scale proves it sustainable. Early in a category, first-mover advantage can be meaningful; the customer with the first proven, certified eVTOL has a head start in fleet integration and regulatory relationships. Vertical's major airline customers—American, Japan Airlines, AirAsia—carry weight; they are sophisticated enough not to lock themselves into a vendor without confidence in execution.
 
-However, competitive pressure will emerge. Established aircraft manufacturers—Airbus, Boeing—could enter eVTOL with their own designs, leveraging supply-chain relationships and manufacturing scale that Vertical lacks. For Vertical to maintain its market position, execution on certification and production ramp becomes critical sooner, not later.
+However, competitive pressure will emerge. Established aircraft manufacturers—Airbus, [Boeing](/ba-stock/)—could enter eVTOL with their own designs, leveraging supply-chain relationships and manufacturing scale that Vertical lacks. For Vertical to maintain its market position, execution on certification and production ramp becomes critical sooner, not later.
 
 ## Cyclical Dynamics in Aviation Markets
 
-Aviation is inherently cyclical. In economic expansions, airlines are optimistic, capital is available, and they deploy new aircraft into expanding networks. In recessions, airlines cut routes, defer maintenance, and postpone aircraft orders. Vertical's order book insulates it somewhat—customers have committed to orders—but deferrals are possible if airline financial health deteriorates sharply.
+Aviation is inherently cyclical. In economic expansions, airlines are optimistic, capital is available, and they deploy new aircraft into expanding networks. In [recessions](/recession/), airlines cut routes, defer maintenance, and postpone aircraft orders. Vertical's order book insulates it somewhat—customers have committed to orders—but deferrals are possible if airline financial health deteriorates sharply.
 
 The broader interest-rate environment also matters. A rising-rate environment increases the cost of capital for both Vertical and its airline customers, pushing profitability targets further out. A prolonged downturn in air travel (recession, pandemic, fuel crisis) reduces the urgency for new aircraft and allows competitors more time to catch up.
 
-Vertical's asset-light model helps here: the company can scale back overhead and manufacturing commitments if demand softens, avoiding the margin compression that a factory-heavy competitor would face. But cash burn still accumulates; a multi-year delay in aircraft certification or customer deferrals combined with rising interest rates could force capital raises at dilutive terms.
+Vertical's asset-light model helps here: the company can scale back overhead and manufacturing commitments if demand softens, avoiding the margin compression that a factory-heavy competitor would face. But cash burn still accumulates; a multi-year delay in aircraft certification or customer deferrals combined with rising [interest rates](/interest-rate/) could force capital raises at dilutive terms.
 
 ## What to Monitor
 

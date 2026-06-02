@@ -11,19 +11,19 @@ keywords:
 handwritten: true
 ---
 
-The Baron SMID Cap ETF is an open-ended investment company that seeks capital appreciation by investing in a carefully selected portfolio of small- and mid-capitalization U.S. companies. The fund trades on the stock exchange under the ticker BCSM and is managed by Baron Capital, an investment firm known for active stock-picking approaches across market capitalizations.
+The Baron SMID Cap ETF is an open-ended investment company that seeks capital appreciation by investing in a carefully selected portfolio of small- and mid-capitalization U.S. companies. The fund trades on the [stock exchange](/stock-exchange/) under the ticker BCSM and is managed by Baron Capital, an investment firm known for active stock-picking approaches across [market capitalizations](/market-capitalization/).
 
 ## What the fund tracks and holds
 
-The SMID cap segment — companies with market capitalizations typically between roughly one billion and ten billion dollars — occupies a middle ground between large-cap stability and small-cap dynamism. The fund's portfolio construction reflects active management rather than passive index replication. Baron's team selects individual companies based on fundamental analysis, seeking businesses with strong balance sheets, competitive advantages, and growth potential that the market may have overlooked or mispriced.
+The SMID cap segment — companies with market capitalizations typically between roughly one billion and ten billion dollars — occupies a middle ground between large-cap stability and small-cap dynamism. The fund's portfolio construction reflects active management rather than passive index replication. Baron's team selects individual companies based on fundamental analysis, seeking businesses with strong [balance sheets](/balance-sheet/), competitive advantages, and growth potential that the market may have overlooked or mispriced.
 
-Holdings across the portfolio span diverse sectors — technology, healthcare, industrials, consumer goods, financial services, and others — with sector weightings varying based on where the managers identify the best risk-adjusted opportunities. The fund maintains reasonable diversification across its holdings to manage concentration risk, though the active approach means some names will be overweighted or underweighted relative to broader market indices.
+Holdings across the portfolio span diverse sectors — technology, healthcare, industrials, consumer goods, financial services, and others — with sector weightings varying based on where the managers identify the best risk-adjusted opportunities. The fund maintains reasonable [diversification](/diversification/) across its holdings to manage [concentration risk](/concentration-risk/), though the active approach means some names will be overweighted or underweighted relative to broader market indices.
 
 ## Size and structure
 
-As an exchange-traded fund, BCSM trades throughout the day on a stock exchange at prices determined by supply and demand, though the underlying net asset value tracks closely to its portfolio. The fund is open-ended, meaning it can issue new shares to meet investor demand and redeem existing shares. Unlike closed-end funds, there is no fixed share count, and transaction costs are typically lower because shares can be created and redeemed in kind through authorized participants.
+As an exchange-traded fund, BCSM trades throughout the day on a stock exchange at prices determined by supply and demand, though the underlying [net asset value](/net-asset-value/) tracks closely to its portfolio. The fund is open-ended, meaning it can issue new shares to meet investor demand and redeem existing shares. Unlike [closed-end funds](/closed-end-fund/), there is no fixed share count, and transaction costs are typically lower because shares can be created and redeemed in kind through [authorized participants](/authorized-participant/).
 
-The fund carries an expense ratio that covers the costs of active management, research, trading, and administration. Active funds charge more than passive index trackers because professional managers and research teams incur real costs; Baron's expense ratio reflects the active-management model and positions the fund in the mid-range compared to other actively managed equity ETFs.
+The fund carries an [expense ratio](/expense-ratio/) that covers the costs of active management, research, trading, and administration. Active funds charge more than passive index trackers because professional managers and research teams incur real costs; Baron's expense ratio reflects the active-management model and positions the fund in the mid-range compared to other actively managed [equity ETFs](/equity-etf/).
 
 ## Why investors are drawn to this space
 

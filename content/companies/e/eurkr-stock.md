@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Eureka Acquisition Corp is a special purpose acquisition company (SPAC), incorporated as a Cayman Islands exempted company in 2024 with the explicit purpose of using pooled investor capital to identify, negotiate, and complete a business combination with an existing operating company. SPACs are shell vehicles that raise capital from public investors and use those funds to search for a target business to merge with or acquire, effectively serving as an acquisition vehicle for founders or entrepreneurs who may lack the scale or public markets access to take their companies public directly. Eureka completed its initial public offering on July 3, 2024, raising USD 50 million in gross proceeds and listing its securities on the Nasdaq.
+Eureka [Acquisition](/acquisition/) Corp is a special purpose acquisition company (SPAC), incorporated as a Cayman Islands exempted company in 2024 with the explicit purpose of using pooled investor capital to identify, negotiate, and complete a [business combination](/business-combination-purchase/) with an existing operating company. SPACs are shell vehicles that raise capital from public investors and use those funds to search for a target business to merge with or acquire, effectively serving as an acquisition vehicle for founders or entrepreneurs who may lack the scale or public markets access to take their companies public directly. Eureka completed its [initial public offering](/initial-public-offering/) on July 3, 2024, raising USD 50 million in gross proceeds and listing its securities on the [Nasdaq](/nasdaq/).
 
 | What it is | A blank-check company formed to complete a business combination or merger |
 |---|---|
@@ -32,7 +32,7 @@ When units are publicly held, they trade together as a single security. On Septe
 
 ## The capital in trust and the incentive structure
 
-The USD 50 million raised in the IPO is placed in a trust account and held in U.S.-registered brokers' escrow. These funds are restricted and cannot be deployed by Eureka management except for two purposes: (1) to fund the search for and evaluation of potential business combinations, and (2) to complete the business combination once negotiated. Management can draw on the trust to pay deal advisors, legal counsel, financial advisors, and other costs associated with investigating and executing the acquisition.
+The USD 50 million raised in the IPO is placed in a trust account and held in U.S.-registered [brokers](/broker/)' escrow. These funds are restricted and cannot be deployed by Eureka management except for two purposes: (1) to fund the search for and evaluation of potential business combinations, and (2) to complete the business combination once negotiated. Management can draw on the trust to pay deal advisors, legal counsel, financial advisors, and other costs associated with investigating and executing the acquisition.
 
 The trust structure is central to the SPAC model. Public shareholders have a redemption right: if they disagree with the proposed business combination, they can redeem their shares for their pro-rata portion of the trust account (or approximately USD 10.00 per share, depending on how much has been spent from the trust for administrative costs). This redemption right is meant to protect IPO investors from having their capital tied to a bad deal; in theory, only shareholders who believe in the target company will remain invested post-combination.
 
@@ -42,7 +42,7 @@ SPACs became a prominent capital-raising vehicle in the late 2010s and early 202
 
 The structure also appeals to founders of mature or established private companies that lack the scale or growth profile to command a traditional IPO valuation. A SPAC combination offers an exit and public markets access for these founders.
 
-However, the SPAC model has come under intense criticism. From 2020 to 2022, SPAC issuance exploded, and a large proportion of completed SPAC mergers have underperformed—many post-combination companies have been delisted or seen shares decline substantially. Regulatory scrutiny has tightened around SPAC disclosures and merger accounting, and the appetite for blank-check vehicles has cooled considerably since the peak of the SPAC craze.
+However, the SPAC model has come under intense criticism. From 2020 to 2022, SPAC issuance exploded, and a large proportion of completed SPAC [mergers](/merger/) have underperformed—many post-combination companies have been delisted or seen shares decline substantially. Regulatory scrutiny has tightened around SPAC disclosures and merger accounting, and the appetite for blank-check vehicles has cooled considerably since the peak of the SPAC craze.
 
 ## Timeline and status as of 2026
 
@@ -52,7 +52,7 @@ Without public announcements of a definitive agreement with a target company, th
 
 ## Risks and incentive misalignment
 
-The SPAC structure contains a subtle incentive problem: Eureka's sponsors (the founders who created the company) typically retain founder shares that are only valuable if a business combination completes. This creates an incentive to complete a deal—any deal—to unlock the value of founder shares, even if the target company is mediocre or overpriced. Public shareholders may vote to approve a business combination they believe is unfavorable, but if a large majority votes in favor, the combination proceeds.
+The SPAC structure contains a subtle incentive problem: Eureka's sponsors (the founders who created the company) typically retain [founder shares](/founder-shares/) that are only valuable if a business combination completes. This creates an incentive to complete a deal—any deal—to unlock the value of founder shares, even if the target company is mediocre or overpriced. Public shareholders may vote to approve a business combination they believe is unfavorable, but if a large majority votes in favor, the combination proceeds.
 
 Additionally, the redemption right creates a dynamic where a bad combination can be executed without the redemption vote serving as a true braking mechanism. Some institutional and retail investors may not understand the redemption process or may fail to redeem even when they disagree with a deal.
 

@@ -26,7 +26,7 @@ By the mid-2010s, Pandora's store count had ballooned into the thousands, operat
 
 ## Market dominance and the pressure to grow
 
-Pandora's charm bracelet concept was distinctive enough and the execution strong enough that the company achieved genuine market leadership in affordable personalized jewelry. Revenue grew steadily, driven both by same-store sales increases and by new store openings. The company went public in Denmark in 2010 and later listed on the New York Stock Exchange, broadening its investor base and giving it currency to fund acquisitions and expansion.
+Pandora's charm bracelet concept was distinctive enough and the execution strong enough that the company achieved genuine market leadership in affordable personalized jewelry. Revenue grew steadily, driven both by same-store sales increases and by new store openings. The company went public in Denmark in 2010 and later listed on the [New York Stock Exchange](/new-york-stock-exchange/), broadening its investor base and giving it currency to fund [acquisitions](/acquisition/) and expansion.
 
 The business model, however, began to face pressure in the late 2010s. The rapid proliferation of Pandora stores meant that the marginal new location faced cannibalization from nearby existing stores. The company had saturated many retail corridors, and incremental stores were drawing sales from neighbors rather than capturing entirely new demand. At the same time, consumer jewelry spending became more discretionary and sensitive to economic cycles, and fashion-forward younger customers began looking beyond charm bracelets toward other jewelry concepts and direct-to-consumer online brands.
 
@@ -44,6 +44,6 @@ From below, mass-market competitors and direct-to-consumer brands have learned t
 
 ## How to research Pandora
 
-Investors studying Pandora should begin with the annual report (SEC CIK 0001505880), which breaks down revenue by geography, channel (stores versus online), and product category. Pay attention to comparable-store sales growth or decline, the trajectory of store closures and openings, and the mix of company-operated versus franchised locations.
+Investors studying Pandora should begin with the [annual report](/10-k/) (SEC CIK 0001505880), which breaks down revenue by geography, channel (stores versus online), and product category. Pay attention to comparable-store sales growth or decline, the trajectory of store closures and openings, and the mix of company-operated versus franchised locations.
 
 Watch the gross margin trend carefully — if Pandora is forced to discount to drive traffic, margin compresses, and profitability suffers. Monitor online penetration and whether e-commerce is growing fast enough to offset the slower growth from a smaller store base. The quarterly calls reveal management's outlook on consumer demand, the competitive landscape, and progress on product innovation beyond charms. The health of the brand among younger consumers and the company's ability to keep its product assortment feeling fresh and relevant are the real drivers of long-term value.

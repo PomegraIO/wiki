@@ -25,7 +25,7 @@ handwritten: true
 </table>
 </aside>
 
-NorthEast Community Bancorp is a holding company for a network of community banks operating primarily across Maryland and the broader Mid-Atlantic region. Its business is fundamentally straightforward: gather deposits from households and small businesses, lend that capital to borrowers at higher rates, and retain the difference as net interest income. Unlike larger national banks with dozens of business lines (investment banking, capital markets, [global payments](/gpn-stock/)), community banks like those under NECB's umbrella focus narrowly on local lending and deposit gathering. That simplicity is both a strength and a vulnerability.
+NorthEast Community Bancorp is a holding company for a network of community banks operating primarily across Maryland and the broader Mid-Atlantic region. Its business is fundamentally straightforward: gather deposits from households and small businesses, lend that capital to borrowers at higher rates, and retain the difference as net interest income. Unlike larger national banks with dozens of business lines (investment banking, capital markets, global payments), community banks like those under NECB's umbrella focus narrowly on local lending and deposit gathering. That simplicity is both a strength and a vulnerability.
 
 ## The community bank model and its context
 

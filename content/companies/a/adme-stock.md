@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Aptus Drawdown Managed Equity ETF (ticker ADME) is a U.S. stock fund with a specific job: hold large-cap companies but manage the portfolio to reduce the severity of losses when the stock market falls. It does not guarantee protection — nothing does — but it uses a systematic approach to trim risk when conditions look dangerous, aiming to reduce the depth of declines and let investors recover faster when markets bounce back.*
+*Aptus Drawdown Managed [Equity ETF](/equity-etf/) (ticker ADME) is a U.S. stock fund with a specific job: hold large-cap companies but manage the portfolio to reduce the severity of losses when the [stock market](/stock-market/) falls. It does not guarantee protection — nothing does — but it uses a systematic approach to trim risk when conditions look dangerous, aiming to reduce the depth of declines and let investors recover faster when markets bounce back.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,19 +27,19 @@ handwritten: true
 
 ## What drawdown actually means
 
-When the stock market drops 20%, that is called a drawdown — the decline from the recent peak to the trough. A 50% drawdown means you have lost half your money from the high. ADME is designed to make those drawdowns smaller. The fund does this not by picking the "right" stocks but by shifting the portfolio away from stocks and into safer places (cash or bonds) when certain risk metrics suggest trouble is coming. When calm returns, the fund moves money back into stocks.
+When the stock market drops 20%, that is called a drawdown — the decline from the recent peak to the trough. A 50% drawdown means you have lost half your money from the high. ADME is designed to make those drawdowns smaller. The fund does this not by picking the "right" stocks but by shifting the portfolio away from stocks and into safer places (cash or [bonds](/bond/)) when certain risk metrics suggest trouble is coming. When calm returns, the fund moves money back into stocks.
 
 The trade-off is simple: if the fund is out of stocks when stocks rally, it misses some of the gain. If it is in stocks when they fall, it still loses. The goal is not to time perfectly — no fund can do that — but to avoid being fully exposed to the biggest drawdowns and to stay invested enough to not miss the recoveries.
 
 ## How it actually works
 
-ADME uses rules, not hunches. The fund might monitor indicators like implied volatility, bond yields, earnings trends, or market breadth to gauge overall risk. When these indicators suggest the market is getting dangerous, the fund reduces its stock exposure — maybe dropping from 100% stocks to 60% stocks and 40% cash or short-duration bonds. When the indicators green-light, it climbs back to full equity exposure. This is a mechanical process; emotions do not drive the trades.
+ADME uses rules, not hunches. The fund might monitor indicators like [implied volatility](/implied-volatility/), bond yields, earnings trends, or [market breadth](/market-breadth-advances-declines/) to gauge overall risk. When these indicators suggest the market is getting dangerous, the fund reduces its stock exposure — maybe dropping from 100% stocks to 60% stocks and 40% cash or short-duration bonds. When the indicators green-light, it climbs back to full equity exposure. This is a mechanical process; emotions do not drive the trades.
 
 The timing signals will never be perfect. Sometimes the fund will cut stock exposure right before a rally and leave money on the table in bonds. Other times it will stay too exposed and catch part of a drawdown before the signals trigger. What matters is whether, over a full market cycle, the strategy reduces losses by more than the upside it sacrifices.
 
 ## Real expectations
 
-You will not outrun a pure stock index in a bull market. If the S&P 500 returns 15% and ADME returns 10%, that is a win only if the downside is genuinely better. In a year when stocks fall 30%, ADME might fall 18%. The math works if you need that protection. It does not work if you can tolerate 30% drawdowns and do not mind riding out every decline.
+You will not outrun a pure stock index in a [bull market](/bull-market/). If the S&P 500 returns 15% and ADME returns 10%, that is a win only if the downside is genuinely better. In a year when stocks fall 30%, ADME might fall 18%. The math works if you need that protection. It does not work if you can tolerate 30% drawdowns and do not mind riding out every decline.
 
 ADME also charges a fee for active management and the trading required to shift between stocks and bonds. That cost comes out of your returns every year, whether the drawdown protection is useful or not. In low-volatility years, the fee is a drag; in crash years, you will be glad you paid it.
 

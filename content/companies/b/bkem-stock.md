@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The BNY Mellon Emerging Markets Equity ETF (BKEM) is an exchange-traded fund that holds a diversified portfolio of stocks from developing economies across Asia, Latin America, Eastern Europe, and Africa. Issued by Bank of New York Mellon, it provides retail and institutional investors with cost-effective exposure to the emerging-markets asset class, tracking a broad index of large and mid-cap stocks in countries that are growing faster than developed nations but carry higher risk and volatility.*
+*The BNY Mellon Emerging Markets [Equity ETF](/equity-etf/) (BKEM) is an exchange-traded fund that holds a diversified portfolio of stocks from developing economies across Asia, Latin America, Eastern Europe, and Africa. Issued by [Bank of New York Mellon](/bk-stock/), it provides retail and institutional investors with cost-effective exposure to the emerging-markets asset class, tracking a broad index of large and mid-cap stocks in countries that are growing faster than developed nations but carry higher risk and volatility.*
 
 <aside class="wiki-infobox">
 <table>
@@ -33,15 +33,15 @@ BKEM tracks a broad emerging-markets index—typically the MSCI Emerging Markets
 
 ## Structure and how it trades
 
-BKEM is a passively managed, physically replicating ETF—it owns the actual stocks in its benchmark index rather than holding derivatives or a representative sample. It trades on the NYSE Arca exchange throughout the day, and investors buy and sell shares at market-determined prices. The expense ratio is modest, reflecting the low cost of tracking a broad index. The fund rebalances quarterly to match its index, and dividend income from its holdings is reinvested or distributed depending on the fund's policy.
+BKEM is a passively managed, physically replicating ETF—it owns the actual stocks in its benchmark index rather than holding derivatives or a representative sample. It trades on the NYSE Arca exchange throughout the day, and investors buy and sell shares at market-determined prices. The [expense ratio](/expense-ratio/) is modest, reflecting the low cost of tracking a broad index. The fund rebalances quarterly to match its index, and [dividend](/dividend/) income from its holdings is reinvested or distributed depending on the fund's policy.
 
 ## Currency and emerging-markets risks
 
-Because BKEM holds stocks denominated in dozens of different currencies—yuan, rupees, reais, pesos, won—investors face currency risk. If the U.S. dollar strengthens, the dollar value of those foreign holdings falls, and vice versa. This currency volatility can work in the investor's favor or against it, and it adds a layer of risk beyond the equity risk of the underlying stocks themselves. Emerging-market economies are also subject to higher political and regulatory risk than developed nations—coups, sudden capital controls, currency crises, or changes in government can roil markets, and it can be harder for foreign investors to exit positions quickly in a panic.
+Because BKEM holds stocks denominated in dozens of different currencies—yuan, rupees, reais, pesos, won—investors face [currency risk](/currency-risk/). If the [U.S. dollar](/us-dollar/) strengthens, the dollar value of those foreign holdings falls, and vice versa. This [currency volatility](/currency-volatility/) can work in the investor's favor or against it, and it adds a layer of risk beyond the equity risk of the underlying stocks themselves. Emerging-market economies are also subject to higher political and regulatory risk than developed nations—coups, sudden capital controls, currency crises, or changes in government can roil markets, and it can be harder for foreign investors to exit positions quickly in a panic.
 
 ## Who holds BKEM and why
 
-BKEM attracts investors seeking geographic diversification away from U.S. and developed-market stocks. It is often held as 10 to 20 percent of an equity portfolio, with the bulk in developed markets. Investors may use it to gain exposure to faster economic growth and different sector exposures than the home country offers. Advisors often recommend it as part of a global equity allocation strategy, though emerging-markets underperformance during crisis periods tests investor discipline.
+BKEM attracts investors seeking geographic [diversification](/diversification/) away from U.S. and developed-market stocks. It is often held as 10 to 20 percent of an equity portfolio, with the bulk in developed markets. Investors may use it to gain exposure to faster economic growth and different sector exposures than the home country offers. Advisors often recommend it as part of a global equity allocation strategy, though emerging-markets underperformance during crisis periods tests investor discipline.
 
 ## How to research BKEM
 

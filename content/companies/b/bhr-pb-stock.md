@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Braemar Hotels & Resorts is a real estate investment trust focused on a single, narrow market: luxury hotels and high-end resorts. While most hotel REITs own hundreds of properties across budget, mid-scale, and upscale segments, Braemar has chosen to concentrate its capital on a smaller number of premium-positioned properties. The company does not operate the hotels itself—it hires hotel managers to do that—but owns the real estate and captures the operating income and cash flow that the properties generate.
+[Braemar Hotels & Resorts](/bhr-stock/) is a [real estate investment trust](/real-estate-investment-trust/) focused on a single, narrow market: luxury hotels and high-end resorts. While most [hotel REITs](/hotel-reit/) own hundreds of properties across budget, mid-scale, and upscale segments, Braemar has chosen to concentrate its capital on a smaller number of premium-positioned properties. The company does not operate the hotels itself—it hires hotel managers to do that—but owns the real estate and captures the operating income and cash flow that the properties generate.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,17 +41,17 @@ Third, luxury properties attract long-term brand-name management partners who ar
 
 ## The owner-operator model
 
-Braemar owns the real estate but does not operate the hotels. Instead, it contracts with a hotel operating company—typically a major branded chain like Four Seasons, The Ritz-Carlton, or others, sometimes independent luxury operators—to manage the property. The operator is responsible for staffing, marketing, capital maintenance, and day-to-day operations. Braemar and the operator share the revenue: Braemar keeps the net operating income (revenue minus operating costs and management fees) and pays property taxes, insurance, and capital expenditures.
+Braemar owns the real estate but does not operate the hotels. Instead, it contracts with a hotel operating company—typically a major branded chain like Four Seasons, The Ritz-Carlton, or others, sometimes independent luxury operators—to manage the property. The operator is responsible for staffing, marketing, capital maintenance, and day-to-day operations. Braemar and the operator share the revenue: Braemar keeps the [net operating income](/net-operating-income/) (revenue minus operating costs and [management fees](/management-fee/)) and pays property taxes, insurance, and capital expenditures.
 
 This structure has advantages and risks. The advantage is that Braemar benefits from the operator's expertise, brand, and distribution network without having to employ thousands of hotel staff. The risk is that Braemar's success depends entirely on the quality of the operator's management and the brand's reputation. If a Four Seasons property has a bad year due to poor management or a shift in travel demand, Braemar is stuck with that outcome until the contract is renegotiated or the operator is replaced.
 
 ## The revenue model and cash flow sensitivity
 
-Braemar's income is the net operating income that each property generates. In a strong year, when tourism is healthy, corporate travel is robust, and the operator keeps costs in line, cash flow is strong. In a weak year—or especially during a travel shock like the 2020 pandemic—cash flow can collapse. Hotels have high fixed costs (salaries, utilities, property tax, insurance); when occupancy falls sharply, revenue plummets much faster than costs decline.
+Braemar's income is the net operating income that each property generates. In a strong year, when tourism is healthy, corporate travel is robust, and the operator keeps costs in line, cash flow is strong. In a weak year—or especially during a travel shock like the 2020 pandemic—cash flow can collapse. Hotels have high fixed costs (salaries, utilities, [property tax](/property-tax/), insurance); when occupancy falls sharply, revenue plummets much faster than costs decline.
 
-This volatility is why Braemar is exposed to economic cycles and consumer discretionary spending. A recession that reduces corporate travel and curtails leisure getaways hits luxury hotels hard, often faster than the broader economy. Conversely, strong economic growth and confidence drive pent-up travel demand that fills luxury properties at premium rates.
+This volatility is why Braemar is exposed to economic cycles and consumer [discretionary spending](/discretionary-spending/). A [recession](/recession/) that reduces corporate travel and curtails leisure getaways hits luxury hotels hard, often faster than the broader economy. Conversely, strong economic growth and confidence drive pent-up travel demand that fills luxury properties at premium rates.
 
-Like all REITs, Braemar must distribute at least 90 percent of its taxable income to shareholders. This means dividends and distributions rise during boom years and must be cut during downturns. For investors, this creates an income stream that is lumpy and sensitive to the hotel industry cycle.
+Like all REITs, Braemar must distribute at least 90 percent of its taxable income to shareholders. This means [dividends](/dividend/) and distributions rise during boom years and must be cut during downturns. For investors, this creates an income stream that is lumpy and sensitive to the hotel industry cycle.
 
 ## Capital expenditure and the property replacement cycle
 
@@ -69,6 +69,6 @@ The broader luxury hospitality market is global and capital-intensive. Large hos
 
 Start with Braemar's annual 10-K filing (SEC CIK 0001574085), which breaks down revenue, operating income, and capital expenditure by property. It will also detail the operating agreements with management partners and any significant maintenance or renovation work planned. The quarterly earnings reports and conference calls provide updates on occupancy, average daily rate, and RevPAR trends—the core metrics that drive hotel profitability.
 
-Key data points to watch: year-over-year RevPAR growth or decline (a proxy for pricing power and demand), operating margins by property (which reveal management efficiency), the capital expenditure forecast (does the company have a big renovation cycle coming?), and management's commentary on travel trends and forward bookings. Industry data from Smith Travel Research provides context on overall hotel market performance and how Braemar's properties are performing relative to comparable luxury properties in each market.
+Key data points to watch: year-over-year RevPAR growth or decline (a proxy for pricing power and demand), [operating margins](/operating-margin/) by property (which reveal management efficiency), the capital expenditure forecast (does the company have a big renovation cycle coming?), and management's commentary on travel trends and forward bookings. Industry data from Smith Travel Research provides context on overall hotel market performance and how Braemar's properties are performing relative to comparable luxury properties in each market.
 
 Regional tourism statistics, air travel trends, and corporate travel spending also provide forward-looking signals on demand. A sharp drop in corporate travel or a recession typically precedes weakness in hotel results.

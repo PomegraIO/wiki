@@ -49,7 +49,7 @@ The broader immunotherapy space is already crowded. Checkpoint inhibitor combina
 
 ## Financial condition and going concern risk
 
-Regen's balance sheet is severely stressed. The company has minimal assets, significant accumulated losses, and tight cash runway. Public SEC filings for such companies often include a "going concern" warning—management's disclosure that the company may not have sufficient capital to fund operations for the next 12 months without additional financing. Regen has faced this reality multiple times.
+Regen's [balance sheet](/balance-sheet/) is severely stressed. The company has minimal assets, significant accumulated losses, and tight cash runway. Public SEC filings for such companies often include a "[going concern](/going-concern/)" warning—management's disclosure that the company may not have sufficient capital to fund operations for the next 12 months without additional financing. Regen has faced this reality multiple times.
 
 This is not unusual for pre-clinical biotech, but it is important for equity investors: if the company cannot raise capital (through dilutive equity, debt, or a partnership), it will run out of money and either shut down, merge with another company, or be forced to sell assets at distressed valuations. Shareholders in such scenarios often see their stakes reduced to near-zero.
 

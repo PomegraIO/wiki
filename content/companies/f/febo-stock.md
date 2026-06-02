@@ -32,7 +32,7 @@ Conversely, Asian markets represent some of the world's highest-growth regions. 
 
 ## Currency and Capital Flow Geography
 
-A key feature of Fenbo's geographic structure is the currency and capital-flow complexity it introduces. If the company generates revenue and earnings in Asian currencies—Chinese yuan, [Indian rupees](/indian-rupee/), Vietnamese dong, Philippine pesos—those earnings must be converted to U.S. dollars to pay [dividends](/dividend/) or be reinvested, or they must be managed in their native currencies. Currency fluctuations directly affect the dollar value of the firm to U.S. investors.
+A key feature of Fenbo's geographic structure is the currency and capital-flow complexity it introduces. If the company generates revenue and earnings in Asian currencies—Chinese yuan, [Indian rupees](/indian-rupee/), Vietnamese dong, Philippine pesos—those earnings must be converted to [U.S. dollars](/us-dollar/) to pay [dividends](/dividend/) or be reinvested, or they must be managed in their native currencies. Currency fluctuations directly affect the dollar value of the firm to U.S. investors.
 
 More fundamentally, repatriation of capital from Asia to the United States is regulated in most jurisdictions. Countries impose limits on how much foreign profit can be transferred out, require corporate tax compliance, and sometimes restrict capital outflows entirely during periods of economic stress or geopolitical tension. Fenbo's ability to get money from its Asian operations back to shareholders in the United States depends on navigating these geographic regulatory boundaries.
 

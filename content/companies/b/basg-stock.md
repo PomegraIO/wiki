@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*BASG is an actively managed fund that invests in U.S. companies that combine strong business fundamentals with solid environmental, social, and governance practices — in plain terms, companies that are both growing and well-run.*
+*BASG is an [actively managed fund](/actively-managed-fund/) that invests in U.S. companies that combine strong business fundamentals with solid environmental, social, and governance practices — in plain terms, companies that are both growing and well-run.*
 
 <aside class="wiki-infobox">
 <table>
@@ -36,7 +36,7 @@ This matters because a fund that screams exclusions and purity rules will tend t
 
 BASG is built around growth. The companies it holds are expected to expand revenues and earnings over time. This creates a natural tilt toward technology, healthcare, consumer discretionary, and other sectors populated by businesses with upside potential. That growth orientation means BASG tends to outperform when investors are optimistic, risk appetite is high, and the economy is expanding.
 
-When growth stocks fall from favour — when interest rates rise sharply, or recession fears grip the market — BASG typically underperforms because it has deliberately excluded many cheap, defensive businesses that thrive in downturns. The ESG and quality screens also tilt the portfolio toward expensive valuations: high-quality, sustainable businesses command premium prices. In a correction, those premiums compress first and fastest. An investor in BASG should expect significant drawdowns during risk-off periods, even though the portfolio has eliminated the worst corporate citizens.
+When growth stocks fall from favour — when [interest rates](/interest-rate/) rise sharply, or [recession](/recession/) fears grip the market — BASG typically underperforms because it has deliberately excluded many cheap, defensive businesses that thrive in downturns. The ESG and quality screens also tilt the portfolio toward expensive valuations: high-quality, sustainable businesses command premium prices. In a correction, those premiums compress first and fastest. An investor in BASG should expect significant drawdowns during risk-off periods, even though the portfolio has eliminated the worst corporate citizens.
 
 ## How the ESG process actually works
 
@@ -46,6 +46,6 @@ This integrated approach means the fund will hold some companies that external E
 
 ## Cost and practical considerations
 
-The expense ratio is higher than a passive index fund but in line with other actively managed growth funds. The premium pays for research and active monitoring of both financial and ESG factors. Because the fund is actively managed, it may have higher turnover than a passive fund, which can generate tax consequences for taxable shareholders in some years.
+The [expense ratio](/expense-ratio/) is higher than a passive [index fund](/index-fund/) but in line with other actively managed [growth funds](/growth-fund/). The premium pays for research and active monitoring of both financial and ESG factors. Because the fund is actively managed, it may have higher turnover than a passive fund, which can generate tax consequences for taxable shareholders in some years.
 
 Investors considering BASG should first understand whether they believe active management adds value. If the answer is yes, and they want that active management applied to a universe of higher-quality, more sustainable companies, then BASG is worth examining. The prospectus explains the ESG criteria and the stock-selection process. Holdings disclosures show exactly which companies the fund owns and their sector mix. Comparing performance to a growth index like the Russell 1000 Growth Index over full market cycles reveals whether the ESG and quality screens have enhanced returns or simply reduced them. For investors who want growth exposure and care about corporate sustainability and governance, BASG offers a structured way to express both beliefs.

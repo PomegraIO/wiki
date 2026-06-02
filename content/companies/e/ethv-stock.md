@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-VanEck Ethereum ETF trades under ETHV on the NASDAQ as the mirror of the firm's bitcoin ETF, HODL. Where HODL holds physical bitcoin, ETHV holds actual Ethereum tokens. Both are spot cryptocurrency ETFs: the fund buys and holds the underlying asset in custody, avoiding the complications of futures contracts or derivative structures, and charges investors a management fee for the service.
+VanEck [Ethereum](/ethereum/) ETF trades under ETHV on the [NASDAQ](/nasdaq/) as the mirror of the firm's [bitcoin](/bitcoin/) ETF, HODL. Where HODL holds physical bitcoin, ETHV holds actual Ethereum tokens. Both are spot cryptocurrency ETFs: the fund buys and holds the underlying asset in custody, avoiding the complications of [futures contracts](/futures-contract/) or derivative structures, and charges investors a [management fee](/management-fee/) for the service.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ VanEck Ethereum ETF trades under ETHV on the NASDAQ as the mirror of the firm's 
 
 Ethereum differs from bitcoin in that it is a blockchain platform designed to execute programs, not primarily a store of value. Ethereum tokens, called Ether or ETH, serve as the fuel that powers those programs and as a medium of exchange on the network. The distinction matters for understanding the asset's fundamentals, though for the purposes of an ETF, the difference is semantic: ETHV simply holds Ethereum tokens and passes price movements through to shareholders.
 
-The economics of ETHV track bitcoin ETFs precisely. Capital flows in, the fund manager converts dollars to Ethereum, custody firms secure the tokens in offline vaults, and shareholders pay an annual fee. The fee is deducted daily from net asset value. As assets grow, the fund's absolute revenue grows, but the marginal cost of storing additional tokens declines. A custodian's annual cost to hold 100,000 Ethereum is only slightly higher than the cost to hold 10,000, even though assets have increased tenfold. This gives scale-based competitors an advantage: larger funds can lower fees while maintaining margins, which attracts more capital, which further lowers unit cost.
+The economics of ETHV track bitcoin ETFs precisely. [Capital flows](/capital-flows/) in, the fund manager converts dollars to Ethereum, custody firms secure the tokens in offline vaults, and shareholders pay an annual fee. The fee is deducted daily from [net asset value](/net-asset-value/). As assets grow, the fund's absolute revenue grows, but the marginal cost of storing additional tokens declines. A [custodian's](/custodian/) annual cost to hold 100,000 Ethereum is only slightly higher than the cost to hold 10,000, even though assets have increased tenfold. This gives scale-based competitors an advantage: larger funds can lower fees while maintaining margins, which attracts more capital, which further lowers unit cost.
 
 VanEck's Ethereum ETF arrived in the wave of crypto-asset approvals in 2024, alongside bitcoin. The SEC's approval of bitcoin ETFs created regulatory momentum. Ethereum, being a larger second-layer cryptocurrency with substantial institutional use, secured similar approval. VanEck capitalized on the window by launching quickly, pairing its Ethereum offering with the bitcoin ETF to give clients a two-cryptocurrency vehicle if desired.
 

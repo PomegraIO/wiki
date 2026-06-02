@@ -37,7 +37,7 @@ This advantage compounds. Because Capital One makes better predictions, it can p
 
 Capital One is one of the top three credit-card issuers by volume in North America. This scale translates directly to profitability in several ways.
 
-First, credit card portfolios are subject to credit losses that rise steeply in recessions. A portfolio of a hundred million active accounts smooths these losses across millions of independent borrowers in different regions and income brackets. Losses become predictable. A smaller issuer with five million accounts sees the same recession hit much harder as a percentage of its business. Capital One's diversification gives it the ability to absorb downturns without crisis.
+First, credit card portfolios are subject to credit losses that rise steeply in [recessions](/recession/). A portfolio of a hundred million active accounts smooths these losses across millions of independent borrowers in different regions and income brackets. Losses become predictable. A smaller issuer with five million accounts sees the same recession hit much harder as a percentage of its business. Capital One's [diversification](/diversification/) gives it the ability to absorb downturns without crisis.
 
 Second, funding costs favor scale. Capital One funds its card portfolio partly through customer deposits (via its bank subsidiary) and partly through wholesale capital-markets borrowing. As one of the largest and safest credit-card lenders, Capital One can borrow at favorable rates — rates that smaller competitors simply cannot access. If Capital One funds ten billion dollars at a cost thirty basis points cheaper than a smaller rival, that is thirty million dollars a year in competitive advantage, and it scales with portfolio size.
 
@@ -53,21 +53,21 @@ Capital One's scale in auto lending has allowed it to become one of the top indi
 
 ## The Banking Franchise and Deposit Funding
 
-Capital One's acquisition of retail banking operations in the mid-2000s transformed the company's funding model. Instead of relying on capital markets to fund its loan portfolio, Capital One could raise deposits from retail customers. Deposits are cheaper, stickier (customers keep them longer than wholesale borrowing), and subject to less market volatility.
+Capital One's [acquisition](/acquisition/) of retail banking operations in the mid-2000s transformed the company's funding model. Instead of relying on capital markets to fund its loan portfolio, Capital One could raise deposits from retail customers. Deposits are cheaper, stickier (customers keep them longer than wholesale borrowing), and subject to less market volatility.
 
-That said, capital One's deposit franchise is not as deep as that of the largest banks. Bank of America, Wells Fargo, and JPMorgan Chase have much larger deposit bases and broader branch networks. Capital One's deposits support its lending but are not a source of competitive advantage by themselves. The company cannot outcompete its largest rivals on pure deposit-gathering scale.
+That said, capital One's deposit franchise is not as deep as that of the largest banks. [Bank of America](/bank-of-america/), [Wells Fargo](/wells-fargo/), and [JPMorgan Chase](/jpmorgan-chase/) have much larger deposit bases and broader branch networks. Capital One's deposits support its lending but are not a source of competitive advantage by themselves. The company cannot outcompete its largest rivals on pure deposit-gathering scale.
 
 ## Where Size Imposes Constraints
 
 Capital One's scale also brings regulatory burden. As a large bank holding company, Capital One is subject to annual stress tests designed to ensure it can survive a severe recession. These tests require the company to hold more capital than smaller competitors and limit how much profit can be returned to shareholders. Regulatory compliance costs scale too — the company maintains large legal, compliance, and risk-management teams to navigate a complex regulatory environment.
 
-This regulatory weight is a constraint that smaller, non-systemically-important lenders do not face. A fintech lender with one billion dollars in auto loans faces far lighter capital requirements than Capital One does. That allows the fintech firm higher return on equity, though it also means the firm is more vulnerable to stress.
+This regulatory weight is a constraint that smaller, non-systemically-important lenders do not face. A fintech lender with one billion dollars in auto loans faces far lighter capital requirements than Capital One does. That allows the fintech firm higher [return on equity](/return-on-equity/), though it also means the firm is more vulnerable to stress.
 
 ## The Cycle and the Moat
 
-Capital One's profitability is heavily cyclical. When the Federal Reserve raises interest rates and economic conditions are strong, credit-card lending is very profitable. When rates fall and the economy weakens, charge-offs rise and margins compress. This cyclicality means Capital One's earnings fluctuate far more than a company with stable, recurring revenue.
+Capital One's profitability is heavily cyclical. When the [Federal Reserve](/federal-reserve/) raises [interest rates](/interest-rate/) and economic conditions are strong, credit-card lending is very profitable. When rates fall and the economy weakens, charge-offs rise and margins compress. This cyclicality means Capital One's earnings fluctuate far more than a company with stable, recurring revenue.
 
-Yet through the cycle, Capital One's core advantage — superior credit risk assessment — persists. In downturns, Capital One's loss rates may still exceed competitors' because its portfolio includes riskier borrowers. But its models are accurate enough that the company can still profit and adjust pricing accordingly. In upturns, Capital One gains share because its efficiency and data science allow it to beat competitors on both pricing and approval rates.
+Yet through the cycle, Capital One's core advantage — superior [credit risk](/credit-risk/) assessment — persists. In downturns, Capital One's loss rates may still exceed competitors' because its portfolio includes riskier borrowers. But its models are accurate enough that the company can still profit and adjust pricing accordingly. In upturns, Capital One gains share because its efficiency and data science allow it to beat competitors on both pricing and approval rates.
 
 ## How to Research Capital One
 

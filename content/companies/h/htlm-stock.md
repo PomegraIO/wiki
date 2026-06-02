@@ -36,7 +36,7 @@ Retention is critical because customer acquisition cost is substantial. A land a
 
 ## Operational Costs and Scaling Economics
 
-HomesToLife's cost structure is relatively low capital intensity: no manufacturing, no physical products to ship, no field service technicians. The primary costs are software development (engineers building and maintaining the platform), cloud infrastructure (server costs, database operations, [data storage](/dtst-stock/)), customer support (staff answering questions and resolving issues), and sales and marketing.
+HomesToLife's cost structure is relatively low capital intensity: no manufacturing, no physical products to ship, no field service technicians. The primary costs are software development (engineers building and maintaining the platform), cloud infrastructure (server costs, database operations, data storage), customer support (staff answering questions and resolving issues), and sales and marketing.
 
 In the early stages of a company's growth, customer acquisition cost often exceeds the annual value of a new customer, creating negative unit economics. The company must reach a scale where the cohort of customers acquired in one year generate enough cumulative lifetime value to exceed acquisition cost. This threshold—the CAC payback period—often occurs after 12–24 months for property management software. Until then, the company must fund growth with capital from investors or from earlier, profitable customers. Once achieved, unit economics improve as the company matures.
 

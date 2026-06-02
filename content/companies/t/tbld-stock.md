@@ -16,21 +16,21 @@ Thornburg Income Builder Opportunities Trust emerged as a vehicle for Thornburg 
 
 Thornburg Investment Management, the managing company, is a Denver-based investment firm founded in the 1980s with expertise in fixed-income and dividend-paying securities. Thornburg Income Builder Opportunities Trust was established as a mechanism to apply that expertise at scale. Like other [closed-end funds](/closed-end-fund/) that emerged in the income-fund boom of the 2000s, the trust was designed to appeal to investors seeking [current yield](/current-yield/)—regular distributions of income that could supplement other investment returns or retirement income.
 
-The closed-end structure was chosen deliberately: it allowed Thornburg to raise a defined pool of capital and invest it without the liquidity pressures that [open-end funds](/open-end-fund/) face. Open-end mutual funds must redeem shares at [net asset value](/net-asset-value/) whenever investors want out, which forces the fund manager to keep some cash on hand or sell securities at inopportune times. A closed-end fund has no redemption obligation, which gives the manager more freedom to pursue a long-term strategy and to use leverage if desired.
+The closed-end structure was chosen deliberately: it allowed Thornburg to raise a defined pool of capital and invest it without the liquidity pressures that [open-end funds](/open-end-fund/) face. Open-end [mutual funds](/mutual-fund/) must redeem shares at [net asset value](/net-asset-value/) whenever investors want out, which forces the fund manager to keep some cash on hand or sell securities at inopportune times. A closed-end fund has no redemption obligation, which gives the manager more freedom to pursue a long-term strategy and to use leverage if desired.
 
 ## The structure: closed-end with leverage
 
 From inception, the trust employed leverage to amplify returns and distributions. Leverage in a fixed-income fund works by borrowing short-term money at lower rates and investing the proceeds in higher-yielding securities, capturing the spread. In a favorable interest-rate environment—when short-term rates are well below long-term yields—this strategy can significantly boost distributions. However, leverage is a double-edged sword: it amplifies both gains and losses, and if short-term funding costs spike or the fund's assets decline in value, the leveraged position becomes stressed.
 
-The trust's ability to access leverage depends on its credit rating and the willingness of lenders to extend short-term credit. During credit crises, leverage can become expensive or unavailable, which forces the fund to delever (pay down debt) or face margin calls.
+The trust's ability to access leverage depends on its [credit rating](/credit-rating/) and the willingness of lenders to extend short-term credit. During credit crises, leverage can become expensive or unavailable, which forces the fund to delever (pay down debt) or face [margin calls](/margin-call-forex/).
 
 ## Portfolio evolution and market cycles
 
-Over its history, the trust has navigated multiple market cycles and has adjusted its portfolio strategy in response. In the years leading up to the 2008 financial crisis, many closed-end income funds tilted heavily toward complex mortgage-backed and structured credit securities, taking on risk that seemed manageable at the time but proved otherwise. The crisis exposed the vulnerability of these portfolios, and many funds suffered sharp NAV declines.
+Over its history, the trust has navigated multiple market cycles and has adjusted its portfolio strategy in response. In the years leading up to the 2008 financial crisis, many closed-end [income funds](/income-fund/) tilted heavily toward complex mortgage-backed and structured credit securities, taking on risk that seemed manageable at the time but proved otherwise. The crisis exposed the vulnerability of these portfolios, and many funds suffered sharp NAV declines.
 
 In the post-crisis environment, income funds shifted strategy toward higher-quality fixed-income assets, dividend-paying stocks, and emerging-market debt. Thornburg Income Builder Opportunities Trust, like its peers, had to address legacy holdings and recalibrate portfolio composition to balance yield with risk.
 
-The trust's portfolio typically includes a mix of asset classes: US government and agency debt, investment-grade [corporate bonds](/corporate-bond/), high-yield corporate bonds, dividend-paying equities, [preferred stocks](/preferred-stock/), and sometimes alternatives. The exact mix evolves based on management's view of value and risk across the market, economic conditions, and the fund's leverage capacity.
+The trust's portfolio typically includes a mix of asset classes: US government and agency debt, investment-grade [corporate bonds](/corporate-bond/), high-yield corporate [bonds](/bond/), dividend-paying equities, [preferred stocks](/preferred-stock/), and sometimes alternatives. The exact mix evolves based on management's view of value and risk across the market, economic conditions, and the fund's leverage capacity.
 
 ## Distribution policy and its challenges
 
@@ -62,7 +62,7 @@ The trust's future will depend on whether management can navigate the next phase
 
 ## How to research Thornburg Income Builder Opportunities Trust
 
-Start with the fund's most recent annual report and fact sheet (SEC CIK 0001820378), which detail the portfolio composition, duration, [leverage ratio](/leverage-ratio-forex/), and distribution history. Compare the current distribution yield to historical levels and to peer funds to assess whether distributions are sustainable.
+Start with the fund's most recent [annual report](/10-k/) and fact sheet (SEC CIK 0001820378), which detail the portfolio composition, duration, [leverage ratio](/leverage-ratio-forex/), and distribution history. Compare the current distribution yield to historical levels and to peer funds to assess whether distributions are sustainable.
 
 Monitor the fund's premium or discount to NAV: a widening discount may signal market concern about leverage, distributions, or management performance. Review the portfolio's credit quality and [asset allocation](/asset-allocation/) to understand the fund's interest-rate and credit sensitivity.
 

@@ -36,7 +36,7 @@ Games function differently from live streaming in the company's financial pictur
 
 ## Market geography and regulatory exposure
 
-JOYY's revenue is heavily weighted to mainland China, with secondary exposure in Southeast Asia and other Asian markets. This geographic concentration creates two financial risks: (1) Chinese regulatory pressure on internet platforms, content, and spending behaviors can abruptly compress addressable markets and user behavior, and (2) currency fluctuation between the Chinese renminbi and the U.S. dollar affects reported earnings for a U.S.-listed company with China-denominated revenue.
+JOYY's revenue is heavily weighted to mainland China, with secondary exposure in Southeast Asia and other Asian markets. This geographic concentration creates two financial risks: (1) Chinese regulatory pressure on internet platforms, content, and spending behaviors can abruptly compress addressable markets and user behavior, and (2) currency fluctuation between the Chinese renminbi and the [U.S. dollar](/us-dollar/) affects reported earnings for a U.S.-listed company with China-denominated revenue.
 
 Chinese regulations have increasingly restricted the live-streaming category, capping streamer earnings percentages and limiting the types of content allowed. These constraints reduce not only the absolute spending per user but also the streamer incentive to create exclusive or premium content. JOYY must continually navigate and adapt its take-rates and content policies to comply with evolving rules while remaining competitive with other platforms.
 

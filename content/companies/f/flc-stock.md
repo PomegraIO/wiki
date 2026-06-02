@@ -27,15 +27,15 @@ Flaherty & Crumrine Total Return Fund is a closed-end investment company trading
 
 ## What a closed-end fund is and why it trades like a stock
 
-A mutual fund is open-ended: you can buy shares from the fund itself at [net asset value](/net-asset-value/) (NAV) whenever you want, and the fund grows or shrinks based on investor demand. A closed-end fund is different. It raises a fixed pool of capital once, then trades that pool on a [stock exchange](/stock-exchange/) like a company. Once the fund is "closed," you cannot buy new shares directly from the fund — you buy shares from other investors on the exchange, at whatever price those investors are willing to accept.
+A [mutual fund](/mutual-fund/) is open-ended: you can buy shares from the fund itself at [net asset value](/net-asset-value/) (NAV) whenever you want, and the fund grows or shrinks based on investor demand. A closed-end fund is different. It raises a fixed pool of capital once, then trades that pool on a [stock exchange](/stock-exchange/) like a company. Once the fund is "closed," you cannot buy new shares directly from the fund — you buy shares from other investors on the exchange, at whatever price those investors are willing to accept.
 
 That distinction matters. A mutual fund's share price is always equal to the value of its underlying holdings divided by the number of shares. A closed-end fund's share price is set by supply and demand on the exchange, just like a stock. If investors are excited about munis and high yields, they bid up FLC's stock price above its NAV — it trades at a premium. If sentiment sours, the price falls below NAV — it trades at a discount. FLC's stock price and the actual value of its holdings can diverge, sometimes significantly.
 
-Flaherty & Crumrine's fund has survived since 1987 — longer than many [closed-end funds](/closed-end-fund/) — by delivering on a simple promise: generate high current income in the form of tax-exempt dividends, with an eye to modest capital appreciation over time.
+Flaherty & Crumrine's fund has survived since 1987 — longer than many [closed-end funds](/closed-end-fund/) — by delivering on a simple promise: generate high current income in the form of tax-exempt [dividends](/dividend/), with an eye to modest capital appreciation over time.
 
 ## Why municipal bonds, and why leverage
 
-Municipal bonds are issued by states, cities, school districts, and other public entities to fund infrastructure, schools, and operations. Most municipal bond interest is exempt from federal income tax (and often from state tax in the issuer's home state). That tax advantage means munis yield less than comparable [corporate bonds](/corporate-bond/) — a muni yielding 3.5% might be more valuable after tax than a corporate bond yielding 4.2% if the investor is in a high tax bracket.
+Municipal [bonds](/bond/) are issued by states, cities, school districts, and other public entities to fund infrastructure, schools, and operations. Most municipal bond interest is exempt from federal income tax (and often from state tax in the issuer's home state). That tax advantage means munis yield less than comparable [corporate bonds](/corporate-bond/) — a muni yielding 3.5% might be more valuable after tax than a corporate bond yielding 4.2% if the investor is in a high tax bracket.
 
 For a fund targeting current income, munis are a natural fit. FLC buys a diversified portfolio of municipal bonds, collects the interest, and distributes it to shareholders as tax-exempt dividends. But the yield on a pure muni portfolio can be modest — which is where leverage enters.
 

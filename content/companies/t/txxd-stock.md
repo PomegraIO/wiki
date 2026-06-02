@@ -21,7 +21,7 @@ The daily rebalancing is crucial to understanding the fund's behaviour. Because 
 
 ## Volatility decay and tracking error
 
-This is the central risk of leveraged ETFs. Volatility decay means that in a choppy market, a 2x leveraged product can underperform 2x the underlying asset significantly over weeks or months, even if the underlying asset's price ends unchanged. The effect is most pronounced in highly volatile assets, and Dogecoin is extremely volatile — daily swings of 5%, 10%, or more are not uncommon.
+This is the central risk of [leveraged ETFs](/leveraged-etf/). Volatility decay means that in a choppy market, a 2x leveraged product can underperform 2x the underlying asset significantly over weeks or months, even if the underlying asset's price ends unchanged. The effect is most pronounced in highly volatile assets, and Dogecoin is extremely volatile — daily swings of 5%, 10%, or more are not uncommon.
 
 Example: Dogecoin swings up 10% on Day 1 and down 9.09% on Day 2, ending at its original price. A 2x leveraged tracker would gain 20% on Day 1 (great), then lose 18.18% on Day 2 (ouch), ending down roughly 0.36%. The sideways price action created losses through the leverage mechanism itself.
 
@@ -29,13 +29,13 @@ For this reason, 2x leveraged crypto ETFs are designed for short-term tactical p
 
 ## Structure and trading
 
-TXXD trades like any standard ETF — it has an expense ratio (higher than unleveraged crypto ETFs, to cover the cost of the leverage mechanism and daily rebalancing) and can be bought or sold through any brokerage during market hours. Liquidity depends on the fund's size and trading volume; narrower crypto ETFs can have wider bid-ask spreads than mega-cap equity ETFs. The fund is denominated in US dollars and trades on a US exchange, removing the friction of trading on a crypto exchange directly, though custodial and counterparty risks remain.
+TXXD trades like any standard ETF — it has an [expense ratio](/expense-ratio/) (higher than unleveraged crypto ETFs, to cover the cost of the leverage mechanism and daily rebalancing) and can be bought or sold through any brokerage during market hours. Liquidity depends on the fund's size and trading volume; narrower crypto ETFs can have wider [bid-ask spreads](/bid-ask-spread/) than mega-cap [equity ETFs](/equity-etf/). The fund is denominated in [US dollars](/us-dollar/) and trades on a US exchange, removing the friction of trading on a crypto exchange directly, though custodial and [counterparty risks](/counterparty-risk/) remain.
 
 ## Who holds it and why
 
 TXXD appeals primarily to active traders and crypto speculators who believe Dogecoin is set for a sharp directional move and want to amplify that bet. It is also used by tactical investors making shorter-term bets around cryptocurrency market cycles. Very few long-term investors hold leveraged crypto ETFs; the volatility decay and fees compound to destroy wealth over years.
 
-The fund also attracts investors who want regulated, tax-transparent exposure to Dogecoin without opening a cryptocurrency exchange account. A brokerage-based ETF generates standard 1099 tax reporting and avoids the operational risk and security concerns of holding crypto on an exchange or in a personal wallet.
+The fund also attracts investors who want regulated, tax-transparent exposure to Dogecoin without opening a [cryptocurrency exchange](/cryptocurrency-exchange/) account. A brokerage-based ETF generates standard 1099 tax reporting and avoids the [operational risk](/operational-risk/) and security concerns of holding crypto on an exchange or in a personal wallet.
 
 ## Risks
 

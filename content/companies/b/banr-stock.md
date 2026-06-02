@@ -43,7 +43,7 @@ BANR's profitability is extraordinarily sensitive to interest rates and the shap
 
 The level of rates also matters. Rising rates tend to expand NIM (as noted above), while falling rates compress it. BANR's historical [return on equity](/return-on-equity/) has been highest during periods of rising rates with a steep yield curve; it has been lowest during sustained low-rate environments (2012–2021, broadly) when NIM compression was severe.
 
-This rate sensitivity means BANR's quarterly and annual earnings fluctuate significantly based on Fed policy, inflation expectations, and macroeconomic conditions. Investors comparing BANR's earnings across years must account for these rate cycles; a low-return year might simply reflect low-rate-environment compression, not operational deterioration.
+This rate sensitivity means BANR's quarterly and annual earnings fluctuate significantly based on Fed policy, [inflation](/inflation/) expectations, and macroeconomic conditions. Investors comparing BANR's earnings across years must account for these rate cycles; a low-return year might simply reflect low-rate-environment compression, not operational deterioration.
 
 ## Fee Income and Operating Leverage
 

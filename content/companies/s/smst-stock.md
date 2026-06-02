@@ -28,7 +28,7 @@ SMST is a bet against a single stock. Its only purpose is to move in the opposit
 
 ## How SMST achieves its negative 2x exposure
 
-To deliver minus two times the daily return, Defiance uses a combination of short selling stock and buying put options (contracts that profit when MSTR falls). This position is rebalanced daily — meaning every night after the market closes, the fund managers adjust the holdings to ensure the fund is geared to deliver -2x the next day's move. This daily reset is critical to the fund's function and also the source of its biggest danger.
+To deliver minus two times the daily return, Defiance uses a combination of [short selling](/short-selling/) stock and buying [put options](/put-option/) (contracts that profit when MSTR falls). This position is rebalanced daily — meaning every night after the market closes, the fund managers adjust the holdings to ensure the fund is geared to deliver -2x the next day's move. This daily reset is critical to the fund's function and also the source of its biggest danger.
 
 ## The volatility decay trap
 
@@ -36,19 +36,19 @@ Here is where inverse and leveraged products hurt themselves: volatility decay. 
 
 On day one, MSTR up 10 percent, SMST down 20 percent. On day two, MSTR down 10 percent, SMST up 20 percent (the down day helps SMST). On day three, MSTR up 10 percent, SMST down 20 percent again. Over three days, MSTR is down only a small amount from where it started, but SMST has compounded losses. This is volatility decay: the daily rebalancing eats returns in choppy markets.
 
-SMST also leaks money through the constant rebalancing, the fees embedded in option prices, and the bid-ask spread on the fund itself. These costs mount fast if you hold the fund for weeks or months. SMST is a tactical vehicle, not a strategic position.
+SMST also leaks money through the constant rebalancing, the fees embedded in option prices, and the [bid-ask spread](/bid-ask-spread/) on the fund itself. These costs mount fast if you hold the fund for weeks or months. SMST is a tactical vehicle, not a strategic position.
 
 ## The single-stock concentration
 
-SMST is bet on exactly one company: MicroStrategy. This concentration is both its strength and its weakness. The leverage amplifies any move in MSTR, which is good when MSTR falls hard. But if MSTR soars (as volatile stocks sometimes do), SMST can spiral downward with no diversification to cushion the blow. An investor holding SMST through a surprise rally in MSTR can see losses mount very fast.
+SMST is bet on exactly one company: MicroStrategy. This concentration is both its strength and its weakness. The leverage amplifies any move in MSTR, which is good when MSTR falls hard. But if MSTR soars (as volatile stocks sometimes do), SMST can spiral downward with no [diversification](/diversification/) to cushion the blow. An investor holding SMST through a surprise rally in MSTR can see losses mount very fast.
 
 ## Costs and liquidity
 
-SMST trades with modest liquidity; the bid-ask spread can be wide relative to the daily price swings of the fund itself, so exit costs matter. The expense ratio is published, but the real cost is the daily rebalancing friction and the option premium that Defiance pays to implement the inverse exposure. These are hidden costs but they compound, especially if you hold the fund longer than a few days.
+SMST trades with modest liquidity; the bid-ask spread can be wide relative to the daily price swings of the fund itself, so exit costs matter. The [expense ratio](/expense-ratio/) is published, but the real cost is the daily rebalancing friction and the [option premium](/option-premium/) that Defiance pays to implement the inverse exposure. These are hidden costs but they compound, especially if you hold the fund longer than a few days.
 
 ## Who might use SMST, and why it is dangerous
 
-SMST is designed for active traders who believe MSTR will fall over a matter of days and want leveraged downside exposure. A professional trader might use SMST as part of a broader portfolio, sizing it small and exiting quickly. A hedge fund might use it as a temporary tactical position.
+SMST is designed for active traders who believe MSTR will fall over a matter of days and want leveraged downside exposure. A professional trader might use SMST as part of a broader portfolio, sizing it small and exiting quickly. A [hedge fund](/hedge-fund/) might use it as a temporary tactical position.
 
 For most investors, SMST is a trap. Holding it through volatility decay erodes capital. Most retail investors who buy inverse funds end up losing money because they hold them through market recoveries or through choppy consolidation periods where the daily resets grind away value. The marketing of SMST — "short MSTR with leverage" — sounds simple, but the mechanics are brutal for anyone who is not actively trading.
 

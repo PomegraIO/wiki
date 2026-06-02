@@ -10,9 +10,9 @@ keywords:
 handwritten: true
 ---
 
-YHN Acquisition I Ltd is a special purpose acquisition company (SPAC), a shell corporation that was formed solely to raise capital from public investors and then identify an existing private business to acquire, merge with, and take public. The company itself has no operating business—it exists as a temporary legal vehicle whose sole purpose is to locate and negotiate a merger target.
+[YHN Acquisition I](/yhna-stock/) Ltd is a special purpose [acquisition](/acquisition/) company (SPAC), a shell corporation that was formed solely to raise capital from public investors and then identify an existing private business to acquire, merge with, and take public. The company itself has no operating business—it exists as a temporary legal vehicle whose sole purpose is to locate and negotiate a [merger](/merger/) target.
 
-A SPAC is a financial engineering tool that sits at the intersection of two different capital flows: on one side, investors seeking exposure to a private business without waiting for a traditional initial public offering (IPO) or risking the uncertainty of a startup; on the other, founders and owners of private companies seeking liquidity and public-company currency without the lengthy regulatory process of a traditional IPO. The SPAC is the middleman that matches them.
+A SPAC is a financial engineering tool that sits at the intersection of two different [capital flows](/capital-flows/): on one side, investors seeking exposure to a private business without waiting for a traditional [initial public offering](/initial-public-offering/) (IPO) or risking the uncertainty of a startup; on the other, founders and owners of private companies seeking liquidity and public-company currency without the lengthy regulatory process of a traditional IPO. The SPAC is the middleman that matches them.
 
 ## How a SPAC works
 
@@ -26,7 +26,7 @@ This process typically takes twelve to twenty-four months. If no acceptable targ
 
 For private company founders, a SPAC is attractive because it offers a path to public markets faster and with more certainty than an IPO—there is no underwriter fee, no extended roadshow, and a single negotiation rather than marketing to thousands of potential investors. For venture capital investors, a SPAC provides a way to exit portfolio companies without waiting for an acquisition or IPO.
 
-For SPAC investors, the appeal is a mix of gambling and arbitrage. Some believe they are backing a particular sponsor with a strong track record of identifying good businesses. Others are playing merger arbitrage—betting that the SPAC will acquire a target and that the post-merger stock will trade above the SPAC's initial share price, or simply capturing the spread between the redemption value (what they can cash out for if they vote no) and the trading price.
+For SPAC investors, the appeal is a mix of gambling and arbitrage. Some believe they are backing a particular sponsor with a strong track record of identifying good businesses. Others are playing [merger arbitrage](/merger-arbitrage-definition/)—betting that the SPAC will acquire a target and that the post-merger stock will trade above the SPAC's initial share price, or simply capturing the spread between the redemption value (what they can cash out for if they vote no) and the trading price.
 
 ## The risks and the structural problem
 

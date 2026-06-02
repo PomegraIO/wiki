@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-The Mexico Equity & [Income Fund](/income-fund/) Inc. is a closed-end investment company that pools capital from U.S. investors and deploys it into a portfolio of Mexican equities and debt securities. The fund has traded on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker MXE since August 1990, making it one of the longest-operating vehicles offering American investors direct exposure to the Mexican stock and bond markets.
+The Mexico Equity & [Income Fund](/income-fund/) Inc. is a closed-end investment company that pools capital from U.S. investors and deploys it into a portfolio of Mexican equities and debt securities. The fund has traded on the [New York Stock Exchange](/new-york-stock-exchange/) under the ticker MXE since August 1990, making it one of the longest-operating vehicles offering American investors direct exposure to the Mexican stock and [bond](/bond/) markets.
 
 A closed-end fund is distinct from the more familiar open-ended mutual fund. While open-ended funds accept new investors continuously and redeem shares at the [net asset value](/net-asset-value/) of the underlying portfolio, a closed-end fund raises capital once through a public offering, then trades those shares on an exchange. The number of shares outstanding stays fixed, and their price fluctuates based on supply and demand among buyers and sellers — not necessarily the daily value of the underlying assets. This structure creates both advantages and complications worth understanding.
 
@@ -46,7 +46,7 @@ The portfolio is actively managed by Pichardo Asset Management, which means a te
 
 Mexico is the world's 15th-largest economy and a major manufacturing and export hub, especially for the United States. It is also home to large consumer markets, significant natural resources, and rapidly developing financial and technology sectors. For U.S. investors seeking exposure to emerging markets, Mexico is often more accessible than many alternatives because of the two countries' physical proximity, established trade relationships, and relative political stability.
 
-However, Mexican securities carry risks. The Mexican peso fluctuates against the U.S. dollar, so fund investors face currency risk — a 10 percent decline in the peso against the dollar can meaningfully drag on returns. Mexico's government and economy are also sensitive to commodity prices, especially oil, which is both produced and consumed domestically. Political and regulatory uncertainty can affect particular sectors, such as energy or telecommunications. Investors in Mexican securities implicitly accept these macro-level risks.
+However, Mexican securities carry risks. The Mexican peso fluctuates against the [U.S. dollar](/us-dollar/), so fund investors face currency risk — a 10 percent decline in the peso against the dollar can meaningfully drag on returns. Mexico's government and economy are also sensitive to commodity prices, especially oil, which is both produced and consumed domestically. Political and regulatory uncertainty can affect particular sectors, such as energy or telecommunications. Investors in Mexican securities implicitly accept these macro-level risks.
 
 ## Peer context and benchmarking
 

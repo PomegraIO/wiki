@@ -27,15 +27,15 @@ Small stocks go up and down more than big ones. That is just how markets work. A
 
 ## Why small stocks matter
 
-Small and mid-sized companies grow faster than big ones. They have more room to expand. Apple or Microsoft is already huge, so they can grow at maybe 10–15% a year. A smaller company with a good idea can double or triple in size. That faster growth can make small-stock portfolios really rewarding over time. But here is the catch: small stocks also fall harder in bad years. When fear spreads through the market, investors sell the risky stuff first. Small companies get hammered.
+Small and mid-sized companies grow faster than big ones. They have more room to expand. [Apple](/aapl-stock/) or [Microsoft](/msft-stock/) is already huge, so they can grow at maybe 10–15% a year. A smaller company with a good idea can double or triple in size. That faster growth can make small-stock portfolios really rewarding over time. But here is the catch: small stocks also fall harder in bad years. When fear spreads through the market, investors sell the risky stuff first. Small companies get hammered.
 
 BUFS bets that you want that growth but do not want to get hammered. It holds a basket of small and mid-cap stocks, just like other funds that invest in that category. But it also wraps those stocks in a protection layer using options.
 
 ## The protection layer explained simply
 
-Think of it like insurance. You do not know for sure if your house will burn down, but you buy fire insurance anyway. The insurance costs money, but it gives you peace of mind. BUFS works the same way. The fund buys insurance called a put option. This option basically says: if the value of my small-stock portfolio drops more than 15% in a year, the insurance kicks in and covers the extra loss. So instead of losing 30%, you lose 15%.
+Think of it like insurance. You do not know for sure if your house will burn down, but you buy fire insurance anyway. The insurance costs money, but it gives you peace of mind. BUFS works the same way. The fund buys insurance called a [put option](/put-option/). This option basically says: if the value of my small-stock portfolio drops more than 15% in a year, the insurance kicks in and covers the extra loss. So instead of losing 30%, you lose 15%.
 
-To pay for that insurance, the fund gives up some upside. It sells call options, which is like capping how much profit you can make in a given year. If the small-cap stocks go up 40%, you might only get 25% or 30% of that gain because of the cap. The insurance company gets the rest. It is a trade: less profit in good years, less pain in bad years.
+To pay for that insurance, the fund gives up some upside. It sells [call options](/call-option/), which is like capping how much profit you can make in a given year. If the small-cap stocks go up 40%, you might only get 25% or 30% of that gain because of the cap. The insurance company gets the rest. It is a trade: less profit in good years, less pain in bad years.
 
 This protection resets every year. January 1 is like hitting reset on the whole mechanism. New insurance gets bought. New caps are set. The exact level of protection and the exact cap depend on how expensive it is to buy insurance that year, which depends on market volatility.
 
@@ -65,7 +65,7 @@ Finally, the annual reset means you should not trade BUFS in and out constantly.
 
 Look at BUFS's performance in down years. In a year when small-cap stocks fell 20%, did BUFS fall 15%? That is the whole point. If the protection is working, the fund wins in bad years. In up years, BUFS will probably lag. That is the deal. You do not get to have it both ways. If BUFS is beating a regular small-cap fund by a lot in both good years and bad years, something is wrong with the options structure, and you should dig deeper.
 
-Also, track the actual expense ratio — what you are really paying. Sometimes it runs higher than the quoted 1% because of trading costs in the options layer. Morningstar and other fund tracking sites will show the real number.
+Also, track the actual [expense ratio](/expense-ratio/) — what you are really paying. Sometimes it runs higher than the quoted 1% because of trading costs in the options layer. Morningstar and other fund tracking sites will show the real number.
 
 ## A final thought
 

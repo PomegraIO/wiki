@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ASHS tracks the CSI 500 Index, a benchmark of 500 small-cap and mid-cap equities on mainland Chinese exchanges. Listed on NASDAQ, the fund gives US-based investors access to Chinese companies smaller than those in the CSI 300 but still publicly listed and reasonably liquid. This is where the wider Chinese business ecosystem lives—outside the banking and insurance megacaps that dominate the 300, and outside the truly micro stocks that rarely trade.
+ASHS tracks the CSI 500 Index, a benchmark of 500 small-cap and mid-cap equities on mainland Chinese exchanges. Listed on [NASDAQ](/nasdaq/), the fund gives US-based investors access to Chinese companies smaller than those in the CSI 300 but still publicly listed and reasonably liquid. This is where the wider Chinese business ecosystem lives—outside the banking and insurance megacaps that dominate the 300, and outside the truly micro stocks that rarely trade.
 
 ## The index sits between the elite and the microcaps
 
@@ -19,11 +19,11 @@ The CSI 500 comprises stocks ranked 301 to 800 on the Shanghai and Shenzhen exch
 
 ## Access mechanics and how they differ from the larger-cap fund
 
-ASHS operates under the same foreign-access framework as its larger cousin, but liquidity is thinner. The Shanghai-Hong Kong and Shenzhen-Hong Kong Stock Connect programs have caps on foreign ownership and daily trading limits. Smaller companies in the CSI 500 are more sensitive to these constraints; some days the Connect mechanism can fill up before certain stocks trade, creating gridlock. The fund tracks these developments and adjusts its replication method—sometimes holding A-shares directly, sometimes using derivatives—to stay as close to the index as possible. Bid-ask spreads on ASHR tend to be tighter, but ASHS can experience wider spreads, especially during volatile periods when foreign investor appetite for Chinese small-caps wavers.
+ASHS operates under the same foreign-access framework as its larger cousin, but liquidity is thinner. The Shanghai-Hong Kong and Shenzhen-Hong Kong Stock Connect programs have caps on foreign ownership and daily trading limits. Smaller companies in the CSI 500 are more sensitive to these constraints; some days the Connect mechanism can fill up before certain stocks trade, creating gridlock. The fund tracks these developments and adjusts its replication method—sometimes holding A-shares directly, sometimes using derivatives—to stay as close to the index as possible. [Bid-ask spreads](/bid-ask-spread/) on ASHR tend to be tighter, but ASHS can experience wider spreads, especially during volatile periods when foreign investor appetite for Chinese small-caps wavers.
 
 ## Cost structure and the trade-off with smaller size
 
-ASHS carries a higher net expense ratio than the CSI 300-tracking ASHR. Smaller companies are harder to trade, less transparent, and require more active monitoring, so the operational burden falls to the fund. Dollar-for-dollar, you pay more to hold small-cap Chinese exposure. Daily volume on NASDAQ is adequate for most investors, but during market stress—when foreign investors flee Chinese assets—spreads can widen and liquidity can evaporate faster than in larger, more popular ETFs.
+ASHS carries a higher net [expense ratio](/expense-ratio/) than the CSI 300-tracking ASHR. Smaller companies are harder to trade, less transparent, and require more active monitoring, so the operational burden falls to the fund. Dollar-for-dollar, you pay more to hold small-cap Chinese exposure. Daily volume on NASDAQ is adequate for most investors, but during market stress—when foreign investors flee Chinese assets—spreads can widen and liquidity can evaporate faster than in larger, more popular ETFs.
 
 ## The attractiveness and the pitfalls
 
@@ -31,7 +31,7 @@ Small-cap Chinese companies are where growth often hides. A rising consumer bran
 
 ## Regulatory and political backdrop
 
-Small-cap stocks are more sensitive to shifts in Chinese monetary policy, credit conditions, and industrial policy. A crackdown on certain sectors—education, tech, property—hits smaller players harder because they have less pricing power and less cash to weather disruption. Foreign-access restrictions, quota tightening, or temporary suspensions of the Connect mechanisms can trap foreign investors. The regulatory risk is not theoretical; it has materialized before.
+Small-cap stocks are more sensitive to shifts in Chinese [monetary policy](/monetary-policy/), credit conditions, and industrial policy. A crackdown on certain sectors—education, tech, property—hits smaller players harder because they have less pricing power and less cash to weather disruption. Foreign-access restrictions, quota tightening, or temporary suspensions of the Connect mechanisms can trap foreign investors. The regulatory risk is not theoretical; it has materialized before.
 
 ## Currency and structural drift
 
@@ -39,4 +39,4 @@ The yuan matters here too. Smaller companies often earn most revenue domesticall
 
 ## How to stay informed
 
-Read the fund prospectus and track the CSI 500 Index composition changes. Monitor news about China's credit conditions, sectoral policy, and foreign-access rules. Compare the fund's returns to its benchmark, adjusting for currency and fees; significant tracking error suggests either higher trading costs or regulatory obstacles to replication. Watch foreign investor flows in and out of Chinese A-shares; periods of heavy outflows often precede liquidity crises or forced exits. And maintain a thesis: small-cap exposure to a second-tier Chinese business is a bet on growth and mispricing, not a stable income play. It requires conviction and tolerance for volatility.
+Read the [fund prospectus](/fund-prospectus/) and track the CSI 500 Index composition changes. Monitor news about China's credit conditions, sectoral policy, and foreign-access rules. Compare the fund's returns to its benchmark, adjusting for currency and fees; significant tracking error suggests either higher trading costs or regulatory obstacles to replication. Watch foreign investor flows in and out of Chinese A-shares; periods of heavy outflows often precede liquidity crises or forced exits. And maintain a thesis: small-cap exposure to a second-tier Chinese business is a bet on growth and mispricing, not a stable income play. It requires conviction and tolerance for volatility.

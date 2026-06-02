@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Union Electric Co (ticker UEP on NYSE; UEPEN in some financial data systems) is a regulated electric utility that has served the St. Louis region and Missouri for over a century. It operates as a subsidiary of the larger Ameren corporation but retains its historical identity and regulatory structure. The company generates, transmits, and distributes electricity to roughly two million people across 24,000 square miles of Missouri, with deep roots in the industrial and commercial heartland of the American Midwest.
+[Union Electric](/uelmo-stock/) Co (ticker UEP on NYSE; UEPEN in some financial data systems) is a regulated electric utility that has served the St. Louis region and Missouri for over a century. It operates as a subsidiary of the larger Ameren corporation but retains its historical identity and regulatory structure. The company generates, transmits, and distributes electricity to roughly two million people across 24,000 square miles of Missouri, with deep roots in the industrial and commercial heartland of the American Midwest.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,7 +34,7 @@ For much of the 20th century, the company's generation mix reflected the era's d
 
 For roughly seventy years, Union Electric's generation mix was heavily coal-dependent. The company operated large coal-fired plants like the Labadie Generating Station, which opened in 1973 and became a regional fixture. Coal was cheap, abundant in the region, and the natural choice for a utility needing reliable baseload power to serve a stable, predictable customer base.
 
-The energy landscape began shifting in the 1990s and 2000s. Increasing pressure around emissions, aging coal plants, and the push for cleaner energy sources forced utilities like Union Electric to diversify. The company also operates nuclear capacity — the Callaway Plant, a single-reactor facility it owns jointly with other utilities, provides zero-carbon baseload generation. More recent additions have included natural gas peaking plants and a growing amount of wind and solar capacity, reflecting the broader energy transition affecting every utility in America.
+The energy landscape began shifting in the 1990s and 2000s. Increasing pressure around emissions, aging coal plants, and the push for cleaner energy sources forced utilities like Union Electric to diversify. The company also operates nuclear capacity — the Callaway Plant, a single-reactor facility it owns jointly with other utilities, provides zero-carbon baseload generation. More recent additions have included [natural gas](/natural-gas/) peaking plants and a growing amount of wind and solar capacity, reflecting the broader energy transition affecting every utility in America.
 
 ## The regulated utility business model
 
@@ -56,6 +56,6 @@ Regulatory risk is also persistent. As states push harder on decarbonization tar
 
 Union Electric's parent company, Ameren, files a Form 10-K with the SEC (CIK 0001002697) that covers the whole group, but Union Electric's financial performance and regulatory decisions are material to the consolidated company. Anyone interested in the utility should start with Ameren's latest 10-K to understand the company's generation mix, outstanding debt (utilities carry significant debt to finance infrastructure), capital spending plans, and the status of pending rate cases before the Public Service Commission.
 
-Key things to watch are the outcomes of rate cases — when the utility requests a rate increase or files for a change in the regulatory framework, the PSC decision directly affects earnings. The trajectory of the coal-to-renewables transition, including any announcements about plant retirements or new generation projects, signals how much capital will flow to the business over the next decade. Utilities also pay steady dividends, so dividend growth or changes in payout ratios offer insight into management's confidence in future cash flows.
+Key things to watch are the outcomes of rate cases — when the utility requests a rate increase or files for a change in the regulatory framework, the PSC decision directly affects earnings. The trajectory of the coal-to-renewables transition, including any announcements about plant retirements or new generation projects, signals how much capital will flow to the business over the next decade. Utilities also pay steady [dividends](/dividend/), so dividend growth or changes in [payout ratios](/payout-ratio/) offer insight into management's confidence in future cash flows.
 
 The regulated utility business is often viewed as offering lower but more stable returns than competitive industries, and investors typically look to utilities for income (from dividends) rather than growth. Union Electric's historical strength — a long-established regional operator with stable demand and a mature customer base — remains true, though the energy transition is making "stability" less certain than it was fifty years ago.

@@ -51,7 +51,7 @@ After the 2008 crisis, banking regulations were expanded to require banks to mai
 
 For a community bank like First Busey, these requirements are less burdensome than they are for large systemically important banks, but they still require ongoing monitoring and reporting. The bank must calculate its liquidity coverage on a quarterly basis, identify potential funding shortfalls, and ensure that it can meet withdrawal demand and fund operations for a specified stress period.
 
-Additionally, larger banks are subject to annual stress tests—exercises where regulators model how the bank would perform under hypothetical adverse economic scenarios (recession, market crash, etc.). The results inform capital requirements and restrictions on [dividends](/dividend/) or [share buybacks](/share-buyback/). While First Busey, as a smaller bank, may not be subject to full-scale [stress testing](/stress-testing/), it is required to conduct self-assessments and be prepared to demonstrate its resilience to regulators.
+Additionally, larger banks are subject to annual stress tests—exercises where regulators model how the bank would perform under hypothetical adverse economic scenarios ([recession](/recession/), market crash, etc.). The results inform capital requirements and restrictions on [dividends](/dividend/) or [share buybacks](/share-buyback/). While First Busey, as a smaller bank, may not be subject to full-scale [stress testing](/stress-testing/), it is required to conduct self-assessments and be prepared to demonstrate its resilience to regulators.
 
 ## Anti-Money Laundering and Know-Your-Customer
 
@@ -61,7 +61,7 @@ The bank must collect identifying information from customers (Know-Your-Customer
 
 ## Community Reinvestment and Fair Lending
 
-As noted above, the Community Reinvestment Act requires First Busey to serve the credit needs of its entire community, including low-to-moderate income neighborhoods. Regulators assess the bank's CRA performance as part of examinations and use it as a factor in evaluating applications for mergers, acquisitions, or new branch openings.
+As noted above, the Community Reinvestment Act requires First Busey to serve the credit needs of its entire community, including low-to-moderate income neighborhoods. Regulators assess the bank's CRA performance as part of examinations and use it as a factor in evaluating applications for [mergers](/merger/), acquisitions, or new branch openings.
 
 Fair lending rules prohibit discrimination in lending based on race, color, religion, national origin, sex, marital status, age (with certain exceptions), or receipt of public assistance. First Busey must monitor its lending patterns for statistical evidence of disparate treatment, investigate any disparities, and document its efforts to ensure fair lending. If the bank is found to have engaged in fair lending violations, it faces enforcement action and orders to remediate harmed borrowers.
 

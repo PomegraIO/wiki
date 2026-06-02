@@ -33,7 +33,7 @@ The bank is rooted in Minnesota, which shapes everything about it. The state has
 
 Redwood's success depends on maintaining deposits and making good loans in Minnesota and the surrounding Upper Midwest region. In this geography, the bank competes against other regional and community banks, and increasingly against national banks and online-only banks that have begun to erode the deposit franchises of local institutions. The advantage Redwood has is presence: branches, employees with roots in the community, and a reputation for understanding local business and agriculture.
 
-The disadvantage is scale and cost. A [national bank](/nbhc-stock/) can invest heavily in technology and marketing because that cost is spread across millions of customers; a regional bank like Redwood cannot. The bank must therefore compete on service, relationship, and local understanding, not on technology or price. This is sustainable so long as customers value those things, but the trend in banking is away from branch-based relationships and toward digital convenience, which favors large national and online competitors.
+The disadvantage is scale and cost. A national bank can invest heavily in technology and marketing because that cost is spread across millions of customers; a regional bank like Redwood cannot. The bank must therefore compete on service, relationship, and local understanding, not on technology or price. This is sustainable so long as customers value those things, but the trend in banking is away from branch-based relationships and toward digital convenience, which favors large national and online competitors.
 
 ## What does the bank lend money on, and where are the risks?
 

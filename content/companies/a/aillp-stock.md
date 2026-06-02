@@ -13,11 +13,11 @@ handwritten: true
 
 ## What does Ameren Illinois actually do?
 
-Ameren Illinois Co generates, transmits, and distributes electricity and natural gas to millions of customers across central and southern Illinois. It is not a competitive business; the company holds a monopoly on energy delivery within its service territory, granted and enforced by the Illinois Commerce Commission. This means Ameren Illinois does not have to worry about competitors undercutting its prices or stealing its customers. In exchange, it accepts heavy regulation of how much it can charge and how it must operate.
+[Ameren Illinois](/ailih-stock/) Co generates, transmits, and distributes electricity and [natural gas](/natural-gas/) to millions of customers across central and southern Illinois. It is not a competitive business; the company holds a monopoly on energy delivery within its service territory, granted and enforced by the Illinois Commerce Commission. This means Ameren Illinois does not have to worry about competitors undercutting its prices or stealing its customers. In exchange, it accepts heavy regulation of how much it can charge and how it must operate.
 
 ## How does a regulated utility make money?
 
-Ameren Illinois earns a steady, approved rate of return on the capital it invests in infrastructure. The process begins with a rate case filed with the Illinois Commerce Commission, in which the company details its costs—fuel, labor, depreciation on equipment, interest on debt—and requests rates that allow it to cover those costs plus a reasonable profit. The commission (after hearings where consumer groups and staff argue for lower rates) approves a rate that typically produces a specific return on equity.
+Ameren Illinois earns a steady, approved rate of return on the capital it invests in infrastructure. The process begins with a rate case filed with the Illinois Commerce Commission, in which the company details its costs—fuel, labor, [depreciation](/depreciation/) on equipment, interest on debt—and requests rates that allow it to cover those costs plus a reasonable profit. The commission (after hearings where consumer groups and staff argue for lower rates) approves a rate that typically produces a specific [return on equity](/return-on-equity/).
 
 This model is fundamentally different from a competitive business. There is no incentive to cut costs aggressively beyond what regulators allow—doing so just means giving away profit. The incentive instead is to invest in the asset base, because the regulated return applies to the capital deployed. A utility grows by building more infrastructure and having those investments approved and recovered in customer rates.
 
@@ -43,7 +43,7 @@ The company also faces pressure to decarbonize its generation—retiring coal pl
 
 The typical customer is a homeowner or small business with no alternative. They receive a bill each month and have no ability to switch utilities. Ameren Illinois serves the customer through a service monopoly, and the relationship is transactional: the utility delivers energy and the customer pays.
 
-Large industrial customers have more leverage. Some have negotiated directly with the commission or threatened to invest in self-generation. But for the vast majority—residential and small commercial customers—Ameren Illinois is the only option. Customer acquisition cost is zero; the utility retains customers simply by operating the grid reliably.
+Large industrial customers have more leverage. Some have negotiated directly with the commission or threatened to invest in self-generation. But for the vast majority—residential and small commercial customers—Ameren Illinois is the only option. Customer [acquisition](/acquisition/) cost is zero; the utility retains customers simply by operating the grid reliably.
 
 ## What pressures does Ameren Illinois face?
 

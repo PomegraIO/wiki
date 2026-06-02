@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Dermata Therapeutics is a clinical-stage biopharmaceutical company focused on developing treatments for dermatological and skin-related disorders. The company does not yet have approved products on the market; instead, it owns a pipeline of compounds and therapies in various stages of preclinical and early clinical development.
+[Dermata Therapeutics](/drma-stock/) is a clinical-stage biopharmaceutical company focused on developing treatments for dermatological and skin-related disorders. The company does not yet have approved products on the market; instead, it owns a pipeline of compounds and therapies in various stages of preclinical and early clinical development.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ Dermata Therapeutics is a clinical-stage biopharmaceutical company focused on de
 
 Dermata operates under the standard model for early-stage pharmaceutical development: it owns intellectual property on novel compounds or technologies, runs preclinical and clinical trials to demonstrate safety and efficacy, and aims eventually to develop a candidate through regulatory approval with the U.S. Food and Drug Administration or another regulator. Until that point, the company generates no product revenue. Instead, it sustains itself through venture capital investment, grants, partnerships, or strategic investors who believe in the science and the potential market.
 
-The warrant ticker (DRMAW) indicates this is a warrant — a security that gives the holder the right to buy shares of the company's common stock at a set price. Warrants are common in biotech financing, often issued alongside traditional equity in private funding rounds or as part of a public offering to sweeten the deal for investors. They carry no claim on assets or earnings (until exercised), so they are more volatile and speculative than the underlying stock.
+The warrant ticker (DRMAW) indicates this is a warrant — a security that gives the holder the right to buy shares of the company's [common stock](/common-stock/) at a set price. Warrants are common in biotech financing, often issued alongside traditional equity in private funding rounds or as part of a public offering to sweeten the deal for investors. They carry no claim on assets or earnings (until exercised), so they are more volatile and speculative than the underlying stock.
 
 ## Dermatology as a focus area
 
@@ -38,7 +38,7 @@ Dermatological conditions are also often well-suited to smaller companies becaus
 
 ## Development stage and funding dynamics
 
-As an early-stage company, Dermata is focused on advancing its pipeline candidates through preclinical work, toxicology studies, and early clinical trials (Phase 1 and Phase 2). Success at any of these stages is uncertain; most drug candidates do not make it to regulatory approval. The company's near-term survival and progress depend on continued funding, either through equity raises, debt, partnerships, or a merger or acquisition.
+As an early-stage company, Dermata is focused on advancing its pipeline candidates through preclinical work, toxicology studies, and early clinical trials (Phase 1 and Phase 2). Success at any of these stages is uncertain; most drug candidates do not make it to regulatory approval. The company's near-term survival and progress depend on continued funding, either through equity raises, debt, partnerships, or a [merger](/merger/) or [acquisition](/acquisition/).
 
 The clinical biotech model is heavily capital-intensive and time-consuming. Advancing a single candidate from the lab to FDA approval typically takes 5–10 years and costs tens to hundreds of millions of dollars. Dermata, like most clinical-stage companies, is not cash-flow positive and burns cash as it conducts research and trials. Investors are betting that at least one of the company's candidates will prove safe and effective, earn regulatory approval, and become a commercial success.
 

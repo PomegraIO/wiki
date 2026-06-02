@@ -58,7 +58,7 @@ The dividend also signals confidence. A rising dividend, sustained over years, i
 
 ## Leverage and Financial Risk
 
-Bank holding companies carry moderate leverage through [corporate debt](/corporate-bond/). A typical [leverage ratio](/leverage-ratio-forex/) might be 8–10 times equity (holding-company debt plus subsidiary debt divided by equity). This is high compared to industrial companies but moderate for [financial institutions](/fisi-stock/). The leverage is sustainable because the subsidiary banks' deposits are stable and funded at reasonable rates, allowing consistent cash generation to service debt.
+Bank holding companies carry moderate leverage through [corporate debt](/corporate-bond/). A typical [leverage ratio](/leverage-ratio-forex/) might be 8–10 times equity (holding-company debt plus subsidiary debt divided by equity). This is high compared to industrial companies but moderate for financial institutions. The leverage is sustainable because the subsidiary banks' deposits are stable and funded at reasonable rates, allowing consistent cash generation to service debt.
 
 However, leverage creates risk during downturns. If loan losses spike and subsidiary capital declines, the holding company's debt service may become onerous. In severe crises (like 2008), holding companies with high leverage faced stress or insolvency if subsidiaries' assets deteriorated sharply. Regulatory capital ratios exist to prevent this [tail risk](/tail-risk/), but they do not eliminate leverage risk entirely.
 

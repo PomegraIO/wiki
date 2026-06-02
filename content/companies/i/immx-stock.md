@@ -49,7 +49,7 @@ This uncertainty makes early-stage biotech a venture proposition. Investors are 
 
 ## Competitive Landscape
 
-Oncology and metabolic disease are dominated by large pharma (Roche, [Novartis](/nvs-stock/), Merck, [Bristol Myers Squibb](/bmy-stock/)) and successful biotech specialists (Agios, Incyte, Blueprint Medicines). These competitors have scale, approved drugs generating cash for further development, and the ability to acquire promising biotech firms like Immix if progress is good. Immix competes for talent, for clinical trial patient recruitment, and for regulatory attention. Its advantage is agility: a small team can move faster than a large corporation and can focus exclusively on a few targets.
+Oncology and metabolic disease are dominated by large pharma (Roche, [Novartis](/nvs-stock/), [Merck](/mrk-stock/), [Bristol Myers Squibb](/bmy-stock/)) and successful biotech specialists (Agios, Incyte, Blueprint Medicines). These competitors have scale, approved drugs generating cash for further development, and the ability to acquire promising biotech firms like Immix if progress is good. Immix competes for talent, for clinical trial patient recruitment, and for regulatory attention. Its advantage is agility: a small team can move faster than a large corporation and can focus exclusively on a few targets.
 
 The path to exit is typically [acquisition](/acquisition/): once Immix advances a compound to Phase II with encouraging data, a larger pharma partner may license or acquire the program or the entire company. Some biotech firms successfully commercialize their own drugs, but that requires capital and expertise Immix does not yet possess.
 

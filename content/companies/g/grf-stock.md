@@ -40,7 +40,7 @@ Eagle Capital Growth Fund invests primarily in large-cap growth companies across
 
 The benchmark is the S&P 500, a broad market index of large U.S. public companies. Meeting the benchmark is the minimal expectation. Beating it requires the manager to pick better-quality companies than the index, or to time [sector rotations](/sector-rotation/), or to find overlooked opportunities. Outperformance is difficult to achieve consistently, especially for a large fund.
 
-The fund's long-term mandate — growth over years, not months — gives the manager some freedom to hold positions through market cycles and to avoid short-term performance chasing. But it also means the fund is neither a bond substitute (it fluctuates with equity markets) nor an aggressive growth vehicle (it is diversified rather than concentrated). It occupies the middle ground of a conventional growth equity portfolio.
+The fund's long-term mandate — growth over years, not months — gives the manager some freedom to hold positions through market cycles and to avoid short-term performance chasing. But it also means the fund is neither a [bond](/bond/) substitute (it fluctuates with equity markets) nor an aggressive growth vehicle (it is diversified rather than concentrated). It occupies the middle ground of a conventional growth equity portfolio.
 
 ## Where the risk lives
 
@@ -66,6 +66,6 @@ The relevant questions for any shareholder in GRF are straightforward. Has the f
 
 Start with the fund's official reports and SEC filings (CIK 0000850027). [Annual reports](/10-k/) detail holdings, performance, and fees. Watch how the fund's price trades relative to NAV over time; a fund that trades at a persistent discount is a cheaper way to buy the underlying portfolio, which is attractive. But it also signals that investors view the manager or the portfolio as mediocre, which is a caution.
 
-Monitor fund flows and any changes in distribution policy or fee structure. If the fund is raising its fees or cutting the dividend, that is a signal of stress. Compare the fund's return to the S&P 500 and to comparable growth-equity ETFs; if the fund is persistently underperforming, the cost-benefit analysis shifts against continued ownership.
+Monitor fund flows and any changes in distribution policy or fee structure. If the fund is raising its fees or cutting the [dividend](/dividend/), that is a signal of stress. Compare the fund's return to the S&P 500 and to comparable growth-equity ETFs; if the fund is persistently underperforming, the cost-benefit analysis shifts against continued ownership.
 
 For investors who want exposure to diversified U.S. equity growth and prefer active management or a closed-end structure, GRF is one option among many. But the default question is always: can this fund justify itself against passive alternatives?

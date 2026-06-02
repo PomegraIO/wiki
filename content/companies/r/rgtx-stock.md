@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-*The Defiance Daily Target 2X Long RGTI ETF (RGTX) seeks to deliver twice the daily percentage move of Rigetti Computing Inc. stock, using derivatives to amplify exposure — a specialized instrument designed for day traders managing positions actively, carrying substantial risks including volatility decay that erodes returns over multi-day periods.*
+*The Defiance Daily Target 2X Long RGTI ETF (RGTX) seeks to deliver twice the daily percentage move of [Rigetti Computing](/rgti-stock/) Inc. stock, using derivatives to amplify exposure — a specialized instrument designed for day traders managing positions actively, carrying substantial risks including volatility decay that erodes returns over multi-day periods.*
 
 ## What RGTX tracks and how it works
 
-RGTX is a leveraged ETF that targets a single operating company: Rigetti Computing, a specialist in quantum computing hardware and software. The fund holds no shares of Rigetti itself; instead it uses financial derivatives — primarily swaps and options — to create a portfolio that moves roughly two times as fast as the stock does on any single trading day.
+RGTX is a [leveraged ETF](/leveraged-etf/) that targets a single operating company: Rigetti Computing, a specialist in quantum computing hardware and software. The fund holds no shares of Rigetti itself; instead it uses financial derivatives — primarily swaps and options — to create a portfolio that moves roughly two times as fast as the stock does on any single trading day.
 
 This is mechanically different from simply holding Rigetti shares on margin. A leveraged ETF uses derivatives contracts that are reset daily, meaning the fund recalculates its position to maintain precisely 2x exposure at the close of each trading day. That daily reset is critical to understanding both the fund's utility and its danger.
 
@@ -33,7 +33,7 @@ The fund is also not appropriate for investors who do not actively monitor their
 
 ## Sponsor, costs, and how to research
 
-RGTX is launched and managed by Tidal Investments, which operates under the Defiance brand. The fund is a standard ETF structure, traded on the NASDAQ stock exchange with ordinary bid-ask spreads typical of actively traded leveraged products. The expense ratio is a secondary concern compared to the daily decay dynamics; any fee, however modest, adds to the erosion.
+RGTX is launched and managed by Tidal Investments, which operates under the Defiance brand. The fund is a standard ETF structure, traded on the [NASDAQ](/nasdaq/) [stock exchange](/stock-exchange/) with ordinary [bid-ask spreads](/bid-ask-spread/) typical of actively traded leveraged products. The [expense ratio](/expense-ratio/) is a secondary concern compared to the daily decay dynamics; any fee, however modest, adds to the erosion.
 
 Investors researching this fund should begin with its prospectus and fact sheet from Defiance or through any major brokerage platform, focusing specifically on the daily reset and volatility decay sections. Understanding that RGTX seeks daily returns—not cumulative returns over longer periods—is foundational. Watch Rigetti's realized volatility: the higher the stock moves day to day, the sharper the decay effect.
 

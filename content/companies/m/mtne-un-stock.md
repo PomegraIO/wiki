@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-CH4 Natural Solutions Corp operates in the converging space between waste management and renewable energy, capturing methane emissions from landfills and agricultural feedstock that would otherwise escape to the atmosphere or burn as flare. The company is rooted in a founder-driven vision of finding economic value in waste, turning a liability into a tradable commodity while reducing greenhouse gas emissions. Trading on the Toronto Venture Exchange under the ticker MTNE-UN, it represents a small but operationally focused player in North America's emerging renewable natural gas sector.
+[CH4 Natural Solutions](/mtne-stock/) Corp operates in the converging space between waste management and renewable energy, capturing methane emissions from landfills and agricultural feedstock that would otherwise escape to the atmosphere or burn as flare. The company is rooted in a founder-driven vision of finding economic value in waste, turning a liability into a tradable commodity while reducing greenhouse gas emissions. Trading on the Toronto Venture Exchange under the ticker MTNE-UN, it represents a small but operationally focused player in North America's emerging renewable [natural gas](/natural-gas/) sector.
 
 <aside class="wiki-infobox">
 <table>

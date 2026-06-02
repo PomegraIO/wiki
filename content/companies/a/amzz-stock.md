@@ -20,11 +20,11 @@ AMZZ resets its leverage daily at the market close. If Amazon is up 2% during th
 
 Consider a concrete scenario. Amazon rises 20% over a month but does so in a choppy path: up 5%, down 1%, up 8%, down 2%, up 10%. AMZZ will aim for 10%, down 2%, up 16%, down 4%, and up 20% on those same days, for a total of roughly 40%. But because of the daily resets on each small move, the actual compounded return will be slightly less than 40% — perhaps 38% or 37%, depending on the exact volatility. The fund has lost performance to the daily rebalancing friction. If Amazon went straight up 20% in a single move, AMZZ would deliver almost exactly 40%. But real markets are bumpy, and that bumpiness costs leverage-fund holders.
 
-The expense ratio and the swap structure are not free either. GraniteShares charges a fee, and the swap counterparties take their cut. These costs are embedded in the fund's net asset value.
+The [expense ratio](/expense-ratio/) and the swap structure are not free either. GraniteShares charges a fee, and the swap counterparties take their cut. These costs are embedded in the fund's [net asset value](/net-asset-value/).
 
 ## Swap-based versus option-based leverage
 
-GraniteShares uses swaps rather than buying calls or holding short-dated options. This approach has advantages and disadvantages. Swaps can be cheaper and more predictable to roll than constantly buying and selling options. But they introduce counterparty risk — if the swap provider (usually a major investment bank) faces financial stress, the fund could be affected. That said, these counterparties are typically extremely creditworthy, so the risk is real but small in normal times.
+GraniteShares uses swaps rather than buying calls or holding short-dated options. This approach has advantages and disadvantages. Swaps can be cheaper and more predictable to roll than constantly buying and selling options. But they introduce [counterparty risk](/counterparty-risk/) — if the swap provider (usually a major investment bank) faces financial stress, the fund could be affected. That said, these counterparties are typically extremely creditworthy, so the risk is real but small in normal times.
 
 ## Who owns it and why
 

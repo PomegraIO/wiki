@@ -10,13 +10,13 @@ keywords:
 handwritten: true
 ---
 
-Avantis International Equity ETF (ticker AVDE) is a passively managed fund that tracks a custom index of developed-market stocks outside the United States. It aims to deliver broad international equity exposure while tilting systematically toward companies with higher valuations ratios and quality metrics — what the fund sponsor calls a value-and-quality overlay on traditional market-cap weighting.
+Avantis International [Equity ETF](/equity-etf/) (ticker AVDE) is a [passively managed fund](/passively-managed-fund/) that tracks a custom index of developed-market stocks outside the United States. It aims to deliver broad international equity exposure while tilting systematically toward companies with higher valuations ratios and quality metrics — what the fund sponsor calls a value-and-quality overlay on traditional market-cap weighting.
 
 ## What the fund holds and how it constructs the portfolio
 
 AVDE holds large and mid-cap stocks across developed economies outside North America: Europe (Germany, France, the United Kingdom, Switzerland), the Asia-Pacific region (Japan, Australia), and smaller developed-market economies. The fund is sponsored by American Century Investments, which creates and manages the underlying index methodology.
 
-The fund's stock selection departs from simple market-cap weighting in two ways. First, it ranks all eligible companies on valuation metrics (price-to-book, price-to-earnings) and quality signals (profitability, balance-sheet strength, earnings stability) and applies a systematic tilt toward stocks that score well on both. Second, it applies diversification limits to ensure no single country or sector dominates the portfolio, which moderates concentration and keeps the fund broad.
+The fund's stock selection departs from simple market-cap weighting in two ways. First, it ranks all eligible companies on valuation metrics (price-to-book, price-to-earnings) and quality signals (profitability, balance-sheet strength, earnings stability) and applies a systematic tilt toward stocks that score well on both. Second, it applies [diversification](/diversification/) limits to ensure no single country or sector dominates the portfolio, which moderates concentration and keeps the fund broad.
 
 The result is a portfolio of several hundred stocks, with the largest holdings typically representing 1–2% of assets. Turnover is low because the methodology changes gradually from year to year; the fund rebalances quarterly.
 
@@ -24,11 +24,11 @@ The result is a portfolio of several hundred stocks, with the largest holdings t
 
 AVDE sits between two extremes. It is not a pure market-cap-weighted international fund, which would simply track the developed-market portion of the world by size. Nor is it an aggressive value or quality fund that heavily concentrates in stocks meeting tight criteria. Instead, it is a broad-based, diversified fund that systematically favors value and quality traits while maintaining substantial exposure across the geography and sectors that make up developed markets outside the US.
 
-This makes AVDE suited to investors who believe value and quality factors have been undervalued in recent decades and who want to express that bet within a core international holding rather than carve out a dedicated value sleeve. The fund carries no leverage, no inverse mechanics, and no currency hedging — it reflects the unhedged dollar-denominated returns of the stocks it holds.
+This makes AVDE suited to investors who believe value and quality factors have been undervalued in recent decades and who want to express that bet within a core international holding rather than carve out a dedicated value sleeve. The fund carries no leverage, no inverse mechanics, and no [currency hedging](/currency-hedging/) — it reflects the unhedged dollar-denominated returns of the stocks it holds.
 
 ## Costs, trading, and liquidity
 
-The expense ratio is modest for an actively managed index overlay. The fund trades on major US stock exchanges with tight bid-ask spreads typical of large equity ETFs, so trading costs for entry and exit are low for typical investor-sized trades.
+The [expense ratio](/expense-ratio/) is modest for an actively managed index overlay. The fund trades on major US [stock exchanges](/stock-exchange/) with tight [bid-ask spreads](/bid-ask-spread/) typical of large equity ETFs, so trading costs for entry and exit are low for typical investor-sized trades.
 
 Liquidity is abundant; AVDE is a flagship product with billions of assets under management. Execution risk on large trades is minimal.
 
@@ -36,7 +36,7 @@ Liquidity is abundant; AVDE is a flagship product with billions of assets under 
 
 The fund's systematic tilt toward value and quality can underperform in market environments where growth stocks dominate, a pattern that has been pronounced since the mid-2010s. Because the tilt is systematic and rule-based, it does not adapt tactically when the factor is out of favor.
 
-Foreign-exchange risk is material. AVDE is not currency-hedged, so a strengthening US dollar reduces the reported returns of foreign stock holdings. This is a feature, not a bug — the fund intends to give investors genuine exposure to foreign-currency movements — but it adds volatility to a US-based investor's returns beyond the price movements of the stocks themselves.
+Foreign-exchange risk is material. AVDE is not currency-hedged, so a strengthening [US dollar](/us-dollar/) reduces the reported returns of foreign stock holdings. This is a feature, not a bug — the fund intends to give investors genuine exposure to foreign-currency movements — but it adds volatility to a US-based investor's returns beyond the price movements of the stocks themselves.
 
 Concentration in developed-market economies means limited exposure to emerging markets, which have sometimes outperformed during commodity booms or growth inflections.
 

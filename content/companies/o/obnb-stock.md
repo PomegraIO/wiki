@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Osprey BNB Chain Trust is a closed-end fund structured to hold BNB tokens, the native cryptocurrency of the BNB Chain (formerly Binance Smart Chain). It offers investors exposure to BNB through a traditional brokerage account rather than direct cryptocurrency ownership.
+Osprey BNB Chain Trust is a [closed-end fund](/closed-end-fund/) structured to hold BNB tokens, the native cryptocurrency of the BNB Chain (formerly Binance Smart Chain). It offers investors exposure to BNB through a traditional brokerage account rather than direct cryptocurrency ownership.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,11 +26,11 @@ Osprey BNB Chain Trust is a closed-end fund structured to hold BNB tokens, the n
 
 ## The trust structure and its appeal
 
-Osprey BNB Chain Trust holds actual BNB tokens in the same way a vault holds gold. As a closed-end fund, it issues a fixed number of shares that trade on secondary markets; the price of the shares can diverge from the underlying token value, trading at a premium when demand is strong or a discount when it is weak. The trust structure eliminates the need for investors to manage crypto exchange accounts, hardware wallets, or custody of private keys. Instead, the trust holder manages custody on behalf of shareholders and the shares trade in standard brokerage accounts.
+Osprey BNB Chain Trust holds actual BNB tokens in the same way a vault holds gold. As a closed-end fund, it issues a fixed number of shares that trade on [secondary markets](/secondary-market/); the price of the shares can diverge from the underlying token value, trading at a premium when demand is strong or a discount when it is weak. The trust structure eliminates the need for investors to manage crypto exchange accounts, hardware wallets, or custody of private keys. Instead, the trust holder manages custody on behalf of shareholders and the shares trade in standard brokerage accounts.
 
 ## BNB and the BNB Chain ecosystem
 
-BNB Chain is a blockchain network launched by Binance, the world's largest cryptocurrency exchange by trading volume. The network was designed as an alternative to Ethereum, offering faster transaction settlement and lower fees to attract developers and users away from the Ethereum network. BNB is the network's native token, used to pay transaction fees, participate in governance, and stake to secure the network.
+BNB Chain is a blockchain network launched by Binance, the world's largest [cryptocurrency exchange](/cryptocurrency-exchange/) by trading volume. The network was designed as an alternative to [Ethereum](/ethereum/), offering faster transaction settlement and lower fees to attract developers and users away from the Ethereum network. BNB is the network's native token, used to pay transaction fees, participate in governance, and stake to secure the network.
 
 The BNB token itself has multiple utility roles. On the BNB Chain, it is the currency for transaction fees and smart-contract interactions. On the Binance exchange, it provides discounts on trading fees and is used in various exchange features. Beyond the exchange and its blockchain, BNB is also listed on other cryptocurrency markets and appears in a growing number of decentralized finance protocols.
 
@@ -42,7 +42,7 @@ BNB Chain's advantage is its connection to Binance's trading platform and its en
 
 ## Fee and return dynamics
 
-The trust charges a management fee to cover custody and operational costs. Returns come entirely from BNB token price appreciation; the trust generates no income stream. Like other closed-end funds, OBNB shares can trade above or below the value of the underlying tokens, introducing a premium or discount that is separate from the token's own volatility.
+The trust charges a [management fee](/management-fee/) to cover custody and operational costs. Returns come entirely from BNB token price appreciation; the trust generates no income stream. Like other closed-end funds, OBNB shares can trade above or below the value of the underlying tokens, introducing a premium or discount that is separate from the token's own volatility.
 
 ## Risks specific to BNB and the chain
 

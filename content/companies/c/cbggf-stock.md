@@ -4,7 +4,7 @@ description: "A special-purpose acquisition company formed to identify and combi
 keywords: ["SPAC", "acquisition", "merger", "shell-company", "blank-check"]
 ---
 
-*A **Chain Bridge I (CBGGF)** is another special-purpose-acquisition-company — a legal entity that exists to raise capital from investors and then search for a private business to acquire and take public. Like all SPACs, it is essentially a holding company waiting to merge. Its sponsors have raised money and face a deadline to find a target or return the cash to investors.*
+*A **[Chain Bridge I](/cbrrf-stock/) (CBGGF)** is another special-purpose-acquisition-company — a legal entity that exists to raise capital from investors and then search for a private business to acquire and take public. Like all SPACs, it is essentially a holding company waiting to merge. Its sponsors have raised money and face a deadline to find a target or return the cash to investors.*
 
 <aside class="wiki-infobox">
 <table>

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Direxion Daily MSFT Bull 2X ETF, trading under the ticker MSFU, is a leveraged exchange-traded fund designed to move twice as much as Microsoft stock on a daily basis. If Microsoft rises 1 percent in a single day, MSFU aims to rise 2 percent; if Microsoft falls 1 percent, MSFU aims to fall 2 percent. This amplification is mechanical and reset every trading day, making it a tool for investors seeking concentrated short-term exposure to MSFT price movements rather than a buy-and-hold instrument.
+Direxion Daily MSFT Bull 2X ETF, trading under the ticker MSFU, is a leveraged exchange-traded fund designed to move twice as much as [Microsoft](/msft-stock/) stock on a daily basis. If Microsoft rises 1 percent in a single day, MSFU aims to rise 2 percent; if Microsoft falls 1 percent, MSFU aims to fall 2 percent. This amplification is mechanical and reset every trading day, making it a tool for investors seeking concentrated short-term exposure to MSFT price movements rather than a buy-and-hold instrument.
 
 <aside class="wiki-infobox">
 
@@ -36,13 +36,13 @@ The mechanism is straightforward on flat trading days or in short time windows. 
 
 ## Who MSFU is for and what it is not
 
-MSFU is built for traders working in a short time frame — hours, days, maybe a few weeks — who believe Microsoft will move sharply upward and want to magnify that directional view. It offers liquidity (tradeable during all regular market hours), tight bid-ask spreads, and tax-wrapper simplicity compared to managing margin or derivatives yourself.
+MSFU is built for traders working in a short time frame — hours, days, maybe a few weeks — who believe Microsoft will move sharply upward and want to magnify that directional view. It offers liquidity (tradeable during all regular market hours), tight [bid-ask spreads](/bid-ask-spread/), and tax-wrapper simplicity compared to managing margin or derivatives yourself.
 
 MSFU is emphatically not for buy-and-hold investors. Holding it for months or years while volatility decays away returns will almost always produce a result worse than buying and holding Microsoft directly, or dividing your capital two ways if you wanted 2x exposure through some other means. The fund's mechanical brilliance — daily reset precision — becomes a liability over time. A long-term holder who believes in Microsoft should buy MSFT through a diversified portfolio rather than the leveraged version.
 
 ## Structure, costs, and risks
 
-Direxion Daily MSFT Bull 2X ETF holds a combination of Microsoft stock, equity index futures contracts, and cash to maintain its 2x daily target. The structural leverage is built into the fund itself, so investors do not need to post margin or borrow from a broker. The expense ratio is modest for a specialized product — consult the prospectus for the precise rate — but is still an annual cost on top of the decay effect itself.
+Direxion Daily MSFT Bull 2X ETF holds a combination of Microsoft stock, equity index [futures contracts](/futures-contract/), and cash to maintain its 2x daily target. The structural leverage is built into the fund itself, so investors do not need to post margin or borrow from a [broker](/broker/). The [expense ratio](/expense-ratio/) is modest for a specialized product — consult the prospectus for the precise rate — but is still an annual cost on top of the decay effect itself.
 
 The fund trades during regular stock-market hours and is listed on a major exchange. Because it rebalances every single day, large intraday moves in Microsoft can cause the fund's tracking to diverge slightly from a perfect 2x move, especially during high-volume trading or at the open and close. Liquidity is generally good but can tighten during unusual market conditions.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ARRAY DIGITAL INFRASTRUCTURE is a data center operator and digital infrastructure provider serving the cloud, enterprise, and telecommunications sectors. The company operates multiple data center facilities that provide colocation, managed hosting, interconnection, and cloud access services to a diversified customer base spanning hyperscalers, software firms, [financial institutions](/fisi-stock/), and network operators.
+ARRAY DIGITAL INFRASTRUCTURE is a data center operator and digital infrastructure provider serving the cloud, enterprise, and telecommunications sectors. The company operates multiple data center facilities that provide colocation, managed hosting, interconnection, and cloud access services to a diversified customer base spanning hyperscalers, software firms, financial institutions, and network operators.
 
 ## The Core Business
 

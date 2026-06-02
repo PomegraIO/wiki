@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Guinness Atkinson Asia Pacific Dividend Builder ETF (ticker ADIV) represents a focused bet on dividend-paying companies across the Asia-Pacific region. It combines two investment themes: the long-term growth potential of Asian economies and the cashflow stability of dividend payers. The fund seeks companies that have established sustainable dividend policies and demonstrate the capacity to raise payments over time, addressing both near-term income and long-term capital appreciation.*
+*Guinness Atkinson Asia Pacific [Dividend](/dividend/) Builder ETF (ticker ADIV) represents a focused bet on dividend-paying companies across the Asia-Pacific region. It combines two investment themes: the long-term growth potential of Asian economies and the cashflow stability of dividend payers. The fund seeks companies that have established sustainable dividend policies and demonstrate the capacity to raise payments over time, addressing both near-term income and long-term capital appreciation.*
 
 <aside class="wiki-infobox">
 <table>
@@ -31,21 +31,21 @@ Guinness Atkinson Asset Management emerged from a long heritage in asset managem
 
 ## The Asia-Pacific dividend thesis
 
-Asia-Pacific includes some of the world's largest and most profitable companies: industrial manufacturers, banks, consumer firms, and technology companies across China, India, South Korea, Taiwan, Hong Kong, Singapore, and other regions. Many of these companies sit at very different stages of the business cycle and economic development. A South Korean conglomerate might be mature and disciplined about dividends; an Indian pharma firm might be reinvesting heavily for growth; a Singaporean bank might be returning substantial cash to shareholders. ADIV seeks out the ones in the mature, dividend-paying category and weights them by their dividend sustainability and capacity for growth.
+Asia-Pacific includes some of the world's largest and most profitable companies: industrial manufacturers, banks, consumer firms, and technology companies across China, India, South Korea, Taiwan, Hong Kong, Singapore, and other regions. Many of these companies sit at very different stages of the [business cycle](/business-cycle/) and economic development. A South Korean conglomerate might be mature and disciplined about dividends; an Indian pharma firm might be reinvesting heavily for growth; a Singaporean bank might be returning substantial cash to shareholders. ADIV seeks out the ones in the mature, dividend-paying category and weights them by their dividend sustainability and capacity for growth.
 
 The appeal of this strategy is that it pairs exposure to some of the fastest-growing regions in the world with the income stability that dividend-paying companies typically offer. A company that reliably raises its dividend quarter after quarter signals to the market that management is confident in future earnings and committed to shareholders. For income investors, that matters; it is one reason dividend growth has become an increasingly popular investment theme even within developed markets.
 
 ## Construction and selection
 
-ADIV typically holds somewhere between 50 and 150 companies, depending on the fund's current rules and universe definition. The fund's process identifies Asia-Pacific companies that are paying dividends and have demonstrated a pattern of dividend growth or stability, then weights them, often by market capitalization or sometimes by dividend yield or dividend quality metrics. This is not a pure index approach; the fund uses active or semi-active selection to filter the universe down to genuinely dividend-committed companies rather than simply buying every dividend payer in the region.
+ADIV typically holds somewhere between 50 and 150 companies, depending on the fund's current rules and universe definition. The fund's process identifies Asia-Pacific companies that are paying dividends and have demonstrated a pattern of dividend growth or stability, then weights them, often by [market capitalization](/market-capitalization/) or sometimes by [dividend yield](/dividend-yield/) or dividend quality metrics. This is not a pure index approach; the fund uses active or semi-active selection to filter the universe down to genuinely dividend-committed companies rather than simply buying every dividend payer in the region.
 
 One practical constraint ADIV faces is the diversity of tax treatment for dividends across the Asia-Pacific region. Withholding taxes on dividends paid to foreign investors vary by country and treaty; investors need to understand that the dividend yield they see may be reduced by foreign tax withholding, which Guinness Atkinson cannot eliminate.
 
 ## Risks and concentration
 
-Asia-Pacific investing carries geographic concentration risk. A region-wide downturn in economic growth, currency devaluation, or capital restrictions can affect many holdings at once. Additionally, not all Asia-Pacific dividend payers are equally stable. A utility in a developed market like Australia might pay dividends as reliably as a mature company in North America, but a dividend payer in a less-developed or more volatile region might cut its dividend if business deteriorates. ADIV aims to screen for quality, but the fund's returns depend partly on the stability of its chosen payers.
+Asia-Pacific investing carries geographic [concentration risk](/concentration-risk/). A region-wide downturn in economic growth, currency devaluation, or capital restrictions can affect many holdings at once. Additionally, not all Asia-Pacific dividend payers are equally stable. A utility in a developed market like Australia might pay dividends as reliably as a mature company in North America, but a dividend payer in a less-developed or more volatile region might cut its dividend if business deteriorates. ADIV aims to screen for quality, but the fund's returns depend partly on the stability of its chosen payers.
 
-Currency risk is also present. If the fund holds companies that earn in local currencies (Indian rupees, Korean won, Malaysian ringgit), movements in those currencies against the dollar will affect a U.S. investor's returns. ADIV may or may not hedge this currency risk, depending on the fund's stated policy.
+[Currency risk](/currency-risk/) is also present. If the fund holds companies that earn in local currencies ([Indian rupees](/indian-rupee/), Korean won, Malaysian ringgit), movements in those currencies against the dollar will affect a U.S. investor's returns. ADIV may or may not hedge this currency risk, depending on the fund's stated policy.
 
 ## From then to now
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The Scharf Global Opportunity ETF is an actively managed exchange-traded fund that seeks long-term capital appreciation by identifying U.S. and international companies trading at significant discounts to intrinsic value. The fund applies a disciplined, bottom-up value approach, selecting stocks across all market capitalizations and geographies where analysis suggests limited downside risk and substantial appreciation potential.*
+*The Scharf Global Opportunity ETF is an actively managed exchange-traded fund that seeks long-term capital appreciation by identifying U.S. and international companies trading at significant discounts to [intrinsic value](/intrinsic-value/). The fund applies a disciplined, bottom-up value approach, selecting stocks across all [market capitalizations](/market-capitalization/) and geographies where analysis suggests limited downside risk and substantial appreciation potential.*
 
 > "Quality businesses with strong appreciation potential and limited downside risk."
 
@@ -23,9 +23,9 @@ The fund maintains a mandate to keep at least 40% of assets in non-U.S. securiti
 
 ## Concentrated conviction, real costs
 
-GKAT's active-management structure means it charges a higher annual expense ratio than passive global-equity trackers. That fee is a material drag on returns, making the manager's job clear: select stocks sufficiently well to cover the cost and still beat the index to justify the fund's existence. Value-oriented managers often hold positions for extended periods, limiting turnover and trading costs—an advantage in taxable accounts. However, the strategy's success depends entirely on whether the manager's stock-picking skill is genuine or whether it is merely luck dressed in analytical language.
+GKAT's active-management structure means it charges a higher annual [expense ratio](/expense-ratio/) than passive global-equity trackers. That fee is a material drag on returns, making the manager's job clear: select stocks sufficiently well to cover the cost and still beat the index to justify the fund's existence. Value-oriented managers often hold positions for extended periods, limiting turnover and trading costs—an advantage in taxable accounts. However, the strategy's success depends entirely on whether the manager's stock-picking skill is genuine or whether it is merely luck dressed in analytical language.
 
-The fund is tradable on the NASDAQ. Distributions of capital gains and dividends arrive as they accumulate. Because the portfolio is concentrated and active, the holdings will look markedly different from a passively weighted global index, creating the possibility of meaningful outperformance if selections are right or underperformance if they are wrong.
+The fund is tradable on the [NASDAQ](/nasdaq/). Distributions of capital gains and [dividends](/dividend/) arrive as they accumulate. Because the portfolio is concentrated and active, the holdings will look markedly different from a passively weighted global index, creating the possibility of meaningful outperformance if selections are right or underperformance if they are wrong.
 
 ## The wager underlying value investing
 
@@ -35,8 +35,8 @@ An investor evaluating GKAT should examine the manager's documented track record
 
 ## How to assess GKAT
 
-Start with the fund's prospectus and most recent annual report, available from Scharf Investments. The annual report lists every holding and typically includes commentary from the manager explaining the investment thesis behind the portfolio. Quarterly fact sheets show sector weightings, top holdings, and performance against comparable benchmarks.
+Start with the fund's prospectus and most recent [annual report](/10-k/), available from Scharf Investments. The annual report lists every holding and typically includes commentary from the manager explaining the investment thesis behind the portfolio. Quarterly fact sheets show sector weightings, top holdings, and performance against comparable benchmarks.
 
-Compare GKAT's returns over multiple years against a global equity index and against value-focused competitors or benchmarks. The comparison must be net of fees—the actual return an investor receives after paying the expense ratio. A manager claiming outperformance before fees is admitting that fees are destroying value. Also review the turnover rate and historical tax efficiency; concentrated value funds can be tax-efficient if the manager rarely sells or tax-inefficient if mistakes force rapid liquidation.
+Compare GKAT's returns over multiple years against a global equity index and against value-focused competitors or benchmarks. The comparison must be net of fees—the actual return an investor receives after paying the expense ratio. A manager claiming outperformance before fees is admitting that fees are destroying value. Also review the turnover rate and historical tax efficiency; concentrated [value funds](/value-fund/) can be tax-efficient if the manager rarely sells or tax-inefficient if mistakes force rapid [liquidation](/liquidation/).
 
-The fund's trading liquidity and bid-ask spreads matter for execution costs, particularly for larger positions. Research the manager's investment philosophy, visit Scharf Investments' website, and ensure the strategy aligns with your own conviction about how stock-picking skill works before committing capital.
+The fund's trading liquidity and [bid-ask spreads](/bid-ask-spread/) matter for execution costs, particularly for larger positions. Research the manager's investment philosophy, visit Scharf Investments' website, and ensure the strategy aligns with your own conviction about how stock-picking skill works before committing capital.

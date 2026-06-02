@@ -4,7 +4,7 @@ description: "A medical device or healthcare services company with international
 keywords: ["medical devices", "healthcare", "China", "international", "biotech"]
 ---
 
-*Charming Medical Ltd, trading under **MCTA**, operates within the global medical device or [healthcare services](/hcsg-stock/) sector, with material operations in Asia. The company's [10-K](/10-k/) filings will disclose its specific therapeutic areas or device categories, manufacturing footprint, regulatory clearances, and customer concentration. As an international healthcare company, Charming Medical's filings must address [currency risk](/currency-risk/), regulatory variation across jurisdictions, reimbursement uncertainty, and supply chain dependencies. Understanding the company hinges on reading its MD&A to discern whether revenue derives from owned facilities, licensing arrangements, or direct device sales, and whether profitability is anchored in organic operations or capital gains from asset sales.*
+*Charming Medical Ltd, trading under **MCTA**, operates within the global medical device or healthcare services sector, with material operations in Asia. The company's [10-K](/10-k/) filings will disclose its specific therapeutic areas or device categories, manufacturing footprint, regulatory clearances, and customer concentration. As an international healthcare company, Charming Medical's filings must address [currency risk](/currency-risk/), regulatory variation across jurisdictions, reimbursement uncertainty, and supply chain dependencies. Understanding the company hinges on reading its MD&A to discern whether revenue derives from owned facilities, licensing arrangements, or direct device sales, and whether profitability is anchored in organic operations or capital gains from asset sales.*
 
 <aside class="wiki-infobox">
 <table>
@@ -31,7 +31,7 @@ Medical devices are typically reimbursed by government programs (Medicare in the
 
 ## Revenue Geography and Currency Exposure
 
-If Charming Medical derives significant revenue from international operations, the [income statement](/income-statement/) will be affected by foreign exchange fluctuations. A 10-15% swing in the yuan or euro relative to the U.S. dollar materially affects reported U.S. dollar revenue and profitability. The filings will disclose which currencies the company transacts in and whether it hedges that exposure. A company deriving 60% of revenue from China is exposed to that nation's regulatory changes, intellectual-property enforcement, and export policies—all disclosed in the risk sections of the 10-K.
+If Charming Medical derives significant revenue from international operations, the [income statement](/income-statement/) will be affected by foreign exchange fluctuations. A 10-15% swing in the yuan or euro relative to the [U.S. dollar](/us-dollar/) materially affects reported U.S. dollar revenue and profitability. The filings will disclose which currencies the company transacts in and whether it hedges that exposure. A company deriving 60% of revenue from China is exposed to that nation's regulatory changes, intellectual-property enforcement, and export policies—all disclosed in the risk sections of the 10-K.
 
 ## Customer Concentration in Healthcare
 

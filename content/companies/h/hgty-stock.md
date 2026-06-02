@@ -43,7 +43,7 @@ Each function reinforces the others. A collector buys insurance and reads the ma
 
 The nearest competitors operate in subsets of Hagerty's ecosystem: Bring a Trailer (now part of Hagerty) is an auction platform; insurers like collector-car specialists Grundy offer premiums but no media or events; car magazines like Classic Car magazine and Hemmings offer content but no marketplace; local car clubs and enthusiast forums offer community but no business model.
 
-Hagerty's vertical play means it competes with all of these simultaneously, but also that a successful competitor could not be a smaller version of Hagerty—it would need to build the entire platform constellation or acquire multiple pieces. For a private company, that capital requirement is high. For a larger auto, insurance, or media conglomerate, the strategic fit might not justify the [acquisition](/acquisition/) price.
+Hagerty's vertical play means it competes with all of these simultaneously, but also that a successful competitor could not be a smaller version of Hagerty—it would need to build the entire platform constellation or acquire multiple pieces. For a private company, that capital requirement is high. For a larger [auto, insurance](/auto-insurance/), or media conglomerate, the strategic fit might not justify the [acquisition](/acquisition/) price.
 
 ## The Economic Cycles That Matter
 

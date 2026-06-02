@@ -13,15 +13,15 @@ handwritten: true
 
 Ellington Financial is a company that borrows money, buys mortgages and mortgage securities, collects the interest, and passes most of the money back to shareholders. That is the whole business. No products, no employees making things, no stores or services. Just: borrow cheap, lend at higher rates, keep the difference, and pay it out.
 
-The company was started in 2004 and is structured as a mortgage REIT. REIT is short for real estate investment trust. The idea is simple: a REIT owns real estate or real-estate loans, collects the income from them, and must give away at least 90 percent of the money it makes to the people who own shares. In return, the REIT itself pays almost no taxes. The shareholders pay the taxes instead. That is the deal.
+The company was started in 2004 and is structured as a [mortgage REIT](/mortgage-reit/). REIT is short for [real estate investment trust](/real-estate-investment-trust/). The idea is simple: a REIT owns real estate or real-estate loans, collects the income from them, and must give away at least 90 percent of the money it makes to the people who own shares. In return, the REIT itself pays almost no taxes. The shareholders pay the taxes instead. That is the deal.
 
 Ellington's real estate is mortgages—loans people owe on houses and commercial buildings. The company buys these mortgages or the securities that represent them, holds them, and collects the monthly payments. It pays for them by borrowing money at lower rates than the mortgages pay. This spread—the gap between what it earns and what it costs to borrow—is the profit.
 
 ## Why the spread matters more than anything else
 
-When a mortgage pays 5 percent interest and the company borrows money at 3 percent, the 2 percent spread is what the shareholders get. Multiply that by a huge balance sheet, and it becomes real money. But the moment rates change, everything falls apart. If the company has to refinance its borrowing at 5 percent, the spread vanishes. And if interest rates rise, all the mortgages and mortgage securities it already owns lose value immediately, because a new mortgage paying 5 percent looks bad when the market is offering 7 percent on new ones.
+When a mortgage pays 5 percent interest and the company borrows money at 3 percent, the 2 percent spread is what the shareholders get. Multiply that by a huge [balance sheet](/balance-sheet/), and it becomes real money. But the moment rates change, everything falls apart. If the company has to refinance its borrowing at 5 percent, the spread vanishes. And if [interest rates](/interest-rate/) rise, all the mortgages and mortgage securities it already owns lose value immediately, because a new mortgage paying 5 percent looks bad when the market is offering 7 percent on new ones.
 
-This is the iron law of mortgage REITs: they make money in low-rate environments, and they get crushed in high-rate environments. The company in 2021 and early 2022, when rates were near zero, was a machine that printed money for shareholders. By 2023, when the Federal Reserve jacked up rates to fight inflation, the same company saw the value of its holdings cut in half. Shareholders who expected steady high payouts suddenly saw cuts.
+This is the iron law of mortgage REITs: they make money in low-rate environments, and they get crushed in high-rate environments. The company in 2021 and early 2022, when rates were near zero, was a machine that printed money for shareholders. By 2023, when the [Federal Reserve](/federal-reserve/) jacked up rates to fight [inflation](/inflation/), the same company saw the value of its holdings cut in half. Shareholders who expected steady high payouts suddenly saw cuts.
 
 ## The origination side
 
@@ -43,7 +43,7 @@ This creates a dangerous psychology. Shareholders buy the stock for the yield—
 
 ## What determines whether Ellington survives good times and bad
 
-Three things matter. The first is the credit quality of the mortgages. If the mortgages are sound and people keep paying, the REIT earns its income reliably. If defaults spike—if people stop paying—the REIT takes losses. Ellington has generally done well here; its mortgage portfolios have had low default rates. But a severe recession, a spike in unemployment, or a crash in house prices could change that.
+Three things matter. The first is the credit quality of the mortgages. If the mortgages are sound and people keep paying, the REIT earns its income reliably. If defaults spike—if people stop paying—the REIT takes losses. Ellington has generally done well here; its mortgage portfolios have had low [default rates](/default-rate/). But a severe [recession](/recession/), a spike in unemployment, or a crash in house prices could change that.
 
 The second is the borrowing cost. If Ellington can borrow cheaply and stay funded, it survives. If the repo market breaks, or if lenders get nervous and demand higher rates, the REIT is in trouble. The 2023 banking crisis reminded everyone that repo funding is not risk-free; multiple regional bank failures created jitters in short-term lending markets.
 

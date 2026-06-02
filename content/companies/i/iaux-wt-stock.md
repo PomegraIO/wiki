@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-i-80 Gold Corp is a gold exploration and development company (SEC CIK 0001853962) that holds mining projects in Nevada and Peru. Unlike an operating mine, i-80 does not yet produce commercial quantities of gold; it is in the earlier stages of proving that its properties contain enough ore at extractable grades to justify building a mine. The company's value rests entirely on its ability to discover or develop deposits that will eventually generate cash flow — a process that typically takes years and depends heavily on favorable gold prices and successful geology.
+[i-80 Gold](/iaux-stock/) Corp is a gold exploration and development company (SEC CIK 0001853962) that holds mining projects in Nevada and Peru. Unlike an operating mine, i-80 does not yet produce commercial quantities of gold; it is in the earlier stages of proving that its properties contain enough ore at extractable grades to justify building a mine. The company's value rests entirely on its ability to discover or develop deposits that will eventually generate cash flow — a process that typically takes years and depends heavily on favorable gold prices and successful geology.
 
 ## The unit economics of exploration
 
@@ -26,9 +26,9 @@ These properties are early stage. The company has not yet drilled enough or run 
 
 ## Capital structure and financing
 
-As a cash-burning exploration company, i-80 has raised money through equity offerings and has borrowed using the mining properties as collateral or through convertible debt that may eventually become equity if the company cannot repay it. The balance sheet reflects the junior mining reality: mineral properties listed as assets, but little or no tangible revenue-generating business.
+As a cash-burning exploration company, i-80 has raised money through equity offerings and has borrowed using the mining properties as collateral or through convertible debt that may eventually become equity if the company cannot repay it. The [balance sheet](/balance-sheet/) reflects the junior mining reality: mineral properties listed as assets, but little or no tangible revenue-generating business.
 
-The warrant ticker (IAUX-WT) suggests that some of the company's financing has come through warrant offerings — instruments that give holders the right to buy common stock at a fixed price within a set period. This is typical junior mining financing: equity dilutes existing shareholders, so companies offer warrants to attract capital while limiting immediate dilution. When and if the stock price rises above the warrant's exercise price, warrant holders will likely convert, causing further dilution.
+The warrant ticker (IAUX-WT) suggests that some of the company's financing has come through warrant offerings — instruments that give holders the right to buy [common stock](/common-stock/) at a fixed price within a set period. This is typical junior mining financing: equity dilutes existing shareholders, so companies offer warrants to attract capital while limiting immediate dilution. When and if the stock price rises above the warrant's [exercise price](/exercise-price/), warrant holders will likely convert, causing further dilution.
 
 ## What happens next
 

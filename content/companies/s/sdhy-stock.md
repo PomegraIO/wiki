@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The PGIM Short Duration High Yield Opportunities Fund (NYSE: SDHY) is a closed-end fund that invests primarily in high-yield debt — bonds issued by companies below investment grade. [High-yield bonds](/high-yield-bond/) are riskier than government bonds or investment-grade corporate debt, but they compensate investors with significantly higher interest payments. The distinguishing feature of this fund is that it targets shorter-duration bonds, meaning the underlying debt matures or resets within a narrower time window, which reduces sensitivity to swings in [interest rates](/interest-rate/) compared to longer-duration strategies.
+The PGIM Short Duration High Yield Opportunities Fund (NYSE: SDHY) is a closed-end fund that invests primarily in high-yield debt — [bonds](/bond/) issued by companies below investment grade. [High-yield bonds](/high-yield-bond/) are riskier than government bonds or investment-grade corporate debt, but they compensate investors with significantly higher interest payments. The distinguishing feature of this fund is that it targets shorter-duration bonds, meaning the underlying debt matures or resets within a narrower time window, which reduces sensitivity to swings in [interest rates](/interest-rate/) compared to longer-duration strategies.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ The PGIM Short Duration High Yield Opportunities Fund (NYSE: SDHY) is a closed-e
 
 ## What a closed-end fund actually is
 
-A closed-end fund (CEF) is an investment company that raises a fixed amount of capital through an [initial public offering](/initial-public-offering/), then issues a limited number of shares that trade on an exchange like a stock. Once the fund is closed, the number of shares remains fixed — new investors cannot buy fresh units from the fund manager but must purchase from existing shareholders on the [secondary market](/secondary-market/). This contrasts with open-end mutual funds, which continuously accept new investor money and create new shares. Because CEFs trade on exchanges, their prices fluctuate based on supply and demand in the market, often trading above or below the fund's [net asset value](/net-asset-value/) (NAV), the per-share value of the underlying holdings. SDHY, like other [closed-end funds](/closed-end-fund/), can trade at a discount to NAV when investors are pessimistic about its holdings, or at a premium when demand outpaces supply.
+A closed-end fund (CEF) is an investment company that raises a fixed amount of capital through an [initial public offering](/initial-public-offering/), then issues a limited number of shares that trade on an exchange like a stock. Once the fund is closed, the number of shares remains fixed — new investors cannot buy fresh units from the fund manager but must purchase from existing shareholders on the [secondary market](/secondary-market/). This contrasts with open-end [mutual funds](/mutual-fund/), which continuously accept new investor money and create new shares. Because CEFs trade on exchanges, their prices fluctuate based on supply and demand in the market, often trading above or below the fund's [net asset value](/net-asset-value/) (NAV), the per-share value of the underlying holdings. SDHY, like other [closed-end funds](/closed-end-fund/), can trade at a discount to NAV when investors are pessimistic about its holdings, or at a premium when demand outpaces supply.
 
 ## High yield and short duration: the specific trade-off
 
@@ -41,9 +41,9 @@ SDHY covers the broad universe of non-investment-grade debt: [corporate bonds](/
 
 ## What makes it work (and what can break)
 
-The fund's consistent appeal rests on one proposition: investors are paid a significant yield (often several percentage points above government bonds) in exchange for accepting credit risk — the chance that a borrower will struggle to service its debt or default outright. As long as credit conditions are stable, defaults remain relatively rare, and bond prices hold steady, the fund generates attractive income. Investors using the fund as a source of regular distributions can rely on steady payouts from interest collections.
+The fund's consistent appeal rests on one proposition: investors are paid a significant yield (often several percentage points above government bonds) in exchange for accepting [credit risk](/credit-risk/) — the chance that a borrower will struggle to service its debt or default outright. As long as credit conditions are stable, defaults remain relatively rare, and bond prices hold steady, the fund generates attractive income. Investors using the fund as a source of regular distributions can rely on steady payouts from interest collections.
 
-When credit markets tighten, however — triggered by recession fears, rising unemployment, or financial stress — high-yield bond prices fall sharply. Companies with weak [balance sheets](/balance-sheet/) find refinancing difficult, defaults spike, and the fund's value can drop 10, 20, or more percent in volatile periods. The fund's short-duration focus limits some of that price decline, but it does not eliminate it. During the 2020 pandemic shock, even short-duration high-yield strategies suffered significant declines as credit markets froze.
+When credit markets tighten, however — triggered by [recession](/recession/) fears, rising unemployment, or financial stress — high-yield bond prices fall sharply. Companies with weak [balance sheets](/balance-sheet/) find refinancing difficult, defaults spike, and the fund's value can drop 10, 20, or more percent in volatile periods. The fund's short-duration focus limits some of that price decline, but it does not eliminate it. During the 2020 pandemic shock, even short-duration high-yield strategies suffered significant declines as credit markets froze.
 
 ## Why someone would own it
 

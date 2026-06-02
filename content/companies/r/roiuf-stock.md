@@ -15,7 +15,7 @@ Route1 Inc. (TSX.V: ROI; OTC: ROIUF) is a North American technology and engineer
 
 ## The early years: mobile security software
 
-Route1 was founded with the aim of creating mobile security and encryption software for business users. In the early 2000s, as enterprises faced growing risks from mobile device theft and the loss of sensitive data on laptops and phones, companies like Route1 built solutions to encrypt and secure data on these devices. MobiKEY, Route1's flagship product, was a security token and encryption suite designed to secure data on mobile devices and control access to corporate networks and sensitive files.
+Route1 was founded with the aim of creating mobile security and encryption software for business users. In the early 2000s, as enterprises faced growing risks from mobile device theft and the loss of sensitive data on laptops and phones, companies like Route1 built solutions to encrypt and secure data on these devices. MobiKEY, Route1's flagship product, was a [security token](/security-token/) and encryption suite designed to secure data on mobile devices and control access to corporate networks and sensitive files.
 
 The market for mobile security software was crowded. While MobiKEY found some enterprise traction, the software category itself eventually became commoditized or bundled into broader device-management platforms sold by larger technology companies. Route1competed against better-capitalized rivals and eventually pivoted its focus toward software and services that solved more specific problems in vertical markets.
 
@@ -53,7 +53,7 @@ The technology itself—license plate recognition, real-time analytics, mobile f
 
 ## How to research Route1
 
-Route1 files with Canadian and SEC regulators (CIK 0001736289). The annual report details revenue by customer segment, contract wins and losses, and pipeline commentary. Pay attention to customer concentration—if a few large government contracts represent the bulk of revenue, changes in those contracts create risk. Watch for gross margins and operating leverage; Route1 will only be valuable if it can scale operations without proportionally scaling costs.
+Route1 files with Canadian and SEC regulators (CIK 0001736289). The [annual report](/10-k/) details revenue by customer segment, contract wins and losses, and pipeline commentary. Pay attention to customer concentration—if a few large government contracts represent the bulk of revenue, changes in those contracts create risk. Watch for gross margins and operating leverage; Route1 will only be valuable if it can scale operations without proportionally scaling costs.
 
 Key metrics to monitor are the number of law enforcement agencies and municipalities using AutoVu, renewal rates from existing customers (indicating satisfaction and stickiness), and progress in expanding the enterprise customer base. The company's ability to build a diversified, sticky customer base across verticals will determine whether Route1 is a durable mid-sized technology services company or a perpetual challenger struggling to compete against larger, better-capitalized rivals.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-GraniteShares Platinum Trust is an investment trust that holds physical platinum bullion in allocated vaults. Shares trade on the NASDAQ under the ticker PLTM and are backed roughly one-for-one by fine platinum bars; the trust exists principally to let investors gain platinum exposure without buying coins, bars, or using futures contracts. It is part of a broader set of commodity trusts offered by GraniteShares, a fintech asset manager focused on direct commodity and precious-metal ownership.
+GraniteShares Platinum Trust is an investment trust that holds physical platinum bullion in allocated vaults. Shares trade on the [NASDAQ](/nasdaq/) under the ticker PLTM and are backed roughly one-for-one by fine platinum bars; the trust exists principally to let investors gain platinum exposure without buying coins, bars, or using [futures contracts](/futures-contract/). It is part of a broader set of commodity trusts offered by GraniteShares, a fintech asset manager focused on direct commodity and precious-metal ownership.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ GraniteShares Platinum Trust is an investment trust that holds physical platinum
 
 ## The mechanics: platinum on a trading desk
 
-Platinum is an industrial precious metal mined principally in South Africa and Russia, used in catalytic converters, jewelry, dental work, and specialized chemistry. Unlike gold or silver, which trade in broad consumer and jewelry markets, platinum is more thinly traded, less liquid, and more volatile. For decades the only way a retail investor could own platinum directly was to buy bars or coins from a dealer — a transaction involving wide bid-ask spreads and storage logistics.
+Platinum is an industrial precious metal mined principally in South Africa and Russia, used in catalytic converters, jewelry, dental work, and specialized chemistry. Unlike gold or silver, which trade in broad consumer and jewelry markets, platinum is more thinly traded, less liquid, and more volatile. For decades the only way a retail investor could own platinum directly was to buy bars or coins from a dealer — a transaction involving wide [bid-ask spreads](/bid-ask-spread/) and storage logistics.
 
 GraniteShares Platinum Trust created an alternative. Investors buy shares, which represent fractional ownership of allocated platinum bars stored in professional vaults. GraniteShares holds the platinum, charges an annual trustee fee (a flat percentage of assets), and the shares themselves trade on NASDAQ like any other security. No dealer markup, no futures leverage, no margin requirements — just daily liquidity on an exchange and direct exposure to platinum's spot price.
 
@@ -35,11 +35,11 @@ GraniteShares Platinum Trust created an alternative. Investors buy shares, which
 
 GraniteShares was founded in 2017 as a digital-first asset manager focused on commodity and precious-metal trusts. The firm operates a suite of similar vehicles — gold, silver, copper, oil, and natural-gas trusts — all built on the same template: physical bullion or commodities held in vaults, shares trading on major U.S. exchanges, transparent net-asset-value pricing, and minimal annual fees. The strategy is to compress costs and friction to the point where a retail investor can own a physical commodity as easily as they own a stock.
 
-Platinum Trust itself is managed straightforwardly. GraniteShares contracts with a third-party custodian to hold the bars in segregated vaults. The trustee fee (charged annually to the fund) covers administration, custody, insurance, and regulatory compliance. There are no transaction commissions for creation (buying shares) or redemption (exiting the trust), which encourages arbitrage traders to keep the share price close to the underlying platinum value.
+Platinum Trust itself is managed straightforwardly. GraniteShares contracts with a third-party [custodian](/custodian/) to hold the bars in segregated vaults. The trustee fee (charged annually to the fund) covers administration, custody, insurance, and regulatory compliance. There are no transaction commissions for creation (buying shares) or redemption (exiting the trust), which encourages arbitrage traders to keep the share price close to the underlying platinum value.
 
 ## Drivers of fund size and investor demand
 
-The trust's size — the total number of shares outstanding and platinum ounces held — fluctuates with investor demand. When platinum prices rise or investors grow bullish on the metal, new shares are typically created by authorized participants (large brokerage firms) who deposit platinum bars in exchange for fresh share issuance. When sentiment reverses, shares are redeemed for physical metal and withdrawn. The net result is that the trust grows and shrinks organically without GraniteShares needing to actively market or raise capital; the mechanism of creation and redemption handles inflows and outflows.
+The trust's size — the total number of shares outstanding and platinum ounces held — fluctuates with investor demand. When platinum prices rise or investors grow bullish on the metal, new shares are typically created by [authorized participants](/authorized-participant/) (large brokerage firms) who deposit platinum bars in exchange for fresh [share issuance](/share-issuance/). When sentiment reverses, shares are redeemed for physical metal and withdrawn. The net result is that the trust grows and shrinks organically without GraniteShares needing to actively market or raise capital; the mechanism of creation and redemption handles inflows and outflows.
 
 This makes PLTM, like all commodity trusts, a thin but functional business. GraniteShares earns a stable annual fee on assets, has minimal operational complexity (custodial fees, insurance, SEC reporting), and bears no investment risk — the trust simply holds the commodity and passes through its gains and losses to shareholders.
 
@@ -51,4 +51,4 @@ Investors watching PLTM focus on the platinum spot price (published daily by the
 
 ## How to research GraniteShares Platinum Trust
 
-Start with the trust's SEC filings at CIK 0001690842. The prospectus lays out the custodial arrangements, fee structure, and creation/redemption mechanics. The annual reports detail platinum holdings and any changes in custody or trustee arrangements. Beyond the documents, the London Platinum and Palladium Market publishes daily prices; industrial indices and mining reports from the U.S. Geological Survey track supply and demand. A reader assessing whether to hold PLTM is really assessing platinum itself — the trust is simply the vehicle for exposure.
+Start with the trust's SEC filings at CIK 0001690842. The prospectus lays out the custodial arrangements, fee structure, and creation/redemption mechanics. The [annual reports](/10-k/) detail platinum holdings and any changes in custody or trustee arrangements. Beyond the documents, the London Platinum and Palladium Market publishes daily prices; industrial indices and mining reports from the U.S. Geological Survey track supply and demand. A reader assessing whether to hold PLTM is really assessing platinum itself — the trust is simply the vehicle for exposure.

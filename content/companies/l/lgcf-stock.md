@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Themes US Cash Flow Champions ETF targets companies distinguished by their ability to generate and distribute substantial cash to shareholders. Rather than a traditional market-cap-weighted approach, LGCF selects large-cap US stocks on the basis of cash-flow characteristics and dividend consistency — favoring firms with rising free cash flow, strong balance sheets, and long histories of shareholder distributions. The portfolio is rebuilt periodically, keeping holdings concentrated in companies that meet the selection criteria.
+Themes US Cash Flow Champions ETF targets companies distinguished by their ability to generate and distribute substantial cash to shareholders. Rather than a traditional market-cap-weighted approach, LGCF selects large-cap US stocks on the basis of cash-flow characteristics and [dividend](/dividend/) consistency — favoring firms with rising [free cash flow](/free-cash-flow/), strong [balance sheets](/balance-sheet/), and long histories of shareholder distributions. The portfolio is rebuilt periodically, keeping holdings concentrated in companies that meet the selection criteria.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,9 +27,9 @@ Themes US Cash Flow Champions ETF targets companies distinguished by their abili
 
 ## The cash-flow champions framework
 
-Free cash flow is the cash a company generates after paying for capital expenditures — the money truly available to shareholders. A company posting record earnings but consuming all of it on capital equipment is not a champion; a company with modest profits but negligible capex that shovels cash to shareholders is. LGCF's framework prioritizes the latter: companies with strong free-cash-flow yields relative to their stock price, and a track record of using that cash to fund dividends or buybacks rather than funding vanity acquisitions or loading on debt.
+Free cash flow is the cash a company generates after paying for capital expenditures — the money truly available to shareholders. A company posting record earnings but consuming all of it on capital equipment is not a champion; a company with modest profits but negligible capex that shovels cash to shareholders is. LGCF's framework prioritizes the latter: companies with strong free-cash-flow yields relative to their stock price, and a track record of using that cash to fund dividends or buybacks rather than funding vanity [acquisitions](/acquisition/) or loading on debt.
 
-Champions typically come from capital-light, mature industries: financials (banks, insurance) with low capex and high returns on equity; utilities with stable, regulated cash flows; consumer staples where competitive positioning does not require constant reinvestment; and energy firms sitting in cyclical peaks with strong distributions. Technology companies, despite their high profitability, often reinvest heavily and carry low dividend yields, so they are underrepresented.
+Champions typically come from capital-light, mature industries: financials (banks, insurance) with low capex and high returns on equity; utilities with stable, regulated cash flows; consumer staples where competitive positioning does not require constant reinvestment; and energy firms sitting in cyclical peaks with strong distributions. Technology companies, despite their high profitability, often reinvest heavily and carry low [dividend yields](/dividend-yield/), so they are underrepresented.
 
 ## The dividend consistency advantage
 
@@ -39,19 +39,19 @@ The tradeoff is lower capital appreciation but steadier income. A dividend arist
 
 ## Sector composition and risks
 
-LGCF's focus on cash flow naturally tilts it toward high-dividend sectors: financials (banks, insurance, REITs), utilities, consumer staples, and energy. These sectors are defensive — earnings are relatively stable and customer relationships are durable — but they are also cyclical. Financials suffer in credit crunches; utilities are sensitive to interest rates (because rising rates make their fixed dividends less attractive); energy is exposed to commodity prices. An investor buying LGCF accepts this sector tilt as the cost of accessing consistent cash-flow payers.
+LGCF's focus on cash flow naturally tilts it toward high-dividend sectors: financials (banks, insurance, REITs), utilities, consumer staples, and energy. These sectors are defensive — earnings are relatively stable and customer relationships are durable — but they are also cyclical. Financials suffer in credit crunches; utilities are sensitive to [interest rates](/interest-rate/) (because rising rates make their fixed dividends less attractive); energy is exposed to commodity prices. An investor buying LGCF accepts this sector tilt as the cost of accessing consistent cash-flow payers.
 
-Technology and healthcare are underweighted or absent because growth companies typically plow earnings back into the business. That means LGCF is unlikely to capture the entire bull market if tech stocks rally while the fund is tilted toward staples and utilities.
+Technology and healthcare are underweighted or absent because growth companies typically plow earnings back into the business. That means LGCF is unlikely to capture the entire [bull market](/bull-market/) if tech stocks rally while the fund is tilted toward staples and utilities.
 
 ## Capital allocation and buyback exposure
 
-Beyond dividends, LGCF also favors companies using share buybacks as a cash-return mechanism. A company repurchasing its own shares at attractive prices reduces the share count, lifting per-share earnings and returns on equity. Over decades, disciplined buybacks have enriched long-term holders. However, if buybacks are executed at peaks (buying shares when the stock is expensive), they can destroy value. The selection framework should ideally distinguish between buybacks executed at reasonable valuations and those made at peaks; many funds do not.
+Beyond dividends, LGCF also favors companies using [share buybacks](/share-buyback/) as a cash-return mechanism. A company repurchasing its own shares at attractive prices reduces the share count, lifting per-share earnings and returns on equity. Over decades, disciplined buybacks have enriched long-term holders. However, if buybacks are executed at peaks (buying shares when the stock is expensive), they can destroy value. The selection framework should ideally distinguish between buybacks executed at reasonable valuations and those made at peaks; many funds do not.
 
 ## Concentration and liquidity
 
 LGCF typically holds 40–60 positions, making it concentrated relative to a broad market index but diversified within its segment. Concentration is by design: the fund bets that the best cash-flow champions will outperform the broader market. That means if the selection thesis is right, returns are enhanced; if wrong, underperformance is amplified.
 
-Holdings are primarily large-cap stocks with high liquidity, so the fund itself is liquid and trades near net asset value intraday.
+Holdings are primarily large-cap stocks with high liquidity, so the fund itself is liquid and trades near [net asset value](/net-asset-value/) intraday.
 
 ## Volatility and drawdown profile
 
@@ -59,7 +59,7 @@ Because LGCF tilts toward defensive, dividend-paying sectors, it typically exhib
 
 ## Tax treatment and suitability
 
-Dividend income is taxed as ordinary income in taxable accounts (or at lower rates under favorable tax rules, depending on holding period). Capital gains realized inside the fund are taxed as short- or long-term gains. For tax-deferred accounts, tax treatment does not matter. For taxable accounts, the high distribution rate means a higher annual tax bill, which can be a drag on after-tax returns.
+Dividend income is taxed as ordinary income in taxable accounts (or at lower rates under favorable tax rules, depending on [holding period](/holding-period/)). Capital gains realized inside the fund are taxed as short- or long-term gains. For tax-deferred accounts, tax treatment does not matter. For taxable accounts, the high distribution rate means a higher annual tax bill, which can be a drag on after-tax returns.
 
 LGCF suits retirees and income-focused investors who can tolerate equity volatility in exchange for steady cash distributions and modest capital appreciation. It is not suitable for total-return growth investors seeking maximum capital appreciation or for those in high tax brackets uncomfortable with regular dividend-income taxation.
 

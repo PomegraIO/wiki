@@ -31,7 +31,7 @@ Revenue from quantum sensing helps pay the bills. Revenue from quantum computing
 
 ## Market reality: competition and capital intensity
 
-Infleqtion competes against a field of well-funded rivals. IBM, Google, Microsoft, and Amazon are all investing heavily in quantum. Startups like Rigetti, IonQ, and D-Wave have raised hundreds of millions and have more capital than Infleqtion. Even within neutral atoms, there are competitors with serious funding. D-Wave focuses on analog quantum computing, which is different, but the funding gap illustrates the capital intensity of the space.
+Infleqtion competes against a field of well-funded rivals. IBM, Google, [Microsoft](/msft-stock/), and Amazon are all investing heavily in quantum. Startups like Rigetti, IonQ, and D-Wave have raised hundreds of millions and have more capital than Infleqtion. Even within neutral atoms, there are competitors with serious funding. D-Wave focuses on analog quantum computing, which is different, but the funding gap illustrates the capital intensity of the space.
 
 Quantum computing remains a venture-capital-driven research project. Most competitors are not profitable. They are burning cash to hire physicists, build prototypes, and run experiments. The bet is that eventually someone will crack the problem, achieve quantum advantage, and create a massive new technology market. But that is years away and not certain.
 
@@ -51,7 +51,7 @@ The company's larger rivals — IBM and Google — have massive R&D budgets and 
 
 The bull case: neutral atoms are the right architecture. Infleqtion will build the first practical, scalable quantum computer. The company will license access to its systems or build a cloud quantum-computing service. Eventually, this solves real problems (drug discovery, optimization, cryptography) and creates an enormous market. Early investors in Infleqtion make outsized returns.
 
-The bear case: quantum computing remains perpetually 10 years away. None of the companies, including Infleqtion, will demonstrate truly superior performance on commercially important problems. The hype fades, funding dries up, and Infleqtion cannot scale. The company becomes an acquisition target or folds.
+The bear case: quantum computing remains perpetually 10 years away. None of the companies, including Infleqtion, will demonstrate truly superior performance on commercially important problems. The hype fades, funding dries up, and Infleqtion cannot scale. The company becomes an [acquisition](/acquisition/) target or folds.
 
 Reality will likely fall somewhere between. Quantum sensing may grow into a legitimate, profitable business. Quantum computing may eventually work but be narrow in application and controlled by a handful of winners. Infleqtion might be one of those winners, a strong second-place finisher, or an also-ran that was absorbed by a larger player.
 

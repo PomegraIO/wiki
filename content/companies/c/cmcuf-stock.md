@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Piermont Valley Acquisition Corp is a shell company with one job: find a private company, buy it, and take it public. That is what blank-check companies (also called SPACs) do. An investor or group of investors puts up money, forms a company with a stock ticker, and promises shareholders that within a set timeframe the company will merge with a real operating business. If the merger works out and the business thrives, early investors make money. If the merger fails or the chosen company is a dud, shareholders lose their investment.
+Piermont Valley [Acquisition](/acquisition/) Corp is a shell company with one job: find a private company, buy it, and take it public. That is what blank-check companies (also called SPACs) do. An investor or group of investors puts up money, forms a company with a stock ticker, and promises shareholders that within a set timeframe the company will merge with a real operating business. If the [merger](/merger/) works out and the business thrives, early investors make money. If the merger fails or the chosen company is a dud, shareholders lose their investment.
 
 <aside class="wiki-infobox">
 <table>
@@ -48,7 +48,7 @@ A blank-check company's success depends almost entirely on the people running it
 
 ## Regulatory environment
 
-The Securities and Exchange Commission has tightened rules around SPAC disclosures and structure in recent years, requiring more detail about the sponsors' track record, the fees they will earn from the merger, and the financial projections for the target company. The idea is to protect retail investors from misleading information or conflicts of interest. But the core model — a blank-check company with a deadline to merge — remains legal and active.
+The [Securities and Exchange Commission](/securities-and-exchange-commission/) has tightened rules around SPAC disclosures and structure in recent years, requiring more detail about the sponsors' track record, the fees they will earn from the merger, and the financial projections for the target company. The idea is to protect retail investors from misleading information or conflicts of interest. But the core model — a blank-check company with a deadline to merge — remains legal and active.
 
 ## How to research a SPAC
 

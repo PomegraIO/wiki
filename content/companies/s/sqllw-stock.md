@@ -13,7 +13,7 @@ handwritten: true
 
 > "Atlantic International faces the eternal startup challenge: innovation without capital, or capital without control."
 
-Atlantic International Corp. sits in the precarious space occupied by thousands of small technology firms: too small to command attention from established competitors, too capital-intensive to grow without investment, and perpetually at risk that the market will decide the idea is not viable. The company competes not against industry giants but against the basic forces that kill most startups—cash burn, market indifference, and the struggle to find product-market fit.
+[Atlantic International](/atln-stock/) Corp. sits in the precarious space occupied by thousands of small technology firms: too small to command attention from established competitors, too capital-intensive to grow without investment, and perpetually at risk that the market will decide the idea is not viable. The company competes not against industry giants but against the basic forces that kill most startups—cash burn, market indifference, and the struggle to find product-market fit.
 
 ## A company in search of scale
 
@@ -23,7 +23,7 @@ The challenge Atlantic International faces is straightforward: competing for att
 
 ## Capital constraints and the incentive structure
 
-The company's stock ticker, SQLLW, suggests the shares trade on a over-the-counter market or as a penny stock, likely reflecting the company's small market capitalization and illiquidity. This has both practical and psychological implications. Practically, raising capital is hard—venture capital investors focus on higher-potential-return opportunities, and the public markets take little interest in micro-cap development-stage companies. The company is largely dependent on founder capital, friends-and-family funding, or earnings (if there are any) to fund growth.
+The company's stock ticker, SQLLW, suggests the shares trade on a [over-the-counter market](/over-the-counter-market/) or as a penny stock, likely reflecting the company's small [market capitalization](/market-capitalization/) and illiquidity. This has both practical and psychological implications. Practically, raising capital is hard—venture capital investors focus on higher-potential-return opportunities, and the public markets take little interest in micro-cap development-stage companies. The company is largely dependent on founder capital, friends-and-family funding, or earnings (if there are any) to fund growth.
 
 Psychologically, a micro-cap stock listing can sometimes attract retail speculators betting on a turnaround or a discovery, but it also invites skepticism. Serious business partners and customers tend to be wary of vendors with shaky financial footing, suspecting they may not survive to support a product long-term.
 
@@ -31,7 +31,7 @@ The incentive structure for founders and early employees is often equity-heavy, 
 
 ## Market selection and the niche strategy
 
-Atlantic International's competitive strategy—if it has one—likely revolves around finding a niche market with unmet needs. Rather than attack the general enterprise software market where Salesforce and Microsoft dominate, a startup might focus on a vertical (say, scheduling software for small medical practices) or a geography (software solutions for Southeast Asian manufacturers). The niche approach reduces head-to-head competition but also shrinks the total addressable market, so the company must achieve a dominant position in its niche to reach meaningful scale.
+Atlantic International's competitive strategy—if it has one—likely revolves around finding a niche market with unmet needs. Rather than attack the general enterprise software market where [Salesforce](/crm-stock/) and [Microsoft](/msft-stock/) dominate, a startup might focus on a vertical (say, scheduling software for small medical practices) or a geography (software solutions for Southeast Asian manufacturers). The niche approach reduces head-to-head competition but also shrinks the total addressable market, so the company must achieve a dominant position in its niche to reach meaningful scale.
 
 The risk of this strategy is execution. If the company has chosen a niche but executes the product poorly, or if the market does not adopt as expected, there is limited room to pivot without burning remaining capital. A small niche market does not forgive founder mistakes the way a large, growing market might.
 
@@ -49,7 +49,7 @@ For Atlantic International to become a meaningful business, the company would ne
 
 ## How to research Atlantic International
 
-The company's 10-K filing will reveal what it actually does, what revenue (if any) it generates, and what its cash burn rate is. Look for customer concentration—if a single customer represents the bulk of revenue, the business is fragile. Check the balance sheet for cash runway: how long until the company exhausts its cash at the current burn rate? If the answer is one or two years and no new funding is in sight, the risk of dilution or failure is high.
+The company's 10-K filing will reveal what it actually does, what revenue (if any) it generates, and what its cash burn rate is. Look for customer concentration—if a single customer represents the bulk of revenue, the business is fragile. Check the [balance sheet](/balance-sheet/) for cash runway: how long until the company exhausts its cash at the current burn rate? If the answer is one or two years and no new funding is in sight, the risk of dilution or failure is high.
 
 The filing will also discuss the competitive landscape and any barriers to entry. If the company claims to have proprietary technology, ask what that means. Does it have patents, or is it just first-mover advantage? Patents in software are often weak; first-mover advantage is temporary unless the company compounds it with execution. Management's background matters more in early-stage companies than in mature ones. Did the founders succeed in previous ventures, or is this a first attempt? A successful track record does not guarantee success here, but it suggests greater odds.
 

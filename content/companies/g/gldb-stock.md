@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The IDX Alternative FIAT ETF is an actively managed exchange-traded fund designed to give investors exposure to two cornerstone alternative assets — gold and bitcoin — in a single, liquid vehicle. Rather than holding a fixed allocation, the fund uses proprietary quantitative methods to tilt its weights up or down between the two assets based on volatility, momentum, and other risk metrics, seeking to capture their potential value as hedges against inflation and currency debasement.*
+*The IDX Alternative FIAT ETF is an actively managed exchange-traded fund designed to give investors exposure to two cornerstone alternative assets — gold and [bitcoin](/bitcoin/) — in a single, liquid vehicle. Rather than holding a fixed allocation, the fund uses proprietary quantitative methods to tilt its weights up or down between the two assets based on volatility, momentum, and other risk metrics, seeking to capture their potential value as hedges against [inflation](/inflation/) and currency debasement.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,13 +27,13 @@ handwritten: true
 
 ## Genesis: the case for alternative assets
 
-The fund emerged from a straightforward observation: traditional stock and bond portfolios are vulnerable to synchronized drawdowns when inflation accelerates or when faith in government currency and credit deteriorates. Gold has historically served as a hedge against both — a non-yielding asset that derives value from scarcity and global demand independent of credit markets. Bitcoin, the newer digital asset, advocates claim offers similar properties: a fixed supply, censorship-resistant movement of value, and a return profile driven by adoption and sentiment rather than earnings or credit risk.
+The fund emerged from a straightforward observation: traditional stock and [bond](/bond/) portfolios are vulnerable to synchronized drawdowns when inflation accelerates or when faith in government currency and credit deteriorates. Gold has historically served as a hedge against both — a non-yielding asset that derives value from scarcity and global demand independent of credit markets. Bitcoin, the newer digital asset, advocates claim offers similar properties: a fixed supply, censorship-resistant movement of value, and a return profile driven by adoption and sentiment rather than earnings or [credit risk](/credit-risk/).
 
 The FIAT designation in the fund's name alludes to the traditional role of precious metals as a hedge against fiat-currency weakness. By bundling gold and bitcoin together, the fund bets that the two assets share a common thesis even if their mechanics are entirely different. Gold is mined, physically tangible, and traded on centuries-old commodity exchanges. Bitcoin is software, intangible, and traded on digital exchanges around the clock.
 
 ## Structure and implementation
 
-GLDB does not hold physical gold bars or bitcoin tokens directly. Instead, it holds derivative instruments — futures contracts, exchange-traded notes, or other instruments — that provide exposure to the price movements of these assets. This derivative approach allows the fund to achieve leverage, tactical rebalancing, and the daily liquidity that a direct-asset approach would not permit. The fund may also hold small positions in related assets — silver and ethereum — as part of a broader alternative-asset thesis.
+GLDB does not hold physical gold bars or bitcoin tokens directly. Instead, it holds derivative instruments — [futures contracts](/futures-contract/), exchange-traded notes, or other instruments — that provide exposure to the price movements of these assets. This derivative approach allows the fund to achieve leverage, tactical rebalancing, and the daily liquidity that a direct-asset approach would not permit. The fund may also hold small positions in related assets — silver and [ethereum](/ethereum/) — as part of a broader alternative-asset thesis.
 
 The fund is actively managed: a quantitative process regularly updates the allocation between its core assets based on volatility, momentum, and other proprietary risk metrics. If gold volatility expands relative to bitcoin, the fund might increase its gold weight. If bitcoin momentum accelerates, the fund might shift exposure accordingly. This dynamic approach is the fund's differentiator; it is not a static 50-50 blend but an evolving position based on observed market conditions.
 
@@ -45,9 +45,9 @@ For investors skeptical of either asset alone but interested in their combined t
 
 ## Risks and complexity
 
-The fund carries risks that are not obvious from its simple label. Derivative-based exposure introduces counterparty risk — the risk that the institution issuing the futures or ETN fails or defaults. Bitcoin and gold do not generate cash flow, so their valuations are driven entirely by sentiment and demand; they can fall sharply if belief in their hedge properties fades. Periods of severe equity-market stress may see both gold and bitcoin decline together, undermining the diversification thesis. During severe deleveraging cycles, the derivatives used to gain exposure may face significant losses before the underlying assets do.
+The fund carries risks that are not obvious from its simple label. Derivative-based exposure introduces [counterparty risk](/counterparty-risk/) — the risk that the institution issuing the futures or ETN fails or defaults. Bitcoin and gold do not generate cash flow, so their valuations are driven entirely by sentiment and demand; they can fall sharply if belief in their hedge properties fades. Periods of severe equity-market stress may see both gold and bitcoin decline together, undermining the [diversification](/diversification/) thesis. During severe deleveraging cycles, the derivatives used to gain exposure may face significant losses before the underlying assets do.
 
-The active management introduces a second layer of complexity. The quantitative process underlying the dynamic allocation is proprietary and not transparent to investors. If the signals are flawed, the rebalancing may actually harm returns by constantly buying assets as they rally and selling them as they decline — the opposite of disciplined rebalancing. The fund's expense ratio, reflecting active management, is higher than a static passive alternative-asset offering.
+The active management introduces a second layer of complexity. The quantitative process underlying the dynamic allocation is proprietary and not transparent to investors. If the signals are flawed, the rebalancing may actually harm returns by constantly buying assets as they rally and selling them as they decline — the opposite of disciplined rebalancing. The fund's [expense ratio](/expense-ratio/), reflecting active management, is higher than a static passive alternative-asset offering.
 
 ## Who the fund is designed for
 
@@ -61,4 +61,4 @@ Start with the fund's prospectus, which explains the dynamic-allocation methodol
 
 Monitor the fund's allocations: what percentage of assets are currently in bitcoin, gold, silver, and ethereum? Watch how the allocations shift over time and whether the rebalancing appears to add or subtract value relative to a fixed-weight alternative. Review the fund's performance against its stated thesis during periods of equity stress — does it actually serve as a hedge, or does it decline alongside stocks?
 
-Over longer holding periods, compare GLDB's total return to simple holding periods of either gold or bitcoin alone, and to a portfolio that includes both with a static weight. Assess whether the dynamic-allocation strategy added enough value to justify its fees.
+Over longer [holding periods](/holding-period/), compare GLDB's total return to simple holding periods of either gold or bitcoin alone, and to a portfolio that includes both with a static weight. Assess whether the dynamic-allocation strategy added enough value to justify its fees.

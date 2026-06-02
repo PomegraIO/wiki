@@ -26,7 +26,7 @@ handwritten: true
 
 Research Alliance Corp III is a special purpose [acquisition](/acquisition/) company — a blank-check vehicle formed to identify, negotiate, and execute a [business combination](/business-combination-purchase/) with a private company. Priced at $10 per share in May 2026, it raised $75 million gross. Shares trade on [NASDAQ](/nasdaq/) Capital Market under RACC. Structurally unremarkable for a SPAC; strategically distinctive because of its sponsor and sector focus.
 
-**Sponsor pedigree.** RA Capital Management is a venture capital and growth-equity firm focused on healthcare innovation. The firm previously created Research Alliance I (merged with POINT Biopharma, later acquired by Eli Lilly for $1.4 billion in December 2023) and Research Alliance II (IPO in 2021, liquidated). The track record matters: one successful acquisition path to a major pharma exit. Two wind-ups. This is the third iteration. Management's credibility rests on that history.
+**Sponsor pedigree.** RA Capital Management is a venture capital and growth-equity firm focused on healthcare innovation. The firm previously created Research Alliance I (merged with POINT Biopharma, later acquired by [Eli Lilly](/lly-stock/) for $1.4 billion in December 2023) and Research Alliance II (IPO in 2021, liquidated). The track record matters: one successful acquisition path to a major pharma exit. Two wind-ups. This is the third iteration. Management's credibility rests on that history.
 
 **Leadership.** Matthew Hammond serves as CEO; he holds a PhD and MBA and comes from RA Capital's operating team. Henry Stusnick is CBO/COO. Neither is a household name in biotech, which is not unusual for a pre-deal SPAC. Real talent assessment waits for target identification.
 

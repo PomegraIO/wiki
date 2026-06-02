@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Ads-Tec Energy (NASDAQ: ADSEW) is a German company that designs and manufactures energy storage systems — primarily batteries and charging equipment. The company operates at the intersection of renewable energy adoption and the transition to electric transportation, selling hardware and software to utilities, charging operators, and commercial customers who need energy storage or fast charging capability.
+Ads-Tec Energy ([NASDAQ](/nasdaq/): ADSEW) is a German company that designs and manufactures energy storage systems — primarily batteries and charging equipment. The company operates at the intersection of renewable energy adoption and the transition to electric transportation, selling hardware and software to utilities, charging operators, and commercial customers who need energy storage or fast charging capability.
 
 <aside class="wiki-infobox">
 <table>
@@ -43,7 +43,7 @@ Ads-Tec sells to charging networks (companies that operate public fast-charging 
 
 The addressable market for EV charging and energy storage is large and growing rapidly. Tens of thousands of charging stations are planned or under construction across Europe and North America. Simultaneously, utilities worldwide are deploying batteries to manage renewable energy and provide grid services. Competition in this space is intense — major companies like ABB, Siemens, and Tesla's energy division also compete — but the market is large enough that multiple players can grow substantially.
 
-Ads-Tec's scale is smaller than its largest competitors. The company went public in 2021 through a merger with a special-purpose acquisition company, reflecting its growth ambitions and need for capital. However, being smaller means the company must compete on innovation and customer relationships rather than capital or scale.
+Ads-Tec's scale is smaller than its largest competitors. The company went public in 2021 through a [merger](/merger/) with a [special-purpose acquisition company](/special-purpose-acquisition-company/), reflecting its growth ambitions and need for capital. However, being smaller means the company must compete on innovation and customer relationships rather than capital or scale.
 
 ### What are the main risks?
 
@@ -53,7 +53,7 @@ Second, capital intensity and execution: building manufacturing capacity for bat
 
 Third, regulatory and subsidy dependence: many EV charging and energy-storage projects succeed because of government subsidies, tax credits, or mandates. Changes in subsidy policy can accelerate or collapse demand overnight. A government that retreats from EV commitments or defunds renewable energy could dramatically reduce Ads-Tec's addressable market.
 
-Fourth, competition: incumbent industrial companies like Siemens and ABB have deep relationships with utilities and commercial customers, massive R&D budgets, and global distribution. New entrants like Tesla have capital, brand, and integrated advantage. Ads-Tec must differentiate on technology or customer relationships to survive and grow.
+Fourth, competition: incumbent industrial companies like Siemens and ABB have deep relationships with utilities and commercial customers, massive R&D budgets, and global distribution. New entrants like [Tesla](/tsla-stock/) have capital, brand, and integrated advantage. Ads-Tec must differentiate on technology or customer relationships to survive and grow.
 
 ### How does the company make money?
 

@@ -30,7 +30,7 @@ The scale of this conglomerate is striking. Gojek's ride-hailing and delivery ne
 
 ## The Indonesian Market as Moat and Constraint
 
-Indonesia is Southeast Asia's largest economy and has one of the world's largest and youngest populations. Smartphone penetration and digital payment adoption have accelerated dramatically since 2015. Millions of Indonesians have a first digital financial interaction through ride-hailing or e-commerce apps rather than through traditional banks. This means GoTo did not need to build trust in [financial institutions](/fisi-stock/); it inherited user trust from prior ride-hailing and shopping relationships.
+Indonesia is Southeast Asia's largest economy and has one of the world's largest and youngest populations. Smartphone penetration and digital payment adoption have accelerated dramatically since 2015. Millions of Indonesians have a first digital financial interaction through ride-hailing or e-commerce apps rather than through traditional banks. This means GoTo did not need to build trust in financial institutions; it inherited user trust from prior ride-hailing and shopping relationships.
 
 But Indonesia is also a geographically fragmented nation—thousands of islands, uneven infrastructure, varied regulatory environments across provinces. This fragmentation is both GoTo's advantage and constraint. Competitors struggle to replicate GoTo's footprint because last-mile logistics across Indonesia's archipelago is enormously complex and capital-intensive. GoTo has already sunk that capital. Conversely, expansion beyond Indonesia requires building brand, networks, and regulatory relationships from scratch in new countries where the company has no incumbency advantage.
 

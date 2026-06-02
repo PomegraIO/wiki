@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Wearable Devices Ltd. makes a product category that barely existed a decade ago: a wristband that reads the subtle electrical signals in your hand and converts them into gestures that control your phone, computer, watch, or headset. The company's core product is called Mudra — a band worn on the wrist that uses sensors to detect when you're making small finger movements in the air, without touching anything. The warrants trade on Nasdaq as WLDSW; the common stock is WLDS. The company is based in Israel and was founded with the conviction that the future of interacting with digital devices lay in invisible gestures rather than screens and buttons.
+Wearable Devices Ltd. makes a product category that barely existed a decade ago: a wristband that reads the subtle electrical signals in your hand and converts them into gestures that control your phone, computer, watch, or headset. The company's core product is called Mudra — a band worn on the wrist that uses sensors to detect when you're making small finger movements in the air, without touching anything. The warrants trade on [Nasdaq](/nasdaq/) as WLDSW; the [common stock](/common-stock/) is WLDS. The company is based in Israel and was founded with the conviction that the future of interacting with digital devices lay in invisible gestures rather than screens and buttons.
 
 The insight underlying Wearable Devices' approach is that people spend hours hunched over screens touching touchpads and screens, and that method of control is physically awkward, slow, and socially obvious — you're visibly swiping or tapping in front of others. A gesture-based interface using finger movements in the air promised something cleaner: control that is faster, requires no contact with surfaces, and is subtle enough that an observer might not immediately notice you're giving a command. This is the kind of product vision that emerges from decades of incremental improvements in sensors and processing power finally reaching a tipping point where the dream becomes buildable.
 
@@ -25,7 +25,7 @@ The company also offers what it calls the SNC sensor module — an operating sys
 
 ## The product line and market positioning
 
-Mudra Band was designed specifically to work with Apple's ecosystem. Apple Watch and iPhone would be the primary targets, with iPad, Mac, Apple TV, and Apple Vision Pro — Apple's spatial computing headset — following as control surfaces. The appeal to Apple users is clear: if your wrist can invisibly control your watch without touching it, you have a new modality of control that is faster and less intrusive than raising your wrist and tapping the small screen.
+Mudra Band was designed specifically to work with Apple's ecosystem. [Apple](/aapl-stock/) Watch and iPhone would be the primary targets, with iPad, Mac, Apple TV, and Apple Vision Pro — Apple's spatial computing headset — following as control surfaces. The appeal to Apple users is clear: if your wrist can invisibly control your watch without touching it, you have a new modality of control that is faster and less intrusive than raising your wrist and tapping the small screen.
 
 More recently, the company developed Mudra Link, a version designed to work with any Bluetooth-compatible device regardless of operating system. This is the broader play — positioning gesture control as a universal input method rather than one locked to Apple's ecosystem. Mudra Link targets the same devices (smartphones, smart watches, augmented reality glasses, virtual reality headsets, personal computers, drones, robots) but agnostic to platform.
 
@@ -33,7 +33,7 @@ The idea that the same gesture language could control a Bluetooth speaker, a sma
 
 ## The market and the competition
 
-The wearable computing market has exploded in the past 15 years. Apple Watch has become the dominant wearable platform in developed markets, with hundreds of millions in circulation. Smartwatches from Samsung, Garmin, Fossil, and others compete for attention. Augmented reality glasses from companies like Meta, Apple, and Microsoft are emerging, albeit at high price points and with limited install bases. Into this landscape comes Wearable Devices with a control interface — not a device itself, but a way to interact with devices that already exist.
+The wearable computing market has exploded in the past 15 years. Apple Watch has become the dominant wearable platform in developed markets, with hundreds of millions in circulation. Smartwatches from Samsung, Garmin, Fossil, and others compete for attention. Augmented reality glasses from companies like Meta, Apple, and [Microsoft](/msft-stock/) are emerging, albeit at high price points and with limited install bases. Into this landscape comes Wearable Devices with a control interface — not a device itself, but a way to interact with devices that already exist.
 
 The company faces competition from existing interaction methods. Voice control (Amazon Alexa, Apple Siri, Google Assistant) is already ubiquitous and requires no wearable. Gesture recognition via cameras is being integrated into phones and devices. Eye-tracking, which detects where you're looking, is entering consumer products. Each of these methods has different trade-offs: voice requires no wearable but is less private and can be unreliable in noisy environments; camera-based gesture recognition requires line of sight but needs no wearable; eye-tracking is fast and subtle but only works if something is tracking your eyes.
 
@@ -47,7 +47,7 @@ The capital structure and cash position — visible in the company's SEC filings
 
 ## The strategic opportunity and the risks
 
-The ultimate value of Wearable Devices depends on whether gesture control becomes a standard input method for consumer devices. If major platforms like Apple, Google, and Microsoft eventually integrate gesture recognition into wearables as a primary control option, companies that pioneered that space could command licensing fees or acquisition prices. If gesture control remains a niche feature that enthusiasts prefer, the company's addressable market stays small and the path to returns becomes uncertain.
+The ultimate value of Wearable Devices depends on whether gesture control becomes a standard input method for consumer devices. If major platforms like Apple, Google, and Microsoft eventually integrate gesture recognition into wearables as a primary control option, companies that pioneered that space could command licensing fees or [acquisition](/acquisition/) prices. If gesture control remains a niche feature that enthusiasts prefer, the company's addressable market stays small and the path to returns becomes uncertain.
 
 The technology itself is sound, and the prototype product works. The risk is not whether Mudra can recognize gestures — it clearly can — but whether consumers will actually want to use gesture control over voice, screens, and buttons; whether device makers will design around it; and whether the company can reach breakeven before capital runs out. Those are business risks, not technical risks, and they are substantial.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-When you buy something at a store and the register asks if you want to split the cost into four interest-free payments, that offer often comes from Bread Financial. The company runs a credit platform for retailers and shoppers — it handles the lending, the underwriting, the data, and the legal setup. Bread makes money when you pay interest on the loan, when you use a Bread-branded credit card (fees from the card network), and when it manages credit for a retailer as a business service.
+When you buy something at a store and the register asks if you want to split the cost into four interest-free payments, that offer often comes from [Bread Financial](/bfh-stock/). The company runs a credit platform for retailers and shoppers — it handles the lending, the underwriting, the data, and the legal setup. Bread makes money when you pay interest on the loan, when you use a Bread-branded credit card (fees from the card network), and when it manages credit for a retailer as a business service.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ When you buy something at a store and the register asks if you want to split the
 
 ## The basic idea: financing built into checkout
 
-Here is the core business. A shopper at a furniture store wants a couch. It costs $2,000. The shopper doesn't have $2,000 today but would happily pay $100 a month for two years. The store could lend the money itself, but that is complicated — it would have to underwrite the customer, hold the credit risk, and manage collection. Instead, the store partners with Bread. Bread checks the shopper's credit instantly, approves the loan or a credit card right there at the register, and handles everything that comes next. The shopper gets financing. The store gets its $2,000 immediately and avoids credit risk. Bread gets a piece of the interest and eventually earns fees for servicing the account.
+Here is the core business. A shopper at a furniture store wants a couch. It costs $2,000. The shopper doesn't have $2,000 today but would happily pay $100 a month for two years. The store could lend the money itself, but that is complicated — it would have to underwrite the customer, hold the [credit risk](/credit-risk/), and manage collection. Instead, the store partners with Bread. Bread checks the shopper's credit instantly, approves the loan or a credit card right there at the register, and handles everything that comes next. The shopper gets financing. The store gets its $2,000 immediately and avoids credit risk. Bread gets a piece of the interest and eventually earns fees for servicing the account.
 
 The shopping moment is crucial. A person at a checkout can be sold on "pay over four months" more easily than a person sitting on the couch at home with time to think. Bread embedded itself into thousands of retail checkouts and merchant websites, so it is the default financing option at the moment of impulse.
 
@@ -49,7 +49,7 @@ The costs are equally straightforward. Bread has to borrow money or take deposit
 
 The profit margin depends on the mix. If Bread is mostly servicing existing portfolios (low cost, recurring), margins are fatter. If Bread is originating and funding many new loans and rates are rising, pressure grows because Bread has to pay more to borrow.
 
-A critical part of the model is securitisation. Bread bundles the loans it originates, sells them to investors as securities, and keeps the servicing contract. That move lets Bread get the loan funding off the balance sheet and transfer the credit risk. But securitisation markets tighten when credit stress builds — and when that happens, Bread has to hold more loans on its own balance sheet, which consumes capital.
+A critical part of the model is securitisation. Bread bundles the loans it originates, sells them to investors as securities, and keeps the servicing contract. That move lets Bread get the loan funding off the [balance sheet](/balance-sheet/) and transfer the credit risk. But securitisation markets tighten when credit stress builds — and when that happens, Bread has to hold more loans on its own balance sheet, which consumes capital.
 
 ## The retail and consumer economy through Bread's lens
 
@@ -59,4 +59,4 @@ The competitive background is worth noting. Traditional credit cards, buy-now-pa
 
 ## Where to look if you are studying Bread
 
-Start with the quarterly earnings reports and the annual filing (SEC CIK 0001101215). Look at originations volume (how many new loans Bread created that quarter), delinquency trends (is the rate customers fall behind rising or falling?), and the health of major retailer relationships. Watch whether revenue is growing more from interest or from servicing — interest is higher-risk but higher-margin; servicing is recurring but lower-margin. Pay attention to securitisations activity — when Bread can securitise loans cheaply, it is borrowing cheaply. When that market tightens, Bread's economics deteriorate. The earnings call is where management discusses merchant health, competitive dynamics, and whether credit standards are tightening or loosening.
+Start with the quarterly earnings reports and the annual filing (SEC CIK 0001101215). Look at originations volume (how many new loans Bread created that quarter), [delinquency](/delinquency/) trends (is the rate customers fall behind rising or falling?), and the health of major retailer relationships. Watch whether revenue is growing more from interest or from servicing — interest is higher-risk but higher-margin; servicing is recurring but lower-margin. Pay attention to securitisations activity — when Bread can securitise loans cheaply, it is borrowing cheaply. When that market tightens, Bread's economics deteriorate. The earnings call is where management discusses merchant health, competitive dynamics, and whether credit standards are tightening or loosening.

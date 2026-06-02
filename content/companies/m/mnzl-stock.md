@@ -27,9 +27,9 @@ Interestingly, many of the screens applied—avoiding high leverage, avoiding si
 
 ## Who is MNZL built for?
 
-MNZL is designed first for Muslim investors in the United States and elsewhere who want broad U.S. stock-market exposure without compromising their religious convictions. Rather than avoiding the stock market entirely, or managing the complexity of trying to screen individual stocks against Islamic principles, investors can own MNZL and be confident the holdings align with Shariah law. The fund also appeals to non-Muslim investors who find the ethical screens aligned with their own values around responsible investment.
+MNZL is designed first for Muslim investors in the United States and elsewhere who want broad U.S. stock-market exposure without compromising their religious convictions. Rather than avoiding the [stock market](/stock-market/) entirely, or managing the complexity of trying to screen individual stocks against Islamic principles, investors can own MNZL and be confident the holdings align with Shariah law. The fund also appeals to non-Muslim investors who find the ethical screens aligned with their own values around responsible investment.
 
-The fund's lower expense ratio compared to actively managed Islamic investment products (like traditional Islamic mutual funds that employ dedicated research teams) makes it accessible to retail investors. The transparency of an ETF—you can see all holdings at any time—also gives investors confidence in what they own.
+The fund's lower [expense ratio](/expense-ratio/) compared to actively managed Islamic investment products (like traditional Islamic [mutual funds](/mutual-fund/) that employ dedicated research teams) makes it accessible to retail investors. The transparency of an ETF—you can see all holdings at any time—also gives investors confidence in what they own.
 
 ## Performance and practical considerations
 

@@ -27,7 +27,7 @@ BorgWarner supplies critical powertrain components to virtually every major auto
 
 ## The business on the ground
 
-BorgWarner manufactures two broad categories of products, both feeding the powertrain — the system that converts fuel (or electricity) into motion. The older, larger legacy business is turbochargers and allied technologies. A turbocharger uses exhaust gas to spin a turbine that forces more air into an engine, letting it produce more power from smaller displacement. This engineering trick became standard across the industry starting in the 1980s as a way to meet efficiency regulations while maintaining performance. The company is among the [global leaders](/glcp-stock/) in turbocharger supply.
+BorgWarner manufactures two broad categories of products, both feeding the powertrain — the system that converts fuel (or electricity) into motion. The older, larger legacy business is turbochargers and allied technologies. A turbocharger uses exhaust gas to spin a turbine that forces more air into an engine, letting it produce more power from smaller displacement. This engineering trick became standard across the industry starting in the 1980s as a way to meet efficiency regulations while maintaining performance. The company is among the global leaders in turbocharger supply.
 
 The second pillar is transmission and drivetrain technologies, including hybrid modules and electric propulsion systems. As automakers began shifting from pure internal combustion toward hybrids and then full electric vehicles, BorgWarner pivoted to supply components for those drivetrains too — electric motors, power electronics, and the software that coordinates them.
 

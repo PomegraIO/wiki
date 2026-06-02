@@ -4,7 +4,7 @@ description: "Digital financial-comparison and personal finance platform based i
 keywords: [fintech, financial comparison, Hong Kong, personal finance, insurance, credit, SaaS]
 ---
 
-*MoneyHero operates a consumer-focused digital platform that aggregates financial products (credit cards, mortgages, insurance, personal loans) from banks and insurers, allowing customers in Hong Kong and Southeast Asia to compare terms, apply online, and track their personal finances. The company does not issue financial products itself; instead, it monetizes through referral fees paid by [financial institutions](/fisi-stock/) when customers complete applications through MoneyHero's platform, alongside subscription revenue from premium features and data licensing to institutional partners.*
+*MoneyHero operates a consumer-focused digital platform that aggregates financial products (credit cards, mortgages, insurance, personal loans) from banks and insurers, allowing customers in Hong Kong and Southeast Asia to compare terms, apply online, and track their personal finances. The company does not issue financial products itself; instead, it monetizes through referral fees paid by financial institutions when customers complete applications through MoneyHero's platform, alongside subscription revenue from premium features and data licensing to institutional partners.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>MNY</td></tr>

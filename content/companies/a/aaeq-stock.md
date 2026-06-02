@@ -13,7 +13,7 @@ handwritten: true
 
 ## What does AAEQ actually hold?
 
-Alpha Architect US Equity 2 ETF (AAEQ) is an actively managed fund that invests in US companies selected according to a set of quality criteria. Rather than tracking an index or holding all US stocks equally, AAEQ's manager applies a systematic filter designed to identify firms with durable business advantages, measured through metrics like return on invested capital, debt levels, and earnings quality. The goal is to own a diversified US equity portfolio that is tilted toward companies that generate strong returns on capital and carry less financial risk than the average large-cap firm.
+Alpha Architect US Equity 2 ETF (AAEQ) is an [actively managed fund](/actively-managed-fund/) that invests in US companies selected according to a set of quality criteria. Rather than tracking an index or holding all US stocks equally, AAEQ's manager applies a systematic filter designed to identify firms with durable business advantages, measured through metrics like [return on invested capital](/return-on-invested-capital/), debt levels, and [earnings quality](/earnings-quality/). The goal is to own a diversified US equity portfolio that is tilted toward companies that generate strong returns on capital and carry less financial risk than the average large-cap firm.
 
 ## How is quality defined here?
 
@@ -21,15 +21,15 @@ The Alpha Architect methodology is rule-based but not mechanical. The fund empha
 
 ## How often does the fund trade?
 
-AAEQ is not a buy-and-hold index fund. The Alpha Architect process involves regular rebalancing and position adjustments as new fundamental data emerges. That means tax drag in taxable accounts and more frequent bid-ask spreads than a totally passive index. The fund aims to be tax-efficient for such an active strategy—not by avoiding trades, but by being thoughtful about when and how it makes them—but active management always carries more turnover than holding an index.
+AAEQ is not a buy-and-hold [index fund](/index-fund/). The Alpha Architect process involves regular rebalancing and position adjustments as new fundamental data emerges. That means tax drag in taxable accounts and more frequent [bid-ask spreads](/bid-ask-spread/) than a totally passive index. The fund aims to be tax-efficient for such an active strategy—not by avoiding trades, but by being thoughtful about when and how it makes them—but active management always carries more turnover than holding an index.
 
 ## What are the costs?
 
-As an actively managed ETF, AAEQ carries an expense ratio that is meaningfully higher than a passive US equity index fund, but competitive with other actively managed quality-focused strategies. The fee reflects both the manager's research and the ongoing cost of stock selection and portfolio maintenance. When evaluating AAEQ against a passive alternative, the question is not whether the fee is low, but whether the quality tilt has historically added enough return to justify it.
+As an actively managed ETF, AAEQ carries an [expense ratio](/expense-ratio/) that is meaningfully higher than a passive US equity index fund, but competitive with other actively managed quality-focused strategies. The fee reflects both the manager's research and the ongoing cost of stock selection and portfolio maintenance. When evaluating AAEQ against a passive alternative, the question is not whether the fee is low, but whether the quality tilt has historically added enough return to justify it.
 
 ## What could go wrong?
 
-The biggest risk is style drift. If the market rewards unprofitable growth stocks or high-leverage firms for an extended period, a quality-tilted portfolio will lag significantly. The 2010s saw periods of pronounced underperformance for quality-focused strategies as mega-cap tech stocks without regard to traditional profitability metrics dominated returns. Another risk is concentration: while AAEQ is diversified, a systematic quality filter can sometimes inadvertently tilt the portfolio toward a particular sector or size cohort, creating hidden concentration risk.
+The biggest risk is style drift. If the market rewards unprofitable growth stocks or high-leverage firms for an extended period, a quality-tilted portfolio will lag significantly. The 2010s saw periods of pronounced underperformance for quality-focused strategies as mega-cap tech stocks without regard to traditional profitability metrics dominated returns. Another risk is concentration: while AAEQ is diversified, a systematic quality filter can sometimes inadvertently tilt the portfolio toward a particular sector or size cohort, creating hidden [concentration risk](/concentration-risk/).
 
 ## How to research AAEQ
 

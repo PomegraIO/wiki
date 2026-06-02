@@ -16,11 +16,11 @@ keywords: ["REIT", "net lease", "commercial property", "FFO", "leverage", "divid
 
 ## Property Valuations and Book Value
 
-ICRL's primary assets are real estate properties—office, retail, industrial, or specialty buildings leased to creditworthy tenants under long-term net-lease agreements. These properties appear on the [balance-sheet](/balance-sheet/) at cost, less [accumulated depreciation](/accumulated-depreciation/). Unlike operating companies that depreciate machinery over 7–10 years, real estate is depreciated over 39 years under current tax law. This creates a permanent gap between book value (cost minus accumulated depreciation) and market value (what the property would fetch in a sale today).
+ICRL's primary assets are real estate properties—office, retail, industrial, or specialty buildings leased to creditworthy tenants under long-term net-lease agreements. These properties appear on the [balance-sheet](/balance-sheet/) at cost, less [accumulated depreciation](/accumulated-depreciation/). Unlike operating companies that depreciate machinery over 7–10 years, real estate is depreciated over 39 years under current tax law. This creates a permanent gap between book value (cost minus accumulated [depreciation](/depreciation/)) and market value (what the property would fetch in a sale today).
 
-ICRL regularly revalues its property portfolio, particularly when acquisitions occur or when economic conditions shift materially. Book value per share is a primary metric for REIT investors, as it approximates the equity value embedded in the property base. However, book value underestimates true property value during inflationary periods or strong real estate markets, and may overstate it during downturns. Sophisticated REIT investors adjust book value for capitalization rates (the yield implied by property valuations) and compare them to current market cap to identify trading discounts or premiums.
+ICRL regularly revalues its property portfolio, particularly when [acquisitions](/acquisition/) occur or when economic conditions shift materially. Book value per share is a primary metric for REIT investors, as it approximates the equity value embedded in the property base. However, book value underestimates true property value during inflationary periods or strong real estate markets, and may overstate it during downturns. Sophisticated REIT investors adjust book value for capitalization rates (the yield implied by property valuations) and compare them to current [market cap](/market-capitalization/) to identify trading discounts or premiums.
 
-The company's ability to grow book value hinges on acquiring properties below [intrinsic value](/intrinsic-value/) and managing occupancy and tenant credit quality. Each acquisition is recorded at purchase price, resetting the depreciation base and amortization schedule. A portfolio that is 100% occupied and earning contractual rents generates steady book value—no growth, but no destruction either. Acquisitions at attractive yields, or dispositions at premium prices, drive book value expansion.
+The company's ability to grow book value hinges on acquiring properties below [intrinsic value](/intrinsic-value/) and managing occupancy and tenant credit quality. Each acquisition is recorded at purchase price, resetting the depreciation base and [amortization](/amortization/) schedule. A portfolio that is 100% occupied and earning contractual rents generates steady book value—no growth, but no destruction either. Acquisitions at attractive yields, or dispositions at premium prices, drive book value expansion.
 
 ## Rent Rolls and Cash Flow Predictability
 
@@ -38,35 +38,35 @@ FFO includes rent income, operating expenses, interest on debt, and taxes, arriv
 
 ## Tenant Credit Risk and Loan-Loss Provisions
 
-ICRL's tenants are obligors on multiyear leases. If a tenant defaults, ICRL must pursue eviction and re-leasing, a process that may take months and leave the property vacant. The balance sheet includes an allowance for doubtful rents—an accrual estimating uncollectible lease payments. During economic downturns or sector-specific stress (e.g., retail collapse, office obsolescence), tenant credit risk rises and ICRL must increase its allowance, reducing reported earnings.
+ICRL's tenants are obligors on multiyear leases. If a tenant defaults, ICRL must pursue eviction and re-leasing, a process that may take months and leave the property vacant. The balance sheet includes an allowance for doubtful rents—an accrual estimating uncollectible lease payments. During economic downturns or sector-specific stress (e.g., retail collapse, office obsolescence), tenant [credit risk](/credit-risk/) rises and ICRL must increase its allowance, reducing reported earnings.
 
-Tenant identity and [credit ratings](/credit-rating/) matter enormously. ICRL properties leased to investment-grade corporations or government entities face minimal default risk; those leased to sub-investment-grade or small private operators carry higher risk. A portfolio concentration in a single tenant class (e.g., quick-service restaurants, fitness centers) creates sector-specific risk that amplifies during industry downturns. Investors reading ICRL's balance sheet should review the tenant concentration table and default rates in the recent 10-K filing.
+Tenant identity and [credit ratings](/credit-rating/) matter enormously. ICRL properties leased to investment-grade corporations or government entities face minimal default risk; those leased to sub-investment-grade or small private operators carry higher risk. A portfolio concentration in a single tenant class (e.g., quick-service restaurants, fitness centers) creates sector-specific risk that amplifies during industry downturns. Investors reading ICRL's balance sheet should review the tenant concentration table and [default rates](/default-rate/) in the recent 10-K filing.
 
 ## Leverage and Debt Maturity
 
 ICRL uses debt to acquire properties and fund dividends, typically maintaining a loan-to-value (LTV) ratio of 40–60%. This leverage amplifies equity returns: if properties yield 5% and debt costs 4%, the spread of 1% flows to equity, boosting returns on the company's equity capital. However, leverage also increases vulnerability to interest-rate rises, [refinancing risk](/refinancing-risk/), and forced asset sales during downturns.
 
-ICRL's debt is typically split between senior secured loans (collateralized by the property portfolio) and unsecured bonds or revolving credit facilities. Senior debt gets priority in defaults; unsecured debt is subordinated and trades at higher yields to compensate investors for higher risk.
+ICRL's debt is typically split between senior secured loans (collateralized by the property portfolio) and unsecured [bonds](/bond/) or revolving credit facilities. Senior debt gets priority in defaults; unsecured debt is subordinated and trades at higher yields to compensate investors for higher risk.
 
-Debt maturity schedules are critical for REIT stability. If 30% of debt matures in a single year, ICRL faces refinancing risk—if credit markets tighten or if [interest rates](/interest-rate/) have risen, refinancing becomes more expensive or impossible. Laddered maturities, with debt expiring gradually across 5–10 years, provide flexibility and reduce rollover risk.
+Debt maturity schedules are critical for REIT stability. If 30% of debt matures in a single year, ICRL faces refinancing risk—if credit markets tighten or if [interest rates](/interest-rate/) have risen, refinancing becomes more expensive or impossible. Laddered maturities, with debt expiring gradually across 5–10 years, provide flexibility and reduce [rollover risk](/rollover-risk/).
 
 [Interest-rate risk](/interest-rate-risk/) is substantial for floating-rate debt. If ICRL has $500 million in floating-rate borrowings and rates rise 1%, annual interest expense rises by $5 million, reducing FFO and dividend capacity. Fixed-rate debt eliminates this risk but locks in rates; in a falling-rate environment, fixed-rate debt becomes expensive relative to newly issued variable-rate alternatives.
 
 ## Acquisition and Disposition
 
-ICRL grows by acquiring properties at attractive yields—ideally above the cost of capital and above the current [dividend yield](/dividend-yield/). A property acquired at a 5.5% cap rate when ICRL's cost of capital (blended debt and equity) is 6% is accretive to FFO per share and supports higher dividends. Conversely, acquisitions at below-cost-of-capital yields dilute shareholder value.
+ICRL grows by acquiring properties at attractive yields—ideally above the cost of capital and above the current [dividend yield](/dividend-yield/). A property acquired at a 5.5% [cap rate](/cap-rate/) when ICRL's cost of capital (blended debt and equity) is 6% is accretive to FFO per share and supports higher dividends. Conversely, acquisitions at below-cost-of-capital yields dilute shareholder value.
 
 Dispositions trim the portfolio of properties that no longer fit the strategy or that can be sold at premium valuations. Sales generate one-time gains that hit the [income statement](/income-statement/) but do not reflect recurring cash flow. A REIT relying heavily on gains from dispositions, rather than rent growth and acquisitions, is cannibalizing its asset base.
 
 ## Operating Expense and Tenant Responsibility
 
-In pure net-lease deals, the tenant pays property taxes, insurance, and operating costs, leaving ICRL with only rent income (minus debt service and corporate overhead). This limits ICRL's exposure to cost inflation. However, ICRL still bears:
+In pure net-lease deals, the tenant pays property taxes, insurance, and operating costs, leaving ICRL with only rent income (minus debt service and corporate overhead). This limits ICRL's exposure to cost [inflation](/inflation/). However, ICRL still bears:
 - Lease execution costs and tenant allowances when renewing or acquiring properties
 - Vacancy periods when properties are untenanted
 - Occasional capital repairs if leases require landlord responsibility for structural issues
 - Corporate overhead (management, accounting, compliance, investor relations)
 
-Triple-net (NNN) leases, the gold standard, shift all three cost categories to tenants. Double-net (NN) and single-net (N) leases shift fewer costs. ICRL's lease mix determines how much operating-expense volatility the company faces.
+Triple-net (NNN) leases, the [gold standard](/gold-standard/), shift all three cost categories to tenants. Double-net (NN) and single-net (N) leases shift fewer costs. ICRL's lease mix determines how much operating-expense volatility the company faces.
 
 ## Covenant Compliance and Liquidity
 

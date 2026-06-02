@@ -13,7 +13,7 @@ handwritten: true
 
 Synlogic is a biotech company building medicines out of engineered bacteria. The company takes well-known, safe probiotic microbes, adds genes that give them therapeutic functions, and delivers them orally so they can do their work inside the gut. This synthetic biotic approach is novel. Instead of making chemical drugs in vats and putting pills in people's mouths, Synlogic is programming living cells to become the medicine.
 
-The company is based in Winchester, Massachusetts, and trades on the stock exchange. It is pre-revenue in the traditional sense—no approved drugs, no sales yet. Like most clinical-stage biotech companies, Synlogic burns cash as it runs trials and develops its pipeline. The company's value depends entirely on whether its drug candidates work, get approved by regulators, and eventually reach patients.
+The company is based in Winchester, Massachusetts, and trades on the [stock exchange](/stock-exchange/). It is pre-revenue in the traditional sense—no approved drugs, no sales yet. Like most clinical-stage biotech companies, Synlogic burns cash as it runs trials and develops its pipeline. The company's value depends entirely on whether its drug candidates work, get approved by regulators, and eventually reach patients.
 
 ## How synthetic biotics work in plain terms
 
@@ -53,7 +53,7 @@ The fourth risk is competitive. The synthetic biology space is increasingly crow
 
 As of early 2025, Synlogic had experienced significant setbacks. The company discontinued its Phase 3 trial for PKU in early 2024, which was a major blow. A 90% workforce reduction followed, indicating the company had to drastically cut costs and refocus. This is the reality of clinical-stage biotech—one bad trial result can upend the entire strategy.
 
-The company now has a much smaller team and is presumably regrouping around its remaining pipeline programs. The future depends on whether the company can restart PKU development, advance homocystinuria or another program, and secure additional funding. Synlogic has partnerships with Roche and Ginkgo Bioworks, which provide some validation and potential support, but the company must demonstrate progress or it will struggle to raise capital.
+The company now has a much smaller team and is presumably regrouping around its remaining pipeline programs. The future depends on whether the company can restart PKU development, advance homocystinuria or another program, and secure additional funding. Synlogic has partnerships with Roche and [Ginkgo Bioworks](/dna-stock/), which provide some validation and potential support, but the company must demonstrate progress or it will struggle to raise capital.
 
 ## How to research Synlogic
 

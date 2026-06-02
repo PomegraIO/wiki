@@ -20,7 +20,7 @@ NOCOPI was incorporated in 1983 and began developing specialty ink technology in
 
 NOCOPI focused on inks that could remain completely invisible until activated — a highlighter-activated mark revealed only under a special fluorescent pen, a heat-activated color that appeared only when warmed, friction-activated inks that showed an image when rubbed. The core innovation was Copimark, an invisible-ink technology that revealed information when users applied a designated highlighter pen to the correct spot on a document. The system was elegant: impossible to counterfeit because the ink formulation was proprietary, and users could verify authenticity at the point of transaction.
 
-The company built its early business by licensing Copimark to security printers, check manufacturers, and [financial institutions](/fisi-stock/). Banks adopted it for checks, retailers for gift cards and prepaid instruments, travel companies for travelers' checks. The technology provided a layer of authentication that was difficult and expensive to replicate.
+The company built its early business by licensing Copimark to security printers, check manufacturers, and financial institutions. Banks adopted it for checks, retailers for gift cards and prepaid instruments, travel companies for travelers' checks. The technology provided a layer of authentication that was difficult and expensive to replicate.
 
 ## Product diversification
 

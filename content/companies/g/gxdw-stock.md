@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Global X Dorsey Wright Thematic ETF** (NASDAQ: GXDW) is a fund-of-funds that invests in a collection of thematic ETFs instead of individual securities. Rather than picking stocks, the fund bets on broad structural trends — artificial intelligence, e-commerce, clean energy, demographics — and rotates capital among them based on a momentum-ranking system that identifies which themes are gaining strength.*
+*The **Global X Dorsey Wright [Thematic ETF](/thematic-etf/)** ([NASDAQ](/nasdaq/): GXDW) is a fund-of-funds that invests in a collection of thematic ETFs instead of individual securities. Rather than picking stocks, the fund bets on broad structural trends — artificial intelligence, e-commerce, clean energy, demographics — and rotates capital among them based on a momentum-ranking system that identifies which themes are gaining strength.*
 
 ## Structure and strategy
 
@@ -55,7 +55,7 @@ GXDW is less suitable for buy-and-hold investors seeking stability. Monthly reba
 
 ## The costs and trade-offs
 
-The fund's expense ratio reflects its role as a fund-of-funds: it pays the fees of the underlying ETFs (each of which carries its own expense ratio in the 0.70%–1.00% range) plus a management fee. The all-in cost is typically in the 0.80%–1.20% range. That is higher than a broad passive index fund (0.03%–0.10%) but reasonable for a dynamically managed thematic strategy.
+The fund's [expense ratio](/expense-ratio/) reflects its role as a fund-of-funds: it pays the fees of the underlying ETFs (each of which carries its own expense ratio in the 0.70%–1.00% range) plus a [management fee](/management-fee/). The all-in cost is typically in the 0.80%–1.20% range. That is higher than a broad passive [index fund](/index-fund/) (0.03%–0.10%) but reasonable for a dynamically managed thematic strategy.
 
 The real cost beyond the expense ratio is opportunity cost. By rotating out of a theme early, GXDW captures gains on the way up but misses the final leg when late-comers pile in. By rotating in to a theme late (when it has gained momentum), GXDW sometimes buys near peaks, only to see the theme stall. Over long periods, the realized cost of this timing is unpredictable and hard to hedge.
 
@@ -63,7 +63,7 @@ The real cost beyond the expense ratio is opportunity cost. By rotating out of a
 
 With only six holdings (five thematic ETFs plus cash), GXDW is concentrated. The top ten holdings of the underlying ETFs constitute 99.9% of the fund's assets — meaning it holds a narrow slice of the thematic universe. This concentration delivers powerful upside when the highest-ranked themes deliver; it also means sharp underperformance if the momentum signal breaks and those themes fall abruptly.
 
-The diversification claim — exposure to multiple themes — is only as good as the themes' correlation to one another. If all five themes move together during a market downturn, they will all decline together, negating the diversification benefit.
+The [diversification](/diversification/) claim — exposure to multiple themes — is only as good as the themes' correlation to one another. If all five themes move together during a market downturn, they will all decline together, negating the diversification benefit.
 
 ## How to research GXDW
 

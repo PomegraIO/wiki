@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-OLB Group, Inc. is a fintech business that evolved from a single-purpose point-of-sale software maker into a merchant-services conglomerate spanning payment processing, retail software, crowdfunding infrastructure, and Bitcoin mining. It is, in other words, a collection of businesses tied together by proximity to financial services, trying to serve the underserved small-merchant market and find scale through diversification.
+OLB Group, Inc. is a fintech business that evolved from a single-purpose point-of-sale software maker into a merchant-services conglomerate spanning payment processing, retail software, crowdfunding infrastructure, and [Bitcoin](/bitcoin/) mining. It is, in other words, a collection of businesses tied together by proximity to financial services, trying to serve the underserved small-merchant market and find scale through [diversification](/diversification/).
 
 ## The Software Years: OmniSoft's First Decade
 
@@ -25,7 +25,7 @@ To defend against commoditization and generate more revenue per customer, OLB be
 
 This led to the development of eVance, a payment processing product, and SecurePay, a payment gateway and virtual terminal with built-in business management tools. Payment processing is a higher-margin, higher-velocity business than software alone. A merchant processing a million dollars a month might pay 3 percent of that volume to the processor — substantial recurring revenue with minimal additional software cost.
 
-However, payment processing also creates working capital needs and regulatory obligations. Payment processors must maintain minimum capital reserves, comply with network rules set by Visa and Mastercard, and manage fraud risk. For a small company, these requirements are a barrier. OLB answered partly by partnering with larger processors who handled the compliance and capital burden, and OLB took a margin on top. This "white label" approach lowered OLB's own capital requirements but also lowered its margins.
+However, payment processing also creates working capital needs and regulatory obligations. Payment processors must maintain minimum capital reserves, comply with network rules set by Visa and [Mastercard](/ma-stock/), and manage fraud risk. For a small company, these requirements are a barrier. OLB answered partly by partnering with larger processors who handled the compliance and capital burden, and OLB took a margin on top. This "white label" approach lowered OLB's own capital requirements but also lowered its margins.
 
 ## PayFac: The Modernization Play
 
@@ -49,8 +49,8 @@ The business model works if OLB can convince merchants to use its payment proces
 
 ## The Scale Problem
 
-OLB's broader challenge is one of scale and specificity. Larger fintech companies (Square, Stripe, PayPal) dominate the merchant-services space through network effects, brand recognition, and capital depth. OLB cannot match them. Smaller, niche players can win by focusing deeply on a specific industry — say, restaurants or fitness studios — and becoming indispensable. OLB tries to serve a broad small-merchant base, which is neither a defensible position nor one where it has a moat.
+OLB's broader challenge is one of scale and specificity. Larger fintech companies (Square, Stripe, [PayPal](/pypl-stock/)) dominate the merchant-services space through network effects, brand recognition, and capital depth. OLB cannot match them. Smaller, niche players can win by focusing deeply on a specific industry — say, restaurants or fitness studios — and becoming indispensable. OLB tries to serve a broad small-merchant base, which is neither a defensible position nor one where it has a moat.
 
 ## How to Research OLB
 
-The company files annual reports with the SEC (CIK 0001314196) that disclose revenue by segment, payment-processing volume, customer counts, and profitability metrics. The quarterly earnings calls reveal management's latest strategy and which segments are receiving investment. Investors should watch the trajectory of payment-processing volume and margins, the growth in PayFac onboarding, and whether the company is moving toward profitability or drifting deeper into losses. For a diversified small-cap, the risk is that the various bets never cohere into a coherent value story.
+The company files [annual reports](/10-k/) with the SEC (CIK 0001314196) that disclose revenue by segment, payment-processing volume, customer counts, and profitability metrics. The quarterly earnings calls reveal management's latest strategy and which segments are receiving investment. Investors should watch the trajectory of payment-processing volume and margins, the growth in PayFac onboarding, and whether the company is moving toward profitability or drifting deeper into losses. For a diversified small-cap, the risk is that the various bets never cohere into a coherent value story.

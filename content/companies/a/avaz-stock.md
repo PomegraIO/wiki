@@ -36,7 +36,7 @@ handwritten: true
 
 ## What Avalanche is
 
-Avalanche is a blockchain — a decentralized network where applications run without a single central authority. Bitcoin is blockchain for money. Ethereum is blockchain for general-purpose applications. Avalanche is another blockchain that competes in the same space, with its own design choices aimed at speed, throughput, and programmability.
+Avalanche is a blockchain — a decentralized network where applications run without a single central authority. [Bitcoin](/bitcoin/) is blockchain for money. [Ethereum](/ethereum/) is blockchain for general-purpose applications. Avalanche is another blockchain that competes in the same space, with its own design choices aimed at speed, throughput, and programmability.
 
 Avalanche launched its native cryptocurrency token, AVAX, to secure the network and pay for transactions. Like all cryptocurrencies, AVAX's price fluctuates based on investor sentiment, usage of the network, competition from other blockchains, and regulatory moves. AVAZ's job is to track AVAX and amplify its daily moves by 2x.
 
@@ -50,11 +50,11 @@ The payoff: if AVAX rises 10%, a $10,000 direct stake becomes $11,000 (10% gain)
 
 AVAZ rebalances every single day. This is crucial and often misunderstood.
 
-Imagine AVAX rises 10% on day one. A $10,000 2x fund position becomes $12,000 (you gained $2,000). Overnight, the fund rebalances back to exactly 2x leverage. It sells some AVAX and borrows money to bring the leverage ratio back to precisely 2x.
+Imagine AVAX rises 10% on day one. A $10,000 2x fund position becomes $12,000 (you gained $2,000). Overnight, the fund rebalances back to exactly 2x leverage. It sells some AVAX and borrows money to bring the [leverage ratio](/leverage-ratio-forex/) back to precisely 2x.
 
 Now imagine AVAX falls 5% on day two. That $12,000 position becomes $11,400. But because the fund started day two at 2x leverage (not higher due to the day-one gain), day two's loss is a clean 10%, bringing the position to $10,800 — not $10,400 as it would be if the fund had left leverage at the amplified level.
 
-This daily reset creates a phenomenon called volatility decay or decay drag. In a sideways market where AVAX bounces up and down (say, +8%, -7%, +6%, -5% over four days), the fund loses money to rebalancing costs and the compounding math of daily resets, even though AVAX has gone nowhere in the long run. Volatility decay is the hidden cost of leveraged ETFs.
+This daily reset creates a phenomenon called volatility decay or decay drag. In a sideways market where AVAX bounces up and down (say, +8%, -7%, +6%, -5% over four days), the fund loses money to rebalancing costs and the compounding math of daily resets, even though AVAX has gone nowhere in the long run. Volatility decay is the hidden cost of [leveraged ETFs](/leveraged-etf/).
 
 ## Who should not hold this
 
@@ -66,15 +66,15 @@ Cryptocurrency itself carries extreme risk. AVAX is illiquid compared to stocks,
 
 ## The real costs
 
-AVAZ charges a high expense ratio (typically 1–2%+ annually) to cover the cost of daily rebalancing, borrowing, and management. On top of that, there is the volatility decay drag — the mathematics of daily resetting in a choppy market. In a month of net sideways movement, an investor might lose 2–5% to these costs alone, even if AVAX itself is flat.
+AVAZ charges a high [expense ratio](/expense-ratio/) (typically 1–2%+ annually) to cover the cost of daily rebalancing, borrowing, and management. On top of that, there is the volatility decay drag — the mathematics of daily resetting in a choppy market. In a month of net sideways movement, an investor might lose 2–5% to these costs alone, even if AVAX itself is flat.
 
-There is also slippage during market stress. On days when AVAX moves 20–30%, the fund's rebalancing may happen at unfavourable prices, or borrowing costs spike, or bid-ask spreads widen. The 2x amplification can work against you in tail events.
+There is also slippage during market stress. On days when AVAX moves 20–30%, the fund's rebalancing may happen at unfavourable prices, or borrowing costs spike, or [bid-ask spreads](/bid-ask-spread/) widen. The 2x amplification can work against you in tail events.
 
 ## How traders use it
 
 AVAZ is a tool for traders with a strong conviction that AVAX will rally over the next few days or weeks. Someone who believes AVAX will rise 15% in the next two weeks might use AVAZ to capture a 30% gain, rather than buying AVAX directly. But that same trader expects to exit within days or weeks, not hold for months.
 
-Day traders and swing traders sometimes use leveraged funds because the tax treatment can be cleaner than actively trading options, and the mechanics are simpler than borrowing on margin through a broker. But it is a short-term tactical tool, not a portfolio staple.
+Day traders and swing traders sometimes use leveraged funds because the tax treatment can be cleaner than actively trading options, and the mechanics are simpler than borrowing on margin through a [broker](/broker/). But it is a short-term tactical tool, not a portfolio staple.
 
 ## How to research AVAZ
 

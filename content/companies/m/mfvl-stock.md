@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Motley Fool Value Factor ETF (Nasdaq: MFVL) tracks a universe of U.S. stocks filtered through The Motley Fool's quantitative analysis. Rather than holding all stocks in a broad market index, MFVL concentrates on companies that appear undervalued relative to their fundamentals — a deliberate tilt toward value investing within a diversified equity format.
+The Motley Fool Value [Factor ETF](/factor-etf/) ([Nasdaq](/nasdaq/): MFVL) tracks a universe of U.S. stocks filtered through The Motley Fool's quantitative analysis. Rather than holding all stocks in a broad market index, MFVL concentrates on companies that appear undervalued relative to their fundamentals — a deliberate tilt toward [value investing](/value-investing/) within a diversified equity format.
 
 ## The Origins: From Recommendation Universe to Index
 
@@ -23,27 +23,27 @@ The fund's universe is drawn from Fool Intelligence (the firm's analyst database
 
 MFVL applies three proprietary scoring systems, each targeting a different dimension of value:
 
-**Adjusted book-to-price** measures how cheap a company is relative to the value of its tangible and intangible assets. It makes adjustments for goodwill, fixed capital, and estimates the value of research and development, brand, and operating assets — attempting to reflect the true productive capital of the business rather than accepting accounting book value at face value.
+**Adjusted book-to-price** measures how cheap a company is relative to the value of its tangible and [intangible assets](/intangible-assets/). It makes adjustments for [goodwill](/goodwill/), fixed capital, and estimates the value of research and development, brand, and operating assets — attempting to reflect the true productive capital of the business rather than accepting accounting book value at face value.
 
-**Gross profits-to-enterprise value** anchors the value tilt to top-line earnings power. By comparing the company's gross profit to the total value of its equity and debt, this score yields a measure of earnings yield that complements the book-value perspective and identifies companies generating solid returns on capital.
+**Gross profits-to-enterprise value** anchors the value tilt to top-line earnings power. By comparing the company's gross profit to the total value of its equity and debt, this score yields a measure of [earnings yield](/earnings-yield/) that complements the book-value perspective and identifies companies generating solid returns on capital.
 
-**Total shareholder yield** extends beyond the dividend. It includes buybacks, debt reduction, and other ways a company returns cash to shareholders, capturing the full picture of incremental shareholder returns rather than only dividend payments.
+**Total shareholder yield** extends beyond the [dividend](/dividend/). It includes buybacks, debt reduction, and other ways a company returns cash to shareholders, capturing the full picture of incremental shareholder returns rather than only dividend payments.
 
 The fund combines these three scores into a composite ranking. Companies that rank high across multiple dimensions are overweighted; those with weak scores are underweighted or excluded.
 
 ## Structure and Holdings
 
-MFVL is a passively managed fund using a replication strategy — it holds all or substantially all of the index securities. At least 80% of fund assets are invested in index components. The portfolio is reconstituted periodically as scores change and companies enter or leave The Motley Fool's recommendation universe.
+MFVL is a [passively managed fund](/passively-managed-fund/) using a replication strategy — it holds all or substantially all of the index securities. At least 80% of fund assets are invested in index components. The portfolio is reconstituted periodically as scores change and companies enter or leave The Motley Fool's recommendation universe.
 
-The holdings generally span large and mid-cap stocks across all sectors, though the value tilt naturally skews toward sectors like industrials, financials, and consumer goods where undervaluation is often more apparent than in growth-oriented technology. The fund typically holds more than 100 securities, providing genuine diversification even within the value-tilted universe.
+The holdings generally span large and mid-cap stocks across all sectors, though the value tilt naturally skews toward sectors like industrials, financials, and consumer goods where undervaluation is often more apparent than in growth-oriented technology. The fund typically holds more than 100 securities, providing genuine [diversification](/diversification/) even within the value-tilted universe.
 
 ## Costs and Mechanics
 
-MFVL carries an expense ratio in the mid-range for equity ETFs, reflecting the operational cost of maintaining the underlying index and the screening methodology. The fund trades on Nasdaq with typically adequate daily volume and tight bid-ask spreads, making it accessible for routine buying and selling.
+MFVL carries an [expense ratio](/expense-ratio/) in the mid-range for [equity ETFs](/equity-etf/), reflecting the operational cost of maintaining the underlying index and the screening methodology. The fund trades on Nasdaq with typically adequate daily volume and tight [bid-ask spreads](/bid-ask-spread/), making it accessible for routine buying and selling.
 
 ## The Real Risks
 
-The fund's concentrated focus on undervalued stocks introduces both opportunity and vulnerability. Value investing has periods of outperformance and underperformance relative to growth stocks. During prolonged bull markets favoring high-growth companies, a value-tilted fund will lag. Additionally, while the Motley Fool's analytical reputation provides a quality filter, the index is not immune to value traps — stocks that appear cheap because their businesses are genuinely deteriorating rather than temporarily undervalued.
+The fund's concentrated focus on undervalued stocks introduces both opportunity and vulnerability. Value investing has periods of outperformance and underperformance relative to growth stocks. During prolonged [bull markets](/bull-market/) favoring high-growth companies, a value-tilted fund will lag. Additionally, while the Motley Fool's analytical reputation provides a quality filter, the index is not immune to value traps — stocks that appear cheap because their businesses are genuinely deteriorating rather than temporarily undervalued.
 
 Like any concentrated strategy within the equity market, MFVL carries volatility and drawdown risk if markets decline sharply. It also depends on the ongoing quality and discipline of The Motley Fool's analytical process; changes in the firm's methodology or editorial standards could alter the fund's characteristics over time.
 

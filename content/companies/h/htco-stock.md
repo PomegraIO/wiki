@@ -41,7 +41,7 @@ Operating leverage is minimal. Many trading firms have outsourced logistics, so 
 
 ## Currency Risk and International Operations
 
-A firm engaged in international trade faces currency exposure. If High-Trend sources in one currency (say, Chinese yuan) and sells in another (U.S. dollars or euros), a swing in the exchange rate directly hits margins. The 10-K should disclose whether the firm hedges [currency risk](/currency-risk/) (using forwards or options) or accepts it as a business cost. Unhedged currency exposure adds volatility to earnings and makes the business harder to forecast.
+A firm engaged in international trade faces currency exposure. If High-Trend sources in one currency (say, Chinese yuan) and sells in another ([U.S. dollars](/us-dollar/) or euros), a swing in the exchange rate directly hits margins. The 10-K should disclose whether the firm hedges [currency risk](/currency-risk/) (using forwards or options) or accepts it as a business cost. Unhedged currency exposure adds volatility to earnings and makes the business harder to forecast.
 
 ## Customer and Supplier Concentration
 

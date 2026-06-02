@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Abpro Holdings, Inc. makes engineered antibodies — proteins that the immune system uses to recognize and attack disease. The company designs antibodies that do something natural antibodies don't: they hit two targets at once, or combine different antibody shapes for a stronger effect. The company's common stock trades as ABP; the warrants trade as ABPWW on the Nasdaq Capital Market. Abpro was incorporated in 2004 and is based in Woburn, Massachusetts.
+Abpro Holdings, Inc. makes engineered antibodies — proteins that the immune system uses to recognize and attack disease. The company designs antibodies that do something natural antibodies don't: they hit two targets at once, or combine different antibody shapes for a stronger effect. The company's [common stock](/common-stock/) trades as ABP; the warrants trade as ABPWW on the [Nasdaq](/nasdaq/) Capital Market. Abpro was incorporated in 2004 and is based in Woburn, Massachusetts.
 
 ## What antibodies are and why you might engineer them
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Mountain Crest Acquisition Corp. V units, trading as MCAGU, are bundles of two securities sold together during the company's initial public offering. Each unit contains one share of MCAG common stock and a warrant — a right to buy another share later at a fixed price. The sponsor packaged them together because bundling lowers the entry price for retail investors and makes the offering easier to market.
+Mountain Crest [Acquisition](/acquisition/) Corp. V units, trading as MCAGU, are bundles of two securities sold together during the company's [initial public offering](/initial-public-offering/). Each unit contains one share of MCAG [common stock](/common-stock/) and a warrant — a right to buy another share later at a fixed price. The sponsor packaged them together because bundling lowers the entry price for retail investors and makes the offering easier to market.
 
 <aside class="wiki-infobox">
 <table>
@@ -39,13 +39,13 @@ Some investors split immediately because they want exposure to the warrant's ups
 
 ## The warrant inside the unit
 
-The warrant is the real leverage play. Say the unit costs $10 and splits into a $9 share and $1 warrant. The warrant gives you the right to buy another share at a strike price — perhaps $11.50 — any time within a certain window. If the merged company's stock eventually trades at $20, your warrant lets you buy it for $11.50, capturing $8.50 of upside. But if the stock falls to $8, the warrant is worthless because you would not exercise it — you can buy the stock cheaper on the open market.
+The warrant is the real leverage play. Say the unit costs $10 and splits into a $9 share and $1 warrant. The warrant gives you the right to buy another share at a [strike price](/strike-price/) — perhaps $11.50 — any time within a certain window. If the merged company's stock eventually trades at $20, your warrant lets you buy it for $11.50, capturing $8.50 of upside. But if the stock falls to $8, the warrant is worthless because you would not exercise it — you can buy the stock cheaper on the open market.
 
 Warrants are leveraged instruments. They amplify both gains and losses. You can lose your entire warrant investment if the merged company's shares never trade above the strike price.
 
 ## What happens at merger time
 
-When Mountain Crest announces a target and shareholders approve a business combination, the unit structure remains in place unless investors choose to split. The share becomes a share in the merged company. The warrant remains outstanding and becomes exercisable on whatever schedule the prospectus dictates — usually immediately after the merger closes, but sometimes after a lock-up period or only if the share price hits certain milestones.
+When Mountain Crest announces a target and shareholders approve a [business combination](/business-combination-purchase/), the unit structure remains in place unless investors choose to split. The share becomes a share in the merged company. The warrant remains outstanding and becomes exercisable on whatever schedule the prospectus dictates — usually immediately after the [merger](/merger/) closes, but sometimes after a [lock-up period](/lock-up-period/) or only if the share price hits certain milestones.
 
 The unit itself ceases to exist as a tradeable security once the company is no longer a SPAC. You hold shares and warrants separately from that point forward.
 
@@ -57,6 +57,6 @@ This creates a choice: hold the unit through the merger and participate in the u
 
 ## Comparing MCAGU to buying shares and warrants separately
 
-An investor could theoretically buy MCAG shares and MCAG warrants separately on the secondary market and achieve similar exposure to a unitholder. The advantage of the unit is simplicity at IPO time — one purchase instead of two. The disadvantage is that you are locked into a fixed ratio of shares to warrants. If you later decide you want more exposure to warrants and less to shares, you have to split the unit and sell the shares, incurring transaction costs.
+An investor could theoretically buy MCAG shares and MCAG warrants separately on the [secondary market](/secondary-market/) and achieve similar exposure to a unitholder. The advantage of the unit is simplicity at IPO time — one purchase instead of two. The disadvantage is that you are locked into a fixed ratio of shares to warrants. If you later decide you want more exposure to warrants and less to shares, you have to split the unit and sell the shares, incurring transaction costs.
 
 Units are a way for SPAC sponsors to package and market their offerings to new investors. Whether to buy units, split them, redeem them, or hold them depends on your view of whether the SPAC will find a good business combination and at what valuation.

@@ -45,7 +45,7 @@ The company invests in research and development to create products that are not 
 
 Ingredion's earnings are sensitive to commodity prices, particularly corn. When corn is cheap, the company's raw-material costs decline, and margins can expand if the company can hold pricing with customers. When corn is expensive, the company's costs rise; if customers resist price increases, margins are squeezed. The company manages this volatility partly through scale and long-term contracts with customers, but some commodity-price exposure remains built into the business.
 
-The company also faces exposure to currency fluctuations, since it operates in many countries and has revenues and costs in local currencies. A dollar appreciation can depress earnings when translated back to U.S. dollars, whereas [depreciation](/depreciation/) can support them.
+The company also faces exposure to currency fluctuations, since it operates in many countries and has revenues and costs in local currencies. A dollar appreciation can depress earnings when translated back to [U.S. dollars](/us-dollar/), whereas [depreciation](/depreciation/) can support them.
 
 ## Capital structure and cash allocation
 

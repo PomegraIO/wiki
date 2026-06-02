@@ -46,7 +46,7 @@ The company's stance on broadcasting appears pragmatic: hold assets that generat
 
 ## The Healthcare Segment and Diversification Strategy
 
-Graham Holdings also operates in [healthcare services](/hcsg-stock/), including urgent-care clinics and other healthcare facilities. This segment, like broadcasting, is a steady cash-generating operation rather than a high-growth story. Healthcare services are tied to local population demographics and insurance reimbursement rates. Graham operates these assets as part of its [diversification](/diversification/) strategy: reducing dependence on any single industry and spreading risk.
+Graham Holdings also operates in healthcare services, including urgent-care clinics and other healthcare facilities. This segment, like broadcasting, is a steady cash-generating operation rather than a high-growth story. Healthcare services are tied to local population demographics and insurance reimbursement rates. Graham operates these assets as part of its [diversification](/diversification/) strategy: reducing dependence on any single industry and spreading risk.
 
 Across all segments, Graham Holdings operates as a conglomerate holding company: it owns controlling or significant stakes in separate operating companies, each with its own management, competitive dynamics, and earning potential. The holding company's role is to allocate capital, set strategic direction, manage taxes efficiently, and extract cash dividends from successful subsidiaries.
 

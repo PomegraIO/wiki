@@ -13,19 +13,19 @@ handwritten: true
 
 > *"Technology without yield is just growth. Technology with yield lets you get paid for waiting."*
 
-That phrase captures the essence of TECY: the fund gives you exposure to large-cap tech stocks — the giants that drive productivity — but overlays a systematic covered-call strategy to generate income that a pure tech index fund does not.
+That phrase captures the essence of TECY: the fund gives you exposure to large-cap tech stocks — the giants that drive productivity — but overlays a systematic covered-call strategy to generate income that a pure tech [index fund](/index-fund/) does not.
 
 ## What is a covered call and why would a tech fund use one?
 
-A covered call is an options strategy in which you own a stock and simultaneously sell the right for someone else to buy that stock from you at a fixed price (called the "strike price") on a future date. In exchange for that obligation, you collect cash upfront — the option premium.
+A [covered call](/covered-call/) is an options strategy in which you own a stock and simultaneously sell the right for someone else to buy that stock from you at a fixed price (called the "[strike price](/strike-price/)") on a future date. In exchange for that obligation, you collect cash upfront — the [option premium](/option-premium/).
 
-Imagine TECY holds shares of Microsoft and Microsoft is trading at 400. The fund writes (sells) call options on those shares with a strike price of 410, expiring in 30 days. A buyer pays the fund a premium — say, 2 dollars — for the right to buy Microsoft at 410 anytime before the option expires. The fund pockets that 2 dollars regardless of what happens. If Microsoft stays below 410, the option expires worthless, and the fund keeps the stock and the 2 dollars. If Microsoft rises to 420, the option buyer exercises their right, and the fund sells at 410 (foregone the upside above 410), but still keeps the 2 dollars premium plus the gain from 400 to 410.
+Imagine TECY holds shares of [Microsoft](/msft-stock/) and Microsoft is trading at 400. The fund writes (sells) [call options](/call-option/) on those shares with a strike price of 410, expiring in 30 days. A buyer pays the fund a premium — say, 2 dollars — for the right to buy Microsoft at 410 anytime before the option expires. The fund pockets that 2 dollars regardless of what happens. If Microsoft stays below 410, the option expires worthless, and the fund keeps the stock and the 2 dollars. If Microsoft rises to 420, the option buyer exercises their right, and the fund sells at 410 (foregone the upside above 410), but still keeps the 2 dollars premium plus the gain from 400 to 410.
 
 The trade-off is clear: in exchange for extra income, you cap your upside. If tech stocks soar 25% in a month, a covered-call fund will capture, say, 15% because its upside was capped at the strike prices it chose when writing calls.
 
 ## How does GraniteShares actually implement this?
 
-TECY holds a diversified portfolio of large-cap US technology stocks — companies like Microsoft, Apple, Nvidia, Alphabet — typically the holdings of the Nasdaq-100 or a similar tech-heavy index. On top of that, the fund systematically writes covered calls on those holdings, usually choosing strike prices and expiration dates that aim for a specific yield target — perhaps a 5% to 8% annual income yield.
+TECY holds a diversified portfolio of large-cap US technology stocks — companies like Microsoft, [Apple](/aapl-stock/), [Nvidia](/nvda-stock/), [Alphabet](/googl-stock/) — typically the holdings of the Nasdaq-100 or a similar tech-heavy index. On top of that, the fund systematically writes covered calls on those holdings, usually choosing strike prices and [expiration dates](/expiration-contracts/) that aim for a specific yield target — perhaps a 5% to 8% annual income yield.
 
 This is not a discretionary, tactical decision made by a manager. The strategy is rules-based and systematic. The fund writes calls at a regular cadence (perhaps monthly) and at pre-determined strike levels to deliver a consistent income stream.
 
@@ -37,15 +37,15 @@ The fund's total return has two components: price appreciation of the underlying
 
 ## What are the costs and trade-offs?
 
-GraniteShares charges an annual expense ratio for managing TECY. This fee is higher than a plain tech index ETF, reflecting the administrative cost of writing and managing the call-option positions. The real cost, though, is not the fee — it is the opportunity cost: you are limiting your upside in tech stocks in exchange for extra income.
+GraniteShares charges an annual [expense ratio](/expense-ratio/) for managing TECY. This fee is higher than a plain tech index ETF, reflecting the administrative cost of writing and managing the call-option positions. The real cost, though, is not the fee — it is the opportunity cost: you are limiting your upside in tech stocks in exchange for extra income.
 
-This is most painful when technology stocks rally sharply. In a year when the Nasdaq gains 30%, TECY might gain 15% because its strike prices were set lower. Over a period of moderate or flat tech returns, the covered calls' income makes up for the loss of upside. But in a boom, you will lag.
+This is most painful when technology stocks rally sharply. In a year when the [Nasdaq](/nasdaq/) gains 30%, TECY might gain 15% because its strike prices were set lower. Over a period of moderate or flat tech returns, the covered calls' income makes up for the loss of upside. But in a boom, you will lag.
 
 ## Who is this fund for?
 
 TECY appeals to income-focused investors who hold significant tech exposure and want to wring extra cash out of it — retirees, investors in high-income brackets, or anyone uncomfortable with the volatility of pure tech stocks and willing to trade away some upside for a smoother, income-generating ride.
 
-It is not for growth investors who believe large-cap tech will continue to soar, or for those who want full participation in a technology bull market.
+It is not for growth investors who believe large-cap tech will continue to soar, or for those who want full participation in a technology [bull market](/bull-market/).
 
 ## What are the risks?
 
@@ -55,6 +55,6 @@ The second is that covered calls do not protect you from large declines. If tech
 
 The third is tax inefficiency. Distributions from covered-call funds are typically taxed as ordinary income, not long-term capital gains, which means your tax bill on the same amount of return is higher than it would be from a buy-and-hold tech fund. This penalty is severe in taxable accounts; TECY is best held in a tax-sheltered retirement account.
 
-The fourth is liquidity. If TECY becomes unpopular and its trading volume declines, the bid-ask spread could widen, making it expensive to exit a large position.
+The fourth is liquidity. If TECY becomes unpopular and its trading volume declines, the [bid-ask spread](/bid-ask-spread/) could widen, making it expensive to exit a large position.
 
 To research TECY, request the fund's prospectus and option-writing methodology from GraniteShares. Understand exactly how the strike prices are chosen and how often the calls are written. Compare TECY's historical distributions to the tech index funds it competes against, and look at how much upside it gave up in bull markets versus how much additional income it generated in flat or down markets. If you are in a taxable account, calculate the after-tax return accounting for the ordinary income treatment of distributions. Check the fund's expense ratio and compare it to competitor covered-call tech funds.

@@ -4,7 +4,7 @@ description: "Digital identity and secure-messaging platform provider; operates 
 keywords: ["digital identity", "authentication", "cybersecurity", "regulatory compliance", "identity verification"]
 ---
 
-*T Stamp Inc. (IDAI) builds and markets digital identity and secure-messaging systems designed for [financial institutions](/fisi-stock/), government agencies, and enterprises requiring certified identity verification and tamper-proof communication channels. **T Stamp's** economic logic hinges on converting regulatory mandates—know-your-customer (KYC) rules, anti-money-laundering (AML) compliance, and cybersecurity standards—into recurring software and service revenues, bundling licensing fees, implementation services, and support into a sticky platform that customers find difficult to replace once integrated into their compliance workflows.*
+*T Stamp Inc. (IDAI) builds and markets digital identity and secure-messaging systems designed for financial institutions, government agencies, and enterprises requiring certified identity verification and tamper-proof communication channels. **T Stamp's** economic logic hinges on converting regulatory mandates—know-your-customer (KYC) rules, anti-money-laundering ([AML) compliance](/aml-compliance/), and cybersecurity standards—into recurring software and service revenues, bundling licensing fees, implementation services, and support into a sticky platform that customers find difficult to replace once integrated into their compliance workflows.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IDAI</td></tr>

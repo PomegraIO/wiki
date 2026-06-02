@@ -12,7 +12,7 @@ handwritten: true
 
 ## What is AMDL and what does it track?
 
-GraniteShares 2x Long AMD Daily ETF (AMDL) is a leveraged exchange-traded fund that aims to deliver twice the daily performance of Advanced Micro Devices Inc. stock. The fund is issued and managed by GraniteShares, a New York-based investment firm specializing in leveraged and inverse ETFs. AMDL trades on NASDAQ under ticker AMDL, allowing investors to buy and sell shares during market hours like any publicly traded fund. The fund's objective is to amplify daily moves in AMD stock by a factor of two.
+GraniteShares 2x Long AMD Daily ETF (AMDL) is a leveraged exchange-traded fund that aims to deliver twice the daily performance of [Advanced Micro Devices](/amd-stock/) Inc. stock. The fund is issued and managed by GraniteShares, a New York-based investment firm specializing in leveraged and [inverse ETFs](/inverse-etf/). AMDL trades on [NASDAQ](/nasdaq/) under ticker AMDL, allowing investors to buy and sell shares during market hours like any publicly traded fund. The fund's objective is to amplify daily moves in AMD stock by a factor of two.
 
 ## How does AMDL achieve 2X leverage?
 
@@ -24,11 +24,11 @@ The daily reset mechanism creates a mathematical consequence called volatility d
 
 ## Who is GraniteShares and what is the fund's structure?
 
-GraniteShares is a boutique firm focused on leveraged, inverse, and thematic ETFs, operating under SEC oversight. AMDL is registered as a diversified fund though it holds leveraged exposure to a single stock. It operates like any ETF: buying and selling on NASDAQ during market hours with net asset value calculated and published daily. Authorized participants create and redeem shares to keep market price aligned with underlying value.
+GraniteShares is a boutique firm focused on leveraged, inverse, and [thematic ETFs](/thematic-etf/), operating under SEC oversight. AMDL is registered as a diversified fund though it holds leveraged exposure to a single stock. It operates like any ETF: buying and selling on NASDAQ during market hours with [net asset value](/net-asset-value/) calculated and published daily. [Authorized participants](/authorized-participant/) create and redeem shares to keep market price aligned with underlying value.
 
 ## What does AMDL cost?
 
-The fund charges an annual expense ratio covering management, administration, and maintaining leveraged positions through derivatives and margin. Leveraged ETFs typically charge 0.5% to 1.0% or more annually, significantly higher than passive index trackers, because daily rebalancing and derivative positions require continuous active management and incur financing costs.
+The fund charges an annual [expense ratio](/expense-ratio/) covering management, administration, and maintaining leveraged positions through derivatives and margin. [Leveraged ETFs](/leveraged-etf/) typically charge 0.5% to 1.0% or more annually, significantly higher than passive index trackers, because daily rebalancing and derivative positions require continuous active management and incur financing costs.
 
 ## What are the real risks in holding AMDL?
 
@@ -36,7 +36,7 @@ Volatility decay is the first and most important risk. AMDL is mathematically de
 
 Leverage itself is the second risk. A 10% decline in AMD produces a 20% loss in AMDL. A 20% decline produces a 40% loss. If AMD crashes, AMDL loses half or more of its value quickly.
 
-Liquidity and bid-ask spreads are the third risk. AMDL is a narrow, single-stock leveraged product with smaller asset base and trading volume than broader funds. Traders buying or selling large positions encounter wider spreads, acting as hidden transaction cost.
+Liquidity and [bid-ask spreads](/bid-ask-spread/) are the third risk. AMDL is a narrow, single-stock leveraged product with smaller asset base and trading volume than broader funds. Traders buying or selling large positions encounter wider spreads, acting as hidden transaction cost.
 
 ## Who should and should not own AMDL?
 

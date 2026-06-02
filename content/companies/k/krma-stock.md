@@ -33,11 +33,11 @@ The result is a fund that looks like the broad market to a first glance but with
 
 ## Costs and trading
 
-KRMA carries a modest expense ratio typical of diversified equity ETFs from a major issuer. The fund trades with ample liquidity on a major exchange; bid-ask spreads are tight. Daily volume is sufficient that a retail investor or small institution can establish or exit a position without market impact.
+KRMA carries a modest [expense ratio](/expense-ratio/) typical of diversified [equity ETFs](/equity-etf/) from a major issuer. The fund trades with ample liquidity on a major exchange; [bid-ask spreads](/bid-ask-spread/) are tight. Daily volume is sufficient that a retail investor or small institution can establish or exit a position without market impact.
 
 ## Risks and limitations
 
-ESG screening does not eliminate traditional market risk. KRMA has held significant weight in technology stocks at various points in its history; when that sector corrects sharply, KRMA moves in lock-step. The fund also carries the usual equity risks: sector concentration, interest-rate sensitivity, and the broad market risk that equities face in a recession.
+ESG screening does not eliminate traditional [market risk](/market-risk/). KRMA has held significant weight in technology stocks at various points in its history; when that sector corrects sharply, KRMA moves in lock-step. The fund also carries the usual equity risks: sector concentration, interest-rate sensitivity, and the broad market risk that equities face in a [recession](/recession/).
 
 A secondary consideration is ESG definition creep. Different vendors use different ESG metrics; KRMA's index is built on one set of criteria, and those criteria shift as academic and investor consensus evolves. A company that is considered "conscious" by today's scoring may not qualify in five years if ESG standards tighten. This is not a flaw — it reflects genuine progress on sustainability standards — but it means KRMA is not a static choice.
 

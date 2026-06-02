@@ -52,9 +52,9 @@ This churn is not a mistake. It is built into the strategy.
 
 ## Costs and dividends
 
-IFV trades like a normal stock on NASDAQ. Bid-ask spreads are tight. The expense ratio is moderate—higher than a simple index fund but reasonable for something this specialized.
+IFV trades like a normal stock on [NASDAQ](/nasdaq/). [Bid-ask spreads](/bid-ask-spread/) are tight. The [expense ratio](/expense-ratio/) is moderate—higher than a simple [index fund](/index-fund/) but reasonable for something this specialized.
 
-The fund pays dividends from the stocks it holds. But momentum stocks often reinvest their cash into growth rather than pay dividends, so IFV's dividend yield is modest.
+The fund pays [dividends](/dividend/) from the stocks it holds. But momentum stocks often reinvest their cash into growth rather than pay dividends, so IFV's [dividend yield](/dividend-yield/) is modest.
 
 ## The core risk: momentum might stop
 

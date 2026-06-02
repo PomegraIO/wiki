@@ -33,7 +33,7 @@ Cryptocurrency mining is commoditized in developed markets where electricity is 
 
 Beyond mining, CMB.TECH operates a software and services business aimed at developers, enterprises, and emerging-market users who want to build on or interact with blockchain networks. The company has developed tools for blockchain development, hosting services for decentralized applications, and consulting on blockchain architecture. This segment has lower capital intensity than mining but also more competitive pressures and customer [concentration risk](/concentration-risk/).
 
-The company has also targeted emerging-market adoption—selling wallets, payment infrastructure, and microfinance-blockchain applications to users in developing economies where traditional banking infrastructure is limited. Cryptocurrency can, in theory, provide banking and remittance services in countries with weak [financial institutions](/fisi-stock/). CMB.TECH has attempted to capture this opportunity by building user-facing applications and regional operations.
+The company has also targeted emerging-market adoption—selling wallets, payment infrastructure, and microfinance-blockchain applications to users in developing economies where traditional banking infrastructure is limited. Cryptocurrency can, in theory, provide banking and remittance services in countries with weak financial institutions. CMB.TECH has attempted to capture this opportunity by building user-facing applications and regional operations.
 
 ## The mining business model and cycle
 

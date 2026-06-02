@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Singularity Future Technology Ltd. operates across telecommunications infrastructure and technology solutions, with its shares trading on the NASDAQ under the ticker SGLY. The company is a small-cap player positioned at the intersection of two long-term technology trends: the global rollout of 5G networks and the continued modernization of legacy telecommunications infrastructure. Its business, however, remains volatile and fragmented across multiple segments, each responding to different cycles and market dynamics.
+Singularity Future Technology Ltd. operates across telecommunications infrastructure and technology solutions, with its shares trading on the [NASDAQ](/nasdaq/) under the ticker SGLY. The company is a small-cap player positioned at the intersection of two long-term technology trends: the global rollout of 5G networks and the continued modernization of legacy telecommunications infrastructure. Its business, however, remains volatile and fragmented across multiple segments, each responding to different cycles and market dynamics.
 
 <aside class="wiki-infobox">
 <table>
@@ -42,13 +42,13 @@ The margin profile of technology solutions is typically higher than infrastructu
 
 Singularity has periodically announced plans to expand beyond China into other markets—including potential operations in Southeast Asia, India, or other regions building out telecom infrastructure. Most of these initiatives have yielded modest results. The company lacks the brand recognition, local relationships, and capital that larger global infrastructure players bring. Expansion into new regions requires on-the-ground expertise and the willingness to accept thin margins in the startup phase—both challenging for a small-cap public company with limited financial flexibility.
 
-The company has also considered diversification into adjacent areas such as data centre infrastructure, IoT networking, or smart-city solutions. Some of these pivots have been driven by genuine market opportunity; others appear to have been attempts to pursue whatever growth narrative was gaining investor attention at the time.
+The company has also considered [diversification](/diversification/) into adjacent areas such as data centre infrastructure, IoT networking, or smart-city solutions. Some of these pivots have been driven by genuine market opportunity; others appear to have been attempts to pursue whatever growth narrative was gaining investor attention at the time.
 
 ## Financial and operational challenges
 
 Singularity's operational execution has been uneven. The company has experienced periods of revenue growth followed by contraction, inconsistent profitability, and challenges in collecting cash from customers on predictable timelines. Project-based businesses are inherently lumpy, but Singularity's lumpiness has been pronounced.
 
-The company operates with relatively light balance sheet, which limits its ability to fund large contracts without customer advances or external financing. This creates a cash-flow mismatch: the company must often fund project costs before receiving payment from customers, creating working-capital strain. Larger, better-capitalised competitors can absorb this friction more easily.
+The company operates with relatively light [balance sheet](/balance-sheet/), which limits its ability to fund large contracts without customer advances or external financing. This creates a cash-flow mismatch: the company must often fund project costs before receiving payment from customers, creating working-capital strain. Larger, better-capitalised competitors can absorb this friction more easily.
 
 The relationship between the company and its investors has been complicated by disclosure issues, accounting questions, and regulatory filings that have created uncertainty about the true state of operations. These governance concerns have weighed on the stock price and limited institutional interest.
 

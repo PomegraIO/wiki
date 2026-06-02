@@ -34,13 +34,13 @@ That daily reset is the trap. Imagine AMAT goes up 10% on Monday, then down 10% 
 
 ## What AMAT does
 
-Applied Materials manufactures the machines and tools that semiconductor fabs use to etch circuits onto wafers, deposit layers, and clean silicon. The company sells to Intel, Samsung, TSMC, and every other major chipmaker in the world. When chip demand is strong, fabs buy equipment and AMAT thrives. When demand is weak, capex budgets shrink and AMAT suffers. The stock swings hard with the semiconductor cycle.
+Applied Materials manufactures the machines and tools that semiconductor fabs use to etch circuits onto wafers, deposit layers, and clean silicon. The company sells to [Intel](/intc-stock/), Samsung, TSMC, and every other major chipmaker in the world. When chip demand is strong, fabs buy equipment and AMAT thrives. When demand is weak, capex budgets shrink and AMAT suffers. The stock swings hard with the semiconductor cycle.
 
 AMA amplifies that swing. A 5% move in AMAT becomes roughly 10% in AMA. Good when you called the direction right. Painful when you did not.
 
 ## Costs and who runs it
 
-Defiance is an ETF issuer. The expense ratio sits around 0.90–1.1% annually. That includes the cost of rebalancing the leverage every single day. You also pay a bid-ask spread when you buy and sell, just like any stock. On a liquid day, that spread is narrow. On a quiet day, it widens.
+Defiance is an ETF issuer. The [expense ratio](/expense-ratio/) sits around 0.90–1.1% annually. That includes the cost of rebalancing the leverage every single day. You also pay a [bid-ask spread](/bid-ask-spread/) when you buy and sell, just like any stock. On a liquid day, that spread is narrow. On a quiet day, it widens.
 
 ## The decay problem, spelled out
 
@@ -60,7 +60,7 @@ One: decay kills you over time. Hold AMA for three months in a choppy market and
 
 Two: AMAT is one stock. If Applied Materials reports bad guidance, or if the chip-equipment market craters, AMA gets hammered twice.
 
-Three: leverage creates big daily swings. A 10% move in AMA can trigger margin calls, forced selling, or panic. You need a plan to exit if things move against you fast.
+Three: leverage creates big daily swings. A 10% move in AMA can trigger [margin calls](/margin-call-forex/), forced selling, or panic. You need a plan to exit if things move against you fast.
 
 Four: liquidity can dry up. If bad news hits and everyone tries to sell AMA at once, you might not get out at the price you want.
 

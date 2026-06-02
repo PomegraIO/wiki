@@ -4,7 +4,7 @@ description: "Michigan-based community bank holding company serving the Great La
 keywords: ["community bank", "Michigan", "commercial banking", "regional bank", "deposit gathering"]
 ---
 
-*[INDEPENDENT BANK](/indb-stock/) CORP /MI/ (IBCP) is a community bank holding company headquartered in Ionia, Michigan, that operates through its subsidiary Independent Bank and serves customers across Michigan's Lower Peninsula with commercial lending, consumer banking, and deposit products. The company competes in the fragmented upper-Midwest banking market where local market knowledge and relationship-driven lending remain competitive advantages.*
+*INDEPENDENT BANK CORP /MI/ (IBCP) is a community bank holding company headquartered in Ionia, Michigan, that operates through its subsidiary Independent Bank and serves customers across Michigan's Lower Peninsula with commercial lending, consumer banking, and deposit products. The company competes in the fragmented upper-Midwest banking market where local market knowledge and relationship-driven lending remain competitive advantages.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>IBCP</td></tr>

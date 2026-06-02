@@ -42,7 +42,7 @@ This diversity is valuable. When one segment of the insurance market is experien
 
 ## How competition and consolidation frame the business
 
-Ryan competes against other large insurance brokers and distributors such as Aon, Marsh, and Arthur J. Gallagher, as well as against smaller regional players and against direct-to-carrier models. The large global brokers have established relationships and can serve multinational clients. Ryan is built around specialty lines and middle-market commercial business — it serves the broad middle of the market rather than the largest accounts.
+Ryan competes against other large insurance brokers and distributors such as Aon, Marsh, and [Arthur J. Gallagher](/ajg-stock/), as well as against smaller regional players and against direct-to-carrier models. The large global brokers have established relationships and can serve multinational clients. Ryan is built around specialty lines and middle-market commercial business — it serves the broad middle of the market rather than the largest accounts.
 
 The insurance distribution business is itself consolidating. Aon and Marsh have grown through acquisition over decades. Ryan is a newer entrant following the same playbook. The consolidation creates scale and efficiency but also means the largest players are becoming more concentrated. This could create regulatory scrutiny over time, particularly if antitrust concerns arise around whether a small number of brokers wield too much power in the distribution channel.
 

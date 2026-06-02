@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Public Storage is the operator of the largest portfolio of climate-controlled self-storage facilities in the United States, collecting monthly rent from individuals and small businesses seeking secure, accessible storage — and generating additional revenue from locks, boxes, insurance, and premium access.*
+*[Public Storage](/psa-stock/) is the operator of the largest portfolio of climate-controlled self-storage facilities in the United States, collecting monthly rent from individuals and small businesses seeking secure, accessible storage — and generating additional revenue from locks, boxes, insurance, and premium access.*
 
 ## Core storage unit rentals
 
@@ -43,11 +43,11 @@ The company deploys centralized technology systems across the portfolio to manag
 
 Public Storage expands its portfolio in two ways: acquiring existing facilities from other operators, and developing new facilities on land the company owns or has acquired.
 
-Acquisitions target facilities in prime locations — typically in high-density markets where competition is strong and real estate values are high. The company competes with other buyers to acquire existing properties. Success requires disciplined pricing; overpaying for an acquisition destroys long-term returns because it reduces the yield on the capital deployed.
+[Acquisitions](/acquisition/) target facilities in prime locations — typically in high-density markets where competition is strong and real estate values are high. The company competes with other buyers to acquire existing properties. Success requires disciplined pricing; overpaying for an acquisition destroys long-term returns because it reduces the yield on the capital deployed.
 
 Development requires identifying land, securing permits, constructing a facility, and leasing units to tenants — a multi-year process. Development in expensive markets (California, New York, Texas, Florida) is capital-intensive. The company must be patient, as returns accrue gradually as occupancy ramps.
 
-Both acquisition and development are funded through a combination of operating cash flow, debt, and occasionally equity issuance. Because Public Storage is a REIT required to distribute 90 per cent of taxable income to shareholders, it cannot hoard cash for large expansion pushes. Growth is therefore constrained to what operating cash flow can fund (after the mandatory dividend) and what additional leverage the balance sheet can support.
+Both acquisition and development are funded through a combination of operating cash flow, debt, and occasionally equity issuance. Because Public Storage is a REIT required to distribute 90 per cent of taxable income to shareholders, it cannot hoard cash for large expansion pushes. Growth is therefore constrained to what operating cash flow can fund (after the mandatory [dividend](/dividend/)) and what additional leverage the [balance sheet](/balance-sheet/) can support.
 
 ## Digital and customer-facing services
 

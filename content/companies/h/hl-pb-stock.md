@@ -29,7 +29,7 @@ Hecla Mining is a company that pulls silver, gold, lead, and zinc out of the gro
 
 Hecla Mining has roots going back to the 1891 discovery of ore in the Coeur d'Alene mining district of northern Idaho. That district has been one of the most productive silver regions in America for over a century. The company grew by acquiring and developing mines across the western United States and Canada, building a geographic footprint that remains concentrated in North America but diversified across multiple properties and metallurgical focuses.
 
-Unlike massive mining conglomerates that operate across continents, Hecla has chosen to stay focused on a narrower geography. This focus brings advantages: strong relationships with local communities, stable permitting environments, and deep expertise in operating in those specific jurisdictions. It also brings concentration risk — the company's fortunes are tied heavily to the stability and regulatory environment of a handful of regions.
+Unlike massive mining conglomerates that operate across continents, Hecla has chosen to stay focused on a narrower geography. This focus brings advantages: strong relationships with local communities, stable permitting environments, and deep expertise in operating in those specific jurisdictions. It also brings [concentration risk](/concentration-risk/) — the company's fortunes are tied heavily to the stability and regulatory environment of a handful of regions.
 
 ## Operating mines and property portfolio
 
@@ -47,7 +47,7 @@ The Coeur d'Alene district in Idaho, where Hecla maintains significant operation
 
 Hecla's revenue depends entirely on the metals it mines, their prices, and the volumes produced. Unlike a diversified industrial company with multiple revenue streams, Hecla has no recurring services business, no long-term supply contracts (typically), and no way to smooth earnings through business mix. When silver prices fall sharply, there is no other division to cushion the blow.
 
-This commodity exposure cuts both ways. In a strong metals market — particularly when precious-metals prices are elevated due to inflation concerns or safe-haven demand — Hecla can be extraordinarily profitable. In a weak market or a slowdown in industrial demand (which drives lead and zinc prices), the company can slip into losses or low profitability, especially if ore grades or production volumes decline.
+This commodity exposure cuts both ways. In a strong metals market — particularly when precious-metals prices are elevated due to [inflation](/inflation/) concerns or safe-haven demand — Hecla can be extraordinarily profitable. In a weak market or a slowdown in industrial demand (which drives lead and zinc prices), the company can slip into losses or low profitability, especially if ore grades or production volumes decline.
 
 The company's cash flow and profitability depend on the spread between the price it receives for metals and the cost to extract, process, and deliver them. Rising labor costs, fuel costs, or regulatory compliance costs can compress that margin. Conversely, improvements in ore processing technology or operational efficiency can expand it.
 
@@ -55,7 +55,7 @@ The company's cash flow and profitability depend on the spread between the price
 
 Hecla's capital spending typically flows into exploration and mine development. The company must continually replenish its ore reserves as existing deposits are mined out, or it will eventually have nothing to mine. Finding and developing new ore bodies is capital-intensive and risky — most exploration leads nowhere. But successful development of a major deposit can sustain the company's production for decades.
 
-The company also returns capital to shareholders during profitable periods through dividends, though the volatility of mining earnings makes the dividend variable. During downturns, capital is husbanded for operations and survival.
+The company also returns capital to shareholders during profitable periods through [dividends](/dividend/), though the volatility of mining earnings makes the dividend variable. During downturns, capital is husbanded for operations and survival.
 
 ## Risks and competitive positioning
 
@@ -65,6 +65,6 @@ Regulatory risk is real. Environmental regulations, permitting timelines, and ch
 
 ## Research and investment considerations
 
-Anyone researching Hecla as an investment should study the company's reserve base — the amount of ore it has identified and can extract profitably at current metal prices. Depreciation of reserves is a key metric; a company that is mining ore faster than it is replacing it through exploration is a business in slow decline. Read the annual 10-K to understand the company's mine-by-mine economics, the metals exposure, and the cost structure.
+Anyone researching Hecla as an investment should study the company's reserve base — the amount of ore it has identified and can extract profitably at current metal prices. [Depreciation](/depreciation/) of reserves is a key metric; a company that is mining ore faster than it is replacing it through exploration is a business in slow decline. Read the annual 10-K to understand the company's mine-by-mine economics, the metals exposure, and the cost structure.
 
-Watch metal prices, particularly silver and gold, since those drive much of the stock's volatility. Track production guidance and whether the company hits its targets; operational misses often signal deeper problems. And monitor the company's balance sheet and cash position, which determine how much downside the company can absorb if metals markets weaken significantly.
+Watch metal prices, particularly silver and gold, since those drive much of the stock's volatility. Track production guidance and whether the company hits its targets; operational misses often signal deeper problems. And monitor the company's [balance sheet](/balance-sheet/) and cash position, which determine how much downside the company can absorb if metals markets weaken significantly.

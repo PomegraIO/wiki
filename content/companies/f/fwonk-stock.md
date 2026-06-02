@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Liberty Media is a holding company that owns pieces of media and entertainment companies. It does not produce content or run retail operations itself; instead, it acquires undervalued businesses and either improves their operations or holds them for the long term, betting that the market will eventually recognize their worth. Understanding Liberty requires stepping back from the typical corporate structure — it is closer to an investment partnership than a traditional operating company, shaped entirely by the founder-operator philosophy of John Malone, who has controlled it for decades.
+[Liberty Media](/fwona-stock/) is a holding company that owns pieces of media and entertainment companies. It does not produce content or run retail operations itself; instead, it acquires undervalued businesses and either improves their operations or holds them for the long term, betting that the market will eventually recognize their worth. Understanding Liberty requires stepping back from the typical corporate structure — it is closer to an investment partnership than a traditional operating company, shaped entirely by the founder-operator philosophy of John Malone, who has controlled it for decades.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ Liberty Media is a holding company that owns pieces of media and entertainment c
 
 John Malone built his fortune in cable television, and Liberty Media is his vehicle for capital allocation outside of any single company. The structure is unusual: Liberty holds controlling stakes in operating businesses without running them day to day. This lets Malone pursue a thesis that most large corporations cannot: find assets the market has mispriced, buy control of them, install his own people in the board or management, and either fix the underlying business or wait for the market to recognize the value that was always there.
 
-This approach has created a unique governance situation. Liberty has two classes of shares: FWONA, the voting shares that Malone and his associates control, and FWONK, the non-voting shares that trade publicly. FWONK holders own the same economics but have no vote on company decisions. It is a structure that would be controversial if the track record were poor, but Malone's long history of turning cable assets into enormous wealth — first in TCI, then in Comcast, now in Liberty — gives him enormous credibility with shareholders.
+This approach has created a unique governance situation. Liberty has two classes of shares: FWONA, the voting shares that Malone and his associates control, and FWONK, the [non-voting shares](/non-voting-shares/) that trade publicly. FWONK holders own the same economics but have no vote on company decisions. It is a structure that would be controversial if the track record were poor, but Malone's long history of turning cable assets into enormous wealth — first in TCI, then in [Comcast](/cmcsa-stock/), now in Liberty — gives him enormous credibility with shareholders.
 
 ## A portfolio, not a business
 
@@ -49,7 +49,7 @@ The downside is that this approach requires spotting turns in the market and hav
 
 ## Leverage and debt strategy
 
-Like many of Malone's entities, Liberty uses debt strategically. The company borrows to fund acquisitions or to fund dividends to shareholders without selling assets. This works when interest rates are low and when the underlying businesses generate enough cash flow to cover the payments. In a rising-rate environment, or if a major holding stumbles, leverage becomes a drag.
+Like many of Malone's entities, Liberty uses debt strategically. The company borrows to fund [acquisitions](/acquisition/) or to fund [dividends](/dividend/) to shareholders without selling assets. This works when [interest rates](/interest-rate/) are low and when the underlying businesses generate enough cash flow to cover the payments. In a rising-rate environment, or if a major holding stumbles, leverage becomes a drag.
 
 The debt is distributed across the operating companies — SiriusXM carries its own borrowing, as does Qurate. Liberty itself is the holding company, and it issues debt to the operating subsidiaries or invests in them. This structure allows each operating company to be capitalized separately, but it also means that if SiriusXM or Qurate faces trouble, the debt holders and preferred shareholders of those companies are senior to Liberty's common shareholders. Malone's shareholders are the last in line if anything goes wrong.
 
@@ -63,6 +63,6 @@ A secondary risk is the media landscape itself. SiriusXM's moat — the fact tha
 
 Start with Liberty's investor documents and quarterly reports. The company publishes detailed segment information on SiriusXM and Qurate, including subscriber counts, churn, and cash generation. Track those numbers; they are leading indicators of whether Malone's thesis on each business is working.
 
-Second, read interviews or letters where Malone discusses capital allocation. His outlook on interest rates, media consolidation, and which assets are cheap relative to their intrinsic value shapes what the company does next. If you believe his judgment on those questions, Liberty stock appeals to you. If you do not, avoid it.
+Second, read interviews or letters where Malone discusses capital allocation. His outlook on interest rates, media consolidation, and which assets are cheap relative to their [intrinsic value](/intrinsic-value/) shapes what the company does next. If you believe his judgment on those questions, Liberty stock appeals to you. If you do not, avoid it.
 
 Finally, understand the dual-class voting structure. FWONK holders are investing in Malone's ability and willingness to act in their interests. That is not the same as owning a democratically governed company. For some investors, the track record of that approach has been excellent. For others, the concentration of control feels like unnecessary risk.

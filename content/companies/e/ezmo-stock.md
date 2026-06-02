@@ -17,7 +17,7 @@ The **AlphaDroid Broad Markets Momentum ETF** (EZMO) takes that axiom and builds
 
 ## The momentum strategy and what it targets
 
-Momentum investing rests on the observation that stock prices are sticky: they tend to trend. A stock that has been appreciating tends to keep appreciating, not because fundamentals have changed, but because investors chase performance, because attention and analyst coverage snowball, or because positive news begets more positive news. The inverse is true for declining stocks. Momentum investors exploit this lag by owning the winners and avoiding the losers.
+[Momentum investing](/momentum-investing/) rests on the observation that stock prices are sticky: they tend to trend. A stock that has been appreciating tends to keep appreciating, not because fundamentals have changed, but because investors chase performance, because attention and analyst coverage snowball, or because positive news begets more positive news. The inverse is true for declining stocks. Momentum investors exploit this lag by owning the winners and avoiding the losers.
 
 EZMO operationalises momentum through a quantitative system. The fund screens for stocks with strong price returns over intermediate timeframes (typically 6 to 12 months), robust earnings momentum (companies raising guidance or beating expectations), and other reinforcing signals (rising analyst ratings, positive surprises on earnings estimates). It then constructs a portfolio weighted toward the highest-momentum stocks across broad developed markets. This is not a value strategy (buying cheap stocks) nor a growth strategy in the traditional sense (buying high-profit-growth companies); it is purely mechanical—the market's recent direction is the guide.
 
@@ -27,7 +27,7 @@ Because EZMO applies momentum screening across the entire investable universe—
 
 ## Fees and turnover implications
 
-Momentum strategies require active trading to maintain the portfolio as momentum scores shift—stocks that were winners can become laggards, and the fund rebalances accordingly. EZMO typically has turnover in the range of 100 to 200 percent per year (depending on market conditions), meaning the fund roughly replaces its entire portfolio once or twice annually. This drives up trading costs (and tax consequences for taxable accounts), so the expense ratio on a momentum ETF is usually higher than a passive cap-weighted index fund—typically in the 0.40 to 0.75 percent range.
+Momentum strategies require active trading to maintain the portfolio as momentum scores shift—stocks that were winners can become laggards, and the fund rebalances accordingly. EZMO typically has turnover in the range of 100 to 200 percent per year (depending on market conditions), meaning the fund roughly replaces its entire portfolio once or twice annually. This drives up trading costs (and tax consequences for taxable accounts), so the [expense ratio](/expense-ratio/) on a momentum ETF is usually higher than a passive cap-weighted [index fund](/index-fund/)—typically in the 0.40 to 0.75 percent range.
 
 Those costs matter: a momentum strategy that generates 3 to 4 percent annual outperformance before fees can shrink to 2 to 3 percent after expenses, or even underperform if a particular year is unkind to momentum. Investors should examine the fund's historical performance net of fees, not just gross returns.
 
@@ -39,7 +39,7 @@ The past two decades have seen periods of strong momentum outperformance and equ
 
 ## Risks and portfolio fit
 
-The primary risk is reversal. A portfolio built on the assumption that winners will keep winning is acutely vulnerable to the moment when the market reprices and yesterday's stars become fallen idols. Concentrated sector exposure is a second risk: momentum naturally herds into whatever is working—if that is technology, the fund becomes heavily technology-exposed, making it vulnerable to tech shocks. Currency risk is present for the international holdings; a strong dollar can drag down non-U.S. returns.
+The primary risk is reversal. A portfolio built on the assumption that winners will keep winning is acutely vulnerable to the moment when the market reprices and yesterday's stars become fallen idols. Concentrated sector exposure is a second risk: momentum naturally herds into whatever is working—if that is technology, the fund becomes heavily technology-exposed, making it vulnerable to tech shocks. [Currency risk](/currency-risk/) is present for the international holdings; a strong dollar can drag down non-U.S. returns.
 
 EZMO is best thought of as a tactical, outcome-driven sleeve of a portfolio rather than a core holding. Investors comfortable with volatility and conviction in factor-based strategies may use it as a dedicated momentum sleeve. Those seeking a buy-and-hold core should favour cap-weighted or broad index funds.
 

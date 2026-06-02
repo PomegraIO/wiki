@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Defiance Daily Target 2X Long CVNA ETF** (ticker CVNX) is a leveraged exchange-traded fund that holds Carvana stock (CVNA) on margin, rebalancing daily to maintain a 2x leverage ratio — meaning it aims to deliver twice the daily gain or loss of Carvana stock.*
+*The **Defiance Daily Target 2X Long CVNA ETF** (ticker CVNX) is a leveraged exchange-traded fund that holds Carvana stock (CVNA) on margin, rebalancing daily to maintain a 2x [leverage ratio](/leverage-ratio-forex/) — meaning it aims to deliver twice the daily gain or loss of Carvana stock.*
 
 ## What is Carvana, and why would someone want to amplify its moves?
 
@@ -19,7 +19,7 @@ Carvana is an online used-car retailer that disrupted the traditional dealership
 
 ## How does the 2x daily reset actually work?
 
-CVNX holds actual Carvana shares, funded partly by borrowing cash at an interest rate. Each day the fund's managers rebalance the leverage ratio back to exactly 2x. That sounds simple, but it has a crucial consequence: if CVNX and Carvana both move up one day and then both move down the same percentage the next day, the ETF will have underperformed. The daily reset — selling some shares after an up day, then buying them back after a down day — locks in losses at the worst times. This effect, called volatility decay or decay drag, is inherent to leveraged ETFs and worsens with higher volatility and longer holding periods.
+CVNX holds actual Carvana shares, funded partly by borrowing cash at an [interest rate](/interest-rate/). Each day the fund's managers rebalance the leverage ratio back to exactly 2x. That sounds simple, but it has a crucial consequence: if CVNX and Carvana both move up one day and then both move down the same percentage the next day, the ETF will have underperformed. The daily reset — selling some shares after an up day, then buying them back after a down day — locks in losses at the worst times. This effect, called volatility decay or decay drag, is inherent to [leveraged ETFs](/leveraged-etf/) and worsens with higher volatility and longer [holding periods](/holding-period/).
 
 ## Who is this actually designed for?
 
@@ -27,7 +27,7 @@ CVNX is explicitly not a buy-and-hold vehicle. It is meant for traders taking ta
 
 ## What are the real risks?
 
-Leverage amplifies both gains and losses, so a twenty-percent daily drop in CVNX can wipe out a fifth of an investment in a single session. Carvana itself is a binary business — dependent on used-car prices, consumer credit, and the company's ability to fund its operations — so the underlying stock is prone to large swings. A severe downturn or bankruptcy of Carvana would crush CVNX. There is also interest cost: the fund borrows money at rates that fluctuate, and during periods of high interest rates those costs erode returns. Slippage and bid-ask spreads on the leveraged fund itself add friction to entry and exit.
+Leverage amplifies both gains and losses, so a twenty-percent daily drop in CVNX can wipe out a fifth of an investment in a single session. Carvana itself is a binary business — dependent on used-car prices, consumer credit, and the company's ability to fund its operations — so the underlying stock is prone to large swings. A severe downturn or bankruptcy of Carvana would crush CVNX. There is also interest cost: the fund borrows money at rates that fluctuate, and during periods of high interest rates those costs erode returns. Slippage and [bid-ask spreads](/bid-ask-spread/) on the leveraged fund itself add friction to entry and exit.
 
 ## What would a researcher actually look at?
 

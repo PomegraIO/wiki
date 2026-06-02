@@ -60,7 +60,7 @@ When evaluating KinderCare, look for:
 - **Employer contract retention and wins.** A change in major employer contracts (renewal losses, volume reductions) signals shifts in corporate childcare demand or pricing power.
 - **Staff turnover and wage trends.** High turnover increases training costs and disrupts centers. Rising wage expenses pressure margins unless offset by tuition or subsidy increases.
 - **Government subsidy trends.** Changes in state and federal childcare subsidy budgets affect not just revenue, but also demand (how many families can afford to enroll).
-- **Impact of [public policy](/pphc-stock/).** Proposed universal pre-K programs, child tax credit expansions, or employer-sponsored childcare mandates can all reshape the market.
+- **Impact of public policy.** Proposed universal pre-K programs, child tax credit expansions, or employer-sponsored childcare mandates can all reshape the market.
 
 ## Pressures and longer-term questions
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Connecticut Light & Power supplies electricity to households and businesses across much of Connecticut, operating as a regulated utility where revenue comes directly from kilowatt-hours delivered and costs are largely determined by the physical infrastructure needed to get power to customers' doors. The company does not generate electricity; it buys wholesale power and manages the distribution network that moves it the last mile—a capital-intensive, low-margin business that depends on regulatory approval for rate increases and operational efficiency to improve returns on invested capital.
+[Connecticut Light & Power](/cnthp-stock/) supplies electricity to households and businesses across much of Connecticut, operating as a regulated utility where revenue comes directly from kilowatt-hours delivered and costs are largely determined by the physical infrastructure needed to get power to customers' doors. The company does not generate electricity; it buys wholesale power and manages the distribution network that moves it the last mile—a capital-intensive, low-margin business that depends on regulatory approval for rate increases and operational efficiency to improve returns on invested capital.
 
 ## What is Connecticut Light & Power really?
 
@@ -27,7 +27,7 @@ The company also derives small revenue from ancillary services such as late-paym
 
 On the cost side, Connecticut Light & Power faces two large categories: the wholesale cost of the electricity it purchases, and the operating and capital costs to maintain the distribution network. Wholesale power costs fluctuate with regional energy markets and fuel prices, and these costs are typically passed through to customers in adjustable rates, so they do not directly squeeze the utility's margin. The real challenge is controlling operational costs—labor, maintenance, tree trimming, vehicle fuel, customer service—and justifying capital investment to the regulator.
 
-Capital intensity is the defining feature. To serve a state, a utility must own thousands of miles of power lines, poles, transformers, and substations. These assets are expensive to build and long-lived (poles and cables last 40+ years), so utilities operate with high asset bases and modest returns. A typical utility might earn 8-10% on equity after regulation, meaning a dollar of invested capital produces 8-10 cents of annual profit—nothing like a software company or retailer, but stable and predictable enough to attract investors who value steady dividends over growth.
+Capital intensity is the defining feature. To serve a state, a utility must own thousands of miles of power lines, poles, transformers, and substations. These assets are expensive to build and long-lived (poles and cables last 40+ years), so utilities operate with high asset bases and modest returns. A typical utility might earn 8-10% on equity after regulation, meaning a dollar of invested capital produces 8-10 cents of annual profit—nothing like a software company or retailer, but stable and predictable enough to attract investors who value steady [dividends](/dividend/) over growth.
 
 ## Regulatory risk and rate structures
 
@@ -41,6 +41,6 @@ In recent years, Connecticut Light & Power, like all utilities, faces pressure t
 
 ## How to evaluate Connecticut Light & Power
 
-Investors in utilities typically focus on forward dividend yield (annual distributions divided by share price), growth in earnings per share (often tied to regulated rate base growth), and the strength of the balance sheet to fund capital expenditure. The company's annual 10-K filing (SEC CIK 0000023426) shows revenue by customer class, operating expenses, capital expenditure plans, and the current regulatory rate case status. Quarterly earnings reports provide updates on load growth (megawatt-hours delivered), customer counts, and any changes in rates or regulation.
+Investors in utilities typically focus on forward [dividend yield](/dividend-yield/) (annual distributions divided by share price), growth in [earnings per share](/earnings-per-share/) (often tied to regulated rate base growth), and the strength of the [balance sheet](/balance-sheet/) to fund capital expenditure. The company's annual 10-K filing (SEC CIK 0000023426) shows revenue by customer class, operating expenses, capital expenditure plans, and the current regulatory rate case status. Quarterly earnings reports provide updates on load growth (megawatt-hours delivered), customer counts, and any changes in rates or regulation.
 
 What to watch: the outcomes of rate cases before PURA; load trends in the service area (reflecting economic health and electrification adoption); wholesale power costs and how they are recovered; and progress on grid modernization and renewable integration. A utility that wins reasonable rate approvals, maintains or grows its asset base, and keeps costs controlled will generate steady returns for shareholders. One caught in rate suppression or capital stranded by rapid technology change will struggle.

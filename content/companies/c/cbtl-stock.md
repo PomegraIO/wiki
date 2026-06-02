@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The core problem with outcome-based funds is timing. Buy the January series on January 1 and you get the full year of protection. Buy it on January 15 and you have missed the setup; the cap and floor were fixed on the first day, so an investor entering midyear is paying a market price that may be well above the contractual floor or below the contractual cap. Each of Calamos's four monthly Bitcoin 80 Series ETFs faces this same challenge: they are defined-outcome products, and the outcome window closes once you miss the opening bell.
+The core problem with outcome-based funds is timing. Buy the January series on January 1 and you get the full year of protection. Buy it on January 15 and you have missed the setup; the cap and floor were fixed on the first day, so an investor entering midyear is paying a market price that may be well above the contractual floor or below the contractual cap. Each of Calamos's four monthly [Bitcoin](/bitcoin/) 80 Series ETFs faces this same challenge: they are defined-outcome products, and the outcome window closes once you miss the opening bell.
 
 CBTL solves this by holding all four series simultaneously. At any given time, it owns CBTJ (January outcome), CBTA (April outcome), CBTY (July outcome), and CBTO (October outcome). An investor buying CBTL on any trading day is buying equal pieces of four outcome periods at different stages of completion. One might be nearly finished; another might be just beginning; two might be in the middle. This staggering removes the timing problem entirely.
 
@@ -27,7 +27,7 @@ The practical effect is that CBTL's returns at any moment are a blend of four di
 
 ## Expense Ratio and Fee Structure
 
-CBTL charges 0.79 percent annually in total operating expenses. This is slightly higher than the individual monthly series (0.69 percent) because CBTL carries the operational burden of holding four separate funds, executing four separate options strategies, and managing four separate outcome dates. The additional 0.10 percent (management fee) covers these operational complexities. The "acquired fund fees" of 0.69 percent represent the fees charged by the underlying Bitcoin 80 Series funds that CBTL owns.
+CBTL charges 0.79 percent annually in total operating expenses. This is slightly higher than the individual monthly series (0.69 percent) because CBTL carries the operational burden of holding four separate funds, executing four separate options strategies, and managing four separate outcome dates. The additional 0.10 percent ([management fee](/management-fee/)) covers these operational complexities. The "acquired fund fees" of 0.69 percent represent the fees charged by the underlying Bitcoin 80 Series funds that CBTL owns.
 
 From an investor's perspective, the higher fee is the price of avoiding timing risk. An investor comfortable with calendar-hunting could buy individual series (CBTA, CBTJ, etc.) and pay 0.69 percent, but they take on the responsibility of entering at the right time and understanding when each outcome period matures. CBTL offloads that burden; the fund manages the timing complexity on the investor's behalf.
 
@@ -37,7 +37,7 @@ Each of the four series within CBTL uses the same options strategy: match Bitcoi
 
 As Bitcoin's price evolves over time, the market price of each embedded series changes. If Bitcoin rises, the series get closer to their caps; a series already at its cap stops appreciating, while others still have room. If Bitcoin falls, all four series benefit from their downside protection, but the degree of protection is still determined by which outcome period each series is in and how much of its year remains.
 
-The diversification across four outcome periods means that CBTL benefits from a kind of optionality averaging. Bitcoin might be expected to rise strongly in 2026 but consolidate in 2027. A single-series fund buying in January 2026 captures the 2026 rally up to its cap; a single-series fund buying in January 2027 might have a higher cap (due to lower expected volatility) and capture more of the 2027 move, or a lower cap if volatility expectations have risen. CBTL, by owning all four simultaneously, doesn't bet on a single volatility forecast; it blends them.
+The [diversification](/diversification/) across four outcome periods means that CBTL benefits from a kind of optionality averaging. Bitcoin might be expected to rise strongly in 2026 but consolidate in 2027. A single-series fund buying in January 2026 captures the 2026 rally up to its cap; a single-series fund buying in January 2027 might have a higher cap (due to lower expected volatility) and capture more of the 2027 move, or a lower cap if volatility expectations have risen. CBTL, by owning all four simultaneously, doesn't bet on a single volatility forecast; it blends them.
 
 ## Risks and Limitations of the Laddered Approach
 
@@ -49,7 +49,7 @@ The third risk is that the embedded series are themselves structured products ca
 
 ## Who Might Own CBTL and Why
 
-CBTL appeals to investors who want Bitcoin exposure with defined tail risk but who are either indifferent to the specific outcome period they are in or who cannot time their purchases to align with a series' start date. An investor might commit to a December allocation to Bitcoin and have capital arriving via dividend or bonus in mid-year; CBTL lets them deploy that capital without worrying about whether they are buying a series in month seven of its twelve-month cycle.
+CBTL appeals to investors who want Bitcoin exposure with defined [tail risk](/tail-risk/) but who are either indifferent to the specific outcome period they are in or who cannot time their purchases to align with a series' start date. An investor might commit to a December allocation to Bitcoin and have capital arriving via [dividend](/dividend/) or bonus in mid-year; CBTL lets them deploy that capital without worrying about whether they are buying a series in month seven of its twelve-month cycle.
 
 The fund also interests clients of financial advisors who want to systematically allocate a slice to Bitcoin but want that slice to have guardrails. Instead of owning 3 percent in a spot Bitcoin ETF (with full volatility), an advisor might recommend 5 percent in CBTL, knowing the loss cannot exceed 20 percent, no matter how far Bitcoin falls. The extra allocation is affordable because of the protection.
 
@@ -59,6 +59,6 @@ Tactically, CBTL might appeal during periods when Bitcoin is expected to consoli
 
 The Calamos website provides regular updates on CBTL's current cap and floor metrics—both gross and net of fees. These numbers change daily as Bitcoin's price and the remaining time in each embedded series' outcome period change. Reviewing these metrics over several weeks or months reveals how stable or volatile CBTL's upside and downside boundaries are.
 
-Investors should understand what the underlying Bitcoin exposure represents. Do the embedded options reference spot Bitcoin, Bitcoin futures, or Bitcoin ETPs? This affects counterparty risk and basis risk. Historical data on how the prior four series performed—whether the caps were generous or tight, whether the floors were binding—shows the range of outcomes investors might expect.
+Investors should understand what the underlying Bitcoin exposure represents. Do the embedded options reference spot Bitcoin, Bitcoin futures, or Bitcoin ETPs? This affects [counterparty risk](/counterparty-risk/) and [basis risk](/basis-risk/). Historical data on how the prior four series performed—whether the caps were generous or tight, whether the floors were binding—shows the range of outcomes investors might expect.
 
-Finally, compare CBTL's expense ratio and performance to the monthly series (CBTA, CBTJ, etc.) held over the same calendar period. The math should show that CBTL, while costing 0.10 percent more, removes the timing risk and decision burden. Whether that trade-off is worthwhile depends on the investor's comfort with complexity and their ability to time market entry points.
+Finally, compare CBTL's [expense ratio](/expense-ratio/) and performance to the monthly series (CBTA, CBTJ, etc.) held over the same calendar period. The math should show that CBTL, while costing 0.10 percent more, removes the timing risk and decision burden. Whether that trade-off is worthwhile depends on the investor's comfort with complexity and their ability to time market entry points.

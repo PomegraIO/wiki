@@ -13,7 +13,7 @@ handwritten: true
 
 > "A SPAC is essentially a pool of cash with a deadline."
 
-NewHold Investment Corp IV embodies that structure: capital raised from public investors, held in trust, awaiting a management team's identification of an acquisition target. Once that target is found and negotiated, a merger vote determines whether ordinary shareholders roll their money forward into the combined entity or redeem for cash. The entire exercise is built on the sponsor team's reputation, sector expertise, and ability to spot a good deal within the allotted timeframe — typically two to three years from IPO.
+NewHold Investment Corp IV embodies that structure: capital raised from public investors, held in trust, awaiting a management team's identification of an [acquisition](/acquisition/) target. Once that target is found and negotiated, a [merger](/merger/) vote determines whether ordinary shareholders roll their money forward into the combined entity or redeem for cash. The entire exercise is built on the sponsor team's reputation, sector expertise, and ability to spot a good deal within the allotted timeframe — typically two to three years from IPO.
 
 <aside class="wiki-infobox">
 <table>
@@ -45,7 +45,7 @@ During the search phase, a SPAC is essentially dormant from an operational stand
 
 This idle capital carries an opportunity cost. An investor in a search-phase SPAC is earning near-zero returns on the trust account while waiting for a deal to materialize. If the sponsor fails to find a suitable target before the deadline, the SPAC liquidates, shareholders receive their share of the trust account minus expenses, and the entire process yields nothing more than modest losses to transaction costs.
 
-Alternatively, a sponsor may find a target quickly and announce a merger, triggering a shareholder vote within weeks. This is where redemption rights become crucial. Shareholders who believe the merger price is unattractive, or who dislike the target company's fundamentals, can redeem their shares for cash rather than stay in. The redemption feature is the only real leverage ordinary shareholders have — it is the structural check on sponsor incentive misalignment.
+Alternatively, a sponsor may find a target quickly and announce a merger, triggering a shareholder vote within weeks. This is where [redemption rights](/redemption-rights-equity/) become crucial. Shareholders who believe the merger price is unattractive, or who dislike the target company's fundamentals, can redeem their shares for cash rather than stay in. The redemption feature is the only real leverage ordinary shareholders have — it is the structural check on sponsor incentive misalignment.
 
 ## Evaluating NewHold and any SPAC
 

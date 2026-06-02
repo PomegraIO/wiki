@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Defiance Daily Target 2X Short IONQ ETF (IONZ) is an inverse leveraged exchange-traded fund designed to move in the opposite direction of IonQ Inc. (IONQ) with 2X amplification. If IonQ rises 1 percent, IONZ aims to fall approximately 2 percent. If IonQ falls 2 percent, IONZ aims to rise approximately 4 percent. The fund uses equity swaps and other derivatives to achieve this short exposure. It is designed for traders betting on IonQ's decline or seeking a tactical hedge against existing IonQ positions.
+Defiance Daily Target 2X Short IONQ ETF (IONZ) is an inverse leveraged exchange-traded fund designed to move in the opposite direction of IonQ Inc. (IONQ) with 2X amplification. If IonQ rises 1 percent, IONZ aims to fall approximately 2 percent. If IonQ falls 2 percent, IONZ aims to rise approximately 4 percent. The fund uses [equity swaps](/equity-swap/) and other derivatives to achieve this short exposure. It is designed for traders betting on IonQ's decline or seeking a tactical hedge against existing IonQ positions.
 
 <aside class="wiki-infobox">
 <table>
@@ -25,13 +25,13 @@ Defiance Daily Target 2X Short IONQ ETF (IONZ) is an inverse leveraged exchange-
 
 ## Origins and purpose
 
-Inverse leveraged ETFs emerged as investors sought tools to express bearish views or hedge long exposures without shorting stock directly. IONZ is part of this category, specifically targeting the quantum-computing sector's volatility. Because quantum computing is a speculative, nascent field, stocks like IonQ experience sharp swings. IONZ appeals to traders who believe IonQ will decline or who want to hedge existing quantum holdings.
+Inverse [leveraged ETFs](/leveraged-etf/) emerged as investors sought tools to express bearish views or hedge long exposures without shorting stock directly. IONZ is part of this category, specifically targeting the quantum-computing sector's volatility. Because quantum computing is a speculative, nascent field, stocks like IonQ experience sharp swings. IONZ appeals to traders who believe IonQ will decline or who want to hedge existing quantum holdings.
 
 ## How inverse leverage works
 
 IONZ achieves inverse return through equity swaps. The fund enters contracts with banks where the fund receives the inverse (negative) daily return of IonQ multiplied by two. If IonQ is up 1 percent, IONZ receives -2 percent. If IonQ is down 1 percent, IONZ receives +2 percent.
 
-Unlike traditional shorting, the fund does not borrow and sell shares. Instead, it uses derivatives to create synthetic short exposure. This avoids borrowing constraints and stock borrow costs, but introduces counterparty risk with the swap provider.
+Unlike traditional shorting, the fund does not borrow and sell shares. Instead, it uses derivatives to create synthetic short exposure. This avoids borrowing constraints and stock borrow costs, but introduces [counterparty risk](/counterparty-risk/) with the swap provider.
 
 The fund rebalances daily. Each day, the notional short position is adjusted so that the next day's return target is again -2X. This daily reset is essential to how the fund behaves.
 
@@ -41,11 +41,11 @@ Defiance ETFs began issuing single-stock leveraged and inverse products in recen
 
 ## Volatility decay and the inverse problem
 
-Inverse funds suffer the same volatility decay as long leveraged funds, plus an additional challenge. In a rising market, the fund compounds losses daily. In a flat market with high volatility, decay erodes value because rebalancing locks in daily losses.
+Inverse funds suffer the same volatility decay as long leveraged funds, plus an additional challenge. In a rising market, the fund compounds losses daily. In a [flat market](/flat-market/) with high volatility, decay erodes value because rebalancing locks in daily losses.
 
 Consider an example: IonQ rises 10 percent over a month. A simple inverse fund would be down 10 percent. A -2X inverse fund would be down roughly 20 percent. But if IonQ is choppy—up 5 percent, down 4 percent, up 3 percent, down 2 percent—the daily rebalancing means the -2X fund loses more than simply -2X times the net return.
 
-In a strong bull market, inverse funds are particularly treacherous. IONZ is intended for short-term tactical bets, not long-term holds.
+In a strong [bull market](/bull-market/), inverse funds are particularly treacherous. IONZ is intended for short-term tactical bets, not long-term holds.
 
 ## Who should own it
 
@@ -55,9 +55,9 @@ IONZ is not suitable for long-term holders. The prospectus explicitly warns agai
 
 ## Costs and mechanics
 
-IONZ trades on NYSE ARCA with typical bid-ask spreads during normal hours. The fund charges an annual expense ratio for swap management and administration. The ratio accrues daily as a drag. The fund does not pay a dividend.
+IONZ trades on NYSE ARCA with typical [bid-ask spreads](/bid-ask-spread/) during normal hours. The fund charges an annual [expense ratio](/expense-ratio/) for swap management and administration. The ratio accrues daily as a drag. The fund does not pay a [dividend](/dividend/).
 
-Swap positions are marked daily. In volatile markets or stress periods, the banks providing swaps may widen costs, causing wider bid-ask spreads. Authorized participants can arbitrage gaps.
+Swap positions are marked daily. In volatile markets or stress periods, the banks providing swaps may widen costs, causing wider bid-ask spreads. [Authorized participants](/authorized-participant/) can arbitrage gaps.
 
 ## Risks
 
@@ -65,11 +65,11 @@ The fund's value moves inversely to IonQ. If IonQ surges, IONZ falls sharply. If
 
 Counterparty risk with swap providers is a consideration. If a major bank faced distress, the fund's ability to maintain inverse leverage could be impaired.
 
-Liquidity risk exists if IonQ trading halts or becomes frozen. The inverse fund could face suspension or inability to rebalance properly.
+[Liquidity risk](/liquidity-risk/) exists if IonQ [trading halts](/trading-halts/) or becomes frozen. The inverse fund could face suspension or inability to rebalance properly.
 
 ## How to research IONZ
 
-Start with the prospectus for swap mechanics and explicit decay warnings. The fact sheet discloses expense ratio, net asset value, and current short notional exposure. SEC filings provide full context.
+Start with the prospectus for swap mechanics and explicit decay warnings. The fact sheet discloses expense ratio, [net asset value](/net-asset-value/), and current short notional exposure. SEC filings provide full context.
 
 Review historical performance. Compare IONZ return to -2X IonQ return to quantify decay. In high-volatility periods, decay is severe.
 

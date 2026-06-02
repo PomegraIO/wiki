@@ -39,7 +39,7 @@ This [diversification](/diversification/) across asset classes and return profil
 
 ## Scale and Competitive Position
 
-As of recent years, Patria has managed assets in the range of $10–$15 billion across all vehicles. This scale places it among the largest independent alternative managers in Latin America by assets under management, though well below global megamanagers like Blackstone, KKR, or Carlyle. Patria competes primarily against other large independent regional managers, some foreign-owned, that also pursue multi-strategy alternative investing in Brazil and neighboring countries.
+As of recent years, Patria has managed assets in the range of $10–$15 billion across all vehicles. This scale places it among the largest independent alternative managers in Latin America by assets under management, though well below global megamanagers like Blackstone, [KKR](/kkr-stock/), or Carlyle. Patria competes primarily against other large independent regional managers, some foreign-owned, that also pursue multi-strategy alternative investing in Brazil and neighboring countries.
 
 Patria's competitive strengths include deep local operating relationships in Brazil, a decade-plus track record in the region, institutional-quality operational and governance practices, and established distribution to global capital sources. Its weaknesses or vulnerabilities are the concentration of investment opportunity in Brazil and Brazil's macroeconomic and political volatility, which creates cyclical pressure on asset valuations and exit timing.
 

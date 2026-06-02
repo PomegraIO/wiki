@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-What is Oaktree Specialty Lending? Oaktree Specialty Lending Corp. (ticker OCSL) is a [business development company](/business-development-company/) (BDC)—a publicly traded investment vehicle that lends money to middle-market companies. The firm is managed by Oaktree Capital Management, a large alternative-asset manager, and it trades on the NASDAQ. Rather than owning equity stakes in companies, Oaktree Specialty Lending makes loans, capturing returns through interest payments and fees.
+What is Oaktree Specialty Lending? Oaktree Specialty Lending Corp. (ticker OCSL) is a [business development company](/business-development-company/) (BDC)—a publicly traded investment vehicle that lends money to middle-market companies. The firm is managed by Oaktree Capital Management, a large alternative-asset manager, and it trades on the [NASDAQ](/nasdaq/). Rather than owning equity stakes in companies, Oaktree Specialty Lending makes loans, capturing returns through interest payments and fees.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ What is Oaktree Specialty Lending? Oaktree Specialty Lending Corp. (ticker OCSL)
 
 ## What does Oaktree Specialty Lending actually do?
 
-Oaktree Specialty Lending makes loans to privately held companies and public companies in transition. The borrowers are typically mid-sized businesses—too large for small-business lending but too small or too risky to borrow easily from traditional banks or the public bond markets. These companies might be owned by [private equity funds](/private-equity-fund/), family offices, or management teams, and they need capital for [acquisitions](/acquisition/), working capital, refinancing, or growth initiatives.
+Oaktree Specialty Lending makes loans to privately held companies and public companies in transition. The borrowers are typically mid-sized businesses—too large for small-business lending but too small or too risky to borrow easily from traditional banks or the public [bond](/bond/) markets. These companies might be owned by [private equity funds](/private-equity-fund/), family offices, or management teams, and they need capital for [acquisitions](/acquisition/), working capital, refinancing, or growth initiatives.
 
 The loans are typically structured in tiers of risk. First-lien loans are the most senior; if the company runs into trouble, first-lien holders are paid before everyone else. Second-lien loans are subordinated; holders are paid only after first-lien lenders are satisfied. Mezzanine debt sits above second-lien in seniority and often includes warrants or equity upside. Oaktree Specialty Lending focuses primarily on first-lien and second-lien lending, capturing higher [interest rates](/interest-rate/) in exchange for taking on the risk that the borrower might not repay.
 
@@ -35,9 +35,9 @@ Why does this market exist? Traditional banks are highly regulated and bound by 
 
 ## How are the loans made and managed?
 
-Oaktree's investment team conducts credit analysis on potential borrowers—examining financial statements, market position, management quality, and repayment capacity. Once a loan is approved, the company receives the capital and agrees to repay it with interest over a fixed term (typically 5 to 7 years). Interest rates are usually floating, tied to a benchmark like the Secured Overnight Financing Rate (SOFR) plus a margin. The margin reflects the [credit risk](/credit-risk/); a stronger company might borrow at SOFR plus 500 basis points, while a riskier one might pay SOFR plus 700 or 800 basis points.
+Oaktree's investment team conducts credit analysis on potential borrowers—examining financial statements, market position, management quality, and repayment capacity. Once a loan is approved, the company receives the capital and agrees to repay it with interest over a fixed term (typically 5 to 7 years). Interest rates are usually floating, tied to a benchmark like the Secured Overnight Financing Rate ([SOFR](/sofr/)) plus a margin. The margin reflects the [credit risk](/credit-risk/); a stronger company might borrow at SOFR plus 500 basis points, while a riskier one might pay SOFR plus 700 or 800 basis points.
 
-The borrower makes regular interest payments to Oaktree, and if all goes well, repays the loan at maturity. Oaktree collects the interest and distributes most of it to its shareholders as a dividend. If a borrower falters, Oaktree may work with the company to restructure the loan or may eventually force the company into bankruptcy to recover as much as possible of the outstanding principal.
+The borrower makes regular interest payments to Oaktree, and if all goes well, repays the loan at maturity. Oaktree collects the interest and distributes most of it to its shareholders as a [dividend](/dividend/). If a borrower falters, Oaktree may work with the company to restructure the loan or may eventually force the company into bankruptcy to recover as much as possible of the outstanding principal.
 
 ## What gives Oaktree an advantage?
 
@@ -55,7 +55,7 @@ Downstream, Oaktree serves the borrowers—private companies, private-equity-own
 
 ## How does interest-rate risk affect Oaktree?
 
-The interest rate environment is central to Oaktree's returns. Because most of Oaktree's loans are floating-rate (adjusted periodically based on SOFR or LIBOR), interest income rises when rates rise. This is an advantage during rate hikes; Oaktree's income flows expand as the floating-rate benchmark climbs. Conversely, in a falling-rate environment, income falls.
+The interest rate environment is central to Oaktree's returns. Because most of Oaktree's loans are floating-rate (adjusted periodically based on SOFR or [LIBOR](/libor/)), interest income rises when rates rise. This is an advantage during rate hikes; Oaktree's income flows expand as the floating-rate benchmark climbs. Conversely, in a falling-rate environment, income falls.
 
 The other side of the coin is that Oaktree itself borrows money to lever its returns—it does not deploy only shareholder capital but also borrows from lenders to amplify the capital pool. Rising rates make that borrowing more expensive, which can squeeze returns. The interplay between rising income (from floating-rate loans) and rising interest expense (from Oaktree's own debt) determines the net benefit or cost of rate changes.
 

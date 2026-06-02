@@ -48,7 +48,7 @@ In some cases, LENSAR may conduct post-market clinical registries—observationa
 
 ## The Competitive Regulatory Landscape
 
-LENSAR does not compete in a regulatory vacuum. Competitors (Alcon, Bausch + Lomb, Zeiss, Catalys) operate under the same FDA framework and pursue similar approval pathways. If a competitor's laser system gains FDA approval for a new indication (e.g., toric cataract correction, where the laser corrects astigmatism), LENSAR faces pressure to pursue the same indication. The regulatory race is thus part of the competitive race: being first to FDA approval for a clinically meaningful indication confers market advantage and payer preference.
+LENSAR does not compete in a regulatory vacuum. Competitors (Alcon, [Bausch + Lomb](/blco-stock/), Zeiss, Catalys) operate under the same FDA framework and pursue similar approval pathways. If a competitor's laser system gains FDA approval for a new indication (e.g., toric cataract correction, where the laser corrects astigmatism), LENSAR faces pressure to pursue the same indication. The regulatory race is thus part of the competitive race: being first to FDA approval for a clinically meaningful indication confers market advantage and payer preference.
 
 ## The Regulatory Navigator's Summary
 

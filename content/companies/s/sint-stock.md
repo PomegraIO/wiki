@@ -55,11 +55,11 @@ The ultimate threat is that silicon nitride simply does not achieve significant 
 
 Sintx has typically operated at a loss or razor-thin profitability, burning cash on research, development, manufacturing infrastructure, and regulatory submissions. The company has funded itself through periodic equity raises, debt, and strategic investments from partners interested in the technology. Each raise dilutes existing shareholders; the company's cap table has expanded significantly over the years.
 
-The balance sheet shows modest revenues, modest gross margins (higher than commodity ceramics but lower than software or fully-developed devices), and ongoing operating losses. The company is not yet free-cash-flow positive, which means it depends on continued capital raises or breakthrough licensing deals to survive and fund growth.
+The [balance sheet](/balance-sheet/) shows modest revenues, modest gross margins (higher than commodity ceramics but lower than software or fully-developed devices), and ongoing operating losses. The company is not yet free-cash-flow positive, which means it depends on continued capital raises or breakthrough licensing deals to survive and fund growth.
 
 ## Tracking Sintx as a speculative investment
 
-The company files quarterly and annual reports with the SEC (CIK 0001269026). Key metrics to watch include:
+The company files quarterly and [annual reports](/10-k/) with the SEC (CIK 0001269026). Key metrics to watch include:
 
 **Revenue by segment** — how much is coming from medical versus industrial, and is the mix shifting? Medical revenue is lower volume but higher margin; industrial is more commoditized.
 

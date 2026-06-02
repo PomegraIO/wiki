@@ -17,7 +17,7 @@ ARCX is a leveraged fund, which means it uses borrowed money to amplify returns.
 
 Leverage is simple on the surface. If you have a thousand dollars and borrow another thousand, you have two thousand to invest. If your investments go up ten percent, you gain two hundred dollars instead of a hundred — your two-thousand portfolio rises to twenty-two hundred, a ten-percent jump on your original one-thousand stake. That is a two-times multiplier, or 2X leverage.
 
-ARCX borrows money from banks every single day to buy twice as much index exposure as the fund's actual assets would allow. The fund then sells shares to investors and uses that capital to pay back the loan. The borrowed money costs something — an interest rate — which comes out of returns. So on any given day, ARCX holds twice the notional value of the index, trying to capture twice the daily move.
+ARCX borrows money from banks every single day to buy twice as much index exposure as the fund's actual assets would allow. The fund then sells shares to investors and uses that capital to pay back the loan. The borrowed money costs something — an [interest rate](/interest-rate/) — which comes out of returns. So on any given day, ARCX holds twice the notional value of the index, trying to capture twice the daily move.
 
 ## The daily reset problem and volatility decay
 
@@ -41,7 +41,7 @@ The cost of leverage also moves over time. When short-term interest rates are lo
 
 ## Who ARCX is for and the real risks
 
-ARCX is for active traders with strong conviction about short-term market direction. If you believe the Archer-CTA Index will trend upward over the next five trading days, using ARCX amplifies that view. It is not for anyone planning to hold for years. It is not for people who do not understand leverage. It is not for investors who think a leveraged ETF is a way to boost their buy-and-hold returns — it is not.
+ARCX is for active traders with strong conviction about short-term market direction. If you believe the Archer-CTA Index will trend upward over the next five trading days, using ARCX amplifies that view. It is not for anyone planning to hold for years. It is not for people who do not understand leverage. It is not for investors who think a [leveraged ETF](/leveraged-etf/) is a way to boost their buy-and-hold returns — it is not.
 
 The risks are severe if the market moves against you. A twenty-percent drop in the index becomes a forty-percent loss in ARCX. That forty-percent loss requires a sixty-seven-percent gain to recover. Most investors who buy leveraged products intending to hold them long-term end up locking in substantial losses while waiting for their thesis to play out.
 
@@ -51,4 +51,4 @@ Volatility decay is invisible until you compare performance to what you expected
 
 Start with the prospectus, which lays out the daily rebalancing mechanism, the interest cost structure, and examples of how decay works. Run some scenarios: if the Archer-CTA Index rises five percent, then falls five percent, then rises five percent again, what does ARCX deliver? Backtests of the fund's performance reveal the historical drag from decay and costs. Compare ARCX's gains to exactly twice the index's gains over various periods — you will see the deterioration clearly.
 
-Understand the Archer-CTA Index itself: what does it track, which components drive moves, how volatile is it? High-volatility indices decay faster in leveraged products. Examine the fund's trading volume and bid-ask spread to ensure you can buy and sell without slippage costs eating your gains. Read the fund's fact sheet for the current interest rate embedded in its operations and recent years' returns compared to its target. As with any instrument, ARCX is best used for its intended purpose — short-term directional trades — and avoided for any other.
+Understand the Archer-CTA Index itself: what does it track, which components drive moves, how volatile is it? High-volatility indices decay faster in leveraged products. Examine the fund's trading volume and [bid-ask spread](/bid-ask-spread/) to ensure you can buy and sell without slippage costs eating your gains. Read the fund's fact sheet for the current interest rate embedded in its operations and recent years' returns compared to its target. As with any instrument, ARCX is best used for its intended purpose — short-term directional trades — and avoided for any other.

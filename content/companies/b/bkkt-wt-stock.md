@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Bakkt is a digital asset company. It lets people and institutions buy, sell, and hold cryptocurrency in a regulated, insured environment. The company was started by the Intercontinental Exchange, which also owns the New York Stock Exchange, and that parentage shaped its whole approach: build something that would satisfy bank regulators and compliance teams, not just crypto enthusiasts.
+Bakkt is a digital asset company. It lets people and institutions buy, sell, and hold cryptocurrency in a regulated, insured environment. The company was started by the [Intercontinental Exchange](/ice-stock/), which also owns the [New York Stock Exchange](/new-york-stock-exchange/), and that parentage shaped its whole approach: build something that would satisfy bank regulators and compliance teams, not just crypto enthusiasts.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Bakkt is a digital asset company. It lets people and institutions buy, sell, and
 
 ## What Bakkt actually does
 
-Bakkt runs a marketplace where people trade Bitcoin, Ethereum, and other digital currencies. The company handles the hard parts that keep most of America out of crypto: proving you are who you claim to be, making sure you actually own what you are trading, holding the assets safely, and filing all the paperwork regulators demand. Bakkt holds customer money and assets in secure vaults. Every Bitcoin on the platform is insured, which is one reason institutions trust it. Bakkt also makes money from trading fees every time someone buys or sells.
+Bakkt runs a marketplace where people trade [Bitcoin](/bitcoin/), [Ethereum](/ethereum/), and other digital currencies. The company handles the hard parts that keep most of America out of crypto: proving you are who you claim to be, making sure you actually own what you are trading, holding the assets safely, and filing all the paperwork regulators demand. Bakkt holds customer money and assets in secure vaults. Every Bitcoin on the platform is insured, which is one reason institutions trust it. Bakkt also makes money from trading fees every time someone buys or sells.
 
 The company offers both a consumer app and institutional trading tools. The consumer side is straightforward: you download the app, deposit money, buy Bitcoin, and can hold it or sell it whenever you want. The institutional side is more complex. Big investors and funds need the ability to trade large amounts, integrate with their existing systems, and have financial data they can trust. Bakkt provides infrastructure for that.
 
@@ -51,5 +51,5 @@ Custody risk. Bakkt holds billions in customer assets. A hack, a collapse in ins
 
 Bakkt is profitable only if trading volume is strong and its cost base is lean. The company is betting that as more people and institutions adopt digital assets, they will do so on a regulated, insured platform rather than a casual exchange or peer-to-peer service. That is plausible. But the company is also dependent on the growth of the overall crypto market. If Bitcoin and Ethereum adoption stalls, Bakkt's growth stalls with it.
 
-For investors, the 10-K filing shows trading volume, customer acquisition costs, and the mix of institutional versus retail revenue. Watch the gross margin on trading fees—that shows whether Bakkt is becoming more efficient. Track the growth rate of the customer base and average assets under custody. Those are the metrics that matter most. The stock price of digital assets is noise compared to the durability of Bakkt's regulatory position and its ability to hold costs down while capturing trading fees.
+For investors, the 10-K filing shows trading volume, customer [acquisition](/acquisition/) costs, and the mix of institutional versus retail revenue. Watch the gross margin on trading fees—that shows whether Bakkt is becoming more efficient. Track the growth rate of the customer base and average assets under custody. Those are the metrics that matter most. The stock price of digital assets is noise compared to the durability of Bakkt's regulatory position and its ability to hold costs down while capturing trading fees.
 

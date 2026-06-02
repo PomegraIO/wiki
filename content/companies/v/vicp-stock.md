@@ -35,7 +35,7 @@ The challenge is time and capital. A typical drug development programme takes te
 
 In September 2022, Vicapsys appointed three new board members: Richard Rosenblum, Colleen Delaney, and Charles Farrahar. The appointments suggest a deliberate effort to add financial and pharmaceutical expertise to governance. Rosenblum and Delaney and Farrahar brought backgrounds in healthcare finance and drug development—the kind of domain knowledge a pre-revenue biotech company needs to navigate fundraising and partnership discussions with larger firms.
 
-Board composition is often a leading indicator of a biotech's strategic direction. New financial expertise can signal preparation for a licensing deal or merger. New pharmaceutical expertise can suggest a shift toward later-stage development. In Vicapsys' case, the 2022 appointments happened after more than a decade of operations without marketed products—a sign that the company was either refocusing its approach or preparing for a significant capital event.
+Board composition is often a leading indicator of a biotech's strategic direction. New financial expertise can signal preparation for a licensing deal or [merger](/merger/). New pharmaceutical expertise can suggest a shift toward later-stage development. In Vicapsys' case, the 2022 appointments happened after more than a decade of operations without marketed products—a sign that the company was either refocusing its approach or preparing for a significant capital event.
 
 ## Compound selection and therapeutic areas
 
@@ -45,7 +45,7 @@ The specific compounds Vicapsys is developing have not been disclosed in detail 
 
 ## The capital puzzle
 
-A company with no revenue and no near-term path to revenue must continuously raise capital. Vicapsys files quarterly reports and annual reports with the SEC (as required of all public companies), but the annual and quarterly financial statements paint a stark picture: operating losses growing each year, a cash balance declining toward zero, and no revenue line. At some point, this trajectory becomes unsustainable. The company either closes down, merges with a better-funded partner, or succeeds in raising capital and proving one of its compounds works in clinical trials.
+A company with no revenue and no near-term path to revenue must continuously raise capital. Vicapsys files quarterly reports and [annual reports](/10-k/) with the SEC (as required of all public companies), but the annual and quarterly financial statements paint a stark picture: operating losses growing each year, a cash balance declining toward zero, and no revenue line. At some point, this trajectory becomes unsustainable. The company either closes down, merges with a better-funded partner, or succeeds in raising capital and proving one of its compounds works in clinical trials.
 
 The fact that Vicapsys has remained public—listed, filing reports, trading on the OTC markets—despite more than a decade without revenue suggests shareholder patience or the presence of patient capital (often from insiders or institutional biotech investors). Many early-stage biopharmaceutical companies operate this way. The market for pre-revenue biotech stocks is small and illiquid, but it exists.
 
@@ -53,7 +53,7 @@ The fact that Vicapsys has remained public—listed, filing reports, trading on 
 
 Large pharmaceutical companies regularly acquire smaller biotech firms or license individual compounds. A single successful compound from Vicapsys could be worth tens of millions to a larger partner. Conversely, Vicapsys might license out one compound to a partner and use the upfront payment and milestones to fund development of others. This strategy—rather than building a full commercial infrastructure—is more common for small biotech firms with limited capital.
 
-Such deals reshape ownership and value. A licensing agreement might return cash to the company immediately but cede future upside. An outright acquisition would end Vicapsys as an independent public company, though shareholders would receive consideration. Neither outcome is inevitable; both are plausible given the company's stage and capital needs.
+Such deals reshape ownership and value. A licensing agreement might return cash to the company immediately but cede future upside. An outright [acquisition](/acquisition/) would end Vicapsys as an independent public company, though shareholders would receive consideration. Neither outcome is inevitable; both are plausible given the company's stage and capital needs.
 
 ## Clinical trial timelines and uncertainty
 

@@ -85,6 +85,6 @@ The stock matters to those who believe in steady healthcare revenue and [dividen
 - [bmi-stock](/bmi-stock/)
 
 ### Wider context
-- [healthcare services](/hcsg-stock/) sector
+- healthcare services sector
 - regulatory compliance in medical devices
 </div>

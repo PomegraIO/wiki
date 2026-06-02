@@ -23,7 +23,7 @@ The cloud-streaming component is smaller but growing. Super League has developed
 
 ## Why did Super League abandon pure esports?
 
-Community-driven esports leagues and tournaments are capital-intensive and crowded. Dozens of companies run local gaming leagues, online tournaments, and grassroots esports programming. The margins are thin, the customer acquisition is expensive, and there is no natural moat. Super League realized it had expertise in understanding gaming audiences and gaming platforms, but the league business itself was not defensible. The pivot toward branded content and audience marketing was recognition that the real money in gaming media is not in hosting tournaments but in helping brands reach gamers. That market is larger, faster-growing, and less crowded.
+Community-driven esports leagues and tournaments are capital-intensive and crowded. Dozens of companies run local gaming leagues, online tournaments, and grassroots esports programming. The margins are thin, the customer [acquisition](/acquisition/) is expensive, and there is no natural moat. Super League realized it had expertise in understanding gaming audiences and gaming platforms, but the league business itself was not defensible. The pivot toward branded content and audience marketing was recognition that the real money in gaming media is not in hosting tournaments but in helping brands reach gamers. That market is larger, faster-growing, and less crowded.
 
 ## What is Super League's competitive position?
 

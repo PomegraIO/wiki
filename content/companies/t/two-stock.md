@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Two Harbors Investment Corp. is not a bank and does not lend to homeowners. It is not a mortgage broker and does not originate loans. It is a [real estate investment trust](/real-estate-investment-trust/) (REIT) that buys residential mortgage-backed securities and mortgage servicing rights, then uses leverage to amplify returns. If that sounds confusing, that is because it is. But the basic idea is simple: borrow money cheaply, buy mortgages or the income streams from mortgages, sell the mortgages or the income at a wider spread, and keep the difference as profit.
+Two Harbors Investment Corp. is not a bank and does not lend to homeowners. It is not a mortgage [broker](/broker/) and does not originate loans. It is a [real estate investment trust](/real-estate-investment-trust/) (REIT) that buys residential mortgage-backed securities and mortgage servicing rights, then uses leverage to amplify returns. If that sounds confusing, that is because it is. But the basic idea is simple: borrow money cheaply, buy mortgages or the income streams from mortgages, sell the mortgages or the income at a wider spread, and keep the difference as profit.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,15 +28,15 @@ Two Harbors Investment Corp. is not a bank and does not lend to homeowners. It i
 
 ## What Two Harbors actually owns
 
-Picture a homeowner in Ohio with a mortgage. The lender (say, a bank) originates the loan, but does not necessarily hold it. Instead, the lender sells it to a company that packages it with hundreds of other mortgages into a [mortgage-backed security](/mortgage-backed-security/) (MBS). That security is then bought and held by investors — pension funds, insurance companies, bond funds, and [mortgage REITs](/mortgage-reit/) like Two Harbors.
+Picture a homeowner in Ohio with a mortgage. The lender (say, a bank) originates the loan, but does not necessarily hold it. Instead, the lender sells it to a company that packages it with hundreds of other mortgages into a [mortgage-backed security](/mortgage-backed-security/) (MBS). That security is then bought and held by investors — pension funds, insurance companies, [bond](/bond/) funds, and [mortgage REITs](/mortgage-reit/) like Two Harbors.
 
-Two Harbors buys two main types of assets. First, agency residential mortgage-backed securities (RMBS), which are pools of mortgages guaranteed by Fannie Mae, [Freddie Mac](/freddie-mac/), or Ginnie Mae. Because the government agencies guarantee the payment, the credit risk is zero; the investor gets paid even if homeowners default. Second, mortgage servicing rights (MSR), which are the rights to collect principal and interest payments from homeowners on mortgages. When a homeowner sends a monthly payment, the servicer takes a small cut — typically 0.25 percent of the outstanding balance — for managing the loan, collecting the payment, and handling escrow for taxes and insurance.
+Two Harbors buys two main types of assets. First, agency residential mortgage-backed securities (RMBS), which are pools of mortgages guaranteed by [Fannie Mae](/fannie-mae/), [Freddie Mac](/freddie-mac/), or Ginnie Mae. Because the government agencies guarantee the payment, the [credit risk](/credit-risk/) is zero; the investor gets paid even if homeowners default. Second, mortgage servicing rights (MSR), which are the rights to collect principal and interest payments from homeowners on mortgages. When a homeowner sends a monthly payment, the servicer takes a small cut — typically 0.25 percent of the outstanding balance — for managing the loan, collecting the payment, and handling escrow for taxes and insurance.
 
 Two Harbors operates RoundPoint Mortgage Servicing LLC, one of the largest servicers of conventional mortgages in the country. RoundPoint services mortgages originated by other lenders, collecting payments from millions of homeowners and managing the servicing flow.
 
 ## How the money gets made: the spread and the leverage
 
-Two Harbors does not make money by holding the mortgages until payoff (that would be boring). It makes money on the spread: the gap between what it pays to borrow and what it earns from the mortgages. If Two Harbors can borrow at 2 percent and earn 3.5 percent on a mortgage-backed security, the 1.5 percent spread is profit. That does not sound like much, but it is enough to pay a dividend if you use leverage.
+Two Harbors does not make money by holding the mortgages until payoff (that would be boring). It makes money on the spread: the gap between what it pays to borrow and what it earns from the mortgages. If Two Harbors can borrow at 2 percent and earn 3.5 percent on a mortgage-backed security, the 1.5 percent spread is profit. That does not sound like much, but it is enough to pay a [dividend](/dividend/) if you use leverage.
 
 Here is how the math works. Two Harbors has, say, $5 billion in equity. With that capital, it can buy $5 billion in mortgages and keep whatever spread it earns. But it can also borrow $35 billion and buy $40 billion in mortgages. Now the spread is applied to $40 billion, not $5 billion. If that spread is 1.5 percent, that is $600 million in gross spread. Subtract borrowing costs, [management fees](/management-fee/), and taxes, and the company might have $200 million left over to distribute to shareholders. On the $5 billion in equity, that is a 4 percent [dividend yield](/dividend-yield/). Add leverage and the dividend yield goes higher.
 
@@ -52,7 +52,7 @@ The twist is that MSR values move in the opposite direction as mortgage rates. W
 
 Two Harbors is internally managed, meaning it has its own board and management team, not outsourced to an external operator. That is unusual for REITs. It is also more expensive (internal management costs money) but gives the company more control over strategy.
 
-The shareholders are a mix of retail investors (many attracted by the high dividend), institutional fixed-income investors, and specialized mortgage-REIT funds. The audience for a mortgage REIT is different from the audience for an equity REIT (which owns buildings and collects rent). Mortgage REITs are sophisticated fixed-income plays; most retail investors who buy them do not fully understand what they own or how leverage changes the risk profile.
+The shareholders are a mix of retail investors (many attracted by the high dividend), institutional fixed-income investors, and specialized mortgage-REIT funds. The audience for a mortgage REIT is different from the audience for an [equity REIT](/equity-reit/) (which owns buildings and collects rent). Mortgage REITs are sophisticated fixed-income plays; most retail investors who buy them do not fully understand what they own or how leverage changes the risk profile.
 
 ## Interest rates and market risks
 

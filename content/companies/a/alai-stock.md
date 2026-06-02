@@ -28,13 +28,13 @@ This breadth creates both opportunity and complexity. A single dramatic AI devel
 
 ## Structure and costs
 
-ALAI operates as a standard transparent index ETF. Holdings are disclosed daily, expense ratios are visible in the prospectus, and the fund trades on an exchange during market hours at prices set by supply and demand. Because it is thematic rather than market-cap-weighted, it does not track the S&P 500 or any broad market index; it is a specialized satellite holding for investors with a conviction that AI exposure is worth the elevated concentration and volatility this implies.
+ALAI operates as a standard transparent index ETF. Holdings are disclosed daily, [expense ratios](/expense-ratio/) are visible in the prospectus, and the fund trades on an exchange during market hours at prices set by supply and demand. Because it is thematic rather than market-cap-weighted, it does not track the S&P 500 or any broad market index; it is a specialized satellite holding for investors with a conviction that AI exposure is worth the elevated concentration and volatility this implies.
 
 Thematic funds often carry higher expense ratios than broad market index ETFs, reflecting the cost of maintaining a focused theme and curating a narrower list of eligible companies. ALAI's costs relative to a generic tech ETF or a broad market fund should be weighed against the fund's stated advantage: that its selection methodology captures the AI opportunity more precisely than a traditional index would.
 
 ## The risks of chasing a theme
 
-Thematic ETFs are vulnerable to a particular set of risks. One is definitional: the boundary between "true" AI enablers and adopters versus companies merely marketing AI exposure can be fuzzy, and the index methodology that draws that line may be overly broad or overly narrow. If the market comes to agree that the definition is wrong, holdings could suffer sudden repricing.
+[Thematic ETFs](/thematic-etf/) are vulnerable to a particular set of risks. One is definitional: the boundary between "true" AI enablers and adopters versus companies merely marketing AI exposure can be fuzzy, and the index methodology that draws that line may be overly broad or overly narrow. If the market comes to agree that the definition is wrong, holdings could suffer sudden repricing.
 
 Another is momentum risk. If a thematic fund becomes popular and assets pour in, that inflow can push prices higher independent of fundamentals, creating a window where new buyers pay stretched valuations. Conversely, if sentiment shifts and investors flee thematic exposures, sudden outflows can depress valuations across the entire theme, even for companies whose AI prospects remain sound.
 

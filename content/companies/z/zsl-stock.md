@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ZSL moves in the opposite direction of natural gas prices. When natural gas becomes cheaper, ZSL tends to become more valuable. When natural gas becomes more expensive, ZSL tends to lose value. The fund uses financial derivatives — primarily natural gas futures contracts — to construct this inverted relationship, rebalancing daily to maintain its inverse exposure.
+ZSL moves in the opposite direction of [natural gas](/natural-gas/) prices. When natural gas becomes cheaper, ZSL tends to become more valuable. When natural gas becomes more expensive, ZSL tends to lose value. The fund uses financial derivatives — primarily natural gas [futures contracts](/futures-contract/) — to construct this inverted relationship, rebalancing daily to maintain its inverse exposure.
 
 <aside class="wiki-infobox">
 <table>
@@ -37,9 +37,9 @@ The fund also attracts traders with a tactical bearish view. If market condition
 
 ZSL holds a portfolio of natural gas futures contracts, the same instruments professional traders use but assembled into a simple ETF structure. As natural gas futures fall, the value of these derivatives increases, lifting the fund's price. As natural gas futures rise, the derivatives lose value, and the fund declines.
 
-The fund rebalances daily. This daily reset means the fund is always positioned to deliver the inverse of tomorrow's daily move, regardless of what happened today. The calendar effect of rolling contracts compounds this dynamic. Natural gas futures expire and must be continuously replaced with new contracts further out. When near-term natural gas is more expensive than forward-dated gas — the typical pattern, called contango — the rolling process locks in costs: the fund sells contracts at lower prices and buys contracts at higher prices. These costs drag on returns over extended holding periods.
+The fund rebalances daily. This daily reset means the fund is always positioned to deliver the inverse of tomorrow's daily move, regardless of what happened today. The calendar effect of rolling contracts compounds this dynamic. Natural gas futures expire and must be continuously replaced with new contracts further out. When near-term natural gas is more expensive than forward-dated gas — the typical pattern, called [contango](/contango/) — the rolling process locks in costs: the fund sells contracts at lower prices and buys contracts at higher prices. These costs drag on returns over extended [holding periods](/holding-period/).
 
-The fee structure matters. Like all ETFs, ZSL charges an expense ratio. For a natural gas inverse fund, this fee is typically moderate but meaningful. Over a one-year holding period, the combination of rolling costs, fees, and volatility-induced decay can substantially erode performance.
+The fee structure matters. Like all ETFs, ZSL charges an [expense ratio](/expense-ratio/). For a natural gas inverse fund, this fee is typically moderate but meaningful. Over a one-year holding period, the combination of rolling costs, fees, and volatility-induced decay can substantially erode performance.
 
 ## Why natural gas volatility matters more here than elsewhere
 
@@ -53,7 +53,7 @@ The more volatile natural gas becomes, the worse this effect grows. Investors ho
 
 A critical structural challenge for ZSL is the natural gas futures curve. Most of the time, near-term natural gas contracts trade at higher prices than contracts expiring months ahead — a state called contango. When this happens, the fund continuously rolls from expensive contracts into cheaper ones, locking in losses each time it rolls.
 
-This structure is not accidental. It reflects the market's expectation that gas will be less scarce in the future than it is now, or that storage costs justify the price difference. But from ZSL's perspective, contango is a headwind. In the rare periods when the curve is in backwardation — near-term gas is cheaper than future gas — the fund benefits from rolling. Most years, however, ZSL faces structural drag from contango rolling costs that reduce returns independent of whether natural gas prices rise or fall.
+This structure is not accidental. It reflects the market's expectation that gas will be less scarce in the future than it is now, or that storage costs justify the price difference. But from ZSL's perspective, contango is a headwind. In the rare periods when the curve is in [backwardation](/backwardation/) — near-term gas is cheaper than future gas — the fund benefits from rolling. Most years, however, ZSL faces structural drag from contango rolling costs that reduce returns independent of whether natural gas prices rise or fall.
 
 ## Risk factors that create losses
 

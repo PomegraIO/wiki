@@ -12,15 +12,15 @@ handwritten: true
 
 ## What is Compass Digital Acquisition Corp.?
 
-Compass Digital Acquisition Corp. is a special purpose acquisition company, or SPAC — a blank-check vehicle formed with the explicit purpose of raising capital through a public offering and then using that capital to acquire or merge with an operating business. The company was incorporated in 2021 and is based in Zephyr Cove, Nevada. Its stock trades on the OTC markets under the symbol CDAUF, representing units that each consist of one Class A share and one-half of one redeemable warrant.
+Compass Digital [Acquisition](/acquisition/) Corp. is a special purpose acquisition company, or SPAC — a blank-check vehicle formed with the explicit purpose of raising capital through a public offering and then using that capital to acquire or merge with an operating business. The company was incorporated in 2021 and is based in Zephyr Cove, Nevada. Its stock trades on the OTC markets under the symbol CDAUF, representing units that each consist of one Class A share and one-half of one redeemable warrant.
 
 ## How does a SPAC fit into the capital markets supply chain?
 
-A SPAC occupies a middle position in the capital markets ecosystem. Upstream, it depends on investors willing to commit capital to a vehicle with no operating business — a pure capital deposit made in anticipation of a future acquisition. Downstream, it serves as an alternative to traditional initial public offerings for private companies seeking to raise growth capital and obtain a public listing without the regulatory overhead and time required to go through a conventional IPO process. The SPAC model transfers the problem of finding a suitable acquisition target from the investor to the sponsor team that organized the blank-check company.
+A SPAC occupies a middle position in the capital markets ecosystem. Upstream, it depends on investors willing to commit capital to a vehicle with no operating business — a pure capital deposit made in anticipation of a future acquisition. Downstream, it serves as an alternative to traditional [initial public offerings](/initial-public-offering/) for private companies seeking to raise growth capital and obtain a public listing without the regulatory overhead and time required to go through a conventional IPO process. The SPAC model transfers the problem of finding a suitable acquisition target from the investor to the sponsor team that organized the blank-check company.
 
 ## What were Compass Digital's business objectives?
 
-Compass Digital was formed with broad objectives to pursue a business combination with one or more companies operating in digital, technology, software, or related sectors. The company's sponsor team identified potential target businesses, evaluated opportunities, and negotiated transaction terms. SPACs typically operate under a deadline — they have a limited window, usually two to three years, in which to identify a target and complete a merger. If no deal closes within that window, the SPAC must liquidate and return capital to shareholders.
+Compass Digital was formed with broad objectives to pursue a [business combination](/business-combination-purchase/) with one or more companies operating in digital, technology, software, or related sectors. The company's sponsor team identified potential target businesses, evaluated opportunities, and negotiated transaction terms. SPACs typically operate under a deadline — they have a limited window, usually two to three years, in which to identify a target and complete a [merger](/merger/). If no deal closes within that window, the SPAC must liquidate and return capital to shareholders.
 
 ## Did Compass Digital complete a merger?
 

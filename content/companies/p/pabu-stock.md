@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-PABU delivers exposure to the US stock market through a climate-focused lens. It starts with all large-cap and mid-cap American companies, then filters and reweights based on environmental credentials—removing or underweighting companies with high carbon intensity and no credible transition plan, while overweighting those that have set measurable decarbonization targets.
+PABU delivers exposure to the US [stock market](/stock-market/) through a climate-focused lens. It starts with all large-cap and mid-cap American companies, then filters and reweights based on environmental credentials—removing or underweighting companies with high carbon intensity and no credible transition plan, while overweighting those that have set measurable decarbonization targets.
 
-The result is a fund that holds roughly 600 large US companies, which is the majority of the American equity market by value but not all of it. The key structural difference from a traditional S&P 500 or MSCI USA index fund is that PABU systematically de-emphasizes traditional energy and utilities unless those businesses have clear net-zero strategies. You get exposure to the same sectors that make up the US economy—technology, health care, financials, consumer goods, industrials—but with different weights based on climate readiness.
+The result is a fund that holds roughly 600 large US companies, which is the majority of the American equity market by value but not all of it. The key structural difference from a traditional S&P 500 or MSCI USA [index fund](/index-fund/) is that PABU systematically de-emphasizes traditional energy and utilities unless those businesses have clear net-zero strategies. You get exposure to the same sectors that make up the US economy—technology, health care, financials, consumer goods, industrials—but with different weights based on climate readiness.
 
 ## The underlying index and screening methodology
 
@@ -29,9 +29,9 @@ This is not volatility or tracking error in the technical sense. It is intention
 
 ## Costs, structure, and trading
 
-PABU is a standard, non-leveraged exchange-traded fund issued by iShares and managed by BlackRock. The expense ratio typically sits between 0.20% and 0.30% per year—competitive with other US equity ESG funds. On a $10,000 position, that is roughly $20 to $30 per year in fees.
+PABU is a standard, non-leveraged exchange-traded fund issued by iShares and managed by [BlackRock](/blk-stock/). The [expense ratio](/expense-ratio/) typically sits between 0.20% and 0.30% per year—competitive with other US equity ESG funds. On a $10,000 position, that is roughly $20 to $30 per year in fees.
 
-The fund trades on NASDAQ and benefits from good liquidity. Trading volume is solid, bid-ask spreads are tight, and you can execute positions without significant slippage.
+The fund trades on [NASDAQ](/nasdaq/) and benefits from good liquidity. Trading volume is solid, [bid-ask spreads](/bid-ask-spread/) are tight, and you can execute positions without significant slippage.
 
 ## What makes a company "Paris-aligned"?
 

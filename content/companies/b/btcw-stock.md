@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-WisdomTree Bitcoin Fund (BTCW) is a fund that holds Bitcoin and allows you to buy and sell shares on a stock exchange, just as you would a traditional stock. Instead of owning Bitcoin directly in a digital wallet, you own shares of a fund that owns the Bitcoin. The fund holds the actual coins in secure custody, and your ownership stake is represented by shares that trade under the ticker BTCW.
+WisdomTree [Bitcoin](/bitcoin/) Fund (BTCW) is a fund that holds Bitcoin and allows you to buy and sell shares on a [stock exchange](/stock-exchange/), just as you would a traditional stock. Instead of owning Bitcoin directly in a digital wallet, you own shares of a fund that owns the Bitcoin. The fund holds the actual coins in secure custody, and your ownership stake is represented by shares that trade under the ticker BTCW.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,19 +27,19 @@ WisdomTree Bitcoin Fund (BTCW) is a fund that holds Bitcoin and allows you to bu
 
 Bitcoin is a cryptocurrency—a digital asset that exists on a peer-to-peer network called the Bitcoin blockchain. It is the oldest and most widely recognized cryptocurrency, created in 2009. Bitcoin is fundamentally a ledger: transactions are recorded on a distributed network of computers, and the network collectively verifies that no one is cheating. Bitcoin tokens (coins) live in digital wallets, and ownership is proved by a cryptographic key.
 
-For decades, the only way to own Bitcoin was to set up a digital wallet, buy coins on a cryptocurrency exchange, and manage your own security. That process works for enthusiasts but creates friction for traditional investors and institutions. A bank cannot easily explain to a compliance officer how to custody Bitcoin directly. A retirement account cannot hold coins in a digital wallet. WisdomTree Bitcoin Fund bridges that gap by wrapping Bitcoin in a familiar package—a security that trades on a major exchange.
+For decades, the only way to own Bitcoin was to set up a digital wallet, buy coins on a [cryptocurrency exchange](/cryptocurrency-exchange/), and manage your own security. That process works for enthusiasts but creates friction for traditional investors and institutions. A bank cannot easily explain to a compliance officer how to custody Bitcoin directly. A retirement account cannot hold coins in a digital wallet. WisdomTree Bitcoin Fund bridges that gap by wrapping Bitcoin in a familiar package—a security that trades on a major exchange.
 
 ## How the fund is structured and operates
 
-BTCW is a grantor trust, similar in structure to other commodity trusts. WisdomTree or a custodian partner acquires Bitcoin, and the fund holds it in custody. Investors buy shares of the fund on the stock exchange. Each share represents a fractional claim on the underlying Bitcoin holdings. The fund does not trade the Bitcoin; it holds it. It does not try to outperform; it simply tracks the value of Bitcoin itself, minus fees.
+BTCW is a grantor trust, similar in structure to other commodity trusts. WisdomTree or a [custodian](/custodian/) partner acquires Bitcoin, and the fund holds it in custody. Investors buy shares of the fund on the stock exchange. Each share represents a fractional claim on the underlying Bitcoin holdings. The fund does not trade the Bitcoin; it holds it. It does not try to outperform; it simply tracks the value of Bitcoin itself, minus fees.
 
-The fund charges a management fee, expressed as an annual expense ratio. That fee pays for custody, insurance, regulatory compliance, and the mechanics of running an exchange-traded vehicle. As with any passive fund, the fee is a headwind: your return is the Bitcoin price return minus the annual fee.
+The fund charges a [management fee](/management-fee/), expressed as an annual [expense ratio](/expense-ratio/). That fee pays for custody, insurance, regulatory compliance, and the mechanics of running an exchange-traded vehicle. As with any passive fund, the fee is a headwind: your return is the Bitcoin price return minus the annual fee.
 
 Bitcoin is indivisible in the blockchain sense (each Bitcoin is made of smaller units called satoshis), but the fund can hold fractional Bitcoin. If the fund owns one hundred Bitcoin and there are one million shares outstanding, each share is worth one-ten-thousandth of a Bitcoin. As Bitcoin's price changes, so does the value of each share.
 
 ## The investor appeal: convenience and regulatory clarity
 
-The main appeal of BTCW is simplicity. You can buy shares in a regular brokerage account—the same account where you hold stocks and bonds. Your broker holds the shares, just as it does your other securities. You do not need a cryptocurrency exchange account, a digital wallet, or a recovery phrase for a private key. You do not risk losing access to your Bitcoin because you forgot a password.
+The main appeal of BTCW is simplicity. You can buy shares in a regular brokerage account—the same account where you hold stocks and [bonds](/bond/). Your [broker](/broker/) holds the shares, just as it does your other securities. You do not need a cryptocurrency exchange account, a digital wallet, or a recovery phrase for a private key. You do not risk losing access to your Bitcoin because you forgot a password.
 
 For institutions—a pension fund, an endowment, a university—this structure makes sense. Their legal and compliance teams already understand regulated securities. They have custody and reconciliation processes for stocks and bonds. Adding an exchange-traded Bitcoin vehicle to that portfolio is straightforward. They may not be comfortable running their own cryptocurrency custodial infrastructure.
 
@@ -47,11 +47,11 @@ There is also tax clarity. BTCW trades on a regular exchange and is treated as a
 
 ## Bitcoin's cyclicality and price dynamics
 
-Bitcoin's price is highly volatile and moves in cycles tied to investor sentiment, monetary policy, and regulation. In periods when risk appetite is strong and interest rates are low, Bitcoin tends to rise sharply. Investors seek it as a store of value, a hedge against inflation or currency debasement, or simply a speculative asset. When interest rates rise or risk sentiment turns negative, Bitcoin often falls because its lack of yield makes it unattractive relative to bonds or cash.
+Bitcoin's price is highly volatile and moves in cycles tied to investor sentiment, [monetary policy](/monetary-policy/), and regulation. In periods when risk appetite is strong and [interest rates](/interest-rate/) are low, Bitcoin tends to rise sharply. Investors seek it as a store of value, a hedge against [inflation](/inflation/) or currency debasement, or simply a speculative asset. When interest rates rise or risk sentiment turns negative, Bitcoin often falls because its lack of yield makes it unattractive relative to bonds or cash.
 
 WisdomTree Bitcoin Fund moves with Bitcoin itself. It offers no yield, no cash flow, and no earnings growth to cushion downturns. Your return is entirely determined by Bitcoin's price appreciation. In a boom, you profit. In a bust, you suffer. The fund magnifies neither the upside nor the downside—it is a pure pass-through to Bitcoin's price.
 
-Crypto booms and busts also correlate with broader macroeconomic and regulatory shifts. When central banks are supportive of digital assets and Silicon Valley sentiment is high, Bitcoin thrives. When regulators crackdown or major projects fail, crypto generally corrects. A shareholder in BTCW is exposed to all of these forces.
+Crypto booms and busts also correlate with broader macroeconomic and regulatory shifts. When [central banks](/central-bank/) are supportive of digital assets and Silicon Valley sentiment is high, Bitcoin thrives. When regulators crackdown or major projects fail, crypto generally corrects. A shareholder in BTCW is exposed to all of these forces.
 
 ## Research and monitoring
 

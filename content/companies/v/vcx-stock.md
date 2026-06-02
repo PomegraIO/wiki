@@ -33,9 +33,9 @@ As the company evolved, it expanded beyond real estate into venture capital and 
 
 ## How the Innovation Fund works and why it matters
 
-The Fundrise Innovation Fund is an open-end fund, meaning shares can be created or redeemed by investors on a regular basis. Unlike closed-end funds, which have a fixed number of shares trading on a market, open-end funds price shares based on the net asset value of the underlying holdings, and new investors can buy in and existing investors can exit at that NAV-based price on certain redemption days (the fund operates on a quarterly redemption schedule, which is longer and less liquid than a daily mutual fund but more liquid than truly illiquid private investments).
+The Fundrise Innovation Fund is an [open-end fund](/open-end-fund/), meaning shares can be created or redeemed by investors on a regular basis. Unlike [closed-end funds](/closed-end-fund/), which have a fixed number of shares trading on a market, open-end funds price shares based on the [net asset value](/net-asset-value/) of the underlying holdings, and new investors can buy in and existing investors can exit at that NAV-based price on certain redemption days (the fund operates on a quarterly redemption schedule, which is longer and less liquid than a daily [mutual fund](/mutual-fund/) but more liquid than truly illiquid private investments).
 
-The fund typically holds 50–100 private companies in its portfolio, spanning software, biotech, fintech, artificial intelligence, and other innovation-focused sectors. By pooling capital with many other retail investors, individuals can own a piece of a diversified venture portfolio that Fundrise's investment professionals select and monitor. That diversification is crucial in venture investing, where most companies fail or underperform, but a few winners can deliver enormous multiples that pull the overall portfolio into strong positive returns.
+The fund typically holds 50–100 private companies in its portfolio, spanning software, biotech, fintech, artificial intelligence, and other innovation-focused sectors. By pooling capital with many other retail investors, individuals can own a piece of a diversified venture portfolio that Fundrise's investment professionals select and monitor. That [diversification](/diversification/) is crucial in venture investing, where most companies fail or underperform, but a few winners can deliver enormous multiples that pull the overall portfolio into strong positive returns.
 
 ## The venture capital challenge: finding the winners
 
@@ -53,7 +53,7 @@ Fundrise's competitive advantages include a large existing user base, a brand th
 
 Venture investments are inherently illiquid — you cannot sell your stake instantly like a stock. Fundrise's quarterly redemption window provides more liquidity than many private-equity structures, but it is far less liquid than a mutual fund or exchange-traded fund. An investor who needs cash quickly cannot immediately access it without potentially accepting a discount.
 
-Returns on venture investments take years to materialize, and the portfolio's value depends largely on how many of the underlying companies achieve successful exits (acquisitions or IPOs). Setbacks in the venture market — tightening credit for startups, a shift in investor appetite away from venture, or simply bad timing in the market cycle — can crimp returns across the entire portfolio.
+Returns on venture investments take years to materialize, and the portfolio's value depends largely on how many of the underlying companies achieve successful exits ([acquisitions](/acquisition/) or IPOs). Setbacks in the venture market — tightening credit for startups, a shift in investor appetite away from venture, or simply bad timing in the market cycle — can crimp returns across the entire portfolio.
 
 ## How to research Fundrise Innovation Fund
 

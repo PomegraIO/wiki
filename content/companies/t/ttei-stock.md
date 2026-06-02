@@ -21,7 +21,7 @@ TDE Group generates revenue through multiple channels. The company offers online
 
 ## Where does the growth come from?
 
-Hong Kong's STEAM education market expanded substantially in the past decade as schools responded to curriculum changes and parent demand for technology skills. The market was estimated at approximately 512.9 million Hong Kong dollars in 2023 and is projected to reach roughly 911 million Hong Kong dollars by 2028, representing compound annual growth of about 12 percent. This market-level growth creates tailwinds for any company with a credible offering — schools are budgeting for STEAM, and policy support remains stable. TDE Group benefits from this trend, but it is one of several providers competing for those budgets.
+Hong Kong's STEAM education market expanded substantially in the past decade as schools responded to curriculum changes and parent demand for technology skills. The market was estimated at approximately 512.9 million [Hong Kong dollars](/hong-kong-dollar/) in 2023 and is projected to reach roughly 911 million Hong Kong dollars by 2028, representing compound annual growth of about 12 percent. This market-level growth creates tailwinds for any company with a credible offering — schools are budgeting for STEAM, and policy support remains stable. TDE Group benefits from this trend, but it is one of several providers competing for those budgets.
 
 ## What constraints limit the business?
 

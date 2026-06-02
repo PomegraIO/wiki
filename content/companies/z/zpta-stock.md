@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Zapata Quantum, Inc. (traded over-the-counter under the symbol ZPTA) is a [quantum computing](/qubt-stock/) software company that builds and commercializes quantum and quantum-inspired applications for enterprises and government agencies. Rather than manufacturing quantum hardware, the company operates as a hardware-agnostic platform provider, focusing on the application and algorithm layer where quantum computing meets practical business problems.*
+*Zapata Quantum, Inc. (traded over-the-counter under the symbol ZPTA) is a quantum computing software company that builds and commercializes quantum and quantum-inspired applications for enterprises and government agencies. Rather than manufacturing quantum hardware, the company operates as a hardware-agnostic platform provider, focusing on the application and algorithm layer where quantum computing meets practical business problems.*
 
 ## The quantum sector and software positioning
 

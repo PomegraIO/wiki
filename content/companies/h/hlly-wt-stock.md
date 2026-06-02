@@ -45,7 +45,7 @@ This shift has economic implications. Performance and specialty systems command 
 
 ## The acquisition and consolidation wave
 
-Holley's growth has been accelerated through strategic acquisitions. In 2013, Holley acquired Hooker Headers, a manufacturer of performance headers and exhaust systems, expanding beyond fuel systems into the broader performance-engine segment. Subsequent acquisitions broadened the portfolio further. These purchases have allowed the company to offer a more complete solution to performance builders—fuel system, engine management, and exhaust—increasing customer stickiness and enabling cross-selling.
+Holley's growth has been accelerated through strategic [acquisitions](/acquisition/). In 2013, Holley acquired Hooker Headers, a manufacturer of performance headers and exhaust systems, expanding beyond fuel systems into the broader performance-engine segment. Subsequent acquisitions broadened the portfolio further. These purchases have allowed the company to offer a more complete solution to performance builders—fuel system, engine management, and exhaust—increasing customer stickiness and enabling cross-selling.
 
 The fragmented nature of the aftermarket performance business created opportunities for Holley to consolidate. Small specialty manufacturers, each serving a niche segment, could be acquired and integrated into Holley's distribution and operational infrastructure. This roll-up strategy has been a primary growth driver for the company over the past decade.
 

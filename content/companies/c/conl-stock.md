@@ -15,7 +15,7 @@ handwritten: true
 
 ## Fund structure and derivatives-based leverage
 
-CONL holds no Coinbase shares directly. Instead, GraniteShares maintains a portfolio of swap agreements, options, and futures contracts that replicate a 2x long position in the Coinbase-focused index. Each trading day at market close, the fund rebalances its derivatives position to restore leverage to precisely 2x, ensuring that the next day's opening price move delivers the stated amplified return.
+CONL holds no Coinbase shares directly. Instead, GraniteShares maintains a portfolio of swap agreements, options, and [futures contracts](/futures-contract/) that replicate a 2x long position in the Coinbase-focused index. Each trading day at market close, the fund rebalances its derivatives position to restore leverage to precisely 2x, ensuring that the next day's opening price move delivers the stated amplified return.
 
 This derivative-based approach lets CONL achieve exact daily targeting without holding massive quantities of the underlying index constituents. On a day when the index rises 1.5%, CONL targets 3%; on a day it falls 2%, CONL targets 4% down. The reset is mechanical and transparent.
 
@@ -33,17 +33,17 @@ The underlying COIN index is not broadly diversified. Coinbase alone comprises a
 
 GraniteShares charges roughly 1.50–1.60% annually. This covers daily rebalancing operations, derivative financing, and fund administration. For a position held days or a few weeks, the annual rate translates to a modest drag. For a position held months, the compounded annual cost becomes material.
 
-The fund trades on NYSE Arca with reasonable liquidity, though bid-ask spreads can widen during low-volume or stressful market periods. Entry and exit friction should be considered, especially for positions near the fund's open or close when volume is thin.
+The fund trades on NYSE Arca with reasonable liquidity, though [bid-ask spreads](/bid-ask-spread/) can widen during low-volume or stressful market periods. Entry and exit friction should be considered, especially for positions near the fund's open or close when volume is thin.
 
 ## Counterparty and structural risk
 
-CONL's derivatives depend on swap dealers and options counterparties. If GraniteShares or a major derivatives provider faces financial stress, the fund's ability to maintain its leverage could be impaired. This is a low-probability tail risk, but real.
+CONL's derivatives depend on swap dealers and options counterparties. If GraniteShares or a major derivatives provider faces financial stress, the fund's ability to maintain its leverage could be impaired. This is a low-probability [tail risk](/tail-risk/), but real.
 
-Tax inefficiency in taxable accounts is another structural cost. The daily rebalancing and derivative activities can generate capital gains or losses passed to shareholders, creating drag above the stated expense ratio.
+Tax inefficiency in taxable accounts is another structural cost. The daily rebalancing and derivative activities can generate capital gains or losses passed to shareholders, creating drag above the stated [expense ratio](/expense-ratio/).
 
 ## Suitable use case and time horizons
 
-CONL works as a tactical amplifier for traders making a defined bullish bet on crypto equities over days or a few weeks. A trader might buy CONL with conviction that a cryptocurrency-driven rally is imminent (triggered by Bitcoin price movement, regulatory clarity, or technical signals) and plan to exit within a specific window. The 2x leverage lets that trader amplify a short-duration directional view without managing margin or options chains directly.
+CONL works as a tactical amplifier for traders making a defined bullish bet on crypto equities over days or a few weeks. A trader might buy CONL with conviction that a cryptocurrency-driven rally is imminent (triggered by [Bitcoin](/bitcoin/) price movement, regulatory clarity, or technical signals) and plan to exit within a specific window. The 2x leverage lets that trader amplify a short-duration directional view without managing margin or options chains directly.
 
 Holding CONL without a clear exit plan is a mistake. Extended choppy or sideways trading erodes the position through volatility decay. Buying CONL and forgetting about it for months virtually guarantees underperformance relative to the underlying index, even if the index moves in the expected direction.
 

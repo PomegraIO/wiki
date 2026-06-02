@@ -25,7 +25,7 @@ Ships carry most of what the world trades. Petroleum must move from refineries t
 
 ## What Imperial Petroleum owns and operates
 
-Imperial Petroleum owns roughly 21 vessels. These are divided into two broad categories: tankers and drybulk carriers. The tanker fleet includes seven medium-range product tankers that carry refined petroleum products, two suezmax tankers (large vessels able to transit the Suez Canal) that carry crude oil, and other specialized tankers. The drybulk fleet includes handysize, supramax, kamsarmax, and post-Panamax vessels that carry ore, grain, coal, and other dry commodities.
+Imperial Petroleum owns roughly 21 vessels. These are divided into two broad categories: tankers and drybulk carriers. The tanker fleet includes seven medium-range product tankers that carry refined petroleum products, two suezmax tankers (large vessels able to transit the Suez Canal) that carry [crude oil](/crude-oil/), and other specialized tankers. The drybulk fleet includes handysize, supramax, kamsarmax, and post-Panamax vessels that carry ore, grain, coal, and other dry commodities.
 
 The total cargo capacity is approximately 1.32 million deadweight tons (dwt). This is the metric that matters in shipping: how much cargo, measured in metric tons, can the fleet carry. Imperial is a mid-sized player in global shipping, neither a giant like Maersk nor a tiny operator. The company is expanding; it has contracted to acquire four additional handysize drybulk carriers and one product tanker, bringing total capacity to roughly 1.5 million dwt.
 
@@ -59,9 +59,9 @@ Routes matter for profitability. The Suez Canal and Panama Canal are critical ch
 
 ## Risks and dependencies
 
-Imperial faces three categories of risk. First, commodity and cyclical risk: charter rates depend on global economic growth and trade volumes. A recession shrinks demand for seaborne cargo. Second, regulatory and environmental risk: tighter emissions rules increase operating costs and may require fleet upgrades. Third, leverage and refinancing risk: if Imperial has borrowed heavily to fund fleet expansion, rising interest rates or a shipping downturn can strain cash flow.
+Imperial faces three categories of risk. First, commodity and cyclical risk: charter rates depend on global economic growth and trade volumes. A [recession](/recession/) shrinks demand for seaborne cargo. Second, regulatory and environmental risk: tighter emissions rules increase operating costs and may require fleet upgrades. Third, leverage and [refinancing risk](/refinancing-risk/): if Imperial has borrowed heavily to fund fleet expansion, rising [interest rates](/interest-rate/) or a shipping downturn can strain cash flow.
 
-The company must also manage counterparty risk. If a major charterer defaults, Imperial loses revenue. Long-term charters provide stable revenue but lock in rates that may become unfavorable if the market rises.
+The company must also manage [counterparty risk](/counterparty-risk/). If a major charterer defaults, Imperial loses revenue. Long-term charters provide stable revenue but lock in rates that may become unfavorable if the market rises.
 
 ## How to research Imperial Petroleum as an investment
 
@@ -69,6 +69,6 @@ Imperial's SEC filings under CIK 0001876581 are the primary source (the company 
 
 Focus on charter rates for tankers and drybulk carriers as reported in industry sources. The Baltic Exchange publishes spot rates for major routes; these are publicly available and provide a market context for Imperial's results. If Imperial's revenue per ton-mile is falling while market rates are stable, the company may be deploying capacity poorly or accepting disadvantageous long-term contracts.
 
-Track the company's balance sheet and debt level. Shipping is cyclical, and companies with excessive leverage can be forced into asset sales or restructuring when the cycle turns. Strong liquidity—cash on hand—is a buffer against downturns.
+Track the company's [balance sheet](/balance-sheet/) and debt level. Shipping is cyclical, and companies with excessive leverage can be forced into asset sales or restructuring when the cycle turns. Strong liquidity—cash on hand—is a buffer against downturns.
 
-Finally, understand the company's capital allocation discipline. Is it ordering new vessels in a measured way, or chasing the cycle by overordering when rates are high? Is it returning cash to shareholders via dividends or buybacks, or reinvesting all earnings? These choices reveal management's conviction about the future and their discipline.
+Finally, understand the company's capital allocation discipline. Is it ordering new vessels in a measured way, or chasing the cycle by overordering when rates are high? Is it returning cash to shareholders via [dividends](/dividend/) or buybacks, or reinvesting all earnings? These choices reveal management's conviction about the future and their discipline.

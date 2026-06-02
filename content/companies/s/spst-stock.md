@@ -37,13 +37,13 @@ The company's product suite typically includes social gaming components, live-st
 
 ## Competitive landscape and durability
 
-Superstar competes against both specialized tools and general-purpose platforms. Twitch, YouTube, and Discord dominate streaming and creator audience-building; PayPal, Patreon, and similar services handle direct payments; Discord and similar communities handle fan engagement. Superstar's challenge is to offer something differentiated enough to retain creators and users rather than serving only as an alternative or secondary platform.
+Superstar competes against both specialized tools and general-purpose platforms. Twitch, YouTube, and Discord dominate streaming and creator audience-building; [PayPal](/pypl-stock/), Patreon, and similar services handle direct payments; Discord and similar communities handle fan engagement. Superstar's challenge is to offer something differentiated enough to retain creators and users rather than serving only as an alternative or secondary platform.
 
 The creator-economy software market has shown both opportunity and fragility. Many startups have launched specialized tools targeting creators, and some have acquired large audiences; others have struggled with unit economics or churn. Superstar's sustained viability depends on whether it can grow its creator base and user base fast enough to achieve escape velocity — that is, reach a scale where the network effects (more creators attract more fans, more fans attract more creators) sustain growth.
 
 ## Scale, funding, and execution risk
 
-Superstar has historically operated at the scale of a micro-cap or small-cap public company, which means capital is constrained compared to venture-backed competitors or established tech giants. Funding rounds, strategic partnerships, and acquisition interest have punctuated its history. The company faces the persistent challenge of building a large enough user base to be relevant while managing cash burn — a classic venture-scale problem in a public-company format.
+Superstar has historically operated at the scale of a micro-cap or small-cap public company, which means capital is constrained compared to venture-backed competitors or established tech giants. Funding rounds, strategic partnerships, and [acquisition](/acquisition/) interest have punctuated its history. The company faces the persistent challenge of building a large enough user base to be relevant while managing cash burn — a classic venture-scale problem in a public-company format.
 
 Execution risk is real. Gaming and entertainment are fast-moving sectors with high churn; user acquisition is expensive; and network effects work both ways — a declining user base accelerates departure rather than creating stickiness. The company must continue to ship features that creators and fans want and sustain marketing spend to grow.
 

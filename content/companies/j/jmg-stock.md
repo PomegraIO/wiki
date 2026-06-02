@@ -42,7 +42,7 @@ The company operates in a historically thin-margin business. Wholesale distribut
 
 JM Group's December 2025 [initial public offering](/initial-public-offering/) raised $15 million, pricing 3.75 million shares at $4 per share. At the time of writing, the company is a micro-cap with a [market capitalization](/market-capitalization/) near $130 million and roughly 19.8 million shares outstanding. This size places it among the smallest companies on a major U.S. exchange, which means liquidity in the stock can be limited and the company operates with minimal research coverage.
 
-The newness of the listing also means limited public disclosure history. Investors have access to the registration statement filed with the SEC (CIK 2049717), which lays out the business model, risk factors, and financial snapshots from the offering prospectus. The company's [10-K annual filing](/wiki/10-k/) and quarterly filings will provide the deeper financial detail that studying any public company requires.
+The newness of the listing also means limited public disclosure history. Investors have access to the registration statement filed with the SEC (CIK 2049717), which lays out the business [model, risk](/model-risk/) factors, and financial snapshots from the offering prospectus. The company's [10-K annual filing](/wiki/10-k/) and quarterly filings will provide the deeper financial detail that studying any public company requires.
 
 ## The basic risks
 

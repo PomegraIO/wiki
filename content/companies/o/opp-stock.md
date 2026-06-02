@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Think of this fund as a team of investors with a simple job: find debts that the market has priced too low, buy them, and wait for the market to realize they were a bargain. A loan or bond can be mispriced for many reasons—maybe the company went through a rough quarter and everyone panicked, or maybe the debt is complicated and boring enough that most investors ignore it. RiverNorth and DoubleLine, which manage this fund together, look for exactly those situations.
+Think of this fund as a team of investors with a simple job: find debts that the market has priced too low, buy them, and wait for the market to realize they were a bargain. A loan or [bond](/bond/) can be mispriced for many reasons—maybe the company went through a rough quarter and everyone panicked, or maybe the debt is complicated and boring enough that most investors ignore it. RiverNorth and DoubleLine, which manage this fund together, look for exactly those situations.
 
 The fund raises money by selling shares to investors. It then buys a portfolio of debt instruments: [corporate bonds](/corporate-bond/), bank loans, and other forms of borrowed money. When the market prices these securities, investors earn the interest payments plus whatever gain they make if the price rises when the underlying situation improves. The fund passes these returns to shareholders, after taking a [management fee](/management-fee/).
 
@@ -47,13 +47,13 @@ The fund is closed-end, which means it raised a fixed amount of capital and trad
 
 ## Returns and risks
 
-The fund's returns depend on two things: whether the debts it bought go up in value (and how much interest they pay), and whether the market's appetite for credit is good or bad. In a healthy economy where [credit spreads](/credit-spread/) are tight and everyone is willing to lend, the fund's hidden-opportunity strategy works well because prices rise. In a recession or credit squeeze, returns compress or turn negative because companies default and credit prices fall.
+The fund's returns depend on two things: whether the debts it bought go up in value (and how much interest they pay), and whether the market's appetite for credit is good or bad. In a healthy economy where [credit spreads](/credit-spread/) are tight and everyone is willing to lend, the fund's hidden-opportunity strategy works well because prices rise. In a [recession](/recession/) or credit squeeze, returns compress or turn negative because companies default and credit prices fall.
 
 The fund also carries [concentration risk](/concentration-risk/). Some of the investments it makes are in illiquid situations—debts that do not trade often and can be hard to sell quickly. If the fund needs cash suddenly (if shareholders redeem aggressively), it might have to sell these positions at bad prices. It also carries [credit risk](/credit-risk/): if an underlying company defaults on its debt, the fund loses money. And it faces leverage risk if the managers borrow money to amplify returns, a common practice in credit funds.
 
 ## How to research the fund
 
-The fund files quarterly reports (10-Q) and [annual reports](/10-k/) (10-K) with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (CIK 0001678130). These filings list every holding, the current values, yields, and maturity dates. The fund also publishes a fact sheet (usually monthly) showing performance, fees, the current premium or discount to [net asset value](/net-asset-value/), and recent holdings. That fact sheet is often easier to read than the SEC filing and gives a quick snapshot of how the fund is doing.
+The fund files quarterly reports (10-Q) and [annual reports](/10-k/) (10-K) with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (CIK 0001678130). These filings list every holding, the current values, yields, and maturity dates. The fund also publishes a fact sheet (usually monthly) showing [performance, fees](/performance-fee/), the current premium or discount to [net asset value](/net-asset-value/), and recent holdings. That fact sheet is often easier to read than the SEC filing and gives a quick snapshot of how the fund is doing.
 
 Investors should check whether the fund is trading at a discount or premium to its net asset value. A discount means you can buy a dollar of holdings for eighty cents, which is an advantage. A premium means you pay extra, which is a disadvantage. Over time, the discount or premium changes as investors' sentiment shifts. Also look at the fund's performance relative to a credit benchmark (such as the Bloomberg High Yield Index or the [Bank of America](/bank-of-america/) Merrill Lynch Credit Index, depending on the fund's mix) to see whether the managers are doing a good job picking investments.
 

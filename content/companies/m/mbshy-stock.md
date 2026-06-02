@@ -39,15 +39,15 @@ This three-tiered portfolio structure is the company's deliberate capital-alloca
 
 Mitsubishi Gas Chemical traces its roots to the 1918 founding of Asahi Glass Company's chemical division, which eventually became an independent entity. The company was folded into the broader Mitsubishi Chemical Holdings structure during the 1990s wave of consolidation that reshaped Japan's chemical industry. That corporate heritage matters: it gave the company access to capital, distribution networks across Asia and globally, and a long-term view toward capital allocation that a standalone company might not have maintained through commodity-price downturns.
 
-The company has grown in part through organic development of new materials and in part through acquisition — bringing smaller chemical suppliers into the Mitsubishi portfolio to expand Functional Materials capabilities. This approach has allowed it to compete across geographies and applications without needing to reinvent its manufacturing base each cycle.
+The company has grown in part through organic development of new materials and in part through [acquisition](/acquisition/) — bringing smaller chemical suppliers into the Mitsubishi portfolio to expand Functional Materials capabilities. This approach has allowed it to compete across geographies and applications without needing to reinvent its manufacturing base each cycle.
 
 ## Capital structure and how the company funds growth
 
-As an American Depositary Receipt, MBSHY trades on the OTC Markets but represents shares in a Japanese corporation subject to Japanese accounting standards and disclosure rules. The ADR structure allows U.S.-domiciled investors to hold Japanese equity without directly engaging with Japan's securities systems, though liquidity is typically thin relative to the parent market.
+As an [American Depositary Receipt](/adr/), MBSHY trades on the OTC Markets but represents shares in a Japanese corporation subject to Japanese accounting standards and disclosure rules. The ADR structure allows U.S.-domiciled investors to hold Japanese equity without directly engaging with Japan's securities systems, though liquidity is typically thin relative to the parent market.
 
 Like many Japanese manufacturers, Mitsubishi Gas Chemical has historically maintained a higher cash balance and lower leverage than U.S. peers, reflecting the postwar conservative approach to balance-sheet management common in Japan. The company generates operating cash flow from all three segments, though the Chemicals business produces the largest absolute volume and the Specialty Gases segment the best margins. Capital expenditure is perpetual and substantial — specialty materials manufacturing requires steady investment in equipment and process development — but the company's operating cash generation typically covers expansion without dependence on external capital.
 
-Dividends are modest relative to earnings, reflecting reinvestment of cash into research, capacity, and working capital. This capital discipline has historically kept the company well-positioned to invest counter-cyclically, buying capacity or acquiring capabilities when competitors are distressed.
+[Dividends](/dividend/) are modest relative to earnings, reflecting reinvestment of cash into research, capacity, and working capital. This capital discipline has historically kept the company well-positioned to invest counter-cyclically, buying capacity or acquiring capabilities when competitors are distressed.
 
 ## Competitive position and moat
 
@@ -59,7 +59,7 @@ The specialty-gas business carries similar dynamics. Ultra-pure gases for semico
 
 ## Pressures and the capital-intensity trap
 
-The most persistent pressure on Mitsubishi Gas Chemical is the commodity chemicals segment. Feedstock prices (oil, natural gas, coal derivatives) drive the cost base, and prices for commodity chemicals track global supply-demand dynamics. During periods of low oil prices or excess global chemical capacity, the segment's margins compress and can even turn negative. The wider company has little leverage over these cycles except to manage capacity and costs tightly.
+The most persistent pressure on Mitsubishi Gas Chemical is the commodity chemicals segment. Feedstock prices (oil, [natural gas](/natural-gas/), coal derivatives) drive the cost base, and prices for commodity chemicals track global supply-demand dynamics. During periods of low oil prices or excess global chemical capacity, the segment's margins compress and can even turn negative. The wider company has little leverage over these cycles except to manage capacity and costs tightly.
 
 Specialty materials face different pressures. R&D in advanced polymers and adsorbents is expensive and time-consuming, and product cycles are often long — years from bench to commercial scale. If a major development program fails or a product does not gain expected market share, the invested capital becomes a dead loss. The company must constantly predict which applications and materials will matter three to five years forward, a task that grows harder as industries electrify and decarbonize at uneven rates.
 
@@ -67,7 +67,7 @@ Capital intensity is structural. Whether in commodity or specialty chemicals, ma
 
 ## How a reader would research it
 
-The legal American investor access point is the ADR (MBSHY on the OTC Markets), but the company's primary listed market and the source of comprehensive disclosure is Japan. The Tokyo Stock Exchange is where the ordinary shares trade, and the company's regulatory filings follow Japanese accounting rules and the Tokyo Exchange's disclosure regime. The SEC filing (CIK 0002079706) provides an annual 20-F form on a delay, offering a view of the previous fiscal year translated into U.S. GAAP accounting.
+The legal American investor access point is the ADR (MBSHY on the OTC Markets), but the company's primary [listed market](/listed-market/) and the source of comprehensive disclosure is Japan. The [Tokyo Stock Exchange](/tokyo-stock-exchange/) is where the ordinary shares trade, and the company's regulatory filings follow Japanese accounting rules and the Tokyo Exchange's disclosure regime. The SEC filing (CIK 0002079706) provides an annual 20-F form on a delay, offering a view of the previous fiscal year translated into U.S. GAAP accounting.
 
 The 20-F is the place to start: it breaks the business into segments with separate revenue and operating-income tables, maps the geographic split of sales (crucial for understanding Japan-concentration risk), and describes the company's capital-allocation strategy in a way that American readers can follow. Quarterly earnings results and segment updates come through the Tokyo Exchange and are often available in English on the company's investor relations website.
 

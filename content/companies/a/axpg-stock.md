@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-AXPG is issued by Leverage Shares, a London-based specialist in leveraged ETF products. It tracks American Express (NYSE: AXP), the card network and payment company, with 2x daily reset leverage. Like all daily-reset leveraged funds, it is built for traders holding for hours or a single day, not investors.
+AXPG is issued by Leverage Shares, a London-based specialist in [leveraged ETF](/leveraged-etf/) products. It tracks [American Express](/axp-stock/) (NYSE: AXP), the card network and payment company, with 2x daily reset leverage. Like all daily-reset leveraged funds, it is built for traders holding for hours or a single day, not investors.
 
 ## The structure and daily mechanics
 
-American Express is one of the world's major payment networks, competing directly with Visa and Mastercard while also operating its own banking and lending operations. AXPG does not own AXP shares. Instead, it uses financial derivatives — primarily equity swaps and index futures — to create exposure that doubles AXP's daily movement. If American Express rallies 1% on a given day, AXPG aims to rise 2%. If it falls 2%, AXPG aims to fall 4%.
+American Express is one of the world's major payment networks, competing directly with Visa and [Mastercard](/ma-stock/) while also operating its own banking and lending operations. AXPG does not own AXP shares. Instead, it uses financial derivatives — primarily [equity swaps](/equity-swap/) and index futures — to create exposure that doubles AXP's daily movement. If American Express rallies 1% on a given day, AXPG aims to rise 2%. If it falls 2%, AXPG aims to fall 4%.
 
-The daily reset is automatic. Each morning before market open, Leverage Shares rebalances the fund's derivative positions to restore the 2x leverage ratio. This reset is what keeps the fund synchronized to the stock's daily moves. Without daily rebalancing, a leveraged fund's value would drift away from its stated leverage target over time.
+The daily reset is automatic. Each morning before market open, Leverage Shares rebalances the fund's derivative positions to restore the 2x [leverage ratio](/leverage-ratio-forex/). This reset is what keeps the fund synchronized to the stock's daily moves. Without daily rebalancing, a leveraged fund's value would drift away from its stated leverage target over time.
 
 ## Who American Express is
 
@@ -25,13 +25,13 @@ American Express made its name in travel and entertainment cards, a segment wher
 
 ## The cost structure and liquidity
 
-AXPG's expense ratio typically falls between 0.98% and 1.30% annually. That high-ongoing-cost structure reflects the daily management, derivatives pricing, and operational overhead of running a leveraged fund. Over a year of buy-and-hold (which AXPG is not designed for), that fee compounds with volatility decay to destroy most or all of the fund's value even if the underlying stock rises.
+AXPG's [expense ratio](/expense-ratio/) typically falls between 0.98% and 1.30% annually. That high-ongoing-cost structure reflects the daily management, derivatives pricing, and operational overhead of running a leveraged fund. Over a year of buy-and-hold (which AXPG is not designed for), that fee compounds with volatility decay to destroy most or all of the fund's value even if the underlying stock rises.
 
-Liquidity is moderate. AXPG trades on the London Stock Exchange under its LSE ticker and on other venues, meaning spreads can widen during low-volume periods or market stress. Traders should check the current bid-ask spread before entering positions.
+Liquidity is moderate. AXPG trades on the [London Stock Exchange](/london-stock-exchange/) under its LSE ticker and on other venues, meaning spreads can widen during low-volume periods or market stress. Traders should check the current [bid-ask spread](/bid-ask-spread/) before entering positions.
 
 ## Volatility decay — the fundamental problem with longer holding
 
-AXPG is perfectly usable for intraday or next-day trades. A trader might hold it for 8 hours and exit with a reliable 2x return if American Express moved as expected. But extend the holding period to a week or a month in a volatile stock, and volatility decay becomes catastrophic.
+AXPG is perfectly usable for intraday or next-day trades. A trader might hold it for 8 hours and exit with a reliable 2x return if American Express moved as expected. But extend the [holding period](/holding-period/) to a week or a month in a volatile stock, and volatility decay becomes catastrophic.
 
 Here is the mechanism: suppose AXP swings 1% up on day one, then 1% down on day two, ending flat. A holder of AXP shares breaks even. But AXPG, reset to 2x each morning, gains 2% the first day, then loses 4% the second day (2x the -2% move when the fund starts the day up 2%). Net result: a loss, even though AXP went nowhere. The more volatile the stock and the longer you hold, the worse this erosion.
 

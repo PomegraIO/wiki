@@ -10,13 +10,13 @@ keywords:
 handwritten: true
 ---
 
-Brookstone Dividend Stock ETF (BAMD) targets companies that pay substantial and growing dividends to shareholders. The fund screens the large-cap universe for firms with long histories of paying dividends and a track record of raising those payments, then weights them by dividend yield or other metrics to emphasize the highest-income payers. For investors prioritising current cash flow over growth, BAMD offers a way to own a portfolio of blue-chip dividend payers in one simple holding. The appeal is straightforward: these are mature, stable companies that choose to return cash to shareholders regularly, and BAMD packages that income stream into a single tradeable ETF.
+Brookstone [Dividend](/dividend/) Stock ETF (BAMD) targets companies that pay substantial and growing dividends to shareholders. The fund screens the large-cap universe for firms with long histories of paying dividends and a track record of raising those payments, then weights them by [dividend yield](/dividend-yield/) or other metrics to emphasize the highest-income payers. For investors prioritising current cash flow over growth, BAMD offers a way to own a portfolio of blue-chip dividend payers in one simple holding. The appeal is straightforward: these are mature, stable companies that choose to return cash to shareholders regularly, and BAMD packages that income stream into a single tradeable ETF.
 
 ## The dividend stock category
 
-A dividend stock is simply a company that pays a portion of its profits to shareholders in the form of periodic cash payments (dividends) rather than reinvesting or hoarding every dollar. Not all stocks pay dividends — many growth companies reinvest all their earnings into expansion, R&D, or acquisitions. But mature, profitable, stable companies often do, especially in industries like utilities, consumer staples, financials, and real estate.
+A dividend stock is simply a company that pays a portion of its profits to shareholders in the form of periodic cash payments (dividends) rather than reinvesting or hoarding every dollar. Not all stocks pay dividends — many growth companies reinvest all their earnings into expansion, R&D, or [acquisitions](/acquisition/). But mature, profitable, stable companies often do, especially in industries like utilities, consumer staples, financials, and real estate.
 
-A **dividend growth stock** is one that not only pays a dividend but has raised it regularly. Companies like Procter & Gamble have paid a dividend every year since the early 1900s and raised it for decades. This consistency is valuable to retirees and income investors: it signals financial strength and management confidence in future earnings. BAMD seeks out such companies because the dividend is not just income today but a signal of likely future income.
+A **dividend growth stock** is one that not only pays a dividend but has raised it regularly. Companies like [Procter & Gamble](/pg-stock/) have paid a dividend every year since the early 1900s and raised it for decades. This consistency is valuable to retirees and income investors: it signals financial strength and management confidence in future earnings. BAMD seeks out such companies because the dividend is not just income today but a signal of likely future income.
 
 ## How BAMD screens and weights its holdings
 
@@ -28,29 +28,29 @@ The trade-off of this approach is concentration. By focusing on high-yielding st
 
 An investor buying BAMD gets income (the dividends paid by the holdings) and price appreciation (if the underlying stocks rise). The balance varies: in a year where stocks are flat but dividends flow steadily, BAMD provides real value. In a year where stocks soar 20 percent but dividend yields compress, BAMD's total return may lag a growth-focused index even though the fund is doing its job.
 
-The dividend yield on BAMD changes over time as stock prices move and companies raise or cut dividends. When BAMD trades at a higher price-to-earnings ratio, yields compress — the cash return is smaller relative to what you paid. When valuations compress, yields expand. An investor buying BAMD when dividend stocks are out of favor (low valuations, high yields) is getting paid well to wait for sentiment to turn; buying when dividend stocks are in vogue (high valuations, low yields) is buying high.
+The dividend yield on BAMD changes over time as stock prices move and companies raise or cut dividends. When BAMD trades at a higher [price-to-earnings ratio](/price-to-earnings-ratio/), yields compress — the cash return is smaller relative to what you paid. When valuations compress, yields expand. An investor buying BAMD when dividend stocks are out of favor (low valuations, high yields) is getting paid well to wait for sentiment to turn; buying when dividend stocks are in vogue (high valuations, low yields) is buying high.
 
 ## Dividend stability and the maturity signal
 
 One of the strongest signals in dividend stocks is the dividend growth record. A company that has raised its dividend for 25 consecutive years is broadcasting financial strength and a commitment to shareholder returns. This history tends to correlate with lower volatility and more defensive behavior during downturns — mature, stable companies do not usually cut dividends lightly.
 
-This does not mean dividend stocks are immune to downturns. Recessions and sector shocks can hit dividend payers hard. Banks, for example, cut dividends severely during the 2008 financial crisis. But on average, companies with long dividend-growth records are less volatile and less likely to face existential crises than the market as a whole.
+This does not mean dividend stocks are immune to downturns. [Recessions](/recession/) and sector shocks can hit dividend payers hard. Banks, for example, cut dividends severely during the 2008 financial crisis. But on average, companies with long dividend-growth records are less volatile and less likely to face existential crises than the market as a whole.
 
 ## Tax considerations (context-dependent)
 
-In taxable accounts, dividend-paying stocks can be tax-inefficient compared to growth stocks, because dividends are taxed as ordinary income each year even if you do not sell. However, if a dividend qualifies as a "qualified dividend," it is taxed at lower capital-gains rates in most tax jurisdictions. BAMD's prospectus does not control the tax outcome — that depends on your jurisdiction and the specific holdings — but it is worth thinking about when choosing between BAMD in a taxable account versus a retirement account.
+In taxable accounts, dividend-paying stocks can be tax-inefficient compared to growth stocks, because dividends are taxed as ordinary income each year even if you do not sell. However, if a dividend qualifies as a "[qualified dividend](/qualified-dividend/)," it is taxed at lower capital-gains rates in most tax jurisdictions. BAMD's prospectus does not control the tax outcome — that depends on your jurisdiction and the specific holdings — but it is worth thinking about when choosing between BAMD in a taxable account versus a retirement account.
 
 ## Sector exposure and concentration risk
 
-Dividend stocks cluster in certain sectors: utilities, financials, consumer staples, and real estate are overrepresented among dividend payers because their business models generate stable cash. Growth sectors like technology and discretionary consumer goods are underrepresented. BAMD will therefore be skewed toward these defensive, income-heavy sectors and will underperform in periods when technology or growth surges. This is not a bug—it is by design—but it is a real constraint on diversification.
+Dividend stocks cluster in certain sectors: utilities, financials, consumer staples, and real estate are overrepresented among dividend payers because their business models generate stable cash. Growth sectors like technology and discretionary consumer goods are underrepresented. BAMD will therefore be skewed toward these defensive, income-heavy sectors and will underperform in periods when technology or growth surges. This is not a bug—it is by design—but it is a real constraint on [diversification](/diversification/).
 
 An investor holding BAMD should recognise that it is not a broad market substitute; it is a tilt toward income. Pairing it with a growth-oriented holding elsewhere in the portfolio balances the picture.
 
 ## Costs and dividend drag
 
-The expense ratio covers Brookstone's management and ongoing costs. Dividend stocks tend to have stable positions (lower trading costs) compared to actively managed growth portfolios, so the all-in cost is often competitive. The bigger drag is the tax hit on dividends in taxable accounts, which can reduce after-tax returns versus growth stocks.
+The [expense ratio](/expense-ratio/) covers Brookstone's management and ongoing costs. Dividend stocks tend to have stable positions (lower trading costs) compared to actively managed growth portfolios, so the all-in cost is often competitive. The bigger drag is the tax hit on dividends in taxable accounts, which can reduce after-tax returns versus growth stocks.
 
-BAMD also trades like any ETF, and the bid-ask spread on entry and exit is a one-time friction. Funds with good volume typically have tight spreads; check the current bid-ask to gauge what you will actually pay.
+BAMD also trades like any ETF, and the [bid-ask spread](/bid-ask-spread/) on entry and exit is a one-time friction. Funds with good volume typically have tight spreads; check the current bid-ask to gauge what you will actually pay.
 
 ## Evolution of dividend aristocrats and fallen payers
 
@@ -62,7 +62,7 @@ Conversely, as the growth mega-caps have matured and begun returning cash, some 
 
 BAMD is ideal for income-focused investors — retirees living off distributions, anyone seeking portfolio yield, or those who believe the economy is entering a slower-growth phase where dividend stocks will outperform. It can also be a ballast in a growth-heavy portfolio, offsetting volatility with stable income.
 
-BAMD is not for young investors with a long time horizon and no need for income, because they are trading growth potential for current yield — a bad bargain when compounding time is abundant. It is also not for those who want broad market exposure; it is a dividend tilt, not a market substitute.
+BAMD is not for young investors with a long time horizon and no need for income, because they are trading growth potential for [current yield](/current-yield/) — a bad bargain when compounding time is abundant. It is also not for those who want broad market exposure; it is a dividend tilt, not a market substitute.
 
 ## How to research BAMD
 

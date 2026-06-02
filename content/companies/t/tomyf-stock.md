@@ -13,7 +13,7 @@ handwritten: true
 
 > Toys are no longer just products; they are the beginning of entertainment franchises that span generations through films, games, and shows.
 
-Tomy Co Ltd, known in some markets as Takara Tomy, is one of the largest toy manufacturers in the world and a producer of entertainment products for children and collectors. The company was formed through a 2006 merger of Tomy Company, Ltd. (founded in 1924) and Takara Co., Ltd. (founded in 1955), combining two major Japanese toy houses with distinct product lines and market strengths. The business spans traditional toys, games, and increasingly, licensing partnerships with global entertainment franchises—a shift that reflects how the toy industry itself is transforming from a product business into a media and intellectual-property business.
+Tomy Co Ltd, known in some markets as Takara Tomy, is one of the largest toy manufacturers in the world and a producer of entertainment products for children and collectors. The company was formed through a 2006 [merger](/merger/) of Tomy Company, Ltd. (founded in 1924) and Takara Co., Ltd. (founded in 1955), combining two major Japanese toy houses with distinct product lines and market strengths. The business spans traditional toys, games, and increasingly, licensing partnerships with global entertainment franchises—a shift that reflects how the toy industry itself is transforming from a product business into a media and intellectual-property business.
 
 ## A toy house with deep product lines
 
@@ -33,11 +33,11 @@ The Beyblade franchise exemplifies this model: the physical toys are only one co
 
 Like other large toy manufacturers, Takara Tomy relies on outsourced manufacturing in Asia, primarily China and Vietnam, with some production in other countries. The company designs and owns the intellectual property but depends on contract manufacturers for the physical production, a model that requires quality oversight, cost management, and supply-chain resilience.
 
-The company has exposure to the same supply-chain volatility that affects all toy manufacturers: disruptions in Asian production hubs, shipping delays, and input-cost inflation all ripple through margins. The shift toward quality-over-volume strategy and toward higher-margin licensed products partly reflects an effort to improve resilience to such pressures, since high-margin products can sustain profitability even if per-unit volumes decline.
+The company has exposure to the same supply-chain volatility that affects all toy manufacturers: disruptions in Asian production hubs, shipping delays, and input-cost [inflation](/inflation/) all ripple through margins. The shift toward quality-over-volume strategy and toward higher-margin licensed products partly reflects an effort to improve resilience to such pressures, since high-margin products can sustain profitability even if per-unit volumes decline.
 
 ## Financial structure and market position
 
-Takara Tomy is listed on the Tokyo Stock Exchange and trades as an American depositary receipt (ADR) under TOMYF on over-the-counter markets in the United States. The company's revenue comes from three main sources: its owned brands (Tomica, Beyblade, and others), licensed products (manufacturing toys based on entertainment franchises), and emerging digital/entertainment businesses tied to IP expansion.
+Takara Tomy is listed on the [Tokyo Stock Exchange](/tokyo-stock-exchange/) and trades as an [American depositary receipt](/adr/) (ADR) under TOMYF on [over-the-counter markets](/over-the-counter-market/) in the United States. The company's revenue comes from three main sources: its owned brands (Tomica, Beyblade, and others), licensed products (manufacturing toys based on entertainment franchises), and emerging digital/entertainment businesses tied to IP expansion.
 
 Profitability in the toy industry is sensitive to consumer spending on discretionary goods, inventory management across the retail channel, and the company's ability to turn released IP into viable products before consumer enthusiasm peaks and wanes. A failed toy line or misjudgment about which licensed property will resonate with children can lead to write-downs and margin pressure.
 
@@ -55,8 +55,8 @@ Takara Tomy's strength relative to competitors lies in its portfolio diversity�
 
 ## How to research Takara Tomy as an investment
 
-Investors should begin with the company's annual reports filed with the Tokyo Stock Exchange and its ADR filings with the United States Securities and Exchange Commission (SEC CIK 0001826779). These documents lay out revenue by segment (owned brands, licensed products, digital), gross margins, and management's outlook on IP strategy and entertainment partnerships.
+Investors should begin with the company's [annual reports](/10-k/) filed with the Tokyo [Stock Exchange](/stock-exchange/) and its ADR filings with the United States [Securities and Exchange Commission](/securities-and-exchange-commission/) (SEC CIK 0001826779). These documents lay out revenue by segment (owned brands, licensed products, digital), gross margins, and management's outlook on IP strategy and entertainment partnerships.
 
 Key metrics to monitor: the growth rate of licensing revenue as a percentage of total revenue, the success or failure of new product launches tied to franchises, inventory levels and sell-through rates at retail, and the company's ability to secure exclusive or high-value licensing agreements with major entertainment studios.
 
-Watch also for strategic partnerships, joint ventures with entertainment companies, or acquisitions of IP or game studios—moves that signal management's commitment to the shift toward IP-centric growth. The Japanese domestic market remains important but slower-growing; international expansion and licensing partnerships represent the higher-growth avenue for Takara Tomy's future.
+Watch also for strategic partnerships, joint ventures with entertainment companies, or [acquisitions](/acquisition/) of IP or game studios—moves that signal management's commitment to the shift toward IP-centric growth. The Japanese domestic market remains important but slower-growing; international expansion and licensing partnerships represent the higher-growth avenue for Takara Tomy's future.

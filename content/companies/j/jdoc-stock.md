@@ -35,15 +35,15 @@ JDOC is premised on the belief that within this landscape, JPMorgan's analysts c
 
 The fund targets healthcare companies with proven competitive strengths. JPMorgan looks for firms with leading market positions, proprietary products with high switching costs, recurring or contracted revenue, and management teams with disciplined capital allocation. A pharmaceutical company with multiple blockbuster drugs and a robust pipeline of near-term approvals would qualify; a struggling regional hospital chain would not.
 
-Holdings typically span the major pharmaceutical companies (firms like those that dominate U.S. and European drug markets), diversified health conglomerates with medical-device and insurance arms, hospital networks with pricing power in their regions, and companies supplying consumables to healthcare providers. Geographic diversification is global, though most holdings are U.S.-listed or domiciled.
+Holdings typically span the major pharmaceutical companies (firms like those that dominate U.S. and European drug markets), diversified health conglomerates with medical-device and insurance arms, hospital networks with pricing power in their regions, and companies supplying consumables to healthcare providers. Geographic [diversification](/diversification/) is global, though most holdings are U.S.-listed or domiciled.
 
-The portfolio adjusts based on fundamentals, not calendar. A holding might be reduced if JPMorgan downgrades its outlook on a company's pipeline or competitive position; a new position might be added if an acquisition creates a more attractive opportunity or if JPMorgan identifies a mispriced leader. Typically forty to fifty-five companies are held at any time—concentrated enough to reflect real conviction, diversified enough that single positions do not drive returns.
+The portfolio adjusts based on fundamentals, not calendar. A holding might be reduced if JPMorgan downgrades its outlook on a company's pipeline or competitive position; a new position might be added if an [acquisition](/acquisition/) creates a more attractive opportunity or if JPMorgan identifies a mispriced leader. Typically forty to fifty-five companies are held at any time—concentrated enough to reflect real conviction, diversified enough that single positions do not drive returns.
 
 ## Costs, fees, and the active-management question
 
-JDOC's expense ratio is moderate for an actively managed fund but higher than a passive healthcare index. The fee covers JPMorgan's healthcare research team, trading costs, and fund administration. Investors should weigh whether JPMorgan's stock-picking has historically outperformed a low-cost passive healthcare index enough to justify the extra fee.
+JDOC's [expense ratio](/expense-ratio/) is moderate for an [actively managed fund](/actively-managed-fund/) but higher than a passive healthcare index. The fee covers JPMorgan's healthcare research team, trading costs, and fund administration. Investors should weigh whether JPMorgan's stock-picking has historically outperformed a low-cost passive healthcare index enough to justify the extra fee.
 
-The fund trades as an ETF on US exchanges, offering intraday liquidity and tax efficiency compared to traditional mutual funds. Dividends from holdings are distributed to shareholders, typically quarterly.
+The fund trades as an ETF on US exchanges, offering [intraday liquidity](/intraday-liquidity/) and tax efficiency compared to traditional [mutual funds](/mutual-fund/). [Dividends](/dividend/) from holdings are distributed to shareholders, typically quarterly.
 
 ## Competitive position and risks
 

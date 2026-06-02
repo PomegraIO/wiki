@@ -13,7 +13,7 @@ handwritten: true
 
 > Tower does what the giants won't: the specialized, lower-volume chips that power the rest of the world.
 
-Tower Semiconductor is a specialty chip manufacturer—a foundry that produces integrated circuits for customers who design chips but do not own fabs. The company operates fabrication plants in Israel (its headquarters region) and Arizona, and it focuses on the profitable analog, memory, power-management, radio-frequency, and other specialized-application segments that larger foundries like Taiwan Semiconductor Manufacturing Company and Samsung treat as secondary. Tower's niche is the company that needs ten million chips of a custom design, not one billion, and is willing to pay a premium for reliable delivery and technical support.
+Tower Semiconductor is a specialty chip manufacturer—a foundry that produces integrated circuits for customers who design chips but do not own fabs. The company operates fabrication plants in Israel (its headquarters region) and Arizona, and it focuses on the profitable analog, memory, power-management, radio-frequency, and other specialized-application segments that larger foundries like [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company and Samsung treat as secondary. Tower's niche is the company that needs ten million chips of a custom design, not one billion, and is willing to pay a premium for reliable delivery and technical support.
 
 ## The foundry model and the specialty focus
 

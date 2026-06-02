@@ -16,7 +16,7 @@ keywords: ["biotech", "therapeutics", "drug development", "clinical trials", "me
 
 ## The Crowded Metabolic-Disease Landscape
 
-CERO's competitive arena is defined by a market problem with enormous scale—metabolic diseases including obesity, diabetes, and related conditions affect billions of people globally—and an accelerating R&D race to address it. The competitive field includes established pharmaceutical giants (Novo Nordisk, Roche, Merck) with pre-existing sales forces and [market-capitalization](/market-capitalization/) in the hundreds of billions; smaller biotechs with specialized focus areas; and dozens of pre-clinical or early-stage companies pursuing similar targets.
+CERO's competitive arena is defined by a market problem with enormous scale—metabolic diseases including obesity, diabetes, and related conditions affect billions of people globally—and an accelerating R&D race to address it. The competitive field includes established pharmaceutical giants (Novo Nordisk, Roche, [Merck](/mrk-stock/)) with pre-existing sales forces and [market-capitalization](/market-capitalization/) in the hundreds of billions; smaller biotechs with specialized focus areas; and dozens of pre-clinical or early-stage companies pursuing similar targets.
 
 Within this landscape, CERO competes on two dimensions: novelty of mechanism and speed to validation. A biotech that discovers a target or pathway that rivals have missed, or that finds a novel modality to hit a known target more effectively, gains a window of competitive advantage. This window is a race: whichever competitor demonstrates clinical efficacy first in humans establishes reputation, prescriber familiarity, and patent-term advantage. CERO's survival depends on being faster or smarter than rivals in the same narrow corridor.
 
@@ -34,7 +34,7 @@ Clinical trial execution is operationally intensive and expensive. CERO's compet
 
 ## Regulatory Pathway and Approval Strategy
 
-CERO's strategy in navigating the FDA determines how quickly it can reach patients. A biotech that designs trials aligned with FDA guidance, engages regulators early through pre-submission meetings, and proposes an accelerated pathway (Breakthrough Designation, [Fast Track](/ftrk-stock/)) can shorten time-to-approval relative to rivals using standard pathways.
+CERO's strategy in navigating the FDA determines how quickly it can reach patients. A biotech that designs trials aligned with FDA guidance, engages regulators early through pre-submission meetings, and proposes an accelerated pathway (Breakthrough Designation, Fast Track) can shorten time-to-approval relative to rivals using standard pathways.
 
 This is a knowledge-based competitive advantage. CERO must employ regulatory experts who understand the agency's evolving standards for metabolic-disease drugs. Regulators in this space have become more skeptical of proxy endpoints and demand long-term safety data. A competitor that understands this nuance and designs trials accordingly may progress faster than rivals that must redesign trials after negative pre-submission feedback.
 

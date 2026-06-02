@@ -12,7 +12,7 @@ handwritten: true
 
 > "Biosimilars are not generics—they are complex biological molecules manufactured in living cells, and getting them right requires the scale, regulatory expertise, and capital that few companies outside the traditional pharma giants possess."
 
-Alvotech warrants (ALVOW) represent leveraged calls on the common stock of Alvotech, a company formed through a SPAC merger to develop and commercialise biosimilar drugs and other biopharmaceutical products. The warrants embody a bet on whether Alvotech can execute in a sector that is highly regulated, capital intensive, and dominated by established pharmaceutical giants. To understand the warrant's value, one must first understand what Alvotech is and why the biosimilar market matters.
+Alvotech warrants (ALVOW) represent leveraged calls on the [common stock](/common-stock/) of Alvotech, a company formed through a SPAC [merger](/merger/) to develop and commercialise biosimilar drugs and other biopharmaceutical products. The warrants embody a bet on whether Alvotech can execute in a sector that is highly regulated, capital intensive, and dominated by established pharmaceutical giants. To understand the warrant's value, one must first understand what Alvotech is and why the biosimilar market matters.
 
 ## What Alvotech is and what biosimilars mean
 
@@ -40,7 +40,7 @@ Alvotech has required significant capital to pursue its biosimilar pipeline. A S
 
 ## Competition and the timing challenge
 
-The biosimilar market is increasingly crowded. Established pharmaceutical companies (Amgen, Sandoz, Pfizer, others) have launched biosimilars and have strong commercial infrastructure to market them. Smaller biotech companies entering the space must differentiate on cost of development, speed to market, or selection of high-value target drugs. Alvotech competes by choosing targets and executing development programmes faster and more cheaply than rivals, but this is not always feasible. Additionally, biosimilar pricing is under constant pressure as payers and healthcare systems push for lower and lower discounts to originator biologics. If prices fall faster than Alvotech expected, the economics of its candidates can deteriorate.
+The biosimilar market is increasingly crowded. Established pharmaceutical companies ([Amgen](/amgn-stock/), Sandoz, [Pfizer](/pfe-stock/), others) have launched biosimilars and have strong commercial infrastructure to market them. Smaller biotech companies entering the space must differentiate on cost of development, speed to market, or selection of high-value target drugs. Alvotech competes by choosing targets and executing development programmes faster and more cheaply than rivals, but this is not always feasible. Additionally, biosimilar pricing is under constant pressure as payers and healthcare systems push for lower and lower discounts to originator biologics. If prices fall faster than Alvotech expected, the economics of its candidates can deteriorate.
 
 The timing challenge is acute: if a biosimilar candidate takes too long to develop, the originator drug's exclusivity window may close or a competitor may reach the market first, and the first biosimilar often captures the largest market share. Alvotech must balance speed with regulatory and scientific rigor.
 
@@ -48,7 +48,7 @@ The timing challenge is acute: if a biosimilar candidate takes too long to devel
 
 Alvotech pursued a SPAC merger as a way to access public capital markets without a traditional IPO. This approach allowed the company to raise capital to fund development and commercialisation faster than a private funding round would enable. The warrants (ALVOW) are part of the SPAC's capital structure and give holders leveraged exposure to whether Alvotech's pipeline succeeds.
 
-For warrant holders, the risks are compounded. The company must not only identify good biosimilar targets and develop them successfully, but also navigate manufacturing, regulatory, and commercial challenges at each stage. A biosimilar that fails a clinical trial, faces unexpected regulatory hurdles, or launches into a market where prices have collapsed can wipe out shareholder value entirely. A biosimilar that succeeds, by contrast, can be highly profitable. The warrant's time decay means warrant holders cannot simply wait indefinitely for success—the clock ticks on the expiration date.
+For warrant holders, the risks are compounded. The company must not only identify good biosimilar targets and develop them successfully, but also navigate manufacturing, regulatory, and commercial challenges at each stage. A biosimilar that fails a clinical trial, faces unexpected regulatory hurdles, or launches into a market where prices have collapsed can wipe out shareholder value entirely. A biosimilar that succeeds, by contrast, can be highly profitable. The warrant's [time decay](/time-decay-theta/) means warrant holders cannot simply wait indefinitely for success—the clock ticks on the [expiration date](/expiration-date/).
 
 ## Researching Alvotech and biosimilar investing
 

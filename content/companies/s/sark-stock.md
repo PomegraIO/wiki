@@ -28,7 +28,7 @@ SARK (Tradr 1X Short Innovation Daily ETF, trading on the NYSE) exists for one p
 
 ## The short side: how inverse ETFs work
 
-An inverse ETF is the opposite of a normal fund. While ARKK itself is a collection of disruptive-innovation stocks held by Ark Invest, SARK uses derivatives to construct a position that moves opposite ARKK's price. When Ark's basket of innovation stocks rallies, SARK declines. When ARKK stumbles, SARK rises. The inverse mechanism uses swaps and futures to achieve this negative correlation without requiring the fund to borrow and short-sell individual Ark holdings.
+An [inverse ETF](/inverse-etf/) is the opposite of a normal fund. While ARKK itself is a collection of disruptive-innovation stocks held by Ark Invest, SARK uses derivatives to construct a position that moves opposite ARKK's price. When Ark's basket of innovation stocks rallies, SARK declines. When ARKK stumbles, SARK rises. The inverse mechanism uses swaps and futures to achieve this negative correlation without requiring the fund to borrow and short-sell individual Ark holdings.
 
 The "1X" in SARK's name means the fund targets a simple inverse relationship: one unit of ARKK loss becomes one unit of SARK gain, at the daily level. This is less aggressive than a 2x or 3x inverse fund, which magnify the inverse move further. SARK's 1x leverage is more conservative but still unforgiving for long-term holding.
 
@@ -46,13 +46,13 @@ Consider a simplified scenario: ARKK at 100, rises to 110 (up 10%), then falls t
 
 ## The psychology of inverse ETFs
 
-Inverse ETFs tap into fear and bearish conviction. They are attractive to traders who believe a reversal is imminent or who want to hedge a long portfolio by shorting a correlated index. They are attractive during market panics when people desperately want to "protect" themselves by betting against rallies. But inverse ETFs are nearly always a worse hedge than buying put options or simply holding cash. The daily reset and volatility decay mean the hedge erodes whether the market rises, falls, or goes sideways.
+Inverse ETFs tap into fear and bearish conviction. They are attractive to traders who believe a reversal is imminent or who want to hedge a long portfolio by shorting a correlated index. They are attractive during market panics when people desperately want to "protect" themselves by betting against rallies. But inverse ETFs are nearly always a worse hedge than buying [put options](/put-option/) or simply holding cash. The daily reset and volatility decay mean the hedge erodes whether the market rises, falls, or goes sideways.
 
 Tradr issues SARK knowing full well that most holders will lose money. The fund itself is profitable for the issuer because the decay means noteholders are constantly paying. SARK exists because investors who do not fully understand leverage and volatility decay will buy it.
 
 ## Costs and trading mechanics
 
-SARK trades on the NYSE with reasonable liquidity, bid-ask spreads typically in a few cents. The fund's expense ratio covers the cost of maintaining the inverse position through derivatives. Intraday, SARK will trade at prices reflecting both the underlying ARKK holdings and the expected daily inverse move. After market close, the position resets, which can mean a small gap between the previous close and the next day's open. For traders holding overnight, that gap is a hidden cost.
+SARK trades on the NYSE with reasonable liquidity, [bid-ask spreads](/bid-ask-spread/) typically in a few cents. The fund's [expense ratio](/expense-ratio/) covers the cost of maintaining the inverse position through derivatives. Intraday, SARK will trade at prices reflecting both the underlying ARKK holdings and the expected daily inverse move. After market close, the position resets, which can mean a small gap between the previous close and the next day's open. For traders holding overnight, that gap is a hidden cost.
 
 ## Who this is for (and who it is not)
 
@@ -60,4 +60,4 @@ SARK is appropriate for a trader placing a tactical short-term bet—expecting A
 
 ## How to research SARK
 
-Read Tradr's fact sheet and prospectus to confirm the 1x inverse mechanism and the daily reset schedule. Study a historical month of ARKK volatility and calculate what a 1x inverse position would have returned; you will see the decay clearly. Check the current holdings of ARKK to understand what you are implicitly betting against. Understand Ark Invest's investment philosophy and mandate—ARKK is designed to be volatile and concentrated, so betting against it is a high-stakes game. Finally, model out a holding period to see how much volatility decay matters. Holding SARK for more than a few days is almost never the right choice.
+Read Tradr's fact sheet and prospectus to confirm the 1x inverse mechanism and the daily reset schedule. Study a historical month of ARKK volatility and calculate what a 1x inverse position would have returned; you will see the decay clearly. Check the current holdings of ARKK to understand what you are implicitly betting against. Understand Ark Invest's investment philosophy and mandate—ARKK is designed to be volatile and concentrated, so betting against it is a high-stakes game. Finally, model out a [holding period](/holding-period/) to see how much volatility decay matters. Holding SARK for more than a few days is almost never the right choice.

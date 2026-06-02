@@ -53,7 +53,7 @@ The mortgage origination market in recent years has been crowded and price-compe
 
 **Competition and commoditization.** The faster and more efficient the industry becomes at digital origination, the lower the competitive moat and the thinner the margin. Velocity's technology advantage is real but not durable if larger competitors or new entrants invest at similar levels.
 
-**Economic sensitivity.** Mortgage origination is pro-cyclical. A [recession](/recession/), job losses, or housing market contraction will reduce both purchase demand and refi appetite. Velocity has limited recession buffers compared to diversified [financial institutions](/fisi-stock/).
+**Economic sensitivity.** Mortgage origination is pro-cyclical. A [recession](/recession/), job losses, or housing market contraction will reduce both purchase demand and refi appetite. Velocity has limited recession buffers compared to diversified financial institutions.
 
 ## How to follow it
 

@@ -59,7 +59,7 @@ ISCO likely seeks to commercialize products not just in the U.S., but in Europe,
 
 ## Intellectual Property and Trade Secrets in Cell Banks
 
-ISCO's manufacturing depends on cell banks—frozen stores of cells at a specific passage number from which batches are derived. The identity and characterization of the cell bank is regulatory-critical and must be disclosed to the FDA. However, the [cell source](/clcs-stock/), donor information, and manufacturing derivation of the cell bank may be proprietary. ISCO must disclose sufficient information to the FDA for approval while protecting trade secrets. The balance between regulatory transparency and proprietary protection is delicate.
+ISCO's manufacturing depends on cell banks—frozen stores of cells at a specific passage number from which batches are derived. The identity and characterization of the cell bank is regulatory-critical and must be disclosed to the FDA. However, the cell source, donor information, and manufacturing derivation of the cell bank may be proprietary. ISCO must disclose sufficient information to the FDA for approval while protecting trade secrets. The balance between regulatory transparency and proprietary protection is delicate.
 
 ## Contamination Risk and Lot Release
 

@@ -12,11 +12,11 @@ keywords:
 handwritten: true
 ---
 
-MSFL tracks Microsoft with 2x daily leverage. Microsoft stock moves 1% up, MSFL targets 2% up. Resets at close. Issued by GraniteShares. Ticker on NASDAQ.
+MSFL tracks [Microsoft](/msft-stock/) with 2x daily leverage. Microsoft stock moves 1% up, MSFL targets 2% up. Resets at close. Issued by GraniteShares. Ticker on [NASDAQ](/nasdaq/).
 
-The fund holds Microsoft stock and derivatives (futures, swaps) sized to move twice as fast each trading day. Every evening, GraniteShares rebalances back to exactly 2x. Straightforward mechanically. The leverage is real, the reset is automatic, the costs are embedded in the expense ratio — roughly 1.1% annually.
+The fund holds Microsoft stock and derivatives (futures, swaps) sized to move twice as fast each trading day. Every evening, GraniteShares rebalances back to exactly 2x. Straightforward mechanically. The leverage is real, the reset is automatic, the costs are embedded in the [expense ratio](/expense-ratio/) — roughly 1.1% annually.
 
-Why buy it? Traders who see Microsoft breaking out and want to amplify the move without calling a broker for margin. A chip designer expecting new AI announcements from the company, running the numbers, and deciding two-days' upside exposure is worth the leverage premium. Tactical conviction on a specific near-term catalyst — earnings, product launch, competitive moment.
+Why buy it? Traders who see Microsoft breaking out and want to amplify the move without calling a [broker](/broker/) for margin. A chip designer expecting new AI announcements from the company, running the numbers, and deciding two-days' upside exposure is worth the leverage premium. Tactical conviction on a specific near-term catalyst — earnings, product launch, competitive moment.
 
 Volatility decay is always the elephant in the room. Microsoft is large, relatively stable, but not immune to sharp swings. Cloud-demand disappointments, AI sentiment shifts, valuation concerns — these produce 2–3% down days. When you get two in a row with a rally in between, you end up lower than if the moves had simply compounded linearly. The fund works best in trending markets. Sideways choppy action grinds it down.
 
@@ -26,6 +26,6 @@ Microsoft's business is split software and cloud. Windows and Office are mature 
 
 Liquidity is excellent. Microsoft is one of the most-traded stocks globally. The inverse fund here runs tight spreads, minimal slippage on reasonable order sizes.
 
-The central risk: holding through a multi-month uptrend and watching daily volatility bleed the fund's value away despite the uptrend. A trader needs discipline about position sizing and exit timing. Leveraged ETFs punish indecision. Enter with a thesis, a target, and a stop-loss. Exit when any of the three triggers.
+The central risk: holding through a multi-month uptrend and watching daily volatility bleed the fund's value away despite the uptrend. A trader needs discipline about position sizing and exit timing. [Leveraged ETFs](/leveraged-etf/) punish indecision. Enter with a thesis, a target, and a stop-loss. Exit when any of the three triggers.
 
 Who this is for: short-term bullish traders on Microsoft wanting leverage without managing margin. Not for buy-and-hold. Not for people new to leverage. Not for tax-inefficient accounts if tracking error and volatility drag are a concern. For everyone else: understand what you are holding and why, monitor it actively, and have a plan to exit that does not depend on hoping.

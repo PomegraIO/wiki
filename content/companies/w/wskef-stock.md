@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-Wisekey is a Swiss technology company that builds and manages the systems that prove who you are online. It sells hardware security modules, digital certificates, and blockchain-based identity solutions to governments, financial institutions, and large enterprises across Europe, Asia, and the Americas. The company is traded on NASDAQ under the ticker WSKEF and is registered in Switzerland.
+Wisekey is a Swiss technology company that builds and manages the systems that prove who you are online. It sells hardware security modules, digital certificates, and blockchain-based identity solutions to governments, financial institutions, and large enterprises across Europe, Asia, and the Americas. The company is traded on [NASDAQ](/nasdaq/) under the ticker WSKEF and is registered in Switzerland.
 
 Most people have never heard of Wisekey, but its software and hardware run invisibly in the background when you buy something online, when a government verifies your identity, or when a bank needs to confirm it is talking to the real bank and not an impostor. The business is not flashy consumer software. It is the infrastructure of trust.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The **FT Vest Bitcoin Strategy Floor15 ETF – October** (ticker BFOC) is a fund that tracks Bitcoin while protecting investors against losses larger than 15% in any given year. If Bitcoin crashes 20%, you lose 15% and the floor absorbs the rest. If Bitcoin gains 50%, you get the 50% gain. Every October the protection resets and starts fresh, so you get a new floor for the next twelve months. It is a hybrid: you own Bitcoin's upside but cap your downside risk through a structured mechanism.*
+*The **FT Vest [Bitcoin](/bitcoin/) Strategy Floor15 ETF – October** (ticker BFOC) is a fund that tracks Bitcoin while protecting investors against losses larger than 15% in any given year. If Bitcoin crashes 20%, you lose 15% and the floor absorbs the rest. If Bitcoin gains 50%, you get the 50% gain. Every October the protection resets and starts fresh, so you get a new floor for the next twelve months. It is a hybrid: you own Bitcoin's upside but cap your downside risk through a structured mechanism.*
 
 <aside class="wiki-infobox">
 <table>
@@ -25,13 +25,13 @@ handwritten: true
 
 ## What makes this different from just holding Bitcoin
 
-If you buy Bitcoin directly, you own it completely. A 30% crash means your portfolio falls 30%. The FT Vest Bitcoin Strategy Floor15 fund sits in the middle: you own the Bitcoin exposure, but the fund buys protective options (chiefly put options) that trigger if the fund's value drops more than 15% from the start of any October-to-September period.
+If you buy Bitcoin directly, you own it completely. A 30% crash means your portfolio falls 30%. The FT Vest Bitcoin Strategy Floor15 fund sits in the middle: you own the Bitcoin exposure, but the fund buys protective options (chiefly [put options](/put-option/)) that trigger if the fund's value drops more than 15% from the start of any October-to-September period.
 
-The mechanics work like this. At the beginning of each annual period, the fund calculates the net asset value per share. If that value declines by 15% or more before the year ends, the floor mechanism activates and limits further loss. In practice, the fund achieves this by owning Bitcoin alongside a portfolio of options positions that rise in value when Bitcoin falls sharply, offsetting some of the decline.
+The mechanics work like this. At the beginning of each annual period, the fund calculates the [net asset value](/net-asset-value/) per share. If that value declines by 15% or more before the year ends, the floor mechanism activates and limits further loss. In practice, the fund achieves this by owning Bitcoin alongside a portfolio of options positions that rise in value when Bitcoin falls sharply, offsetting some of the decline.
 
 ## The cost of protection
 
-Nothing is free. The fund carries an expense ratio higher than a bare Bitcoin fund would, partly to cover the options themselves and partly to cover the fund's operating costs and the complexity of rebalancing them. Those options cost real money every year, especially in volatile years when the protection is most valuable. If Bitcoin never crashes more than 15% in any given year, that options premium is pure drag — money spent on insurance the fund never had to claim.
+Nothing is free. The fund carries an [expense ratio](/expense-ratio/) higher than a bare Bitcoin fund would, partly to cover the options themselves and partly to cover the fund's operating costs and the complexity of rebalancing them. Those options cost real money every year, especially in volatile years when the protection is most valuable. If Bitcoin never crashes more than 15% in any given year, that options premium is pure drag — money spent on insurance the fund never had to claim.
 
 Additionally, the protection resets once yearly. A crash from October to January is protected. But a crash from September to October might not be, if it occurs just before the reset. Timing matters. The October reset date is fixed, not tied to when a floor period "really" should end based on market conditions.
 
@@ -39,7 +39,7 @@ Additionally, the protection resets once yearly. A crash from October to January
 
 This is designed for Bitcoin believers who lose sleep over volatility. You think Bitcoin will go up over the long run, but a 40% drawdown would force you to sell at exactly the wrong time. The 15% floor lets you sleep: once you lose that much, the mechanism stops the bleeding. You stay invested and capture the recovery instead.
 
-It is also useful for institutions that hold Bitcoin but face board-level or regulatory scrutiny over tail risks. A 15% loss in Bitcoin is uncomfortable but explainable; a 50% wipeout is career-threatening. The floor resets discipline and makes the downside bounded.
+It is also useful for institutions that hold Bitcoin but face board-level or regulatory scrutiny over [tail risks](/tail-risk/). A 15% loss in Bitcoin is uncomfortable but explainable; a 50% wipeout is career-threatening. The floor resets discipline and makes the downside bounded.
 
 The fund is less interesting if you are already comfortable holding Bitcoin through 30, 40, or 50% declines — in that case, the options premium is simply wasted money.
 
@@ -53,7 +53,7 @@ Since BFOC uses options to create the floor, options mechanics apply. If volatil
 
 ## How investors research this
 
-Start with the fund prospectus, which spells out the exact floor level, the reset dates, the rebalancing schedule, and the expense ratio. Then check the fund's fact sheet and historical returns to see whether the floor actually worked as advertised in past periods. Compare the fund's annualized return against holding Bitcoin directly, subtracting the difference as the real cost of the protection.
+Start with the [fund prospectus](/fund-prospectus/), which spells out the exact floor level, the reset dates, the rebalancing schedule, and the expense ratio. Then check the fund's fact sheet and historical returns to see whether the floor actually worked as advertised in past periods. Compare the fund's annualized return against holding Bitcoin directly, subtracting the difference as the real cost of the protection.
 
 Traders and researchers watch Bitcoin's price and the fund's net asset value closely during volatile periods. If Bitcoin drops 18% in a single month and the fund's NAV only falls 13%, the floor mechanism is working. If the fund's decline exceeds 15%, something else is happening — perhaps the options positions are not perfectly hedged, or slippage and fees are eating into the protection.
 

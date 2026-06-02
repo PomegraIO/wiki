@@ -27,7 +27,7 @@ handwritten: true
 
 Huntington Bancshares is a bank. That seems simple, but it is worth being concrete about what that means. Huntington operates branches across the Midwest and Mid-Atlantic—Ohio, Indiana, Kentucky, Pennsylvania, Michigan, and surrounding states. People and small businesses in those regions can walk into a Huntington branch, open a checking account, borrow money, and get financial advice. The bank collects deposits from savers, pays them a bit of interest, takes that money, and lends it out to people and businesses at higher rates of interest. The difference is called the net interest margin—it is the bank's basic profit engine.
 
-Beyond deposits and loans, Huntington runs a wealth-management arm that invests money for individuals and families. It processes payments and handles transaction services for businesses. It trades securities, underwrites debt, and provides other services that large [financial institutions](/fisi-stock/) expect from their bank.
+Beyond deposits and loans, Huntington runs a wealth-management arm that invests money for individuals and families. It processes payments and handles transaction services for businesses. It trades securities, underwrites debt, and provides other services that large financial institutions expect from their bank.
 
 ## The money flows in a simple loop
 

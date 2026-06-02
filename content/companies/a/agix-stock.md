@@ -26,13 +26,13 @@ The fund's holdings span several layers of AI activity. Some companies build the
 
 ## Why thematic funds exist
 
-Thematic or sector funds like AGIX appeal to investors who believe a particular trend — in this case, AI — will outperform the broader market. The logic is straightforward: if you believe AI will drive outsized growth for years to come, owning a concentrated basket of AI-related companies should outpace an index fund holding all companies equally. The risk is equally clear: if the AI trend disappoints, overweights you relative to the broader market. Thematic funds amplify conviction in both directions.
+Thematic or [sector funds](/sector-fund/) like AGIX appeal to investors who believe a particular trend — in this case, AI — will outperform the broader market. The logic is straightforward: if you believe AI will drive outsized growth for years to come, owning a concentrated basket of AI-related companies should outpace an [index fund](/index-fund/) holding all companies equally. The risk is equally clear: if the AI trend disappoints, overweights you relative to the broader market. Thematic funds amplify conviction in both directions.
 
 AGIX is also a bet on KraneShares' index construction. The firm designs the underlying index, decides which companies to include and weight, and updates it over time as the AI landscape evolves. The quality of that index design — whether it truly captures the core AI opportunity or drifts into tangential technology holdings — directly determines AGIX's performance.
 
 ## Costs and composition
 
-Like all exchange-traded funds, AGIX charges an expense ratio to cover ongoing administration and index maintenance. For a thematic fund, the ratio reflects the cost of building and managing a specialized index rather than simply replicating a broad benchmark like the S&P 500. The fund's composition changes as companies enter or leave the AI space, and as the underlying private-company exposure evolves. Investors should review the fund's holdings list periodically to ensure it still aligns with their view of what "AI exposure" means.
+Like all exchange-traded funds, AGIX charges an [expense ratio](/expense-ratio/) to cover ongoing administration and index maintenance. For a thematic fund, the ratio reflects the cost of building and managing a specialized index rather than simply replicating a broad benchmark like the S&P 500. The fund's composition changes as companies enter or leave the AI space, and as the underlying private-company exposure evolves. Investors should review the fund's holdings list periodically to ensure it still aligns with their view of what "AI exposure" means.
 
 The inclusion of private-company exposure is a distinguishing feature but also a source of complexity. The private exposure is constructed rather than direct, which means AGIX shareholders are not literally owning private shares but rather participating in an index that includes private-company performance through a defined mechanism. Understanding exactly how that private exposure works — how it is calculated, how often it is updated, and what assumptions underpin it — is important for any investor considering the fund.
 
@@ -40,7 +40,7 @@ The inclusion of private-company exposure is a distinguishing feature but also a
 
 Technology and AI-specific funds tend to be more volatile than the overall market. When investors' appetite for growth and innovation peaks, thematic technology funds can surge. When enthusiasm cools or when concerns about profitability emerge, they can fall sharply. AGIX concentrates this volatility because it is not just a technology fund but a concentrated bet within technology on one specific theme.
 
-There is also the risk of thematic crowding. If many investors pile into AI at once, returns may disappoint because valuations have already run ahead of fundamentals. The best opportunities in any emerging field often come to those who invest before the theme becomes crowded, not after. By the time a thematic ETF like AGIX launches and builds a large asset base, some of the early-stage opportunity may have already been priced in.
+There is also the risk of thematic crowding. If many investors pile into AI at once, returns may disappoint because valuations have already run ahead of fundamentals. The best opportunities in any emerging field often come to those who invest before the theme becomes crowded, not after. By the time a [thematic ETF](/thematic-etf/) like AGIX launches and builds a large asset base, some of the early-stage opportunity may have already been priced in.
 
 Investors considering AGIX should examine the fund's prospectus and fact sheet to understand its exact index construction, the composition of holdings, and the mechanism by which private-company exposure is included. They should also have a view on whether artificial intelligence and related technologies will deliver the outsized returns the thematic bet assumes.
 

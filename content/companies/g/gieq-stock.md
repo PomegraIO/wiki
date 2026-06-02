@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-*The **Goldman Sachs Data Enhanced International Equity ETF** (ticker GIEQ) is an actively managed fund that uses proprietary algorithms and data analysis to choose stocks in developed markets outside the United States — a systematic approach to stock picking that sits between a passive index tracker and a traditional active manager.*
+*The **[Goldman Sachs](/goldman-sachs/) Data Enhanced International [Equity ETF](/equity-etf/)** (ticker GIEQ) is an [actively managed fund](/actively-managed-fund/) that uses proprietary algorithms and data analysis to choose stocks in developed markets outside the United States — a systematic approach to stock picking that sits between a passive index tracker and a traditional active manager.*
 
-GIEQ holds roughly 300 to 400 companies across Europe, Japan, Australia, and other developed economies. The fund's selection process is driven by quantitative models that scan company fundamentals and price signals, seeking firms with strong earnings, improving cash flow, and compelling valuations. Unlike a passive index fund, GIEQ makes selective choices; unlike a traditional mutual fund, it makes them mechanically rather than through a manager's judgment.
+GIEQ holds roughly 300 to 400 companies across Europe, Japan, Australia, and other developed economies. The fund's selection process is driven by quantitative models that scan company fundamentals and price signals, seeking firms with strong earnings, improving cash flow, and compelling valuations. Unlike a passive [index fund](/index-fund/), GIEQ makes selective choices; unlike a traditional [mutual fund](/mutual-fund/), it makes them mechanically rather than through a manager's judgment.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,13 +29,13 @@ GIEQ holds roughly 300 to 400 companies across Europe, Japan, Australia, and oth
 
 ## How does the Goldman Sachs model actually select stocks?
 
-The fund ingests a continuous stream of company data — quarterly earnings reports, balance sheets, cash flow statements, stock price histories, analyst forecasts, and insider trading activity. Goldman Sachs' quantitative team has engineered a model that looks for patterns linking these data points to future outperformance. The model might assign weights to factors like earnings growth momentum, return on equity, free cash flow yield, dividend growth, or price momentum, combining them to rank companies. Those ranking highest become the fund's holdings.
+The fund ingests a continuous stream of company data — quarterly earnings reports, [balance sheets](/balance-sheet/), [cash flow statements](/cash-flow-statement/), stock price histories, analyst forecasts, and insider trading activity. Goldman Sachs' quantitative team has engineered a model that looks for patterns linking these data points to future outperformance. The model might assign weights to factors like earnings growth momentum, [return on equity](/return-on-equity/), [free cash flow](/free-cash-flow/) yield, [dividend](/dividend/) growth, or price momentum, combining them to rank companies. Those ranking highest become the fund's holdings.
 
 This is not guess work. The model has been backtested against decades of market data to verify that the factors it selects have historically predicted return. But backtests are inherently backward-looking; they cannot guarantee the model will work in the future.
 
 ## Why pick stocks this way instead of just buying an index?
 
-A passive international index fund, like one tracking the MSCI EAFE index, holds all large developed-market companies and rebalances mechanically based on market value. It is cheap — expense ratios below 0.10% — and requires no judgment. But it also treats all companies the same; a company with strong earnings and growing cash flow gets the same weighting as an overvalued peer.
+A passive international index fund, like one tracking the MSCI EAFE index, holds all large developed-market companies and rebalances mechanically based on market value. It is cheap — [expense ratios](/expense-ratio/) below 0.10% — and requires no judgment. But it also treats all companies the same; a company with strong earnings and growing cash flow gets the same weighting as an overvalued peer.
 
 GIEQ's approach assumes the data model can identify which companies are more likely to outperform, and that the excess returns justify the higher fee (roughly 0.65%). This is a meaningful cost, and the fund must beat the index by more than 0.55% annually just to match the index's return after fees. The question is whether Goldman Sachs' quantitative edge is large enough and consistent enough to deliver that.
 
@@ -49,7 +49,7 @@ The portfolio is not static. As new quarterly earnings arrive and market prices 
 
 Quantitative models can break. If the patterns that drove past returns — say, that high free cash flow yield predicts future gains — stop working because markets have shifted or because other investors have embraced the same factors, the model loses its edge. A model optimized on historical data can also fall prey to overfitting, finding spurious patterns that do not persist.
 
-Currency risk is another factor. GIEQ holds stocks priced in euros, yen, pounds, and other currencies. When the US dollar strengthens, that reduces the returns for US-based investors holding these positions. GIEQ does not hedge currency (a choice that Goldman Sachs has made to keep the fund's costs down), so currency exposure is fully passed through. In years when the dollar weakens, the fund benefits; in years when the dollar strengthens, it is a drag.
+[Currency risk](/currency-risk/) is another factor. GIEQ holds stocks priced in euros, yen, pounds, and other currencies. When the [US dollar](/us-dollar/) strengthens, that reduces the returns for US-based investors holding these positions. GIEQ does not hedge currency (a choice that Goldman Sachs has made to keep the fund's costs down), so currency exposure is fully passed through. In years when the dollar weakens, the fund benefits; in years when the dollar strengthens, it is a drag.
 
 Concentration is a third risk. If the quantitative model converges on a subset of the market — say, a handful of high-quality European banks or pharmaceutical firms — GIEQ becomes less diversified than a broad index, and it may swing more sharply in volatile markets. Investors should examine the fund's top 10 holdings and sector breakdown to understand how concentrated it has become.
 

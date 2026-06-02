@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Estrella Immunopharma is a biotechnology company in the early stages of proving whether its drug candidates work in human patients. The company is focused on immunotherapy — treatments that work by teaching or activating the immune system to fight disease rather than by directly attacking cancer cells or pathogens. Like most clinical-stage biotech companies, Estrella has no marketed products generating revenue. Instead, the company burns cash to fund research, laboratory work, and human trials in the hope that one or more of its candidates will eventually succeed and reach the market.
+[Estrella Immunopharma](/esla-stock/) is a biotechnology company in the early stages of proving whether its drug candidates work in human patients. The company is focused on immunotherapy — treatments that work by teaching or activating the immune system to fight disease rather than by directly attacking cancer cells or pathogens. Like most clinical-stage biotech companies, Estrella has no marketed products generating revenue. Instead, the company burns cash to fund research, laboratory work, and human trials in the hope that one or more of its candidates will eventually succeed and reach the market.
 
 ## What immunotherapy does
 
@@ -22,13 +22,13 @@ The catch is that immunotherapy is hard to predict and even harder to manufactur
 
 Estrella is a clinical-stage company, meaning it has moved past basic laboratory research but has not yet completed the human trials needed to bring a drug to market. Getting from Phase 1 (safety testing in a small number of volunteers) to Phase 3 (large-scale efficacy trials) to regulatory approval takes years and tens or hundreds of millions of dollars. Most drug candidates fail along the way. Even if Estrella's lead candidate works, regulatory approval takes additional years, and then the company must commercialise the drug — building a sales force, establishing relationships with hospitals and doctors, and competing against entrenched rivals.
 
-At Estrella's size and stage, the company faces hard constraints that larger pharmaceutical firms do not. Roche, Merck, or Novartis can run multiple clinical programs in parallel and can absorb the cost of failures because they have approved drugs generating reliable revenue. Estrella must choose where to focus, knowing that a misstep or bad trial result can threaten the company's existence. The company likely has a runway — months or a few years of cash at the current burn rate — and must achieve clinical milestones or raise additional capital to survive.
+At Estrella's size and stage, the company faces hard constraints that larger pharmaceutical firms do not. Roche, [Merck](/mrk-stock/), or [Novartis](/nvs-stock/) can run multiple clinical programs in parallel and can absorb the cost of failures because they have approved drugs generating reliable revenue. Estrella must choose where to focus, knowing that a misstep or bad trial result can threaten the company's existence. The company likely has a runway — months or a few years of cash at the current burn rate — and must achieve clinical milestones or raise additional capital to survive.
 
 ## How the money works
 
 Estrella funds its operations through a combination of sources: seed investors and venture-capital firms willing to bet on early-stage biotech, strategic partnerships with larger pharmaceutical companies that might license the drug if it succeeds, and government grants from agencies like the National Institutes of Health that fund basic research. The company's equity has been diluted repeatedly as it has raised additional capital at higher valuations — a pattern common in biotech as the company de-risks itself with each successful clinical trial result.
 
-Investors in clinical-stage biotech are not betting on steady revenue or earnings. They are betting on binary outcomes: either the drug candidate succeeds in trials and the company's value rises sharply (or the company is acquired by a larger pharmaceutical firm at a premium), or it fails and the shares become worthless. That high-risk, high-potential-reward structure is why venture-capital firms and small biotech-focused hedge funds concentrate in the sector; for them, a few big wins offset many losses.
+Investors in clinical-stage biotech are not betting on steady revenue or earnings. They are betting on binary outcomes: either the drug candidate succeeds in trials and the company's value rises sharply (or the company is acquired by a larger pharmaceutical firm at a premium), or it fails and the shares become worthless. That high-risk, high-potential-reward structure is why venture-capital firms and small biotech-focused [hedge funds](/hedge-fund/) concentrate in the sector; for them, a few big wins offset many losses.
 
 ## Risks and the path forward
 

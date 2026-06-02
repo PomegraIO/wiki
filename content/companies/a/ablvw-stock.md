@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Able View Global Inc. is a Shanghai-based holding company that manages beauty and personal-care brands acquired from international owners and distributes them across Chinese e-commerce platforms, traditional retail, and its own online stores. The business is a middleman play on globalization: foreign brands want to reach Chinese consumers but face regulatory and operational complexity in establishing local distribution, so Able View handles the entire pipeline — compliance, marketing, logistics, and sales. The company operates in the narrow space between Chinese consumer-protection regulations on imported goods and the rules governing foreign ownership of brands.
+[Able View Global](/ablv-stock/) Inc. is a Shanghai-based holding company that manages beauty and personal-care brands acquired from international owners and distributes them across Chinese e-commerce platforms, traditional retail, and its own online stores. The business is a middleman play on globalization: foreign brands want to reach Chinese consumers but face regulatory and operational complexity in establishing local distribution, so Able View handles the entire pipeline — compliance, marketing, logistics, and sales. The company operates in the narrow space between Chinese consumer-protection regulations on imported goods and the rules governing foreign ownership of brands.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ Able View Global Inc. is a Shanghai-based holding company that manages beauty an
 
 ## The Hainan Manaslu merger and the brand-management model
 
-Able View emerged as a public company in August 2023 through a merger with Hainan Manaslu Acquisition Corp., a blank-check company. The underlying business is young — founded in 2022 — but the founders carried deep expertise in China's consumer-goods distribution. The SPAC route was a shortcut to capital and listing without the length of an IPO process, useful because the business required immediate scale to compete with existing beauty distributors in China.
+Able View emerged as a public company in August 2023 through a [merger](/merger/) with Hainan Manaslu [Acquisition](/acquisition/) Corp., a blank-check company. The underlying business is young — founded in 2022 — but the founders carried deep expertise in China's consumer-goods distribution. The SPAC route was a shortcut to capital and listing without the length of an IPO process, useful because the business required immediate scale to compete with existing beauty distributors in China.
 
 The operating model is straightforward but operationally demanding: Able View identifies international cosmetics brands owned by companies that lack direct distribution in China (or which find direct entry too complex), negotiates rights to import and sell them under license, and then manages every downstream function — compliance with Chinese regulations, digital marketing across platforms like Tmall and Douyin, omnichannel sales, customer service, logistics, and fulfillment.
 
@@ -50,7 +50,7 @@ The platform route brings traffic and reach but also subjects Able View to each 
 
 Able View's regulatory exposure centers on three constraints. First, imported cosmetics must meet Chinese health and safety standards set by the National Medical Products Administration (NMPA). Products need registration or rapid review, depending on whether they contain certain ingredients. Navigating this — knowing which brands can be approved quickly and which face barriers — is a core competitive advantage for Able View, because it prevents the company from simply acquiring any beauty brand globally and importing it instantly.
 
-Second, foreign exchange and capital controls. China restricts the movement of money out of the country, and large brand-licensing payments or dividend distributions must fit within regulatory windows. This creates timing and structuring challenges that add cost and complexity.
+Second, foreign exchange and capital controls. China restricts the movement of money out of the country, and large brand-licensing payments or [dividend distributions](/dividend-distribution/) must fit within regulatory windows. This creates timing and structuring challenges that add cost and complexity.
 
 Third, geopolitical tension around foreign ownership of consumer-facing brands. Chinese regulators sometimes view foreign-controlled brands as a loss of domestic control over consumer preferences and health products. This does not yet mean outright prohibition, but it creates regulatory uncertainty. A shift in policy could suddenly make it harder or costlier for Able View to acquire or hold brands.
 

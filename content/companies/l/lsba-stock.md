@@ -28,7 +28,7 @@ The company's scale relative to its geographic footprint is a question that the 
 
 ## Client Concentration and Service Dependency
 
-Many professional services firms in Asia operate within tight client circles. If Law's Business Group derives a large portion of its revenue from a handful of multinational corporations, regional governments, or large [financial institutions](/fisi-stock/), the loss of a single client becomes material. Moreover, service businesses live or die by personnel. Retaining experienced consultants and legal advisors in a competitive labor market is expensive and uncertain. If key individuals depart, the firm may lose client relationships instantly. Replacement and retraining erode margins.
+Many professional services firms in Asia operate within tight client circles. If Law's Business Group derives a large portion of its revenue from a handful of multinational corporations, regional governments, or large financial institutions, the loss of a single client becomes material. Moreover, service businesses live or die by personnel. Retaining experienced consultants and legal advisors in a competitive labor market is expensive and uncertain. If key individuals depart, the firm may lose client relationships instantly. Replacement and retraining erode margins.
 
 The nature of the services themselves matters. If the firm specializes in narrow, expertise-intensive areas—cross-border M&A, regulatory compliance in specific industries, corporate restructuring—it may command premium fees but also face feast-or-famine cycles tied to deal flow or regulatory change. Broader advisory services offer more stability but less pricing power and stronger competition.
 

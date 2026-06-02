@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ARMG is a leveraged exchange-traded product launched by Leverage Shares, a UK-based specialist in bespoke leveraged funds. It targets twice the daily return of Arm Holdings shares and is expressly designed for traders betting on short-term ARM price movements who prefer not to trade options or futures directly. The fund highlights how retail leverage has evolved: from margin accounts and options brokers to exchange-traded products that trade like stocks but move like derivatives.
+ARMG is a leveraged exchange-traded product launched by Leverage Shares, a UK-based specialist in bespoke leveraged funds. It targets twice the daily return of Arm Holdings shares and is expressly designed for traders betting on short-term ARM price movements who prefer not to trade options or futures directly. The fund highlights how retail leverage has evolved: from margin accounts and options [brokers](/broker/) to exchange-traded products that trade like stocks but move like derivatives.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,13 +27,13 @@ ARMG is a leveraged exchange-traded product launched by Leverage Shares, a UK-ba
 
 ## The rise of accessible leverage (2000s–2010s)
 
-The first leveraged ETFs appeared in the early 2000s, initially targeting broad indices like the S&P 500. The appeal was straightforward: retail investors who wanted leveraged exposure could buy a fund during normal trading hours without opening a derivatives account or posting collateral. For index-based leverage, the mechanics are manageable—diversification dampens the damage from daily rebalancing.
+The first [leveraged ETFs](/leveraged-etf/) appeared in the early 2000s, initially targeting broad indices like the S&P 500. The appeal was straightforward: retail investors who wanted leveraged exposure could buy a fund during normal trading hours without opening a derivatives account or posting collateral. For index-based leverage, the mechanics are manageable—[diversification](/diversification/) dampens the damage from daily rebalancing.
 
-But traders wanted leverage on individual stocks too. This created demand for custom products. Leverage Shares, founded to fill this gap, began manufacturing leveraged and inverse ETFs on specific names. ARMG is one such product, built to order as ARM Holdings rose in prominence. The fund launched as ARM was preparing its NASDAQ IPO and traders were eager for tools to amplify exposure to the semiconductor-design story.
+But traders wanted leverage on individual stocks too. This created demand for custom products. Leverage Shares, founded to fill this gap, began manufacturing leveraged and [inverse ETFs](/inverse-etf/) on specific names. ARMG is one such product, built to order as ARM Holdings rose in prominence. The fund launched as ARM was preparing its [NASDAQ](/nasdaq/) IPO and traders were eager for tools to amplify exposure to the semiconductor-design story.
 
 ## The mechanics: stake, hold, reset
 
-ARMG holds ARM shares and derivative positions—total-return swaps or forwards—that together deliver 2x daily leverage. On any given trading session, the mechanics are clean: if ARM closes up 3%, ARMG targets a 6% gain. If ARM closes down 2%, ARMG targets a 4% loss. The leverage ratio is mechanical and automatic.
+ARMG holds ARM shares and derivative positions—total-return swaps or forwards—that together deliver 2x daily leverage. On any given trading session, the mechanics are clean: if ARM closes up 3%, ARMG targets a 6% gain. If ARM closes down 2%, ARMG targets a 4% loss. The [leverage ratio](/leverage-ratio-forex/) is mechanical and automatic.
 
 What distinguishes ARMG from static leverage is the daily reset. At each market close, the fund rebalances its derivative positions to restore the leverage ratio to exactly 2x, based on the new ARM price. This reset is not a decision; it happens by formula. The fund does not try to time the market or predict direction. It simply resets to its original leverage level each night.
 
@@ -49,7 +49,7 @@ Decay is not a failure or a fee problem. It is a mathematical certainty, embedde
 
 ## Structure and costs today
 
-ARMG trades as an ETF on an exchange, meaning it is accessible to any retail investor with a brokerage account—no margin approval needed. The fund charges an expense ratio covering administration and the cost of the derivative positions. Liquidity is modest relative to the underlying ARM stock itself; bid-ask spreads may widen on volatile days.
+ARMG trades as an ETF on an exchange, meaning it is accessible to any retail investor with a brokerage account—no margin approval needed. The fund charges an [expense ratio](/expense-ratio/) covering administration and the cost of the derivative positions. Liquidity is modest relative to the underlying ARM stock itself; [bid-ask spreads](/bid-ask-spread/) may widen on volatile days.
 
 The fund is liquid enough for intraday or multi-day trades but not ideal for passive buy-and-hold. It is meant to be a tactical tool: an investor identifies an ARM-specific catalyst and uses ARMG to amplify the expected move over hours or days, then exits.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Steakholder Foods Ltd. is an Israel-based biotechnology company building manufacturing infrastructure for the alternative and cultivated meat industry through proprietary 3D bioprinting systems, plant-based production software, and hybrid meat formulations.*
+*[Steakholder Foods](/stkh-stock/) Ltd. is an Israel-based biotechnology company building manufacturing infrastructure for the alternative and cultivated meat industry through proprietary 3D bioprinting systems, plant-based production software, and hybrid meat formulations.*
 
 ## What problem does Steakholder Foods solve?
 

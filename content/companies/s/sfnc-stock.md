@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Simmons First National Corporation is a regional bank that operates hundreds of branches and banking centers across the South and Midwest, with a particular concentration in Arkansas, Texas, Missouri, and other states. The company's stock trades on the NASDAQ under the ticker SFNC. The bank generates revenue primarily from lending to individuals and small businesses, and from the spread between the interest it pays on deposits and the interest it charges on loans. It is one of the largest regional banks by branch count and deposit base in its operating territories.
+Simmons First National Corporation is a regional bank that operates hundreds of branches and banking centers across the South and Midwest, with a particular concentration in Arkansas, Texas, Missouri, and other states. The company's stock trades on the [NASDAQ](/nasdaq/) under the ticker SFNC. The bank generates revenue primarily from lending to individuals and small businesses, and from the spread between the interest it pays on deposits and the interest it charges on loans. It is one of the largest regional banks by branch count and deposit base in its operating territories.
 
 <aside class="wiki-infobox">
 <table>

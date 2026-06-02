@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-Lazard Global Total Return & [Income Fund](/income-fund/) is a closed-end investment fund — a pool of capital managed by Lazard Asset Management that invests in global stocks and bonds, with an explicit mandate to generate income for shareholders. Unlike an open-end mutual fund where new investors can deposit cash and get shares, a closed-end fund (CEF) has a fixed number of shares trading on an exchange. LGI trades on the [New York Stock Exchange](/new-york-stock-exchange/) under ticker LGI, and its share price fluctuates based on supply and demand, often at a discount or premium to the underlying portfolio's value.
+Lazard Global Total Return & [Income Fund](/income-fund/) is a closed-end investment fund — a pool of capital managed by Lazard Asset Management that invests in global stocks and [bonds](/bond/), with an explicit mandate to generate income for shareholders. Unlike an open-end mutual fund where new investors can deposit cash and get shares, a closed-end fund (CEF) has a fixed number of shares trading on an exchange. LGI trades on the [New York Stock Exchange](/new-york-stock-exchange/) under ticker LGI, and its share price fluctuates based on supply and demand, often at a discount or premium to the underlying portfolio's value.
 
 <aside class="wiki-infobox">
 <table>
@@ -42,7 +42,7 @@ The income focus is explicit. LGI distributes its earnings to shareholders month
 
 ## The monthly distribution: what it really is
 
-LGI's monthly dividend is often described as income, but the term can be misleading. If the fund earns 6% in realized gains and interest, it can pay 6% as dividends to shareholders without touching capital. If it earns 4%, but shareholders expect a 7% yield, the fund has to make up the difference by selling securities — a practice called "return of capital." From a tax perspective, return of capital is preferable to a dividend, because shareholders get back their own money and do not pay tax on it (though the cost basis of shares is reduced). But from an economic perspective, paying out more than you earn is unsustainable; it draws down the portfolio's value.
+LGI's monthly [dividend](/dividend/) is often described as income, but the term can be misleading. If the fund earns 6% in realized gains and interest, it can pay 6% as dividends to shareholders without touching capital. If it earns 4%, but shareholders expect a 7% yield, the fund has to make up the difference by selling securities — a practice called "return of capital." From a tax perspective, return of capital is preferable to a dividend, because shareholders get back their own money and do not pay tax on it (though the [cost basis](/cost-basis/) of shares is reduced). But from an economic perspective, paying out more than you earn is unsustainable; it draws down the portfolio's value.
 
 [Closed-end funds](/closed-end-fund/) are sometimes criticized for chasing yield targets that exceed what their portfolios can actually deliver, leading them to slowly deplete capital in the pursuit of an advertised distribution rate. Investors need to distinguish between sustainable yields from actual portfolio earnings and yields maintained by capital depletion. This matters more in low-interest-rate environments, when bonds pay very little and the only way to hit a 7% distribution is to sell stocks, take losses, or take more risk.
 

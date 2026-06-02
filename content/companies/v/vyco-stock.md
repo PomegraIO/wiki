@@ -45,7 +45,7 @@ That said, the company remains exposed to two serious pressures. First, hospital
 
 Vycor is a small-to-mid-sized company by medical-device standards — far smaller than Medtronic, Stryker, or Zimmer, but with a more focused market than many micro-cap device makers. The company has operated profitably as a private and eventually public entity, a sign that its narrow positioning is cash-generative rather than cash-burning. Its equipment-and-service model means it does not require enormous research-and-development spending to justify a new blockbuster drug approval, yet it also does not enjoy the margins of pure software, because manufacturing, logistics, and field service are real costs.
 
-The capital intensity is moderate: Vycor must maintain manufacturing capacity and inventory, support a field sales and service team, and invest in incremental product improvements. Growth-focused acquisitions or major new product lines would require raising capital, which is why the company has remained opportunistic rather than transformative in M&A. Organic, margin-preserving growth — the invisible kind — is the typical story.
+The capital intensity is moderate: Vycor must maintain manufacturing capacity and inventory, support a field sales and service team, and invest in incremental product improvements. Growth-focused [acquisitions](/acquisition/) or major new product lines would require raising capital, which is why the company has remained opportunistic rather than transformative in M&A. Organic, margin-preserving growth — the invisible kind — is the typical story.
 
 ## Research and what matters most
 

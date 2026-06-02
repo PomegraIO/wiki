@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[PIMCO Income Strategy](/pfl-stock/) Fund II trades on the NYSE under the ticker PFN and represents one of the world's largest fixed-income managers applying its bond and credit expertise to a blended portfolio designed to pay regular income. As a closed-end fund run by PIMCO (Pacific Investment Management Company), a subsidiary of Allianz, it pursues a mandate to deliver distributions to shareholders through a combination of bonds, [preferred stocks](/preferred-stock/), and common equities.
+[PIMCO Income Strategy](/pfl-stock/) Fund II trades on the NYSE under the ticker PFN and represents one of the world's largest fixed-income managers applying its [bond](/bond/) and credit expertise to a blended portfolio designed to pay regular income. As a closed-end fund run by PIMCO (Pacific Investment Management Company), a subsidiary of Allianz, it pursues a mandate to deliver distributions to shareholders through a combination of bonds, [preferred stocks](/preferred-stock/), and common equities.
 
 <aside class="wiki-infobox">
 <table>

@@ -12,7 +12,7 @@ handwritten: true
 
 ## What is Trillion Energy, and what does it do?
 
-Trillion Energy is an upstream oil and natural gas company focused on exploration and production in the Caspian Sea, primarily in the Azerbaijan sector. The company trades over-the-counter in the United States under the ticker TRLEF and operates in one of the world's major energy regions, competing against larger multinational energy firms in a business defined by the extraction and sale of commodity hydrocarbons.
+Trillion Energy is an upstream oil and [natural gas](/natural-gas/) company focused on exploration and production in the Caspian Sea, primarily in the Azerbaijan sector. The company trades over-the-counter in the United States under the ticker TRLEF and operates in one of the world's major energy regions, competing against larger multinational energy firms in a business defined by the extraction and sale of commodity hydrocarbons.
 
 Natural gas production is a capital-intensive, long-cycle business. Finding and developing a producing field can take five to ten years from exploration to first sales. Once a field is producing, the economics depend on the cost of extraction, the price the market will pay, and the reliability of transport infrastructure. Unlike manufacturing, where a company can respond to changing demand by adjusting production volumes quickly, an energy producer is largely locked into the cost structure of its developed fields and must sell output into a global commodity market where prices fluctuate based on supply and demand far beyond any single firm's control.
 

@@ -29,19 +29,19 @@ The **Themes Humanoid Robotics ETF** (BOTT) is a passively managed exchange-trad
 
 ## The index and what it holds
 
-BOTT tracks an index of companies working on or supplying humanoid robot systems. The fund captures companies across the robotics stack: primary manufacturers of humanoid platforms (such as Boston Dynamics, Tesla, and others), component suppliers (motors, actuators, sensors, batteries), and the software and control systems that coordinate humanoid motion and behavior. The index is deliberately narrow — it excludes broader industrial-robotics or AI companies unless humanoid development is a stated material focus — which gives BOTT a tightly defined thesis rather than a diversified robotics exposure.
+BOTT tracks an index of companies working on or supplying humanoid robot systems. The fund captures companies across the robotics stack: primary manufacturers of humanoid platforms (such as Boston Dynamics, [Tesla](/tsla-stock/), and others), component suppliers (motors, actuators, sensors, batteries), and the software and control systems that coordinate humanoid motion and behavior. The index is deliberately narrow — it excludes broader industrial-robotics or AI companies unless humanoid development is a stated material focus — which gives BOTT a tightly defined thesis rather than a diversified robotics exposure.
 
 Because humanoid robotics is still in early commercial deployment, the fund's holdings are likely a mix of large, established industrials and automation companies with humanoid divisions alongside smaller, specialized robotics firms. The exact composition shifts as the sector matures and new entrants emerge.
 
 ## Investment thesis and mechanics
 
-BOTT assumes that humanoid robots will become a significant capital-expenditure category for factories, warehouses, hospitals, and service businesses within the next 5–10 years, and that companies in the supply chain will capture value as adoption accelerates. The ETF structure allows investors to gain that exposure without picking individual robotics stocks — a diversification benefit for a sector where technology risk and execution risk are both high.
+BOTT assumes that humanoid robots will become a significant capital-expenditure category for factories, warehouses, hospitals, and service businesses within the next 5–10 years, and that companies in the supply chain will capture value as adoption accelerates. The ETF structure allows investors to gain that exposure without picking individual robotics stocks — a [diversification](/diversification/) benefit for a sector where technology risk and execution risk are both high.
 
 As a passive ETF, BOTT simply holds the index's constituents in proportion to their weighting, rebalancing periodically as the index methodology dictates. This means the fund has no active management, no stock selection, and holdings that are transparent and replicable — investors can see the full portfolio and know exactly what they own.
 
 ## Costs and how to trade it
 
-The fund's expense ratio is a modest annual drag — typically competitive with other thematic ETFs on the market. Because BOTT is a newer, narrower fund, its trading volume may be lighter than a broad-market ETF, which can mean wider bid-ask spreads at certain times and less price efficiency for very large trades. Investors should confirm liquidity before deploying substantial capital.
+The fund's [expense ratio](/expense-ratio/) is a modest annual drag — typically competitive with other [thematic ETFs](/thematic-etf/) on the market. Because BOTT is a newer, narrower fund, its trading volume may be lighter than a broad-market ETF, which can mean wider [bid-ask spreads](/bid-ask-spread/) at certain times and less price efficiency for very large trades. Investors should confirm liquidity before deploying substantial capital.
 
 BOTT trades on a major exchange and can be bought or sold during normal trading hours like any stock, though the underlying companies it holds are themselves volatile — a theme fund concentrated in early-stage deployment categories will move sharply on news about adoption, technical setbacks, or shifts in customer demand.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-OSR Holdings, Inc. operates as a holding company aggregating medical research and device distribution across disparate geographies—the United States, Switzerland, and South Korea—each bringing distinct regulatory environments and market access. The firm emerged in 2025 from the combination of Bellevue Life Sciences Acquisition Corp (a SPAC vehicle) and OSR Holdings Co., Ltd., a South Korean-anchored conglomerate, and now trades on the Nasdaq under the symbols OSRH and OSRHW. What distinguishes the firm is not a unified product franchise but a portfolio of clinical and commercial assets positioned to serve different markets and risk profiles: an immunotherapy program in Phase 2 trials, early regenerative medicine work, and an active medical device distribution business generating current revenue. The geographic diversity is both the company's source of diversification and its operational complexity.
+OSR Holdings, Inc. operates as a holding company aggregating medical research and device distribution across disparate geographies—the United States, Switzerland, and South Korea—each bringing distinct regulatory environments and market access. The firm emerged in 2025 from the combination of Bellevue Life Sciences [Acquisition](/acquisition/) Corp (a SPAC vehicle) and OSR Holdings Co., Ltd., a South Korean-anchored conglomerate, and now trades on the [Nasdaq](/nasdaq/) under the symbols OSRH and OSRHW. What distinguishes the firm is not a unified product franchise but a portfolio of clinical and commercial assets positioned to serve different markets and risk profiles: an immunotherapy program in Phase 2 trials, early regenerative medicine work, and an active medical device distribution business generating current revenue. The geographic diversity is both the company's source of [diversification](/diversification/) and its operational complexity.
 
 <aside class="wiki-infobox">
 <table>
@@ -42,7 +42,7 @@ The distribution business is the visible cash generator. Neurovascular intervent
 
 The clinical programs are the leverage on upside. Immunotherapy for solid tumors remains a frontier—most approved checkpoint inhibitors work poorly against glioblastoma, and success here would represent a meaningful clinical advance. The regenerative medicine track is earlier-stage and more speculative, but cellular and biological approaches to osteoarthritis have attracted large pharma interest in recent years, signaling that the space is not a backwater.
 
-The holding-company structure means OSR is a financial vehicle as much as an operational one. The SPAC merger capitalized the company with the proceeds from the blank-check company, which funded the combination with the South Korean parent and gave the US-traded entity access to capital markets. That capital now funds clinical development in the United States and Switzerland while the device distribution business operates semi-autonomously in South Korea and North America.
+The holding-company structure means OSR is a financial vehicle as much as an operational one. The SPAC [merger](/merger/) capitalized the company with the proceeds from the blank-check company, which funded the combination with the South Korean parent and gave the US-traded entity access to capital markets. That capital now funds clinical development in the United States and Switzerland while the device distribution business operates semi-autonomously in South Korea and North America.
 
 ## The challenges that matter
 
@@ -54,7 +54,7 @@ The device distribution business, though profitable, faces incumbent pressure fr
 
 ## How to research OSR as an investment
 
-Start with the SEC filings under CIK 0001840425. The 10-K annual report will break the device distribution revenue by geography and therapy area, detail the clinical trial designs and timelines for VXM01 and the regenerative programs, and lay out cash burn rate and available capital. The quarterly earnings calls are where management discusses trial recruitment and enrollment, manufacturing partnerships, and regulatory communications—the real-time signals of progress.
+Start with the SEC filings under CIK 0001840425. The 10-K [annual report](/10-k/) will break the device distribution revenue by geography and therapy area, detail the clinical trial designs and timelines for VXM01 and the regenerative programs, and lay out cash burn rate and available capital. The quarterly earnings calls are where management discusses trial recruitment and enrollment, manufacturing partnerships, and regulatory communications—the real-time signals of progress.
 
 For the clinical assets, track the published data: clinical trial registries (ClinicalTrials.gov) show enrollment rates and trial design; published presentations at oncology and rheumatology conferences give a window on competitive positioning. For the device business, check the company's gross margin trend against the cost of goods sold—that tells whether the distribution franchise is maintaining or eroding.
 

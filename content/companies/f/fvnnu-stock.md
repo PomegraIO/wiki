@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Future Vision II Acquisition Corp. is a shell company created to identify and merge with an operating business, most commonly referred to as a special purpose acquisition company or SPAC. Incorporated as a Cayman Islands exempted company, Future Vision II went public in September 2024, raising $50 million through the sale of 5.75 million units on the Nasdaq Capital Market. Each unit represents a bundle of two securities: one ordinary share of common stock and one-tenth of a right to receive an additional share if the company completes an acquisition.
+Future Vision II [Acquisition](/acquisition/) Corp. is a shell company created to identify and merge with an operating business, most commonly referred to as a special purpose acquisition company or SPAC. Incorporated as a Cayman Islands exempted company, Future Vision II went public in September 2024, raising $50 million through the sale of 5.75 million units on the [Nasdaq](/nasdaq/) Capital Market. Each unit represents a bundle of two securities: one ordinary share of [common stock](/common-stock/) and one-tenth of a right to receive an additional share if the company completes an acquisition.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Future Vision II Acquisition Corp. is a shell company created to identify and me
 
 ## The SPAC Structure
 
-Future Vision II operates under the legal framework that defines all SPACs: the company has no underlying business of its own, only capital and a mandate to find one. Shareholders of FVNNU units own a fractional stake in the capital raised, combined with limited voting rights and a claim to participate in any acquisition that management negotiates. The company must locate a target company and obtain shareholder approval for a business combination within a specified time window, typically 18 to 24 months from inception. If the company fails to complete a merger within that window, the assets are returned to shareholders, usually at the share price paid at the IPO plus accrued interest.
+Future Vision II operates under the legal framework that defines all SPACs: the company has no underlying business of its own, only capital and a mandate to find one. Shareholders of FVNNU units own a fractional stake in the capital raised, combined with limited [voting rights](/voting-rights/) and a claim to participate in any acquisition that management negotiates. The company must locate a target company and obtain shareholder approval for a [business combination](/business-combination-purchase/) within a specified time window, typically 18 to 24 months from inception. If the company fails to complete a [merger](/merger/) within that window, the assets are returned to shareholders, usually at the share price paid at the IPO plus [accrued interest](/accrued-interest/).
 
 ## Separable Components
 
@@ -53,4 +53,4 @@ SPACs operate under SEC oversight that includes specific rules about capital ret
 
 ## How to Research Future Vision II
 
-Investors studying Future Vision II should begin with the company's SEC filings, particularly the Form S-1 filed at the time of the IPO and any subsequent 8-K filings announcing material events such as a merger agreement. These documents disclose the sponsor's background, the trust account balance, the timeline for completing a business combination, and the terms of any proposed deal. The company's annual report on Form 10-K, filed once the merged business commences operations, will provide the operating fundamentals of the acquired company. Until a merger is consummated, there is no meaningful operational story—only the story of whether management will successfully negotiate favorable terms and whether the market values that negotiating skill at a premium to the cash in the trust.
+Investors studying Future Vision II should begin with the company's SEC filings, particularly the Form S-1 filed at the time of the IPO and any subsequent 8-K filings announcing material events such as a merger agreement. These documents disclose the sponsor's background, the trust account balance, the timeline for completing a business combination, and the terms of any proposed deal. The company's [annual report](/10-k/) on Form 10-K, filed once the merged business commences operations, will provide the operating fundamentals of the acquired company. Until a merger is consummated, there is no meaningful operational story—only the story of whether management will successfully negotiate favorable terms and whether the market values that negotiating skill at a premium to the cash in the trust.

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Bed Bath & Beyond stands among the largest specialty retailers of home furnishings and household goods in North America, known for its dense network of physical stores selling everything from bedding and towels to kitchen gadgets and bath accessories. The company's core business is built on the simple premise that homemakers need reliable access to a wide selection of products for domestic life, and that it can capture this market through convenient store locations, expert staff, and a familiar brand presence across the United States and Canada.
+[Bed Bath & Beyond](/bbby-stock/) stands among the largest specialty retailers of home furnishings and household goods in North America, known for its dense network of physical stores selling everything from bedding and towels to kitchen gadgets and bath accessories. The company's core business is built on the simple premise that homemakers need reliable access to a wide selection of products for domestic life, and that it can capture this market through convenient store locations, expert staff, and a familiar brand presence across the United States and Canada.
 
 <aside class="wiki-infobox">
 <table>
@@ -47,7 +47,7 @@ The product assortment within each store is typically deep — a large store wil
 
 Bed Bath & Beyond's traditional retail model faces structural headwinds. The rise of e-commerce, driven by companies like Amazon, has made it easier for customers to research, compare, and purchase home goods without visiting a physical store. This has been especially acute in bedding and kitchen goods, categories where Bed Bath & Beyond traditionally excelled. Online pure-plays offer lower prices, broader selection, and home delivery, and they do not incur the fixed costs of maintaining thousands of physical stores.
 
-At the same time, big-box retailers such as Target and Walmart now carry far more home goods than they once did, capturing price-sensitive customers who might once have relied on Bed Bath & Beyond. The result is a company caught between online retailers offering unlimited selection and specialty stores offering superior curation, in a category — home furnishings — that has migrated substantially to digital channels.
+At the same time, big-box retailers such as Target and [Walmart](/wmt-stock/) now carry far more home goods than they once did, capturing price-sensitive customers who might once have relied on Bed Bath & Beyond. The result is a company caught between online retailers offering unlimited selection and specialty stores offering superior curation, in a category — home furnishings — that has migrated substantially to digital channels.
 
 The company's reliance on a single geography and a single channel (store-based retail) compounds these pressures. A retailer with multiple channels, international scale, or unique competitive advantages could absorb these shifts more easily. Bed Bath & Beyond, however, is primarily dependent on continuing to draw customers to its stores at a pace that justifies the cost of operating them.
 

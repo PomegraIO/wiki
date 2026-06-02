@@ -23,11 +23,11 @@ What makes this different from simply holding the Morningstar Global Stocks Inde
 
 ## Building the fund in practice
 
-When IMOM launched in 2015, momentum investing was gaining intellectual respect in academic circles but remained obscure in retail and traditional institutional investing. The fund's prospectus laid out the methodology with transparency uncommon in the industry: specific momentum scores, the rebalancing schedule, which international exchanges are included, and detailed expense accounting. The transparency was a choice — Alpha Architect publishes its thinking, believing that open methodology builds trust and that it has sufficient proprietary skill in signal design and implementation to outcompete even when competitors understand the general approach.
+When IMOM launched in 2015, [momentum investing](/momentum-investing/) was gaining intellectual respect in academic circles but remained obscure in retail and traditional institutional investing. The fund's prospectus laid out the methodology with transparency uncommon in the industry: specific momentum scores, the rebalancing schedule, which international exchanges are included, and detailed expense accounting. The transparency was a choice — Alpha Architect publishes its thinking, believing that open methodology builds trust and that it has sufficient proprietary skill in signal design and implementation to outcompete even when competitors understand the general approach.
 
 The fund holds roughly 150–300 international stocks at any time, with concentration varying based on the strength of momentum signals. In periods when many stocks are displaying strong momentum, the fund spreads its capital more broadly; in choppy, directionless markets, conviction gets concentrated in the clearest signal leaders. This flexibility is one of the design features: the fund does not force a fixed number of holdings, allowing the signal to speak.
 
-Costs matter for momentum funds because the strategy is sensitive to execution. IMOM's expense ratio runs around 0.60–0.75%, higher than a passive international index fund but lower than most active managers. The rebalancing costs, imbedded in the bid-ask spread and market-impact that the fund incurs monthly, are not separately visible to investors but are a real drain on performance. The fund pays minimal dividend — momentum screens often favor growth and cyclical stocks over dividend payers — so returns are entirely price-based.
+Costs matter for momentum funds because the strategy is sensitive to execution. IMOM's [expense ratio](/expense-ratio/) runs around 0.60–0.75%, higher than a passive international [index fund](/index-fund/) but lower than most active managers. The rebalancing costs, imbedded in the [bid-ask spread](/bid-ask-spread/) and market-impact that the fund incurs monthly, are not separately visible to investors but are a real drain on performance. The fund pays minimal [dividend](/dividend/) — momentum screens often favor growth and cyclical stocks over dividend payers — so returns are entirely price-based.
 
 ## The risks of systematic momentum
 
@@ -35,7 +35,7 @@ A quantitative approach to momentum is disciplined, but it is not infallible. Mo
 
 There is also the risk of crowding. As more capital flowed into smart-beta and factor-based strategies after the 2010s, momentum signals may have become less reliable, with too many investors chasing the same signal simultaneously. Backtests of the 1990s and 2000s are not necessarily predictive of forward returns when billions of dollars are devoted to the same idea.
 
-Liquidity in international stocks varies widely by country and market-cap tier, and IMOM can be forced into less liquid names if momentum signals point that way. This concentration and liquidity risk is manageable in normal markets but can become costly during stress, when the fund may be forced to hold illiquid positions precisely when they are experiencing the worst performance.
+Liquidity in international stocks varies widely by country and market-cap tier, and IMOM can be forced into less liquid names if momentum signals point that way. This concentration and [liquidity risk](/liquidity-risk/) is manageable in normal markets but can become costly during stress, when the fund may be forced to hold illiquid positions precisely when they are experiencing the worst performance.
 
 ## Who owns IMOM and how to research it
 

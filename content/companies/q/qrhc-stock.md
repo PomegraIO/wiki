@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Quest Resource Holding Corp is a provider of [waste management](/wm-stock/), recycling, and logistics services to industrial, commercial, and institutional customers across North America. The company specializes in collecting, processing, and reselling surplus industrial materials, scrap metals, and other recyclable commodities, generating revenue both from the fees customers pay for disposal and from the sale of recovered materials to commodity buyers. This dual revenue model — charging customers for removal while capturing upside from material sales — aligns Quest with environmental sustainability trends while creating a business with different economic levers than traditional, landfill-dependent waste disposal.
+Quest Resource Holding Corp is a provider of waste management, recycling, and logistics services to industrial, commercial, and institutional customers across North America. The company specializes in collecting, processing, and reselling surplus industrial materials, scrap metals, and other recyclable commodities, generating revenue both from the fees customers pay for disposal and from the sale of recovered materials to commodity buyers. This dual revenue model — charging customers for removal while capturing upside from material sales — aligns Quest with environmental sustainability trends while creating a business with different economic levers than traditional, landfill-dependent waste disposal.
 
 <aside class="wiki-infobox">
 <table>

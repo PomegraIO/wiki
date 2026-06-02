@@ -65,7 +65,7 @@ The company has historically returned cash to shareholders through [dividends](/
 
 HPE's core risk is commoditisation. If servers and storage continue to become more standardised and price-sensitive, and if customers increasingly prefer to build their own infrastructure or buy from cloud providers, HPE's margins will continue to compress. The company's answer is to move upmarket and toward higher-margin software and services, which requires execution and sustained investment.
 
-A second risk is technological disruption. [Quantum computing](/qubt-stock/), for instance, could eventually render classical servers obsolete for certain workloads. The timeline for that is uncertain and probably years away, but it is a long-term existential question the company must navigate.
+A second risk is technological disruption. Quantum computing, for instance, could eventually render classical servers obsolete for certain workloads. The timeline for that is uncertain and probably years away, but it is a long-term existential question the company must navigate.
 
 For now, HPE remains essential to the infrastructure most organisations depend on. The company's challenge is to evolve fast enough that it captures value in the new hybrid and edge computing models, rather than being squeezed between legacy on-premises deployments (which are shrinking) and cloud providers (which build their own hardware).
 

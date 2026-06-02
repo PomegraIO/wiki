@@ -23,7 +23,7 @@ The risk: if the market falls so sharply that it breaches the strike where AUGU 
 
 ## Who is this for?
 
-AUGU appeals to someone who believes the U.S. equity market is unlikely to fall more than 15–20% in any one year but who wants to sleep at night knowing they are protected if it does. It also appeals to investors who are uncomfortable leaving money on the table in a bull market and who view a 15% buffer as "good enough" protection for most scenarios. In a typical year, you get the same gains as the unhedged market, and in a bad year, you lose 15%.
+AUGU appeals to someone who believes the U.S. equity market is unlikely to fall more than 15–20% in any one year but who wants to sleep at night knowing they are protected if it does. It also appeals to investors who are uncomfortable leaving money on the table in a [bull market](/bull-market/) and who view a 15% buffer as "good enough" protection for most scenarios. In a typical year, you get the same gains as the unhedged market, and in a bad year, you lose 15%.
 
 ## What is the real risk?
 
@@ -33,7 +33,7 @@ A secondary risk is volatility decay. In a choppy year where the market ends whe
 
 ## How much does it cost?
 
-The expense ratio is modest relative to the complexity of the strategy. You are paying for the options overlay, which is real work, but AUGU's fees are not exorbitant. In a bear market year, the 15% protection can be worth many years' worth of fees. In a bull market year, you gain the full market return and only pay the fee, which stings but is still reasonable.
+The [expense ratio](/expense-ratio/) is modest relative to the complexity of the strategy. You are paying for the options overlay, which is real work, but AUGU's fees are not exorbitant. In a [bear market](/bear-market/) year, the 15% protection can be worth many years' worth of fees. In a bull market year, you gain the full market return and only pay the fee, which stings but is still reasonable.
 
 ## What happens in August?
 

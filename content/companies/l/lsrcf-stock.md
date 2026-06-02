@@ -50,7 +50,7 @@ This manufacturing discipline shaped corporate culture. Unlike companies that gr
 
 ## Customer Concentration and Semiconductor Cycle Exposure
 
-Lasertec's business model concentrated [on semiconductor](/on-stock/) manufacturers. This created both scale advantages and cyclical exposure. Semiconductor manufacturers represent a limited set of large customers, each potentially purchasing expensive inspection systems. Concentration on a few customers created revenue visibility but also [concentration risk](/concentration-risk/). A loss of key customer or a customer's migration to a competitor's equipment would impact revenue substantially.
+Lasertec's business model concentrated on semiconductor manufacturers. This created both scale advantages and cyclical exposure. Semiconductor manufacturers represent a limited set of large customers, each potentially purchasing expensive inspection systems. Concentration on a few customers created revenue visibility but also [concentration risk](/concentration-risk/). A loss of key customer or a customer's migration to a competitor's equipment would impact revenue substantially.
 
 The semiconductor industry's cyclical nature created operational challenges. During boom periods, manufacturers invested heavily in new equipment to increase capacity. During downturns, capital spending declined sharply. Lasertec's revenue tracked semiconductor industry cycles, creating volatility in quarterly results and making forward planning difficult.
 

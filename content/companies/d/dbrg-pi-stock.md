@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-DigitalBridge Group, Inc. was founded in 1991 as an investment platform in real estate and infrastructure. Over three decades it has built itself into one of the largest and most diversified alternative asset managers focused exclusively on digital infrastructure. The company began with cell towers and has since assembled a portfolio spanning data centers, fiber networks, small cells, and edge computing platforms. DBRG-PI, a preferred equity share class, represents a junior claim on the company's assets and earnings — one way investors can participate in DigitalBridge's business model without holding common stock.
+DigitalBridge Group, Inc. was founded in 1991 as an investment platform in real estate and infrastructure. Over three decades it has built itself into one of the largest and most diversified alternative asset managers focused exclusively on digital infrastructure. The company began with cell towers and has since assembled a portfolio spanning data centers, fiber networks, small cells, and edge computing platforms. DBRG-PI, a preferred equity [share class](/share-class/), represents a junior claim on the company's assets and earnings — one way investors can participate in DigitalBridge's business model without holding [common stock](/common-stock/).
 
 <aside class="wiki-infobox">
 <table>
@@ -37,7 +37,7 @@ By the 2020s, DigitalBridge had become a global platform manager overseeing hund
 
 DigitalBridge operates as an alternative asset manager, which means its income streams differ from a traditional operator. When DigitalBridge acquires a data center or fiber network, it typically doesn't own it outright but rather manages it on behalf of limited partners who own the underlying asset and share in the cash flow.
 
-DigitalBridge's earnings come from three buckets. First, management fees, typically a percentage of assets under management, paid annually by the funds and partnerships it manages. Second, performance fees or carried interest — a share of profits realized when investments are sold or when targets are hit. Third, income from any direct stakes DigitalBridge itself holds in the managed entities.
+DigitalBridge's earnings come from three buckets. First, [management fees](/management-fee/), typically a percentage of assets under management, paid annually by the funds and partnerships it manages. Second, [performance fees](/performance-fee/) or carried interest — a share of profits realized when investments are sold or when targets are hit. Third, income from any direct stakes DigitalBridge itself holds in the managed entities.
 
 This model aligns management incentives with investor returns. DigitalBridge makes more money when its investors make money. But it also means the company's earnings vary with both the size of assets under management and the success rate of the underlying investments.
 
@@ -45,13 +45,13 @@ This model aligns management incentives with investor returns. DigitalBridge mak
 
 Digital infrastructure demand has exhibited steady long-term growth, but it is not immune to economic cycles. During economic expansions, corporate capital expenditure rises, and companies invest in computing capacity, data centers, and telecommunications infrastructure. Capacity expands, utilization rates climb, and asset values appreciate. DigitalBridge's funds post strong returns, attracting new capital and growing the asset base.
 
-During recessions, demand growth slows. Companies defer expansion plans, reduce computing capacity, or consolidate data centers. Utilization declines, and asset values stagnate or soften. For DigitalBridge, this means slower fundraising (investors back away when recent returns disappoint), lower fees on managed assets, and deferred exits (selling assets at acceptable prices becomes harder).
+During [recessions](/recession/), demand growth slows. Companies defer expansion plans, reduce computing capacity, or consolidate data centers. Utilization declines, and asset values stagnate or soften. For DigitalBridge, this means slower fundraising (investors back away when recent returns disappoint), lower fees on managed assets, and deferred exits (selling assets at acceptable prices becomes harder).
 
 The company's mix of assets also matters. Data centers serving internet content providers and cloud platforms experienced strong growth during the 2020s, but face saturation risks in mature markets. Fiber and tower assets exhibit longer, flatter cycles with lower volatility in returns. A portfolio weighted toward the highest-growth segments delivers stronger returns in booms but softer returns in downturns.
 
 ## Understanding the preferred equity structure
 
-DBRG-PI is preferred stock, meaning it occupies a middle position in DigitalBridge's capital structure. Preferred shareholders receive priority dividend payments ahead of common shareholders — if the company has earnings to distribute, DBRG-PI holders collect their designated dividend before common holders receive anything. In exchange, preferred shares typically carry no voting power and offer fixed or semi-fixed dividend rates rather than the variable income potential of common stock.
+DBRG-PI is [preferred stock](/preferred-stock/), meaning it occupies a middle position in DigitalBridge's capital structure. Preferred shareholders receive priority [dividend](/dividend/) payments ahead of common shareholders — if the company has earnings to distribute, DBRG-PI holders collect their designated dividend before common holders receive anything. In exchange, preferred shares typically carry no voting power and offer fixed or semi-fixed dividend rates rather than the variable income potential of common stock.
 
 In a distressed scenario, preferred equity ranks above common but below all debt. If DigitalBridge became insolvent, bondholders would recover before preferred shareholders. But preferred would recover before common shareholders received anything.
 

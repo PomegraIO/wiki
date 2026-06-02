@@ -48,7 +48,7 @@ Hachette addressed this through [acquisitions](/acquisition/) of established Eng
 
 Like traditional publishers globally, Hachette faced fundamental disruption from digital reading and self-publishing platforms beginning in the 2000s. E-books, audiobooks, and digital distribution channels threatened the role of traditional publishers in bringing authors to readers. Hachette's response involved simultaneous investment in digital formats, aggressive defense of author relationships against self-publishing disruption, and pricing strategies to protect the value of backlist content as formats shifted.
 
-The company invested in digital publishing capabilities, audiobook production, and [direct digital](/drct-stock/) distribution. But these investments required new skills distinct from traditional print publishing, and they imposed margin pressure as consumers and retailers expected lower prices for digital editions than print books. Hachette had to maintain profitability in a traditional print business still generating substantial revenue while investing in digital formats with uncertain unit economics.
+The company invested in digital publishing capabilities, audiobook production, and direct digital distribution. But these investments required new skills distinct from traditional print publishing, and they imposed margin pressure as consumers and retailers expected lower prices for digital editions than print books. Hachette had to maintain profitability in a traditional print business still generating substantial revenue while investing in digital formats with uncertain unit economics.
 
 ## The Distribution Moat
 

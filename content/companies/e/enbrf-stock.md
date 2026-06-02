@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Enbridge is the infrastructure backbone connecting North American oil and gas producers to the refineries, utilities, and consumers that depend on them. The company operates an integrated network of pipelines and storage facilities that transport crude oil, natural gas liquids, and natural gas across Canada and the United States, serving as the essential link in the energy supply chain between upstream extraction and downstream markets.
+Enbridge is the infrastructure backbone connecting North American oil and gas producers to the refineries, utilities, and consumers that depend on them. The company operates an integrated network of pipelines and storage facilities that transport [crude oil](/crude-oil/), [natural gas](/natural-gas/) liquids, and natural gas across Canada and the United States, serving as the essential link in the energy supply chain between upstream extraction and downstream markets.
 
 <aside class="wiki-infobox">
 <table>
@@ -53,7 +53,7 @@ The company has deliberately developed this portfolio mix to balance volatility.
 
 Enbridge's ability to grow pipeline capacity is tightly constrained by regulators. Major new pipelines or expansions require approval from the National Energy Board in Canada or the Federal Energy Regulatory Commission in the United States, along with environmental reviews that can take years. This means the company cannot simply invest to meet every demand spike. Some projects are rejected outright on environmental or geopolitical grounds; others sit in regulatory limbo for a decade.
 
-This creates a supply-demand imbalance. Shippers often want more capacity than Enbridge has available. When pipelines are congested, shippers bid up prices for the limited space. Enbridge benefits from high tariffs in congested periods, but the company faces pressure to expand capacity to relieve congestion and spread costs more fairly. Balancing regulatory constraints against shareholder demands for growth and dividends is a core management challenge.
+This creates a supply-demand imbalance. Shippers often want more capacity than Enbridge has available. When pipelines are congested, shippers bid up prices for the limited space. Enbridge benefits from high tariffs in congested periods, but the company faces pressure to expand capacity to relieve congestion and spread costs more fairly. Balancing regulatory constraints against shareholder demands for growth and [dividends](/dividend/) is a core management challenge.
 
 ## Long-term risks and the energy transition
 

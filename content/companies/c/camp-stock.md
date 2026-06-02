@@ -29,7 +29,7 @@ Preclinical work relies on cellular and animal models (mice, rats, sometimes lar
 
 ## Competitive context and niche positioning
 
-The neuroscience-drug landscape is highly competitive. Large pharma companies (Eli Lilly, Roche, [Amgen](/amgn-stock/), etc.) have substantial neuropsychiatric programs. Smaller biotech firms pursuing GPCRs and cAMP signaling include those focused on Alzheimer's disease, Parkinson's disease, depression, anxiety, and other targets. Camp4 does not own the cAMP-modulation space; however, if the company can identify and validate a GPCR or signaling axis with a strong therapeutic window and a large, underserved patient population, it can establish a defensible position.
+The neuroscience-drug landscape is highly competitive. Large pharma companies ([Eli Lilly](/lly-stock/), Roche, [Amgen](/amgn-stock/), etc.) have substantial neuropsychiatric programs. Smaller biotech firms pursuing GPCRs and cAMP signaling include those focused on Alzheimer's disease, Parkinson's disease, depression, anxiety, and other targets. Camp4 does not own the cAMP-modulation space; however, if the company can identify and validate a GPCR or signaling axis with a strong therapeutic window and a large, underserved patient population, it can establish a defensible position.
 
 The company's competitive advantage—if any—rests on scientific clarity about which cAMP-pathway interventions will be therapeutically useful and on execution speed in chemistry, pharmacology, and IND preparation. Small biotech firms often move faster than large pharma, but they face greater resource constraints when scaling into clinical development.
 

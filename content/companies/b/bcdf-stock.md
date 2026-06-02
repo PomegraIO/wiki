@@ -10,19 +10,19 @@ keywords:
 handwritten: true
 ---
 
-*The Horizon Kinetics Blockchain Development ETF, ticker BCDF, is an actively managed fund that seeks exposure to companies engaged in developing blockchain technology, building cryptocurrency infrastructure, and advancing distributed ledger systems — rather than owning cryptocurrencies directly, the fund holds equities of firms advancing the underlying technology.*
+*The [Horizon Kinetics](/hkhc-stock/) Blockchain Development ETF, ticker BCDF, is an [actively managed fund](/actively-managed-fund/) that seeks exposure to companies engaged in developing blockchain technology, building cryptocurrency infrastructure, and advancing [distributed ledger](/distributed-ledger/) systems — rather than owning cryptocurrencies directly, the fund holds equities of firms advancing the underlying technology.*
 
 ## The origin of blockchain-focused investing
 
-Blockchain technology emerged in 2009 with Bitcoin, but the ecosystem of companies building infrastructure, mining hardware, software tools, and supporting services developed more gradually. For years, investors wanting exposure to blockchain faced a choice: buy cryptocurrencies directly or invest in tangentially related companies like semiconductor makers or software firms that benefited incidentally from crypto growth.
+Blockchain technology emerged in 2009 with [Bitcoin](/bitcoin/), but the ecosystem of companies building infrastructure, mining hardware, software tools, and supporting services developed more gradually. For years, investors wanting exposure to blockchain faced a choice: buy cryptocurrencies directly or invest in tangentially related companies like semiconductor makers or software firms that benefited incidentally from crypto growth.
 
-The maturation of cryptocurrency derivatives and spot trading (particularly Bitcoin and Ethereum spot ETFs) created a new category of need: investors who believed in blockchain technology's importance but wanted equity exposure to companies building the ecosystem rather than direct crypto holdings. BCDF emerged as one of the first ETF vehicles explicitly designed to meet that appetite.
+The maturation of cryptocurrency derivatives and spot trading (particularly Bitcoin and [Ethereum](/ethereum/) spot ETFs) created a new category of need: investors who believed in blockchain technology's importance but wanted equity exposure to companies building the ecosystem rather than direct crypto holdings. BCDF emerged as one of the first ETF vehicles explicitly designed to meet that appetite.
 
 ## The fund's thesis and scope
 
 The fund is built on the thesis that blockchain technology is economically significant and here to stay, and that companies directly participating in its development and commercialisation will benefit. Unlike a simple cryptocurrency fund, BCDF owns shares in publicly listed companies and private companies accessed through ETF holdings.
 
-The fund's holdings fall into several overlapping categories: companies that manufacture cryptocurrency mining hardware (chips and specialised computing equipment), firms that develop blockchain infrastructure and software (protocols, wallets, exchanges), publicly traded cryptocurrency operators (exchanges, custodians, trading platforms), and technology companies whose business model is built around blockchain or distributed ledger applications.
+The fund's holdings fall into several overlapping categories: companies that manufacture cryptocurrency mining hardware (chips and specialised computing equipment), firms that develop blockchain infrastructure and software (protocols, wallets, exchanges), publicly traded cryptocurrency operators (exchanges, [custodians](/custodian/), trading platforms), and technology companies whose business model is built around blockchain or distributed ledger applications.
 
 The fund excludes direct cryptocurrency holdings. It does not own Bitcoin or Ethereum tokens themselves, only the companies and tools enabling their ecosystem.
 
@@ -30,7 +30,7 @@ The fund excludes direct cryptocurrency holdings. It does not own Bitcoin or Eth
 
 BCDF is actively managed, not index-tracking. A portfolio manager makes decisions about which blockchain-related companies to hold, in what weightings, and when to adjust positions. This means the fund's performance is not mechanically bound to any specific index; instead, it rises or falls based on the manager's stock-picking ability.
 
-Active management introduces both opportunity and risk. A skilled manager can overweight high-conviction positions (such as companies entering emerging blockchain segments) and underweight or avoid overvalued names. However, active management also adds cost: the fund's expense ratio is substantially higher than a passive index tracker. The higher fees must be offset by outperformance; otherwise, the fund underperforms a passive alternative by the fee difference.
+Active management introduces both opportunity and risk. A skilled manager can overweight high-conviction positions (such as companies entering emerging blockchain segments) and underweight or avoid overvalued names. However, active management also adds cost: the fund's [expense ratio](/expense-ratio/) is substantially higher than a passive index tracker. The higher fees must be offset by outperformance; otherwise, the fund underperforms a passive alternative by the fee difference.
 
 Concentration is significant. The blockchain ecosystem is relatively small compared to traditional technology or finance. The pool of publicly listed blockchain infrastructure and mining companies is narrow, and the fund often holds meaningful positions in a limited number of names. This means the fund's performance is highly dependent on a few key holdings. A loss in a major position can materially harm returns.
 

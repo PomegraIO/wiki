@@ -22,19 +22,19 @@ For example, if BGLD establishes a 10% buffer and a 20% cap, an investor could l
 
 ## Gold as the underlying asset
 
-Gold is a commodity and store of value that does not pay dividends, interest, or produce cash flows. Its price moves based on sentiment, inflation expectations, currency movements, geopolitical risk, and central-bank policy. As an asset class, gold offers diversification to a stock and bond portfolio because it often rises when equities and bonds fall, and it tends to perform well during periods of high inflation or political uncertainty.
+Gold is a commodity and store of value that does not pay [dividends](/dividend/), interest, or produce cash flows. Its price moves based on sentiment, [inflation](/inflation/) expectations, currency movements, geopolitical risk, and central-bank policy. As an asset class, gold offers [diversification](/diversification/) to a stock and [bond](/bond/) portfolio because it often rises when equities and bonds fall, and it tends to perform well during periods of high inflation or political uncertainty.
 
 A plain gold ETF simply holds physical gold bullion or gold futures and passes through the commodity's price movement directly. BGLD adds the buffer-and-cap structure on top, so the fund's performance is no longer a direct reflection of gold prices but rather a predefined outcome range reset every quarter.
 
 ## How the options mechanics work
 
-Internally, BGLD uses options — specifically, call spreads and put spreads — to construct the buffer and cap. The fund buys protective puts to define the floor (the buffer) and sells call options to cap upside, with the premium from the sold calls funding the cost of the protective puts. This is a standard risk-management strategy used by institutional investors; the novelty of the ETF is simply wrapping it into a liquid, publicly traded vehicle available to retail investors.
+Internally, BGLD uses options — specifically, [call spreads](/call-spread/) and [put spreads](/put-spread/) — to construct the buffer and cap. The fund buys [protective puts](/protective-put/) to define the floor (the buffer) and sells [call options](/call-option/) to cap upside, with the premium from the sold calls funding the cost of the protective puts. This is a standard risk-management strategy used by institutional investors; the novelty of the ETF is simply wrapping it into a liquid, publicly traded vehicle available to retail investors.
 
 Each quarter, the fund resets these options positions based on gold's price at the quarter's start and then implements a new set of options expiring three months hence. This quarterly reset keeps the buffer and cap relevant and prevents them from becoming stale as prices move over time.
 
 ## Costs and mechanics
 
-The fund charges an expense ratio for management and administration. In addition, the options costs — the cost of buying puts to establish the buffer and the foregone upside from selling calls to cap gains — are embedded in the fund's structure. Investors do not see a separate options-premium deduction on their statement, but the buffer and cap themselves reflect those costs. BGLD trades on an exchange like any ETF, and liquidity depends on the fund's size and trading volume.
+The fund charges an [expense ratio](/expense-ratio/) for management and administration. In addition, the options costs — the cost of buying puts to establish the buffer and the foregone upside from selling calls to cap gains — are embedded in the fund's structure. Investors do not see a separate options-premium deduction on their statement, but the buffer and cap themselves reflect those costs. BGLD trades on an exchange like any ETF, and liquidity depends on the fund's size and trading volume.
 
 ## When the quarterly buffer and cap matter
 
@@ -44,7 +44,7 @@ In a quiet quarter, the buffer and cap have little visible effect: gold moves mo
 
 Buffered ETFs are not free downside insurance. The buffer is not a guarantee; it is a mechanical feature of the options strategy, and it covers only that quarter's loss. If gold crashes 15%, rebounds 10%, then crashes 20% over the course of a year, the buffer-and-cap structure resets and operates independently each quarter, and investors could still experience meaningful cumulative losses.
 
-Investors in buffered funds also give up significant upside in bull markets. Over a long period of gold appreciation, the repeated capping of gains, quarter after quarter, can materially reduce total returns compared to owning physical gold or a standard gold ETF.
+Investors in buffered funds also give up significant upside in [bull markets](/bull-market/). Over a long period of gold appreciation, the repeated capping of gains, quarter after quarter, can materially reduce total returns compared to owning physical gold or a standard gold ETF.
 
 ## Suitability
 

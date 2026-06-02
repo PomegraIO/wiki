@@ -19,7 +19,7 @@ The company generates returns for shareholders primarily through the performance
 
 ## How is FST Corp. different from an operating company?
 
-An operating company manufactures goods, provides services, or both. Apple makes iPhones; a bank originates loans. An operating company has revenue from customers, expenses from running the business, and a clear profit-and-loss statement that tells investors how well management is executing.
+An operating company manufactures goods, provides services, or both. [Apple](/aapl-stock/) makes iPhones; a bank originates loans. An operating company has revenue from customers, expenses from running the business, and a clear profit-and-loss statement that tells investors how well management is executing.
 
 FST Corp., by contrast, does not operate a core business in that sense. Instead, it is a vessel holding other assets. Its financial results depend on how well those held companies perform, whether the company adds or subtracts value through management and capital allocation, and whether the overall portfolio is growing or shrinking. This creates a second layer of analysis: investors must evaluate not only whether FST's owned companies are sound, but also whether the holding company itself is a good steward of those assets.
 
@@ -35,8 +35,8 @@ The third risk is capital allocation. A holding company that accumulates cash bu
 
 Start with the company's most recent annual Form 10-K filing with the SEC, which breaks down the holding company's business segments, lists the assets owned, and explains the source of most revenues and profits. Look for a clear statement of which subsidiaries or investments drive the bulk of value and which are smaller positions.
 
-Track the company's capital allocation over several years. Is management buying back shares or increasing the dividend? Is the company making acquisitions or divesting underperforming units? Is cash accumulating or being deployed? Patterns in capital allocation reveal whether management is disciplined or reactive.
+Track the company's capital allocation over several years. Is management buying back shares or increasing the [dividend](/dividend/)? Is the company making [acquisitions](/acquisition/) or divesting underperforming units? Is cash accumulating or being deployed? Patterns in capital allocation reveal whether management is disciplined or reactive.
 
-Compare FST's total market value against the sum-of-the-parts valuation—the theoretical value of its constituent businesses if valued independently. If the holding company trades at a significant discount to the sum of its parts, that discount reflects investor skepticism about whether the holding company structure creates or destroys value. If the discount widens, it signals deteriorating confidence in management.
+Compare FST's total market value against the [sum-of-the-parts valuation](/sum-of-the-parts-valuation/)—the theoretical value of its constituent businesses if valued independently. If the holding company trades at a significant discount to the sum of its parts, that discount reflects investor skepticism about whether the holding company structure creates or destroys value. If the discount widens, it signals deteriorating confidence in management.
 
 Finally, monitor changes in leadership and board composition. Holding companies are only as good as the people making capital-allocation decisions. A shift in management philosophy or strategy often signals a coming shift in performance.

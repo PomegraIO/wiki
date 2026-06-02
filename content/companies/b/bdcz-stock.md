@@ -35,13 +35,13 @@ This geographic scale is both a strength and a constraint. It allows UBS to serv
 
 UBS makes money in three fundamental ways. First, it collects fees from managing client assets — typically a small percentage of the assets under management, often a tenth of a percent to a few percent annually, depending on the service and the size of the account. When you aggregate the fees across millions of clients and trillions in assets, a fraction of a percent becomes a massive revenue stream.
 
-Second, it earns the spread between the rate it pays on deposits and the rate it charges on loans and investments. This net interest margin exists in traditional banking — the oldest business of any bank. UBS takes in deposits from clients and lends money to companies and governments, pocketing the difference. The margin is typically modest — a percentage point or two — but when spread across a global balance sheet holding hundreds of billions in assets, it compounds.
+Second, it earns the spread between the rate it pays on deposits and the rate it charges on loans and investments. This net interest margin exists in traditional banking — the oldest business of any bank. UBS takes in deposits from clients and lends money to companies and governments, pocketing the difference. The margin is typically modest — a percentage point or two — but when spread across a global [balance sheet](/balance-sheet/) holding hundreds of billions in assets, it compounds.
 
-Third, it earns transaction fees and commissions. When clients buy and sell securities, when companies issue debt or equity, when a merger is arranged or financed, UBS participates and collects a fee. These are episodic, not recurring, but they can be lucrative. A major merger advisory engagement or a large equity underwriting can yield fees in the tens of millions of dollars.
+Third, it earns transaction fees and commissions. When clients buy and sell securities, when companies issue debt or equity, when a [merger](/merger/) is arranged or financed, UBS participates and collects a fee. These are episodic, not recurring, but they can be lucrative. A major merger advisory engagement or a large equity underwriting can yield fees in the tens of millions of dollars.
 
 ## Competition and positioning
 
-Wealth management is intensely competitive. UBS competes with other global banks like Deutsche Bank and Crédit Suisse (now acquired by UBS), with American giants like JP Morgan Chase and Bank of America, and with specialized wealth managers that focus on narrower niches or geographies.
+Wealth management is intensely competitive. UBS competes with other global banks like [Deutsche Bank](/deutsche-bank/) and Crédit Suisse (now acquired by UBS), with American giants like JP Morgan Chase and [Bank of America](/bank-of-america/), and with specialized wealth managers that focus on narrower niches or geographies.
 
 What UBS offers is scale, stability, and a global footprint. A wealthy individual choosing a bank to manage a hundred-million-dollar portfolio wants a bank that will be in business in twenty years, that understands global markets and regulations, and that has investment professionals distributed around the world. UBS meets all three criteria. Yet this strength is also a weakness: because UBS is so large and serves so many clients, it cannot always compete on personalization or specialized expertise.
 
@@ -55,23 +55,23 @@ That burden is real, but it also conveys a message to clients. UBS must meet rig
 
 ## Capital return and the investment case
 
-Like many mature financial institutions, UBS returns significant capital to shareholders through dividends and share buybacks. It generates enormous cash flow from its operations, and much of that is returned rather than reinvested. For investors seeking income or owning shares for the long term, this capital return is a meaningful part of total return.
+Like many mature financial institutions, UBS returns significant capital to shareholders through [dividends](/dividend/) and [share buybacks](/share-buyback/). It generates enormous cash flow from its operations, and much of that is returned rather than reinvested. For investors seeking income or owning shares for the long term, this capital return is a meaningful part of total return.
 
 The profitability depends on market conditions, the health of the wealth management business, and how much revenue the bank generates from investment banking and trading. In strong markets, when asset prices rise and clients feel prosperous, assets under management grow and fee income rises. In weak markets, assets shrink and clients reduce activity. The business is cyclical, tied to the economic cycle and to conditions in financial markets.
 
 ## Recent shocks and the Credit Suisse acquisition
 
-UBS faced major challenges during the 2008 financial crisis. The bank survived but required government assistance. In subsequent years, it weathered periods of low interest rates, regulatory pressures, and trading losses. The bank's reputation was damaged at times, and it had to rebuild trust and settle various regulatory matters.
+UBS faced major challenges during the 2008 financial crisis. The bank survived but required government assistance. In subsequent years, it weathered periods of low [interest rates](/interest-rate/), regulatory pressures, and trading losses. The bank's reputation was damaged at times, and it had to rebuild trust and settle various regulatory matters.
 
-In 2023, UBS acquired Credit Suisse in an emergency rescue arranged by the Swiss government and central bank. This was a massive acquisition that absorbed a distressed competitor and brought significant new assets and liabilities onto UBS's balance sheet. The integration of Credit Suisse into UBS is an enormous undertaking that will occupy management for years.
+In 2023, UBS acquired [Credit Suisse](/credit-suisse/) in an emergency rescue arranged by the Swiss government and [central bank](/central-bank/). This was a massive [acquisition](/acquisition/) that absorbed a distressed competitor and brought significant new assets and liabilities onto UBS's balance sheet. The integration of Credit Suisse into UBS is an enormous undertaking that will occupy management for years.
 
 ## How to research UBS as an investment
 
-The starting point is the company's annual report and financial statements, available on its website and filed with the SEC (CIK 0001114446). The key metrics are assets under management, net interest margin, operating expenses, and the cost-to-income ratio. A falling cost-to-income ratio indicates improving efficiency; a rising one suggests the bank is spending more relative to the revenue it generates.
+The starting point is the company's [annual report](/10-k/) and financial statements, available on its website and filed with the SEC (CIK 0001114446). The key metrics are assets under management, net interest margin, operating expenses, and the cost-to-income ratio. A falling cost-to-income ratio indicates improving efficiency; a rising one suggests the bank is spending more relative to the revenue it generates.
 
 Watch the flows of assets — whether clients are adding money to UBS or removing it. Persistent outflows are a warning sign; consistent inflows suggest clients trust the bank. Review the composition of assets under management by geography and by type of service, to understand where the bank's strength lies.
 
 Understand the regulatory environment. Changes to capital requirements, restrictions on trading, or pressure from tax authorities can materially affect profitability. Pay attention to litigation and regulatory settlements — UBS has faced numerous enforcement actions over the years.
 
-Finally, monitor the bank's credit rating and the outlook of rating agencies. UBS is systemically important to the global financial system, which means regulators will likely prevent its failure. But it is not immune to severe stress, and a deterioration in ratings or creditworthiness would be a warning sign.
+Finally, monitor the bank's [credit rating](/credit-rating/) and the outlook of rating agencies. UBS is systemically important to the global financial system, which means regulators will likely prevent its failure. But it is not immune to severe stress, and a deterioration in ratings or creditworthiness would be a warning sign.
 

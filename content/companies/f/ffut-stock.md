@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Fidelity Managed Futures ETF (FFUT) is an actively managed exchange-traded fund that pursues a systematic trend-following strategy across global futures markets. Unlike traditional stock and bond funds, managed futures invest in commodity, currency, and financial futures contracts. The strategy aims to profit from directional price trends in these markets, providing returns that tend to move independently of stocks and bonds. For investors building diversified portfolios, managed futures offer the appeal of a return stream that behaves differently from conventional equities, with potential to hold value or rise during stock-market downturns.
+The Fidelity Managed Futures ETF (FFUT) is an actively managed exchange-traded fund that pursues a systematic trend-following strategy across global futures markets. Unlike traditional stock and [bond](/bond/) funds, managed futures invest in commodity, currency, and financial [futures contracts](/futures-contract/). The strategy aims to profit from directional price trends in these markets, providing returns that tend to move independently of stocks and bonds. For investors building diversified portfolios, managed futures offer the appeal of a return stream that behaves differently from conventional equities, with potential to hold value or rise during stock-market downturns.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ The Fidelity Managed Futures ETF (FFUT) is an actively managed exchange-traded f
 
 ## How the trend-following strategy works
 
-Managed futures strategies are built on a simple algorithmic idea: identify when a market is moving in one direction and follow that trend until it breaks. When gold prices rise, a trend-following system buys gold futures. When crude oil falls, it sells oil futures. The system trades across dozens of markets: crude oil, natural gas, agricultural commodities, currencies, and equity indices.
+Managed futures strategies are built on a simple algorithmic idea: identify when a market is moving in one direction and follow that trend until it breaks. When gold prices rise, a trend-following system buys gold futures. When [crude oil](/crude-oil/) falls, it sells oil futures. The system trades across dozens of markets: crude oil, [natural gas](/natural-gas/), agricultural commodities, currencies, and equity indices.
 
 Fidelity's version uses quantitative models to assess trends across multiple time horizons. The fund holds a diversified portfolio of futures positions reflecting current trends globally. Crucially, the strategy is rule-based and mechanical rather than discretionary. This consistency is both a strength (no temptation to override the signal) and a weakness (the system can overstay a trade as a trend reverses).
 
@@ -34,13 +34,13 @@ Fidelity's version uses quantitative models to assess trends across multiple tim
 
 The core appeal of managed futures is that they have historically moved to a different drummer than traditional portfolios. When equity markets crash, trend-following strategies often rise because falling prices trigger short positions in the futures contracts the fund holds. This negative correlation with stocks means a portfolio can hold some exposure to managed futures without diluting overall upside much, while gaining a meaningful hedge during downturns.
 
-The diversification across commodity, currency, and equity index futures also separates the return driver from owning traditional assets. A managed-futures investor is exposed to trend momentum, filtered through a mechanical lens. The returns are uncorrelated enough that the two often move in opposite directions.
+The [diversification](/diversification/) across commodity, currency, and equity index futures also separates the return driver from owning traditional assets. A managed-futures investor is exposed to trend momentum, filtered through a mechanical lens. The returns are uncorrelated enough that the two often move in opposite directions.
 
 ## The structure and how it trades
 
-FFUT is a standard ETF structure — not leveraged, not inverse, and not an exchange-traded note. It holds an underlying portfolio of futures contracts and trades on the NASDAQ during normal market hours like any stock ETF. The fund rebalances frequently as trends change, turning over its positions regularly, which can generate taxable capital gains in taxable accounts.
+FFUT is a standard ETF structure — not leveraged, not inverse, and not an exchange-traded note. It holds an underlying portfolio of futures contracts and trades on the [NASDAQ](/nasdaq/) during normal market hours like any stock ETF. The fund rebalances frequently as trends change, turning over its positions regularly, which can generate taxable capital gains in taxable accounts.
 
-Fidelity manages the fund actively, employing portfolio managers and analysts to monitor the trend-following models and adjust the strategy as needed. This active management comes with an expense ratio above that of a passive index fund, typically in the range of 0.65% to 0.75% of assets per year. The fund trades with tight spreads on the NASDAQ. Liquidity in the fund itself is strong given Fidelity's scale and the product's popularity among diversification-minded advisors. Because the fund holds futures contracts, the underlying assets are marked to market in real time, and the fund's net asset value reflects those daily price changes like any other fund.
+Fidelity manages the fund actively, employing portfolio managers and analysts to monitor the trend-following models and adjust the strategy as needed. This active management comes with an [expense ratio](/expense-ratio/) above that of a passive [index fund](/index-fund/), typically in the range of 0.65% to 0.75% of assets per year. The fund trades with tight spreads on the NASDAQ. Liquidity in the fund itself is strong given Fidelity's scale and the product's popularity among diversification-minded advisors. Because the fund holds futures contracts, the underlying assets are marked to market in real time, and the fund's [net asset value](/net-asset-value/) reflects those daily price changes like any other fund.
 
 ## Risks and limitations
 

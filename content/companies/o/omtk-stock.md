@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Omnitek Engineering Corp. is a small, specialized manufacturer of engine conversion kits and natural gas engine components. The company converts existing diesel engines to run on compressed, liquefied, or renewable natural gas, and sells fully manufactured natural gas engines and complementary filtration systems. Based in San Marcos, California, and founded in 2001, Omnitek operates in the narrow but persistent niche where environmental regulation, fuel-price volatility, and fleet economics align to make alternative-fuel powertrains economically sensible.
+Omnitek Engineering Corp. is a small, specialized manufacturer of engine conversion kits and [natural gas](/natural-gas/) engine components. The company converts existing diesel engines to run on compressed, liquefied, or renewable natural gas, and sells fully manufactured natural gas engines and complementary filtration systems. Based in San Marcos, California, and founded in 2001, Omnitek operates in the narrow but persistent niche where environmental regulation, fuel-price volatility, and fleet economics align to make alternative-fuel powertrains economically sensible.
 
 <aside class="wiki-infobox">
 <table>

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-CDT Equity Inc., formerly known as Conduit Pharmaceuticals Inc. until August 2025, is a clinical-stage specialty biopharmaceutical company focused on developing therapeutic candidates to address unmet medical needs in autoimmune diseases and idiopathic male infertility. The company's warrants trade on Nasdaq under the ticker CDTTW, while its common stock trades as CDT. Like many development-stage companies, CDT's value proposition hinges not on current revenue but on the potential of its pipeline — specifically, whether its lead molecules can advance through clinical trials and ultimately reach patients.
+[CDT Equity](/cdt-stock/) Inc., formerly known as Conduit Pharmaceuticals Inc. until August 2025, is a clinical-stage specialty biopharmaceutical company focused on developing therapeutic candidates to address unmet medical needs in autoimmune diseases and idiopathic male infertility. The company's warrants trade on [Nasdaq](/nasdaq/) under the ticker CDTTW, while its [common stock](/common-stock/) trades as CDT. Like many development-stage companies, CDT's value proposition hinges not on current revenue but on the potential of its pipeline — specifically, whether its lead molecules can advance through clinical trials and ultimately reach patients.
 
 ## Building the company and the pipeline
 
@@ -31,7 +31,7 @@ AZD5904 followed a similar path, having completed Phase I testing in volunteers 
 
 ## The challenge of cash burn and dilution
 
-For any clinical-stage company, the critical constraint is cash. Conducting a Phase II trial typically costs tens of millions of dollars, requires recruiting and monitoring hundreds of patients over years, and offers no guarantee of success. A Phase III trial costs more. Regulatory approvals, manufacturing scale-up, and commercialization all demand further capital. Most biotech companies fund this progression through equity financings — selling new shares to investors — which dilutes the ownership of existing shareholders. The company's announcement of a 1-for-25 reverse stock split in March 2026 is a common move by development-stage companies: consolidating shares to boost the nominal share price (making it appear more respectable to retail investors) and reducing the share count, which can improve certain financial metrics that investors watch.
+For any clinical-stage company, the critical constraint is cash. Conducting a Phase II trial typically costs tens of millions of dollars, requires recruiting and monitoring hundreds of patients over years, and offers no guarantee of success. A Phase III trial costs more. Regulatory approvals, manufacturing scale-up, and commercialization all demand further capital. Most biotech companies fund this progression through [equity financings](/equity-financing/) — selling new shares to investors — which dilutes the ownership of existing shareholders. The company's announcement of a 1-for-25 [reverse stock split](/reverse-stock-split/) in March 2026 is a common move by development-stage companies: consolidating shares to boost the nominal share price (making it appear more respectable to retail investors) and reducing the share count, which can improve certain financial metrics that investors watch.
 
 Recent filings indicated projected losses of over $39 million for fiscal 2025, with losses climbing year-over-year. This is typical for clinical-stage companies spending aggressively on trials but unsurprising to anyone familiar with biotech economics. The real question is whether the company has enough capital runway to advance its pipeline far enough to attract partnerships, secure additional funding, or demonstrate sufficient clinical progress to justify continued investment.
 
@@ -39,9 +39,9 @@ Recent filings indicated projected losses of over $39 million for fiscal 2025, w
 
 The two therapeutic areas CDT pursues are quite distinct. Autoimmune disease is a crowded field with many competitors pursuing similar targets; the advantage CDT would need to establish is either superior efficacy, fewer side effects, or a broader disease applicability than existing drugs. The male infertility indication is smaller but potentially less competitive, given the limited approved options and the stigma that sometimes surrounds fertility discussion in healthcare.
 
-The warrant structure — the CDTTW ticker — reflects the capital structure of many biotech companies. Investors who bought the original unit offering received shares plus warrants, which are call options allowing the holder to buy additional shares at a fixed price. Warrants can trade separately, and they amplify both gains and losses relative to the common stock, making them riskier instruments for retail investors.
+The warrant structure — the CDTTW ticker — reflects the capital structure of many biotech companies. Investors who bought the original unit offering received shares plus warrants, which are [call options](/call-option/) allowing the holder to buy additional shares at a fixed price. Warrants can trade separately, and they amplify both gains and losses relative to the common stock, making them riskier instruments for retail investors.
 
-The company's survival and ultimate success depend entirely on clinical and regulatory outcomes outside its direct control. A failed trial for either molecule would substantially reduce the company's value, while Phase II or Phase III success would open paths to partnerships or acquisitions. Until clinical results emerge, the investment case is speculative.
+The company's survival and ultimate success depend entirely on clinical and regulatory outcomes outside its direct control. A failed trial for either molecule would substantially reduce the company's value, while Phase II or Phase III success would open paths to partnerships or [acquisitions](/acquisition/). Until clinical results emerge, the investment case is speculative.
 
 ## Understanding CDT as an investor
 

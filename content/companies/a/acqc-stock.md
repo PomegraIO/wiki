@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Relativity Acquisition Corp is a special purpose acquisition company — a shell vehicle capitalized with public funds and designed to merge with a private operating business. The company trades over-the-counter under ticker ACQC, signaling it is a SPAC still in search of a target. Like all blank-check companies, Relativity exists in a transitional state: it holds investor capital in trust and operates under a deadline to consummate a merger or return the money.
+Relativity [Acquisition](/acquisition/) Corp is a special purpose acquisition company — a shell vehicle capitalized with public funds and designed to merge with a private operating business. The company trades over-the-counter under ticker ACQC, signaling it is a SPAC still in search of a target. Like all blank-check companies, Relativity exists in a transitional state: it holds investor capital in trust and operates under a deadline to consummate a [merger](/merger/) or return the money.
 
 <aside class="wiki-infobox">
 <table>
@@ -31,13 +31,13 @@ All capital from public investors goes into a trust account, with a few exceptio
 
 ## How the merger process shapes incentives
 
-When Relativity's sponsors identify a target, the negotiation centers on valuation and deal terms. The sponsors propose the merger to public shareholders, who vote yes or no. Here emerges a critical mechanic: redemption rights. Public shareholders who are unconvinced by the target can redeem their shares for their pro-rata share of the trust account, walking away from the investment cost-free. This right theoretically protects investors, but it creates tension for sponsors, who must complete a merger to earn their promote shares. If too many shareholders redeem, the trust shrinks, and the merged company inherits less cash — making the deal less appealing to the target or to the combined company's future.
+When Relativity's sponsors identify a target, the negotiation centers on valuation and deal terms. The sponsors propose the merger to public shareholders, who vote yes or no. Here emerges a critical mechanic: [redemption rights](/redemption-rights-equity/). Public shareholders who are unconvinced by the target can redeem their shares for their pro-rata share of the trust account, walking away from the investment cost-free. This right theoretically protects investors, but it creates tension for sponsors, who must complete a merger to earn their promote shares. If too many shareholders redeem, the trust shrinks, and the merged company inherits less cash — making the deal less appealing to the target or to the combined company's future.
 
 This conflict has been a defining feature of SPAC dysfunction. Sponsors incentivized to close any deal, public shareholders incentivized to redeem if the deal is merely mediocre, and target companies aware that they are negotiating with a party that may be desperate to complete — all three forces have contributed to many SPAC mergers being priced poorly for public shareholders.
 
 ## Relativity in the crowded SPAC market
 
-Relativity competes not only against other SPACs seeking the same targets but also against traditional acquisition vehicles — private equity funds with lengthy operating histories, strategic acquirers within the target sector, and the IPO market itself. Each of these paths offers a target company different tradeoffs.
+Relativity competes not only against other SPACs seeking the same targets but also against traditional acquisition vehicles — [private equity funds](/private-equity-fund/) with lengthy operating histories, strategic acquirers within the target sector, and the IPO market itself. Each of these paths offers a target company different tradeoffs.
 
 A private equity acquisition provides deep operational expertise and an established playbook for managing portfolio companies, but it keeps the company private. A strategic acquirer can offer immediate integration with complementary products and distribution channels, but it may mean loss of independence or founder control. A traditional IPO remains the default path for established companies with revenues, but it requires a longer preparation and roadshow. A SPAC merger, by contrast, offers speed — the entire process can close in months — and immediate public listing, but it carries reputational baggage from the wider SPAC market's collapse.
 

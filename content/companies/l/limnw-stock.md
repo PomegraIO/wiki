@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Liminatus Pharma is a development-stage biotechnology company founded in 2018 and based in California. The company went public through a SPAC merger in May 2025 under the tickers LIMN (common shares) and LIMNW (warrants), trading on Nasdaq. Liminatus is pursuing a single, well-defined therapeutic path: a monoclonal antibody called IBA101 that blocks CD47, a protein that acts as a "don't-eat-me" signal allowing cancer cells to hide from the immune system.
+[Liminatus Pharma](/limn-stock/) is a development-stage biotechnology company founded in 2018 and based in California. The company went public through a SPAC [merger](/merger/) in May 2025 under the tickers LIMN (common shares) and LIMNW (warrants), trading on [Nasdaq](/nasdaq/). Liminatus is pursuing a single, well-defined therapeutic path: a monoclonal antibody called IBA101 that blocks CD47, a protein that acts as a "don't-eat-me" signal allowing cancer cells to hide from the immune system.
 
 ## What Liminatus actually does
 
@@ -29,7 +29,7 @@ Liminatus is betting that IBA101 is different — better engineered, better posi
 
 The company raised $230 million in its 2025 IPO (SPAC merger pricing included cash from the sponsor and the SPAC's trust account). Biotech burn rates for clinical-stage companies are typically $20–$40 million per year, sometimes more when multiple trials run in parallel. IBA101's Phase 1 program is described as "seamless," meaning monotherapy dose escalation followed by combination cohorts within the same protocol—cheaper and faster than running separate trials, but still a multi-year endeavor.
 
-At a $8.4 million market capitalization (as of June 2026), the public-market valuation of Liminatus's common shares has collapsed from IPO levels. The warrant (LIMNW) carries even greater leverage, moving on sentiment and binary clinical outcomes. For warrant holders, the stakes are existential: a Phase 2 trial that shows insufficient efficacy or unmanageable toxicity would crater the value to near-zero within weeks. A positive Phase 1 readout would do the opposite.
+At a $8.4 million [market capitalization](/market-capitalization/) (as of June 2026), the public-market valuation of Liminatus's common shares has collapsed from IPO levels. The warrant (LIMNW) carries even greater leverage, moving on sentiment and binary clinical outcomes. For warrant holders, the stakes are existential: a Phase 2 trial that shows insufficient efficacy or unmanageable toxicity would crater the value to near-zero within weeks. A positive Phase 1 readout would do the opposite.
 
 ## Where the real risk lives
 
@@ -50,6 +50,6 @@ Anyone tracking Liminatus should watch:
 - Cash burn rate and when management signals the need for a follow-on financing
 - Competitive announcements from larger biotech programs in CD47 or related checkpoints
 
-The company files quarterly reports on Form 10-Q and annual reports on Form 10-K with the SEC (CIK 0001971387). These documents lay out the scientific rationale, the trial protocol, and management's risk factors. For warrant investors, the 10-K risk section is especially important: it candidly describes how clinical failure or capital constraints could render the shares worthless.
+The company files quarterly reports on Form 10-Q and [annual reports](/10-k/) on Form 10-K with the SEC (CIK 0001971387). These documents lay out the scientific rationale, the trial protocol, and management's risk factors. For warrant investors, the 10-K risk section is especially important: it candidly describes how clinical failure or capital constraints could render the shares worthless.
 
 Liminatus is a binary bet. Either IBA101 shows sufficient promise in Phase 1 and 2 to justify further development and eventually gain approval, or it does not. That binary outcome is not yet knowable, which is why the warrant trades on the assumption of future catalysts rather than current business substance.

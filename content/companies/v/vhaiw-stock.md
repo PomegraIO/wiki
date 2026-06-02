@@ -33,7 +33,7 @@ Vocodia is not the first company to promise to automate customer service calls. 
 
 Another obstacle is that contact centers are highly regulated in some industries. Financial services, healthcare, and insurance firms have strict requirements about call recording, data retention, and agent training. Those rules were written for human agents; applying them to an AI system creates legal and compliance questions that are still unsettled. A financial-services firm cannot simply deploy an AI to handle account inquiries without understanding what liability it creates.
 
-A third pressure is customer acquisition and implementation. Vocodia's product works well in the demo, but integrating it into a live contact center requires custom engineering. The implementation cycle is long, the setup is involved, and customers want proof that the AI will actually reduce their labor costs before they commit. That sales and implementation burden limits how quickly Vocodia can grow.
+A third pressure is customer [acquisition](/acquisition/) and implementation. Vocodia's product works well in the demo, but integrating it into a live contact center requires custom engineering. The implementation cycle is long, the setup is involved, and customers want proof that the AI will actually reduce their labor costs before they commit. That sales and implementation burden limits how quickly Vocodia can grow.
 
 ## Scale and positioning
 

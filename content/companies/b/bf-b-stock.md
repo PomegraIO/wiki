@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Brown Forman is one of the world's largest spirits companies, a family business founded in Louisville, Kentucky in 1870 that has grown into a global enterprise producing and distributing whiskeys, tequilas, liqueurs, and vodkas across more than 170 countries. The company is controlled by the Brown family, which retains a majority stake and board seats. It is a capital-light business with powerful brands that command premium prices and generate strong cash flow.
+[Brown Forman](/bf-a-stock/) is one of the world's largest spirits companies, a family business founded in Louisville, Kentucky in 1870 that has grown into a global enterprise producing and distributing whiskeys, tequilas, liqueurs, and vodkas across more than 170 countries. The company is controlled by the Brown family, which retains a majority stake and board seats. It is a capital-light business with powerful brands that command premium prices and generate strong cash flow.
 
 ## From Louisville pharmacy to global distiller: the first century
 
@@ -19,7 +19,7 @@ George Garvin Brown founded the company in 1870 as a whiskey distillery in Louis
 
 The company survived Prohibition (1920-1933), when alcohol sales were illegal in the United States. Many distilleries closed or failed; Brown Forman persisted by producing medicinal whiskey (which was legally permitted under certain conditions) and whiskey for industrial use. This survival gave the company an enormous advantage when Prohibition ended: while competitors had to rebuild from nothing, Brown Forman already had inventory, distribution, and customer relationships.
 
-The mid-twentieth century saw the company expand geographically and through acquisition. Brown Forman bought other bourbon brands and eventually acquired Southern Comfort (a whiskey liqueur) and Jack Daniel's, the Tennessee whiskey that would become one of the most valuable spirits brands in the world. The company also expanded internationally, building distribution networks in Europe and other markets.
+The mid-twentieth century saw the company expand geographically and through [acquisition](/acquisition/). Brown Forman bought other bourbon brands and eventually acquired Southern Comfort (a whiskey liqueur) and Jack Daniel's, the Tennessee whiskey that would become one of the most valuable spirits brands in the world. The company also expanded internationally, building distribution networks in Europe and other markets.
 
 ## The modern era: Jack Daniel's and the premium shift
 
@@ -51,11 +51,11 @@ Regulatory environment varies by country. Some countries have strict rules on al
 
 Brown Forman generates strong operating cash flow from sales. The cost structure is favorable — once a brand is established, incremental marketing and distribution costs are manageable relative to revenue growth. The company also benefits from pricing power: when input costs rise, the company can often pass through price increases to consumers because the brand equity allows it.
 
-Capital expenditure is modest. The company maintains some production facilities and invests in supply-chain infrastructure, but the asset-light model means capex is lower than in capital-intensive manufacturing. Most of the free cash flow goes to shareholders or reinvestment.
+Capital expenditure is modest. The company maintains some production facilities and invests in supply-chain infrastructure, but the asset-light model means capex is lower than in capital-intensive manufacturing. Most of the [free cash flow](/free-cash-flow/) goes to shareholders or reinvestment.
 
-The company pays a substantial dividend that has grown consistently over decades. The dividend yield is moderate but the growth rate has been significant, which is attractive to income investors. The company also executes share buybacks, which reduce the share count and support earnings per share growth.
+The company pays a substantial [dividend](/dividend/) that has grown consistently over decades. The [dividend yield](/dividend-yield/) is moderate but the growth rate has been significant, which is attractive to income investors. The company also executes [share buybacks](/share-buyback/), which reduce the share count and support [earnings per share](/earnings-per-share/) growth.
 
-Debt is used strategically to fund acquisitions or to optimize the capital structure, but the company maintains a strong balance sheet with investment-grade credit ratings.
+Debt is used strategically to fund acquisitions or to optimize the capital structure, but the company maintains a strong [balance sheet](/balance-sheet/) with investment-grade [credit ratings](/credit-rating/).
 
 ## Competitive position and brand value
 
@@ -75,6 +75,6 @@ The stock has historically delivered returns through a combination of dividend y
 
 ## How to research Brown Forman
 
-Start with the annual report, which breaks revenue by brand, by geography, and by channel (on-premise like bars, off-premise like liquor stores). Track volume and pricing separately — volume growth shows whether people are buying more, while pricing growth shows whether the brand is commanding higher prices. Monitor operating margins and free cash flow; for Brown Forman these are both important to understanding the health of the business.
+Start with the [annual report](/10-k/), which breaks revenue by brand, by geography, and by channel (on-premise like bars, off-premise like liquor stores). Track volume and pricing separately — volume growth shows whether people are buying more, while pricing growth shows whether the brand is commanding higher prices. Monitor [operating margins](/operating-margin/) and free cash flow; for Brown Forman these are both important to understanding the health of the business.
 
-Key metrics to follow are net sales growth by region (developed markets like the United States and Australia versus emerging markets like India and Brazil), the growth of the premium and ultra-premium segments where margins are highest, and the trend in Jack Daniel's and Patrón specifically. Watch the dividend and the payout ratio to understand capital allocation. And monitor regulatory changes in key markets — new taxes on alcohol, stricter advertising rules, or changes to import duties can all affect results. Because the company is exposed to consumer preferences and macro economic conditions in developing countries, understanding economic cycles and consumer sentiment in those markets provides useful context for investors.
+Key metrics to follow are net sales growth by region (developed markets like the United States and Australia versus emerging markets like India and Brazil), the growth of the premium and ultra-premium segments where margins are highest, and the trend in Jack Daniel's and Patrón specifically. Watch the dividend and the [payout ratio](/payout-ratio/) to understand capital allocation. And monitor regulatory changes in key markets — new taxes on alcohol, stricter advertising rules, or changes to import duties can all affect results. Because the company is exposed to consumer preferences and macro economic conditions in developing countries, understanding economic cycles and consumer sentiment in those markets provides useful context for investors.

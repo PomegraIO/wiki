@@ -12,7 +12,7 @@ handwritten: true
 
 > "The problem is not making electricity; the problem is making electricity when the sun is not shining and the wind is not blowing."
 
-ESS Tech manufactures long-duration energy storage systems based on iron-flow battery technology. The company operates in the grid-scale and industrial battery market, a sector driven by the need to store renewable energy and provide grid stability as power grids transition away from coal and natural gas.
+[ESS Tech](/gwh-stock/) manufactures long-duration energy storage systems based on iron-flow battery technology. The company operates in the grid-scale and industrial battery market, a sector driven by the need to store renewable energy and provide grid stability as power grids transition away from coal and [natural gas](/natural-gas/).
 
 <aside class="wiki-infobox">
 <table>
@@ -41,7 +41,7 @@ Iron is cheap, non-toxic, abundant, and does not raise geopolitical concerns lik
 
 ## Market opportunity and competition
 
-The addressable market for long-duration storage is large and growing. Utilities and grid operators are beginning to plan and procure storage systems to manage renewable penetration. In the United States, the Inflation Reduction Act provided tax credits and investment incentives for energy storage, accelerating deployment. However, the market is still early: deployment of 4+ hour storage systems is in the hundreds of megawatts globally, not yet the gigawatts needed to handle deep renewable penetration.
+The addressable market for long-duration storage is large and growing. Utilities and grid operators are beginning to plan and procure storage systems to manage renewable penetration. In the United States, the [Inflation](/inflation/) Reduction Act provided tax credits and investment incentives for energy storage, accelerating deployment. However, the market is still early: deployment of 4+ hour storage systems is in the hundreds of megawatts globally, not yet the gigawatts needed to handle deep renewable penetration.
 
 ESS Tech competes against other flow-battery makers (Rongke in China, Vionx, and others), against lithium-ion suppliers extending their discharge capability through software and hybrid systems, and against alternative long-duration technologies (gravity storage, compressed air, thermal storage, hydrogen). The competitive field is crowded and capital-intensive; many entrants will not survive to profitability.
 
@@ -55,7 +55,7 @@ Revenue is non-recurring and lumpy: each deployment is a one-time sale, and ther
 
 ESS Tech faces multiple risks. First is technical: iron-flow batteries are proven in laboratory and pilot scale but have limited real-world operational history. A systematic failure or degradation issue discovered at scale could be catastrophic for the company. Second is competitive: lithium-ion prices are falling faster than many analysts expected, and advances in battery management software may extend lithium-ion discharge times more than flow-battery advocates anticipated. If long-duration storage can be met with cheaper, simpler lithium-ion systems, demand for flow batteries may never materialise.
 
-Third is capital: manufacturing scale-up is expensive. ESS Tech must build or expand manufacturing capacity to meet growing demand (if demand materialises), and the company must remain solvent through the lengthy deployment cycle. Venture investors have funded flow-battery startups, but venture capital has limits; if the company cannot reach cash-flow breakeven or secure profitable growth before capital dries up, it will face refinancing pressure or forced mergers.
+Third is capital: manufacturing scale-up is expensive. ESS Tech must build or expand manufacturing capacity to meet growing demand (if demand materialises), and the company must remain solvent through the lengthy deployment cycle. Venture investors have funded flow-battery startups, but venture capital has limits; if the company cannot reach cash-flow breakeven or secure profitable growth before capital dries up, it will face refinancing pressure or forced [mergers](/merger/).
 
 Fourth is market adoption: utilities and grid operators make capital decisions conservatively, based on proven technologies and suppliers with track records. A new battery technology must overcome that inertia and prove superior value — not just on the basis of cycle cost but on reliability, warranty support, and integration with grid software and operations.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Amplify Cash Flow Dividend Leaders ETF** (COWS) is an exchange-traded fund that invests in large-cap US companies selected for their capacity to generate substantial free cash flow and maintain reliable dividend payments. It combines equity market exposure with a tilt toward current income rather than pure growth.*
+*The **Amplify Cash Flow [Dividend](/dividend/) Leaders ETF** (COWS) is an exchange-traded fund that invests in large-cap US companies selected for their capacity to generate substantial [free cash flow](/free-cash-flow/) and maintain reliable dividend payments. It combines equity market exposure with a tilt toward current income rather than pure growth.*
 
 <aside class="wiki-infobox">
 <table>
@@ -40,14 +40,14 @@ Beyond the periodic payments, dividend-paying stocks historically have provided 
 
 ## Risks and practical limits
 
-Dividend strategies carry specific vulnerabilities. Interest-rate movements reshape their appeal significantly: when bond yields climb, dividend stocks lose their relative attraction compared to fixed income, and the fund's price can fall even as the underlying companies remain profitable. In strong growth environments, dividend stocks historically lag momentum-driven technology and other high-growth sectors.
+Dividend strategies carry specific vulnerabilities. Interest-rate movements reshape their appeal significantly: when [bond](/bond/) yields climb, dividend stocks lose their relative attraction compared to fixed income, and the fund's price can fall even as the underlying companies remain profitable. In strong growth environments, dividend stocks historically lag momentum-driven technology and other high-growth sectors.
 
-The fund concentrates in sectors that are economically sensitive — financials, energy, industrials — so dividend cuts become more likely in recessions despite the screening. Investors face the risk that careful selection cannot prevent deterioration in business fundamentals. A company may have sustained a dividend for years and then cut it sharply; the fund's screening can reduce but not eliminate that risk.
+The fund concentrates in sectors that are economically sensitive — financials, energy, industrials — so dividend cuts become more likely in [recessions](/recession/) despite the screening. Investors face the risk that careful selection cannot prevent deterioration in business fundamentals. A company may have sustained a dividend for years and then cut it sharply; the fund's screening can reduce but not eliminate that risk.
 
-Additionally, companies that prioritize dividends above reinvestment may underinvest in innovation or modernization, leaving them vulnerable to disruption. The fund carries standard equity market risk: a sharp decline in stock prices cannot be cushioned by the dividend stream, and holders can experience significant losses.
+Additionally, companies that prioritize dividends above reinvestment may underinvest in innovation or modernization, leaving them vulnerable to disruption. The fund carries standard equity [market risk](/market-risk/): a sharp decline in stock prices cannot be cushioned by the dividend stream, and holders can experience significant losses.
 
 ## How to research it
 
-Investors should examine the fund's prospectus, which outlines the exact screening criteria and current holdings. The Amplify website and fact sheet break down the selection methodology and track the fund's yield relative to broad indices like the S&P 500. Studying the top ten holdings reveals whether concentration risk is material; examining the sectors shows how much exposure the fund carries to economically sensitive areas.
+Investors should examine the fund's prospectus, which outlines the exact screening criteria and current holdings. The Amplify website and fact sheet break down the selection methodology and track the fund's yield relative to broad indices like the S&P 500. Studying the top ten holdings reveals whether [concentration risk](/concentration-risk/) is material; examining the sectors shows how much exposure the fund carries to economically sensitive areas.
 
-Compare the fund's trailing yield and total return over one, three, and five-year periods against a broad dividend index and the overall stock market to understand what has been gained and lost. Review the distribution history to see both the consistency of quarterly payments and any cuts during downturns. Check whether the largest holdings have sustained or cut their dividends through recent recessions — that history is a better guide to future behaviour than prospectus language. COWS trades on an exchange at prices set by the market; this describes the fund's structure and approach, not a recommendation to buy or sell.
+Compare the fund's trailing yield and total return over one, three, and five-year periods against a broad dividend index and the overall [stock market](/stock-market/) to understand what has been gained and lost. Review the distribution history to see both the consistency of quarterly payments and any cuts during downturns. Check whether the largest holdings have sustained or cut their dividends through recent recessions — that history is a better guide to future behaviour than prospectus language. COWS trades on an exchange at prices set by the market; this describes the fund's structure and approach, not a recommendation to buy or sell.

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-YHN Acquisition I Limited is a blank check company (a SPAC) from the British Virgin Islands. It went public in 2024 and raised $60 million. The company agreed to merge with a Chinese technology company called Mingde Technology Limited. YHNAR is the ticker for the rights component of YHN's structure — a fractional share that every unit buyer received.
+[YHN Acquisition I](/yhna-stock/) Limited is a blank check company (a SPAC) from the British Virgin Islands. It went public in 2024 and raised $60 million. The company agreed to merge with a Chinese technology company called Mingde Technology Limited. YHNAR is the ticker for the rights component of YHN's structure — a fractional share that every unit buyer received.
 
 Here's what you need to know in plain terms.
 
@@ -18,7 +18,7 @@ Here's what you need to know in plain terms.
 
 YHN has no real business. It exists purely to buy another company and take it public. When you buy a unit of YHN (ticker YHNAU), you get one ordinary share (which lets you vote) and one right (which gives you a fractional claim on the merged company after the deal closes). Once the shares and rights start trading separately, the shares trade as YHNA and the rights as YHNAR.
 
-YHN raised $60 million from investors at $10 per unit. That money sits in a trust account. The company cannot spend this money until it completes a merger with another company. If the merger falls through or the deadline passes, the investors get their money back.
+YHN raised $60 million from investors at $10 per unit. That money sits in a trust account. The company cannot spend this money until it completes a [merger](/merger/) with another company. If the merger falls through or the deadline passes, the investors get their money back.
 
 ## The Mingde deal
 

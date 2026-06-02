@@ -26,7 +26,7 @@ Another constraint: many of the companies in the index are mature, profitable, a
 
 ## Structure, costs, and who holds it
 
-AGNG is a straightforward ETF issued by Global X Funds, a subsidiary of Mirae Asset Global Investments. It trades on the NASDAQ under the symbol AGNG with reasonable liquidity. The expense ratio is in the range typical for thematic or sector-focused ETFs — modest but not as low as a broad index fund. Like all ETFs, it can be bought and sold during regular market hours at the closing net asset value plus any bid-ask spread, and it handles dividends from its holdings through quarterly distributions.
+AGNG is a straightforward ETF issued by Global X Funds, a subsidiary of Mirae Asset Global Investments. It trades on the [NASDAQ](/nasdaq/) under the symbol AGNG with reasonable liquidity. The [expense ratio](/expense-ratio/) is in the range typical for thematic or sector-focused ETFs — modest but not as low as a broad [index fund](/index-fund/). Like all ETFs, it can be bought and sold during regular market hours at the closing [net asset value](/net-asset-value/) plus any [bid-ask spread](/bid-ask-spread/), and it handles [dividends](/dividend/) from its holdings through quarterly distributions.
 
 The fund's investor base tends to be a mix of advisors using it as a thematic satellite position in otherwise broadly diversified portfolios and individual investors making an explicit bet on the ageing demographic wave. It is not so large that it will suddenly vanish due to low assets, but it is also not among Global X's flagship products, so its size and trading volume should be checked before a large position is taken.
 

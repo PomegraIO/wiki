@@ -67,7 +67,7 @@ A portion of the company's own balance-sheet capital is invested in its own fund
 
 ## Competition and moat
 
-The asset-management industry is competitive and increasingly commodified. New entrants can launch funds and hire talented portfolio managers. Existing managers constantly compete for client dollars on the basis of past performance, fees, and service. T. Rowe Price's main competitive advantages are its research capability, its brand reputation, and its track record in certain strategies. These are real but eroding: brand matters less in a world of low-cost indexing, and research is expensive relative to simply buying the market.
+The asset-management industry is competitive and increasingly commodified. New entrants can launch funds and hire talented portfolio managers. Existing managers constantly compete for client dollars on the basis of past [performance, fees](/performance-fee/), and service. T. Rowe Price's main competitive advantages are its research capability, its brand reputation, and its track record in certain strategies. These are real but eroding: brand matters less in a world of low-cost indexing, and research is expensive relative to simply buying the market.
 
 The clearest threat is the structural shift toward passive investing. As more investors accept that outperformance is hard to achieve and expensive to pursue, they migrate to low-cost [index funds](/index-fund/) and exchange-traded funds. This trend has compressed fees across the industry and has particularly hurt managers of large US equity funds, where passive competition is fiercest. T. Rowe Price has adapted by expanding into alternatives, international markets, and retirement solutions, where active management still has a case.
 

@@ -19,7 +19,7 @@ keywords: ["community bank", "retail banking", "deposits", "lending", "local mar
 
 A bank's core upstream resource is customer deposits. Individuals and small businesses in Mercer Bancorp's service territory maintain checking and savings accounts with the bank, earning [interest rates](/interest-rate/) set by the bank (often near zero in savings accounts, higher on certificates of deposit or money market accounts). These deposits are contractually withdrawable on demand or with minimal notice, making them a volatile, demand-responsive form of financing.
 
-Mercer's ability to gather deposits depends on local brand recognition, competitive interest rates, customer convenience (branch locations, ATM networks), and trust. A community bank with deep roots in its market — long operating history, local ownership perception, and relationships with local businesses and families — can attract deposits more readily than a distant [national bank](/nbhc-stock/) or a digital competitor. The interest rates paid on deposits are a cost; the volume and stability of deposits determine how much low-cost capital the bank has available to deploy.
+Mercer's ability to gather deposits depends on local brand recognition, competitive interest rates, customer convenience (branch locations, ATM networks), and trust. A community bank with deep roots in its market — long operating history, local ownership perception, and relationships with local businesses and families — can attract deposits more readily than a distant national bank or a digital competitor. The interest rates paid on deposits are a cost; the volume and stability of deposits determine how much low-cost capital the bank has available to deploy.
 
 ## Loan Origination: Converting Deposits to Earning Assets
 

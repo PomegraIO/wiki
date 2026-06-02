@@ -47,7 +47,7 @@ The regulatory framework also limits Mentor's ability to recycle capital quickly
 
 ## Competitive and Market Dynamics
 
-Mentor operates in an intensely competitive landscape. Larger [financial institutions](/fisi-stock/) (Apollo, Blackstone, Ares) offer mezzanine capital; traditional banks and credit funds compete on pricing and structure; and smaller regional BDCs offer alternatives. Mentor's competitive positioning rests on (1) its reputation and track record in originating quality deals, (2) its ability to move quickly and with flexibility versus large institutional competitors, and (3) its access to deal flow from sponsors who trust the team and understand its investing philosophy.
+Mentor operates in an intensely competitive landscape. Larger financial institutions (Apollo, Blackstone, Ares) offer mezzanine capital; traditional banks and credit funds compete on pricing and structure; and smaller regional BDCs offer alternatives. Mentor's competitive positioning rests on (1) its reputation and track record in originating quality deals, (2) its ability to move quickly and with flexibility versus large institutional competitors, and (3) its access to deal flow from sponsors who trust the team and understand its investing philosophy.
 
 In rising-rate environments, where cost of capital increases, deal economics tighten and Mentor's returns can be pressured; in falling-rate environments or periods of abundant capital, Mentor may see deal competition increase and pricing power erode. The company's operational agility and investment acumen drive returns in most market conditions, but structural shifts in capital availability or private equity activity cascade directly into Mentor's investment pace and profitability.
 

@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-*AGRH is an exchange-traded bond fund issued by iShares that holds most of the Bloomberg U.S. Aggregate Bond Index but uses interest-rate derivatives to blunt the fund's sensitivity to rising and falling rates — providing broad diversified bond exposure for investors who want income with reduced duration risk.*
+*AGRH is an exchange-traded [bond](/bond/) fund issued by iShares that holds most of the Bloomberg U.S. Aggregate Bond Index but uses interest-rate derivatives to blunt the fund's sensitivity to rising and falling rates — providing broad diversified bond exposure for investors who want income with reduced duration risk.*
 
 ## What does AGRH actually hold?
 
-The fund owns U.S. bonds across the full spectrum the Aggregate index covers: Treasury securities, investment-grade corporate bonds, mortgage-backed securities, and asset-backed securities. Rather than hold them with full duration exposure — meaning the fund's price would move sharply whenever interest rates shift — AGRH layers on a hedging overlay that reduces that sensitivity.
+The fund owns U.S. bonds across the full spectrum the Aggregate index covers: Treasury securities, investment-grade [corporate bonds](/corporate-bond/), mortgage-backed securities, and asset-backed securities. Rather than hold them with full duration exposure — meaning the fund's price would move sharply whenever [interest rates](/interest-rate/) shift — AGRH layers on a hedging overlay that reduces that sensitivity.
 
-The mechanics involve interest-rate derivatives, primarily swaps and Treasury futures, that create a net short position in interest rates. If you imagine holding a traditional Aggregate bond ETF as being "long" interest-rate risk (meaning you profit when rates fall but lose when rates rise), AGRH's hedge partially offsets that bet, creating a position that moves much less when Treasury yields move.
+The mechanics involve interest-rate derivatives, primarily swaps and Treasury futures, that create a net short position in interest rates. If you imagine holding a traditional Aggregate [bond ETF](/bond-etf/) as being "long" [interest-rate risk](/interest-rate-risk/) (meaning you profit when rates fall but lose when rates rise), AGRH's hedge partially offsets that bet, creating a position that moves much less when Treasury yields move.
 
 ## How does the hedge work in practice?
 
@@ -35,9 +35,9 @@ For investors who expect a sustained decline in interest rates, or who are comfo
 
 ## The cost and practical considerations
 
-AGRH's expense ratio is materially higher than a passive, unhedged Aggregate ETF like AGG or BND, reflecting both the complexity of maintaining the hedge and the active management required. The spread between the fund's price and its underlying net asset value is generally tight for a product with this complexity, and daily volume on the NYSE ARCA is adequate for most institutional traders.
+AGRH's [expense ratio](/expense-ratio/) is materially higher than a passive, unhedged Aggregate ETF like AGG or BND, reflecting both the complexity of maintaining the hedge and the active management required. The spread between the fund's price and its underlying [net asset value](/net-asset-value/) is generally tight for a product with this complexity, and daily volume on the NYSE ARCA is adequate for most institutional traders.
 
-The fund distributes income from coupon payments on the underlying bonds, making it income-producing. Its total return combines the income from the bond portfolio with the price appreciation or depreciation of the fund's share price, which reflects both the underlying bonds and the effectiveness of the hedge.
+The fund distributes income from [coupon payments](/coupon-payment/) on the underlying bonds, making it income-producing. Its total return combines the income from the bond portfolio with the price appreciation or [depreciation](/depreciation/) of the fund's share price, which reflects both the underlying bonds and the effectiveness of the hedge.
 
 ## How to research and evaluate AGRH
 

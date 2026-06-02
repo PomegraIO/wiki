@@ -13,7 +13,7 @@ handwritten: true
 
 > A warrant is a public company's promise to sell you more shares at a locked-in price if you choose to exercise it — and the SPAC structure makes that promise worth watching.
 
-Renatus Tactical Acquisition Corp I is a blank-check company whose RTACW ticker refers to the warrant units issued as part of its initial public offering. When a blank-check company launches, it typically sells units bundled with warrants attached: a buyer invests cash to own both a share of the shell company and the right to purchase additional shares later at a fixed price, usually well above the initial offering price. The warrant only becomes valuable if the blank-check company completes a merger, the combined entity's share price rises above the warrant strike price, and investors choose to exercise them.
+Renatus Tactical [Acquisition](/acquisition/) Corp I is a blank-check company whose RTACW ticker refers to the warrant units issued as part of its [initial public offering](/initial-public-offering/). When a blank-check company launches, it typically sells units bundled with warrants attached: a buyer invests cash to own both a share of the shell company and the right to purchase additional shares later at a fixed price, usually well above the initial offering price. The warrant only becomes valuable if the blank-check company completes a [merger](/merger/), the combined entity's share price rises above the warrant [strike price](/strike-price/), and investors choose to exercise them.
 
 <aside class="wiki-infobox">
 <table>
@@ -31,7 +31,7 @@ Renatus Tactical Acquisition Corp I is a blank-check company whose RTACW ticker 
 
 The warrant is a sweetener for early investors. A blank-check company's initial public offering typically prices common shares at $10 and attaches a warrant to buy one additional share at a $11.50 strike price (numbers vary by deal). This gives investors leverage: if the merger succeeds and the combined company's stock price climbs to $15 or $20, the warrant holder can exercise it to capture the gap between the strike price and the market price. If the merger fails or the stock price falls below the strike, the warrant expires worthless.
 
-For the sponsor and management of the blank-check company, warrants are also a source of dilution. Every warrant exercised increases the share count, lowering earnings per share and diluting existing shareholders. This is one reason investors scrutinize warrant terms closely — a high strike price and a short exercise window limit the damage, while a low strike price and extended terms can materially reduce the value of common shares.
+For the sponsor and management of the blank-check company, warrants are also a source of dilution. Every warrant exercised increases the share count, lowering [earnings per share](/earnings-per-share/) and diluting existing shareholders. This is one reason investors scrutinize warrant terms closely — a high strike price and a short exercise window limit the damage, while a low strike price and extended terms can materially reduce the value of common shares.
 
 ## The full capital chain
 
@@ -41,7 +41,7 @@ The arithmetic is stark. Suppose a blank-check raises $300 million, proposes to 
 
 ## Structural incentives and conflicts
 
-The sponsor — the team behind the blank-check formation — holds founder shares at a fraction of the IPO price and typically earns a promote (an additional stake) if the merger succeeds. This creates incentive to complete a deal, any deal, which can misalign with shareholder interests. Warrant holders and common equity holders have competing interests: warrant holders want aggressive pursuit of a high-growth target that could drive the stock price up, while common shareholders want a safe, durable business that will not disappoint.
+The sponsor — the team behind the blank-check formation — holds [founder shares](/founder-shares/) at a fraction of the IPO price and typically earns a promote (an additional stake) if the merger succeeds. This creates incentive to complete a deal, any deal, which can misalign with shareholder interests. Warrant holders and common equity holders have competing interests: warrant holders want aggressive pursuit of a high-growth target that could drive the stock price up, while common shareholders want a safe, durable business that will not disappoint.
 
 The blank-check structure has also attracted legal scrutiny in recent years, with Delaware courts finding certain SPAC sponsors liable for misleading shareholders about merger economics or holding insufficient capital in reserve, and the SEC imposing stricter rules on forward-looking statements in merger proxy documents.
 

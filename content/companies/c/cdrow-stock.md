@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Codere Online Luxembourg, S.A. (NASDAQ: CDROW) is a gaming company that operates online casinos and sports-betting platforms across multiple countries. It is a pure-play digital operator — it owns no physical casinos or venues, only the software, licensing, and customer-facing platforms that run the betting operations. The company earns money by taking a percentage of the money customers wager, the difference between what it pays out in winnings and what it collects in bets.
+[Codere Online Luxembourg](/cdro-stock/), S.A. ([NASDAQ](/nasdaq/): CDROW) is a gaming company that operates online casinos and sports-betting platforms across multiple countries. It is a pure-play digital operator — it owns no physical casinos or venues, only the software, licensing, and customer-facing platforms that run the betting operations. The company earns money by taking a percentage of the money customers wager, the difference between what it pays out in winnings and what it collects in bets.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Codere Online Luxembourg, S.A. (NASDAQ: CDROW) is a gaming company that operates
 
 ## The digital gaming business
 
-The online gambling industry operates on a straightforward principle: the house takes a cut. When a customer places a bet — on a sports game, a roulette spin, a poker hand — the company collects the stake. If the bet wins, the company pays out the winnings. If it loses, the company keeps the money. The difference between total wagers and total payouts is the company's gross profit, from which it deducts operating costs, licensing fees, customer acquisition spending, and taxes.
+The online gambling industry operates on a straightforward principle: the house takes a cut. When a customer places a bet — on a sports game, a roulette spin, a poker hand — the company collects the stake. If the bet wins, the company pays out the winnings. If it loses, the company keeps the money. The difference between total wagers and total payouts is the company's gross profit, from which it deducts operating costs, licensing fees, customer [acquisition](/acquisition/) spending, and taxes.
 
 Codere Online runs digital platforms in this space. It operates online casinos offering slots, table games, and poker. It offers sports betting on football, basketball, tennis, and other events. The company's revenue is called gaming handle or gaming yield — it is the amount of money wagered minus the payouts, sometimes called gaming revenue.
 
@@ -35,7 +35,7 @@ Codere Online runs digital platforms in this space. It operates online casinos o
 
 Codere Online traces its roots to Codere, a Spanish gaming company with a long history in brick-and-mortar casinos and gaming halls in Spain and Latin America. The online subsidiary was carved out to operate the digital business separately — licensed in Luxembourg for structural and tax purposes, but operating platforms that serve customers in Spain, Mexico, Colombia, Uruguay, and other regulated markets.
 
-This structure reflects a regulatory reality: gaming is jurisdictionally fragmented. Each country sets its own licensing rules, tax rates, and permitted operators. Codere Online holds licenses from multiple regulators, each granting permission to operate in that territory. Some markets are newer to online gaming regulation; others have mature, competitive licensing systems. The company's footprint across multiple geographies gives it diversification but also regulatory complexity.
+This structure reflects a regulatory reality: gaming is jurisdictionally fragmented. Each country sets its own licensing rules, tax rates, and permitted operators. Codere Online holds licenses from multiple regulators, each granting permission to operate in that territory. Some markets are newer to online gaming regulation; others have mature, competitive licensing systems. The company's footprint across multiple geographies gives it [diversification](/diversification/) but also regulatory complexity.
 
 ## How the company makes money and grows
 
@@ -55,11 +55,11 @@ More significant than competition is regulation. Gaming is a heavily regulated i
 
 Codere Online is significantly smaller than the largest global gaming operators. The company is publicly traded but represents a relatively niche player compared to multinational operators with presence in dozens of jurisdictions and hundreds of millions in annual revenue. Being smaller means less capital for marketing, less bargaining power with suppliers and affiliates, and higher customer acquisition costs relative to larger peers.
 
-The company's publicly traded status means it must file quarterly and annual reports with the SEC (CIK 0001866782), providing a window into gaming handle, player counts, geography, and profitability. These filings are the primary source for understanding the business's health and trajectory.
+The company's publicly traded status means it must file quarterly and [annual reports](/10-k/) with the SEC (CIK 0001866782), providing a window into gaming handle, player counts, geography, and profitability. These filings are the primary source for understanding the business's health and trajectory.
 
 ## Risks and pressures
 
-Regulatory risk is paramount. A major market unexpectedly closing, a shift in tax policy, or new licensing restrictions could shrink addressable markets overnight. Currency risk matters too — the company operates across countries with different currencies, and exchange-rate movements affect reported revenue.
+Regulatory risk is paramount. A major market unexpectedly closing, a shift in tax policy, or new licensing restrictions could shrink addressable markets overnight. [Currency risk](/currency-risk/) matters too — the company operates across countries with different currencies, and exchange-rate movements affect reported revenue.
 
 Problem gambling is both a societal concern and a regulatory one. Governments increasingly require operators to fund research, treatment programs, and harm-reduction initiatives. Some jurisdictions have debated capping bet sizes or restricting advertising of gambling services. These measures, while socially important, reduce the addressable market and raise operating costs.
 

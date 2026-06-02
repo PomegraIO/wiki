@@ -35,7 +35,7 @@ GENZ casts a wide net across this theme. Its holdings typically include software
 
 The fund's actual holdings vary with the underlying index methodology, but thematic digital-economy funds typically hold a mix of recognizable names (payment processors, communication platforms, digital advertising, cloud giants) alongside less-household-name infrastructure providers and specialized software vendors. The concentration varies — some thematic funds tilt toward mega-cap giants, others spread across mid and small-cap digital natives.
 
-The geographic scope can vary. Some versions of digital-native funds focus on US companies only; others include global digital businesses. GENZ's specific composition and any geographic tilt should be checked against the fund prospectus or fact sheet.
+The geographic scope can vary. Some versions of digital-native funds focus on US companies only; others include global digital businesses. GENZ's specific composition and any geographic tilt should be checked against the [fund prospectus](/fund-prospectus/) or fact sheet.
 
 ## Volatility and sector drift
 
@@ -45,7 +45,7 @@ The "digital native" theme also requires ongoing maintenance. As the internet ev
 
 ## Costs and how to research it
 
-GENZ trades during regular market hours with ETF-level liquidity. The expense ratio is typical for a thematic or sector-focused ETF — higher than a broad index fund, lower than an actively managed fund with a large team.
+GENZ trades during regular market hours with ETF-level liquidity. The [expense ratio](/expense-ratio/) is typical for a thematic or sector-focused ETF — higher than a broad [index fund](/index-fund/), lower than an [actively managed fund](/actively-managed-fund/) with a large team.
 
 Anyone researching GENZ should read the fund's prospectus and fact sheet, which spell out the index methodology, the selection criteria for "digital native economy," the current holdings, and the geographic breakdown. The index website (if the fund uses a published third-party index) often provides detailed documentation on how companies are selected and weighted. Comparing GENZ's performance to the broader market and to other technology-sector or software-focused ETFs can help situate it relative to simpler alternatives.
 

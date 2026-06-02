@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*[Invesco Municipal](/vkq-stock/) Income Opportunities Trust is a [closed-end fund](/closed-end-fund/) focused on [municipal bonds](/municipal-bond/). Like other muni funds, it pools shareholder money to buy debt issued by states, cities, and local authorities. The distinct angle: it tilts toward lower-rated, less-traded [bonds](/bond/) where yields are fatter and [credit risk](/credit-risk/) is real.*
+*Invesco Municipal Income Opportunities Trust is a [closed-end fund](/closed-end-fund/) focused on [municipal bonds](/municipal-bond/). Like other muni funds, it pools shareholder money to buy debt issued by states, cities, and local authorities. The distinct angle: it tilts toward lower-rated, less-traded [bonds](/bond/) where yields are fatter and [credit risk](/credit-risk/) is real.*
 
 <aside class="wiki-infobox">
 <table>

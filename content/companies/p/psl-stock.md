@@ -12,7 +12,7 @@ handwritten: true
 
 > "Momentum within defence — stocks showing strength in a sector built to weather downturns."
 
-The Invesco Dorsey Wright Consumer Staples Momentum ETF (ticker PSL) sits at an intersection many traders and portfolio managers find useful: it blends the protective logic of consumer staples with the directional precision of momentum screening. Consumer staples — companies that make the basics people buy regardless of economic conditions (packaged foods, beverages, household products, personal care) — are traditionally seen as defensive. They produce steady earnings and durable dividends in both bull and bear markets. Yet for all that scale, the business is conceptually simple: Apple sells premium devices to a loyal base of customers, then earns a second, recurring stream of money from the software, content, and services those customers use afterward.
+The Invesco Dorsey Wright Consumer Staples Momentum ETF (ticker PSL) sits at an intersection many traders and portfolio managers find useful: it blends the protective logic of consumer staples with the directional precision of momentum screening. Consumer staples — companies that make the basics people buy regardless of economic conditions (packaged foods, beverages, household products, personal care) — are traditionally seen as defensive. They produce steady earnings and durable [dividends](/dividend/) in both bull and [bear markets](/bear-market/). Yet for all that scale, the business is conceptually simple: [Apple](/aapl-stock/) sells premium devices to a loyal base of customers, then earns a second, recurring stream of money from the software, content, and services those customers use afterward.
 
 But staples can be sleepy performers in strong rallies, when investors rush toward higher-growth sectors. Momentum filters apply a different lens: they flag stocks rising fastest within their peer group.
 
@@ -20,7 +20,7 @@ But staples can be sleepy performers in strong rallies, when investors rush towa
 
 The fund tracks the Dorsey Wright Momentum Consumer Staples Index, which applies a rules-based momentum filter to publicly traded US companies in the consumer staples sector. The index selects stocks that have demonstrated recent strength — typically measured over a lookback window of weeks to a few months — and rebalances regularly so the holdings always reflect the current set of relative outperformers. This means PSL does not simply own a static list of staples names; it continually shifts toward the ones gaining traction.
 
-The appeal is straightforward: it offers exposure to the stability of staples (low cyclicality, durable earnings, dividend yields) without accepting that those stocks always move slowly. When a staples company is outrunning its peers, momentum screening puts it at the top of the buy list. When it stalls relative to others in the sector, the fund rotates away.
+The appeal is straightforward: it offers exposure to the stability of staples (low cyclicality, durable earnings, [dividend yields](/dividend-yield/)) without accepting that those stocks always move slowly. When a staples company is outrunning its peers, momentum screening puts it at the top of the buy list. When it stalls relative to others in the sector, the fund rotates away.
 
 ## Who holds PSL and why
 
@@ -30,7 +30,7 @@ The typical PSL holder is not seeking pure value; she is seeking relative streng
 
 ## Costs, trading, and tracking
 
-PSL trades on the NASDAQ with typical intraday liquidity for a sector-focused Invesco product. The expense ratio is low — reflecting the passive nature of the rules-based index — making it cost-efficient for active traders and long-term holders alike. Because the index rebalances on a schedule, the fund trades regularly to maintain the list of momentum leaders; this is a normal cost of the strategy and is reflected in the fund's tracking efficiency.
+PSL trades on the [NASDAQ](/nasdaq/) with typical [intraday liquidity](/intraday-liquidity/) for a sector-focused Invesco product. The [expense ratio](/expense-ratio/) is low — reflecting the passive nature of the rules-based index — making it cost-efficient for active traders and long-term holders alike. Because the index rebalances on a schedule, the fund trades regularly to maintain the list of momentum leaders; this is a normal cost of the strategy and is reflected in the fund's tracking efficiency.
 
 The fund will naturally show higher volatility than the entire consumer staples sector and lower volatility than the broad market, sitting somewhere in the middle — defensive relative to growth stocks, cyclical relative to the safest staples.
 
@@ -50,4 +50,4 @@ Watch for changes in the momentum signal; if top holdings are shifting rapidly, 
 
 ## See also
 
-Consumer staples strategy, momentum investing, sector rotation, defensive stocks, expense ratios, ETF rebalancing, Invesco.
+Consumer staples strategy, [momentum investing](/momentum-investing/), [sector rotation](/sector-rotation/), defensive stocks, expense ratios, ETF rebalancing, Invesco.

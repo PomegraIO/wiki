@@ -4,7 +4,7 @@ description: "Polish universal bank dominating its home market, bridging Western
 keywords: [poland, banking, adrs, eastern-europe, universal-bank, central-banking, capital-flows]
 ---
 
-*The **Bank Pekao S.A./ADR (BKPKF)** is among Poland's largest [financial institutions](/fisi-stock/), offering universal banking services across retail, commercial, and investment segments in an economy positioned between Western European financial centers and the broader Central-Eastern European emerging market. As a major intermediary in Poland's debt and equity markets, Pekao's role in the financial value chain reflects the structural position of Polish banks: capturing deposits from Polish savers and corporations while channeling that capital to borrowers throughout the domestic economy and cross-border into the region.*
+*The **[Bank Pekao S.A./ADR](/bkpoy-stock/) (BKPKF)** is among Poland's largest financial institutions, offering universal banking services across retail, commercial, and investment segments in an economy positioned between Western European financial centers and the broader Central-Eastern European emerging market. As a major intermediary in Poland's debt and equity markets, Pekao's role in the financial value chain reflects the structural position of Polish banks: capturing deposits from Polish savers and corporations while channeling that capital to borrowers throughout the domestic economy and cross-border into the region.*
 
 ## Bridging the Regional Financial Divide
 

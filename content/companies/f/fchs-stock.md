@@ -4,7 +4,7 @@ description: "Small healthcare services company operating a network of clinics a
 keywords: ["healthcare services", "clinic operations", "patient revenue", "unit economics", "medical staffing"]
 ---
 
-*A regional [healthcare services](/hcsg-stock/) operator, **First Choice Healthcare Solutions, Inc. (FCHS)** (CIK [1416876](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001416876)) operates clinics and healthcare facilities that generate revenue from patient visits, insurance reimbursements, and ancillary services such as diagnostic testing or wound care. The unit economics of a healthcare facility are driven by a fundamental variable: the number of billable patient encounters per day, the average reimbursement per encounter, and the fixed and variable cost structure required to deliver those services.*
+*A regional healthcare services operator, **First Choice Healthcare Solutions, Inc. (FCHS)** (CIK [1416876](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001416876)) operates clinics and healthcare facilities that generate revenue from patient visits, insurance reimbursements, and ancillary services such as diagnostic testing or wound care. The unit economics of a healthcare facility are driven by a fundamental variable: the number of billable patient encounters per day, the average reimbursement per encounter, and the fixed and variable cost structure required to deliver those services.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>FCHS</td></tr>

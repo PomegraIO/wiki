@@ -51,7 +51,7 @@ The capital needs and supply-chain reality create barriers to entry for competit
 
 ## The market: growth and cyclicality
 
-Data center hardware spending has been growing for decades because cloud computing and [data storage](/dtst-stock/) are growing. But it is not smooth growth. Spending spikes when companies are building new data centers or refreshing old ones, and it dips when they are not. Hyperscalers sometimes slow down their capital spending due to economic slowdowns or because they have built enough capacity. This cyclicality makes Super Micro's revenue lumpy. One year could be breakout strong; the next could be flat or declining.
+Data center hardware spending has been growing for decades because cloud computing and data storage are growing. But it is not smooth growth. Spending spikes when companies are building new data centers or refreshing old ones, and it dips when they are not. Hyperscalers sometimes slow down their capital spending due to economic slowdowns or because they have built enough capacity. This cyclicality makes Super Micro's revenue lumpy. One year could be breakout strong; the next could be flat or declining.
 
 The rise of artificial intelligence and machine learning has changed the conversation. AI workloads run on specialized hardware—GPUs and other accelerators—not traditional CPUs. Nvidia's GPU chips have become incredibly valuable for AI, and data centers building AI capabilities need servers designed around GPUs. Super Micro has adapted its product line to support high-density GPU servers, becoming a key supplier to companies building AI infrastructure. This is a growth area that could offset cyclicality.
 

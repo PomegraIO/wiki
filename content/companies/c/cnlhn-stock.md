@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Connecticut Light & Power is an essential utility — a company that owns and operates the physical infrastructure to generate electricity and deliver it (along with [natural gas](/natural-gas/)) to homes and businesses across a specific service territory in northeastern Connecticut. Its business is defined by geography: it has a franchise to serve customers in its region, and those customers pay rates set by the Connecticut Public Utilities Regulatory Authority. The company does not choose its prices or its customers; regulation chooses both.*
+*[Connecticut Light & Power](/cnthp-stock/) is an essential utility — a company that owns and operates the physical infrastructure to generate electricity and deliver it (along with [natural gas](/natural-gas/)) to homes and businesses across a specific service territory in northeastern Connecticut. Its business is defined by geography: it has a franchise to serve customers in its region, and those customers pay rates set by the Connecticut Public Utilities Regulatory Authority. The company does not choose its prices or its customers; regulation chooses both.*
 
 <aside class="wiki-infobox">
 <table>

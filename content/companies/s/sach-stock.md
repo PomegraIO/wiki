@@ -44,7 +44,7 @@ Interest rates are critical. In a high-rate environment, Sachem's lending yields
 
 Sachem's revenue comes from two sources: first, interest collected on the loan portfolio (net interest income); second, origination fees and servicing fees on new loans. The mix of income depends on how fast the portfolio grows and how much credit loss the company experiences.
 
-Portfolio credit loss—the percentage of loans that default or must be written down—is the critical variable for an MREIT. If Sachem's underwriting is sound and economic conditions remain favorable, losses are minimal. If a recession hits or property valuations fall sharply, losses can consume a year's worth of earnings. During the 2008–2009 financial crisis, many REITs failed entirely because of real estate exposure.
+Portfolio credit loss—the percentage of loans that default or must be written down—is the critical variable for an MREIT. If Sachem's underwriting is sound and economic conditions remain favorable, losses are minimal. If a [recession](/recession/) hits or property valuations fall sharply, losses can consume a year's worth of earnings. During the 2008–2009 financial crisis, many REITs failed entirely because of real estate exposure.
 
 Sachem reports its portfolio composition—breakdown by property type, loan size, and borrower credit quality—in its quarterly filings, so the risk profile is visible to careful readers.
 

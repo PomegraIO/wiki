@@ -41,13 +41,13 @@ The company's exploration properties are in Canada, a country with a long mining
 
 Here is the reality: most exploration companies never find anything big enough to matter. A junior explorer like VR Resources might drill ten properties and strike out on nine of them. The tenth might have vanadium, but not enough to be worth mining economically. Even if it has plenty, the cost of actually building a mine — sinking shafts, installing processing equipment, hiring workers — is enormous, often hundreds of millions of dollars.
 
-This is why exploration companies are volatile. Their share prices are driven by exploration results: if a drill hole comes back hot, the stock jumps because investors imagine the company has found a future mine. If the next set of assays disappoints, the stock crashes. Shareholders are betting on discovery announcements, not on earnings or dividends, because exploration companies do not make money. They spend money, looking for the one discovery that will.
+This is why exploration companies are volatile. Their share prices are driven by exploration results: if a drill hole comes back hot, the stock jumps because investors imagine the company has found a future mine. If the next set of assays disappoints, the stock crashes. Shareholders are betting on discovery announcements, not on earnings or [dividends](/dividend/), because exploration companies do not make money. They spend money, looking for the one discovery that will.
 
 ## How these companies survive
 
 VR Resources needs money to pay for its exploration work. It raises this in several ways. It can sell shares, diluting existing shareholders but bringing in capital. It can issue debt or borrow from banks, though lenders are cautious about companies with no revenue. It can farm out its properties, letting another exploration company or major mining firm pay for exploration in exchange for part of the upside if a discovery is made. Or, if it has already found something, it can option or sell claims to a larger company interested in developing the property.
 
-The company's balance sheet is heavy on non-current assets — the value of its mineral claims and exploration properties — and light on earnings or cash flow. Most years, VR Resources reports a net loss because it spends money on geologists and drilling and receives no revenue. The company survives on capital raised from shareholders and, occasionally, from partnerships or joint ventures with other miners.
+The company's [balance sheet](/balance-sheet/) is heavy on non-current assets — the value of its mineral claims and exploration properties — and light on earnings or cash flow. Most years, VR Resources reports a net loss because it spends money on geologists and drilling and receives no revenue. The company survives on capital raised from shareholders and, occasionally, from partnerships or joint ventures with other miners.
 
 ## The investment thesis
 

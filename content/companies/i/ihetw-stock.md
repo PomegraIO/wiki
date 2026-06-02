@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-iHeartMedia is America's largest radio broadcaster. The company owns and operates more than 800 radio stations across the United States, reaching audiences in every major city and most towns. It makes money primarily through advertising sold to national and local brands who want to reach radio audiences. The company also generates revenue from live events — music festivals and concerts featuring artists from its stations — and from a growing podcasting business. iHeartMedia trades on the NASDAQ under the ticker IHETW, though it emerged from bankruptcy in 2023 and continues to restructure its balance sheet.
+iHeartMedia is America's largest radio broadcaster. The company owns and operates more than 800 radio stations across the United States, reaching audiences in every major city and most towns. It makes money primarily through advertising sold to national and local brands who want to reach radio audiences. The company also generates revenue from live events — music festivals and concerts featuring artists from its stations — and from a growing podcasting business. iHeartMedia trades on the [NASDAQ](/nasdaq/) under the ticker IHETW, though it emerged from bankruptcy in 2023 and continues to restructure its [balance sheet](/balance-sheet/).
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ iHeartMedia operates stations in every major format — top-40 pop music, countr
 
 Radio has always been an advertising business. Listeners do not pay to hear the broadcast — the signal is free over the airwaves — so the entire business model depends on selling advertising time. That model has real advantages: it scales easily, advertising is straightforward to measure and track, and listeners have no incentive to leave because there is no subscription or payment friction.
 
-It also has a structural vulnerability: advertising revenue moves with the economy. When businesses are confident and sales are strong, they spend on advertising. When times are tight, advertising budgets are cut quickly. iHeartMedia's revenue has fluctuated with economic cycles, and the company's balance sheet was strained by a leveraged buyout in 2008 that left it carrying debt through the financial crisis and beyond.
+It also has a structural vulnerability: advertising revenue moves with the economy. When businesses are confident and sales are strong, they spend on advertising. When times are tight, advertising budgets are cut quickly. iHeartMedia's revenue has fluctuated with economic cycles, and the company's balance sheet was strained by a [leveraged buyout](/leveraged-buyout/) in 2008 that left it carrying debt through the financial crisis and beyond.
 
 ## Podcasting and digital expansion
 
@@ -61,7 +61,7 @@ The bankruptcy restructuring gave iHeartMedia a fresh start financially, though 
 
 ## Researching iHeartMedia as an investment
 
-iHeartMedia's SEC filings (CIK 0001400891) lay out the company's station footprint, its segment breakdown between traditional radio, podcasting, and events, and its debt structure. The annual report discloses advertiser concentration — how much of revenue comes from the largest customers — which is important because losing a single major national advertiser can meaningfully affect results.
+iHeartMedia's SEC filings (CIK 0001400891) lay out the company's station footprint, its segment breakdown between traditional radio, podcasting, and events, and its debt structure. The [annual report](/10-k/) discloses advertiser concentration — how much of revenue comes from the largest customers — which is important because losing a single major national advertiser can meaningfully affect results.
 
 Watch the trajectory of advertising revenue, broken down between national and local advertising. Local advertising is tied to local economic conditions; national advertising reflects broader confidence. Track the performance of the digital business and the podcasting network separately from traditional radio — these are growth areas within a declining industry and represent the company's future.
 

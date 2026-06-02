@@ -29,7 +29,7 @@ Like many industrials, MTX has historically carried debt to fund operations, [ac
 
 ## Geographic Exposure and Currency Volatility
 
-MTX operates globally, with significant exposure to regions where paper consumption is growing or stable (Asia, Europe). However, international operations introduce foreign-exchange risk. A strong U.S. dollar can make MTX's export pricing less competitive and can reduce the reported U.S. dollar value of foreign earnings. The company also faces geopolitical risk: tariff changes, trade tensions, or supply-chain disruptions can increase input costs or limit access to key markets.
+MTX operates globally, with significant exposure to regions where paper consumption is growing or stable (Asia, Europe). However, international operations introduce foreign-exchange risk. A strong [U.S. dollar](/us-dollar/) can make MTX's export pricing less competitive and can reduce the reported U.S. dollar value of foreign earnings. The company also faces geopolitical risk: tariff changes, trade tensions, or supply-chain disruptions can increase input costs or limit access to key markets.
 
 ## Capital-Intensive Process with Long Payback Periods
 

@@ -49,7 +49,7 @@ Franchise revenue is significantly higher margin than company-operated restauran
 
 Food costs — the cost of the steaks, seafood, vegetables, and other ingredients — typically represent 25–30% of restaurant-level revenue. Beef price is the principal variable; when cattle prices rise sharply, restaurants either absorb the margin or pass it to customers via price increases. Menu mix matters as well — a month in which customers order more steaks than ribs will have a different food-cost profile than a ribs-heavy month.
 
-Labour costs — crew wages, benefits, payroll taxes — form the next-largest component. Because service at a steakhouse is labour-intensive, labour typically runs 25–30% of revenue at the restaurant level. That leaves roughly 40–45% of restaurant revenue as gross profit, from which corporate overhead (rent on headquarters, [regional management](/rm-stock/), marketing) is deducted to arrive at consolidated profit.
+Labour costs — crew wages, benefits, payroll taxes — form the next-largest component. Because service at a steakhouse is labour-intensive, labour typically runs 25–30% of revenue at the restaurant level. That leaves roughly 40–45% of restaurant revenue as gross profit, from which corporate overhead (rent on headquarters, regional management, marketing) is deducted to arrive at consolidated profit.
 
 This structure means that Texas Roadhouse's profitability is highly sensitive to volume. A 5% increase in comparable-store sales (a measure of like-for-like growth, which captures how much existing restaurants have grown their sales) flows to the bottom line at a much higher rate than 5%, because food and labour costs don't grow proportionally — the fixed overhead portion absorbs relatively less of each incremental dollar.
 

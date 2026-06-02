@@ -33,7 +33,7 @@ Innospec generates free cash flow—operating cash minus capex—from its acquir
 
 ## Currency and Commodity Hedging Decisions
 
-As a specialty chemical maker serving [global industrial](/gic-stock/) end-markets, Innospec faces commodity price exposure (especially petroleum and petrochemical feedstocks) and foreign exchange risk on overseas sales and acquisitions. The company must decide what portion of these risks to hedge and at what cost. Hedging commodity prices protects margins from volatility but is expensive; not hedging preserves flexibility but introduces earnings swings. Innospec's balance sheet disclosures detail hedging positions, allowing investors to assess how much earnings variability the company is willing to absorb versus how much it locks in through contracts.
+As a specialty chemical maker serving global industrial end-markets, Innospec faces commodity price exposure (especially petroleum and petrochemical feedstocks) and foreign exchange risk on overseas sales and acquisitions. The company must decide what portion of these risks to hedge and at what cost. Hedging commodity prices protects margins from volatility but is expensive; not hedging preserves flexibility but introduces earnings swings. Innospec's balance sheet disclosures detail hedging positions, allowing investors to assess how much earnings variability the company is willing to absorb versus how much it locks in through contracts.
 
 ## Inorganic Growth Constraints: When Debt Becomes Limiting
 

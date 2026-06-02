@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Splash Beverage Group makes and sells branded alcoholic and non-alcoholic beverages through a portfolio of labels aimed at different occasions and consumer segments. It operates as a manufacturer-distributor hybrid: it formulates and contracts production of its spirits and drinks, then moves them through wholesale and direct-to-consumer channels. The company is small by beverage-industry standards — a publicly traded micro-cap — and its revenue swings sharply with consumer discretionary spending, making it a textbook example of how cyclical demand behaves when applied to premium drinks.
+Splash Beverage Group makes and sells branded alcoholic and non-alcoholic beverages through a portfolio of labels aimed at different occasions and consumer segments. It operates as a manufacturer-distributor hybrid: it formulates and contracts production of its spirits and drinks, then moves them through wholesale and direct-to-consumer channels. The company is small by beverage-industry standards — a publicly traded micro-cap — and its revenue swings sharply with consumer [discretionary spending](/discretionary-spending/), making it a textbook example of how cyclical demand behaves when applied to premium drinks.
 
 <aside class="wiki-infobox">
 <table>

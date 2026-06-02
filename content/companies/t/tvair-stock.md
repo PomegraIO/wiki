@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-A special-purpose acquisition company, or SPAC, is a publicly listed shell — a company with no operating business, formed for a single purpose: to raise money from public shareholders and then use it to acquire an existing operating company. Thayer Ventures Acquisition Corp II (NYSE: TVAIR) is one such shell, capitalized and ready to deploy that capital in pursuit of a merger target.
+A [special-purpose acquisition company](/special-purpose-acquisition-company/), or SPAC, is a publicly listed shell — a company with no operating business, formed for a single purpose: to raise money from public shareholders and then use it to acquire an existing operating company. [Thayer Ventures Acquisition Corp II](/tvai-stock/) (NYSE: TVAIR) is one such shell, capitalized and ready to deploy that capital in pursuit of a [merger](/merger/) target.
 
 <aside class="wiki-infobox">
 <table>
@@ -24,13 +24,13 @@ A special-purpose acquisition company, or SPAC, is a publicly listed shell — a
 
 ## The SPAC structure
 
-A SPAC is formed as a new public company with minimal operations. The founders and sponsors raise capital from public investors — typically institutional and retail shareholders looking for an entry into a private acquisition deal. The money is placed in a trust account, where it sits until the SPAC identifies a private operating company willing to merge and become public.
+A SPAC is formed as a new public company with minimal operations. The founders and sponsors raise capital from public investors — typically institutional and retail shareholders looking for an entry into a private [acquisition](/acquisition/) deal. The money is placed in a trust account, where it sits until the SPAC identifies a private operating company willing to merge and become public.
 
 Thayer Ventures Acquisition Corp II follows this playbook. It was created as a vehicle to hunt for merger opportunities. Until a merger closes, the company has no revenue, no products, and no customers. It exists solely to hold capital and deploy it when the right acquisition target appears.
 
 ## How a SPAC works
 
-Once Thayer Ventures identifies a target company — typically a venture-backed or private-equity-backed business not yet ready for a traditional initial public offering — the two parties negotiate a merger agreement. If shareholders approve the deal, the private company merges into the SPAC, and the combined entity becomes a public company trading under a new ticker symbol. The SPAC's public shareholders become owners of the operating business they've backed.
+Once Thayer Ventures identifies a target company — typically a venture-backed or private-equity-backed business not yet ready for a traditional [initial public offering](/initial-public-offering/) — the two parties negotiate a merger agreement. If shareholders approve the deal, the private company merges into the SPAC, and the combined entity becomes a public company trading under a new ticker symbol. The SPAC's public shareholders become owners of the operating business they've backed.
 
 Throughout this process, the capital sits in trust, earning minimal interest. Shareholders have the right to withdraw their money (redeem their shares) if they dislike the proposed merger and want out before it closes. Those who stay become shareholders of the now-public operating company.
 
@@ -38,7 +38,7 @@ Throughout this process, the capital sits in trust, earning minimal interest. Sh
 
 SPAC investors face a clear tension. They are betting that the sponsors — the founders and managers — will find and negotiate a merger with a genuinely valuable company, and that the deal will be priced fairly. The sponsor team earns carried interest (a share of the profit), which aligns incentives in theory. In practice, that structure has sometimes encouraged sponsors to complete *any* merger quickly rather than wait for the best target, or to accept poor valuation terms to lock in their carried interest.
 
-Additionally, SPAC shareholders face dilution. The sponsors receive free shares (founder shares or promote) worth roughly 20 percent of the company, and they earn advisory fees and other compensation. When the SPAC merges, those costs come out of the capital available to the now-public operating company.
+Additionally, SPAC shareholders face dilution. The sponsors receive free shares ([founder shares](/founder-shares/) or promote) worth roughly 20 percent of the company, and they earn advisory fees and other compensation. When the SPAC merges, those costs come out of the capital available to the now-public operating company.
 
 For shareholders of Thayer Ventures Acquisition Corp II specifically, the timeline and quality of any merger remain uncertain. The structure is transparent — the trust account is audited, money cannot be deployed without shareholder approval and a complete merger agreement — but success depends entirely on whether the sponsors find a suitable business, negotiate good terms, and execute a transaction that creates shareholder value rather than destroys it. Some SPACs have produced valuable public companies; others have resulted in poor acquisitions and shareholder losses.
 

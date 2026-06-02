@@ -27,7 +27,7 @@ HeartBeam began in 2015 when Dr. Branislav Vajdic, the co-inventor of flash memo
 
 ## The research phase: building a technology that did not exist
 
-The core problem HeartBeam set out to solve had existed for a century. The electrocardiogram, invented in 1903, remains the gold standard for assessing cardiac arrhythmias and ischemia. But the conventional 12-lead ECG requires a resting patient, adhesive electrodes placed on specific body locations, and cables connecting the electrodes to a device that amplifies and records the signals. That infrastructure is fine for hospitals and clinics but wholly impractical for monitoring patients at home or remotely.
+The core problem HeartBeam set out to solve had existed for a century. The electrocardiogram, invented in 1903, remains the [gold standard](/gold-standard/) for assessing cardiac arrhythmias and ischemia. But the conventional 12-lead ECG requires a resting patient, adhesive electrodes placed on specific body locations, and cables connecting the electrodes to a device that amplifies and records the signals. That infrastructure is fine for hospitals and clinics but wholly impractical for monitoring patients at home or remotely.
 
 Telemedicine and home monitoring had been growing as areas of clinical interest for decades, but the lack of a practical way to capture high-fidelity cardiac signals in portable form left that market largely underserved. Existing wearable devices measured heart rate or detected gross arrhythmias but could not generate a clinical-grade 12-lead ECG. HeartBeam's bet was that if the company could solve the signal-processing mathematics—taking three independent 3D vectors of cardiac electrical activity and synthesizing them into the clinical standard—it could create a device that was wireless, portable, and yet produced a diagnostic-quality output.
 
@@ -43,7 +43,7 @@ HeartBeam's commercial strategy is deliberately narrow at launch. Rather than at
 
 ## Capital and the path to viability
 
-HeartBeam went public via a blank-check acquisition in early 2024 and raised approximately sixteen million dollars in the initial public offering. That capital has been allocated to clinical trials, FDA submission efforts, and the buildout of a minimal commercial organization. The company is pre-revenue in a meaningful sense: there are no material sales yet, only a technology cleared for use.
+HeartBeam went public via a blank-check [acquisition](/acquisition/) in early 2024 and raised approximately sixteen million dollars in the [initial public offering](/initial-public-offering/). That capital has been allocated to clinical trials, FDA submission efforts, and the buildout of a minimal commercial organization. The company is pre-revenue in a meaningful sense: there are no material sales yet, only a technology cleared for use.
 
 The capital the company raised in the IPO provides a runway into 2026 and likely into 2027, but the company will either need to demonstrate sales traction that justifies additional financing or pursue a strategic partnership or acquisition by a larger medical device firm. The fate of many early-stage medical device companies is absorption into larger firms once clinical validation is complete; the parent company then handles distribution and reimbursement, which are the genuine challenges in medtech.
 

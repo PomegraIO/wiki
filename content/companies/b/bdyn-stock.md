@@ -15,13 +15,13 @@ Most equity investors choose a market-cap lane and stay: large caps for stabilit
 
 ## The rotation thesis
 
-Market caps do not perform uniformly. Sometimes large-cap stocks lead because size and quality command a premium. Sometimes mid-caps outpace both extremes because they offer growth without the valuation extremes of small caps and stability without the maturity of mega-caps. Sometimes small caps have been so beaten down that they offer the best risk-reward, even accounting for higher volatility.
+[Market caps](/market-capitalization/) do not perform uniformly. Sometimes large-cap stocks lead because size and quality command a premium. Sometimes mid-caps outpace both extremes because they offer growth without the valuation extremes of small caps and stability without the maturity of mega-caps. Sometimes small caps have been so beaten down that they offer the best risk-reward, even accounting for higher volatility.
 
-BDYN's premise is that a manager monitoring valuations, earnings expectations, and market breadth can identify which cap segment offers the best entry point and overweight accordingly. When large caps have soared to extremes, trim them and add small caps. When the economy rolls over and safety becomes currency, rotate back to mega-cap quality. When mid-caps offer the sweet spot of growth and valuation, concentrate there.
+BDYN's premise is that a manager monitoring valuations, earnings expectations, and [market breadth](/market-breadth-advances-declines/) can identify which cap segment offers the best entry point and overweight accordingly. When large caps have soared to extremes, trim them and add small caps. When the economy rolls over and safety becomes currency, rotate back to mega-cap quality. When mid-caps offer the sweet spot of growth and valuation, concentrate there.
 
 ## How the signal works
 
-The manager uses quantitative and qualitative signals. Valuation metrics—price-to-book, price-to-earnings relative to growth—reveal which caps are expensive versus cheap. Earnings revision trends show where analysts are becoming more or less optimistic. Relative strength and momentum filters identify which caps are trending positively. Economic signals (yield curves, credit spreads, profit margins) hint at whether the environment favors growth (small caps) or stability (large caps).
+The manager uses quantitative and qualitative signals. Valuation metrics—price-to-book, price-to-earnings relative to growth—reveal which caps are expensive versus cheap. Earnings revision trends show where analysts are becoming more or less optimistic. Relative strength and momentum filters identify which caps are trending positively. Economic signals ([yield curves](/yield-curve/), [credit spreads](/credit-spread/), profit margins) hint at whether the environment favors growth (small caps) or stability (large caps).
 
 When multiple signals align—say, small caps are cheap, their relative earnings are accelerating, and breadth is healthy—the manager can tilt meaningfully toward small caps with conviction. When those signals reverse or exhaust, the manager can lighten positions and rotate.
 

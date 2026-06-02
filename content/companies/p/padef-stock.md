@@ -41,7 +41,7 @@ This move has not been without cost. Coking coal mining is technically harder an
 
 ## The commodity cycle as destiny
 
-Understanding Adaro requires grasping coal's commodity cycle. In boom years—when steel production surges, Chinese power demand spikes, and Indian energy consumption rises—thermal coal prices climb, Adaro's costs do not move with them, and margins widen dramatically. In those periods, the company throws off large free cash flows, funds mine expansions, and rewards shareholders handsomely. The stock surges because the earnings power of the asset becomes apparent.
+Understanding Adaro requires grasping coal's commodity cycle. In boom years—when steel production surges, Chinese power demand spikes, and Indian energy consumption rises—thermal coal prices climb, Adaro's costs do not move with them, and margins widen dramatically. In those periods, the company throws off large [free cash flows](/free-cash-flow/), funds mine expansions, and rewards shareholders handsomely. The stock surges because the earnings power of the asset becomes apparent.
 
 But busts are equally brutal. Coal prices can halve in a downturn as global manufacturing and power demand sink. Adaro's extraction costs move slowly; a mine closed is lost production that takes years to restart. So when prices collapse, the company must choose between running at razor-thin margins (or losses) or cutting production—and cutting mines causes permanent damage to the asset base. The stock falls hard because the near-term outlook deteriorates and investors factor in years of weak cash flow before recovery.
 
@@ -57,7 +57,7 @@ Indonesia itself is a factor. The government has periodically restricted or bann
 
 ## How to research Adaro as an investment
 
-Start with the company's annual report and investor presentations, available through the Jakarta Stock Exchange. The SEC filing (CIK 0001489079) is relevant for PADEF shareholders in the United States, though it tracks the Jakarta listing with a lag. Look closely at coal reserve statements (how much is left to mine) and the depletion schedule—a shrinking reserve base that is not being replaced by new finds is a long-term red flag.
+Start with the company's [annual report](/10-k/) and investor presentations, available through the Jakarta [Stock Exchange](/stock-exchange/). The SEC filing (CIK 0001489079) is relevant for PADEF shareholders in the United States, though it tracks the Jakarta listing with a lag. Look closely at coal reserve statements (how much is left to mine) and the depletion schedule—a shrinking reserve base that is not being replaced by new finds is a long-term red flag.
 
 Watch thermal coal and coking coal spot prices to understand the earnings sensitivity. Track mining output volume and realized prices (what Adaro actually sold coal for, after quality and logistics adjustments) each quarter. Gross margins on coal contracts reveal the company's pricing power versus its cost structure. Any commentary on Indonesian export restrictions or domestic power demand will move the stock.
 

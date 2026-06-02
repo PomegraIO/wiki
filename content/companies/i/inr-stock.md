@@ -43,7 +43,7 @@ For exploration companies without current production, commodity prices affect in
 
 Oil and gas operations are heavily regulated at federal, state, and local levels. INFINITY must comply with lease terms, environmental regulations, safety standards, and reporting requirements. The regulatory environment is dynamic; stricter environmental standards, restrictions on drilling in certain areas, or changes to lease terms can materially impact the company's ability to explore and produce.
 
-[Environmental liability](/environmental-liability/) is also material. Exploration and production activities can generate environmental obligations (well plugging, site reclamation, [waste management](/wm-stock/)). These liabilities are disclosed in SEC filings. In some cases, environmental cleanup costs can exceed the value of hydrocarbon recovery, turning a failed exploration well into a long-term liability.
+[Environmental liability](/environmental-liability/) is also material. Exploration and production activities can generate environmental obligations (well plugging, site reclamation, waste management). These liabilities are disclosed in SEC filings. In some cases, environmental cleanup costs can exceed the value of hydrocarbon recovery, turning a failed exploration well into a long-term liability.
 
 ## Operational Risks and Dry Holes
 

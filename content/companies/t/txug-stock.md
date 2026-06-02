@@ -13,19 +13,19 @@ handwritten: true
 
 > "Growth does not look the same everywhere — and the companies winning in Europe or Asia often tell you something different than US market leaders."
 
-Thornburg International Growth Fund ETF (TXUG) pursues a different lens on the world's developed markets than its value-oriented sibling. Rather than hunting for cheap, steady cash-generators, this fund seeks out companies that are expanding, gaining market share, and driving earnings higher — with a portfolio built around the conviction that disciplined, forward-looking growth analysis can identify winners before the broader market catches on.
+Thornburg International [Growth Fund](/growth-fund/) ETF (TXUG) pursues a different lens on the world's developed markets than its value-oriented sibling. Rather than hunting for cheap, steady cash-generators, this fund seeks out companies that are expanding, gaining market share, and driving earnings higher — with a portfolio built around the conviction that disciplined, forward-looking growth analysis can identify winners before the broader market catches on.
 
 The fund holds a diversified set of large-cap and mid-cap equities outside the United States, primarily in developed economies across Europe, Japan, and other advanced markets. The geographic spread prevents over-concentration in any single country or region, but the stock selection reflects growth-oriented criteria: companies with accelerating earnings, opening competitive advantages, strong capital allocation, or exposure to secular themes like digital transformation, demographic change, or industrial innovation.
 
 ## The growth tilt
 
-What distinguishes TXUG from a passive international index tracker is active selection around growth dynamics. Thornburg's managers look for companies with earnings growth that is improving, market positions that are strengthening, and strategic positioning in expanding sectors or geographies. This is different from pure momentum investing (chasing recent winners) or growth-at-any-price; the managers blend a forward-looking earnings perspective with disciplined valuation to avoid overpaying for growth.
+What distinguishes TXUG from a passive international index tracker is active selection around growth dynamics. Thornburg's managers look for companies with earnings growth that is improving, market positions that are strengthening, and strategic positioning in expanding sectors or geographies. This is different from pure [momentum investing](/momentum-investing/) (chasing recent winners) or growth-at-any-price; the managers blend a forward-looking earnings perspective with disciplined valuation to avoid overpaying for growth.
 
 In practice, this means the fund may skew toward certain sectors more heavily than a market-cap-weighted index. Technology, consumer discretionary, and healthcare companies tend to offer more visible growth narratives than utilities or financials. The geographic mix may also differ: economies with stronger growth momentum or demographic tailwinds may receive higher weightings than their index-weight proportion.
 
 ## Structure and liquidity
 
-TXUG is a plain ETF, structured with no leverage or inverse mechanics. It trades during regular market hours and can be bought or sold through any brokerage. The expense ratio reflects active management — higher than a passive international growth index tracker would charge — and covers the cost of the team's research, analysis, and ongoing portfolio construction. Because ETFs have a more tax-efficient structure than traditional mutual funds, tax drag is typically lower than in an actively managed mutual fund with similar holdings.
+TXUG is a plain ETF, structured with no leverage or inverse mechanics. It trades during regular market hours and can be bought or sold through any brokerage. The [expense ratio](/expense-ratio/) reflects active management — higher than a passive international growth index tracker would charge — and covers the cost of the team's research, analysis, and ongoing portfolio construction. Because ETFs have a more tax-efficient structure than traditional [mutual funds](/mutual-fund/), tax drag is typically lower than in an actively managed mutual fund with similar holdings.
 
 ## Performance variability
 
@@ -35,7 +35,7 @@ Thornburg has invested in international equities for decades, and the firm's gro
 
 ## Risks unique to growth-focused positioning
 
-Growth-oriented portfolios tend to be more volatile than broad-market or value-oriented ones. When market sentiment shifts away from growth and toward value or defensive themes, growth-focused funds typically suffer larger drawdowns. Currency risk applies: a US investor's returns are affected by the strength or weakness of the dollar against the euro, yen, pound, and other currencies in which foreign holdings trade.
+Growth-oriented portfolios tend to be more volatile than broad-market or value-oriented ones. When market sentiment shifts away from growth and toward value or defensive themes, growth-focused funds typically suffer larger drawdowns. [Currency risk](/currency-risk/) applies: a US investor's returns are affected by the strength or weakness of the dollar against the euro, yen, pound, and other currencies in which foreign holdings trade.
 
 Concentration is a second layer of risk. If the fund holds 50 to 70 companies and a handful are positioned as multi-year growth stories, a misstep in one or two of those core ideas can significantly drag returns. The fund also inherits the risks of investing in foreign markets: regulatory shifts, political instability, or macroeconomic turmoil in key countries can harm holdings with no warning.
 

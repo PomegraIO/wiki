@@ -49,7 +49,7 @@ Fashion is highly seasonal. Winter apparel sells in fall and winter; summer appa
 
 ## Geographic Diversification and Currency Risk
 
-If KEEMO manufactures in low-cost countries (Vietnam, Bangladesh, China) and sells in multiple currencies (U.S. dollars, euros, pounds), it faces [currency risk](/currency-risk/). A strengthening dollar relative to the manufacturing currency reduces manufacturing costs but also makes exports more expensive for foreign customers, potentially impacting volume. Currency fluctuations can be hedged, but hedging costs reduce margins. KEEMO's profitability depends partly on its geographic manufacturing footprint and how well it manages currency exposure.
+If KEEMO manufactures in low-cost countries (Vietnam, Bangladesh, China) and sells in multiple currencies ([U.S. dollars](/us-dollar/), euros, pounds), it faces [currency risk](/currency-risk/). A strengthening dollar relative to the manufacturing currency reduces manufacturing costs but also makes exports more expensive for foreign customers, potentially impacting volume. Currency fluctuations can be hedged, but hedging costs reduce margins. KEEMO's profitability depends partly on its geographic manufacturing footprint and how well it manages currency exposure.
 
 ## Research and Entry Points for Analysis
 

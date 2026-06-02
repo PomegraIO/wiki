@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Inspira Technologies OXY B.H.N. Ltd develops and commercializes oxygen-enrichment technology designed for patients with respiratory challenges and for industrial applications where precise oxygen concentration is critical. Founded as an Israeli life-sciences company, Inspira entered the public markets on NASDAQ under the ticker QTEX, where it operates as a pre-commercial or early-stage medical device developer working toward regulatory approval and market adoption of its core oxygen-delivery solutions.
+Inspira Technologies OXY B.H.N. Ltd develops and commercializes oxygen-enrichment technology designed for patients with respiratory challenges and for industrial applications where precise oxygen concentration is critical. Founded as an Israeli life-sciences company, Inspira entered the public markets on [NASDAQ](/nasdaq/) under the ticker QTEX, where it operates as a pre-commercial or early-stage medical device developer working toward regulatory approval and market adoption of its core oxygen-delivery solutions.
 
 <aside class="wiki-infobox">
 <table>
@@ -47,12 +47,12 @@ Manufacturing and supply-chain risks are inherent as well. Moving from prototype
 
 ## Cyclicality and market dynamics
 
-A respiratory-technology company like Inspira behaves differently across economic cycles than, say, a consumer-electronics firm. Oxygen therapy is a medical necessity — demand does not fade in downturns because patients still need respiratory support. However, the capital spending patterns of hospitals and healthcare systems do tend to contract during recessions, affecting the pace at which new medical devices get adopted. A boom cycle favors rapid scaling and new-product rollout; a downturn often stretches the time horizon for adoption and may force the company to conserve cash and slow operations.
+A respiratory-technology company like Inspira behaves differently across economic cycles than, say, a consumer-electronics firm. Oxygen therapy is a medical necessity — demand does not fade in downturns because patients still need respiratory support. However, the capital spending patterns of hospitals and healthcare systems do tend to contract during [recessions](/recession/), affecting the pace at which new medical devices get adopted. A boom cycle favors rapid scaling and new-product rollout; a downturn often stretches the time horizon for adoption and may force the company to conserve cash and slow operations.
 
 For a pre-commercial firm with limited revenue, the cycle manifests differently: a strong economy and rising investment appetite make it easier to raise capital and move toward commercialization; a contracting environment can squeeze access to equity funding and extend the timeline to profitability. Inspira's future depends on reaching product-market fit before any prolonged funding drought.
 
 ## How to research Inspira Technologies
 
-Investors and researchers should start with Inspira's SEC filings, particularly the 10-K annual report (CIK 0001837493), which details the company's clinical pipeline, regulatory status, capital burn rate, and competitive landscape. Quarterly earnings calls and press releases flag milestones in regulatory approval and any commercial partnerships or pilot deployments.
+Investors and researchers should start with Inspira's SEC filings, particularly the 10-K [annual report](/10-k/) (CIK 0001837493), which details the company's clinical pipeline, regulatory status, capital burn rate, and competitive landscape. Quarterly earnings calls and press releases flag milestones in regulatory approval and any commercial partnerships or pilot deployments.
 
 Key metrics to watch include the stage of FDA or CE-mark applications, cash burn rate (how quickly the company consumes capital), any announced partnerships with hospitals or healthcare providers, and evidence of clinical validation through published studies or trial results. Unlike a mature company where profitability and cash flow are stable, an early-stage medical-device firm succeeds or fails on execution toward regulatory approval and the ability to raise capital as milestones are reached. The stock price will be highly sensitive to approval announcements, trial data, and the broader appetite for biotech and medical-device equities.

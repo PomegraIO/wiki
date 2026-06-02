@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Arbe Robotics is an Israeli company that manufactures ultra-wideband radar sensors for autonomous and semi-autonomous vehicles. The company sells its solid-state sensor technology to vehicle manufacturers and autonomous vehicle developers globally, positioning itself within the broader sensor fusion ecosystem that drives the shift toward autonomous mobility. The automotive sector is undergoing a structural transformation — vehicles are becoming more autonomous, and that transition requires a multiplicity of sensing technologies: cameras, lidar, radar, and increasingly, advanced radar solutions that see through adverse weather and offer high-resolution perception at highway speeds.
+[Arbe Robotics](/arbe-stock/) is an Israeli company that manufactures ultra-wideband radar sensors for autonomous and semi-autonomous vehicles. The company sells its solid-state sensor technology to vehicle manufacturers and autonomous vehicle developers globally, positioning itself within the broader sensor fusion ecosystem that drives the shift toward autonomous mobility. The automotive sector is undergoing a structural transformation — vehicles are becoming more autonomous, and that transition requires a multiplicity of sensing technologies: cameras, lidar, radar, and increasingly, advanced radar solutions that see through adverse weather and offer high-resolution perception at highway speeds.
 
 Arbe's market opportunity sits inside that shift. The company's radar sensors are differentiated by their processing architecture and angular resolution, designed to provide detailed, reliable perception in conditions where optical sensors falter. Rain, snow, and fog blind cameras and degrade lidar performance; radar signal penetrates these conditions. That is the fundamental appeal of Arbe's technology — it is a critical redundancy in a safety-critical domain where the cost of sensor failure is extremely high.
 
@@ -38,7 +38,7 @@ Incumbent suppliers have scale, existing relationships, and manufacturing footpr
 
 Arbe is a development-stage company with meaningful revenue but not yet at profitability. The business requires ongoing investment in engineering, manufacturing scale-up, and customer support. The company's cash runway and its ability to fund the long sales cycle to large OEMs are critical to survival. Like most sensor and component suppliers pursuing new automotive technologies, Arbe faces pressure to demonstrate progress toward both meaningful revenue scale and a path to positive cash flow.
 
-The entry into public markets via SPAC was intended to raise capital to fund that transition. The quality of execution in manufacturing, the success of design wins with top-tier OEMs, and the pace of automotive ADAS and autonomous vehicle adoption will determine whether the business can grow into a durable supplier or whether it becomes an acquisition target or casualty of industry consolidation.
+The entry into public markets via SPAC was intended to raise capital to fund that transition. The quality of execution in manufacturing, the success of design wins with top-tier OEMs, and the pace of automotive ADAS and autonomous vehicle adoption will determine whether the business can grow into a durable supplier or whether it becomes an [acquisition](/acquisition/) target or casualty of industry consolidation.
 
 ## What to monitor
 

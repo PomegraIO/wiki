@@ -23,7 +23,7 @@ Each regulator has distinct authority. The OCC approves the bank's charter, gran
 
 ## Capital Requirements and Regulatory Ratios
 
-The foundation of banking regulation is the Basel III capital framework, which the Federal Reserve has adopted and enforced. GABC must maintain specified ratios of regulatory capital to risk-weighted assets. The largest banks face the strictest requirements; GABC, as a smaller regional bank, faces less stringent standards but must still comply.
+The foundation of banking regulation is the [Basel III](/basel-iii/) capital framework, which the Federal Reserve has adopted and enforced. GABC must maintain specified ratios of regulatory capital to risk-weighted assets. The largest banks face the strictest requirements; GABC, as a smaller regional bank, faces less stringent standards but must still comply.
 
 Capital requirements are not merely accounting metrics; they determine how much lending GABC can do with a given amount of shareholder equity. If GABC has $100 million of common equity, Basel III requirements might limit the bank to $1.2–1.5 billion of risk-weighted assets, depending on the exact capital ratios required. If GABC wants to grow lending, it must either raise new equity capital or reduce risk-weighted assets by selling loans or tightening lending standards. This constraint fundamentally shapes the bank's growth trajectory and [return on equity](/return-on-equity/).
 
@@ -39,7 +39,7 @@ GABC must also maintain a loan-loss allowance—an accounting reserve set aside 
 
 ## Community Reinvestment and Lending Obligations
 
-The Community Reinvestment Act (CRA), enacted in 1977, requires banks to serve the credit needs of the communities in which they operate, particularly low- to moderate-income communities. GABC must demonstrate that it is lending, investing in, and providing banking services to underserved areas. Regulators grade GABC's CRA performance during examinations. A poor CRA rating can delay approval of branch applications, mergers, or other expansions.
+The Community Reinvestment Act (CRA), enacted in 1977, requires banks to serve the credit needs of the communities in which they operate, particularly low- to moderate-income communities. GABC must demonstrate that it is lending, investing in, and providing banking services to underserved areas. Regulators grade GABC's CRA performance during examinations. A poor CRA rating can delay approval of branch applications, [mergers](/merger/), or other expansions.
 
 CRA compliance is not costless. GABC must identify underserved communities, develop products for those markets, sometimes at lower margins, and document its efforts. The bank must hire staff, create reporting systems, and defend its record during examinations. Advocacy groups often oppose bank mergers and expansions, using CRA leverage to negotiate commitments from the bank (promises to lend or invest certain sums in designated communities). GABC must absorb these commitments as part of doing business.
 
@@ -53,7 +53,7 @@ Compliance requires significant infrastructure: customer-screening systems, tran
 
 Banks profit from the spread between what they pay depositors and what they earn on loans. But if [interest rates](/interest-rate/) change, GABC's spread can compress or expand. If rates rise, the bank's fixed-rate loans become less valuable, while deposit costs rise. Regulators examine how GABC manages [interest-rate risk](/interest-rate-risk/), requiring the bank to model its earnings under various rate scenarios. If the bank is excessively dependent on a favorable rate environment, regulators may require hedging or limit asset growth.
 
-Additionally, as rates fluctuate, the market value of GABC's securities portfolio (bonds it holds) rises and falls. A sharp rate increase can create large unrealized losses. While these losses may not immediately affect book capital, they reduce the bank's tangible equity and can trigger regulatory questions about the bank's true financial condition.
+Additionally, as rates fluctuate, the market value of GABC's securities portfolio ([bonds](/bond/) it holds) rises and falls. A sharp rate increase can create large unrealized losses. While these losses may not immediately affect book capital, they reduce the bank's tangible equity and can trigger regulatory questions about the bank's true financial condition.
 
 ## Merger and Acquisition Constraints
 

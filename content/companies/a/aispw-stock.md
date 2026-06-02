@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Airship AI Holdings is a technology company building artificial intelligence applications and services. It competes in a market where progress in AI is rapid, where large technology companies dominate distribution and capital, and where success depends on finding a specific problem that an AI solution can solve better or cheaper than existing alternatives.
+[Airship AI](/aisp-stock/) Holdings is a technology company building artificial intelligence applications and services. It competes in a market where progress in AI is rapid, where large technology companies dominate distribution and capital, and where success depends on finding a specific problem that an AI solution can solve better or cheaper than existing alternatives.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,7 +33,7 @@ The AI market has exploded in recent years. The basic tools for building AI have
 
 ## The competition is fierce and getting worse
 
-Airship AI faces competition from three different directions. First, there are large technology companies like Amazon, Microsoft, and Google that build AI services as part of their broader platforms. These companies have enormous budgets for research, talented engineers, and existing relationships with enterprise customers. They can offer AI tools at low cost or even bundled free with their other services because they make money elsewhere. A smaller company cannot compete on price against that.
+Airship AI faces competition from three different directions. First, there are large technology companies like Amazon, [Microsoft](/msft-stock/), and Google that build AI services as part of their broader platforms. These companies have enormous budgets for research, talented engineers, and existing relationships with enterprise customers. They can offer AI tools at low cost or even bundled free with their other services because they make money elsewhere. A smaller company cannot compete on price against that.
 
 Second, there are specialized startups and mid-sized companies that have focused on applying AI to specific industries or problems. These companies often have deep expertise in their chosen field and have built strong relationships with customers in that space. They move fast and can customize solutions in ways that large platform companies cannot. If Airship AI is competing in a space where one of these focused competitors has taken root, it is an uphill battle.
 

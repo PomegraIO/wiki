@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-Liberty Broadband is a holding company—think of it as an investment vehicle—that owns stakes in cable and broadband businesses. The company is controlled by John Malone, one of the most prominent media and telecom investors in the world. Liberty Broadband's largest asset is a majority stake in GigaCapital, a cable company that operates broadband and video services in specific markets. The company also holds stakes in Charter Communications (one of the largest cable operators in the United States) and has made venture investments in broadband and wireless technologies. For investors, Liberty Broadband is a way to gain exposure to the broadband industry through a holding company structure, with Malone's capital-allocation expertise as the draw.
+[Liberty Broadband](/lbrda-stock/) is a holding company—think of it as an investment vehicle—that owns stakes in cable and broadband businesses. The company is controlled by John Malone, one of the most prominent media and telecom investors in the world. Liberty Broadband's largest asset is a majority stake in GigaCapital, a cable company that operates broadband and video services in specific markets. The company also holds stakes in Charter Communications (one of the largest cable operators in the United States) and has made venture investments in broadband and wireless technologies. For investors, Liberty Broadband is a way to gain exposure to the broadband industry through a holding company structure, with Malone's capital-allocation expertise as the draw.
 
 ## What does Liberty Broadband actually own?
 
 Liberty Broadband's main asset is GigaCapital, formerly known as Charter Communications Holdco LLC. Through GigaCapital, Liberty operates cable systems that serve roughly 200,000 residential customers and many more businesses in select markets. These systems provide broadband (internet), video (television), and voice services to homes and offices. Cable is a capital-intensive business: Liberty owns the physical plant (fiber and coaxial cables), the headends (signal origination centers), and the truck rolls (technicians who install and repair service to homes). Revenue comes from monthly service fees; profitability depends on keeping utilization high, churn low, and costs controlled.
 
-Liberty also owns a roughly 26 percent stake in Charter Communications, one of the three largest cable operators in the United States (alongside Comcast and Cox). Charter serves over 30 million customers across the country. Liberty does not control Charter day-to-day but holds significant influence as a large shareholder. Liberty's ownership stake in Charter is a financial asset that trades publicly, so its value moves with Charter's stock price and operational performance.
+Liberty also owns a roughly 26 percent stake in Charter Communications, one of the three largest cable operators in the United States (alongside [Comcast](/cmcsa-stock/) and Cox). Charter serves over 30 million customers across the country. Liberty does not control Charter day-to-day but holds significant influence as a large shareholder. Liberty's ownership stake in Charter is a financial asset that trades publicly, so its value moves with Charter's stock price and operational performance.
 
 Beyond those two assets, Liberty has been exploring and investing in alternative broadband technologies—fixed wireless access (FWA) and satellite internet—as hedge bets against the long-term decline of cable-based systems. These investments are smaller but reflect management's view that the cable industry is under structural pressure.
 
@@ -41,13 +41,13 @@ The erosion of the cable moat is one of the structural headwinds the industry fa
 
 Holding companies like Liberty allow large shareholders to aggregate multiple assets, execute long-term capital-allocation strategies, and enjoy some tax deferral benefits. For John Malone, holding companies have been a framework to own, control, and optimize media and telecom businesses over decades.
 
-For investors, Liberty Broadband offers a way to own cable and broadband exposure without buying cable stocks directly. The company's stock price is driven by the underlying value of its portfolio (GigaCapital and Charter stake) plus or minus a discount or premium for the holding-company structure. When cable stocks are out of favor, Liberty stock may trade at a discount to net asset value (the sum of its holdings' values). When cable is in favor, it may trade at a premium because investors value Malone's expertise.
+For investors, Liberty Broadband offers a way to own cable and broadband exposure without buying cable stocks directly. The company's stock price is driven by the underlying value of its portfolio (GigaCapital and Charter stake) plus or minus a discount or premium for the holding-company structure. When cable stocks are out of favor, Liberty stock may trade at a discount to [net asset value](/net-asset-value/) (the sum of its holdings' values). When cable is in favor, it may trade at a premium because investors value Malone's expertise.
 
-Liberty also has the flexibility to make acquisitions or divestitures that individual stocks cannot. Over the years, Malone's holding companies have bought and sold assets strategically, timing entries and exits to capital cycles. That flexibility is part of the value.
+Liberty also has the flexibility to make [acquisitions](/acquisition/) or [divestitures](/divestiture/) that individual stocks cannot. Over the years, Malone's holding companies have bought and sold assets strategically, timing entries and exits to capital cycles. That flexibility is part of the value.
 
 ## Why does Liberty focus on broadband specifically?
 
-Liberty Broadband (along with related entities) is Malone's broadband-focused holding company. It was carved out from a larger Liberty Media portfolio to concentrate capital in cable and broadband without the baggage of content assets or satellite television that Malone's other companies held. The thesis is that broadband is a critical infrastructure and cash-generative business, worth owning and improving.
+Liberty Broadband (along with related entities) is Malone's broadband-focused holding company. It was carved out from a larger [Liberty Media](/fwona-stock/) portfolio to concentrate capital in cable and broadband without the baggage of content assets or satellite television that Malone's other companies held. The thesis is that broadband is a critical infrastructure and cash-generative business, worth owning and improving.
 
 Within this focus, Liberty has pursued a philosophy of buying cable systems and optimizing them—investing in network upgrades (fiber to the home), reducing costs, and improving services to compete against wireless and satellite. GigaCapital, Liberty's main operating company, has invested substantially in its networks to offer competitive speeds and reliability.
 
@@ -59,7 +59,7 @@ Cable's advantage is still high speed and low latency in densely populated areas
 
 There is also the question of regulation. Broadband is increasingly viewed as essential infrastructure, and regulators may impose pricing controls or open-access requirements (forcing cable to lease network capacity to competitors). This would reduce margins and cash flow, a material headwind.
 
-Liberty also faces leverage and capital allocation decisions. How aggressively should it invest in network upgrades? How much capital should return to shareholders through dividends and buybacks? These choices determine whether Liberty can maintain its competitive position or will see value erode over time.
+Liberty also faces leverage and capital allocation decisions. How aggressively should it invest in network upgrades? How much capital should return to shareholders through [dividends](/dividend/) and buybacks? These choices determine whether Liberty can maintain its competitive position or will see value erode over time.
 
 ## Researching Liberty Broadband
 

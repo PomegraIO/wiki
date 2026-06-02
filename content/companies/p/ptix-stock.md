@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Protagenic Therapeutics is a neuroactive biopharmaceutical company developing peptide therapies for stress-related and CNS disorders. The company's lead candidate, PT00114, is an investigational synthetic peptide targeting the teneurin C-terminal associated peptide pathway. Protagenic's ordinary shares trade on the OTCQB over-the-counter market under the ticker PTIX. The company was incorporated in 1994 and underwent a transformation in early 2026 when it separated from a merged partner, Phytanix, returning to a more focused pipeline and a cleaner balance sheet.
+Protagenic Therapeutics is a neuroactive biopharmaceutical company developing peptide therapies for stress-related and CNS disorders. The company's lead candidate, PT00114, is an investigational synthetic peptide targeting the teneurin C-terminal associated peptide pathway. Protagenic's ordinary shares trade on the OTCQB [over-the-counter market](/over-the-counter-market/) under the ticker PTIX. The company was incorporated in 1994 and underwent a transformation in early 2026 when it separated from a merged partner, Phytanix, returning to a more focused pipeline and a cleaner [balance sheet](/balance-sheet/).
 
 ## The unmet need: stress disorders that don't respond to standard treatment
 

@@ -40,7 +40,7 @@ This creates a structural advantage for well-capitalized companies: they can pur
 
 ## Licensing, Partnerships, and Milestone Revenue
 
-To extend runway and manage risk, MAIA may license technology to larger pharmaceutical companies, out-license development rights, or enter collaborations where a partner funds trials in exchange for commercialization rights [or royalties](/or-stock/). These deals provide milestone payments (cash when certain trial endpoints are met) and royalty streams (percentage of future sales), which can offset MAIA's burn rate or even generate net cash.
+To extend runway and manage risk, MAIA may license technology to larger pharmaceutical companies, out-license development rights, or enter collaborations where a partner funds trials in exchange for commercialization rights or royalties. These deals provide milestone payments (cash when certain trial endpoints are met) and royalty streams (percentage of future sales), which can offset MAIA's burn rate or even generate net cash.
 
 The terms of such deals reveal the market's view of a program's value. A partnership that funds trials and pays upfront milestones signals external confidence in the science. A program that cannot attract partnership interest after years of development may indicate weak efficacy signals or high perceived risk.
 

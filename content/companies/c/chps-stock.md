@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Xtrackers Semiconductor Select Equity ETF (CHPS) is an exchange-traded fund that owns the companies that design and manufacture semiconductor chips — from processor makers to memory manufacturers to the equipment suppliers that support the industry. It is a focused bet on the companies whose products power computing across every modern device.*
+*Xtrackers Semiconductor Select [Equity ETF](/equity-etf/) (CHPS) is an exchange-traded fund that owns the companies that design and manufacture semiconductor chips — from processor makers to memory manufacturers to the equipment suppliers that support the industry. It is a focused bet on the companies whose products power computing across every modern device.*
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ handwritten: true
 
 ## The semiconductor universe
 
-CHPS holds companies in the semiconductor supply chain. The fund captures chip designers (Nvidia, Qualcomm, Advanced Micro Devices, Broadcom, and others that draw up the blueprints but do not operate fabs). It holds foundries — the manufacturing plants run by Taiwan Semiconductor Manufacturing Company and Samsung Foundry. It includes integrated manufacturers like Intel and Micron that both design and fab their own chips. And it often includes specialized suppliers of semiconductor equipment and materials, since they are fundamental to the industry.
+CHPS holds companies in the semiconductor supply chain. The fund captures chip designers ([Nvidia](/nvda-stock/), Qualcomm, [Advanced Micro Devices](/amd-stock/), [Broadcom](/avgo-stock/), and others that draw up the blueprints but do not operate fabs). It holds foundries — the manufacturing plants run by [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company and Samsung Foundry. It includes integrated manufacturers like [Intel](/intc-stock/) and Micron that both design and fab their own chips. And it often includes specialized suppliers of semiconductor equipment and materials, since they are fundamental to the industry.
 
 The portfolio is explicitly global. Taiwan, South Korea, the Netherlands, and the United States are centers of semiconductor gravity, and the fund reflects that. No single country dominates; the fund spreads holdings across multiple regions. But that global reach also means that semiconductor stocks are less correlated to the broader U.S. economy than many other sectors.
 
@@ -36,7 +36,7 @@ The portfolio is explicitly global. Taiwan, South Korea, the Netherlands, and th
 
 Semiconductors are the foundation of the modern economy. Every smartphone contains dozens of chips. Cars use them for engine control, infotainment, autonomous driving, and battery management. Data centers have exploded, and every server is packed with processors and memory. Artificial intelligence workloads have driven demand for specialized chips. Medical devices, industrial equipment, consumer appliances, and military systems all depend on chip innovation and supply.
 
-The semiconductor industry has one of the longest and most consistent secular growth trends in history. Demand has expanded for six decades. This does not guarantee future growth — demand cycles, recessions happen, and technological disruption can blindside incumbents — but the structural drivers are deep.
+The semiconductor industry has one of the longest and most consistent secular growth trends in history. Demand has expanded for six decades. This does not guarantee future growth — demand cycles, [recessions](/recession/) happen, and technological disruption can blindside incumbents — but the structural drivers are deep.
 
 By holding CHPS, an investor is betting that the semiconductor industry will continue to grow and that the companies in the fund will capture that growth. It is not a bet on any single company or product; it is a bet on the breadth of chip demand and on the staying power of the leading manufacturers and designers.
 
@@ -44,7 +44,7 @@ By holding CHPS, an investor is betting that the semiconductor industry will con
 
 Semiconductors are not a defensive sector. Chip demand is cyclical, tightly coupled to capital spending by tech companies and device-makers. When a recession hits and companies freeze equipment spending, chip demand crashes. The companies in CHPS can see their revenues drop sharply in a downturn, and stock prices typically fall even faster.
 
-The industry is also brutally capital-intensive. Building a modern semiconductor fab costs tens of billions of dollars. Keeping up with shrinking transistor geometries and the race for process nodes requires continuous investment in equipment and research. A company that cannot access capital, or that guesses wrong on which technologies will win, can face years of losses. This capital intensity also means that the semiconductor industry is highly leverage-sensitive; rising interest rates make it harder for manufacturers to fund expansion.
+The industry is also brutally capital-intensive. Building a modern semiconductor fab costs tens of billions of dollars. Keeping up with shrinking transistor geometries and the race for process nodes requires continuous investment in equipment and research. A company that cannot access capital, or that guesses wrong on which technologies will win, can face years of losses. This capital intensity also means that the semiconductor industry is highly leverage-sensitive; rising [interest rates](/interest-rate/) make it harder for manufacturers to fund expansion.
 
 ## Geographic and geopolitical concentration
 
@@ -58,5 +58,5 @@ The semiconductor business is competitive. New entrants (like Intel trying to wi
 
 ## How to approach CHPS
 
-The fund's prospectus and fact sheet detail the holdings and expense ratio. Start by understanding which companies dominate the portfolio and what they make: processors, memory, equipment, or specialized chips. Compare CHPS's returns to both the broader semiconductor industry index and the overall stock market. Semiconductor stocks are volatile; in strong years they soar, and in weak years they plummet. This fund is not for someone seeking stability. It is for investors who believe in long-term chip demand and who can tolerate significant year-to-year swings in value.
+The fund's prospectus and fact sheet detail the holdings and [expense ratio](/expense-ratio/). Start by understanding which companies dominate the portfolio and what they make: processors, memory, equipment, or specialized chips. Compare CHPS's returns to both the broader semiconductor industry index and the overall [stock market](/stock-market/). Semiconductor stocks are volatile; in strong years they soar, and in weak years they plummet. This fund is not for someone seeking stability. It is for investors who believe in long-term chip demand and who can tolerate significant year-to-year swings in value.
 

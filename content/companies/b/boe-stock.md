@@ -26,7 +26,7 @@ handwritten: true
 
 ## What does this fund actually do?
 
-The fund buys shares of dividend-paying companies across developed and emerging markets — typically large-cap and blue-chip names that have proven track records of paying cash to shareholders. The portfolio might include pharmaceutical giants, oil and gas producers, [financial institutions](/fisi-stock/), real-estate companies (which are legally required to distribute most of their earnings), and utilities — sectors and securities chosen specifically because they generate cash that can be paid out to investors.
+The fund buys shares of dividend-paying companies across developed and emerging markets — typically large-cap and blue-chip names that have proven track records of paying cash to shareholders. The portfolio might include pharmaceutical giants, oil and gas producers, financial institutions, real-estate companies (which are legally required to distribute most of their earnings), and utilities — sectors and securities chosen specifically because they generate cash that can be paid out to investors.
 
 BlackRock, the fund's manager, then reinvests the [dividends](/dividend/) the fund receives and occasionally sells securities at a gain, both of which create cash that flows back to the fund's shareholders. That distribution stream is the whole proposition: you buy the trust for the income it generates, not for a bet that the underlying stock prices will rise. The distributions often run in the range of 6 to 8 percent per year, which is attractive to income-focused investors — retirees, endowments, and others who need steady cash from their portfolios.
 

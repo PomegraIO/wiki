@@ -4,7 +4,7 @@ description: "A developer of quantum computing and advanced electronics systems;
 keywords: [quantum-computing, semiconductor, deep-tech, competitive-moat, technology-protection, hardware-development, intellectual-property]
 ---
 
-*[FDCTECH, INC.](/fdct-stock/) (FDCT) competes in the [quantum computing](/qubt-stock/) and advanced electronics sector—a field where technological entry barriers remain extraordinarily high. The company's defensibility stems not from brand or distribution, but from accumulated technical knowledge, patent portfolios, and the cumulative engineering difficulty of the hardware it develops.*
+*[FDCTECH, INC.](/fdct-stock/) (FDCT) competes in the quantum computing and advanced electronics sector—a field where technological entry barriers remain extraordinarily high. The company's defensibility stems not from brand or distribution, but from accumulated technical knowledge, patent portfolios, and the cumulative engineering difficulty of the hardware it develops.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FDCT</td></tr>

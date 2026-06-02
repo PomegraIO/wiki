@@ -23,7 +23,7 @@ handwritten: true
 </table>
 </aside>
 
-Radiopharm Theranostics develops targeted radioactive drugs designed to diagnose and treat cancers where a radioactive payload can be delivered directly to tumor cells. The company operates in the theranostic space — a term combining therapy and diagnostics — where a single agent can both light up a tumor on imaging so a doctor can see it, and deliver radiation to kill it. The approach is clinically elegant if it works, but commercially and financially unproven. Like most clinical-stage biotech, the company is pre-revenue, burning cash, and entirely dependent on clinical success and capital raises.
+[Radiopharm Theranostics](/radx-stock/) develops targeted radioactive drugs designed to diagnose and treat cancers where a radioactive payload can be delivered directly to tumor cells. The company operates in the theranostic space — a term combining therapy and diagnostics — where a single agent can both light up a tumor on imaging so a doctor can see it, and deliver radiation to kill it. The approach is clinically elegant if it works, but commercially and financially unproven. Like most clinical-stage biotech, the company is pre-revenue, burning cash, and entirely dependent on clinical success and capital raises.
 
 ## The radiopharmaceutical opportunity
 
@@ -41,7 +41,7 @@ The company's 10-K filing (CIK 0001949257) discloses which programs are in devel
 
 ## Revenue and funding model
 
-Radiopharm Theranostics currently generates little to no revenue from product sales. The company's cash comes from equity financing (venture capital, strategic investors, public market offerings if available), debt, and potentially upfront or milestone payments from larger pharmaceutical partners if the company has licensed out some of its technology or programs.
+Radiopharm Theranostics currently generates little to no revenue from product sales. The company's cash comes from [equity financing](/equity-financing/) (venture capital, strategic investors, public market offerings if available), debt, and potentially upfront or milestone payments from larger pharmaceutical partners if the company has licensed out some of its technology or programs.
 
 The future revenue model, if the company successfully develops approved drugs, would involve selling radiopharmaceuticals directly to hospitals, nuclear medicine centers, and oncology practices, or licensing the technology to larger pharmaceutical companies for them to commercialize. The pricing and volumes are uncertain — radiopharmaceuticals are typically expensive therapies (tens of thousands of dollars per treatment or course), but the patient populations for any single indication may be in the hundreds or low thousands per year worldwide.
 

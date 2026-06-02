@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-USXF is the iShares answer to investors who want broad US stock exposure but filtered for companies that score well on environmental, social, and governance (ESG) metrics. Instead of holding all thousand-plus US companies in the broader market, USXF starts with the MSCI USA Index and applies an exclusion and quality screen: companies that fall below certain ESG thresholds are removed or underweighted, while those with stronger ESG scores are overweighted. The result is a portfolio that keeps the diversification of a broad index — sectors, sizes, geographies — but tilts toward companies that, in theory, are managing their environmental impact, labor practices, and governance more prudently.
+USXF is the iShares answer to investors who want broad US stock exposure but filtered for companies that score well on environmental, social, and governance (ESG) metrics. Instead of holding all thousand-plus US companies in the broader market, USXF starts with the MSCI USA Index and applies an exclusion and quality screen: companies that fall below certain ESG thresholds are removed or underweighted, while those with stronger ESG scores are overweighted. The result is a portfolio that keeps the [diversification](/diversification/) of a broad index — sectors, sizes, geographies — but tilts toward companies that, in theory, are managing their environmental impact, labor practices, and governance more prudently.
 
 <aside class="wiki-infobox">
 <table>
@@ -32,13 +32,13 @@ This is not the same as investing only in "green" companies. USXF still holds oi
 
 ## How it differs from the broad market
 
-Because it excludes or downweights certain companies and sectors, USXF does not perfectly mirror the overall US stock market. Companies with weaker ESG scores are either missing or smaller in the portfolio, which can create meaningful differences in returns over time. Historically, this has sometimes meant USXF outperforms the broader market (when ESG-conscious companies are in favor) and sometimes underperforms (when cheap, traditional industries like energy lead). The fund's prospectus and fact sheet show the holdings and weightings; comparing them to a pure broad-market index shows where the divergence lies.
+Because it excludes or downweights certain companies and sectors, USXF does not perfectly mirror the overall US [stock market](/stock-market/). Companies with weaker ESG scores are either missing or smaller in the portfolio, which can create meaningful differences in returns over time. Historically, this has sometimes meant USXF outperforms the broader market (when ESG-conscious companies are in favor) and sometimes underperforms (when cheap, traditional industries like energy lead). The fund's prospectus and fact sheet show the holdings and weightings; comparing them to a pure broad-market index shows where the divergence lies.
 
 Sector concentration is the clearest difference: USXF typically owns less energy and materials than the S&P 500 or a total-market index. Conversely, it may overweight consumer discretionary, tech, and healthcare — sectors where ESG compliance is often easier or more visible. That shift is intentional but it does mean the fund is not a true market-weight portfolio; it is tilted toward sectors and companies that score higher on ESG criteria.
 
 ## Costs and liquidity
 
-iShares is one of the largest ETF sponsors in the world, and USXF benefits from that scale: the expense ratio is typically 0.08% or less, competitive with most broad US index funds. The fund trades on NASDAQ with high volume and tight spreads, so buying and selling shares is frictionless. Dividends from the holdings are reinvested or paid out depending on your account type, and as a US-equity fund, USXF's dividends are eligible for favorable tax treatment in taxable accounts (though that depends on holding periods and other rules). The fund is fully transparent: the holdings are posted daily, and anyone can see exactly which companies USXF owns and in what proportion.
+iShares is one of the largest ETF sponsors in the world, and USXF benefits from that scale: the [expense ratio](/expense-ratio/) is typically 0.08% or less, competitive with most broad US [index funds](/index-fund/). The fund trades on [NASDAQ](/nasdaq/) with high volume and tight spreads, so buying and selling shares is frictionless. [Dividends](/dividend/) from the holdings are reinvested or paid out depending on your account type, and as a US-equity fund, USXF's dividends are eligible for favorable tax treatment in taxable accounts (though that depends on [holding periods](/holding-period/) and other rules). The fund is fully transparent: the holdings are posted daily, and anyone can see exactly which companies USXF owns and in what proportion.
 
 ## The risk and reality of ESG scoring
 

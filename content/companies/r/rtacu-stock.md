@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Renatus Tactical Acquisition Corp I (ticker RTACU) is a blank-check company whose common shares represent fractional ownership in a capital pool earmarked for the acquisition or merger with a private operating company. The RTACU ticker refers to the common equity units, as opposed to the warrant units (RTACW) issued alongside them. Common shareholders bear the core risk and receive the core benefit of the blank-check structure: they own a piece of whatever emerges if a merger closes, but they face the downside if no merger materializes, if capital is returned, or if the announced merger is poor.
+Renatus Tactical [Acquisition](/acquisition/) Corp I (ticker RTACU) is a blank-check company whose common shares represent fractional ownership in a capital pool earmarked for the acquisition or [merger](/merger/) with a private operating company. The RTACU ticker refers to the common equity units, as opposed to the warrant units (RTACW) issued alongside them. Common shareholders bear the core risk and receive the core benefit of the blank-check structure: they own a piece of whatever emerges if a merger closes, but they face the downside if no merger materializes, if capital is returned, or if the announced merger is poor.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,13 +38,13 @@ The first outcome is the intended one. But the second is not rare, especially in
 
 ## Sponsor incentives and founder shares
 
-The sponsor — the team behind the blank-check formation — typically owns founder shares at a steep discount to the IPO price (a 20% stake at $0.001 per share is common). These shares are worth nothing unless a merger closes, which aligns the sponsor with completing a deal. But that alignment is also a conflict: a desperate sponsor may be willing to merge with a weaker target to avoid the shame and loss of capital that returning money to shareholders implies.
+The sponsor — the team behind the blank-check formation — typically owns [founder shares](/founder-shares/) at a steep discount to the IPO price (a 20% stake at $0.001 per share is common). These shares are worth nothing unless a merger closes, which aligns the sponsor with completing a deal. But that alignment is also a conflict: a desperate sponsor may be willing to merge with a weaker target to avoid the shame and loss of capital that returning money to shareholders implies.
 
-Additionally, the sponsor typically charges a management fee (0.5–1% of the trust capital annually) to cover overhead, and earns a "promote" — a 20% stake in the merged entity — if the deal closes. This means the sponsor earns more from completing any merger than from finding the best merger, a pressure that shareholders must police through the redemption and voting rights.
+Additionally, the sponsor typically charges a [management fee](/management-fee/) (0.5–1% of the trust capital annually) to cover overhead, and earns a "promote" — a 20% stake in the merged entity — if the deal closes. This means the sponsor earns more from completing any merger than from finding the best merger, a pressure that shareholders must police through the redemption and [voting rights](/voting-rights/).
 
 ## Market evolution and regulatory change
 
-The blank-check space was especially active from 2020 to 2021, when over $100 billion in SPAC capital was raised annually. Regulatory scrutiny and court rulings have since tightened the rules. The SEC now requires stricter vetting of forward-looking statements in proxy documents, and Delaware courts have found SPAC sponsors liable for misleading shareholders about valuations and capital adequacy. The result is that blank-check vehicles formed today face higher legal risk and greater investor skepticism than those formed in the 2020–2021 wave.
+The blank-check space was especially active from 2020 to 2021, when over $100 billion in SPAC capital was raised annually. Regulatory scrutiny and court rulings have since tightened the rules. The SEC now requires stricter vetting of forward-looking statements in proxy documents, and Delaware courts have found SPAC sponsors liable for misleading shareholders about valuations and [capital adequacy](/capital-adequacy/). The result is that blank-check vehicles formed today face higher legal risk and greater investor skepticism than those formed in the 2020–2021 wave.
 
 ## How to evaluate an RTACU holding
 

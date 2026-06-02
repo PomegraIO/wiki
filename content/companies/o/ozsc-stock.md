@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Ozop Energy Solutions is a holding company that owns a collection of businesses in renewable energy, energy storage, building controls, and electric vehicle services. Based in Warwick, New York, it trades on the OTC markets under the ticker OZSC. The company doesn't operate a single business — instead, it owns stakes in several separate ventures, each tackling a different piece of the clean-energy puzzle. This is a common structure for companies that grow by acquisition or that want to pursue multiple energy-related ideas in parallel. It can work well if the parent company has strong management and can support each business thoughtfully. It can also be messy if the pieces don't fit together or if capital is scattered too thin.
+Ozop Energy Solutions is a holding company that owns a collection of businesses in renewable energy, energy storage, building controls, and electric vehicle services. Based in Warwick, New York, it trades on the OTC markets under the ticker OZSC. The company doesn't operate a single business — instead, it owns stakes in several separate ventures, each tackling a different piece of the clean-energy puzzle. This is a common structure for companies that grow by [acquisition](/acquisition/) or that want to pursue multiple energy-related ideas in parallel. It can work well if the parent company has strong management and can support each business thoughtfully. It can also be messy if the pieces don't fit together or if capital is scattered too thin.
 
 ## What the different pieces do
 
@@ -47,7 +47,7 @@ Start with the company's annual 10-K and quarterly 10-Q filings (SEC CIK 0001679
 
 - **Revenue trend by segment.** Is any of the businesses growing? Are they becoming less unprofitable?
 - **Cash position.** How long is the runway? If losses continue at the current rate and no new revenue emerges, when does the company run out of money?
-- **Capital structure.** Is Ozop raising money by issuing new shares (which dilutes existing holders) or through debt? Both have costs; share issuance is immediate dilution, while debt carries interest and maturity dates.
+- **Capital structure.** Is Ozop raising money by issuing new shares (which dilutes existing holders) or through debt? Both have costs; [share issuance](/share-issuance/) is immediate dilution, while debt carries interest and maturity dates.
 - **Management announcements.** Do any of the business units announce significant contracts or partnerships? These hint at whether the strategy is translating into real traction.
 
 Remember that OZSC is a speculative holding company in early-stage businesses operating in competitive markets. The upside potential is real if one or more business lines scales successfully. The downside includes business failure, dilution from future capital raises, or the holding company structure itself becoming a burden rather than a benefit.

@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-Brookfield Infrastructure Partners owns and operates physical things that people and companies use every day. Toll roads. Power lines. Pipelines. Ports. Data centres. The company's job is simple: buy these assets, run them well, charge users or customers fees, and send the profits to the investors who own the partnership.
+[Brookfield Infrastructure Partners](/bip-stock/) owns and operates physical things that people and companies use every day. Toll roads. Power lines. Pipelines. Ports. Data centres. The company's job is simple: buy these assets, run them well, charge users or customers fees, and send the profits to the investors who own the partnership.
 
 <aside class="wiki-infobox">
 <table>
@@ -32,19 +32,19 @@ Think about a toll road. Someone drives on it and pays a toll. Every day, thousa
 
 That's what makes infrastructure attractive. It's not trendy. It's not up against cutting-edge competition. It's boring. And boring is good when you want steady cash flow.
 
-Toll roads work. So do power lines. So do pipelines. People and companies need electricity and fuel and transportation every single day. The demand doesn't go away when the economy is slow. It goes up when the economy is strong. And because these things are essential, governments usually let the companies that own them raise prices with inflation. That means the cash the company collects doesn't get eaten away by rising costs.
+Toll roads work. So do power lines. So do pipelines. People and companies need electricity and fuel and transportation every single day. The demand doesn't go away when the economy is slow. It goes up when the economy is strong. And because these things are essential, governments usually let the companies that own them raise prices with [inflation](/inflation/). That means the cash the company collects doesn't get eaten away by rising costs.
 
 ## The toll road business
 
 Brookfield owns toll roads in Canada, the US, and Chile. A family drives across a bridge and pays a toll. A truck carrying goods pays a toll. The company collects millions of these small payments every year.
 
-Here's the good part: the company doesn't have to build new roads to grow. The road was built years ago. Now the company just maintains it and collects. The money keeps coming in whether the economy is booming or weak, though a very long recession would eventually hurt traffic.
+Here's the good part: the company doesn't have to build new roads to grow. The road was built years ago. Now the company just maintains it and collects. The money keeps coming in whether the economy is booming or weak, though a very long [recession](/recession/) would eventually hurt traffic.
 
 The bad part: you can't build a competing toll road next to Brookfield's. You'd have to convince the government to let you, and it's not going to happen. So Brookfield is safe from competition. But that also means the company can't grow its toll roads by being better or cheaper than a rival. It can only grow by buying more toll roads from others, or by raising tolls when the government allows it.
 
 ## Power lines and pipelines
 
-Brookfield owns power lines that carry electricity from power plants to cities. It owns pipelines that carry natural gas. These are different from toll roads, but the basic idea is the same: an essential service, a stable fee, and a customer that can't go elsewhere.
+Brookfield owns power lines that carry electricity from power plants to cities. It owns pipelines that carry [natural gas](/natural-gas/). These are different from toll roads, but the basic idea is the same: an essential service, a stable fee, and a customer that can't go elsewhere.
 
 Power lines are regulated. The government says, "You can charge this much and earn this much profit on your investment." The company accepts that deal and operates the lines. It's stable. The returns are not huge, but they are predictable.
 
@@ -70,13 +70,13 @@ The good part: demand is growing fast. The bad part: it's more competitive than 
 
 ## How the cash gets to investors
 
-Brookfield Infrastructure is a limited partnership. That's a legal structure that exists mainly for tax reasons. It means the company doesn't pay corporate taxes on the money it makes. That money flows through to the investors who own units.
+[Brookfield Infrastructure](/bipc-stock/) is a limited partnership. That's a legal structure that exists mainly for tax reasons. It means the company doesn't pay corporate taxes on the money it makes. That money flows through to the investors who own units.
 
-Brookfield takes the cash its assets generate, uses some to maintain and upgrade the assets, uses some to pay the debt that financed the assets, and sends the rest to the unitholders as distributions. This is similar to a dividend, but the structure is different.
+Brookfield takes the cash its assets generate, uses some to maintain and upgrade the assets, uses some to pay the debt that financed the assets, and sends the rest to the unitholders as distributions. This is similar to a [dividend](/dividend/), but the structure is different.
 
 For investors, distributions are the whole point. You own units and you get a regular payment of cash. If you hold the units for decades, you get distributions for decades.
 
-The risk is that the distributions depend on the company maintaining the assets and managing the debt. If Brookfield stops maintaining its roads and pipes, they fall apart and the cash disappears. If debt gets too high and interest rates jump, the company has to pay more in interest and has less to distribute.
+The risk is that the distributions depend on the company maintaining the assets and managing the debt. If Brookfield stops maintaining its roads and pipes, they fall apart and the cash disappears. If debt gets too high and [interest rates](/interest-rate/) jump, the company has to pay more in interest and has less to distribute.
 
 ## The competition
 

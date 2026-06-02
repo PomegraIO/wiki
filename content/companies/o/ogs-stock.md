@@ -18,7 +18,7 @@ ONE Gas is a regulated natural gas distribution utility serving approximately 2.
 
 ## How it started and what changed
 
-The company's roots trace to 1906 with the founding of Oklahoma Natural Gas Company, which evolved into ONEOK, Inc. over the decades as a [diversified energy](/dec-stock/) corporation. The current ONE Gas entity emerged from a strategic [spin-off](/spin-off/) in 2014, when ONEOK separated its stable distribution business from its more dynamic midstream and energy businesses. That separation was deliberate: distribution utilities thrive on predictability and long-term capital investment, while midstream and trading operations require agility and exposure to commodity prices. ONE Gas, as the pure-play distribution company, operates with 100% of its assets under regulatory oversight—meaning rates and returns are set by state commissions rather than determined by market competition.
+The company's roots trace to 1906 with the founding of Oklahoma Natural Gas Company, which evolved into ONEOK, Inc. over the decades as a diversified energy corporation. The current ONE Gas entity emerged from a strategic [spin-off](/spin-off/) in 2014, when ONEOK separated its stable distribution business from its more dynamic midstream and energy businesses. That separation was deliberate: distribution utilities thrive on predictability and long-term capital investment, while midstream and trading operations require agility and exposure to commodity prices. ONE Gas, as the pure-play distribution company, operates with 100% of its assets under regulatory oversight—meaning rates and returns are set by state commissions rather than determined by market competition.
 
 ## The revenue engine: Rates and rate base
 

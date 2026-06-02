@@ -39,14 +39,14 @@ For customers who have already adopted VIVO or LockeT, this creates uncertainty.
 
 ## The Aviation Bet
 
-The Flyte acquisition suggests that Catheter Precision's future is in small aircraft operations, not medical devices. Flyte operates regional air routes and is positioning itself in the emerging electric vertical takeoff and landing market. Aviation is capital-intensive and highly regulated, similar to medical devices, but the business model is different — Flyte generates immediate revenue by carrying passengers, whereas Catheter Precision's medical business was still trying to achieve scale.
+The Flyte [acquisition](/acquisition/) suggests that Catheter Precision's future is in small aircraft operations, not medical devices. Flyte operates regional air routes and is positioning itself in the emerging electric vertical takeoff and landing market. Aviation is capital-intensive and highly regulated, similar to medical devices, but the business model is different — Flyte generates immediate revenue by carrying passengers, whereas Catheter Precision's medical business was still trying to achieve scale.
 
 It is unclear whether Catheter Precision has the operational expertise or capital depth to succeed in aviation, or whether the Flyte acquisition is a long-term strategic bet or a temporary solution while the company pursues other options.
 
 ## How to Research Catheter Precision
 
-Catheter Precision files with the SEC under CIK 0001716621. The company's quarterly filings track revenue, the progress of capital raises, and updates on the strategic advisor's effort to find a buyer for the cardiac business. The company's 10-K annual report details the VIVO and LockeT devices, regulatory approvals, the customer pipeline (tracked as "tender wins" or "orders"), and the Flyte acquisition.
+Catheter Precision files with the SEC under CIK 0001716621. The company's quarterly filings track revenue, the progress of capital raises, and updates on the strategic advisor's effort to find a buyer for the cardiac business. The company's 10-K [annual report](/10-k/) details the VIVO and LockeT devices, regulatory approvals, the customer pipeline (tracked as "tender wins" or "orders"), and the Flyte acquisition.
 
-The key questions are whether Catheter Precision can successfully divest the cardiac business at a meaningful valuation, and whether the Flyte aviation platform can grow fast enough to sustain the combined company. Neither is assured. Medical device assets in an unsolved market often sell for liquidation prices, not strategic premiums. Aviation is capital-intensive and competitive. The company's stock reflects these uncertainties.
+The key questions are whether Catheter Precision can successfully divest the cardiac business at a meaningful valuation, and whether the Flyte aviation platform can grow fast enough to sustain the combined company. Neither is assured. Medical device assets in an unsolved market often sell for [liquidation](/liquidation/) prices, not strategic premiums. Aviation is capital-intensive and competitive. The company's stock reflects these uncertainties.
 
 As with any single security, the shares trade at market prices. The company has FDA approvals and real technology, but unproven commercial traction and an uncertain strategic direction. Nothing here is a recommendation to buy or sell — only a map of what the company currently does and the transitions it is navigating.

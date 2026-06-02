@@ -21,7 +21,7 @@ handwritten: true
   <div><strong>What it does</strong>: Full-service banking, asset management, advisory services</div>
 </aside>
 
-[Bank of America](/bank-of-america/) is one of the largest and most complex [financial institutions](/wiki/public-company/) in the world. It operates as a diversified banking and financial services company, anchored in traditional retail and wholesale banking while extending deep into investment management, capital markets, and trading across dozens of countries. For most investors, BAC represents exposure to U.S. credit cycles, interest rate policy, and the structural health of the [American financial](/afg-stock/) system itself.
+[Bank of America](/bank-of-america/) is one of the largest and most complex [financial institutions](/wiki/public-company/) in the world. It operates as a diversified banking and financial services company, anchored in traditional retail and wholesale banking while extending deep into investment management, capital markets, and trading across dozens of countries. For most investors, BAC represents exposure to U.S. credit cycles, interest rate policy, and the structural health of the American financial system itself.
 
 ## The Business Architecture
 
@@ -33,7 +33,7 @@ Like all large banks, BofA's earnings are deeply cyclical. Strong economies brin
 
 ## History and Scale
 
-Bank of America traces its roots to the North Carolina [National Bank](/nbhc-stock/), founded in 1874. The modern institution took shape through [mergers](/merger/) and [acquisitions](/acquisition/) that assembled a coast-to-coast network. The 1998 merger with Nations Bank of North Carolina created the company that would later dominate the landscape. The 2004 acquisition of FleetBoston and the 2006 purchase of MBNA cemented its position in consumer and credit card banking. The financial crisis forced an emergency government bailout in 2008; the firm received capital injections and asset-protection guarantees. It repaid TARP funds in late 2009 and has since rebuilt capital and returned to [dividends](/dividend/) and buybacks. The 2008–2009 period was existential for the firm, but management navigated the aftermath and regulatory requirements that followed.
+Bank of America traces its roots to the North Carolina National Bank, founded in 1874. The modern institution took shape through [mergers](/merger/) and [acquisitions](/acquisition/) that assembled a coast-to-coast network. The 1998 merger with Nations Bank of North Carolina created the company that would later dominate the landscape. The 2004 acquisition of FleetBoston and the 2006 purchase of MBNA cemented its position in consumer and credit card banking. The financial crisis forced an emergency government bailout in 2008; the firm received capital injections and asset-protection guarantees. It repaid TARP funds in late 2009 and has since rebuilt capital and returned to [dividends](/dividend/) and buybacks. The 2008–2009 period was existential for the firm, but management navigated the aftermath and regulatory requirements that followed.
 
 Today BofA employs more than 200,000 people and maintains a sprawling branch network—one of the largest in the U.S.—alongside modern digital platforms, trading floors, and advisory offices worldwide.
 

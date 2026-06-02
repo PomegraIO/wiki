@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Defiance Daily Target 2X Long SOUN ETF (SOUX)** is a leveraged exchange-traded fund that seeks to deliver twice the daily return of the SonicShares Sound Index (SOUN). The fund rebalances daily to reset its leverage ratio, making it a short-term tactical instrument for traders betting on the sound and audio technology sector, not a buy-and-hold vehicle.*
+*The **Defiance Daily Target 2X Long SOUN ETF (SOUX)** is a leveraged exchange-traded fund that seeks to deliver twice the daily return of the SonicShares Sound Index (SOUN). The fund rebalances daily to reset its [leverage ratio](/leverage-ratio-forex/), making it a short-term tactical instrument for traders betting on the sound and audio technology sector, not a buy-and-hold vehicle.*
 
 <aside class="wiki-infobox">
 <table>
@@ -41,13 +41,13 @@ Volatility decay becomes severe quickly. If the SOUN index rises 10% over five d
 
 ## The cost of leverage and rebalancing
 
-SOUX's expense ratio typically exceeds 1.10% annually, reflecting the cost of maintaining leverage. This includes the explicit management fee, the cost of derivatives hedging, daily rebalancing friction (the bid-ask spreads incurred in daily trading to reset the leverage), and potentially borrowing costs if any of the leverage is sourced through debt.
+SOUX's [expense ratio](/expense-ratio/) typically exceeds 1.10% annually, reflecting the cost of maintaining leverage. This includes the explicit [management fee](/management-fee/), the cost of derivatives hedging, daily rebalancing friction (the [bid-ask spreads](/bid-ask-spread/) incurred in daily trading to reset the leverage), and potentially borrowing costs if any of the leverage is sourced through debt.
 
 For a fund designed for days-long tactical trades, the annual percentage cost is less relevant than the daily impact. A trader holding SOUX for two weeks faces the combined drag of volatility decay and daily compounding of these costs. Over such a horizon, decay can easily exceed 5% of position value in a volatile environment.
 
 ## Who SOUX is for and how it should be used
 
-SOUX is for active traders who believe the sound and audio technology sector will outperform significantly over the next few days to a couple of weeks and who want to amplify that bet. A trader betting on a surge following an audio innovation announcement might use it. A hedge fund running a thematic portfolio on the sound economy might deploy SOUX tactically.
+SOUX is for active traders who believe the sound and audio technology sector will outperform significantly over the next few days to a couple of weeks and who want to amplify that bet. A trader betting on a surge following an audio innovation announcement might use it. A [hedge fund](/hedge-fund/) running a thematic portfolio on the sound economy might deploy SOUX tactically.
 
 SOUX is emphatically not for buy-and-hold investors, retirement accounts, or anyone holding for periods longer than a few weeks. Defiance's own disclosure and marketing emphasize the short-term nature of the product. A trader holding SOUX through normal market churn will experience returns that significantly lag 2x the index's actual move.
 

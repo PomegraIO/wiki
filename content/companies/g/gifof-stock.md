@@ -32,9 +32,9 @@ Plasma is the liquid part of blood—the pale yellow medium in which blood cells
 
 The company operates a network of plasma-donation centres, most of them in the United States, where paid plasma donation is common and large donor populations exist. Donors come back repeatedly over months and years, creating a stable supply base. From this plasma, Grifols manufactures immunoglobulins (antibodies used to treat primary immunodeficiency and other conditions), albumin (used in critical care and liver disease), clotting factors (for hemophilia and other bleeding disorders), and fibrinogen products (for wound healing and surgery).
 
-These medicines have some of the most durable demand profiles in pharmaceuticals. Patients with hemophilia or immune deficiency depend on plasma products to survive; switching treatments is difficult and risky. Reimbursement is stable because health systems worldwide recognise plasma products as essential. Demand is largely inelastic—it does not collapse in a recession because the underlying diseases do not go away.
+These medicines have some of the most durable demand profiles in pharmaceuticals. Patients with hemophilia or immune deficiency depend on plasma products to survive; switching treatments is difficult and risky. Reimbursement is stable because health systems worldwide recognise plasma products as essential. Demand is largely inelastic—it does not collapse in a [recession](/recession/) because the underlying diseases do not go away.
 
-Margins are fat. Plasma can be collected at relatively low cost once the donation infrastructure is in place. The manufacturing and distribution add value at each step. The finished medicines sell at prices that reflect their scarcity and the life-or-death stakes for patients. Grifols' gross margins on plasma products run well above 60 percent, and operating margins are strong for a manufacturing business.
+Margins are fat. Plasma can be collected at relatively low cost once the donation infrastructure is in place. The manufacturing and distribution add value at each step. The finished medicines sell at prices that reflect their scarcity and the life-or-death stakes for patients. Grifols' gross margins on plasma products run well above 60 percent, and [operating margins](/operating-margin/) are strong for a manufacturing business.
 
 ## Exposed to the plasma supply cycle
 
@@ -46,7 +46,7 @@ Grifols has invested heavily in expanding plasma-collection capacity to reduce t
 
 ## The consolidation story and past troubles
 
-Grifols grew partly through acquisition. The company absorbed competitor Biotest in 2018, a major purchase that added manufacturing capacity and product lines. It has also expanded through bolt-on acquisitions of smaller plasma processors and specialty pharma assets.
+Grifols grew partly through [acquisition](/acquisition/). The company absorbed competitor Biotest in 2018, a major purchase that added manufacturing capacity and product lines. It has also expanded through bolt-on acquisitions of smaller plasma processors and specialty pharma assets.
 
 The integration of Biotest created headwinds. The company took significant charges, faced integration costs, and dealt with underperforming assets within the Biotest acquisition. These costs weighed on profitability and contributed to shareholder disappointment—the stock fell sharply through 2022. The experience showed that scaling through acquisition carries execution risk; buying plasma-collection capacity or manufacturing capability is harder than it appears.
 
@@ -54,7 +54,7 @@ The company also faced regulatory and legal challenges in recent years, includin
 
 ## Market structure and competition
 
-Grifols competes with other large plasma-products makers, most notably CSL Behring (part of CSL Limited, an Australian company) and Takeda Pharmaceutical (which acquired Shire and its substantial plasma-products division). The sector is consolidating and dominated by a handful of large players with similar cost structures and access to plasma.
+Grifols competes with other large plasma-products makers, most notably CSL Behring (part of CSL Limited, an Australian company) and [Takeda Pharmaceutical](/tak-stock/) (which acquired Shire and its substantial plasma-products division). The sector is consolidating and dominated by a handful of large players with similar cost structures and access to plasma.
 
 Price competition is muted by the essential nature of the products and limited substitutes. Patent cliffs loom as key products lose exclusivity, but demand for plasma-derived treatments is unlikely to dry up—the underlying medical need is permanent. New competitors could theoretically enter, but the capital required to build donation networks and manufacturing scale is substantial, and the incumbent cost advantage is hard to overcome.
 
@@ -62,6 +62,6 @@ Price competition is muted by the essential nature of the products and limited s
 
 Grifols' stock tends to underperform in weak economic cycles as investors worry about healthcare-budget cuts and plasma-donation disruptions. The company shines in stable or growing economic cycles when plasma donation is robust and prices hold. This cyclicality is less brutal than coal or oil, but it is real.
 
-Investors should track quarterly plasma collection volumes and the cost to acquire plasma per litre—metrics that telegraph supply tightness and future margin pressure. Watch for any commentary on donation-centre utilisation and expansion plans. Earnings guidance that flags supply constraints or cost inflation is a warning sign.
+Investors should track quarterly plasma collection volumes and the cost to acquire plasma per litre—metrics that telegraph supply tightness and future margin pressure. Watch for any commentary on donation-centre utilisation and expansion plans. Earnings guidance that flags supply constraints or cost [inflation](/inflation/) is a warning sign.
 
 Grifols is best understood as a quasi-defensive franchise—stable demand, recurring revenue—with a cyclical layer tied to plasma supply and healthcare spending. It is neither a pure growth story nor a recession-proof defensive, but somewhere in between.

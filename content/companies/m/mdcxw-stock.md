@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Medicus Pharma carries out a deliberately limited mission: take novel drug candidates from discovery through Phase 2 clinical proof of concept, then hand them off to partners who can fund large expensive late-stage trials and commercialization. The company does not aspire to be a full-fledged pharmaceutical company. It aims to be a disciplined clinical engine, de-risking molecules early so a larger acquirer sees clear value.
+[Medicus Pharma](/mdcx-stock/) carries out a deliberately limited mission: take novel drug candidates from discovery through Phase 2 clinical proof of concept, then hand them off to partners who can fund large expensive late-stage trials and commercialization. The company does not aspire to be a full-fledged pharmaceutical company. It aims to be a disciplined clinical engine, de-risking molecules early so a larger acquirer sees clear value.
 
 <aside class="wiki-infobox">
 <table>
@@ -31,7 +31,7 @@ Medicus works on two main drugs, each aimed at a sizable, underserved market.
 
 **SkinJect** is a dissolvable microneedle patch designed to deliver a chemotherapy drug (doxorubicin) directly into lesions of basal cell carcinoma on the skin. Rather than systemic chemotherapy that harms the entire body, SkinJect localizes the drug to the tumor. The company is running a Phase 2 trial in patients with basal cell carcinoma, including those with Gorlin Syndrome, a rare genetic condition that predisposes patients to multiple BCCs over their lifetime. The addressable market for BCC treatment, including the Gorlin population, is estimated in the low billions of dollars annually in the U.S. alone. If SkinJect works in Phase 2, a much larger pharmaceutical company could fund Phase 3 and eventual approval; the patch itself is a novel delivery mechanism and could extend into other cancers.
 
-**Teverelix** arrived through the acquisition of Antev Limited, a UK-based biotech that had been developing a next-generation GnRH antagonist — a hormone-blocking drug for prostate cancer. Medicus acquired a majority stake in Antev in 2024, bringing Teverelix into its portfolio as a late clinical-stage asset. The program targets two populations: men with cardiovascular risk factors who cannot tolerate standard prostate cancer hormonal therapies, and men experiencing acute urinary retention from benign prostate enlargement. These conditions overlap and represent a fragmented market with no single standard therapy. The total addressable market is estimated around 6 billion dollars globally.
+**Teverelix** arrived through the [acquisition](/acquisition/) of Antev Limited, a UK-based biotech that had been developing a next-generation GnRH antagonist — a hormone-blocking drug for prostate cancer. Medicus acquired a majority stake in Antev in 2024, bringing Teverelix into its portfolio as a late clinical-stage asset. The program targets two populations: men with cardiovascular risk factors who cannot tolerate standard prostate cancer hormonal therapies, and men experiencing acute urinary retention from benign prostate enlargement. These conditions overlap and represent a fragmented market with no single standard therapy. The total addressable market is estimated around 6 billion dollars globally.
 
 The appeal of Teverelix is that it could be a first-in-class therapy with a differentiated safety profile. If Phase 2 data support that, a big pharma company would likely take on the higher cost and regulatory burden of Phase 3.
 
@@ -43,7 +43,7 @@ The company's strategy is lean by biotech standards. It does not employ hundreds
 
 ## The licensing and partnership path
 
-Medicus is not trying to commercialize drugs itself. The company's business model assumes it will license out programs or sell them outright to larger pharmaceutical companies at a point of inflection — typically after Phase 2 reads positive and the path to approval becomes clear. This is a common strategy among small clinical-stage biotechs and is cheaper and lower-risk than trying to fund a full development and commercial infrastructure on a small balance sheet.
+Medicus is not trying to commercialize drugs itself. The company's business model assumes it will license out programs or sell them outright to larger pharmaceutical companies at a point of inflection — typically after Phase 2 reads positive and the path to approval becomes clear. This is a common strategy among small clinical-stage biotechs and is cheaper and lower-risk than trying to fund a full development and commercial infrastructure on a small [balance sheet](/balance-sheet/).
 
 The tradeoff is that Medicus shareholders do not capture the full upside of a successful drug. If SkinJect reaches the market and sells $500 million per year, Medicus will not own it outright; a licensee will, in exchange for upfront payments and royalties. But the alternative — spending 500 million dollars to develop, FDA-approve, and commercialize the drug alone — would bankrupt a company of Medicus's current size. So the licensing path, while it sacrifices some long-term value, is realistic.
 

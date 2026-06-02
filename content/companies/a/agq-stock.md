@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AGQ is a leveraged exchange-traded fund issued by ProShares that amplifies silver's price movements. For every 1% that silver rises in a day, AGQ aims to rise 2%. For every 1% silver falls, AGQ aims to fall 2%. It accomplishes this using derivatives — primarily futures contracts and swap agreements — rather than by holding physical silver bars. The fund resets its leverage daily, which creates a peculiar and important feature: over longer periods, especially in volatile markets, AGQ can underperform or outperform silver prices in ways that have nothing to do with the metal's direction.
+AGQ is a leveraged exchange-traded fund issued by ProShares that amplifies silver's price movements. For every 1% that silver rises in a day, AGQ aims to rise 2%. For every 1% silver falls, AGQ aims to fall 2%. It accomplishes this using derivatives — primarily [futures contracts](/futures-contract/) and swap agreements — rather than by holding physical silver bars. The fund resets its leverage daily, which creates a peculiar and important feature: over longer periods, especially in volatile markets, AGQ can underperform or outperform silver prices in ways that have nothing to do with the metal's direction.
 
 <aside class="wiki-infobox">
 <table>
@@ -46,18 +46,18 @@ This is why AGQ is explicitly a short-term tactical instrument. It is designed f
 
 AGQ does not own silver bullion. Instead, it holds silver futures contracts (which are agreements to buy or sell silver at a set price on a future date) and possibly swap agreements with financial counterparties. These derivatives move in lockstep with silver prices — a futures contract for January delivery of silver rises when the spot price of silver rises — but they do not require the fund to actually store the metal. This lets the fund use leverage cleanly and trade easily without the logistics of vaults and insurance.
 
-Derivatives do carry counterparty risk — if the bank on the other side of a swap fails, the fund could suffer losses — but ProShares is a large, established issuer and the derivatives are marked to market (priced fairly) daily. The real risk is not the counterparty but the leverage itself and the daily reset feature.
+Derivatives do carry [counterparty risk](/counterparty-risk/) — if the bank on the other side of a swap fails, the fund could suffer losses — but ProShares is a large, established issuer and the derivatives are marked to market (priced fairly) daily. The real risk is not the counterparty but the leverage itself and the daily reset feature.
 
 ## Costs and liquidity
 
-AGQ's expense ratio is higher than a plain silver ETF because the fund is constantly rebalancing the derivatives to maintain 2x leverage. Futures contracts have to be rolled (sold as they near expiry and replaced with contracts further out), and all of this trading costs money. The fund also has to pay the spread between bid and ask prices on the derivatives it trades. These costs are especially noticeable if the fund is rebalancing in volatile conditions, when spreads widen.
+AGQ's [expense ratio](/expense-ratio/) is higher than a plain silver ETF because the fund is constantly rebalancing the derivatives to maintain 2x leverage. Futures contracts have to be rolled (sold as they near expiry and replaced with contracts further out), and all of this trading costs money. The fund also has to pay the spread between bid and ask prices on the derivatives it trades. These costs are especially noticeable if the fund is rebalancing in volatile conditions, when spreads widen.
 
-The fund itself trades with high liquidity on NASDAQ OMX — anyone can buy or sell shares easily at prices close to net asset value. But the underlying silver futures market is also liquid, so authorized participants can create and redeem shares as needed, keeping AGQ's price in line with its underlying value.
+The fund itself trades with high liquidity on [NASDAQ](/nasdaq/) OMX — anyone can buy or sell shares easily at prices close to [net asset value](/net-asset-value/). But the underlying silver futures market is also liquid, so [authorized participants](/authorized-participant/) can create and redeem shares as needed, keeping AGQ's price in line with its underlying value.
 
 ## Who AGQ is for and the research needed
 
 AGQ is a tactical tool for short-term traders who believe silver will rise sharply and want to amplify that bet for a few days or weeks. It is not for buy-and-hold investors, retirees, or anyone who cannot tolerate a 20% swing in a fund's value. It is not a substitute for physical silver, a plain silver ETF, or a diversified portfolio.
 
-Anyone considering AGQ should read the fund's prospectus carefully, which explicitly warns about volatility decay, the daily reset mechanism, and the not-for-long-term-holds nature of the fund. Understanding how leveraged ETFs work mathematically is essential before buying. An investor should also track the silver market independently — using the spot price of silver from major commodity exchanges and any news about silver supply, industrial demand, or investment trends — to form their own conviction about which direction to bet.
+Anyone considering AGQ should read the fund's prospectus carefully, which explicitly warns about volatility decay, the daily reset mechanism, and the not-for-long-term-holds nature of the fund. Understanding how [leveraged ETFs](/leveraged-etf/) work mathematically is essential before buying. An investor should also track the silver market independently — using the spot price of silver from major commodity exchanges and any news about silver supply, industrial demand, or investment trends — to form their own conviction about which direction to bet.
 
 The fund is best understood not as an investment but as a leveraged trading position that someone holds for a defined, short period while the leverage can work in their favor.

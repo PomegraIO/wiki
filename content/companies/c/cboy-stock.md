@@ -10,25 +10,25 @@ keywords:
 handwritten: true
 ---
 
-CBOY wraps Bitcoin exposure inside a structured collar strategy that refreshes monthly. The ticker is Calamos' bet on a specific proposition: that investors will pay for the certainty of a known floor in return for accepting a ceiling on their gains. The fund is not a simple buy-and-hold of Bitcoin. It is a more complex instrument designed for investors who want cryptocurrency exposure but find Bitcoin's volatility unpalatable without some bounds.
+CBOY wraps [Bitcoin](/bitcoin/) exposure inside a structured [collar strategy](/collar-strategy/) that refreshes monthly. The ticker is Calamos' bet on a specific proposition: that investors will pay for the certainty of a known floor in return for accepting a ceiling on their gains. The fund is not a simple buy-and-hold of Bitcoin. It is a more complex instrument designed for investors who want cryptocurrency exposure but find Bitcoin's volatility unpalatable without some bounds.
 
 ## The structure at a glance
 
-The mechanics are straightforward to state, complex to execute. CBOY's strategy involves holding Bitcoin (or Bitcoin futures, or both) and simultaneously buying protective put options while selling call options. This is called a collar or a covered call on a long stock position, adapted for crypto. The puts act as insurance: if Bitcoin drops below the protection level, the put pays off, offsetting the loss. The calls cap the gain: if Bitcoin rallies above the call strike, the upside is surrendered to the option seller, who keeps the gain above that level.
+The mechanics are straightforward to state, complex to execute. CBOY's strategy involves holding Bitcoin (or Bitcoin futures, or both) and simultaneously buying [protective put](/protective-put/) options while selling [call options](/call-option/). This is called a collar or a [covered call](/covered-call/) on a long stock position, adapted for crypto. The puts act as insurance: if Bitcoin drops below the protection level, the put pays off, offsetting the loss. The calls cap the gain: if Bitcoin rallies above the call strike, the upside is surrendered to the option seller, who keeps the gain above that level.
 
 The key phrase is "July" — the options reset each month. This means the floor and ceiling change monthly based on market conditions and the cost of options at that time. In a calm month when volatility is low, the floor might be wider and the ceiling higher, because options are cheaper. In a panicked month when volatility spikes, the floor and ceiling might tighten. A new investor buying in does not inherit the July-specific strikes; they get the fund's current collar, which resets alongside everyone else when the next cycle begins.
 
 ## How it trades and what you pay
 
-CBOY is an exchange-traded fund, so it trades on an exchange throughout the day at prices set by supply and demand. The expense ratio includes the cost of managing the Bitcoin exposure, the options overlay, and the monthly reset process. What is not included in the expense ratio — what you actually pay — is the cost of the protection. That cost is embedded in the spread between the upside you give up (the call strike) and the downside you surrender (the put strike). In a bull market where Bitcoin is grinding higher, you feel this trade-off acutely: your gains are capped while you are paying for protection you do not use.
+CBOY is an exchange-traded fund, so it trades on an exchange throughout the day at prices set by supply and demand. The [expense ratio](/expense-ratio/) includes the cost of managing the Bitcoin exposure, the options overlay, and the monthly reset process. What is not included in the expense ratio — what you actually pay — is the cost of the protection. That cost is embedded in the spread between the upside you give up (the call strike) and the downside you surrender (the put strike). In a [bull market](/bull-market/) where Bitcoin is grinding higher, you feel this trade-off acutely: your gains are capped while you are paying for protection you do not use.
 
-The fund will have a bid-ask spread when you buy or sell, like any exchange-traded product. The spread is typically wider for leveraged or structured ETFs than for plain vanilla stock or bond funds, because the rebalancing is more complex and the market makers' hedging is harder.
+The fund will have a [bid-ask spread](/bid-ask-spread/) when you buy or sell, like any exchange-traded product. The spread is typically wider for leveraged or structured ETFs than for plain vanilla stock or [bond](/bond/) funds, because the rebalancing is more complex and the [market makers](/market-maker-trading/)' hedging is harder.
 
 ## Cyclicality and where it belongs
 
 In a bull market, CBOY underperforms Bitcoin outright. Your upside is capped. This is not a defect — it is the price of the protection. An investor in CBOY is saying: "I think Bitcoin will go up, but I sleep better if I know the worst-case is known and the best-case is merely very good rather than spectacular."
 
-In a bear market or a crash, CBOY preserves capital far better than Bitcoin. The floor protects you. When Bitcoin is in free fall and panic is high, the put protection kicks in, cushioning the blow. Volatility spikes simultaneously, which makes the options more valuable and the strategy more potent.
+In a [bear market](/bear-market/) or a crash, CBOY preserves capital far better than Bitcoin. The floor protects you. When Bitcoin is in free fall and panic is high, the put protection kicks in, cushioning the blow. Volatility spikes simultaneously, which makes the options more valuable and the strategy more potent.
 
 The trade-off is asymmetric by design. You are implicitly betting that the protection you buy (the certainty of a known floor) is worth more than the upside you give up (the capped ceiling). This bet is not always right. In the longest Bitcoin bull runs, when prices climb for years without a major setback, you would have been better off holding Bitcoin outright. In a brutal down year, the floor saves you 50% of what you would have lost, which suddenly looks priceless.
 

@@ -38,7 +38,7 @@ Because the index rebalances regularly (typically monthly or quarterly) based on
 
 ## How it trades and costs
 
-PIE is a normal ETF: you can buy or sell shares on the NASDAQ stock exchange during trading hours at market prices. The fund's expense ratio reflects the costs of managing an index-based portfolio with regular turnover. That ratio is a bit higher than a plain-vanilla emerging-market ETF because of the turnover required to maintain momentum weighting, but it is still low compared to an actively managed emerging-market fund.
+PIE is a normal ETF: you can buy or sell shares on the [NASDAQ](/nasdaq/) [stock exchange](/stock-exchange/) during trading hours at market prices. The fund's [expense ratio](/expense-ratio/) reflects the costs of managing an index-based portfolio with regular turnover. That ratio is a bit higher than a plain-vanilla emerging-market ETF because of the turnover required to maintain momentum weighting, but it is still low compared to an actively managed emerging-market fund.
 
 Because PIE focuses on stocks from developing countries and smaller companies within those countries, the fund's liquidity is good but not as deep as a US large-cap fund. Individual shareholders trading small or moderate positions should have no problem, but very large trades may move the market.
 
@@ -46,9 +46,9 @@ Because PIE focuses on stocks from developing countries and smaller companies wi
 
 **Momentum can reverse fast.** Just as a price trend can persist for weeks or months, it can also flip quickly if company news turns bad or if overall market sentiment shifts. An investor who buys a momentum-screened stock at the peak of its run can face sudden sharp declines.
 
-**Emerging-market volatility.** Emerging markets are more volatile than developed markets. Political instability, currency swings, central-bank policy shifts, and sudden changes in capital flows can shake share prices dramatically. A fund holding emerging-market stocks will swing more than a developed-market equivalent.
+**Emerging-market volatility.** Emerging markets are more volatile than developed markets. Political instability, currency swings, central-bank policy shifts, and sudden changes in [capital flows](/capital-flows/) can shake share prices dramatically. A fund holding emerging-market stocks will swing more than a developed-market equivalent.
 
-**Currency risk.** Most emerging-market stocks trade in their local currency — Brazilian reals, Indian rupees, Thai baht. When you buy PIE, you are implicitly holding all those foreign currencies. If the US dollar strengthens, those currencies weaken, which can erase profits even if the stocks themselves go up in local terms.
+**[Currency risk](/currency-risk/).** Most emerging-market stocks trade in their local currency — Brazilian reals, [Indian rupees](/indian-rupee/), Thai baht. When you buy PIE, you are implicitly holding all those foreign currencies. If the [US dollar](/us-dollar/) strengthens, those currencies weaken, which can erase profits even if the stocks themselves go up in local terms.
 
 **Concentration.** Momentum screening can create concentration: if a few countries or sectors are experiencing strong price trends, the index will hold disproportionately many stocks from those regions or industries. If that momentum is bubble-like and pops, losses can be severe.
 
@@ -56,6 +56,6 @@ Because PIE focuses on stocks from developing countries and smaller companies wi
 
 ## Who this is for and research directions
 
-PIE is for investors who believe momentum investing works, who want exposure to emerging markets, and who are comfortable with the volatility and currency risk that comes with it. Traders and tactical allocators sometimes use momentum funds to overweight regions or sectors they expect to rally. Income investors and conservative savers should look elsewhere.
+PIE is for investors who believe [momentum investing](/momentum-investing/) works, who want exposure to emerging markets, and who are comfortable with the volatility and currency risk that comes with it. Traders and tactical allocators sometimes use momentum funds to overweight regions or sectors they expect to rally. Income investors and conservative savers should look elsewhere.
 
-To research the fund, start with Invesco's fact sheet and prospectus. The Dorsey Wright website explains its momentum methodology in detail — how it calculates momentum scores, which stocks it includes, and how often it rebalances. Look at the fund's top holdings and think about whether you understand the businesses and countries involved. Read about emerging-market macroeconomics and currency trends; these often drive returns more than individual stock picking does in developing markets. Review the fund's historical returns alongside a simple emerging-market index fund like VWO to see whether the momentum selection approach has added value or subtracted it.
+To research the fund, start with Invesco's fact sheet and prospectus. The Dorsey Wright website explains its momentum methodology in detail — how it calculates momentum scores, which stocks it includes, and how often it rebalances. Look at the fund's top holdings and think about whether you understand the businesses and countries involved. Read about emerging-market macroeconomics and currency trends; these often drive returns more than individual stock picking does in developing markets. Review the fund's historical returns alongside a simple emerging-market [index fund](/index-fund/) like VWO to see whether the momentum selection approach has added value or subtracted it.

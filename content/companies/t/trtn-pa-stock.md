@@ -44,9 +44,9 @@ The business also benefits from consolidation: the container-leasing industry ha
 
 The defining constraint of the container business is that it is capital-intensive and growth is expensive. To expand the fleet, Triton must continuously invest in new containers — not once, but year after year. Containers depreciate, wear, and require replacement. Customers demand more capacity. Triton's capital expenditure is enormous relative to annual revenue, which means the company must rely on external financing (debt or equity) to fund growth.
 
-This exposes Triton to interest-rate risk. Container leasing is a fixed-income business in substance — customers sign long-term leases at agreed rates, typically in the 5–8% range (though rates fluctuate with market conditions and credit cycles). If Triton's cost of debt rises sharply, the gap between what the company earns on leases and what it pays to finance the containers shrinks. Periods of rising rates and tight credit hurt the business model.
+This exposes Triton to [interest-rate risk](/interest-rate-risk/). Container leasing is a fixed-income business in substance — customers sign long-term leases at agreed rates, typically in the 5–8% range (though rates fluctuate with market conditions and credit cycles). If Triton's [cost of debt](/cost-of-debt/) rises sharply, the gap between what the company earns on leases and what it pays to finance the containers shrinks. Periods of rising rates and tight credit hurt the business model.
 
-Utilization is a second driver of earnings. Triton's fleet generates revenue only when containers are on lease. Unused containers sitting in a depot earn nothing while still costing money to maintain. Industry-wide downturns — recessions, trade disruptions, or shipping-market collapse — can leave Triton with high vacancy and poor cash generation.
+Utilization is a second driver of earnings. Triton's fleet generates revenue only when containers are on lease. Unused containers sitting in a depot earn nothing while still costing money to maintain. Industry-wide downturns — [recessions](/recession/), trade disruptions, or shipping-market collapse — can leave Triton with high vacancy and poor cash generation.
 
 ## How the lease market works
 
@@ -58,11 +58,11 @@ The customer base is highly concentrated. The top five shipping lines represent 
 
 Triton's fleet is distributed globally, but the money flows from wherever major shipping routes concentrate — primarily Asia-Europe, Asia-North America, and Asia-Middle East lanes. Because those trade routes are dominated by origin and destination ports in Asia, a slowdown in Chinese manufacturing or a shift in global supply chains hits container demand hard. Triton's fortunes are thus tightly linked to global trade volumes and the structural patterns of which countries are exporting what.
 
-The company is also exposed to geopolitical shocks. Trade wars, tariffs, sanctions, and port strikes disrupt shipping patterns and container demand. A recession in key markets — the United States, Europe — sharply reduces import volumes and leaves containers idle.
+The company is also exposed to geopolitical shocks. [Trade wars](/trade-war/), tariffs, sanctions, and port strikes disrupt shipping patterns and container demand. A recession in key markets — the United States, Europe — sharply reduces import volumes and leaves containers idle.
 
 ## Capital allocation and financial structure
 
-Triton's enormous free cash flow is returned to shareholders through dividends and buybacks, much like capital-heavy infrastructure companies. The company also carries substantial debt to finance its fleet — leverage is part of the business model and necessary to grow. Management's job is to grow the fleet while servicing that debt and returning excess cash to shareholders.
+Triton's enormous [free cash flow](/free-cash-flow/) is returned to shareholders through [dividends](/dividend/) and buybacks, much like capital-heavy infrastructure companies. The company also carries substantial debt to finance its fleet — leverage is part of the business model and necessary to grow. Management's job is to grow the fleet while servicing that debt and returning excess cash to shareholders.
 
 The balance between growth reinvestment, debt service, and shareholder returns defines the investment case. In good years with strong lease demand and high utilization, Triton can do all three comfortably. In weak years, leverage becomes onerous and the company may cut dividends or reduce buybacks to preserve cash.
 

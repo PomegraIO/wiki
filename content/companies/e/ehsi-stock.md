@@ -49,7 +49,7 @@ The company does not have capital to fund aggressive acquisitions, nor does it h
 
 From an institutional investor's view, Elite is neither a disruptive innovator nor a mature cash-cow worthy of a [dividend-yield](/dividend-yield/) portfolio. It is a company that probably should have sold to a larger system five years ago but did not, and whose independent window is now closing. The company's next major decision—stay independent and extract cash, or merge—will define its remaining years. Until that decision crystallizes, the stock will likely trade sideways, returning modest income to long-term holders while failing to attract new capital.
 
-Elite Health Systems embodies the plateau phase of a [healthcare services](/hcsg-stock/) company: operationally competent, strategically ambiguous, financially mature but not exciting, and facing consolidation forces that it cannot engineer but can only accommodate or resist briefly.
+Elite Health Systems embodies the plateau phase of a healthcare services company: operationally competent, strategically ambiguous, financially mature but not exciting, and facing consolidation forces that it cannot engineer but can only accommodate or resist briefly.
 
 <div class="wiki-seealso">
 

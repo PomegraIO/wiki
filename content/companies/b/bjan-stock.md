@@ -17,17 +17,17 @@ The Innovator U.S. Equity Buffer ETF - January (BJAN) is a structured fund desig
 
 BJAN's core appeal is simple: most stock investors are willing to accept that markets will fall sometimes, but they find the volatility of those falls psychologically uncomfortable. BJAN tries to make that discomfort smaller by saying: "In this calendar year, you will not lose more than 9 percent, no matter how badly stocks fall — but you also will not gain more than about 15 percent, no matter how well they do." The boundaries shift slightly year to year as options prices change, but the principle stays the same.
 
-The fund achieves this using a collar strategy: long calls (options giving the right to buy) and short puts (options obligating the fund to buy). The long calls give you most of the upside when stocks rise. The short puts fund those calls by capping gains beyond a certain level. The net result is that BJAN trades volatility — smaller losses in exchange for smaller gains.
+The fund achieves this using a [collar strategy](/collar-strategy/): long calls (options giving the right to buy) and short puts (options obligating the fund to buy). The long calls give you most of the upside when stocks rise. The short puts fund those calls by capping gains beyond a certain level. The net result is that BJAN trades volatility — smaller losses in exchange for smaller gains.
 
 ## How BJAN is positioned within a portfolio
 
-BJAN holds the companies in the S&P 500 index, so you get broad U.S. stock exposure. On top of that, Innovator overlays an options hedge. Every January the fund enters new option contracts that define the buffer and cap for that calendar year. As the year progresses, those options age and their value shifts based on stock prices and market volatility. At the end of December, the old contracts expire and the fund enters new ones for the new calendar year.
+BJAN holds the companies in the [S&P 500 index](/sp-500-index/), so you get broad U.S. stock exposure. On top of that, Innovator overlays an options hedge. Every January the fund enters new option contracts that define the buffer and cap for that calendar year. As the year progresses, those options age and their value shifts based on stock prices and market volatility. At the end of December, the old contracts expire and the fund enters new ones for the new calendar year.
 
 This annual reset is crucial. It means BJAN's outcome bounds apply to a calendar year, not a rolling twelve-month period. If you buy BJAN in March, you inherit the buffer and cap that were set the previous January. If you buy in January, you get the fresh ones. This timing matters for your downside protection and upside potential.
 
 ## Costs and the math of the trade
 
-BJAN charges an expense ratio to cover the cost of buying and managing the protective options. That cost is built into the fund's structure; you do not pay it directly, but it reduces your returns relative to holding S&P 500 stocks outright.
+BJAN charges an [expense ratio](/expense-ratio/) to cover the cost of buying and managing the protective options. That cost is built into the fund's structure; you do not pay it directly, but it reduces your returns relative to holding S&P 500 stocks outright.
 
 The mathematics of the buffer are straightforward if you know what year you are in: if S&P 500 stocks fall 20 percent and your buffer is 9 percent, you lose 9 percent. If they rise 30 percent and your cap is 15 percent, you gain 15 percent. On a massive up year like 2021 (when stocks rose about 29 percent), the cap cost you gains. On a rough year like 2022 (when stocks fell about 18 percent), the buffer saved you roughly 9 points of damage.
 

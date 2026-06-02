@@ -11,17 +11,17 @@ keywords:
 handwritten: true
 ---
 
-Petros Pharmaceuticals is a small pharmaceutical company focused on a single therapeutic area: oral treatments for erectile dysfunction. Its flagship product is Stendra (the generic name avanafil), a phosphodiesterase-5 inhibitor that was originally approved by the FDA in April 2012 for prescription use. The company's ticker symbol on NASDAQ is PTPI.
+Petros Pharmaceuticals is a small pharmaceutical company focused on a single therapeutic area: oral treatments for erectile dysfunction. Its flagship product is Stendra (the generic name avanafil), a phosphodiesterase-5 inhibitor that was originally approved by the FDA in April 2012 for prescription use. The company's ticker symbol on [NASDAQ](/nasdaq/) is PTPI.
 
 Petros' strategic focus has narrowed considerably over its life. Originally it held multiple programs and competed in a crowded field. Today, the company's main bet is on transforming Stendra from a prescription drug into the first PDE-5 inhibitor available over the counter—a transition that would reshape how the drug is marketed, distributed, and priced.
 
 ## The merger that created Petros
 
-Petros Pharmaceuticals was incorporated in May 2020 through a merger that brought together three entities: Neurotrope, Inc., Metuchen Pharmaceuticals LLC, and related subsidiaries. The merger was designed to consolidate control of Stendra and to give the combined entity funding to develop and commercialize it.
+Petros Pharmaceuticals was incorporated in May 2020 through a [merger](/merger/) that brought together three entities: Neurotrope, Inc., Metuchen Pharmaceuticals LLC, and related subsidiaries. The merger was designed to consolidate control of Stendra and to give the combined entity funding to develop and commercialize it.
 
-Metuchen Pharmaceuticals had relaunched Stendra in 2019 after the drug had lost market prominence. At the time of the 2020 merger, the recapitalization and relaunch generated approximately 20 million dollars in funding for the newly formed Petros.
+Metuchen Pharmaceuticals had relaunched Stendra in 2019 after the drug had lost market prominence. At the time of the 2020 merger, the [recapitalization](/recapitalization/) and relaunch generated approximately 20 million dollars in funding for the newly formed Petros.
 
-The company went public in December 2020 through an initial public offering at $5.00 per share, raising roughly 11 million dollars. A small IPO like that provides working capital for a small-cap biotech, but it also meant the company started life with limited resources relative to its ambitions.
+The company went public in December 2020 through an [initial public offering](/initial-public-offering/) at $5.00 per share, raising roughly 11 million dollars. A small IPO like that provides working capital for a small-cap biotech, but it also meant the company started life with limited resources relative to its ambitions.
 
 ## Stendra and the PDE-5 market
 

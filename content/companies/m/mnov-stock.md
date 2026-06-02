@@ -23,7 +23,7 @@ This posture makes MEDICINOVA highly sensitive to trial readouts. A positive Pha
 
 ## Portfolio Strategy and Niche Selection
 
-Rather than compete head-to-head with Merck or [Bristol Myers Squibb](/bmy-stock/) on common oncology targets, MEDICINOVA targets orphan and rare-disease oncology niches. These indications have smaller addressable markets but often face less competitive development pressure. Pharma giants walk away from a $500-million market; a $500-million market can support a dedicated biotech company's entire valuation if the drug is approved and adopted.
+Rather than compete head-to-head with [Merck](/mrk-stock/) or [Bristol Myers Squibb](/bmy-stock/) on common oncology targets, MEDICINOVA targets orphan and rare-disease oncology niches. These indications have smaller addressable markets but often face less competitive development pressure. Pharma giants walk away from a $500-million market; a $500-million market can support a dedicated biotech company's entire valuation if the drug is approved and adopted.
 
 This niche selection is a constraint and an opportunity. MEDICINOVA cannot become Roche, but it can become a focused specialist firm with a profitable drug in a narrow indication. The trade-off is that each drug candidate must clear a very high bar: the indication must be small enough that MEDICINOVA can capture it but large enough that sales support the company's overhead and fuel further development.
 

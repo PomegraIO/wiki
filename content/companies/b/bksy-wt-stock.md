@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-BlackSky Technology operates a commercial satellite constellation and geospatial intelligence platform designed primarily for defense, intelligence, and government customers. The company's business model revolves around contracted access to real-time satellite imagery—collected by its own on-orbit spacecraft and processed through artificial intelligence—sold under recurring government contracts and subscription arrangements.
+[BlackSky Technology](/bksy-stock/) operates a commercial satellite constellation and geospatial intelligence platform designed primarily for defense, intelligence, and government customers. The company's business model revolves around contracted access to real-time satellite imagery—collected by its own on-orbit spacecraft and processed through artificial intelligence—sold under recurring government contracts and subscription arrangements.
 
 ## Space-based imagery as a contracted service
 

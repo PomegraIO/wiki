@@ -54,7 +54,7 @@ SEC staff have also issued guidance on accounting standards: Cellyan must use ei
 
 ## Currency Risk and Capital Controls
 
-Cellyan likely generates revenue in Chinese RMB but may have obligations in U.S. dollars (clinical trials funded by U.S. investors, software licenses, or import payments). The exchange rate between RMB and USD is managed by the Chinese government; while it is allowed to float, it is not freely convertible offshore without government permission. If Cellyan needs to move RMB out of China to pay U.S. obligations, the company must navigate China's capital-control rules, which limit annual foreign-exchange transfers. Cellyan may need to apply for special approval or use approved channels (QFII/QDII schemes), adding operational friction.
+Cellyan likely generates revenue in Chinese RMB but may have obligations in [U.S. dollars](/us-dollar/) (clinical trials funded by U.S. investors, software licenses, or import payments). The exchange rate between RMB and USD is managed by the Chinese government; while it is allowed to float, it is not freely convertible offshore without government permission. If Cellyan needs to move RMB out of China to pay U.S. obligations, the company must navigate China's capital-control rules, which limit annual foreign-exchange transfers. Cellyan may need to apply for special approval or use approved channels (QFII/QDII schemes), adding operational friction.
 
 ## Regulatory Uncertainty and Political Risk
 

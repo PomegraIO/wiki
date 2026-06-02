@@ -48,7 +48,7 @@ Eylea is the largest and oldest, approved in 2006 for age-related macular degene
 
 Dupixent is a newer blockbuster, approved in 2017 for atopic dermatitis (severe eczema). It is an antibody that targets a cytokine called interleukin-4 receptor alpha, which drives the inflammatory cascade in eczema. Dupixent has expanded rapidly into asthma, chronic rhinosinusitis, and eosinophilic esophagitis — a rare disease where the immune system attacks the esophagus. The drug was a huge commercial success and has become one of Regeneron's pillars.
 
-Libtayo is a monoclonal antibody for certain cancers, approved for non-small-cell lung cancer and other malignancies. It binds to PD-1, a protein on immune cells that cancer uses to hide from the immune system; blocking PD-1 unleashes the immune response. This class of antibodies, called checkpoint inhibitors, has been revolutionary in cancer but is also crowded with competitors from Merck, [Bristol Myers Squibb](/bmy-stock/), and others.
+Libtayo is a monoclonal antibody for certain cancers, approved for non-small-cell lung cancer and other malignancies. It binds to PD-1, a protein on immune cells that cancer uses to hide from the immune system; blocking PD-1 unleashes the immune response. This class of antibodies, called checkpoint inhibitors, has been revolutionary in cancer but is also crowded with competitors from [Merck](/mrk-stock/), [Bristol Myers Squibb](/bmy-stock/), and others.
 
 Regeneron also has a deep pipeline of candidates in development targeting inflammation, cancer, rare genetic diseases, and age-related diseases. The company is in a continuous cycle of investing in research, filing for approval of new candidates, and hoping that some of them become blockbusters.
 

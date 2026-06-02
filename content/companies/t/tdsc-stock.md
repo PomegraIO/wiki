@@ -25,7 +25,7 @@ handwritten: true
 
 </aside>
 
-TDSC is designed to appeal to investors who lose sleep over market downturns. The fund holds a mix of stocks and bonds, and a mechanical rule adjusts that mix continuously — selling stocks and buying bonds when the market becomes turbulent, then rotating back to stocks when conditions calm. The goal is to never lose more than 10% from the fund's rolling high point.
+TDSC is designed to appeal to investors who lose sleep over market downturns. The fund holds a mix of stocks and [bonds](/bond/), and a mechanical rule adjusts that mix continuously — selling stocks and buying bonds when the market becomes turbulent, then rotating back to stocks when conditions calm. The goal is to never lose more than 10% from the fund's rolling high point.
 
 ## How does the drawdown-control mechanism work?
 
@@ -37,13 +37,13 @@ This is not market-timing in the traditional sense — the rule does not try to 
 
 ## What does the portfolio actually hold?
 
-TDSC typically holds a mixture of broad US stock index exposure (through positions in equity ETFs or stocks themselves) and bond index exposure. The exact allocation moves dynamically: when volatility is low and the market is rising, the fund might be 80% stocks and 20% bonds. When drawdown pressure builds, it might shift to 40% stocks and 60% bonds, or even higher bond allocation. The fund does not hold just one target allocation; it is designed to shift continuously in response to market conditions.
+TDSC typically holds a mixture of broad US stock index exposure (through positions in [equity ETFs](/equity-etf/) or stocks themselves) and bond index exposure. The exact allocation moves dynamically: when volatility is low and the market is rising, the fund might be 80% stocks and 20% bonds. When drawdown pressure builds, it might shift to 40% stocks and 60% bonds, or even higher bond allocation. The fund does not hold just one target allocation; it is designed to shift continuously in response to market conditions.
 
-The bonds are usually government or investment-grade corporate bonds, chosen for their stability and negative correlation to stocks — when stocks fall, bond prices often rise, providing a cushion. This negative correlation is what makes the stock/bond mix effective as a risk-control mechanism.
+The bonds are usually government or investment-grade [corporate bonds](/corporate-bond/), chosen for their stability and negative correlation to stocks — when stocks fall, bond prices often rise, providing a cushion. This negative correlation is what makes the stock/bond mix effective as a risk-control mechanism.
 
 ## What are the costs and mechanics?
 
-ETC Cabana charges an annual expense ratio for managing TDSC; this fee typically reflects the cost of the underlying index positions plus the cost of the frequent rebalancing required to manage the drawdown target. Because the fund rebalances often — sometimes monthly, sometimes more frequently depending on market conditions — trading costs inside the fund may be higher than a passive buy-and-hold index fund. Check TDSC's prospectus for the exact fee.
+ETC Cabana charges an annual [expense ratio](/expense-ratio/) for managing TDSC; this fee typically reflects the cost of the underlying index positions plus the cost of the frequent rebalancing required to manage the drawdown target. Because the fund rebalances often — sometimes monthly, sometimes more frequently depending on market conditions — trading costs inside the fund may be higher than a passive buy-and-hold [index fund](/index-fund/). Check TDSC's prospectus for the exact fee.
 
 The fund trades on an exchange like any ETF, so you buy and sell shares during market hours at whatever price the market is quoting. The underlying holdings (stocks and bonds) trade continuously, but your entry and exit prices are set by the exchange market for TDSC shares themselves.
 
@@ -55,7 +55,7 @@ In a severe market correction where stocks fall 30%, TDSC's drawdown-control rul
 
 In a choppy, sideways market with frequent small losses and gains, TDSC may underperform due to whipsaw — the rule might sell stocks near a bottom and buy bonds before the rebound begins. Over many cycles this average out, but unlucky timing creates drag.
 
-Over very long periods, the smoothing benefit of the drawdown control has a measurable cost: because TDSC avoids the largest bull markets and stays partly in bonds, long-term returns trail a 100% stock portfolio. For someone with a 30-year horizon and iron discipline, pure equities likely win. For someone who is tempted to sell near market bottoms, TDSC's smoother ride may actually produce better results by keeping them invested.
+Over very long periods, the smoothing benefit of the drawdown control has a measurable cost: because TDSC avoids the largest [bull markets](/bull-market/) and stays partly in bonds, long-term returns trail a 100% stock portfolio. For someone with a 30-year horizon and iron discipline, pure equities likely win. For someone who is tempted to sell near market bottoms, TDSC's smoother ride may actually produce better results by keeping them invested.
 
 ## Who is this fund for and what are the real risks?
 

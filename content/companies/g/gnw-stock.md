@@ -33,7 +33,7 @@ Insurance companies face regulatory capital requirements from state insurance co
 
 ## Investment Portfolio and Yield Pressure
 
-Genworth's income statement includes investment income (interest and dividends on its asset portfolio) as a material source of earnings. The composition of the investment portfolio—bonds, equities, real estate—appears in the balance sheet and is detailed in footnotes. The portfolio's duration and yield relative to the company's liabilities is disclosed, revealing the extent of duration mismatch and [interest rate](/interest-rate/) risk. When yields decline, Genworth's reinvestment rates fall, pressuring overall returns. The company's disclosure of portfolio quality ([credit ratings](/credit-rating/), default experience) and [prepayment risk](/prepayment-risk/) (for mortgages held) reveals the embedded risks in its asset side.
+Genworth's income statement includes investment income (interest and dividends on its asset portfolio) as a material source of earnings. The composition of the investment portfolio—[bonds](/bond/), equities, real estate—appears in the balance sheet and is detailed in footnotes. The portfolio's duration and yield relative to the company's liabilities is disclosed, revealing the extent of duration mismatch and [interest rate](/interest-rate/) risk. When yields decline, Genworth's reinvestment rates fall, pressuring overall returns. The company's disclosure of portfolio quality ([credit ratings](/credit-rating/), default experience) and [prepayment risk](/prepayment-risk/) (for mortgages held) reveals the embedded risks in its asset side.
 
 ## Premium Revenue Recognition and Underwriting Cycles
 
@@ -45,11 +45,11 @@ Genworth funds itself partly through equity, partly through insurance float (res
 
 ## Acquisition and Goodwill Carrying Values
 
-If Genworth has acquired other insurance companies or financial service businesses, the acquired assets remain on the balance sheet as goodwill and other intangibles. These [intangible assets](/intangible-assets/) are reviewed periodically for impairment; the company must disclose the carrying value of goodwill and the result of impairment tests. Significant goodwill write-downs signal that past acquisitions disappointed expectations. The company's acquisition history and integration track record are disclosed in business description and MD&A sections.
+If Genworth has acquired other insurance companies or financial service businesses, the acquired assets remain on the balance sheet as [goodwill](/goodwill/) and other intangibles. These [intangible assets](/intangible-assets/) are reviewed periodically for impairment; the company must disclose the carrying value of goodwill and the result of impairment tests. Significant goodwill write-downs signal that past [acquisitions](/acquisition/) disappointed expectations. The company's acquisition history and integration track record are disclosed in business description and MD&A sections.
 
 ## Dividend Policy and Shareholder Returns
 
-Genworth's cash return to shareholders takes the form of dividends and [share buybacks](/share-buyback/). The [board of directors](/board-of-directors/) sets dividend policy; Genworth discloses its [dividend per share](/dividend-per-share/) and payout ratio in footnotes and MD&A. The company must also disclose any restrictions on dividend payments imposed by regulators or debt covenants. Share repurchase authorizations and execution are disclosed in proxy statements, revealing how the company prioritizes returning cash versus retaining capital for growth.
+Genworth's cash return to shareholders takes the form of dividends and [share buybacks](/share-buyback/). The [board of directors](/board-of-directors/) sets dividend policy; Genworth discloses its [dividend per share](/dividend-per-share/) and [payout ratio](/payout-ratio/) in footnotes and MD&A. The company must also disclose any restrictions on dividend payments imposed by regulators or debt covenants. Share repurchase authorizations and execution are disclosed in proxy statements, revealing how the company prioritizes returning cash versus retaining capital for growth.
 
 ## Consolidated Tax Position and Effective Rate
 

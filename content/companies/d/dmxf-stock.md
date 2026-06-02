@@ -23,7 +23,7 @@ The result is an index with somewhere between 400 and 500 holdings, spread broad
 
 ## Costs, trading, and liquidity
 
-DMXF trades on the NASDAQ under heavy volume. The expense ratio is competitive for a broad international equity fund — roughly 0.4% annually in recent periods, meaning that on a $10,000 position an investor pays about $40 per year in management fees. The bid-ask spread (the cost of entry and exit in a single trade) is typically tight, under 0.05%, because the fund is popular and frequently traded.
+DMXF trades on the [NASDAQ](/nasdaq/) under heavy volume. The [expense ratio](/expense-ratio/) is competitive for a broad international equity fund — roughly 0.4% annually in recent periods, meaning that on a $10,000 position an investor pays about $40 per year in [management fees](/management-fee/). The [bid-ask spread](/bid-ask-spread/) (the cost of entry and exit in a single trade) is typically tight, under 0.05%, because the fund is popular and frequently traded.
 
 The fund tracks its index very closely, with tracking error (the difference between fund returns and index returns) usually under 0.1% annualized. That is expected for a fund with such a large, transparent holdings list and simple methodology. Liquidity is excellent; the underlying shares are mostly multinational firms with deep capital markets, and the fund itself has accumulated substantial assets.
 
@@ -37,11 +37,11 @@ An investor in DMXF is explicitly choosing developed-market exposure over emergi
 
 Holdings in DMXF earn revenue in euros, yen, pounds, and other currencies. When the dollar strengthens, those foreign earnings translate to fewer dollars in shareholder pockets. When the dollar weakens, the reverse occurs. The fund does not hedge currency, so all foreign-exchange moves pass through directly to investors. For a US investor, this means DMXF's return includes both the performance of the underlying stocks and the currency moves — a feature that makes international funds more volatile but also more diversifying than US-only strategies.
 
-The geographic split matters. Europe accounts for the largest slice, followed by Japan and then smaller allocations to developed Asia-Pacific and North America. European holdings dominate means European economic cycles drive much of the fund's performance. A eurozone recession hits harder than Japanese stagnation would.
+The geographic split matters. Europe accounts for the largest slice, followed by Japan and then smaller allocations to developed Asia-Pacific and North America. European holdings dominate means European economic cycles drive much of the fund's performance. A eurozone [recession](/recession/) hits harder than Japanese stagnation would.
 
 ## Who the fund is for and how to research it
 
-DMXF appeals to two groups: international investors who want broad developed-market exposure and accept the ESG filter as a values alignment, and those who believe that strong governance and environmental management indicate lower long-term business risk and are worth a modest performance drag to pursue. It is not a growth fund; it is a diversifier offering exposure to mature, stable companies outside the US, selected for responsible management.
+DMXF appeals to two groups: international investors who want broad developed-market exposure and accept the ESG filter as a values alignment, and those who believe that strong governance and environmental management indicate lower long-term business risk and are worth a modest performance drag to pursue. It is not a [growth fund](/growth-fund/); it is a diversifier offering exposure to mature, stable companies outside the US, selected for responsible management.
 
 The fund's prospectus and fact sheet (available from the iShares website) lay out the index methodology in full and list the current top holdings. The MSCI EAFE ESG Leaders Index document from MSCI itself explains the ESG scoring system in detail. A reader can check how DMXF has performed relative to a plain-vanilla international-equity fund (such as the broader iShares Core MSCI EAFE ETF) to sense the magnitude of any ESG drag or premium over different time horizons.
 

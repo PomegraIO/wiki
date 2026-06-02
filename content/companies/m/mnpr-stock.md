@@ -31,7 +31,7 @@ The specific indications and mechanisms Monopar pursues differ from MEDICINOVA's
 
 Monopar's competitive set includes firms like MEDICINOVA, Exelixis (now acquired), and hundreds of other clinical-stage oncology startups. Against this set, Monopar is differentiated by its emphasis on mechanism-driven combinations rather than either target-hopping or single-agent optimization. This is a credible scientific thesis, but credibility alone does not win clinical trials. Efficacy data does.
 
-Monopar's advantage over larger peers (Merck, Roche) is focus and speed. Its disadvantage is capital and scale. If Monopar's lead program shows promise in Phase 2, regulatory pathways favor accelerated development; but that acceleration requires capital for expanded trials. If a large pharma firm develops a competing combination regimen, Monopar's smaller patient-development footprint may allow Monopar to move faster, or it may mean Monopar gets outmaneuvered. The outcome is data-dependent.
+Monopar's advantage over larger peers ([Merck](/mrk-stock/), Roche) is focus and speed. Its disadvantage is capital and scale. If Monopar's lead program shows promise in Phase 2, regulatory pathways favor accelerated development; but that acceleration requires capital for expanded trials. If a large pharma firm develops a competing combination regimen, Monopar's smaller patient-development footprint may allow Monopar to move faster, or it may mean Monopar gets outmaneuvered. The outcome is data-dependent.
 
 ## Development Timeline and Cash Burn
 

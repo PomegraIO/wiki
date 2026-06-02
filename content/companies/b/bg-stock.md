@@ -69,7 +69,7 @@ Bunge does hedge, and treasury units manage some commodity exposure, but earning
 
 **Oversupply of refining capacity** has depressed crushing margins globally and may persist unless demand (meat production, biofuel mandates) keeps pace with supply.
 
-**[Currency risk](/currency-risk/)**: Bunge earns substantially in Brazilian real and Argentine peso but has U.S. dollar debt and shareholder expectations in dollars. [Depreciation](/depreciation/) of these currencies can erode translated results.
+**[Currency risk](/currency-risk/)**: Bunge earns substantially in Brazilian real and Argentine peso but has [U.S. dollar](/us-dollar/) debt and shareholder expectations in dollars. [Depreciation](/depreciation/) of these currencies can erode translated results.
 
 ## How to Research It
 

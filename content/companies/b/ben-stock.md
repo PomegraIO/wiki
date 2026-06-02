@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Franklin Resources is one of the world's largest asset management companies, with over a century of history and a global footprint spanning investment management, wealth advisory, and fund administration. The company operates under multiple subsidiary brands and manages trillions of dollars in assets for individuals, institutions, and governments worldwide. Franklin Templeton, the flagship brand, is known for active equity and fixed-income management; Legg Mason, acquired in 2020, brought complementary asset managers and wealth advisory capabilities; Clarion Partners brought real estate expertise. The company's revenue model is fundamentally simple: it charges fees based on the assets it manages, and profitability depends on managing those assets efficiently and retaining and growing the asset base.
+Franklin Resources is one of the world's largest asset management companies, with over a century of history and a global footprint spanning investment management, wealth advisory, and fund administration. The company operates under multiple subsidiary brands and manages trillions of dollars in assets for individuals, institutions, and governments worldwide. [Franklin Templeton](/fgdl-stock/), the flagship brand, is known for active equity and fixed-income management; Legg Mason, acquired in 2020, brought complementary asset managers and wealth advisory capabilities; Clarion Partners brought real estate expertise. The company's revenue model is fundamentally simple: it charges fees based on the assets it manages, and profitability depends on managing those assets efficiently and retaining and growing the asset base.
 
 ## The business of asset management: Scale and fees
 

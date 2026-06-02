@@ -4,7 +4,7 @@ description: "A Canadian fleet-management and vehicle-leasing operator serving c
 keywords: ["fleet management", "vehicle leasing", "commercial vehicles", "fleet services", "capital lease", "adr"]
 ---
 
-*Element Fleet Management Corp./ADR (ELEEF) provides fleet services and vehicle leasing for commercial customers, primarily in Canada and the United States. The company manages owned and financed vehicles, offering rental, lease, and fleet administration services that help mid-market and enterprise businesses optimize transportation costs and operational efficiency. Rather than selling vehicles outright, Element captures recurring revenue through lease terms, maintenance contracts, and ancillary fleet services.*
+*[Element Fleet Management Corp./ADR](/elfty-stock/) (ELEEF) provides fleet services and vehicle leasing for commercial customers, primarily in Canada and the United States. The company manages owned and financed vehicles, offering rental, lease, and fleet administration services that help mid-market and enterprise businesses optimize transportation costs and operational efficiency. Rather than selling vehicles outright, Element captures recurring revenue through lease terms, maintenance contracts, and ancillary fleet services.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>ELEEF</td></tr>
@@ -29,7 +29,7 @@ The sector is increasingly concentrated, with larger players acquiring regional 
 
 ## Asset Quality and Residual-Value Risk
 
-A fleet-leasing company's earnings are sensitive to the residual value of vehicles at end of lease. If Element optimistically prices leases assuming high residual values and used-vehicle markets subsequently soften, the company realizes losses on remarketing. Conversely, if residual values rise, remarketing gains accrete to Element's bottom line beyond what the lease term generated. This creates an embedded bet on used-vehicle market trends, macroeconomic conditions affecting [commercial vehicle](/cvgi-stock/) demand, and fuel-price regimes that influence which vehicle types hold value best.
+A fleet-leasing company's earnings are sensitive to the residual value of vehicles at end of lease. If Element optimistically prices leases assuming high residual values and used-vehicle markets subsequently soften, the company realizes losses on remarketing. Conversely, if residual values rise, remarketing gains accrete to Element's bottom line beyond what the lease term generated. This creates an embedded bet on used-vehicle market trends, macroeconomic conditions affecting commercial vehicle demand, and fuel-price regimes that influence which vehicle types hold value best.
 
 Economic downturns, rapidly changing fuel prices, or technological disruption (such as accelerated EV adoption) can swing residual values sharply. Element must continuously revalue its fleet, update lease pricing, and manage the transition of aging vehicles to [secondary markets](/secondary-market/). This is not a passive business; successful fleet managers actively manage residual risk through careful vehicle-selection, customer-mix optimization, and timely disposal strategies.
 

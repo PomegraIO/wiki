@@ -4,7 +4,7 @@ description: "A China-focused automotive financing and transaction platform deri
 keywords: ["fintech", "automotive", "China", "consumer lending", "marketplace platform"]
 ---
 
-*Cango is a [public company](/public-company/) that operates an online marketplace connecting consumers, dealers, and [financial institutions](/fisi-stock/) for used and new vehicle transactions in China. Its revenue model hinges on volume: each car sold through the platform generates fees from dealers, lenders, and ancillary services. The underlying margin depends on transaction size, regional competition, and the cost of customer [acquisition](/acquisition/) in a market where used-car selling is increasingly digitized but still opaque.*
+*Cango is a [public company](/public-company/) that operates an online marketplace connecting consumers, dealers, and financial institutions for used and new vehicle transactions in China. Its revenue model hinges on volume: each car sold through the platform generates fees from dealers, lenders, and ancillary services. The underlying margin depends on transaction size, regional competition, and the cost of customer [acquisition](/acquisition/) in a market where used-car selling is increasingly digitized but still opaque.*
 
 <aside class="wiki-infobox">
 <table>

@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-*An **actively managed ETF** is a fund where investment professionals select holdings based on their own research and judgment, as opposed to mechanically following an index. ACEP (ARS Core Equity Portfolio ETF) is an active fund holding concentrated positions in large-cap U.S. equities, managed by ARK Funds and traded on NASDAQ. It discloses its full portfolio daily, which is unusual; most active funds keep holdings secret until quarterly reports.*
+*An **actively managed ETF** is a fund where investment professionals select holdings based on their own research and judgment, as opposed to mechanically following an index. ACEP (ARS Core Equity Portfolio ETF) is an active fund holding concentrated positions in large-cap U.S. equities, managed by ARK Funds and traded on [NASDAQ](/nasdaq/). It discloses its full portfolio daily, which is unusual; most active funds keep holdings secret until quarterly reports.*
 
 ## The setup: active stock-picking meets transparency
 
-ACEP breaks from the template that has dominated active management for decades. Traditional active funds ran as mutual funds, often opaque about what they owned, expensive, and tax-inefficient. ACEP flips this structure. Daily transparency of holdings means a reader can see exactly what the managers own and when they trade. Trading through an ETF structure, rather than mutual-fund redemptions, avoids forced selling triggered by investor withdrawals, which can cause unwanted capital-gains distributions. The manager stays focused on stock-picking rather than managing cash flows.
+ACEP breaks from the template that has dominated active management for decades. Traditional active funds ran as [mutual funds](/mutual-fund/), often opaque about what they owned, expensive, and tax-inefficient. ACEP flips this structure. Daily transparency of holdings means a reader can see exactly what the managers own and when they trade. Trading through an ETF structure, rather than mutual-fund redemptions, avoids forced selling triggered by investor withdrawals, which can cause unwanted capital-gains distributions. The manager stays focused on stock-picking rather than managing cash flows.
 
 The fund typically holds 30 to 60 core positions—far fewer than a passive broad-market fund—which means individual stock picks matter more. With that concentration comes risk: a few wrong calls meaningfully drag returns. It also means that if the managers are right, performance can outpace the market. This is the compact: smaller portfolio, higher volatility around outcomes, higher manager accountability.
 
@@ -23,13 +23,13 @@ The fund typically holds 30 to 60 core positions—far fewer than a passive broa
 
 ARK's approach centers on companies that the team believes are undervalued relative to their fundamental cash generation and competitive position. This is not deep-value or pitch-black contrarian betting. The fund holds high-quality businesses—established cash generators with durable competitive positions—but selection is based on the managers' judgment that the market has mispriced them, not on an algorithm or an index rule.
 
-The portfolio is built through fundamental research: understanding how companies make money, who competes against them, and where the pressures and tailwinds are. Because the fund is concentrated, the team can spend real time on each position. A large-cap index fund might own 500 stocks; ACEP owns 50. That means deep research on fewer companies rather than surface knowledge on many.
+The portfolio is built through fundamental research: understanding how companies make money, who competes against them, and where the pressures and tailwinds are. Because the fund is concentrated, the team can spend real time on each position. A large-cap [index fund](/index-fund/) might own 500 stocks; ACEP owns 50. That means deep research on fewer companies rather than surface knowledge on many.
 
 ## Turnover, tax efficiency, and cost
 
 ACEP does not turn over its portfolio aggressively—holdings are kept for years, not months. Low turnover keeps trading costs low and minimizes the tax friction that active funds often inflict on shareholders. Every time a fund sells a position and realizes a gain, that gain is distributed to shareholders, who owe taxes on it. Passive funds turn over slowly by design; active funds often turn over fast chasing quick wins or cutting losses quickly, which bleeds tax dollars. ACEP's discipline is to hold when the thesis is intact, which preserves capital.
 
-The expense ratio is approximately 0.50% annually. That is expensive compared to a passive large-cap index fund (which costs 0.03 to 0.10 percent), but it is cheap for active management, which typically costs 0.50 to 1.00 percent. The trade-off is clear: you pay for active expertise and the potential (though never guaranteed) to outperform the market. Whether ACEP delivers that outperformance is a long-term empirical question that varies year to year.
+The [expense ratio](/expense-ratio/) is approximately 0.50% annually. That is expensive compared to a passive large-cap index fund (which costs 0.03 to 0.10 percent), but it is cheap for active management, which typically costs 0.50 to 1.00 percent. The trade-off is clear: you pay for active expertise and the potential (though never guaranteed) to outperform the market. Whether ACEP delivers that outperformance is a long-term empirical question that varies year to year.
 
 ## Daily disclosure as a tool and a signal
 
@@ -41,7 +41,7 @@ This transparency also means there is nowhere to hide. Bad picks show up immedia
 
 Active management introduces manager risk in two forms. First, strategy risk: the selection approach can underperform for long stretches if the market rotates away from the factors the manager values. If the managers believe in value stocks and growth stocks dominate for years, the fund will lag. Second, personnel risk: key decision-makers might leave, which can signal a shift in direction or quality. A change in the lead portfolio manager is a material event worth watching.
 
-The concentrated portfolio amplifies single-stock risk. The fund is still fully exposed to all the risks of U.S. equities—market declines, sector rotations, single-stock volatility—but the concentrated holdings mean if the managers make a large bet on a sector that falls out of favor, the fund falls harder than the broad market would. A 40-position fund is not diversified enough to weather manager error in the same way a 500-position fund is.
+The concentrated portfolio amplifies single-stock risk. The fund is still fully exposed to all the risks of U.S. equities—market declines, [sector rotations](/sector-rotation/), single-stock volatility—but the concentrated holdings mean if the managers make a large bet on a sector that falls out of favor, the fund falls harder than the broad market would. A 40-position fund is not diversified enough to weather manager error in the same way a 500-position fund is.
 
 ## How should a reader approach ACEP?
 

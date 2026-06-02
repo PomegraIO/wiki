@@ -17,7 +17,7 @@ keywords: ["cardiovascular", "pharmaceutical development", "clinical trials", "C
 
 ## Clinical Development Stage and FDA Pathway Strategy
 
-MIST's 10-K discloses its development pipeline by program, therapeutic target, and current clinical stage. Cardiovascular disease encompasses multiple indications—arrhythmias, heart failure, angina, thrombotic events—each with different regulatory requirements and competitive landscapes. MIST's filings specify which indications the company is targeting and whether the FDA has granted any expedited-review designations ([Fast Track](/ftrk-stock/), Breakthrough Therapy, Orphan Drug status) that could accelerate timelines.
+MIST's 10-K discloses its development pipeline by program, therapeutic target, and current clinical stage. Cardiovascular disease encompasses multiple indications—arrhythmias, heart failure, angina, thrombotic events—each with different regulatory requirements and competitive landscapes. MIST's filings specify which indications the company is targeting and whether the FDA has granted any expedited-review designations (Fast Track, Breakthrough Therapy, Orphan Drug status) that could accelerate timelines.
 
 The regulatory pathway itself is disclosed. Is MIST pursuing a standard New Drug Application (NDA) requiring Phase 2 and Phase 3 efficacy trials, or is the program eligible for a more efficient approval pathway such as Accelerated Approval (conditional on post-approval confirmatory trials)? A reader studying MIST can extract the expected timeline to regulatory decision based on current trial stage and FDA guidance.
 

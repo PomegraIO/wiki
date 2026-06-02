@@ -45,7 +45,7 @@ That narrative made NextSource an attractive investment case in the 2020s, when 
 
 ## Mining and the long development timeline
 
-Mining is capital-intensive and slow. Building a mine requires geological exploration to prove up the resource (how much ore is there, and how rich is it?), engineering to design the mine and processing facility, permitting and environmental review, land acquisition or licensing, and then construction. The timeline from "we want to build a mine" to "first ore ships" typically runs seven to fifteen years, depending on the project's size, location, and regulatory complexity.
+Mining is capital-intensive and slow. Building a mine requires geological exploration to prove up the resource (how much ore is there, and how rich is it?), engineering to design the mine and processing facility, permitting and environmental review, land [acquisition](/acquisition/) or licensing, and then construction. The timeline from "we want to build a mine" to "first ore ships" typically runs seven to fifteen years, depending on the project's size, location, and regulatory complexity.
 
 NextSource operates in that pre-production phase. The company's graphite deposit in Madagascar represents potential future revenue, but extracting it requires capital that the company must raise, regulatory clearances it must obtain, and equipment and people it must assemble. Until the mine operates and ships product, NextSource is a development company living on investor capital, with no revenue and no path to profit until the project succeeds.
 

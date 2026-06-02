@@ -24,7 +24,7 @@ This shift â€” from passive data mirror to active financial advisor assistant â€
 
 Fintech consumer products have notoriously shallow moats. Switching costs are low; a new app downloads in seconds. Balance Labs' competitive position rested on two pillars: first, the breadth and quality of its data connectors (how many banks, brokerages, and investment apps it could plug into), and second, the perceived accuracy and utility of its recommendations or alerts. Neither is defensible for long if competitors copy the feature set.
 
-The company's evolution reflected this pressure. It explored white-label partnerships with larger [financial institutions](/fisi-stock/), licensing its technology to banks and robo-advisors rather than competing purely on consumer distribution. These B2B channels offered recurring revenue and reduced the burden of consumer [acquisition](/acquisition/) costs, which had been climbing across the fintech sector. By diversifying its customer base from retail users to institutional partners, Balance Labs reduced its dependency on any single distribution channel and created multiple revenue streams.
+The company's evolution reflected this pressure. It explored white-label partnerships with larger financial institutions, licensing its technology to banks and robo-advisors rather than competing purely on consumer distribution. These B2B channels offered recurring revenue and reduced the burden of consumer [acquisition](/acquisition/) costs, which had been climbing across the fintech sector. By diversifying its customer base from retail users to institutional partners, Balance Labs reduced its dependency on any single distribution channel and created multiple revenue streams.
 
 ## Market Position and Boundaries
 

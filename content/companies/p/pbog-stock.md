@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Portfolio Building Block Integrated Oil and Gas and Exploration and Production Index ETF** (PBOG) provides investors with exposure to global upstream oil and gas companies. Launched by Tidal Investments and tracking the BITA Global Oil and Gas Select Index, the fund captures a rules-based selection of firms engaged in crude oil and natural gas exploration, extraction, and production across developed markets.*
+*The **Portfolio Building Block Integrated Oil and Gas and Exploration and Production Index ETF** (PBOG) provides investors with exposure to global upstream oil and gas companies. Launched by Tidal Investments and tracking the BITA Global Oil and Gas Select Index, the fund captures a rules-based selection of firms engaged in [crude oil](/crude-oil/) and [natural gas](/natural-gas/) exploration, extraction, and production across developed markets.*
 
 <aside class="wiki-infobox">
 
@@ -38,9 +38,9 @@ handwritten: true
 
 ## Integrated majors and multi-national producers
 
-The largest holdings in PBOG typically consist of integrated energy companies that operate exploration and production assets across multiple continents. These firms have substantial balance sheets, maintain long-lived reserve bases spanning decades, and often combine upstream production with refining, chemicals, or downstream operations. Global names such as Shell, ExxonMobil, TotalEnergies, and similar firms operate this way, managing the commodity cycle through geographic and operational diversification.
+The largest holdings in PBOG typically consist of integrated energy companies that operate exploration and production assets across multiple continents. These firms have substantial [balance sheets](/balance-sheet/), maintain long-lived reserve bases spanning decades, and often combine upstream production with refining, chemicals, or downstream operations. Global names such as Shell, ExxonMobil, TotalEnergies, and similar firms operate this way, managing the commodity cycle through geographic and operational [diversification](/diversification/).
 
-Integrated majors conduct massive capital spending programs to replace depleted reserves and bring new discoveries into production. They generate substantial cash flow during high-oil-price periods and are therefore reliable dividend payers, though dividend sustainability depends on commodity prices and capital discipline. PBOG's exposure to integrated majors means the fund benefits from oil and gas price strength and suffers when commodity prices weaken.
+Integrated majors conduct massive capital spending programs to replace depleted reserves and bring new discoveries into production. They generate substantial cash flow during high-oil-price periods and are therefore reliable [dividend](/dividend/) payers, though dividend sustainability depends on commodity prices and capital discipline. PBOG's exposure to integrated majors means the fund benefits from oil and gas price strength and suffers when commodity prices weaken.
 
 ## Independent producers and focused basin players
 
@@ -52,7 +52,7 @@ Successful independent producers often operate in low-cost basins where extracti
 
 PBOG also holds exploration companies — firms at earlier stages of the oil and gas value chain that are drilling new wells or developing discoveries in frontier basins. These firms have no current production and no cash flow, relying entirely on exploration success to justify their capital expenditure. A major discovery transforms an explorer into a productive company; dry wells can deplete a balance sheet quickly.
 
-Exploration companies are geographically concentrated in frontier basins: the East African coast, certain deepwater areas, and countries with less-developed oil industries. They carry geopolitical risk (sovereign risk in developing nations), drilling risk (wells can fail for geological or operational reasons), and funding risk (exploration programs require sustained capital investment). PBOG's exposure to explorers adds optionality to the fund but also volatility.
+Exploration companies are geographically concentrated in frontier basins: the East African coast, certain deepwater areas, and countries with less-developed oil industries. They carry geopolitical risk ([sovereign risk](/sovereign-risk/) in developing nations), drilling risk (wells can fail for geological or operational reasons), and funding risk (exploration programs require sustained capital investment). PBOG's exposure to explorers adds optionality to the fund but also volatility.
 
 ## Commodity exposure and the reserve-replacement cycle
 
@@ -62,7 +62,7 @@ PBOG's value is therefore inseparable from the global oil and natural gas price 
 
 ## Costs and fund structure
 
-PBOG is a non-diversified fund with low-cost passive tracking reflecting Tidal's approach to index-following. The fund trades on the Nasdaq with liquidity typically good given the size and prominence of the underlying stocks. Energy stocks exhibit greater intra-day volatility than stable sectors, so PBOG spreads can widen during market stress.
+PBOG is a non-diversified fund with low-cost passive tracking reflecting Tidal's approach to index-following. The fund trades on the [Nasdaq](/nasdaq/) with liquidity typically good given the size and prominence of the underlying stocks. Energy stocks exhibit greater intra-day volatility than stable sectors, so PBOG spreads can widen during market stress.
 
 ## Who PBOG is for and real risks
 

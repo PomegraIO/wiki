@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Cayson Acquisition Corp is a blank-check company. That means it was created to do one job: find another company to buy and merge with. Right now, it does not have a real business. It has cash from investors and a team of people looking for a deal.
+[Cayson Acquisition](/capn-stock/) Corp is a blank-check company. That means it was created to do one job: find another company to buy and merge with. Right now, it does not have a real business. It has cash from investors and a team of people looking for a deal.
 
 Here is how it works. A group of investors gets together and raises money from the public. They say: "Give us your money. We will hold it safely. We will spend the next two years finding a good company to buy. When we find one, we will combine with it, and your money will become shares of that new combined company." That is a blank-check company.
 
@@ -34,7 +34,7 @@ The problem is: finding $300 million all at once is hard. Banks and private equi
 
 A blank-check company offers another path. The sponsor (the person or team with the idea and track record) files paperwork with the SEC. They say: "We want to raise money from regular people. We will promise to find and acquire a good company." Investors give them the money. The money sits in a bank account, earning a little bit of interest, completely untouched. The sponsor's team gets to work. When they find a company to buy, they pull the money out of the bank and hand it over. The investors' shares in the blank-check company automatically transform into shares of the newly merged company.
 
-That is why people sometimes call them SPACs—Special Purpose Acquisition Companies.
+That is why people sometimes call them SPACs—Special Purpose [Acquisition](/acquisition/) Companies.
 
 ## What Cayson is and what it is not
 
@@ -46,7 +46,7 @@ CAPNR and CAPNU are two different ticker symbols for different security types Ca
 
 ## The waiting game
 
-Between the day Cayson raised money and the day it finds a merger partner, nothing much happens. The sponsor team is talking to potential targets—companies that might want to be acquired. The cash is sitting in the bank, safe but not earning much. Shareholders are waiting.
+Between the day Cayson raised money and the day it finds a [merger](/merger/) partner, nothing much happens. The sponsor team is talking to potential targets—companies that might want to be acquired. The cash is sitting in the bank, safe but not earning much. Shareholders are waiting.
 
 Waiting creates risk. Sometimes a sponsor says it will find a great target and never does. Maybe they pick a target that turns out to be a bad business. Maybe the market changes, and what looked like a good company no longer does. The clock is ticking—if Cayson does not find a merger partner within 24 months or so, the SEC rules require it to return the cash to investors and shut down. That is a safety feature. It means the sponsor is motivated to find a deal, and investors are not stuck holding cash forever.
 

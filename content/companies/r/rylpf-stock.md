@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Royal Philips is a Dutch company that makes equipment and devices for hospitals and healthcare workers. It also sells health products to people at home. The company is big and global — it has factories and offices in dozens of countries. Most people have not heard of Philips, but if you have ever had a medical scan, used a blood-pressure monitor, or slept under its lighting, you have encountered the company's products. Philips does not sell to consumers the way Apple does. Instead, it sells to hospitals, clinics, doctors, and healthcare systems. That is where the real money is.
+Royal Philips is a Dutch company that makes equipment and devices for hospitals and healthcare workers. It also sells health products to people at home. The company is big and global — it has factories and offices in dozens of countries. Most people have not heard of Philips, but if you have ever had a medical scan, used a blood-pressure monitor, or slept under its lighting, you have encountered the company's products. Philips does not sell to consumers the way [Apple](/aapl-stock/) does. Instead, it sells to hospitals, clinics, doctors, and healthcare systems. That is where the real money is.
 
 ## What Philips makes
 

@@ -41,13 +41,13 @@ The nineteenth century also brought banking crises and consolidation. Smaller re
 
 As Canada entered the twentieth century and the economy industrialised, Bank of Montreal adapted its business model. Railway financing became a major focus — the bank funded the expansion of transcontinental railways, connecting the country and opening new markets for trade. Mining finance emerged as another important business line, as investors needed ways to finance exploration and extraction across the Canadian Shield.
 
-The 1920s were prosperous for the bank, but the Great Depression of the 1930s tested its resilience. Unlike American banks, which suffered catastrophic failures, Canadian banks survived the Depression because they had been more conservatively run and were not forced into the severe downturns that hit the United States. Bank of Montreal weathered the crisis without the depositor panic that devastated American institutions.
+The 1920s were prosperous for the bank, but the [Great Depression](/great-depression/) of the 1930s tested its resilience. Unlike American banks, which suffered catastrophic failures, Canadian banks survived the Depression because they had been more conservatively run and were not forced into the severe downturns that hit the United States. Bank of Montreal weathered the crisis without the depositor panic that devastated American institutions.
 
 ## Mid-century: the welfare state and consumer banking
 
 The post-World War II era brought profound change. Governments across the developed world, including Canada, built welfare states and sought to expand homeownership. Mortgages, once a specialty product for the wealthy, became a standard banking service. Consumer credit — car loans, personal loans, credit cards — emerged as a new business line. Bank of Montreal, like other commercial banks, had to adapt from being primarily lenders to businesses and government to also being lenders to individuals.
 
-The mid-twentieth century also saw regulatory changes aimed at stabilizing the financial system. Central banks developed more sophisticated tools for managing the money supply. Banking regulations tightened. These changes benefited stable, large institutions like Bank of Montreal because they reduced the risk of banking crises and created a level playing field.
+The mid-twentieth century also saw regulatory changes aimed at stabilizing the financial system. [Central banks](/central-bank/) developed more sophisticated tools for managing the money supply. Banking regulations tightened. These changes benefited stable, large institutions like Bank of Montreal because they reduced the risk of banking crises and created a level playing field.
 
 ## The 1980s and 1990s: deregulation and globalization
 
@@ -63,7 +63,7 @@ The global financial crisis of 2007-2008 exposed fragilities in this system. Ban
 
 ## The post-crisis era: regulatory tightening
 
-The years following the financial crisis brought a new regulatory regime designed to prevent future crises. Capital requirements were strengthened significantly. Banks were required to hold more liquid assets. Stress testing by regulators became routine. Banks like Bank of Montreal had to adjust their business models to operate under constraints that limited leverage and required higher capital buffers.
+The years following the financial crisis brought a new regulatory regime designed to prevent future crises. Capital requirements were strengthened significantly. Banks were required to hold more liquid assets. [Stress testing](/stress-testing/) by regulators became routine. Banks like Bank of Montreal had to adjust their business models to operate under constraints that limited leverage and required higher capital buffers.
 
 These regulatory changes reduced the profitability of banking relative to the pre-2008 period, but they also reduced the risk of catastrophic failure. Bank of Montreal, as one of the safest major financial institutions, benefited from this shift — depositors and regulators viewed it as a stable, trustworthy institution.
 
@@ -75,7 +75,7 @@ Bank of Montreal responded to this shift by investing in digital platforms, acqu
 
 ## The interest-rate regime and recent shifts
 
-Bank of Montreal's profitability is tightly linked to interest-rate levels. The extended period of very low interest rates from 2009 to 2021 compressed bank profitability significantly — net-interest margins narrowed and the bank had to cut costs and shift toward higher-fee advisory and capital markets revenue to maintain earnings growth.
+Bank of Montreal's profitability is tightly linked to interest-rate levels. The extended period of very low [interest rates](/interest-rate/) from 2009 to 2021 compressed bank profitability significantly — net-interest margins narrowed and the bank had to cut costs and shift toward higher-fee advisory and capital markets revenue to maintain earnings growth.
 
 The shift toward higher interest rates beginning in 2022 expanded margins again, but it also slowed economic growth and increased loan defaults, offsetting some of the benefit. The bank navigated these cycles as it has for two centuries — adjusting operations to the economic environment while maintaining its fundamental business of taking deposits and making loans.
 
@@ -85,4 +85,4 @@ The arc of Bank of Montreal's history is a story of constant adaptation. What be
 
 What has remained constant is the fundamental business model: gathering deposits from savers, deploying them as loans to borrowers and investments, capturing the spread, and managing the risks inherent in that process. This continuity of purpose across two hundred years of economic change is perhaps the most distinctive feature of Bank of Montreal's history. Most enterprises that survive that long become something entirely different. Bank of Montreal remains, at its core, a bank — and that stability has been central to its longevity.
 
-Understanding Bank of Montreal requires understanding this historical context. Investors researching the bank should review its detailed history in investor presentations and annual reports, and should consider how the company's long institutional experience shapes its risk management and strategy. The SEC filings under CIK 0000927971 provide detailed financial information for the modern era. For historical context, the bank's own publications and Canadian financial histories offer valuable perspective on how the institution has evolved and what that evolution might tell us about its future.
+Understanding Bank of Montreal requires understanding this historical context. Investors researching the bank should review its detailed history in investor presentations and [annual reports](/10-k/), and should consider how the company's long institutional experience shapes its risk management and strategy. The SEC filings under CIK 0000927971 provide detailed financial information for the modern era. For historical context, the bank's own publications and Canadian financial histories offer valuable perspective on how the institution has evolved and what that evolution might tell us about its future.

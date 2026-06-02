@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Platinum Analytics Cayman Limited (NASDAQ: PLTS) is a fintech company that builds software platforms and analytics tools for foreign exchange trading, with a singular focus on the currency markets and the [financial institutions](/fisi-stock/) that operate in Asia and emerging markets. Founded in Singapore in 2017 as a direct response to the volume and complexity of currency trading in those regions, the firm has spent the past seven years refining a core technology stack that allows institutions to originate, execute, and manage currency trades at scale and with algorithmic precision. The company completed its [initial public offering](/initial-public-offering/) on the NASDAQ Capital Market in September 2025, bringing its software platform and emerging-market strategy to public investors.
+Platinum Analytics Cayman Limited ([NASDAQ](/nasdaq/): PLTS) is a fintech company that builds software platforms and analytics tools for foreign exchange trading, with a singular focus on the currency markets and the financial institutions that operate in Asia and emerging markets. Founded in Singapore in 2017 as a direct response to the volume and complexity of currency trading in those regions, the firm has spent the past seven years refining a core technology stack that allows institutions to originate, execute, and manage currency trades at scale and with algorithmic precision. The company completed its [initial public offering](/initial-public-offering/) on the NASDAQ Capital Market in September 2025, bringing its software platform and emerging-market strategy to public investors.
 
 <aside class="wiki-infobox">
 <table>

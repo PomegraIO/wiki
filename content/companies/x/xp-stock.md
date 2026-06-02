@@ -46,7 +46,7 @@ XP operates across three interconnected segments:
 
 **Technology-First Mindset.** Unlike legacy banks, XP invested early in building its own trading and back-office infrastructure. The company has periodically upgraded its systems and has been expanding its mobile and web platforms. This technology edge helps XP reduce operational costs and offer faster execution than traditional competitors.
 
-**Product Breadth in a Narrow Market.** XP offers exposure to equities, derivatives, fixed income, funds, and cryptocurrencies within a single ecosystem. In Brazil, where many retail investors still use multiple brokers across different banking institutions, XP's one-stop-shop appeal is significant.
+**Product Breadth in a Narrow Market.** XP offers exposure to equities, derivatives, fixed [income, funds](/income-fund/), and cryptocurrencies within a single ecosystem. In Brazil, where many retail investors still use multiple brokers across different banking institutions, XP's one-stop-shop appeal is significant.
 
 **Demographics and Tailwinds.** Brazil's retail investor base has grown dramatically. Economic volatility, [inflation hedging](/inflation-hedging/) demands, and rising financial literacy have pushed more Brazilians into markets. XP has been the primary beneficiary of this shift, capturing new retail accounts and wealth.
 

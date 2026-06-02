@@ -30,19 +30,19 @@ handwritten: true
 
 XYZG holds the underlying XYZ stock in proportion but also enters into derivatives contracts—typically swap agreements or options—that effectively amplify the fund's exposure to XYZ's daily price moves. The combination of the stock position and the derivatives is sized to deliver a return equal to twice the calendar day's return of XYZ itself.
 
-The word "daily" is critical. Each trading day at or near the market close, the fund rebalances. If XYZ rose 2% that day, XYZG aims to show a 4% gain. If XYZ fell 1% that day, XYZG aims to show a 2% loss. But the fund does not promise that next month's cumulative return will be exactly twice the month's cumulative return. On any given day it resets the leverage ratio, which means the compounding works in a path-dependent way. This is the engine of volatility decay, described below.
+The word "daily" is critical. Each trading day at or near the market close, the fund rebalances. If XYZ rose 2% that day, XYZG aims to show a 4% gain. If XYZ fell 1% that day, XYZG aims to show a 2% loss. But the fund does not promise that next month's cumulative return will be exactly twice the month's cumulative return. On any given day it resets the [leverage ratio](/leverage-ratio-forex/), which means the compounding works in a path-dependent way. This is the engine of volatility decay, described below.
 
-Leverage Shares, the fund provider, is an investment company specialising in ETFs that employ leverage and inverse (bearish) mechanics. The fund is a standard ETF in structure—shares trade on an exchange, with creation and redemption mechanisms typical of the format—but its holdings are more exotic than a plain stock or bond fund.
+Leverage Shares, the fund provider, is an investment company specialising in ETFs that employ leverage and inverse (bearish) mechanics. The fund is a standard ETF in structure—shares trade on an exchange, with creation and redemption mechanisms typical of the format—but its holdings are more exotic than a plain stock or [bond](/bond/) fund.
 
 ## Costs and trading mechanics
 
-The expense ratio of around 0.80–1.20% per year covers the cost of holding the underlying stock, the cost of the leverage (the fund borrows cash or enters into hedging swaps, and there is a cost to that), and the fund provider's fee. This is substantially higher than an unleveraged single-stock ETF or index fund, reflecting the daily rebalancing machinery.
+The [expense ratio](/expense-ratio/) of around 0.80–1.20% per year covers the cost of holding the underlying stock, the cost of the leverage (the fund borrows cash or enters into hedging swaps, and there is a cost to that), and the fund provider's fee. This is substantially higher than an unleveraged single-stock ETF or [index fund](/index-fund/), reflecting the daily rebalancing machinery.
 
-The fund trades continuously during market hours, and the bid-ask spread is typically tight for a leveraged product, especially during normal trading hours. However, investors should be aware that if XYZ shares themselves become illiquid or if a market dislocation occurs, the fund's liquidity can degrade. During periods of extreme market stress, the cost to unwind leveraged positions can spike.
+The fund trades continuously during market hours, and the [bid-ask spread](/bid-ask-spread/) is typically tight for a leveraged product, especially during normal trading hours. However, investors should be aware that if XYZ shares themselves become illiquid or if a market dislocation occurs, the fund's liquidity can degrade. During periods of extreme market stress, the cost to unwind leveraged positions can spike.
 
 ## The volatility decay trap
 
-Here is the crucial risk: XYZG does not deliver 2X the long-term return of XYZ. Because of the way compounding interacts with daily rebalancing and volatility, the fund tends to underperform 2X over any holding period longer than a few days, and the longer you hold, the worse the decay.
+Here is the crucial risk: XYZG does not deliver 2X the long-term return of XYZ. Because of the way compounding interacts with daily rebalancing and volatility, the fund tends to underperform 2X over any [holding period](/holding-period/) longer than a few days, and the longer you hold, the worse the decay.
 
 Consider a simple example. Suppose XYZ starts at $100 and on Day 1 rises 10%, closing at $110. XYZG aims to return 20% that day, so its value would be 120. On Day 2, XYZ falls 10%, returning to $99. XYZG aims for a 20% *decline* that day. But 20% of 120 is 24, so XYZG would close at 96.
 
@@ -54,7 +54,7 @@ This decay accelerates with volatility. If XYZ swings wildly, trading +5%, –3%
 
 XYZG is exclusively a short-term trading tool. It is designed for investors who believe XYZ will move sharply higher over the next few hours or days and want amplified exposure to that move. It is absolutely not a "buy it and forget about it" vehicle for a long-term portfolio.
 
-The risks run deep. Beyond volatility decay, XYZG carries the counterparty risk of the derivatives provider—if Leverage Shares's swap counterparty fails or there is a market disruption, the fund's value could suffer. The fund also carries regulatory risk: if regulators change the rules around leveraged ETFs (some jurisdictions have already limited leverage), the fund might be forced to restructure or de-list.
+The risks run deep. Beyond volatility decay, XYZG carries the [counterparty risk](/counterparty-risk/) of the derivatives provider—if Leverage Shares's swap counterparty fails or there is a market disruption, the fund's value could suffer. The fund also carries regulatory risk: if regulators change the rules around [leveraged ETFs](/leveraged-etf/) (some jurisdictions have already limited leverage), the fund might be forced to restructure or de-list.
 
 A shareholder holding XYZG for months will almost certainly see the fund underperform simple 2X XYZ's buy-and-hold return, sometimes by a substantial margin. If XYZ is volatile, the decay is severe. If XYZ is stable, decay is minimal but the whole premise of holding the leveraged version weakens.
 

@@ -4,7 +4,7 @@ description: "Mining company operating the Porphyry copper project in Chile; ext
 keywords: ["Capstone Copper", "CSCCF", "copper mining", "Chile", "porphyry deposits", "mine operations"]
 ---
 
-*Capstone Copper Corp./ADR (CSCCF) operates copper mining assets primarily in Chile, specifically the Porphyry project in the Atacama Desert. The company extracts ore from open-pit mines, processes it through mills and concentrators, and sells copper concentrates to smelters and refiners globally. The business is capital-intensive and commodity-driven: success depends on mining at low cost per pound of copper produced, managing large geological and operational reserves over decades, and earning returns when copper prices exceed extraction and processing costs.*
+*[Capstone Copper Corp./ADR](/csccy-stock/) (CSCCF) operates copper mining assets primarily in Chile, specifically the Porphyry project in the Atacama Desert. The company extracts ore from open-pit mines, processes it through mills and concentrators, and sells copper concentrates to smelters and refiners globally. The business is capital-intensive and commodity-driven: success depends on mining at low cost per pound of copper produced, managing large geological and operational reserves over decades, and earning returns when copper prices exceed extraction and processing costs.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>CSCCF</td></tr>

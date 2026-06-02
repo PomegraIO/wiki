@@ -24,7 +24,7 @@ INN's moat is significant but not absolute. The primary vulnerability is capital
 
 ## Market Consolidation and Scale
 
-The [hotel REIT](/hotel-reit/) industry has consolidated significantly ([Apple Hospitality](/aple-stock/), [Chatham Lodging](/cldt-stock/), Xenia Hotels) around larger, diversified portfolios that offer scale advantages in procurement, management overhead, and capital raising. INN, with roughly 100 properties, is mid-sized—larger than an operator but smaller than mega-REITs with 300+ properties. This limits bargaining power with franchise brands and suppliers, and makes INN a potential acquisition target rather than an acquirer. A larger REIT could acquire INN's portfolio and realize synergies through consolidated staffing and operational leverage that INN alone cannot achieve.
+The [hotel REIT](/hotel-reit/) industry has consolidated significantly (Apple Hospitality, Chatham Lodging, Xenia Hotels) around larger, diversified portfolios that offer scale advantages in procurement, management overhead, and capital raising. INN, with roughly 100 properties, is mid-sized—larger than an operator but smaller than mega-REITs with 300+ properties. This limits bargaining power with franchise brands and suppliers, and makes INN a potential acquisition target rather than an acquirer. A larger REIT could acquire INN's portfolio and realize synergies through consolidated staffing and operational leverage that INN alone cannot achieve.
 
 ## Differentiation Through Market Positioning
 

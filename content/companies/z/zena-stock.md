@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ZenaTech, Inc. (ticker ZENA) is a technology company attempting to build a diversified business across unmanned aerial systems, artificial intelligence, and [quantum computing](/qubt-stock/) research. The company operates at the intersection of several fast-moving technology frontiers, while simultaneously maintaining a traditional IT services and software acquisition strategy designed to generate near-term revenue. Unlike many pure-play technology startups, ZenaTech has taken a pragmatic path: it acquires smaller software and IT services firms to fund cash flow while laying groundwork in higher-margin technology areas where success remains uncertain.
+ZenaTech, Inc. (ticker ZENA) is a technology company attempting to build a diversified business across unmanned aerial systems, artificial intelligence, and quantum computing research. The company operates at the intersection of several fast-moving technology frontiers, while simultaneously maintaining a traditional IT services and software acquisition strategy designed to generate near-term revenue. Unlike many pure-play technology startups, ZenaTech has taken a pragmatic path: it acquires smaller software and IT services firms to fund cash flow while laying groundwork in higher-margin technology areas where success remains uncertain.
 
 <aside class="wiki-infobox">
 <table>

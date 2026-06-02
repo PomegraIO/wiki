@@ -23,7 +23,7 @@ handwritten: true
 </table>
 </aside>
 
-PCS Edventures, Inc. is a small educational-technology firm that develops and publishes learning software, digital content, and multimedia educational materials. The company operates in the crowded but fragmented space of edtech, where it competes alongside teachers, traditional textbook publishers, and venture-backed digital platforms. Its shares trade over the counter (PCSVD).
+[PCS Edventures](/pcsv-stock/), Inc. is a small educational-technology firm that develops and publishes learning software, digital content, and multimedia educational materials. The company operates in the crowded but fragmented space of edtech, where it competes alongside teachers, traditional textbook publishers, and venture-backed digital platforms. Its shares trade over the counter (PCSVD).
 
 ## What is PCS Edventures?
 
@@ -37,7 +37,7 @@ PCS Edventures' supply chain is heavily dependent on its distribution channel â€
 
 Upstream, the company relies on content creators (writers, instructional designers, multimedia developers) to produce and refresh educational materials. Downstream, it depends on a small customer base of schools and districts that may churn if a competitor offers better pricing, features, or integration with existing systems. The fragmentation of school purchasing across thousands of small and medium districts means no single customer represents the bulk of revenue, but it also means the sales process is highly distributed and labor-intensive.
 
-The company also competes for attention and adoption against major technology firms (Google Classroom, Microsoft Teams) that have bundled educational tools into broader platforms, and against well-funded startups offering similar or superior features. A school might adopt a general productivity platform rather than purchasing specialized edtech software from a smaller vendor.
+The company also competes for attention and adoption against major technology firms (Google Classroom, [Microsoft](/msft-stock/) Teams) that have bundled educational tools into broader platforms, and against well-funded startups offering similar or superior features. A school might adopt a general productivity platform rather than purchasing specialized edtech software from a smaller vendor.
 
 ## The challenges of an independent edtech firm
 
@@ -49,7 +49,7 @@ Additionally, educational content must often comply with curriculum standards th
 
 PCS Edventures likely generates revenue through several channels: software licensing fees to schools (one-time or annual), subscription revenue from ongoing platform access, and possibly content sales to individual educators or homeschool users. The exact mix is opaque without detailed financial disclosures, but licensing and subscriptions are the standard for edtech firms.
 
-The profitability question is whether the company has achieved sufficient scale and efficiency to run a sustainable business, or whether it operates at razor-thin margins or slight losses while trying to grow. Edtech companies often trade on hopes of eventually achieving profitability through scale or acquisition, rather than current earnings.
+The profitability question is whether the company has achieved sufficient scale and efficiency to run a sustainable business, or whether it operates at razor-thin margins or slight losses while trying to grow. Edtech companies often trade on hopes of eventually achieving profitability through scale or [acquisition](/acquisition/), rather than current earnings.
 
 ## How customers evaluate PCS Edventures
 

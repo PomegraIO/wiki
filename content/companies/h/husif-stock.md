@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Nicola Mining is a Canadian junior resource company that has built an unusual business model combining immediate milling revenues with long-term exploration upside. The company operates British Columbia's only permitted mill for third-party precious metals processing and owns a portfolio of high-grade copper and silver exploration projects wholly owned in the province. Unlike most junior miners that burn cash waiting for a discovery, Nicola has created a near-term revenue stream that funds exploration and reduces reliance on equity raises—a structural advantage in an industry where funding depends on investor sentiment and commodity prices.
+[Nicola Mining](/nicm-stock/) is a Canadian junior resource company that has built an unusual business model combining immediate milling revenues with long-term exploration upside. The company operates British Columbia's only permitted mill for third-party precious metals processing and owns a portfolio of high-grade copper and silver exploration projects wholly owned in the province. Unlike most junior miners that burn cash waiting for a discovery, Nicola has created a near-term revenue stream that funds exploration and reduces reliance on equity raises—a structural advantage in an industry where funding depends on investor sentiment and commodity prices.
 
 <aside class="wiki-infobox">
 <table>
@@ -32,7 +32,7 @@ That moat is structural but narrow. The mill itself is commodity equipment—any
 
 ## Why exploration projects matter more than current scale
 
-The mill generates revenue today, but the company's value to equity holders rests on the exploration portfolio. Nicola owns 100% of the New Craigmont copper project, located directly adjacent to Highland Valley Copper—Canada's largest copper mine. This geography matters immensely. Companies exploring for ore near a proven, operating mine have a known pathway: a large, demonstrated market for ore bodies in that region, proximity to existing mills and infrastructure, and a realistic exit if a major operator sees merit in an acquisition.
+The mill generates revenue today, but the company's value to equity holders rests on the exploration portfolio. Nicola owns 100% of the New Craigmont copper project, located directly adjacent to Highland Valley Copper—Canada's largest copper mine. This geography matters immensely. Companies exploring for ore near a proven, operating mine have a known pathway: a large, demonstrated market for ore bodies in that region, proximity to existing mills and infrastructure, and a realistic exit if a major operator sees merit in an [acquisition](/acquisition/).
 
 Outcrop's Treasure Mountain Silver project sits in the same region, adding to the company's land package. In junior mining, owning the right ground in the right jurisdiction is most of the battle—execution is difficult and results uncertain, but bad real estate guarantees failure. Nicola's position is defensible in this respect.
 

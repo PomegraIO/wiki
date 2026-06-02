@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-A special purpose acquisition company, or SPAC, is a publicly traded shell—a company with no business operations, formed solely to hunt for a target to merge with. Athena Technology Acquisition Corp. II is one such entity, incorporated to find a technology business and combine with it. Until that merger occurs, shareholders own a claim on a trust account filled with cash from the initial public offering, waiting to be deployed.
+A special purpose [acquisition](/acquisition/) company, or SPAC, is a publicly traded shell—a company with no business operations, formed solely to hunt for a target to merge with. [Athena Technology Acquisition Corp. II](/atek-stock/) is one such entity, incorporated to find a technology business and combine with it. Until that [merger](/merger/) occurs, shareholders own a claim on a trust account filled with cash from the [initial public offering](/initial-public-offering/), waiting to be deployed.
 
 ## What Athena Technology actually is
 
@@ -21,11 +21,11 @@ The company's leadership consists entirely of women. Isabelle Freidheim serves a
 
 SPACs work this way: investors buy shares of an empty company that has raised money—in Athena's case, roughly $497 million at inception—and locked that capital in a trust account. Management then has a deadline (originally two years, extendable) to find and close an acquisition. If they succeed, the target company merges into the SPAC, the capital deploys, and the combined entity begins operations as a public company. If they fail, money returns to shareholders and the SPAC dissolves.
 
-The SPAC itself is a contractual arrangement. Shares are issued in units, each containing a share of common stock and a warrant—a right to buy additional stock at a set price after the merger closes. At some point, the shares and warrants separate and trade independently. Shareholders can either hold through the merger or redeem their shares for cash before the deadline.
+The SPAC itself is a contractual arrangement. Shares are issued in units, each containing a share of [common stock](/common-stock/) and a warrant—a right to buy additional stock at a set price after the merger closes. At some point, the shares and warrants separate and trade independently. Shareholders can either hold through the merger or redeem their shares for cash before the deadline.
 
 ## How Athena differs from other SPACs
 
-Most SPACs are sponsored by finance professionals—established PE firms, hedge funds, serial entrepreneurs. Athena's distinction is its explicit focus on women-led technology businesses. This shapes the deal flow the company pursues. Freidheim has founded multiple SPACs with this thesis, treating them as a financing channel for founders who might face headwinds raising capital through traditional venture or institutional channels.
+Most SPACs are sponsored by finance professionals—established PE firms, [hedge funds](/hedge-fund/), serial entrepreneurs. Athena's distinction is its explicit focus on women-led technology businesses. This shapes the deal flow the company pursues. Freidheim has founded multiple SPACs with this thesis, treating them as a financing channel for founders who might face headwinds raising capital through traditional venture or institutional channels.
 
 The women-first positioning is neither neutral nor incidental. It reflects a judgment about capital allocation and underrepresentation. Whether this mandate improves acquisition outcomes—finding stronger companies, better management, higher returns—is an open question that only data will answer.
 

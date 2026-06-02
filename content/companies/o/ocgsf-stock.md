@@ -37,7 +37,7 @@ The Santa Ana property itself is 100% owned by Outcrop—no joint venture partne
 
 Beyond Santa Ana, Outcrop holds claims on three gold exploration properties in Colombia. These are early-stage prospects—the company has done enough geological mapping and initial drilling to believe the properties merit further investigation, but discoveries are speculative and far from proven.
 
-The strategic value of holding multiple properties is optionality. A company with one project has one binary outcome: the project succeeds or it fails. A company with several has multiple shots on goal. If one property shows disappointment in drilling results, the others still carry the chance of a material discovery. From a portfolio perspective, diversification reduces the risk that total capital deployed goes to zero.
+The strategic value of holding multiple properties is optionality. A company with one project has one binary outcome: the project succeeds or it fails. A company with several has multiple shots on goal. If one property shows disappointment in drilling results, the others still carry the chance of a material discovery. From a portfolio perspective, [diversification](/diversification/) reduces the risk that total capital deployed goes to zero.
 
 However, diversification also spreads capital and management attention across multiple locations and properties, potentially delaying progress on any single project. There is a trade-off between the focused depth needed to advance a project toward production and the broad spread needed to maintain optionality across several prospects.
 
@@ -51,7 +51,7 @@ The broader moat of the industry is that exploration is lottery-like. Success de
 
 ## Pressures and constraints
 
-Outcrop faces a fundamental constraint: it must raise capital regularly to fund exploration. As long as silver and gold prices make large discoveries potentially profitable, and as long as equity capital flows to junior miners, Outcrop can fund drilling and retain optionality. If equity markets turn skeptical of mining, commodity prices fall sharply, or investors flee exploration-stage companies, Outcrop's ability to finance operations deteriorates. The company has no revenue stream to cushion downturns—unlike a mining company with an operating mill or a producing mine, Outcrop is purely a capital consumer until and unless a major discovery or acquisition event occurs.
+Outcrop faces a fundamental constraint: it must raise capital regularly to fund exploration. As long as silver and gold prices make large discoveries potentially profitable, and as long as equity [capital flows](/capital-flows/) to junior miners, Outcrop can fund drilling and retain optionality. If equity markets turn skeptical of mining, commodity prices fall sharply, or investors flee exploration-stage companies, Outcrop's ability to finance operations deteriorates. The company has no revenue stream to cushion downturns—unlike a mining company with an operating mill or a producing mine, Outcrop is purely a capital consumer until and unless a major discovery or [acquisition](/acquisition/) event occurs.
 
 The company is also exposed to commodity price risk. If silver and gold prices fall sharply, the economic case for developing any discovery weakens, which can depress investor enthusiasm for exploration companies and tighten access to capital. The company has no control over these macro prices and can only manage its own costs and timing.
 

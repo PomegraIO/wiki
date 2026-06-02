@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **iShares Core MSCI Total International Stock ETF** (ticker IXUS) is a broad-based index fund that holds stocks from developed and emerging markets outside the United States, tracking the MSCI Total International Stock Index. It is one of the largest international equity funds and serves as a core holding for investors seeking global diversification.*
+*The **iShares Core MSCI Total International Stock ETF** (ticker IXUS) is a broad-based [index fund](/index-fund/) that holds stocks from developed and emerging markets outside the United States, tracking the MSCI Total International Stock Index. It is one of the largest international equity funds and serves as a core holding for investors seeking global [diversification](/diversification/).*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,9 +27,9 @@ handwritten: true
 
 ## Origins: the iShares global expansion
 
-iShares, owned by BlackRock, launched IXUS in 2012 at a moment when international index investing was becoming mainstream and technology had made it cheap to offer broad passive funds. The fund arrived into a market that already had competitors — Vanguard's VXUS had launched earlier — but iShares' distribution strength and the brand recognition of the iShares family gave IXUS rapid scale.
+iShares, owned by [BlackRock](/blk-stock/), launched IXUS in 2012 at a moment when international index investing was becoming mainstream and technology had made it cheap to offer broad passive funds. The fund arrived into a market that already had competitors — Vanguard's VXUS had launched earlier — but iShares' distribution strength and the brand recognition of the iShares family gave IXUS rapid scale.
 
-Over the following years, IXUS became one of the largest international equity ETFs on the market. Its low expense ratio, broad holdings, and exceptional liquidity made it the natural choice for countless advisors and individuals building a core international allocation. BlackRock's push to scale iShares products globally accelerated the fund's growth further, until it emerged as one of the most widely held international equity vehicles.
+Over the following years, IXUS became one of the largest international [equity ETFs](/equity-etf/) on the market. Its low [expense ratio](/expense-ratio/), broad holdings, and exceptional liquidity made it the natural choice for countless advisors and individuals building a core international allocation. BlackRock's push to scale iShares products globally accelerated the fund's growth further, until it emerged as one of the most widely held international equity vehicles.
 
 ## The index and its construction
 
@@ -41,7 +41,7 @@ IXUS replicates this index by holding the same stocks in approximately the same 
 
 The fund's scope spans the full universe of international investing. Developed markets like Germany, France, Switzerland, Japan, and Australia make up the majority of the holdings and dominate the index's weight. But the index also captures emerging markets: China, Taiwan, South Korea, India, Brazil, and Mexico are all significant contributors. This mix is both the fund's strength and a source of decision-making for investors.
 
-Developed markets offer liquidity, regulatory stability, and mature companies. Emerging markets offer higher growth potential and exposure to younger, rapidly expanding economies, but with higher volatility and currency risk. IXUS, by holding both, offers a middle ground — investors get international exposure without having to choose between developed-market stability and emerging-market growth.
+Developed markets offer liquidity, regulatory stability, and mature companies. Emerging markets offer higher growth potential and exposure to younger, rapidly expanding economies, but with higher volatility and [currency risk](/currency-risk/). IXUS, by holding both, offers a middle ground — investors get international exposure without having to choose between developed-market stability and emerging-market growth.
 
 ## Sector exposure and the China question
 
@@ -53,13 +53,13 @@ China's weight in IXUS has been an important question. The country is the second
 
 IXUS' expense ratio is exceptionally low — among the cheapest international index funds available. This cost advantage is one of the primary reasons IXUS has grown to such a large scale. For an investor building a long-term core holding, the difference between a 0.10% expense ratio (IXUS) and a 0.30% fund compounds meaningfully over decades.
 
-The fund's tax efficiency — a result of its passive, index-replicating structure — is also strong. Because the fund is not actively trading in and out of positions, it generates fewer taxable distributions than an actively managed fund would. For taxable accounts, this is a meaningful advantage.
+The fund's tax efficiency — a result of its passive, index-replicating structure — is also strong. Because the fund is not actively trading in and out of positions, it generates fewer taxable distributions than an [actively managed fund](/actively-managed-fund/) would. For taxable accounts, this is a meaningful advantage.
 
 ## Liquidity and daily trading
 
 IXUS trades on an exchange with very high daily volume. Investors can buy or sell shares at any time during market hours at prices set by supply and demand. The spreads between bid and ask prices are typically very tight — a fraction of a cent — because the fund is so heavily traded. This makes IXUS suitable for investors of any size, from small individual purchases to large institutional transactions.
 
-The fund's size and ubiquity also mean that it appears in countless 401(k) plans, advisory accounts, and robo-advisor portfolios, making it one of the most widely held international funds globally.
+The fund's size and ubiquity also mean that it appears in countless [401(k) plans](/401k-plan/), advisory accounts, and robo-advisor portfolios, making it one of the most widely held international funds globally.
 
 ## Currency exposure: neither hedged nor insulated
 
@@ -75,7 +75,7 @@ Geopolitical events — trade tensions, sanctions, military conflict — can imp
 
 ## Who holds IXUS and how
 
-IXUS is typically a core international holding for investors seeking broad, cheap, passive exposure to non-U.S. equities. Advisors use it as the international sleeve in diversified portfolios. Individual investors building their own three-fund or four-fund portfolio often use IXUS as the international component. It is also common in target-date funds and as the international anchor in portfolios managed by robo-advisors.
+IXUS is typically a core international holding for investors seeking broad, cheap, passive exposure to non-U.S. equities. Advisors use it as the international sleeve in diversified portfolios. Individual investors building their own three-fund or four-fund portfolio often use IXUS as the international component. It is also common in [target-date funds](/target-date-fund/) and as the international anchor in portfolios managed by robo-advisors.
 
 It is less appropriate for investors seeking to tilt toward specific markets, factors, or development stages — for those goals, more specialized funds are available.
 
@@ -83,6 +83,6 @@ It is less appropriate for investors seeking to tilt toward specific markets, fa
 
 The fund's prospectus and factsheet, available on the iShares website, show the top 10 holdings, sector and geographic breakdowns, and historical performance relative to the MSCI Total International Index. Compare IXUS's expense ratio and tracking error against competitors like Vanguard's VXUS to assess value.
 
-Monitor the fund's geographic and sector weights — these shift as market capitalizations change. Watch for announcements of index methodology changes from MSCI, as these will affect what IXUS holds. Keep an eye on the performance of developed versus emerging markets, as that split significantly influences IXUS's total return.
+Monitor the fund's geographic and sector weights — these shift as [market capitalizations](/market-capitalization/) change. Watch for announcements of index methodology changes from MSCI, as these will affect what IXUS holds. Keep an eye on the performance of developed versus emerging markets, as that split significantly influences IXUS's total return.
 
 For a long-term holder, the fund requires minimal monitoring — its design ensures that it will continue to hold the broad international market in proportion to its size.

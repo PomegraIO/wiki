@@ -36,11 +36,11 @@ The appeal is obvious: a trader convinced that shipping equities will surge over
 
 Imagine a shipping index that moves up 5% on day one and then down 5% on day two, ending flat. A standard fund that holds the index would also end flat. But a 2x leveraged daily-reset fund behaves differently. On day one it rises 10% (doubling the 5% index gain). On day two the market falls 5%, so the fund falls 10% — but it falls 10% from the higher base that was set at the end of day one. The result is not a flat fund; it is a fund down approximately 1% because the 10% loss is applied to a higher starting value than the 10% gain was. This erosion accumulates over sideways or volatile markets, even if the index itself never declines below its starting price.
 
-The longer the holding period and the higher the volatility, the worse the decay effect. A shipping index that swings wildly month to month will see its 2x leveraged tracker bleed capital to this compounding effect faster than a market that trends steadily upward.
+The longer the [holding period](/holding-period/) and the higher the volatility, the worse the decay effect. A shipping index that swings wildly month to month will see its 2x leveraged tracker bleed capital to this compounding effect faster than a market that trends steadily upward.
 
 ## Costs and leverage funding
 
-BLSG charges an expense ratio to cover administration, and separately it incurs a cost for the leverage itself. The fund must borrow money or purchase derivatives to maintain 2x exposure, and those borrowing costs are real. When interest rates are high, the daily drag increases. In rising markets, the leverage amplifies gains beyond the expense drag, so the net effect is still positive. In flat or falling markets, the drag becomes material and reduces returns below what an unleveraged fund would deliver.
+BLSG charges an [expense ratio](/expense-ratio/) to cover administration, and separately it incurs a cost for the leverage itself. The fund must borrow money or purchase derivatives to maintain 2x exposure, and those borrowing costs are real. When [interest rates](/interest-rate/) are high, the daily drag increases. In rising markets, the leverage amplifies gains beyond the expense drag, so the net effect is still positive. In flat or falling markets, the drag becomes material and reduces returns below what an unleveraged fund would deliver.
 
 BLSG is appropriate exclusively for traders with a defined and urgent view. Are you bullish on shipping for the next week because a specific shipping index data point suggests a shift? This is the right tool. Are you bullish on shipping for five years and want to amplify your gains? Wrong vehicle; buy an unleveraged shipping ETF or the stocks themselves, and compound your gains without daily decay eating into returns.
 
@@ -48,7 +48,7 @@ BLSG is appropriate exclusively for traders with a defined and urgent view. Are 
 
 The Bloomsbury Shipping Index itself is cyclical. Shipping earnings and equity valuations rise when global trade is brisk and container/tanker utilization is high, and they fall sharply when capacity exceeds demand or trade slows. A fund tracking this index amplified by 2x magnifies those swings. A 30% index decline becomes a 60% fund loss over a short period. Similarly, a 20% index rally becomes a 40% fund gain — the allure of leverage.
 
-Liquidity can tighten during shipping crises or broader market stress. BLSG trades on an exchange at market prices, but the underlying index and the fund itself can become illiquid, widening bid-ask spreads and introducing slippage between the fund's theoretical net asset value and what a trader can actually exit at.
+Liquidity can tighten during shipping crises or broader market stress. BLSG trades on an exchange at market prices, but the underlying index and the fund itself can become illiquid, widening [bid-ask spreads](/bid-ask-spread/) and introducing slippage between the fund's theoretical [net asset value](/net-asset-value/) and what a trader can actually exit at.
 
 ## Using BLSG safely
 

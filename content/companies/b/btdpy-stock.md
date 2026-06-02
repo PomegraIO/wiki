@@ -60,7 +60,7 @@ Barratt's [gross profit margin](/gross-profit-margin/) on home sales depends on 
 
 The business is capital-light in the sense that Barratt does not own or operate factories. However, it is cash-intensive because land is purchased, carried, and then converted to completed homes, all before revenue is realized. A slowdown in sales can create a working-capital crunch if land cannot be converted to sales quickly.
 
-Operating leverage works both ways. When demand is strong and the company is selling homes faster than it can build them, margins expand and cash generation is robust. Fixed costs ([regional management](/rm-stock/), planning staff, corporate overhead) are covered by higher sales volumes. When demand slows, fixed costs become a larger burden on each unit sold, and margins compress. The company typically responds by slowing land purchases and deferring construction, but this takes time to adjust.
+Operating leverage works both ways. When demand is strong and the company is selling homes faster than it can build them, margins expand and cash generation is robust. Fixed costs (regional management, planning staff, corporate overhead) are covered by higher sales volumes. When demand slows, fixed costs become a larger burden on each unit sold, and margins compress. The company typically responds by slowing land purchases and deferring construction, but this takes time to adjust.
 
 ## The housing cycle and risks
 

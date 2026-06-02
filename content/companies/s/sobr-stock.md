@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-SOBR Safe, Inc. (Nasdaq: SOBR) manufactures and deploys transdermal alcohol-monitoring devices—wearables and stationary units that detect alcohol through skin conductance rather than breath or blood. Founded in 2004, the company operates out of Greenwood Village, Colorado, and has spent two decades refining a proprietary sensor technology that detects alcohol as it passes through the skin. The business model is renting or selling units to fleets, employers, probation departments, and rehabilitation programs that need real-time alcohol-monitoring data.
+SOBR Safe, Inc. ([Nasdaq](/nasdaq/): SOBR) manufactures and deploys transdermal alcohol-monitoring devices—wearables and stationary units that detect alcohol through skin conductance rather than breath or blood. Founded in 2004, the company operates out of Greenwood Village, Colorado, and has spent two decades refining a proprietary sensor technology that detects alcohol as it passes through the skin. The business model is renting or selling units to fleets, employers, probation departments, and rehabilitation programs that need real-time alcohol-monitoring data.
 
 ## The core insight: not breath or blood, but skin
 
@@ -27,7 +27,7 @@ Revenue is primarily recurring: SOBR charges a monthly subscription or rental fe
 
 ## The path to profitability: scale and utilization
 
-Like many early-stage hardware companies, SOBR has moved through cash-burn phases as it built the product, obtained regulatory clearances (including from the US Department of Transportation), and funded customer acquisition. The company's financial trajectory has been mixed: it has achieved periods of positive cash flow and periods of losses, depending on deployment velocity and whether it was investing heavily in new product development or market expansion.
+Like many early-stage hardware companies, SOBR has moved through cash-burn phases as it built the product, obtained regulatory clearances (including from the US Department of Transportation), and funded customer [acquisition](/acquisition/). The company's financial trajectory has been mixed: it has achieved periods of positive cash flow and periods of losses, depending on deployment velocity and whether it was investing heavily in new product development or market expansion.
 
 The unit economics hinge on two factors. The first is customer acquisition cost relative to customer lifetime value—if the company spends too much to acquire a fleet operator or a probation department, it takes too long to break even on that customer. The second is the installed base and utilization: each device deployed is a point of monthly recurring revenue, so growth depends on expanding the number of active units in the field and on customer retention.
 
@@ -49,6 +49,6 @@ Third, what is the total addressable market? The US has approximately 200,000 in
 
 ## How to research SOBR
 
-Start with the 10-K filing and quarterly earnings reports. Look for growth in the active-device installed base—this is the leading indicator of revenue. Watch for customer concentration risk: if a single probation system or fleet operator represents 20% or more of revenue, that's a concentration risk that should influence valuation. Track gross margin on recurring revenue: high-margin subscriptions are the company's profit engine.
+Start with the 10-K filing and quarterly earnings reports. Look for growth in the active-device installed base—this is the leading indicator of revenue. Watch for customer [concentration risk](/concentration-risk/): if a single probation system or fleet operator represents 20% or more of revenue, that's a concentration risk that should influence valuation. Track gross margin on recurring revenue: high-margin subscriptions are the company's profit engine.
 
 Search for case studies or deployment summaries from major probation or fleet customers—these are often published by both SOBR and the customers themselves. This reveals which customer segments are adopting and how they are integrating the technology. Monitor regulatory developments: any federal or state guidance on transdermal alcohol monitoring matters for future sales. Finally, track the competitive landscape—watch for new entrants, product launches by larger telematics or monitoring companies, and any major technological shifts in alcohol detection or monitoring.

@@ -46,6 +46,6 @@ Third, the company is small enough that it has limited resources to invest in pr
 
 ## How a reader would research it
 
-Anyone studying Sky Century would begin with its annual filings on the SEC website (CIK 0001555017), which lay out revenue by service segment and detail the risks management faces. Because the company is small and trades over the counter, far less analyst coverage and financial data are readily available compared to Nasdaq or NYSE stocks. The quarterly filings and any occasional news releases provide the main window into operations and strategy.
+Anyone studying Sky Century would begin with its annual filings on the SEC website (CIK 0001555017), which lay out revenue by service segment and detail the risks management faces. Because the company is small and trades over the counter, far less analyst coverage and financial data are readily available compared to [Nasdaq](/nasdaq/) or NYSE stocks. The quarterly filings and any occasional news releases provide the main window into operations and strategy.
 
 Given the company's size and the commoditized nature of most of what it offers, the key questions to track are whether the company is growing its customer base, whether cannabis news feeds are becoming a defensible niche, and whether direct CBD product sales represent a meaningful revenue lever. Without material growth in one of these areas, the business is unlikely to scale significantly from its current size.

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Nexalin Technology makes medical devices that use electrical stimulation to treat depression and other mental health disorders. The devices work by stimulating specific brain structures without surgery or drugs. The company trades on NASDAQ under NXL.
+Nexalin Technology makes medical devices that use electrical stimulation to treat depression and other mental health disorders. The devices work by stimulating specific brain structures without surgery or drugs. The company trades on [NASDAQ](/nasdaq/) under NXL.
 
 <aside class="wiki-infobox">
 <table>

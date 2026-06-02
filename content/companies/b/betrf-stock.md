@@ -33,13 +33,13 @@ This creates a capital-intensity problem: psychiatric biotech requires sustained
 
 ## Regulatory Pathways and Competitive Timing
 
-The FDA has created several expedited pathways relevant to psychiatric indications: [Fast Track](/ftrk-stock/) designation, Breakthrough Therapy designation, and Regenerative Medicine Advanced Therapy (RMAT) designation for cell and tissue therapies. These can compress development and review timelines by years if the candidate demonstrates compelling efficacy.
+The FDA has created several expedited pathways relevant to psychiatric indications: Fast Track designation, Breakthrough Therapy designation, and Regenerative Medicine Advanced Therapy (RMAT) designation for cell and tissue therapies. These can compress development and review timelines by years if the candidate demonstrates compelling efficacy.
 
 BetterLife's ability to access these pathways depends on whether its programs show early evidence of benefit and whether the company can marshal data and regulatory expertise to make the case. For a smaller, Canadian-headquartered biotech, this may require partnerships or contractual arrangements with US-based regulatory consultants and clinical CROs. This adds cost and complexity but is often necessary.
 
 ## Mechanistic Differentiation and the Crowding Problem
 
-Psychiatric biotech is becoming crowded. Major companies ([Johnson & Johnson](/jnj-stock/), Eli Lilly, Roche, Sage Therapeutics) are investing heavily in depression, anxiety, and psychosis programs. Numerous smaller biotechs are pursuing similar targets. Unless BetterLife can differentiate on mechanism (a novel target class), patient population (a specific subtype or treatment-resistant indication), or execution quality (trial design, recruitment), it faces intense competition for the same clinical and commercial endpoints.
+Psychiatric biotech is becoming crowded. Major companies ([Johnson & Johnson](/jnj-stock/), [Eli Lilly](/lly-stock/), Roche, Sage Therapeutics) are investing heavily in depression, anxiety, and psychosis programs. Numerous smaller biotechs are pursuing similar targets. Unless BetterLife can differentiate on mechanism (a novel target class), patient population (a specific subtype or treatment-resistant indication), or execution quality (trial design, recruitment), it faces intense competition for the same clinical and commercial endpoints.
 
 Differentiation is difficult to achieve and easy to claim. A "novel mechanism" is only valuable if it actually works better than existing treatments or addresses unmet medical need that existing drugs cannot touch. BetterLife must therefore focus development on either truly novel mechanisms (which have high failure risk) or well-understood targets where superior efficacy or tolerability is plausible (which is crowded).
 

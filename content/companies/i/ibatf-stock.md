@@ -27,7 +27,7 @@ The value added at each stage of this chain is increasing. Raw ore has low value
 
 ## Upstream Mining and Mineral Sources
 
-IBATF holds or operates mining properties producing or exploring for [critical metals](/crml-stock/). The company's model combines organic development (building its own mines or processing facilities) with inorganic growth (acquiring mining operations or forming joint ventures with established miners).
+IBATF holds or operates mining properties producing or exploring for critical metals. The company's model combines organic development (building its own mines or processing facilities) with inorganic growth (acquiring mining operations or forming joint ventures with established miners).
 
 Mining lithium, cobalt, and nickel generates environmental and social challenges. Lithium extraction, primarily from salt flats in South America and hard-rock mines in Australia and Canada, requires large water volumes and generates significant brine or waste rock. These operations face scrutiny from environmental regulators and local communities concerned about water depletion and ecosystem damage.
 

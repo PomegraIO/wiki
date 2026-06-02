@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Most equity ETFs track an index or a sector. The VistaShares Target 15 ACKtivist Distribution ETF takes a different tack: it identifies 15 US companies that appear likely to become targets for activist investors or to be acquired, and it concentrates its holdings on those names. The thesis is that activist campaigns — shareholders pushing boards to change strategy or cut costs — and acquisition interest create special profit opportunities beyond ordinary market returns. The fund also implements a distribution strategy to pass income to shareholders, adding a regular yield component to the bet on corporate change.
+Most [equity ETFs](/equity-etf/) track an index or a sector. The VistaShares Target 15 ACKtivist Distribution ETF takes a different tack: it identifies 15 US companies that appear likely to become targets for activist investors or to be acquired, and it concentrates its holdings on those names. The thesis is that activist campaigns — shareholders pushing boards to change strategy or cut costs — and [acquisition](/acquisition/) interest create special profit opportunities beyond ordinary market returns. The fund also implements a distribution strategy to pass income to shareholders, adding a regular yield component to the bet on corporate change.
 
 <aside class="wiki-infobox">
 <table>

@@ -49,7 +49,7 @@ Most customers use multiple products in combination, building an integrated syst
 
 ## The business model and the customer base
 
-SailPoint primarily sells to large enterprises — [financial institutions](/fisi-stock/), healthcare providers, government agencies, and tech companies that have mature IT operations and significant compliance requirements. The typical customer has thousands of employees and hundreds of applications. The costs of getting access wrong (either too open or too locked down) are high enough that buying software to manage it becomes rational.
+SailPoint primarily sells to large enterprises — financial institutions, healthcare providers, government agencies, and tech companies that have mature IT operations and significant compliance requirements. The typical customer has thousands of employees and hundreds of applications. The costs of getting access wrong (either too open or too locked down) are high enough that buying software to manage it becomes rational.
 
 The company's revenue comes primarily from software subscriptions and maintenance contracts. Customers license the platform based on the number of users, the number of connected systems, or both, and renew annually. Implementation and customization services provide a second revenue stream: customers typically need consultants to map their unique environment and tune the platform for their specific mix of systems. This services component creates stickiness because once consultants have customized the platform, switching to a competitor requires redoing that work.
 

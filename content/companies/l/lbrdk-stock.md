@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Liberty Broadband is a complicated holding company controlled by John Malone and the Malone family's Liberty Media empire. It operates in two distinct ways: as the majority owner of Charter Communications (one of the three largest cable and broadband providers in the United States) and as operator of its own smaller broadband networks. The company is ultimately a capital-allocation vehicle, investing in and managing stakes in broadband assets to build value for shareholders.
+[Liberty Broadband](/lbrda-stock/) is a complicated holding company controlled by John Malone and the Malone family's [Liberty Media](/fwona-stock/) empire. It operates in two distinct ways: as the majority owner of Charter Communications (one of the three largest cable and broadband providers in the United States) and as operator of its own smaller broadband networks. The company is ultimately a capital-allocation vehicle, investing in and managing stakes in broadband assets to build value for shareholders.
 
 ## The Liberty Broadband portfolio structure
 
@@ -25,9 +25,9 @@ The company structure is not a accident. John Malone has long believed that cons
 
 Charter is a cable operator in the traditional sense — it owns and operates coaxial and fiber-optic networks in its service territories, collects monthly fees from residential customers for broadband, video, and voice, and sells broadband and voice services to small businesses and commercial customers. Broadband is the growth driver; it carries higher margins than video and has fewer substitutes. Video has been declining as customers cut the cord, but broadband has more than offset the losses.
 
-Charter's revenue comes almost entirely from recurring subscription fees — customers pay monthly for broadband, video bundles, and voice. This is sticky, high-margin revenue. The incremental cost of serving another broadband customer once the network is built is trivial, so Charter's operating margins are strong. The company also generates cash flow and uses it to fund capital expenditure (upgrading networks to higher speeds), paying down debt, and returning cash to shareholders through dividends and buybacks.
+Charter's revenue comes almost entirely from recurring subscription fees — customers pay monthly for broadband, video bundles, and voice. This is sticky, high-margin revenue. The incremental cost of serving another broadband customer once the network is built is trivial, so Charter's [operating margins](/operating-margin/) are strong. The company also generates cash flow and uses it to fund capital expenditure (upgrading networks to higher speeds), paying down debt, and returning cash to shareholders through [dividends](/dividend/) and buybacks.
 
-The economics are straightforward: Charter collects more in revenue than it spends on operating costs and capital expenditure, and the difference is free cash flow. This cash can be returned to shareholders (through dividends paid to shareholders including Liberty Broadband) or reinvested in the business (upgrading networks, acquiring customers from competitors).
+The economics are straightforward: Charter collects more in revenue than it spends on operating costs and capital expenditure, and the difference is [free cash flow](/free-cash-flow/). This cash can be returned to shareholders (through dividends paid to shareholders including Liberty Broadband) or reinvested in the business (upgrading networks, acquiring customers from competitors).
 
 Liberty Broadband's 40-percent stake in Charter is worth far more than the market value of Liberty Broadband itself — a discount that reflects investors' skepticism about the holding-company structure and the lack of direct operational control.
 
@@ -43,7 +43,7 @@ For Liberty Broadband, Frontier represents an optionality bet: if Fiber proves t
 
 Liberty Broadband's primary source of cash is the dividend that Charter pays to Liberty as a shareholder. Charter generates substantial free cash flow and returns a portion of it to all shareholders, including Liberty Broadband. This income stream is the funding source for Liberty's own capital allocation: dividend payments to Liberty Broadband shareholders, investments in Frontier, and any other capital deployment.
 
-The company also carries debt. The holding-company structure allows Liberty to borrow at the Liberty Broadband level and use the proceeds to fund investments or returns to shareholders. Debt levels matter because they affect credit ratings and borrowing costs, and they constrain how much cash can be returned to shareholders.
+The company also carries debt. The holding-company structure allows Liberty to borrow at the Liberty Broadband level and use the proceeds to fund investments or returns to shareholders. Debt levels matter because they affect [credit ratings](/credit-rating/) and borrowing costs, and they constrain how much cash can be returned to shareholders.
 
 Capital allocation is the core strategic question for Liberty Broadband. The company has several choices: increase the dividend to Liberty shareholders, repurchase Liberty Broadband shares, invest more in Frontier, or hold cash for future opportunities. The balance among these decisions reflects management's view of future opportunities and shareholder preferences.
 
@@ -63,7 +63,7 @@ Regulatory risk is present. Broadband is increasingly viewed as essential infras
 
 ## How to research Liberty Broadband
 
-Start with the annual report, which breaks out Charter's ownership and performance and details Frontier's operational and financial status. Track Charter's free cash flow and how much is being returned to shareholders via dividends and buybacks, as this determines how much cash flows to Liberty Broadband.
+Start with the [annual report](/10-k/), which breaks out Charter's ownership and performance and details Frontier's operational and financial status. Track Charter's free cash flow and how much is being returned to shareholders via dividends and buybacks, as this determines how much cash flows to Liberty Broadband.
 
 Key metrics: Charter's broadband customer growth (the core business) and average revenue per user, which show pricing power and penetration. Frontier's fiber-build progress and broadband subscriber growth, which indicate execution on the growth thesis. The capital intensity of Frontier's network buildout and the trajectory toward profitability. And the debt levels and credit ratings at both Liberty Broadband and Charter, which constrain capital flexibility.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **First Trust NASDAQ Clean Edge Green Energy Index Fund** — ticker QCLN — is an ETF that invests in companies building the clean energy transition. It holds solar and wind companies, battery makers, electric-vehicle producers, and the machinery and engineering firms that tie it all together.*
+*The **First Trust [NASDAQ](/nasdaq/) Clean Edge Green Energy [Index Fund](/index-fund/)** — ticker QCLN — is an ETF that invests in companies building the clean energy transition. It holds solar and wind companies, battery makers, electric-vehicle producers, and the machinery and engineering firms that tie it all together.*
 
 ## What the fund actually is
 
@@ -33,11 +33,11 @@ That diversity helps. If battery prices crash, the fund still owns the companies
 
 ## Costs and how to buy it
 
-The fund's expense ratio is reasonable for a sector fund — cheaper than an actively managed fund, more expensive than a broad index tracker like the S&P 500. It trades on an exchange like any stock, so you can buy or sell during market hours at whatever price the market is offering. Liquidity is decent, though not as thick as the largest ETFs. Check the bid-ask spread — the difference between buy and sell prices — before you trade.
+The fund's [expense ratio](/expense-ratio/) is reasonable for a [sector fund](/sector-fund/) — cheaper than an [actively managed fund](/actively-managed-fund/), more expensive than a broad index tracker like the S&P 500. It trades on an exchange like any stock, so you can buy or sell during market hours at whatever price the market is offering. Liquidity is decent, though not as thick as the largest ETFs. Check the [bid-ask spread](/bid-ask-spread/) — the difference between buy and sell prices — before you trade.
 
 ## The real problems
 
-Clean energy is a long-term story, but QCLN itself swings with the stock market. When investors get spooked, they often dump growth stocks first, and most of QCLN's companies are smaller, growing firms. In downturns, this fund can fall harder than the broader market.
+Clean energy is a long-term story, but QCLN itself swings with the [stock market](/stock-market/). When investors get spooked, they often dump growth stocks first, and most of QCLN's companies are smaller, growing firms. In downturns, this fund can fall harder than the broader market.
 
 Commodity gluts have hurt some holdings. Too many solar panel makers means prices have fallen, which is great for the energy transition but terrible for manufacturers' profits. Competition has crushed margins in several segments.
 

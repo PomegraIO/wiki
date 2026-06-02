@@ -43,7 +43,7 @@ Insurance products also create recurring revenue streams (premiums) that are mor
 
 ## Competition from Larger Financial Groups
 
-Mandatum's position is ultimately subordinate to larger European and global [financial institutions](/fisi-stock/) (UBS, [Credit Suisse](/credit-suisse/), ABN AMRO, HSBC) that have greater capital, broader service offerings, and global reach. These larger players can enter the Nordic market and offer competitive terms backed by their scale and resources. For Mandatum to defend against such competition, it must either specialize in underserved segments (ultra-high-net-worth individuals, specific industries, specific geographies within Nordics) or maintain such superior service and execution that clients prefer it despite the availability of larger alternatives.
+Mandatum's position is ultimately subordinate to larger European and global financial institutions (UBS, [Credit Suisse](/credit-suisse/), ABN AMRO, HSBC) that have greater capital, broader service offerings, and global reach. These larger players can enter the Nordic market and offer competitive terms backed by their scale and resources. For Mandatum to defend against such competition, it must either specialize in underserved segments (ultra-high-net-worth individuals, specific industries, specific geographies within Nordics) or maintain such superior service and execution that clients prefer it despite the availability of larger alternatives.
 
 ## Regulatory and Compliance Costs as Moat
 

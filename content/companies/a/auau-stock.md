@@ -21,13 +21,13 @@ Gold mining stocks have a long history, but they were historically the domain of
 
 The industry was fragmented: there were large, multinational producers (like Barrick Gold and Newmont), mid-sized operators, junior explorers, and speculative development-stage companies. Picking which mining stocks would outperform required deep expertise. Index providers like Global X (which specializes in thematic and commodity-linked ETFs) saw an opportunity to offer a rules-based approach: an index of the most liquid, established gold mining companies, updated regularly, and packaged into an ETF.
 
-The appeal was clear: investors who believed gold was a good hedge against inflation, currency debasement, or geopolitical risk could now access that view not through bullion (which produces no yield and requires storage) but through equities (which produce dividends and are easily traded). Mining stocks also benefited from leverage: a 10% rise in gold prices could translate to a 20% rise in mining earnings, and thus in stock prices.
+The appeal was clear: investors who believed gold was a good hedge against [inflation](/inflation/), currency debasement, or geopolitical risk could now access that view not through bullion (which produces no yield and requires storage) but through equities (which produce [dividends](/dividend/) and are easily traded). Mining stocks also benefited from leverage: a 10% rise in gold prices could translate to a 20% rise in mining earnings, and thus in stock prices.
 
 ## Structure and rebalancing
 
 AUAU tracks the Global X Gold Miners Index, which is maintained by an index provider and updated on a schedule (typically semi-annually or quarterly). The index includes large-cap multinational producers, mid-cap regional producers, and smaller, more specialized miners. The exact composition and weighting vary by index methodology, but the fund aims to capture the broad universe of investable gold mining equities.
 
-The fund holds positions in companies across multiple countries and regulatory regimes: major producers in Canada, Australia, the United States, Peru, Ghana, and other mining regions. This geographic diversification protects against any single country's mining policy or geopolitical shock, but it also introduces currency risk — a fall in the Australian dollar or Canadian dollar can reduce returns even if gold prices are stable.
+The fund holds positions in companies across multiple countries and regulatory regimes: major producers in Canada, Australia, the United States, Peru, Ghana, and other mining regions. This geographic [diversification](/diversification/) protects against any single country's mining policy or geopolitical shock, but it also introduces [currency risk](/currency-risk/) — a fall in the [Australian dollar](/australian-dollar/) or [Canadian dollar](/canadian-dollar/) can reduce returns even if gold prices are stable.
 
 ## Leverage to gold price and operational risk
 
@@ -45,9 +45,9 @@ Consolidation reduced the leverage and volatility of the sector: owning a basket
 
 ## Costs, dividends, and reinvestment
 
-The fund carries an expense ratio reflective of the index methodology and trading activity. It is higher than a simple gold ETF (like GLD, which holds bullion) but lower than actively managed gold-focused funds.
+The fund carries an [expense ratio](/expense-ratio/) reflective of the index methodology and trading activity. It is higher than a simple gold ETF (like GLD, which holds bullion) but lower than actively managed gold-focused funds.
 
-Mining companies often pay modest dividends as they reinvest earnings into new exploration, mine development, and shareholder returns. Unlike bonds, which have predictable coupons, mining dividends fluctuate with the commodity cycle. During periods of high gold prices, dividends tend to rise. During downturns, they are often slashed or suspended. The fund passes through these distributions to shareholders, but they are variable.
+Mining companies often pay modest dividends as they reinvest earnings into new exploration, mine development, and shareholder returns. Unlike [bonds](/bond/), which have predictable coupons, mining dividends fluctuate with the commodity cycle. During periods of high gold prices, dividends tend to rise. During downturns, they are often slashed or suspended. The fund passes through these distributions to shareholders, but they are variable.
 
 ## Risks and correlation shifts
 
@@ -55,7 +55,7 @@ A long-standing historical relationship is that gold and equities are negatively
 
 During market crashes, investors often sell mining stocks to raise cash, even if gold prices are rising. This breaks the hedge and can frustrate investors who thought they owned a gold hedge through AUAU.
 
-Other risks include currency exposure (many mining companies earn revenue in gold, priced in U.S. dollars, but pay costs in local currencies), geopolitical risk (mining in unstable regions), regulatory risk (environmental standards, labor laws, and taxes can shift overnight), and the cyclicality of mining investment. Exploration budgets are first to get cut in downturns, which can impair future production.
+Other risks include currency exposure (many mining companies earn revenue in gold, priced in [U.S. dollars](/us-dollar/), but pay costs in local currencies), geopolitical risk (mining in unstable regions), regulatory risk (environmental standards, labor laws, and taxes can shift overnight), and the cyclicality of mining investment. Exploration budgets are first to get cut in downturns, which can impair future production.
 
 ## Who AUAU is for
 
@@ -69,6 +69,6 @@ Start by reviewing the fund's top holdings and understanding which miners drive 
 
 Compare AUAU's returns to gold price performance (using GLD or daily spot prices) over one-, three-, and five-year periods. Are mining stocks outperforming gold? That suggests the sector is benefiting from strong operational execution or favorable sentiment. If mining stocks lag gold, the sector may be facing headwinds (costs rising, geopolitical risk, regulatory pressure) that offset gold's upside.
 
-Watch the fund's dividend yield and distribution history. Has it been stable, rising, or declining? A falling dividend can signal weakening profitability in the sector.
+Watch the fund's [dividend yield](/dividend-yield/) and distribution history. Has it been stable, rising, or declining? A falling dividend can signal weakening profitability in the sector.
 
 Finally, monitor majors mining companies' cost trends (all-in costs per ounce) and reserve replacement: Are they finding new ore bodies at reasonable costs? Are reserves being depleted faster than replenished? These trends determine the long-term sustainability of mining stocks and thus the ETF.

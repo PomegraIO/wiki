@@ -41,7 +41,7 @@ Even if a drug gains approval, commercial success is not assured. Immuron must c
 
 ## Capital Raising and Dilution
 
-Biotech companies early in development typically burn cash. Operating expenses—salaries, research, clinical trials—exceed revenue until and unless a product reaches the market and generates sales. Immuron must raise capital through [equity offerings](/stock/), debt, or partnerships to fund operations. Equity raises dilute existing shareholders; debt creates interest obligations and [refinancing risk](/refinancing-risk/). The frequency and size of Immuron's capital raises are visible in its SEC filings and serve as a proxy for how aggressively the company is advancing its pipeline and burning cash. Multiple large equity raises in short succession often signal either aggressive expansion or resource strain—a distinction investors must discern.
+Biotech companies early in development typically burn cash. Operating expenses—salaries, research, clinical trials—exceed revenue until and unless a product reaches the market and generates sales. Immuron must raise capital through [equity offerings](/stock/), debt, or partnerships to fund operations. Equity raises dilute existing shareholders; debt creates interest obligations and [refinancing risk](/refinancing-risk/). The frequency and size of Immuron's capital raises are visible in its SEC filings and serve as a proxy for how aggressively the company is advancing its pipeline and burning [cash. Multiple](/cash-multiple/) large equity raises in short succession often signal either aggressive expansion or resource strain—a distinction investors must discern.
 
 ## Competitive Positioning Within Immunology
 

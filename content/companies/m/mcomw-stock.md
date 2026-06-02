@@ -13,7 +13,7 @@ handwritten: true
 
 ### What is micromobility.com's core business?
 
-Micromobility.com builds software and data tools for companies that operate shared electric scooters, bikes, and e-bikes in cities. Think of Lime, Bird, or Voi renting scooters by the minute — micromobility.com provides the routing algorithms, pricing tools, fleet management, and analytics that help these operators optimize their operations. The company went public via SPAC merger in 2021 and trades under MCOMW. It is a software-and-data play on the broader micromobility trend, not an operator itself. The bet is that as cities rely more on scooters and shared bikes for last-mile trips, the software layer that keeps those fleets running efficiently becomes valuable infrastructure.
+Micromobility.com builds software and data tools for companies that operate shared electric scooters, bikes, and e-bikes in cities. Think of Lime, Bird, or Voi renting scooters by the minute — micromobility.com provides the routing algorithms, pricing tools, fleet management, and analytics that help these operators optimize their operations. The company went public via SPAC [merger](/merger/) in 2021 and trades under MCOMW. It is a software-and-data play on the broader micromobility trend, not an operator itself. The bet is that as cities rely more on scooters and shared bikes for last-mile trips, the software layer that keeps those fleets running efficiently becomes valuable infrastructure.
 
 <aside class="wiki-infobox">
 <table>

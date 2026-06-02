@@ -31,19 +31,19 @@ The mathematics are brutal over time. The longer AMAU sits in a portfolio, the m
 
 AMAU exists for traders, not long-term investors. A trader placing a tactical bet that Applied Materials will outperform over the next two weeks can use AMAU to risk less capital — a smaller position with 2x leverage achieves the same profit as a twice-as-large cash position. That leverage is a tool, not an enhancement that persists.
 
-The expense ratio is relatively high compared to a vanilla Applied Materials ETF, reflecting the cost of daily rebalancing and the leverage itself. That drag accumulates slowly in the account but is a fixed fact to model.
+The [expense ratio](/expense-ratio/) is relatively high compared to a vanilla Applied Materials ETF, reflecting the cost of daily rebalancing and the leverage itself. That drag accumulates slowly in the account but is a fixed fact to model.
 
 ## Tracking error and spreads
 
 AMAU aims to track 2x the daily return of AMAT stock, but it does not do so perfectly. The fund incurs costs for rebalancing, borrowing, and management that eat into its performance — a phenomenon called tracking error. The gap is usually small on a day-to-day basis, but it compounds and is magnified by the 2x leverage. Over a year, even a small daily tracking error adds up.
 
-AMAU also trades on the Nasdaq with a bid-ask spread, like any ETF. Traders using it tactically should expect to pay that spread on entry and exit, which matters acutely when using leverage — a 0.1 percent spread on a 2x leveraged position is a proportionally larger drag.
+AMAU also trades on the [Nasdaq](/nasdaq/) with a [bid-ask spread](/bid-ask-spread/), like any ETF. Traders using it tactically should expect to pay that spread on entry and exit, which matters acutely when using leverage — a 0.1 percent spread on a 2x leveraged position is a proportionally larger drag.
 
 ## Risks and what to watch
 
 The primary risk is leverage itself: losses are also doubled. A 20 percent decline in Applied Materials stock translates to roughly a 40 percent loss in AMAU. That severity makes it unsuitable for buy-and-hold portfolios, especially for investors whose risk tolerance does not accommodate draws of that magnitude.
 
-A secondary risk is the daily reset trap. Sideways chop destroys value in leveraged products. The longer the holding period, the more decay becomes certain.
+A secondary risk is the daily reset trap. Sideways chop destroys value in leveraged products. The longer the [holding period](/holding-period/), the more decay becomes certain.
 
 Liquidity is generally good — AMAU trades on a major exchange and tracks a major stock — but during market stress or semiconductor-sector selling, spreads can widen sharply, making it harder to exit cleanly.
 

@@ -34,7 +34,7 @@ This financial posture leaves zero room for dividend or [share-buyback](/share-b
 
 ## Comparable Capital Structures
 
-Currenc's funding constraints mirror those of other micro-cap fintech ventures: high equity dependency, OTC illiquidity, extended burn rates, and fragile access to follow-on capital. Firms in the cryptocurrency ecosystem have often relied on founder funding, angel rounds, or strategic partnerships with established [financial institutions](/fisi-stock/) seeking blockchain exposure. When venture capital flowed freely into crypto (circa 2017–2021), multiple companies achieved high valuations and could layer [preferred stock](/preferred-stock/) [tranches](/tranche/) and later bridge financing. Those conditions have tightened. Currenc entered—or was born into—a harder capital environment.
+Currenc's funding constraints mirror those of other micro-cap fintech ventures: high equity dependency, OTC illiquidity, extended burn rates, and fragile access to follow-on capital. Firms in the cryptocurrency ecosystem have often relied on founder funding, angel rounds, or strategic partnerships with established financial institutions seeking blockchain exposure. When venture capital flowed freely into crypto (circa 2017–2021), multiple companies achieved high valuations and could layer [preferred stock](/preferred-stock/) [tranches](/tranche/) and later bridge financing. Those conditions have tightened. Currenc entered—or was born into—a harder capital environment.
 
 ## Path Dependency and Downside Scenarios
 

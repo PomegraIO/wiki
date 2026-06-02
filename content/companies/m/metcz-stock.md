@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*Ramaco Resources owns and operates metallurgical coal mines in Central Appalachia whilst developing what may be the largest rare earth deposit discovered in the United States at its Brook Mine site in Wyoming. The common shares (METCZ) track exposure to both the cash-generating coal platform and the long-term rare earth venture.*
+*[Ramaco Resources](/metc-stock/) owns and operates metallurgical coal mines in Central Appalachia whilst developing what may be the largest rare earth deposit discovered in the United States at its Brook Mine site in Wyoming. The common shares (METCZ) track exposure to both the cash-generating coal platform and the long-term rare earth venture.*
 
 ---
 
@@ -28,7 +28,7 @@ The Brook Mine deposit emerged from eighteen months of core drilling and analysi
 
 ## Capital and growth
 
-Ramaco's coal operations throw off cash that supports shareholder returns and self-funds development spending. The company has used shares and debt to raise capital for Wyoming, signalling that coal cash alone is not sufficient to build a rare earth operation at scale. The internal reorganization creating the two-class structure (Class B tracking coal, Class A/common including both platforms) is a transparent acknowledgment that the businesses are pursuing different exit timelines and investor mandates: some shareholders want Appalachian dividend income, others want upside from Wyoming. That structural clarity is a strength, but it also locks in the fact that coal — a secular-decline business — is effectively being asked to fund a speculative development. If coal earnings compress faster than expected, the funding for Wyoming dries up, and the venture remains junior and underfunded.
+Ramaco's coal operations throw off cash that supports shareholder returns and self-funds development spending. The company has used shares and debt to raise capital for Wyoming, signalling that coal cash alone is not sufficient to build a rare earth operation at scale. The internal reorganization creating the two-class structure (Class B tracking coal, Class A/common including both platforms) is a transparent acknowledgment that the businesses are pursuing different exit timelines and investor mandates: some shareholders want Appalachian [dividend](/dividend/) income, others want upside from Wyoming. That structural clarity is a strength, but it also locks in the fact that coal — a secular-decline business — is effectively being asked to fund a speculative development. If coal earnings compress faster than expected, the funding for Wyoming dries up, and the venture remains junior and underfunded.
 
 ## What to watch
 

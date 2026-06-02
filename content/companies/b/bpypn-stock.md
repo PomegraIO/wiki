@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-BPYPN are preferred units of Brookfield Property Partners, a big real estate company that owns and runs office buildings, shopping centers, warehouses, hotels, and apartments around the world. The preferred units trade on the NASDAQ. To understand BPYPN, you need to first know the basic idea: when a partnership issues two kinds of units, common and preferred, the preferred units get paid first, and their payment does not change. Common units might get more if things go really well, but preferred units get a set amount every quarter, period.
+BPYPN are preferred units of [Brookfield Property Partners](/bpypp-stock/), a big real estate company that owns and runs office buildings, shopping centers, warehouses, hotels, and apartments around the world. The preferred units trade on the [NASDAQ](/nasdaq/). To understand BPYPN, you need to first know the basic idea: when a partnership issues two kinds of units, common and preferred, the preferred units get paid first, and their payment does not change. Common units might get more if things go really well, but preferred units get a set amount every quarter, period.
 
 <aside class="wiki-infobox">
 <table>
@@ -41,9 +41,9 @@ The partnership makes money from rent collection and from property appreciation.
 
 ## The interest-rate connection
 
-Here is where preferred units get tricky. They trade like a bond: when interest rates rise, their value falls, because people can now buy brand-new bonds that pay more. If the preferred units were issued at an 8 percent yield and interest rates jump to 9 percent, the preferred units have to trade lower so their effective yield matches the new market rate. If you sell before maturity, you lose money. If you hold to maturity, you get your full fixed distribution, and the price does not matter.
+Here is where preferred units get tricky. They trade like a [bond](/bond/): when [interest rates](/interest-rate/) rise, their value falls, because people can now buy brand-new bonds that pay more. If the preferred units were issued at an 8 percent yield and interest rates jump to 9 percent, the preferred units have to trade lower so their effective yield matches the new market rate. If you sell before maturity, you lose money. If you hold to maturity, you get your full fixed distribution, and the price does not matter.
 
-This is the classic interest-rate risk for any fixed-income security. The longer you hold it, the less this matters. The higher interest rates go, the more the value drops. If you need the cash and rates have risen, you take a loss.
+This is the classic [interest-rate risk](/interest-rate-risk/) for any fixed-income security. The longer you hold it, the less this matters. The higher interest rates go, the more the value drops. If you need the cash and rates have risen, you take a loss.
 
 ## The leverage beneath
 
@@ -56,13 +56,13 @@ The preferred units sit above common units in priority but below the company's c
 
 ## When the distribution can be cut
 
-The fixed distribution is not guaranteed forever. If Brookfield's properties lose so much value that the partnership cannot generate enough cash after debt payments to sustain the preferred distribution, it can be cut. This almost never happens to well-run, diversified real estate companies, but it is possible. A major recession, a geographic concentration in a collapsing market, or a string of tenant defaults could create stress.
+The fixed distribution is not guaranteed forever. If Brookfield's properties lose so much value that the partnership cannot generate enough cash after debt payments to sustain the preferred distribution, it can be cut. This almost never happens to well-run, diversified real estate companies, but it is possible. A major [recession](/recession/), a geographic concentration in a collapsing market, or a string of tenant defaults could create stress.
 
 To protect yourself, look at the coverage ratio: how many times over does the partnership's cash flow cover the preferred distribution? A coverage ratio above 2 is comfortable; below 1.5 is worrying. Also check the occupancy rate—if buildings are mostly empty, rents fall. And look at debt levels. A partnership running 70 percent leverage (debt relative to assets) has more cushion than one running 85 percent.
 
 ## Evaluation basics
 
-Start with the distribution yield—what percentage return you get from the quarterly payment relative to the price you pay. Compare it against Treasury bonds and investment-grade corporate bonds. If BPYPN is yielding 7 percent but a 10-year Treasury yields 4 percent, you are being paid 3 percent extra for taking the risk that Brookfield stumbles. Is that enough? That depends on your view of Brookfield's real estate portfolio and its management.
+Start with the distribution yield—what percentage return you get from the quarterly payment relative to the price you pay. Compare it against [Treasury bonds](/treasury-bond/) and investment-grade [corporate bonds](/corporate-bond/). If BPYPN is yielding 7 percent but a 10-year Treasury yields 4 percent, you are being paid 3 percent extra for taking the risk that Brookfield stumbles. Is that enough? That depends on your view of Brookfield's real estate portfolio and its management.
 
 Next, look at the price trend. If BPYPN has fallen sharply while interest rates stayed flat, the market may be warning that the distribution is at risk. If BPYPN trades consistently below par (the original issue price), investors are pricing in expectation of a distribution cut. Neither is automatically a sell, but both warrant investigation.
 

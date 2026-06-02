@@ -17,7 +17,7 @@ Reece Limited runs a simple business: it buys plumbing, heating, cooling, and ba
 
 The company was started in 1920 as a hardware store in Caufield, a suburb of Melbourne. That shop evolved over a century into a national distributor, then a regional one, and eventually an international one. For decades, Reece was purely retail—plumbers and builders walked into a branch to buy what they needed. Distribution shifted over time: more ordering by phone, then by email, then through online systems. Today, a plumber can order on their phone app and pick up the next morning, or have goods delivered to a job site the same day in a city. That convenience—being where the tradesperson needs you, when they need you—is Reece's basic competitive advantage.
 
-The company listed on the Australian Stock Exchange in 1972 and grew through internal expansion and acquisitions. In the 1990s and 2000s, it consolidated smaller merchant chains, building a dominant position in Australia. The shift into the United States happened gradually: the company acquired regional distributors (like Emerson Electric's plumbing business and others), building a foothold in a much larger market where it remains a distant second to Home Depot and Lowe's. The New Zealand business came through acquisition and organic growth. The Wilson family has remained the dominant shareholder throughout, owning about 70% of the company.
+The company listed on the Australian [Stock Exchange](/stock-exchange/) in 1972 and grew through internal expansion and [acquisitions](/acquisition/). In the 1990s and 2000s, it consolidated smaller merchant chains, building a dominant position in Australia. The shift into the United States happened gradually: the company acquired regional distributors (like Emerson Electric's plumbing business and others), building a foothold in a much larger market where it remains a distant second to [Home Depot](/hd-stock/) and Lowe's. The New Zealand business came through acquisition and organic growth. The Wilson family has remained the dominant shareholder throughout, owning about 70% of the company.
 
 ## The business model
 
@@ -47,7 +47,7 @@ Supply-chain reliability is mission-critical. If a supplier goes down or logisti
 
 ## The risks that matter
 
-Construction cycles are the biggest risk. A recession, housing slowdown, or sharp drop in building activity directly shrinks plumber and contractor demand for supplies. During the 2008 financial crisis, construction crashed and Reece's revenues fell accordingly. The company has little ability to cut costs fast enough to protect margins during a sudden downturn.
+Construction cycles are the biggest risk. A [recession](/recession/), housing slowdown, or sharp drop in building activity directly shrinks plumber and contractor demand for supplies. During the 2008 financial crisis, construction crashed and Reece's revenues fell accordingly. The company has little ability to cut costs fast enough to protect margins during a sudden downturn.
 
 Margin pressure from suppliers and customers: if manufacturers consolidate or distributors do, Reece may face tougher negotiation with suppliers. If contractors face pressure and demand discounts, Reece has to choose between losing market share or accepting lower margins.
 

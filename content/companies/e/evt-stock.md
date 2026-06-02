@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Eaton Vance Tax-Advantaged Dividend Income Fund is a closed-end mutual fund — a pooled investment vehicle that trades on an exchange like a stock and holds a portfolio of dividend-paying equities. The fund's core mission is simple on its surface: own high-quality dividend stocks and distribute the income to shareholders, while using covered [call options](/call-option/) to enhance yield and manage volatility. The strategy appeals to retirees and income-focused investors who want both current cash distributions and the potential for capital appreciation that stocks provide.
+Eaton Vance Tax-Advantaged [Dividend](/dividend/) [Income Fund](/income-fund/) is a closed-end [mutual fund](/mutual-fund/) — a pooled investment vehicle that trades on an exchange like a stock and holds a portfolio of dividend-paying equities. The fund's core mission is simple on its surface: own high-quality dividend stocks and distribute the income to shareholders, while using covered [call options](/call-option/) to enhance yield and manage volatility. The strategy appeals to retirees and income-focused investors who want both current cash distributions and the potential for capital appreciation that stocks provide.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ Eaton Vance Tax-Advantaged Dividend Income Fund is a closed-end mutual fund — 
 
 Eaton Vance is a Boston-based investment manager with roots going back decades, building a reputation for disciplined, income-focused equity management. The firm pioneered much of the modern architecture around tax-aware investing and distributions, crafting strategies that balance the desire for current income with the tax consequences of that income. EVT is one of several funds the firm manages around dividend income and fixed income.
 
-The Tax-Advantaged Dividend Income Fund launched in the early 2000s, during a period when equity [dividend yields](/dividend-yield/) were climbing and demand for yield was rising sharply. The fund was designed to appeal to investors who had benefited from multi-decade bull markets and were transitioning from accumulation to income. The structure — a closed-end fund with monthly distributions — was appealing to retirees and individuals seeking predictable, taxable distributions.
+The Tax-Advantaged Dividend Income Fund launched in the early 2000s, during a period when equity [dividend yields](/dividend-yield/) were climbing and demand for yield was rising sharply. The fund was designed to appeal to investors who had benefited from multi-decade [bull markets](/bull-market/) and were transitioning from accumulation to income. The structure — a closed-end fund with monthly distributions — was appealing to retirees and individuals seeking predictable, taxable distributions.
 
 ## The dividend stock portfolio at its core
 
@@ -50,11 +50,11 @@ EVT makes monthly distributions that typically include a combination of dividend
 
 This is neither deceptive nor unusual for [closed-end funds](/closed-end-fund/), but it bears watching. If a fund distributes more than its portfolio naturally generates, net asset value will decline over time absent market appreciation. Shareholders are partially liquidating their investment each month, even though it looks like stable income. In strong markets, this is usually fine; in flat or declining markets, it becomes a slow erosion of capital.
 
-The fund reports its income and return-of-capital distributions separately, and the SEC requires clear disclosure of the mix. Investors must understand whether they are living on current earnings or partially consuming capital. The tax consequence differs too: [qualified dividends](/qualified-dividend/) and long-term capital gains are taxed preferentially; return of capital is tax-free but reduces cost basis.
+The fund reports its income and return-of-capital distributions separately, and the SEC requires clear disclosure of the mix. Investors must understand whether they are living on current earnings or partially consuming capital. The tax consequence differs too: [qualified dividends](/qualified-dividend/) and long-term capital gains are taxed preferentially; return of capital is tax-free but reduces [cost basis](/cost-basis/).
 
 ## The appeal and the risks
 
-EVT appeals to retirees and investors seeking higher current distributions than bonds provide while maintaining equity market participation. The monthly distribution rhythm is psychologically appealing and fits retirement cash-flow planning. The tax optimization — focusing on qualified dividends and long-term capital gains — is genuinely useful.
+EVT appeals to retirees and investors seeking higher current distributions than [bonds](/bond/) provide while maintaining equity market participation. The monthly distribution rhythm is psychologically appealing and fits retirement cash-flow planning. The tax optimization — focusing on qualified dividends and long-term capital gains — is genuinely useful.
 
 The risks: if the market declines, the fund's net asset value falls, and a fixed distribution begins consuming capital faster. Equity-market [correlation risk](/correlation-risk/) exists too — dividend stocks often rally and decline with the broader market, so the portfolio is not hedged against downturns. [Concentration risk](/concentration-risk/) appears if the fund becomes over-weighted to a single sector (utilities, REITs) due to their high yields. And the covered call strategy's drag on upside means the fund will underperform in strong rallies.
 

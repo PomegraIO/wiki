@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-Ramaco Resources is a metallurgical coal mining company based in West Virginia. The company operates surface mines that extract metallurgical coal, the higher-grade coal used to make coke, which is then used in steel production. This is a different business from thermal coal (used to generate electricity), which has faced secular decline as power generation shifts toward renewables and natural gas.
+[Ramaco Resources](/metc-stock/) is a metallurgical coal mining company based in West Virginia. The company operates surface mines that extract metallurgical coal, the higher-grade coal used to make coke, which is then used in steel production. This is a different business from thermal coal (used to generate electricity), which has faced secular decline as power generation shifts toward renewables and [natural gas](/natural-gas/).
 
-The company was founded in 2017 as a spin-off from Westmoreland Resource Partners and was focused on acquiring and operating metallurgical coal mines in the Appalachian region. Metallurgical coal is a commodity whose price is tied to global steel demand, which in turn depends on construction, automotive production, and industrial activity worldwide.
+The company was founded in 2017 as a [spin-off](/spin-off/) from Westmoreland Resource Partners and was focused on acquiring and operating metallurgical coal mines in the Appalachian region. Metallurgical coal is a commodity whose price is tied to global steel demand, which in turn depends on construction, automotive production, and industrial activity worldwide.
 
 ## The metallurgical coal business
 
@@ -45,7 +45,7 @@ Litigation risk exists too. Coal mining generates environmental concerns, water-
 
 Start with Ramaco's annual 10-K filing with the SEC, which details the company's mining operations, reserve estimates, costs, debt levels, and management's assessment of risks. Pay attention to the discussion of metallurgical coal prices, global steel demand, and the company's cost structure.
 
-Watch the company's quarterly earnings calls to hear management discuss current coal prices, production volumes, and cash flow. The most useful metric is free cash flow — the cash left over after the company pays for the mines' ongoing operations and maintenance. When metallurgical coal prices are high, free cash flow can be substantial. When prices fall, watch whether the company is still generating positive cash flow, or whether it is burning cash.
+Watch the company's quarterly earnings calls to hear management discuss current coal prices, production volumes, and cash flow. The most useful metric is [free cash flow](/free-cash-flow/) — the cash left over after the company pays for the mines' ongoing operations and maintenance. When metallurgical coal prices are high, free cash flow can be substantial. When prices fall, watch whether the company is still generating positive cash flow, or whether it is burning cash.
 
 Track the company's debt levels and debt-to-earnings ratios. A highly leveraged miner is vulnerable to price downturns. If prices fall and the company cannot service its debt, it may be forced into restructuring or bankruptcy.
 

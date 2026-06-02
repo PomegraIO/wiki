@@ -10,23 +10,23 @@ keywords:
 handwritten: true
 ---
 
-*The **YieldMax BABA Option Income Strategy ETF** (ticker: BABO) is a single-stock covered-call ETF that owns shares of Alibaba and systematically sells call options against those shares to produce regular income distributions.*
+*The **YieldMax BABA Option Income Strategy ETF** (ticker: BABO) is a single-stock covered-call ETF that owns shares of Alibaba and systematically sells [call options](/call-option/) against those shares to produce regular income distributions.*
 
 The fund holds Alibaba (BABA) stock at its core. On top of that, it uses a covered-call strategy: the manager sells call options, giving other traders the right to buy the Alibaba shares at a fixed price if they choose to exercise. When someone buys that call option, they pay a premium — that premium becomes income for the fund and is distributed to shareholders, usually monthly.
 
-The mathematics of the trade-off are straightforward. You collect the income from selling the calls. In return, if Alibaba's stock price rises above the call's strike price, those shares will likely be called away and you forgo the gains above that level. It is essentially a bet that Alibaba will move sideways or slowly upward, and that the income collected will more than compensate for any upside you give up.
+The mathematics of the trade-off are straightforward. You collect the income from selling the calls. In return, if Alibaba's stock price rises above the call's [strike price](/strike-price/), those shares will likely be called away and you forgo the gains above that level. It is essentially a bet that Alibaba will move sideways or slowly upward, and that the income collected will more than compensate for any upside you give up.
 
 ## How the mechanics work
 
 Each month (or trading period), the fund manager selects a strike price for the calls to sell — often set slightly out of the money, meaning it is above the current stock price but not by much. Calls at that strike are sold, the premium is collected, and shareholders receive a distribution. If Alibaba trades below the strike until the calls expire, the shares remain in the fund and the process repeats the following month. If Alibaba rallies above the strike, the shares are exercised away (called), and the fund either has to repurchase Alibaba shares to restart the wheel or close the position.
 
-This cycle is the fund's entire operation. There is no discretionary stock-picking, no market-timing, no pivot to growth or defense based on the manager's view of the cycle. It is a mechanical process, which is why the expense ratio is modest relative to actively managed funds — once the rules are set, the manager executes them without judgment week after week.
+This cycle is the fund's entire operation. There is no discretionary stock-picking, no market-timing, no pivot to growth or defense based on the manager's view of the cycle. It is a mechanical process, which is why the [expense ratio](/expense-ratio/) is modest relative to [actively managed funds](/actively-managed-fund/) — once the rules are set, the manager executes them without judgment week after week.
 
 ## Costs and liquidity
 
-The expense ratio is low because the strategy is systematic and mechanical. Liquidity is good because the underlying asset is BABA, one of the most widely traded non-U.S. equities on U.S. exchanges, and because BABO itself trades on a major exchange. The bid-ask spread on the ETF is typically tight, making it easy to enter and exit the position.
+The expense ratio is low because the strategy is systematic and mechanical. Liquidity is good because the underlying asset is BABA, one of the most widely traded non-U.S. equities on U.S. exchanges, and because BABO itself trades on a major exchange. The [bid-ask spread](/bid-ask-spread/) on the ETF is typically tight, making it easy to enter and exit the position.
 
-Distribution frequency and size vary with market conditions. When implied volatility is high — meaning the market expects big moves in Alibaba — the premiums from sold calls are fat, and distributions are larger. When volatility is low, premiums shrink, and distributions shrink with them. This dynamic can feel counterintuitive: distributions are often largest precisely when the stock is turbulent and shareholders might be nervous.
+Distribution frequency and size vary with market conditions. When [implied volatility](/implied-volatility/) is high — meaning the market expects big moves in Alibaba — the premiums from sold calls are fat, and distributions are larger. When volatility is low, premiums shrink, and distributions shrink with them. This dynamic can feel counterintuitive: distributions are often largest precisely when the stock is turbulent and shareholders might be nervous.
 
 ## Risks and trade-offs
 
@@ -36,4 +36,4 @@ Assignment and share turnover can also create unexpected tax consequences in non
 
 ## How to research this fund
 
-A reader researching this fund should review the fund's prospectus and factsheet to confirm the strike price at which calls are sold each period and how the fund handles assignment. Look at its monthly distribution history to understand the actual income stream, not just the stated target or current yield. Compare the yield and total return over a full year to simply owning Alibaba shares through a plain ETF. Then ask: is the steady income worth the capped upside to you?
+A reader researching this fund should review the fund's prospectus and factsheet to confirm the strike price at which calls are sold each period and how the fund handles assignment. Look at its monthly distribution history to understand the actual income stream, not just the stated target or [current yield](/current-yield/). Compare the yield and total return over a full year to simply owning Alibaba shares through a plain ETF. Then ask: is the steady income worth the capped upside to you?

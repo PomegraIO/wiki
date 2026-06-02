@@ -23,7 +23,7 @@ Ebang entered the competitive ASIC market after Bitcoin's price surge demonstrat
 
 ## Supply Chain and Manufacturing Reality
 
-The company manufactures its ASIC chips through foundries rather than owning fabrication plants. This outsourced approach lowers capital intensity but introduces dependency [on semiconductor](/on-stock/) supply chains—a critical vulnerability when foundry capacity tightens or lead times extend. A reader preparing to analyze Ebang's 10-K should focus on gross margins by product line and the timeline between chip design and shipment; these lag indicators reveal whether the company can move from design through production in time to capture market demand before the next wave of hardware obsolescence. The form will disclose foundry partners and whether orders are confirmed or speculative.
+The company manufactures its ASIC chips through foundries rather than owning fabrication plants. This outsourced approach lowers capital intensity but introduces dependency on semiconductor supply chains—a critical vulnerability when foundry capacity tightens or lead times extend. A reader preparing to analyze Ebang's 10-K should focus on gross margins by product line and the timeline between chip design and shipment; these lag indicators reveal whether the company can move from design through production in time to capture market demand before the next wave of hardware obsolescence. The form will disclose foundry partners and whether orders are confirmed or speculative.
 
 ## Geographic and Regulatory Constraints
 

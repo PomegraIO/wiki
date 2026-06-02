@@ -37,7 +37,7 @@ Rezolute has no revenue from product sales. Instead, the company survives on thr
 
 The cash burn is persistent and substantial. A single clinical trial can cost tens of millions of dollars and take years to complete. Safety, efficacy, dosage, side effects, and long-term outcomes all have to be proven to the regulatory standard before the FDA (in the United States) or equivalent regulators elsewhere will approve a drug for sale. Rezolute's main clinical program at the time of its public launch was RZL-1, a therapy targeting metabolic dysfunction—a candidate drug that had shown promise in preclinical work but required human trials to prove worth.
 
-What distinguishes profitable pharma companies like Merck or [Pfizer](/pfe-stock/) from companies like Rezolute is scale and portfolio. Established firms have dozens of approved products generating cash that funds R&D. Rezolute has none. Every trial failure, every unexpected side effect, every delay in enrollment or regulatory review directly impacts whether the company survives to the next funding round. That is the venture capital model: many bets, most fail, a few win big.
+What distinguishes profitable pharma companies like [Merck](/mrk-stock/) or [Pfizer](/pfe-stock/) from companies like Rezolute is scale and portfolio. Established firms have dozens of approved products generating cash that funds R&D. Rezolute has none. Every trial failure, every unexpected side effect, every delay in enrollment or regulatory review directly impacts whether the company survives to the next funding round. That is the venture capital model: many bets, most fail, a few win big.
 
 ## Why rare disease matters
 

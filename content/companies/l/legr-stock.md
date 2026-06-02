@@ -25,7 +25,7 @@ LEGR follows the Indxx Innovative Transaction & Process Index, which is rules-ba
 
 ## Is LEGR actively managed or passive?
 
-LEGR is passive in the sense that it tracks an index rather than having a stock-picker make buy-and-sell decisions. But the index itself represents a thematic choice—the decision to isolate fintech companies rather than holding the entire market. In that sense, it is more concentrated than a broad market index and more exposed to a specific trend. The expense ratio is lower than active funds but higher than broad market index ETFs, reflecting the specialized research required to maintain a fintech-focused index.
+LEGR is passive in the sense that it tracks an index rather than having a stock-picker make buy-and-sell decisions. But the index itself represents a thematic choice—the decision to isolate fintech companies rather than holding the entire market. In that sense, it is more concentrated than a broad market index and more exposed to a specific trend. The [expense ratio](/expense-ratio/) is lower than active funds but higher than broad market index ETFs, reflecting the specialized research required to maintain a fintech-focused index.
 
 ## What are the main risks?
 
@@ -33,7 +33,7 @@ Fintech is genuinely transformative, but the pace and direction of change are un
 
 ## Is this a Bitcoin or blockchain bet?
 
-Not directly. LEGR does not hold Bitcoin or other cryptocurrencies. It holds companies that work with or on blockchain technology—software makers, miners, exchanges, custody providers. Some holdings have deep crypto exposure; others touch blockchain tangentially. If cryptocurrency remains niche or faces severe regulation, many LEGR holdings could suffer. If crypto adoption accelerates, many will prosper. The fund is leveraged to fintech more broadly, but crypto is a material theme within it.
+Not directly. LEGR does not hold [Bitcoin](/bitcoin/) or other cryptocurrencies. It holds companies that work with or on blockchain technology—software makers, miners, exchanges, custody providers. Some holdings have deep crypto exposure; others touch blockchain tangentially. If cryptocurrency remains niche or faces severe regulation, many LEGR holdings could suffer. If crypto adoption accelerates, many will prosper. The fund is leveraged to fintech more broadly, but crypto is a material theme within it.
 
 ## Who is LEGR for?
 

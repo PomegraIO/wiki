@@ -25,7 +25,7 @@ VEEA develops distributed computing infrastructure designed to process data and 
 
 ## The edge computing thesis
 
-Traditional cloud computing concentrates processing power and storage in large centralized data centers operated by providers like Amazon, Microsoft, and Google. This model works well for many applications but breaks down in scenarios where latency matters urgently, bandwidth is constrained, or data sensitivity argues against transmitting raw information to the cloud. Edge computing inverts this: it places compute and storage capacity physically closer to where data originates — in factories, hospitals, vehicles, cities, or branch offices — so that time-sensitive decisions can be made locally and only relevant insights or aggregated results need travel to the cloud.
+Traditional cloud computing concentrates processing power and storage in large centralized data centers operated by providers like Amazon, [Microsoft](/msft-stock/), and Google. This model works well for many applications but breaks down in scenarios where latency matters urgently, bandwidth is constrained, or data sensitivity argues against transmitting raw information to the cloud. Edge computing inverts this: it places compute and storage capacity physically closer to where data originates — in factories, hospitals, vehicles, cities, or branch offices — so that time-sensitive decisions can be made locally and only relevant insights or aggregated results need travel to the cloud.
 
 VEEA's thesis is that edge infrastructure is becoming essential as artificial intelligence, video analytics, and real-time control systems move beyond the data center into the physical world. A factory floor that must make split-second decisions about quality control, a hospital that processes patient data under strict privacy rules, or a city deploying thousands of sensors all need computing power at the edge. VEEA aims to supply the hardware and software that makes such deployments feasible.
 
@@ -55,7 +55,7 @@ The company's path to profitability depends on achieving sufficient volume in ha
 
 ## Competitive landscape and differentiation
 
-The edge computing market is becoming crowded. Established companies including Nvidia, Intel, and Amazon are all pushing into edge infrastructure. Specialized startups are building competing solutions. Differentiation for VEEA would rest on the quality and specificity of its hardware design for edge use cases, the maturity and reliability of its software platform, and its ability to build customer relationships and lock-in through integrations and custom development.
+The edge computing market is becoming crowded. Established companies including [Nvidia](/nvda-stock/), [Intel](/intc-stock/), and Amazon are all pushing into edge infrastructure. Specialized startups are building competing solutions. Differentiation for VEEA would rest on the quality and specificity of its hardware design for edge use cases, the maturity and reliability of its software platform, and its ability to build customer relationships and lock-in through integrations and custom development.
 
 Like many early-stage infrastructure companies, VEEA faces the dual challenge of achieving both technical excellence and sufficient scale to sustain the business. Infrastructure businesses typically require significant capital to reach breakeven, and execution risk is real.
 

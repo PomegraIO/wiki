@@ -12,15 +12,15 @@ keywords:
 handwritten: true
 ---
 
-Leveraged ETFs that chase single volatile stocks amplify everything — upside and downside alike — but their daily reset mechanics can silently erode value when volatility spikes.
+[Leveraged ETFs](/leveraged-etf/) that chase single volatile stocks amplify everything — upside and downside alike — but their daily reset mechanics can silently erode value when volatility spikes.
 
-AMKL is a 2X leveraged exchange-traded fund that tracks Marker Therapeutics, a clinical-stage immunotherapy company trading under the ticker AMKR. The fund is sponsored by Defiance ETFs and is designed to amplify the daily returns of AMKR by a factor of two. On a day when AMKR rises 2 percent, AMKL aims to rise 4 percent; on a day AMKR falls 3 percent, AMKL aims to fall 6 percent. This leverage can be attractive to traders betting strongly on AMKR's near-term direction, but it comes with a cost that most investors misunderstand: the decay that happens in volatile, sideways markets.
+AMKL is a 2X leveraged exchange-traded fund that tracks [Marker Therapeutics](/mrkr-stock/), a clinical-stage immunotherapy company trading under the ticker AMKR. The fund is sponsored by Defiance ETFs and is designed to amplify the daily returns of AMKR by a factor of two. On a day when AMKR rises 2 percent, AMKL aims to rise 4 percent; on a day AMKR falls 3 percent, AMKL aims to fall 6 percent. This leverage can be attractive to traders betting strongly on AMKR's near-term direction, but it comes with a cost that most investors misunderstand: the decay that happens in volatile, sideways markets.
 
 ## How daily reset leverage works — and costs you money
 
 AMKL resets its leverage target to 2X at the close of every trading day. That reset is necessary because leverage compounds: if the underlying stock rises on day one and falls by the same percentage on day two (a common pattern in volatile stocks), a leveraged fund will underperform the underlying on the round trip. The daily reset tries to limit that erosion, but it cannot eliminate it.
 
-Here is the mechanics: AMKL holds a portfolio of AMKR shares and derivatives (typically swap contracts or synthetic exposure) that collectively aim to deliver 2X the daily percentage return. After the market closes, the fund rebalances to reset the leverage ratio to exactly 2X the value of its net asset value. That rebalancing works fine when the market moves in one direction. But when AMKR is volatile — swinging 4 percent one day and falling 3 percent the next — the drag compounds. A 4 percent rise followed by a 4 percent fall in the underlying yields a net return of -0.16 percent (because the loss is calculated on the higher base after the gain). For AMKL at 2X daily leverage, that same pattern produces a larger loss: roughly -0.65 percent. The effect is small in isolation but catastrophic over months or years if the underlying is choppy and range-bound.
+Here is the mechanics: AMKL holds a portfolio of AMKR shares and derivatives (typically swap contracts or synthetic exposure) that collectively aim to deliver 2X the daily percentage return. After the market closes, the fund rebalances to reset the [leverage ratio](/leverage-ratio-forex/) to exactly 2X the value of its [net asset value](/net-asset-value/). That rebalancing works fine when the market moves in one direction. But when AMKR is volatile — swinging 4 percent one day and falling 3 percent the next — the drag compounds. A 4 percent rise followed by a 4 percent fall in the underlying yields a net return of -0.16 percent (because the loss is calculated on the higher base after the gain). For AMKL at 2X daily leverage, that same pattern produces a larger loss: roughly -0.65 percent. The effect is small in isolation but catastrophic over months or years if the underlying is choppy and range-bound.
 
 This decay accelerates when the underlying stock swings violently around a flat average. It hits particularly hard in markets that open gaps — sharp moves at the open that trigger morning volatility, then mean revert slightly during the day.
 
@@ -32,7 +32,7 @@ Clinical-stage biotech stocks are among the most volatile in the market. They ar
 
 ## The expense ratio and trading mechanics
 
-AMKL's expense ratio is relatively high compared to broad market ETFs, reflecting the cost of maintaining leveraged synthetic exposure. The fund trades on exchange like a normal ETF, and because it tracks a single volatile stock, its trading volume can be modest on quiet days, which may widen the bid-ask spread and make entry and exit more expensive for retail traders.
+AMKL's [expense ratio](/expense-ratio/) is relatively high compared to broad market ETFs, reflecting the cost of maintaining leveraged synthetic exposure. The fund trades on exchange like a normal ETF, and because it tracks a single volatile stock, its trading volume can be modest on quiet days, which may widen the [bid-ask spread](/bid-ask-spread/) and make entry and exit more expensive for retail traders.
 
 The fund is liquid enough for active traders to use, but the combination of leverage cost, daily reset decay, and trading spreads means that holding AMKL is expensive. A trader betting on a sharp near-term move in AMKR might use it tactically for a few days or weeks. A buy-and-hold investor holding it for months or years will almost certainly underperform the underlying stock, and may underperform even after accounting for the 2X leverage.
 

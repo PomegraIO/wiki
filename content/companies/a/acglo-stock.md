@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Arch Capital Group is an insurance and reinsurance company. It writes insurance for people and businesses. It also sells reinsurance, which means it sells insurance to other insurance companies. ACGLO is a preferred share — a type of stock that pays a fixed dividend — in Arch Capital Group. Think of preferred shares as something between a bond and regular stock. They pay you a regular income like a bond, but they are riskier because the company can skip the payment if it runs into trouble.
+[Arch Capital](/acgl-stock/) Group is an insurance and reinsurance company. It writes insurance for people and businesses. It also sells reinsurance, which means it sells insurance to other insurance companies. ACGLO is a preferred share — a type of stock that pays a fixed [dividend](/dividend/) — in Arch Capital Group. Think of preferred shares as something between a [bond](/bond/) and regular stock. They pay you a regular income like a bond, but they are riskier because the company can skip the payment if it runs into trouble.
 
 <aside class="wiki-infobox">
 <table>
@@ -40,7 +40,7 @@ In Mortgage Insurance, Arch guarantees residential mortgages. If a homeowner sto
 
 Arch Capital makes money two ways. First, underwriting income: premiums come in, claims go out, and the difference is profit. If the company prices insurance correctly and doesn't pay out more than it collects, underwriting is profitable.
 
-Second, investment income. Arch holds its premiums before paying claims. That money — the "float" — sits in the company's hands for months or years, earning interest in bonds and other investments. The investment returns add to profit. In a year when interest rates are high, that income is material.
+Second, investment income. Arch holds its premiums before paying claims. That money — the "float" — sits in the company's hands for months or years, earning interest in bonds and other investments. The investment returns add to profit. In a year when [interest rates](/interest-rate/) are high, that income is material.
 
 Both income streams are risky. The company might underprice risk and end up paying more in claims than it collected in premiums. Or a catastrophe might hit and claims could be enormous. The investment returns depend on interest rates and the bond market, neither of which Arch controls. But if the company is disciplined about what it insures and disciplined about how it invests, the business compounds over time.
 
@@ -56,21 +56,21 @@ The Insurance segment writes property insurance and casualty insurance for busin
 
 The Reinsurance segment exists because catastrophes happen. A big hurricane or earthquake can wipe out hundreds of insurance companies' profits in one day. So they buy reinsurance to spread the risk. Arch Capital sells reinsurance and collects premiums for it. When a major catastrophe hits, Arch might have to pay out billions. But in a quiet year, Arch keeps the premiums. It is feast or famine.
 
-The Mortgage Insurance segment is more stable. It earns premiums as long as people are borrowing money to buy homes. Defaults spike in recessions, but the business is less likely to have a single catastrophic event like the Reinsurance side. Mortgage insurance has been growing, and it now is a big part of Arch Capital's profit.
+The Mortgage Insurance segment is more stable. It earns premiums as long as people are borrowing money to buy homes. Defaults spike in [recessions](/recession/), but the business is less likely to have a single catastrophic event like the Reinsurance side. Mortgage insurance has been growing, and it now is a big part of Arch Capital's profit.
 
 ## The challenge of insurance cycles
 
 Insurance is cyclical. When rates are high and capital is scarce, Arch can write profitable business. When rates fall and competition heats up, margins compress. A prudent insurer walks away from unprofitable business even if that means shrinking. An aggressive insurer keeps writing to stay big, and then suffers losses when claims come in. Arch has mostly been prudent, but discipline is always tested.
 
-Also, catastrophes are random. A big hurricane, an earthquake, a terror attack — any of these can blow up the balance sheet in a single quarter. Arch is large and diverse enough to absorb most single events, but back-to-back catastrophes or a truly historic disaster could be material. That is why reinsurance companies are obsessive about risk modeling and diversification.
+Also, catastrophes are random. A big hurricane, an earthquake, a terror attack — any of these can blow up the [balance sheet](/balance-sheet/) in a single quarter. Arch is large and diverse enough to absorb most single events, but back-to-back catastrophes or a truly historic disaster could be material. That is why reinsurance companies are obsessive about risk modeling and [diversification](/diversification/).
 
 ## Preferred shares and how they work
 
 ACGLO is a preferred share, which means it pays a fixed dividend — in this case, 5.45% per year. It is "non-cumulative," which means if Arch skips a dividend, you don't get it back later. You just lose it.
 
-Preferred shares are senior to common stock for dividends and if the company is liquidated, but junior to debt holders. So if Arch gets into trouble, debt holders get paid first, then preferred shareholders, then common stock holders. Because preferred shares are riskier than bonds, they yield more. But they are also less risky than common stock, because they have a stated dividend that is promised before the company pays anything to common shareholders.
+Preferred shares are senior to [common stock](/common-stock/) for dividends and if the company is liquidated, but junior to debt holders. So if Arch gets into trouble, debt holders get paid first, then preferred shareholders, then common stock holders. Because preferred shares are riskier than bonds, they yield more. But they are also less risky than common stock, because they have a stated dividend that is promised before the company pays anything to common shareholders.
 
-Arch Capital issued Series G Preferred Stock (ACGLO) to raise capital without diluting common shareholders too much. The company can buy back (call) these shares if it wants to, usually when interest rates fall and newer preferred shares can be issued at lower rates. So ACGLO is not a forever holding — it is perpetual unless called.
+Arch Capital issued Series G [Preferred Stock](/preferred-stock/) (ACGLO) to raise capital without diluting common shareholders too much. The company can buy back (call) these shares if it wants to, usually when interest rates fall and newer preferred shares can be issued at lower rates. So ACGLO is not a forever holding — it is perpetual unless called.
 
 ## What could go wrong
 
@@ -82,7 +82,7 @@ Housing cycles matter for the Mortgage Insurance segment. If the housing market 
 
 ## Watching Arch Capital
 
-Start by reading Arch Capital's annual report, the 10-K filing it submits to the Securities and Exchange Commission. It breaks down the three segments, shows premiums and claims, and discusses risks. Quarterly earnings reports and calls with investors give updates on how business is going.
+Start by reading Arch Capital's [annual report](/10-k/), the 10-K filing it submits to the [Securities and Exchange Commission](/securities-and-exchange-commission/). It breaks down the three segments, shows premiums and claims, and discusses risks. Quarterly earnings reports and calls with investors give updates on how business is going.
 
 Watch for dividends. Arch declares preferred dividends regularly, usually every quarter. If the dividend is skipped or reduced, that is a red flag.
 

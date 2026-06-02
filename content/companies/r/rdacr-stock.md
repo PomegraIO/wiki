@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Rising Dragon Acquisition Corp. is a special purpose acquisition company (SPAC) incorporated in the Cayman Islands and listed on Nasdaq under three ticker symbols: RDAC (ordinary shares), RDACU (units), and RDACR (rights). The company went public in October 2024, raising $57.5 million through its initial public offering, and is currently pursuing a business combination with HZJL Cayman Limited. Like all SPACs, Rising Dragon has no operating business of its own; it exists as a vessel for taking a private company public.
+Rising Dragon [Acquisition](/acquisition/) Corp. is a special purpose acquisition company (SPAC) incorporated in the Cayman Islands and listed on [Nasdaq](/nasdaq/) under three ticker symbols: RDAC (ordinary shares), RDACU (units), and RDACR (rights). The company went public in October 2024, raising $57.5 million through its [initial public offering](/initial-public-offering/), and is currently pursuing a [business combination](/business-combination-purchase/) with HZJL Cayman Limited. Like all SPACs, Rising Dragon has no operating business of its own; it exists as a vessel for taking a private company public.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,7 +38,7 @@ At the time of the IPO, Rising Dragon had no announced target. The company's fou
 
 ## The pivot toward HZJL (present)
 
-By early 2025, Rising Dragon had identified and negotiated a merger agreement with HZJL Cayman Limited, a private company based in China. The terms of this proposed combination determine what will happen next. If Rising Dragon's shareholders approve the merger at a shareholder vote, and if HZJL shareholders also agree, the two entities will combine into a single public company listing on Nasdaq under a new or modified ticker.
+By early 2025, Rising Dragon had identified and negotiated a [merger](/merger/) agreement with HZJL Cayman Limited, a private company based in China. The terms of this proposed combination determine what will happen next. If Rising Dragon's shareholders approve the merger at a shareholder vote, and if HZJL shareholders also agree, the two entities will combine into a single public company listing on Nasdaq under a new or modified ticker.
 
 The fact that a target has been announced marks a critical moment for the SPAC. Shareholders now know concretely what business they are being asked to fund and can evaluate whether they believe the merger is attractive. Those who are unhappy with the target, the price, or the terms can redeem their shares for a pro-rata portion of the trust account. Those who stay are betting that the merged entity will trade at a price above the IPO value and deliver acceptable returns.
 

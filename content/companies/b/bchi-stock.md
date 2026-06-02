@@ -12,13 +12,13 @@ handwritten: true
 
 ## Why does this fund exist now?
 
-For decades, China has been the factory of the world — the place where companies located production to keep costs low. That is changing, slowly but persistently. Governments and corporations are nervous about the concentration risk of having everything made in one country, especially as geopolitical tensions around Taiwan and trade policy create uncertainty. They are shifting production to Vietnam, Thailand, India, Mexico, and other emerging markets. GMO Beyond China ETF was launched in 2025 to capture a simple idea: there is money to be made from the companies and markets that benefit when supply chains relocate out of China.
+For decades, China has been the factory of the world — the place where companies located production to keep costs low. That is changing, slowly but persistently. Governments and corporations are nervous about the [concentration risk](/concentration-risk/) of having everything made in one country, especially as geopolitical tensions around Taiwan and trade policy create uncertainty. They are shifting production to Vietnam, Thailand, India, Mexico, and other emerging markets. GMO Beyond China ETF was launched in 2025 to capture a simple idea: there is money to be made from the companies and markets that benefit when supply chains relocate out of China.
 
 ## What does the fund actually invest in?
 
 BCHI is an actively managed emerging-market equity fund that invests in companies tied economically to markets that are not treated as developed markets in the MSCI World Index — so emerging markets broadly, but excluding China. The fund holds roughly 113 securities as of its most recent fiscal year. The top ten holdings made up about thirty-nine percent of assets, indicating that the portfolio is reasonably concentrated around the manager's highest-conviction picks.
 
-As for geography, nearly ninety-nine percent of the portfolio is invested in foreign issues, spread across Asia, Latin America, and other emerging regions that stand to benefit from manufacturing relocation and supply chain diversification. The manager seeks companies positioned to benefit both from growth within emerging markets themselves and from the specific trend of deglobalization and supply-chain reorientation.
+As for geography, nearly ninety-nine percent of the portfolio is invested in foreign issues, spread across Asia, Latin America, and other emerging regions that stand to benefit from manufacturing relocation and supply chain [diversification](/diversification/). The manager seeks companies positioned to benefit both from growth within emerging markets themselves and from the specific trend of deglobalization and supply-chain reorientation.
 
 ## What kinds of companies are in this fund?
 
@@ -26,11 +26,11 @@ Because the fund is themed around supply-chain shifts, it naturally holds manufa
 
 ## How has the fund actually performed?
 
-In its first fiscal year, ending June 30, 2025, GMO Beyond China ETF returned 9.03% net at net asset value. The MSCI Emerging Markets ex-China Index, the relevant benchmark, returned 13.04% over the same period. This is a young fund, and one year is not enough to assess an active manager's skill — market conditions, luck, and timing all play a role in short-term performance. What matters is whether the manager can sustain an advantage over longer time horizons.
+In its first fiscal year, ending June 30, 2025, GMO Beyond China ETF returned 9.03% net at [net asset value](/net-asset-value/). The MSCI Emerging Markets ex-China Index, the relevant benchmark, returned 13.04% over the same period. This is a young fund, and one year is not enough to assess an active manager's skill — market conditions, luck, and timing all play a role in short-term performance. What matters is whether the manager can sustain an advantage over longer time horizons.
 
 ## What does this fund cost?
 
-The expense ratio is 0.65% annually. That is reasonable for an actively managed emerging-market fund, though higher than a passive index fund would charge. Investors are paying for the manager's research and the active stock-picking process.
+The [expense ratio](/expense-ratio/) is 0.65% annually. That is reasonable for an actively managed emerging-market fund, though higher than a passive [index fund](/index-fund/) would charge. Investors are paying for the manager's research and the active stock-picking process.
 
 ## What are the real risks?
 

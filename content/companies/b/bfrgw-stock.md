@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-BullFrog AI Holdings is a digital biopharmaceutical company that applies artificial intelligence and machine learning to the discovery and development of new drugs. Rather than betting on a single therapeutic approach, the company operates on two parallel tracks: it licenses its proprietary AI platform to partners in the pharmaceutical and biotech world, and it is building its own pipeline of drug candidates where the AI analysis identified promise. The company's warrants (BFRGW) trade on the Nasdaq Capital Market; its common stock trades as BFRG.
+[BullFrog AI](/bfrg-stock/) Holdings is a digital biopharmaceutical company that applies artificial intelligence and machine learning to the discovery and development of new drugs. Rather than betting on a single therapeutic approach, the company operates on two parallel tracks: it licenses its proprietary AI platform to partners in the pharmaceutical and biotech world, and it is building its own pipeline of drug candidates where the AI analysis identified promise. The company's warrants (BFRGW) trade on the [Nasdaq](/nasdaq/) Capital Market; its [common stock](/common-stock/) trades as BFRG.
 
 ## The science: causal inference at the centre
 

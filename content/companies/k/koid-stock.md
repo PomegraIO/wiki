@@ -29,7 +29,7 @@ KOID is a thematic exchange-traded fund that bets on an emerging corner of the e
 
 Physical AI is a shorthand for artificial-intelligence systems trained to perceive and act on the physical world. A humanoid robot with physical AI can look at an object, understand its shape and use, and grasp or manipulate it — tasks that require combining computer vision, pattern recognition, and real-time motor control. This is much harder than language understanding or image classification, which are what most AI systems do today.
 
-KOID was created because several major technological breakthroughs — transformer neural networks (the foundation of large language models), large-scale robotics datasets, and improvements in actuator and sensor hardware — began converging around 2022–2024. There is now genuine, non-speculative work being done by companies like Boston Dynamics, Tesla (in its Optimus robot), Figure AI, and others. Capital is flowing. Venture investors and major industrial firms are betting that humanoid robots will eventually become as transformative as the internet or electricity.
+KOID was created because several major technological breakthroughs — transformer neural networks (the foundation of large language models), large-scale robotics datasets, and improvements in actuator and sensor hardware — began converging around 2022–2024. There is now genuine, non-speculative work being done by companies like Boston Dynamics, [Tesla](/tsla-stock/) (in its Optimus robot), Figure AI, and others. Capital is flowing. Venture investors and major industrial firms are betting that humanoid robots will eventually become as transformative as the internet or electricity.
 
 KOID exists for investors who want exposure to this bet without having to pick individual robotics startups (most of which are private) or bet on a single technology path. The fund is a basket play, trying to capture whichever companies end up winning in the robotics ecosystem.
 
@@ -37,7 +37,7 @@ KOID exists for investors who want exposure to this bet without having to pick i
 
 KraneShares' index methodology for KOID casts a wide net. The fund does not hold only humanoid-robot manufacturers. Instead, it includes the entire supply chain and adjacent sectors: semiconductor makers supplying the chips that will power robots, software companies building the operating systems and simulation environments that train robots, legacy industrial-automation companies expanding into more autonomous systems, and the actual robot manufacturers.
 
-This means KOID holds both mature, profitable companies (some semiconductor firms, automation leaders) and speculative plays on pure-robotics startups. The index is rebalanced periodically, and holdings can change as new companies enter the robotics space or are acquired. The expense ratio of approximately 0.80 percent reflects the cost of maintaining a thematic index, higher than a passive S&P 500 fund but lower than an actively managed robotics fund would be.
+This means KOID holds both mature, profitable companies (some semiconductor firms, automation leaders) and speculative plays on pure-robotics startups. The index is rebalanced periodically, and holdings can change as new companies enter the robotics space or are acquired. The [expense ratio](/expense-ratio/) of approximately 0.80 percent reflects the cost of maintaining a thematic index, higher than a passive S&P 500 fund but lower than an actively managed robotics fund would be.
 
 The geographic reach is global. Holdings include U.S. companies, Japanese robotics pioneers, European automation leaders, and Chinese robot manufacturers. This is important because robotics development is happening worldwide, and some countries (Japan and South Korea, for instance) have long histories of robot manufacturing.
 
@@ -51,13 +51,13 @@ This uncertainty is reflected in KOID's volatility. Positive developments in rob
 
 ## Who might hold KOID and why
 
-Venture capitalists and technology-focused hedge funds are early believers. Long-term retail investors with conviction that AI and automation will be defining trends of the 2030s might hold KOID as a satellite position (a small portion of a larger portfolio) alongside more stable holdings. Corporate investors looking to track progress in robotics for competitive intelligence reasons might hold it.
+Venture capitalists and technology-focused [hedge funds](/hedge-fund/) are early believers. Long-term retail investors with conviction that AI and automation will be defining trends of the 2030s might hold KOID as a satellite position (a small portion of a larger portfolio) alongside more stable holdings. Corporate investors looking to track progress in robotics for competitive intelligence reasons might hold it.
 
 KOID is not suitable for retirees, conservative investors, or anyone who needs stability or income. It is a conviction bet on a technology that is still unproven at scale.
 
 ## How to research KOID
 
-Start with the fund prospectus and factsheet from KraneShares, which lists all current holdings. Then learn about the companies themselves. For publicly traded ones, read recent earnings calls and analyst reports about their robotics divisions. For major private companies like Figure AI and Boston Dynamics, follow their press releases and funding announcements.
+Start with the [fund prospectus](/fund-prospectus/) and factsheet from KraneShares, which lists all current holdings. Then learn about the companies themselves. For publicly traded ones, read recent earnings calls and analyst reports about their robotics divisions. For major private companies like Figure AI and Boston Dynamics, follow their press releases and funding announcements.
 
 Look at the broader robotics landscape through academic papers (MIT's Computer Science and Artificial Intelligence Lab and Stanford's Robotics Lab publish regularly), industry conferences like ICRA and IROS, and robotics company blog posts detailing technical progress. This is a technology-driven sector, so understanding the engineering and machine-learning progress is essential to evaluating the fund's opportunity.
 

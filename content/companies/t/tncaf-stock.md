@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-TC Energy is one of the largest energy-infrastructure companies in North America, operating thousands of kilometres of natural-gas pipelines that move fuel from production basins to population centres and power plants. The company was born in 1951 as TransCanada Pipelines, a Canadian venture to move Western Canada's natural gas to consuming markets in Ontario and the United States. It has since grown into a portfolio of long-haul pipelines, distribution networks, and liquefied natural gas (LNG) export terminals, serving a continent that still relies on natural gas for heating, power generation, and industrial processes.
+[TC Energy](/trp-stock/) is one of the largest energy-infrastructure companies in North America, operating thousands of kilometres of natural-gas pipelines that move fuel from production basins to population centres and power plants. The company was born in 1951 as TransCanada Pipelines, a Canadian venture to move Western Canada's [natural gas](/natural-gas/) to consuming markets in Ontario and the United States. It has since grown into a portfolio of long-haul pipelines, distribution networks, and liquefied natural gas (LNG) export terminals, serving a continent that still relies on natural gas for heating, power generation, and industrial processes.
 
 > "Infrastructure that earns stable, contracted returns and pays out most of what it earns."
 
@@ -23,11 +23,11 @@ This competitive moat is reinforced by regulation. Pipelines in both Canada and 
 
 ## How TC Energy funds itself
 
-TC Energy is a capital-intensive business. Building a major pipeline costs billions of dollars, and existing pipelines require steady maintenance and upgrades to remain safe and efficient. The company funds this capital program from three sources: operating cash flow (the money pipelines generate by moving gas), the debt markets (where it borrows at rates reflecting its near-utility credit quality), and equity capital (both retained earnings and occasionally equity issuances).
+TC Energy is a capital-intensive business. Building a major pipeline costs billions of dollars, and existing pipelines require steady maintenance and upgrades to remain safe and efficient. The company funds this capital program from three sources: operating cash flow (the money pipelines generate by moving gas), the debt markets (where it borrows at rates reflecting its near-utility credit quality), and equity capital (both [retained earnings](/retained-earnings/) and occasionally equity issuances).
 
 What makes the model distinctive is that operating cash flow is remarkably stable. Shippers sign long-term contracts to move gas through the pipes at fixed fees, creating multi-year or decade-long revenue visibility. That predictability allows TC Energy to borrow heavily (it carries significant debt) at reasonable rates, knowing that cash flows will likely cover debt service even in downturns.
 
-The company has consistently chosen to return most of its free cash flow to shareholders as dividends, rather than retaining it for growth or hoarding it on the balance sheet. That dividend is a core part of the investment thesis — TC Energy shareholders have traditionally valued the stock for both income and the capital-appreciation upside that comes from gradually expanding the pipeline network.
+The company has consistently chosen to return most of its [free cash flow](/free-cash-flow/) to shareholders as [dividends](/dividend/), rather than retaining it for growth or hoarding it on the [balance sheet](/balance-sheet/). That dividend is a core part of the investment thesis — TC Energy shareholders have traditionally valued the stock for both income and the capital-appreciation upside that comes from gradually expanding the pipeline network.
 
 ## Segments: pipelines, generation, and LNG
 
@@ -53,4 +53,4 @@ That commitment to the dividend has created an implicit capital structure — TC
 
 ## How to research TC Energy
 
-TC Energy files its annual report with the SEC (CIK 0001232384) and reports extensively to Canadian regulators. The key metrics to track are: contracted revenue (the backlog of multi-year service agreements), capital expenditures and returns on those projects, dividend payout ratio relative to free cash flow, and debt levels. Watch for regulatory decisions on pipeline expansions and the company's own commentary on energy-transition planning. The earnings calls and investor presentations reveal management's view of long-term demand for natural gas and the company's strategy for adapting if that demand declines faster than expected.
+TC Energy files its [annual report](/10-k/) with the SEC (CIK 0001232384) and reports extensively to Canadian regulators. The key metrics to track are: contracted revenue (the backlog of multi-year service agreements), capital expenditures and returns on those projects, [dividend payout ratio](/dividend-payout-ratio/) relative to free cash flow, and debt levels. Watch for regulatory decisions on pipeline expansions and the company's own commentary on energy-transition planning. The earnings calls and investor presentations reveal management's view of long-term demand for natural gas and the company's strategy for adapting if that demand declines faster than expected.

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Lion One Metals is a mineral exploration and development company with operations centered in Fiji, where it holds one of the South Pacific's significant undeveloped gold deposits. The company exemplifies a particular niche in the mining sector: a junior explorer that has moved beyond pure prospecting into the work of proving up a resource, engineering a development path, and preparing for mine construction — still years away from production, but no longer speculative in the pure sense.
+[Lion One Metals](/lomlf-stock/) is a mineral exploration and development company with operations centered in Fiji, where it holds one of the South Pacific's significant undeveloped gold deposits. The company exemplifies a particular niche in the mining sector: a junior explorer that has moved beyond pure prospecting into the work of proving up a resource, engineering a development path, and preparing for mine construction — still years away from production, but no longer speculative in the pure sense.
 
 <aside class="wiki-infobox">
 <table>
@@ -40,7 +40,7 @@ This capital intensity has consequences. A junior explorer typically funds explo
 
 ## Regulatory environment and operational considerations
 
-Fiji's regulatory framework and political stability are material to the investment. Mining in the Pacific requires permitting and community engagement; the Fijian government is the ultimate decision-maker on whether a mine proceeds. Infrastructure is less developed than in major mining jurisdictions like Australia or Canada, which can raise costs. Currency exposure also matters — costs are incurred in multiple currencies while the gold produced would be sold in US dollars.
+Fiji's regulatory framework and political stability are material to the investment. Mining in the Pacific requires permitting and community engagement; the Fijian government is the ultimate decision-maker on whether a mine proceeds. Infrastructure is less developed than in major mining jurisdictions like Australia or Canada, which can raise costs. Currency exposure also matters — costs are incurred in multiple currencies while the gold produced would be sold in [US dollars](/us-dollar/).
 
 The social license — the acceptance of the operation by local communities — is also a real constraint. Large-scale mining creates environmental and social impacts; communities have become increasingly organized in their expectations of benefit-sharing and environmental safeguards. A project that fails to secure local and government backing does not proceed, regardless of its geology.
 

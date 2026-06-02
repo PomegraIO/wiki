@@ -22,7 +22,7 @@ Cannabis remains federally illegal in the United States, even though many states
 
 ## What CBIH's Science Focus Means
 
-The "bioscience" part of CBIH's name signals that the company is not just selling dried flower or gummies — it is trying to isolate, study, and develop specific compounds from cannabis. Cannabis contains dozens of active compounds called cannabinoids. The most famous are THC (the psychoactive ingredient) and CBD (which lacks the high but may have [medical properties](/mpt-stock/)). CBIH's work might include extracting cannabinoids, testing them in laboratories or small clinical studies, formulating them into medicines or consumer products, and patenting the resulting discoveries. This research-and-development intensity is similar to pharmaceutical or biotech companies, though on a smaller scale and with less regulatory infrastructure.
+The "bioscience" part of CBIH's name signals that the company is not just selling dried flower or gummies — it is trying to isolate, study, and develop specific compounds from cannabis. Cannabis contains dozens of active compounds called cannabinoids. The most famous are THC (the psychoactive ingredient) and CBD (which lacks the high but may have medical properties). CBIH's work might include extracting cannabinoids, testing them in laboratories or small clinical studies, formulating them into medicines or consumer products, and patenting the resulting discoveries. This research-and-development intensity is similar to pharmaceutical or biotech companies, though on a smaller scale and with less regulatory infrastructure.
 
 ## The International Angle
 

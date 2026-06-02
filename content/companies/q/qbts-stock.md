@@ -24,7 +24,7 @@ handwritten: true
 </ul>
 </aside>
 
-D-Wave Quantum Inc. is the world's first and oldest [quantum computing](/qubt-stock/) company actively commercializing quantum hardware. Unlike the superconducting gate-model quantum computers pursued by IBM, Google, and others, D-Wave specializes in quantum annealers—machines designed to solve specific categories of optimization problems using adiabatic quantum computation. This distinction shapes everything about the company: its market positioning, its target customers, and the range of problems it can practically address.
+D-Wave Quantum Inc. is the world's first and oldest quantum computing company actively commercializing quantum hardware. Unlike the superconducting gate-model quantum computers pursued by IBM, Google, and others, D-Wave specializes in quantum annealers—machines designed to solve specific categories of optimization problems using adiabatic quantum computation. This distinction shapes everything about the company: its market positioning, its target customers, and the range of problems it can practically address.
 
 ## The Quantum Annealer Approach
 

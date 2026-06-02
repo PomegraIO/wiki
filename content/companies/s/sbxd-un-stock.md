@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-SilverBox Corp IV (NYSE: SBXD) is a blank check company incorporated in 2024 and based in Austin, Texas. It was formed for the sole purpose of identifying and acquiring one or more established operating businesses or assets through a merger, consolidation, or similar transaction. Until such an acquisition is completed, SilverBox has no significant operations, no revenue-generating assets, and no business lines of its own — it is purely a capital pool awaiting deployment.
+[SilverBox Corp IV](/sbxd-stock/) (NYSE: SBXD) is a blank check company incorporated in 2024 and based in Austin, Texas. It was formed for the sole purpose of identifying and acquiring one or more established operating businesses or assets through a [merger](/merger/), consolidation, or similar transaction. Until such an [acquisition](/acquisition/) is completed, SilverBox has no significant operations, no revenue-generating assets, and no business lines of its own — it is purely a capital pool awaiting deployment.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,15 +28,15 @@ SilverBox offers a notably broad sector mandate compared to many SPACs. While so
 
 ## How SilverBox's three securities work
 
-Like most modern SPACs, SilverBox is capitalized through three distinct and separately tradeable securities. SBXD represents the common shares, which carry voting rights in any merger. SBXD.U (SBXD-UN) is the unit — one share plus one warrant bundled together. SBXD.WS (SBXD-WT) is the warrant itself, the right to purchase one additional share at a stated strike price, typically callable five to seven years after a merger closes. An investor in SBXD.U owns both the equity stake in whatever company SilverBox eventually merges with and the right to purchase more shares if the merged company's stock appreciates. An investor who sells the warrants separately might prefer to own just the equity without the leverage, or vice versa.
+Like most modern SPACs, SilverBox is capitalized through three distinct and separately tradeable securities. SBXD represents the common shares, which carry [voting rights](/voting-rights/) in any merger. SBXD.U (SBXD-UN) is the unit — one share plus one warrant bundled together. SBXD.WS (SBXD-WT) is the warrant itself, the right to purchase one additional share at a stated [strike price](/strike-price/), typically callable five to seven years after a merger closes. An investor in SBXD.U owns both the equity stake in whatever company SilverBox eventually merges with and the right to purchase more shares if the merged company's stock appreciates. An investor who sells the warrants separately might prefer to own just the equity without the leverage, or vice versa.
 
 For SilverBox specifically, the spread between SBXD.U, SBXD (the share alone), and SBXD.WS prices reflects the market's assessment of deal probability and post-merger upside. A close-to-par SBXD price and a modest warrant price might indicate skepticism that any deal will be announced, or that announced deals will fail to drive stock appreciation. A wide spread might indicate optimism about a pending announcement.
 
 ## The mechanism of acquisition and shareholder redemption
 
-When SilverBox's sponsors identify a target company and negotiate a merger agreement, the company files a proxy statement with the Securities and Exchange Commission detailing the target's business, financial history, the deal terms, and the pro forma capitalization of the merged entity. Existing SilverBox shareholders are then given a vote and, crucially, a redemption right: they may choose to redeem their shares for a pro-rata portion of the trust account — the escrow account holding the proceeds from the IPO — rather than roll their investment into the merged company.
+When SilverBox's sponsors identify a target company and negotiate a merger agreement, the company files a proxy statement with the [Securities and Exchange Commission](/securities-and-exchange-commission/) detailing the target's business, financial history, the deal terms, and the pro forma capitalization of the merged entity. Existing SilverBox shareholders are then given a vote and, crucially, a redemption right: they may choose to redeem their shares for a pro-rata portion of the trust account — the escrow account holding the proceeds from the IPO — rather than roll their investment into the merged company.
 
-This redemption mechanism is what distinguishes a SPAC merger from a traditional acquisition. It gives shareholders a defined exit: if you dislike the deal, you get your $10 per share back (the unit price from most SPAC IPOs) rather than being forced to hold equity in the post-merger company. From the sponsors' perspective, high redemptions are undesirable because they shrink the capital available to the acquired company and increase the dilution to the sponsors' own holdings. From the public investor's perspective, the redemption right is a downside floor — you cannot lose more than the fees and the time value of your capital.
+This redemption mechanism is what distinguishes a SPAC merger from a traditional acquisition. It gives shareholders a defined exit: if you dislike the deal, you get your $10 per share back (the unit price from most SPAC IPOs) rather than being forced to hold equity in the post-merger company. From the sponsors' perspective, high redemptions are undesirable because they shrink the capital available to the acquired company and increase the dilution to the sponsors' own holdings. From the public investor's perspective, the redemption right is a downside floor — you cannot lose more than the fees and the [time value](/time-value/) of your capital.
 
 ## Moat analysis: the absence of one
 
@@ -46,7 +46,7 @@ The only "moat" for a SPAC is the reputation and execution track record of its s
 
 ## Key dates and milestones to watch
 
-Most SPACs have an 18- to 24-month window from IPO to complete a business combination, with extensions possible. For SilverBox, key events to monitor include: announcement of a merger agreement or exclusivity discussion with a target; proxy filing, which will disclose detailed financial and operational information about the target; shareholder vote on the proposed merger; and finally, the closing of the transaction, at which point the public shareholders become shareholders of the acquired operating business. Until a deal is announced, SilverBox will file periodic SEC reports and hold shareholder meetings; these are often formulaic because there is no material business to report.
+Most SPACs have an 18- to 24-month window from IPO to complete a [business combination](/business-combination-purchase/), with extensions possible. For SilverBox, key events to monitor include: announcement of a merger agreement or exclusivity discussion with a target; proxy filing, which will disclose detailed financial and operational information about the target; shareholder vote on the proposed merger; and finally, the closing of the transaction, at which point the public shareholders become shareholders of the acquired operating business. Until a deal is announced, SilverBox will file periodic SEC reports and hold shareholder meetings; these are often formulaic because there is no material business to report.
 
 ## Research and due diligence checkpoints
 

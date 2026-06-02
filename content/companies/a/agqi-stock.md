@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AGQI is an exchange-traded fund sponsored by First Trust Advisors that pursues dividend income and capital appreciation across global equity markets. The fund is actively managed, meaning its portfolio managers use research and judgment to select stocks they believe combine three qualities: strong underlying businesses (high quality), sustainable dividend payments or other cash returns (income), and the potential for share-price appreciation. The fund holds companies from developed and emerging markets, rebalances tactically, and aims to deliver a yield higher than what a broad global stock index offers while maintaining the flexibility to adapt the portfolio as market conditions and valuations change.
+AGQI is an exchange-traded fund sponsored by First Trust Advisors that pursues [dividend](/dividend/) income and capital appreciation across global equity markets. The fund is actively managed, meaning its portfolio managers use research and judgment to select stocks they believe combine three qualities: strong underlying businesses (high quality), sustainable dividend payments or other cash returns (income), and the potential for share-price appreciation. The fund holds companies from developed and emerging markets, rebalances tactically, and aims to deliver a yield higher than what a broad global stock index offers while maintaining the flexibility to adapt the portfolio as market conditions and valuations change.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,15 +27,15 @@ AGQI is an exchange-traded fund sponsored by First Trust Advisors that pursues d
 
 ## The investment thesis: quality and income together
 
-The fund's central idea is that good companies paying good dividends are not at odds — they are often one and the same. A truly high-quality business generates reliable free cash flow (cash left over after funding operations and capital improvements). That cash can be returned to shareholders through dividends, buybacks, or both. A company that does so consistently is signaling confidence in its cash generation and its future prospects. By hunting for such companies globally, the fund aims to capture steady income while maintaining long-term growth potential.
+The fund's central idea is that good companies paying good dividends are not at odds — they are often one and the same. A truly high-quality business generates reliable [free cash flow](/free-cash-flow/) (cash left over after funding operations and capital improvements). That cash can be returned to shareholders through dividends, buybacks, or both. A company that does so consistently is signaling confidence in its cash generation and its future prospects. By hunting for such companies globally, the fund aims to capture steady income while maintaining long-term growth potential.
 
-This approach distinguishes AGQI from pure income funds that might load up on bonds or high-yield stocks regardless of quality. A high-yield stock can look attractive until the company cuts its dividend because earnings collapsed. A low-quality company might pay a high dividend because it is harvesting its own decline. AGQI's managers filter for both quality and income, avoiding the trap of chasing yield from deteriorating businesses.
+This approach distinguishes AGQI from pure [income funds](/income-fund/) that might load up on [bonds](/bond/) or high-yield stocks regardless of quality. A high-yield stock can look attractive until the company cuts its dividend because earnings collapsed. A low-quality company might pay a high dividend because it is harvesting its own decline. AGQI's managers filter for both quality and income, avoiding the trap of chasing yield from deteriorating businesses.
 
 The global scope matters too. A portfolio limited to U.S. dividend payers misses opportunities in other developed markets — Europe, Canada, Australia — where many high-quality companies trade at reasonable valuations and pay sustainable yields. By ranging across the world, AGQI can potentially find better value and more stable income than a U.S.-only fund.
 
 ## How the fund operates
 
-First Trust's portfolio managers build the fund's holdings from fundamental research. They analyze company balance sheets, earnings trends, dividend histories, competitive positioning, and cash-flow stability. The team looks for companies with durable competitive advantages that can sustain high-quality earnings and continued capital returns even through economic cycles. Once the managers identify attractive candidates, they weight them based on conviction and valuation.
+First Trust's portfolio managers build the fund's holdings from fundamental research. They analyze company [balance sheets](/balance-sheet/), earnings trends, dividend histories, competitive positioning, and cash-flow stability. The team looks for companies with durable competitive advantages that can sustain high-quality earnings and continued capital returns even through economic cycles. Once the managers identify attractive candidates, they weight them based on conviction and valuation.
 
 The fund is not passive — it does not automatically own all global dividend payers or track a pre-set index. Instead, the managers make active bets. They might overweight U.S. consumer staples if they see value there, or overweight European banks if they perceive attractive valuations, or underweight areas they see as expensive. This active stance means the portfolio composition shifts as valuations change and the managers' views evolve.
 
@@ -49,15 +49,15 @@ The income component is steady but not fixed. Dividends can be cut if a company'
 
 ## Global exposure and diversification
 
-The fund holds companies across developed markets — the United States, Europe, Canada, Australia — and selectively in emerging markets where the managers find high-quality dividend payers. This geographic diversification reduces dependence on any single country's economic cycle and lets the fund capture value wherever it appears. A portfolio weighted solely to the U.S. misses the reality that dividend-paying, high-quality businesses exist everywhere.
+The fund holds companies across developed markets — the United States, Europe, Canada, Australia — and selectively in emerging markets where the managers find high-quality dividend payers. This geographic [diversification](/diversification/) reduces dependence on any single country's economic cycle and lets the fund capture value wherever it appears. A portfolio weighted solely to the U.S. misses the reality that dividend-paying, high-quality businesses exist everywhere.
 
 Geographic diversification brings currency exposure: when the fund holds a German company and the euro weakens against the dollar, a U.S. investor's returns are damped. This is a real risk, though many investors see it as part of the benefit — currency moves can work in either direction, and long-term diversification often smooths returns across cycles.
 
 ## Active management and its costs
 
-AGQI's structure as an actively managed fund means the expense ratio is higher than an index-tracking dividend ETF. First Trust charges for the research team, the portfolio managers' salaries, and the trading costs of frequent rebalancing. The fund's managers must add value — through stock selection and tactical positioning — enough to cover these costs and beat a benchmark. This is a real hurdle that not all active managers clear.
+AGQI's structure as an [actively managed fund](/actively-managed-fund/) means the [expense ratio](/expense-ratio/) is higher than an index-tracking dividend ETF. First Trust charges for the research team, the portfolio managers' salaries, and the trading costs of frequent rebalancing. The fund's managers must add value — through stock selection and tactical positioning — enough to cover these costs and beat a benchmark. This is a real hurdle that not all active managers clear.
 
-The upside of active management is flexibility: in difficult periods for dividend payers, the managers can reduce the portfolio's dividend focus and emphasize total-return opportunities. In bull markets, they can be more aggressive. A passive index fund is locked into its methodology and cannot adapt. Whether that flexibility creates value over time depends on the skill of the managers, which is impossible to predict in advance.
+The upside of active management is flexibility: in difficult periods for dividend payers, the managers can reduce the portfolio's dividend focus and emphasize total-return opportunities. In [bull markets](/bull-market/), they can be more aggressive. A passive [index fund](/index-fund/) is locked into its methodology and cannot adapt. Whether that flexibility creates value over time depends on the skill of the managers, which is impossible to predict in advance.
 
 ## Research and evaluation
 

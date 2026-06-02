@@ -12,7 +12,7 @@ handwritten: true
 
 Polestar Automotive is a British specialist car manufacturer that designs and produces lightweight vehicles, including electric sports cars and performance automobiles. Trades on the OTCPK under the ticker PSNYW, the company operates at a far smaller scale than mass-market automakers, competing instead in the high-end, low-volume segment where engineering novelty and performance characteristics matter more than production volume or price efficiency.
 
-The company's strategy reflects the constraints and opportunities of being a small player in the automotive industry. Rather than attempt to compete with Tesla, BMW, or Porsche on scale or brand recognition, Polestar focuses on designing vehicles with exceptional engineering credentials — particularly in weight reduction, battery efficiency, and handling dynamics — then uses manufacturing partnerships to build them rather than owning factories.
+The company's strategy reflects the constraints and opportunities of being a small player in the automotive industry. Rather than attempt to compete with [Tesla](/tsla-stock/), BMW, or Porsche on scale or brand recognition, Polestar focuses on designing vehicles with exceptional engineering credentials — particularly in weight reduction, battery efficiency, and handling dynamics — then uses manufacturing partnerships to build them rather than owning factories.
 
 ## Design and engineering focus
 
@@ -36,7 +36,7 @@ The company's model implies that each new vehicle project must justify its engin
 
 As a small-cap company, Polestar's revenues come primarily from direct vehicle sales. Unlike larger automakers with service networks, financing arms, and parts businesses, Polestar is largely a one-product-line, one-revenue-stream business. This simplicity in business model is matched by simplicity in transparency: the company's financial results depend almost entirely on how many cars it builds and sells, and at what price point.
 
-The specialist nature of the market means that Polestar lacks the manufacturing scale advantages of volume producers. Each car must achieve its target engineering specifications, and every unit sold contributes proportionally to results. Marketing reaches a narrow audience of high-performance vehicle enthusiasts, and customer acquisition costs are higher per vehicle than at mass-market firms because the audience is smaller.
+The specialist nature of the market means that Polestar lacks the manufacturing scale advantages of volume producers. Each car must achieve its target engineering specifications, and every unit sold contributes proportionally to results. Marketing reaches a narrow audience of high-performance vehicle enthusiasts, and customer [acquisition](/acquisition/) costs are higher per vehicle than at mass-market firms because the audience is smaller.
 
 ## Capital intensity and growth constraints
 

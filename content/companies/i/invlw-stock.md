@@ -51,7 +51,7 @@ Innventure's success hinges entirely on whether its operating teams can execute.
 
 A second risk is that a multinational licensor could decide to compete. Johnson Controls, for instance, already competes in data center cooling in many ways. If cooling becomes central to its strategy, could the company compete directly against Accelsius? The licenses protect Innventure in some ways, but corporate strategy can shift.
 
-Innventure itself is not profitable. The company takes a management fee and equity stake in each portfolio company, but until those companies scale and exit (through acquisition or IPO), Innventure burns cash. The company will need continued access to capital from investors, strategic partners, or the success of early portfolio exits. A liquidity crisis would force Innventure to sell stakes prematurely or pull back investment.
+Innventure itself is not profitable. The company takes a [management fee](/management-fee/) and equity stake in each portfolio company, but until those companies scale and exit (through [acquisition](/acquisition/) or IPO), Innventure burns cash. The company will need continued access to capital from investors, strategic partners, or the success of early portfolio exits. A [liquidity crisis](/liquidity-crisis/) would force Innventure to sell stakes prematurely or pull back investment.
 
 ## The investor case
 

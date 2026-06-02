@@ -19,7 +19,7 @@ handwritten: true
 
 Financial services are undergoing structural transformation driven by technology. Digital-native companies can build lending platforms, investment advisors, payment networks, and settlement systems without the legacy infrastructure and regulatory burdens that traditional banks carry. A robo-advisor using cloud computing and machine learning can offer lower fees and faster execution than human-managed brokerage. A payments startup using cloud infrastructure can undercut a bank's payment processors. A blockchain-based settlement system can clear transactions in hours instead of days.
 
-FDFF's premise is straightforward: companies built for the modern financial ecosystem will capture disproportionate value. This does not depend on cryptocurrency becoming mainstream money; it depends on the technology companies providing infrastructure and services to the financial industry building profitable, durable businesses. Much as the internet's boom created value for Cisco, Akamai, and Amazon regardless of dot-com valuations, the fintech revolution creates value for exchanges, custodians, developers, and infrastructure companies independent of whether digital assets themselves become ubiquitous.
+FDFF's premise is straightforward: companies built for the modern financial ecosystem will capture disproportionate value. This does not depend on cryptocurrency becoming mainstream money; it depends on the technology companies providing infrastructure and services to the financial industry building profitable, durable businesses. Much as the internet's boom created value for Cisco, Akamai, and Amazon regardless of dot-com valuations, the fintech revolution creates value for exchanges, [custodians](/custodian/), developers, and infrastructure companies independent of whether digital assets themselves become ubiquitous.
 
 ## Holdings across the fintech stack
 
@@ -29,9 +29,9 @@ The fund does not hold traditional banks. Instead, it holds the technology compa
 
 ## Manager skill and fintech risk
 
-FDFF's returns depend on Fidelity's ability to identify genuine financial innovation and distinguish it from hype. The fintech landscape proliferates with new ideas, venture capital pours abundantly, and many startups fail. An actively managed fund can shift away from companies losing competitive battles and concentrate in those winning them. But this also means FDFF is betting that managers' disruption thesis matches reality; if they misread which innovations will endure, the fund lags.
+FDFF's returns depend on Fidelity's ability to identify genuine financial innovation and distinguish it from hype. The fintech landscape proliferates with new ideas, venture capital pours abundantly, and many startups fail. An [actively managed fund](/actively-managed-fund/) can shift away from companies losing competitive battles and concentrate in those winning them. But this also means FDFF is betting that managers' disruption thesis matches reality; if they misread which innovations will endure, the fund lags.
 
-The expense ratio is higher than a passive index fund, reflecting the cost of research and active decision-making. Over multi-year periods, FDFF must justify its fees through outperformance. The fund's historical returns relative to broad financial-services and technology indices reveal whether this has occurred.
+The [expense ratio](/expense-ratio/) is higher than a passive [index fund](/index-fund/), reflecting the cost of research and active decision-making. Over multi-year periods, FDFF must justify its fees through outperformance. The fund's historical returns relative to broad financial-services and technology indices reveal whether this has occurred.
 
 ## Regulatory uncertainty and execution risk
 
@@ -41,7 +41,7 @@ This regulatory environment creates both opportunity and risk. Companies that na
 
 ## Fintech volatility and sector cycles
 
-Fintech is young, competitive, and cyclical. When interest rates rise, online lending platforms struggle. When equity markets are volatile, trading-related fintech thrives. When venture capital tightens, fintech startups that depend on funding face pressure. FDFF's performance is thus sensitive to macroeconomic conditions, interest-rate cycles, and broader sentiment toward technology disruption.
+Fintech is young, competitive, and cyclical. When [interest rates](/interest-rate/) rise, online lending platforms struggle. When equity markets are volatile, trading-related fintech thrives. When venture capital tightens, fintech startups that depend on funding face pressure. FDFF's performance is thus sensitive to macroeconomic conditions, interest-rate cycles, and broader sentiment toward technology disruption.
 
 Holdings also face the standard equity risks: competition, product obsolescence, unexpected consolidation (fintech startups being acquired by banks rather than displacing them), and the reality that many disruptive ideas fail to generate lasting profits. The fund's concentration in thematic bets means downturns in specific fintech segments — such as buy-now-pay-later or decentralised finance — can have outsized impact on overall performance.
 

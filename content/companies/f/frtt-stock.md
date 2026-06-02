@@ -39,7 +39,7 @@ The [10-K](/10-k/) is comprehensive but not omniscient. Management has discretio
 
 ## Using the 10-K Strategically
 
-Begin with the balance sheet to understand asset composition and leverage. Move to the income statement to verify that reported revenue is growing and that gross margin trends are sustainable. Check the cash flow statement to confirm that earnings are backed by actual cash generation, not accounting gains. Read the MD&A to understand management's own narrative and tone. Scan the risk factors to identify tail risks specific to Fort Technology's business model. Finally, compare Fort Technology's 10-K against those of three to five comparable public companies to establish whether its metrics are in line or raise flags. This methodical approach will surface whether Fort Technology is a candidate for further research or one to set aside.
+Begin with the balance sheet to understand asset composition and leverage. Move to the income statement to verify that reported revenue is growing and that gross margin trends are sustainable. Check the cash flow statement to confirm that earnings are backed by actual cash generation, not accounting gains. Read the MD&A to understand management's own narrative and tone. Scan the risk factors to identify [tail risks](/tail-risk/) specific to Fort Technology's business model. Finally, compare Fort Technology's 10-K against those of three to five comparable public companies to establish whether its metrics are in line or raise flags. This methodical approach will surface whether Fort Technology is a candidate for further research or one to set aside.
 
 <div class="wiki-seealso">
 ### Closely related

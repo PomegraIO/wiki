@@ -4,7 +4,7 @@ description: "A cryopreservation and cellular therapy company operating under FD
 keywords: ["biotechnology", "cell-storage", "fda-regulation", "regenerative-medicine", "cryogenic-preservation", "tissue-banking"]
 ---
 
-***Cryo Cell International Inc.** (CCEL) exists at the intersection of emerging biotechnology and established medical regulation. As a company storing and processing human biological materials—cord blood stem cells, bone marrow, and other somatic cell types—it must navigate the FDA's statutory authority over cellular and tissue-based products, state-level licensing for tissue banks, and the clinical pathway that determines whether preserved cells can be marketed for therapeutic use or remain confined to laboratory or research applications.*
+***Cryo Cell International Inc.** (CCEL) exists at the intersection of emerging biotechnology and established medical [regulation. As](/regulation-a/) a company storing and processing human biological materials—cord blood stem cells, bone marrow, and other somatic cell types—it must navigate the FDA's statutory authority over cellular and tissue-based products, state-level licensing for tissue banks, and the clinical pathway that determines whether preserved cells can be marketed for therapeutic use or remain confined to laboratory or research applications.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CCEL</td></tr>

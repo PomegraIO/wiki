@@ -28,7 +28,7 @@ This sequencing reveals the company's capital priorities: debt reduction first (
 
 ## Financing the Portfolio
 
-Unlike [financial institutions](/fisi-stock/) or highly leveraged [REITs](/real-estate-investment-trust/), FMC finances itself through a conventional mix: operating cash flow provides the bulk, supplemented by moderate debt markets access. The company has issued [corporate bonds](/corporate-bond/) in the intermediate term, locking in rates when conditions are favorable. Its [common stock](/common-stock/) is the equity base, and the company avoids [preferred stock](/preferred-stock/)—a choice that keeps its capital structure simple and avoids the fixed charges that preferred dividends impose.
+Unlike financial institutions or highly leveraged [REITs](/real-estate-investment-trust/), FMC finances itself through a conventional mix: operating cash flow provides the bulk, supplemented by moderate debt markets access. The company has issued [corporate bonds](/corporate-bond/) in the intermediate term, locking in rates when conditions are favorable. Its [common stock](/common-stock/) is the equity base, and the company avoids [preferred stock](/preferred-stock/)—a choice that keeps its capital structure simple and avoids the fixed charges that preferred dividends impose.
 
 The company's asset base—manufacturing facilities, intellectual property in crop chemistry, supply agreements in lithium—serves as collateral and cash-generation machinery. When FMC acquires a business, it typically finances through a mix of cash on hand and new debt, then uses cash flows to pay down the incremental debt within a 2–3-year window. That pace is sustainable because the acquired operations add to the cash-generation pool.
 

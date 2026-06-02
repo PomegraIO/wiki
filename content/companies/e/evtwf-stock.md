@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Vertical Aerospace is an aerospace company engineering zero-emission electric aircraft for commercial operation, betting that urban air mobility—moving passengers and cargo by air within cities—will scale from concept to operating market within this decade.*
+*[Vertical Aerospace](/evtl-stock/) is an aerospace company engineering zero-emission electric aircraft for commercial operation, betting that urban air mobility—moving passengers and cargo by air within cities—will scale from concept to operating market within this decade.*
 
 The company was founded in 2016 by Stephen Fitzpatrick, an entrepreneur with roots in renewable energy (founder of OVO Energy, a UK electricity supplier) and motorsport. His bet was straightforward: battery technology, autonomous systems, and regulatory openness were converging to make electric air taxis feasible. Instead of building factories, Vertical would design the aircraft, outsource manufacturing, and compete on engineering efficiency and execution speed.
 
@@ -23,13 +23,13 @@ That principle animates Vertical's strategy. The company has spent 75 percent le
 
 The Valo is a piloted, battery-electric vertical take-off aircraft designed for four passengers plus pilot. Its range exceeds 100 miles per charge; its noise signature is orders of magnitude lower than a helicopter. The target market is urban air mobility—replacing car and helicopter services for wealthy passengers and urgent cargo in dense cities, where congestion makes ground transport slow and helicopters politically unacceptable due to noise.
 
-The commercial pitch to airlines and specialized operators is compelling: if a Valo can move a VIP or critical medical cargo across a city in 20 minutes instead of 90 minutes by car, the margin per passenger supports premium pricing. Major customers—American Airlines, Japan Airlines, AirAsia, GOL—have placed orders. These are not venture-scale speculative bets; they are written commitments from operators with established reputations and due-diligence processes.
+The commercial pitch to airlines and specialized operators is compelling: if a Valo can move a VIP or critical medical cargo across a city in 20 minutes instead of 90 minutes by car, the margin per passenger supports premium pricing. Major customers—[American Airlines](/aal-stock/), Japan Airlines, AirAsia, GOL—have placed orders. These are not venture-scale speculative bets; they are written commitments from operators with established reputations and due-diligence processes.
 
 ## Profitability and Cyclicality
 
 Vertical projects cash break-even by 2030. That relies on aircraft certifications clearing, manufacturing ramp scaling without ballooning unit costs, and orders converting to deliveries on schedule. The gross-margin expectation is above 40 percent once production volume stabilizes—consistent with other aerospace platforms.
 
-The cyclical dynamic cuts both ways. In a boom, demand for new aircraft and capital availability are both strong, letting Vertical hire, invest in tooling, and scale without financial stress. In a recession, airlines defer aircraft purchases and capital dries up. An asset-light firm dodges the worst of this—no factory carrying depreciation to depress margins. But it also depends on continued access to capital to bridge the pre-revenue phase. A sustained credit squeeze could force the company to raise capital at punitive terms or slow development.
+The cyclical dynamic cuts both ways. In a boom, demand for new aircraft and capital availability are both strong, letting Vertical hire, invest in tooling, and scale without financial stress. In a [recession](/recession/), airlines defer aircraft purchases and capital dries up. An asset-light firm dodges the worst of this—no factory carrying [depreciation](/depreciation/) to depress margins. But it also depends on continued access to capital to bridge the pre-revenue phase. A sustained credit squeeze could force the company to raise capital at punitive terms or slow development.
 
 ## Risks That Shape the Timeline
 
@@ -41,7 +41,7 @@ Finally, demand risk: if urban airspace infrastructure remains underdeveloped, i
 
 ## Market Timing and Regulatory Gatekeeping
 
-The eVTOL market timing is uncertain, but the regulatory path is defined. Aircraft certification typically takes years; unexpected engineering issues, supply-chain delays, or regulatory caution can add more. Vertical projects cash break-even by 2030, which implies certification, delivery, and revenue acceleration all proceeding largely on schedule. History suggests regulatory delays are common in aviation, especially for novel aircraft types. Any slip in that timeline burns capital and pushes profitability further out, potentially triggering shareholder pressure and capital raises at unfavorable terms.
+The eVTOL [market timing](/market-timing/) is uncertain, but the regulatory path is defined. Aircraft certification typically takes years; unexpected engineering issues, supply-chain delays, or regulatory caution can add more. Vertical projects cash break-even by 2030, which implies certification, delivery, and revenue acceleration all proceeding largely on schedule. History suggests regulatory delays are common in aviation, especially for novel aircraft types. Any slip in that timeline burns capital and pushes profitability further out, potentially triggering shareholder pressure and capital raises at unfavorable terms.
 
 The broader risk is that eVTOL, as a market, fails to materialize at meaningful scale by 2030. Regulatory restrictions on urban airspace, unresolved safety questions, infrastructure development delays, or customer economics shifting could all defer the eVTOL opportunity window indefinitely. Vertical is betting this does not happen; investors are betting the same. That bet is on long-cycle infrastructure, not quarterly earnings, making it a high-risk, long-duration thesis suitable only for patient capital with tolerance for delay and potential loss.
 

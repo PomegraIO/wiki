@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Think of Digital Realty this way: companies generate enormous amounts of data and need places to put it. They need secure, climate-controlled buildings full of servers and networking equipment. They need backup power in case of outages. They need redundancy across multiple locations so if one site fails, another takes over. Digital Realty owns and operates those buildings. The company leases space and power to everyone from hyperscale cloud providers like Amazon and Microsoft to smaller enterprises that cannot afford to build data centers themselves.
+Think of [Digital Realty](/dlr-stock/) this way: companies generate enormous amounts of data and need places to put it. They need secure, climate-controlled buildings full of servers and networking equipment. They need backup power in case of outages. They need redundancy across multiple locations so if one site fails, another takes over. Digital Realty owns and operates those buildings. The company leases space and power to everyone from hyperscale cloud providers like Amazon and [Microsoft](/msft-stock/) to smaller enterprises that cannot afford to build data centers themselves.
 
 The business is simple on the surface. Build or acquire a data center. Fill it with racks of servers. Charge customers monthly to rent space and power. Collect the revenue. The customers stay put because moving is expensive and disruptive. Digital Realty has grown by doing this repeatedly, across the United States and then globally—from California to London to Singapore to Sydney.
 
@@ -33,7 +33,7 @@ The beauty of the business is that revenue is mostly recurring. Once a customer 
 
 ## The constraints of being big
 
-Being big also brings constraints. Digital Realty is a real estate company in the regulatory sense—specifically, a Real Estate Investment Trust or REIT. REITs are required to distribute at least 90 percent of their taxable income as dividends to shareholders. That rule exists to ensure shareholders get consistent payouts rather than the company holding cash. But it also means Digital Realty cannot reinvest its earnings the way a traditional company can. Growth must come from borrowing, issuing new shares, or external capital.
+Being big also brings constraints. Digital Realty is a real estate company in the regulatory sense—specifically, a [Real Estate Investment Trust](/real-estate-investment-trust/) or REIT. REITs are required to distribute at least 90 percent of their taxable income as [dividends](/dividend/) to shareholders. That rule exists to ensure shareholders get consistent payouts rather than the company holding cash. But it also means Digital Realty cannot reinvest its earnings the way a traditional company can. Growth must come from borrowing, issuing new shares, or external capital.
 
 Large data centers are also extremely capital-intensive. Building a new facility costs hundreds of millions of dollars. The company must obtain land, pour concrete, install electrical infrastructure, run fiber-optic cables, install cooling systems, and set up security. All of that happens before the first customer ever plugs in a server. For a company committed to returning 90 percent of earnings as dividends, that capital requirement is a perpetual constraint.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Fortis Inc. is one of North America's largest utility companies, operating electric and natural gas systems that serve millions of customers across Canada and the United States. The company operates through subsidiaries that manage generation facilities, transmission networks, and distribution systems—essentially the entire value chain that brings power from where it is produced to customers' homes and businesses. Unlike companies that make goods and sell them in competitive markets, Fortis operates in regulated monopoly franchises, meaning it is the sole allowed utility in many of its service territories and its rates are set by regulators rather than by market forces.
+Fortis Inc. is one of North America's largest utility companies, operating electric and [natural gas](/natural-gas/) systems that serve millions of customers across Canada and the United States. The company operates through subsidiaries that manage generation facilities, transmission networks, and distribution systems—essentially the entire value chain that brings power from where it is produced to customers' homes and businesses. Unlike companies that make goods and sell them in competitive markets, Fortis operates in regulated monopoly franchises, meaning it is the sole allowed utility in many of its service territories and its rates are set by regulators rather than by market forces.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ Fortis Inc. is one of North America's largest utility companies, operating elect
 
 ## The origins and structure
 
-Fortis began in 1987 as a holding company, initially focused on a single utility—Newfoundland Light & Power—serving the island of Newfoundland. Over three decades it expanded through acquisition, buying utilities across Atlantic Canada, the western provinces, and increasingly into the United States. Today it operates through a complex subsidiary structure: Newfoundland Light & Power, FortisBC, Fortis Alberta, FortisON, Fort Folsom (Arizona), MidAmerican Energy Company, and Caribbean Electric Utility Company, among others. Each subsidiary operates under a different regulatory regime—different provinces, states, and territories have different rules for what utilities can charge and how much profit they can earn.
+Fortis began in 1987 as a holding company, initially focused on a single utility—Newfoundland Light & Power—serving the island of Newfoundland. Over three decades it expanded through [acquisition](/acquisition/), buying utilities across Atlantic Canada, the western provinces, and increasingly into the United States. Today it operates through a complex subsidiary structure: Newfoundland Light & Power, FortisBC, Fortis Alberta, FortisON, Fort Folsom (Arizona), MidAmerican Energy Company, and Caribbean Electric Utility Company, among others. Each subsidiary operates under a different regulatory regime—different provinces, states, and territories have different rules for what utilities can charge and how much profit they can earn.
 
 This expansion strategy reflected a simple thesis: utilities in regulatory environments with growing populations and growing electricity demand are reliable, predictable cash generators. By acquiring utilities in multiple jurisdictions, Fortis reduced its dependence on any single regulator or geography. A change in Ontario's energy policy wouldn't collapse the company if British Columbia's utilities were performing well.
 
@@ -34,7 +34,7 @@ This expansion strategy reflected a simple thesis: utilities in regulatory envir
 
 The fundamental appeal of utility stocks like Fortis is that they operate in regulated monopolies. If you live in Newfoundland, Newfoundland Light & Power is your only choice for electricity. The company cannot be undercut on price by a competitor, and customers cannot simply switch to another provider. This is economically efficient—the government has decided it makes sense for one utility to own all the poles and wires in a region, avoiding wasteful duplication. But it also means the utility cannot charge whatever it wants. Regulators set rates based on a formula: typically the utility's cost of capital plus an allowed return on investment, often in the range of 8–10 percent.
 
-This structure creates a very different business model from competitive industries. Instead of fighting for market share and negotiating prices with sophisticated customers, the utility's focus is on controlling costs and justifying rate increases to regulators. Pricing is not about winning sales; it's about making the case to a regulator that costs have risen and the utility deserves more revenue. In a recession, when industrial customers use less power, the utility's revenue still comes from all the homes and businesses still using electricity. This provides some insulation from economic cycles, though industrial recessions do hurt.
+This structure creates a very different business model from competitive industries. Instead of fighting for market share and negotiating prices with sophisticated customers, the utility's focus is on controlling costs and justifying rate increases to regulators. Pricing is not about winning sales; it's about making the case to a regulator that costs have risen and the utility deserves more revenue. In a [recession](/recession/), when industrial customers use less power, the utility's revenue still comes from all the homes and businesses still using electricity. This provides some insulation from economic cycles, though industrial recessions do hurt.
 
 ## The operating segments
 
@@ -68,8 +68,8 @@ The company has responded by expanding renewable generation assets and investing
 
 Start with the annual 10-K filing (SEC CIK 0001666175). It breaks down revenue, profit, and capital spending by subsidiary and jurisdiction. Look at trends: which segments are growing, which are shrinking? What is the company spending on renewables versus traditional infrastructure?
 
-Watch regulatory decisions. Rate decisions in Ontario, British Columbia, or Arizona can move the stock. If a regulator denies a rate increase or cuts the allowed return on equity, it usually signals tighter oversight ahead.
+Watch regulatory decisions. Rate decisions in Ontario, British Columbia, or Arizona can move the stock. If a regulator denies a rate increase or cuts the allowed [return on equity](/return-on-equity/), it usually signals tighter oversight ahead.
 
-Track capital spending plans and the company's debt and credit metrics. Utilities that maintain investment-grade credit ratings can borrow cheaply; those that approach lower ratings face higher borrowing costs, which translates to lower returns for shareholders.
+Track capital spending plans and the company's debt and credit metrics. Utilities that maintain investment-grade [credit ratings](/credit-rating/) can borrow cheaply; those that approach lower ratings face higher borrowing costs, which translates to lower returns for shareholders.
 
-Finally, listen for management commentary on the energy transition. Is the company preparing for a world with less gas demand? Is it investing meaningfully in renewables? Is it maintaining or growing its dividend? These questions reveal whether management is adapting to a structurally changing industry or defending an increasingly obsolete business model.
+Finally, listen for management commentary on the energy transition. Is the company preparing for a world with less gas demand? Is it investing meaningfully in renewables? Is it maintaining or growing its [dividend](/dividend/)? These questions reveal whether management is adapting to a structurally changing industry or defending an increasingly obsolete business model.

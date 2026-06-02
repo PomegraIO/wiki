@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*SOFX, issued by Defiance ETFs, is a leveraged fund structured around the same underlying asset — SoFi Technologies — but serves a similar tactical purpose to its competitor, Direxion's SOFA. Both funds target 2x the daily return of SOFI; both reset daily; both are burdened by volatility decay. The principal difference is sponsorship: Defiance rather than Direxion. The mechanics, risks, and use cases are substantially identical.*
+*SOFX, issued by Defiance ETFs, is a leveraged fund structured around the same underlying asset — [SoFi Technologies](/sofi-stock/) — but serves a similar tactical purpose to its competitor, Direxion's SOFA. Both funds target 2x the daily return of SOFI; both reset daily; both are burdened by volatility decay. The principal difference is sponsorship: Defiance rather than Direxion. The mechanics, risks, and use cases are substantially identical.*
 
 ## The fund's design and leverage structure
 
@@ -34,18 +34,18 @@ A concrete example: SOFI falls 8%, then rises 9%, ending up 0.08% overall. SOFX,
 
 ## Trading mechanics and costs
 
-SOFX trades on exchanges during regular market hours at prices set by supply and demand. Like any ETF, shares can be bought and sold throughout the day, though the fund's bid-ask spread varies with trading volume and market conditions. Liquidity is adequate for most retail investors, though large positions should check spreads carefully.
+SOFX trades on exchanges during regular market hours at prices set by supply and demand. Like any ETF, shares can be bought and sold throughout the day, though the fund's [bid-ask spread](/bid-ask-spread/) varies with trading volume and market conditions. Liquidity is adequate for most retail investors, though large positions should check spreads carefully.
 
-The fund charges an expense ratio published in the prospectus. Beyond this stated cost, the daily rebalancing itself incurs transaction costs — buying and selling exposure in SOFI — that reduce returns beyond the mathematical effect of volatility decay. These implicit costs are not always transparent to the investor but are real and material, especially over periods of high volatility.
+The fund charges an [expense ratio](/expense-ratio/) published in the prospectus. Beyond this stated cost, the daily rebalancing itself incurs transaction costs — buying and selling exposure in SOFI — that reduce returns beyond the mathematical effect of volatility decay. These implicit costs are not always transparent to the investor but are real and material, especially over periods of high volatility.
 
 ## Short-term trading and tactical positioning
 
-SOFX is built for traders looking to amplify a directional bet over days or a few weeks. A trader expecting SOFI to rally sharply in the near term might use SOFX to capture 2x the upside. If that rally materializes within the holding period before volatility decay becomes severe, SOFX can deliver outsized returns. Conversely, if the bet is wrong, losses are amplified.
+SOFX is built for traders looking to amplify a directional bet over days or a few weeks. A trader expecting SOFI to rally sharply in the near term might use SOFX to capture 2x the upside. If that rally materializes within the [holding period](/holding-period/) before volatility decay becomes severe, SOFX can deliver outsized returns. Conversely, if the bet is wrong, losses are amplified.
 
 Any investor using SOFX must understand that holding for more than a week or two — or holding through volatile, choppy price action — almost certainly results in volatility decay eroding value regardless of the underlying stock's direction. SOFX is not suitable for retirement accounts, buy-and-hold strategies, or any investor who cannot actively manage the position and accept that leverage and daily reset carry hidden costs.
 
 ## How to research SOFX
 
-Read Defiance's prospectus and factsheet, paying close attention to the daily reset explanation and any historical or simulated examples of volatility decay the fund may provide. Study SoFi's quarterly earnings reports and investor presentations to understand whether the company is growing loans, managing credit risk, and building sustainable unit economics. Track SoFi's historical and realized volatility — high volatility is the enemy of SOFX holders even if the stock's long-term trend is positive.
+Read Defiance's prospectus and factsheet, paying close attention to the daily reset explanation and any historical or simulated examples of volatility decay the fund may provide. Study SoFi's quarterly earnings reports and investor presentations to understand whether the company is growing loans, managing [credit risk](/credit-risk/), and building sustainable unit economics. Track SoFi's historical and realized volatility — high volatility is the enemy of SOFX holders even if the stock's long-term trend is positive.
 
 Compare SOFX explicitly to competing 2x SOFI funds like Direxion's SOFA. The structures are virtually identical; the choice between them is primarily about fund size, liquidity, and expense ratio. Neither should be used as a core holding; both should be sized as tactical positions and actively monitored.

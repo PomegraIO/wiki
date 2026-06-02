@@ -23,9 +23,9 @@ The filtration is substantial. Roughly 30–40 percent of global equities fail t
 
 ## The fund structure and costs
 
-UMMA is a straightforward exchange-traded fund that trades on the NASDAQ exchange, meaning investors can buy and sell shares as easily as any stock. The fund holds a portfolio of the underlying equities rather than using derivatives or leverage, so it moves roughly in line with the index it tracks — no daily reset mechanics, no volatility decay, no leverage risk.
+UMMA is a straightforward exchange-traded fund that trades on the [NASDAQ](/nasdaq/) exchange, meaning investors can buy and sell shares as easily as any stock. The fund holds a portfolio of the underlying equities rather than using derivatives or leverage, so it moves roughly in line with the index it tracks — no daily reset mechanics, no volatility decay, no leverage risk.
 
-The annual expense ratio is modest by Islamic-fund standards, though slightly higher than the broadest conventional index funds, reflecting the additional screening and maintenance required. The fund is reasonably liquid, with tight bid-ask spreads in the primary market, though it is smaller than flagship global index products and will have less trading volume.
+The annual [expense ratio](/expense-ratio/) is modest by Islamic-fund standards, though slightly higher than the broadest conventional [index funds](/index-fund/), reflecting the additional screening and maintenance required. The fund is reasonably liquid, with tight [bid-ask spreads](/bid-ask-spread/) in the [primary market](/primary-market/), though it is smaller than flagship global index products and will have less trading volume.
 
 ## Who this fund is for
 
@@ -37,7 +37,7 @@ Because it is truly global and broad, UMMA also serves as a core holding for inv
 
 The main risk is tracking error — the fund's actual returns versus the index it follows. Screening and rebalancing costs, along with the expense ratio, cause the fund to lag the index, often by 0.3–0.5 percentage points per year.
 
-A second consideration is concentration. Because Shariah screens exclude entire sectors — finance, energy, industrials with major weapons divisions — the fund carries less diversification than an unfiltered global index. Some years that matters; in years when excluded sectors outperform, the screened fund will lag. An investor needs to understand that accepting Shariah restrictions means accepting some performance drag relative to an unrestricted global portfolio, and that drag is not consistent.
+A second consideration is concentration. Because Shariah screens exclude entire sectors — finance, energy, industrials with major weapons divisions — the fund carries less [diversification](/diversification/) than an unfiltered global index. Some years that matters; in years when excluded sectors outperform, the screened fund will lag. An investor needs to understand that accepting Shariah restrictions means accepting some performance drag relative to an unrestricted global portfolio, and that drag is not consistent.
 
 Third, the definition of "Shariah-compliant" is not universal. Different Islamic scholars and different funds use slightly different tests, so two Shariah-screened funds can hold meaningfully different portfolios. Wahed's methodology has been accepted by Islamic scholars, but investors should read the prospectus to understand the exact rules the fund applies.
 

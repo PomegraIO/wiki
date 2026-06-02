@@ -24,7 +24,7 @@ That model collapsed when China shut down all P2P platforms by the end of 2021. 
 
 The company operates three segments:
 
-**Technology Empowerment Services.** 9F sells software, risk-assessment tools, and backend infrastructure to Chinese banks, auto financiers, securities [brokers](/broker/), and insurers. The model is less flashy than lending—no direct borrower relationships, no customer debt—but it solves a real problem: [financial institutions](/fisi-stock/) in China need modern underwriting algorithms and digital processing capabilities. However, this segment faced steep competition and faced a 47% revenue decline in the first half of 2024 versus 2023.
+**Technology Empowerment Services.** 9F sells software, risk-assessment tools, and backend infrastructure to Chinese banks, auto financiers, securities [brokers](/broker/), and insurers. The model is less flashy than lending—no direct borrower relationships, no customer debt—but it solves a real problem: financial institutions in China need modern underwriting algorithms and digital processing capabilities. However, this segment faced steep competition and faced a 47% revenue decline in the first half of 2024 versus 2023.
 
 **Wealth Management and Investment Advisory.** 9F offers investment products and advisory services to retail clients, including stock investment services in Hong Kong and insurance brokerage services. This segment also struggled, dragged down by weak equity markets in Hong Kong. The company provides low-risk products but lacks the brand scale or distribution of major wealth managers.
 

@@ -10,15 +10,15 @@ keywords:
 handwritten: true
 ---
 
-**Formation and structure.** Valuence Merger Corp. I is a shell company registered with the SEC (CIK 0001892747). It was formed by a sponsoring team, typically experienced deal-makers or industry executives, who put up capital and created the entity specifically to acquire another business. The company raised money from public investors via a trust account, with the proceeds held until a merger target is approved by shareholders.
+**Formation and structure.** [Valuence Merger Corp. I](/vmcaf-stock/) is a shell company registered with the SEC (CIK 0001892747). It was formed by a sponsoring team, typically experienced deal-makers or industry executives, who put up capital and created the entity specifically to acquire another business. The company raised money from public investors via a trust account, with the proceeds held until a [merger](/merger/) target is approved by shareholders.
 
 **The SPAC model in brief.** The sponsor team raised capital, took it public, and now operates within a defined window to identify and complete a merger with a private company. The structure moves faster than a traditional IPO — a private company can go public in months rather than a year — but trades off certainty. If no deal closes within the time window, cash is returned to shareholders. The sponsor's capital is at risk; they forfeit it if no merger happens.
 
 **Capital sources and deployment.** The trust account holds IPO proceeds from public shareholders. Sponsor capital covers operating and transaction costs. In the merger, the trust account funds the purchase price; any cash remaining post-redemptions becomes working capital for the public company.
 
-**Revenue and operations.** As a blank-check shell prior to a de-SPAC transaction, Valuence has minimal operating revenue — only the interest earned on trust-account cash. It has no business operations. Its only purpose is to find, acquire, and integrate a target company.
+**Revenue and operations.** As a blank-check shell prior to a [de-SPAC transaction](/de-spac-transaction/), Valuence has minimal operating revenue — only the interest earned on trust-account cash. It has no business operations. Its only purpose is to find, acquire, and integrate a target company.
 
-**The acquisition window and pressure.** Valuence has a set period (usually 24 months from IPO) to close a merger. If it does not, shareholders vote on liquidation and get their cash back. This creates operational pressure: sponsors want to close a deal to preserve their capital investment, which can incentivise accepting suboptimal targets or overpaying.
+**The [acquisition](/acquisition/) window and pressure.** Valuence has a set period (usually 24 months from IPO) to close a merger. If it does not, shareholders vote on [liquidation](/liquidation/) and get their cash back. This creates operational pressure: sponsors want to close a deal to preserve their capital investment, which can incentivise accepting suboptimal targets or overpaying.
 
 **Investor risks in the SPAC format.** Shareholders who bought Valuence's IPO shares have delayed certainty about what business they will actually own. They are funding a team's hunt for a target; the quality of that hunt, and the quality of the eventual target and price, will determine returns. Redemptions at the time of merger can crimp the combined company's cash position. Sponsor dilution (their shares often come with superior economics) reduces public shareholder pro-rata ownership. The private company's founders often negotiate heavily to retain control or influence post-merger.
 

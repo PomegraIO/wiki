@@ -56,7 +56,7 @@ Gossamer's risk profile improves if it has multiple programs with independent va
 
 ## Partnering and Non-Dilutive Capital
 
-Larger pharmaceutical firms sometimes partner with biotech companies, paying upfront fees and milestone payments (cash upon achieving trial milestones) in exchange for revenue sharing or commercialization rights on successful drugs. These partnerships are "non-dilutive" capital—they provide cash without issuing new equity—and extend runway while derisk the company. A strong partnership with Roche or Merck can signal to the market that Gossamer's science is credible, making future capital raises easier.
+Larger pharmaceutical firms sometimes partner with biotech companies, paying upfront fees and milestone payments (cash upon achieving trial milestones) in exchange for revenue sharing or commercialization rights on successful drugs. These partnerships are "non-dilutive" capital—they provide cash without issuing new equity—and extend runway while derisk the company. A strong partnership with Roche or [Merck](/mrk-stock/) can signal to the market that Gossamer's science is credible, making future capital raises easier.
 
 Such partnerships often come with milestone obligations: if Gossamer reaches a certain trial goal, it receives cash; if it fails, it owes the partner money or loses exclusive rights. This aligns incentives but creates [contingent liability](/contingent-liability/).
 

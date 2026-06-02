@@ -29,7 +29,7 @@ PyroGenesis Canada is a technology-driven materials company whose core business 
 
 PyroGenesis' flagship business is designing and constructing plasma gasification plants that turn waste — municipal solid waste, hazardous sludge, medical waste, contaminated soil — into either energy or recoverable materials. A plasma torch operates at temperatures of thousands of degrees, hot enough to break down organic matter into syngas (a mixture of carbon monoxide and hydrogen that can fuel engines or be sold for chemicals) and an inert slag residue that can be used as fill or aggregate. The advantage over incineration is that plasma gasification requires no combustion air, produces minimal air emissions, and leaves behind a stable, glassy slag rather than ash.
 
-The company does not typically build and own these plants; instead, it engineers and manufactures the plasma torch systems and provides technical support for integration into larger waste processing facilities. This is capital-light relative to operating a fleet of plants. The revenue comes from equipment sales, engineering fees, and ongoing licensing [or royalties](/or-stock/) from plants in operation.
+The company does not typically build and own these plants; instead, it engineers and manufactures the plasma torch systems and provides technical support for integration into larger waste processing facilities. This is capital-light relative to operating a fleet of plants. The revenue comes from equipment sales, engineering fees, and ongoing licensing or royalties from plants in operation.
 
 ## Metal powder and additive manufacturing
 
@@ -43,7 +43,7 @@ A third segment applies plasma gasification to environmental cleanup — deconta
 
 PyroGenesis is fundamentally a technology and engineering company, not an operator. It licenses its plasma torch designs, sells proprietary equipment, and provides engineering services to help customers integrate systems into their operations. Some revenue comes from production of replacement torches and spare parts for plants already in the field. The company also pursues strategic partnerships and joint ventures with larger industrial firms or waste-management companies that have the capital and customer relationships to scale deployment.
 
-This model has advantages and constraints. On the upside, PyroGenesis does not have to raise capital to build and operate a fleet of plants, which would be enormously capital-intensive. On the downside, the company is dependent on customers' willingness and ability to invest in new technology and on the pace of commercial adoption, which is often slow in [waste management](/wm-stock/) and industrial sectors. A large customer that commits to a multi-unit deployment can transform results; a delayed project or cancellation can create a lean quarter.
+This model has advantages and constraints. On the upside, PyroGenesis does not have to raise capital to build and operate a fleet of plants, which would be enormously capital-intensive. On the downside, the company is dependent on customers' willingness and ability to invest in new technology and on the pace of commercial adoption, which is often slow in waste management and industrial sectors. A large customer that commits to a multi-unit deployment can transform results; a delayed project or cancellation can create a lean quarter.
 
 ## Capital intensity and development-stage risks
 

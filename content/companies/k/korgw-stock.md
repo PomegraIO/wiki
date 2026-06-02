@@ -32,7 +32,7 @@ The customer base skews toward large enterprises — companies running distribut
 
 ## Competition and disruption
 
-The IoT connectivity layer is competitive. Larger telecom carriers (like Verizon, AT&T, Deutsche Telekom) operate their own IoT platforms and can offer direct connectivity with integrated management. They have scale, brand, and distribution advantages. Smaller, pure-play connectivity and IoT platform companies compete with KORE on specificity and agility. The competitive pressure is real, but KORE's advantage is that it offers a carrier-agnostic platform — customers are not locked into one telecom's ecosystem, which is a meaningful point of differentiation.
+The IoT connectivity layer is competitive. Larger telecom carriers (like Verizon, AT&T, [Deutsche Telekom](/dtegy-stock/)) operate their own IoT platforms and can offer direct connectivity with integrated management. They have scale, brand, and distribution advantages. Smaller, pure-play connectivity and IoT platform companies compete with KORE on specificity and agility. The competitive pressure is real, but KORE's advantage is that it offers a carrier-agnostic platform — customers are not locked into one telecom's ecosystem, which is a meaningful point of differentiation.
 
 The risk is that large carriers could choose to compete more aggressively, either by improving their own IoT platforms or by acquiring smaller competitors. If carriers commoditize IoT platform software, pricing pressure increases and KORE's margins compress. The company's durability depends on staying valuable enough that customers prefer the independent platform to being locked into a single carrier.
 

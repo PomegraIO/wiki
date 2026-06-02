@@ -13,7 +13,7 @@ handwritten: true
 
 ## What is IonQ, and why does it exist?
 
-IonQ is a [quantum computing](/qubt-stock/) company founded in 2015 and based in College Park, Maryland. The firm builds quantum computers using a technology called trapped ions — individual atoms held in place by electromagnetic fields and manipulated with lasers to perform quantum calculations. Unlike some rivals that pursue superconducting qubits or photonic approaches, IonQ's trapped-ion systems are designed to achieve high fidelity (accuracy) in quantum operations, a critical ingredient in solving real problems with quantum computers. The company sells access to its hardware through cloud interfaces and partnerships with cloud providers, positioning itself as a pure-play hardware vendor in a field still largely composed of experimental research projects.
+IonQ is a quantum computing company founded in 2015 and based in College Park, Maryland. The firm builds quantum computers using a technology called trapped ions — individual atoms held in place by electromagnetic fields and manipulated with lasers to perform quantum calculations. Unlike some rivals that pursue superconducting qubits or photonic approaches, IonQ's trapped-ion systems are designed to achieve high fidelity (accuracy) in quantum operations, a critical ingredient in solving real problems with quantum computers. The company sells access to its hardware through cloud interfaces and partnerships with cloud providers, positioning itself as a pure-play hardware vendor in a field still largely composed of experimental research projects.
 
 ## How does trapped-ion quantum computing work?
 

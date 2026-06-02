@@ -41,7 +41,7 @@ Plastic Omnium's revenue comes from three main categories:
 
 **Fuel Systems**: fuel tanks, fuel caps, and related fuel-delivery components. Fuel systems are a mature, stable business; volumes are predictable, and the technology is well understood. Margins are stable but not expanding. However, as automotive powertrains transition from gasoline to electric, the fuel system business will decline—an electric vehicle has no fuel tank. Plastic Omnium has acknowledged this reality and is investing in battery systems and other electric-vehicle-specific modules to offset the decline.
 
-**Other Systems**: miscellaneous components and services that have been added through acquisitions and internal development.
+**Other Systems**: miscellaneous components and services that have been added through [acquisitions](/acquisition/) and internal development.
 
 The revenue from each segment depends on how many vehicles are produced globally and what fraction of those vehicles incorporate Plastic Omnium components. A global automotive slowdown directly reduces demand; a shift in powertrain technology (combustion to electric) changes the mix of products customers need.
 
@@ -49,7 +49,7 @@ The revenue from each segment depends on how many vehicles are produced globally
 
 Plastic Omnium's gross margin on each unit sold is determined by the manufacturing cost and the contracted price. For a high-volume commodity component like a fuel tank, the margin might be 15 to 25 percent. For a lower-volume, more integrated smart module, the margin might be 30 to 40 percent. Gross margin across the whole company is a weighted average of these product-level margins and reflects the product mix Plastic Omnium is selling into.
 
-Operating margin—profit after overhead, R&D, and selling costs—depends on the company's ability to spread fixed costs across a large revenue base. A supplier with 500 million euros in annual revenue and 50 million euros in fixed overhead has an overhead burden of 10 percent of revenue; a supplier with 5 billion euros in revenue and the same fixed overhead has a burden of 1 percent. This means larger suppliers have inherent cost advantages, which is why consolidation in automotive supply is ongoing—larger players can win business on price and still maintain healthy margins, putting pressure on smaller, regional suppliers.
+[Operating margin](/operating-margin/)—profit after overhead, R&D, and selling costs—depends on the company's ability to spread fixed costs across a large revenue base. A supplier with 500 million euros in annual revenue and 50 million euros in fixed overhead has an overhead burden of 10 percent of revenue; a supplier with 5 billion euros in revenue and the same fixed overhead has a burden of 1 percent. This means larger suppliers have inherent cost advantages, which is why consolidation in automotive supply is ongoing—larger players can win business on price and still maintain healthy margins, putting pressure on smaller, regional suppliers.
 
 Plastic Omnium benefits from scale, but it is not among the absolute largest suppliers (companies like Bosch, Denso, and ZF Friedrichshafen are larger). The company occupies a middle-tier position, large enough to serve major customers but specialized enough in plastics and systems integration to maintain distinct expertise.
 
@@ -65,7 +65,7 @@ The risk is that larger suppliers (or new entrants) might capture more of this e
 
 ## Capital intensity and financial structure
 
-Automotive supply is capital-intensive. Plastic Omnium must invest in manufacturing plants, tooling for each vehicle platform it serves, and R&D to develop new products. The company is profitable and generates cash from operations, which it reinvests in new capacity and paid out as dividends. The company's balance sheet is stronger than many smaller suppliers, which gives it financial flexibility.
+Automotive supply is capital-intensive. Plastic Omnium must invest in manufacturing plants, tooling for each vehicle platform it serves, and R&D to develop new products. The company is profitable and generates cash from operations, which it reinvests in new capacity and paid out as [dividends](/dividend/). The company's [balance sheet](/balance-sheet/) is stronger than many smaller suppliers, which gives it financial flexibility.
 
 However, the capital requirements are continuous. Every time a new vehicle platform launches, Plastic Omnium must invest in new tooling and production capacity. If volumes disappoint—the vehicle sells less well than expected—the company has invested capital that is now underutilized. This is a structural risk in automotive supply that Plastic Omnium must navigate.
 

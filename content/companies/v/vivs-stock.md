@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-VivoSim Labs, Inc. (Nasdaq: VIVS) emerged from stealth mode in April 2025 with a mission to displace animal testing in pharmaceutical and chemical safety assessment. The company develops and commercializes human cell-derived in vitro models—three-dimensional organoid systems and engineered tissue constructs—that replicate human organ function and allow pharmaceutical companies and chemical manufacturers to assess toxicity, safety, and pharmacokinetics without conducting animal studies. The company's core product is NAMkind, a suite of three-dimensional human liver and intestine organoid models made from donor cells, paired with expert toxicology analysis and interpretation services.
+VivoSim Labs, Inc. ([Nasdaq](/nasdaq/): VIVS) emerged from stealth mode in April 2025 with a mission to displace animal testing in pharmaceutical and chemical safety assessment. The company develops and commercializes human cell-derived in vitro models—three-dimensional organoid systems and engineered tissue constructs—that replicate human organ function and allow pharmaceutical companies and chemical manufacturers to assess toxicity, safety, and pharmacokinetics without conducting animal studies. The company's core product is NAMkind, a suite of three-dimensional human liver and intestine organoid models made from donor cells, paired with expert toxicology analysis and interpretation services.
 
 ## How VivoSim makes money: the service-plus-products model
 
@@ -39,7 +39,7 @@ The technical challenge is scale and standardization. Growing human organoids is
 
 ## The competitive landscape
 
-VivoSim is not alone in the organoid and in vitro testing space. Competitors include Emulate, which develops a "human-on-a-chip" platform using microfluidic devices and 3D tissue constructs; Hurel Corporation, acquired by Xenotech (now part of Charles River Laboratories); and Lygenesis, which develops bioengineered organs for transplant and research. There are also smaller academic spin-offs and contract research organizations (CROs) experimenting with various in vitro and organoid approaches.
+VivoSim is not alone in the organoid and in vitro testing space. Competitors include Emulate, which develops a "human-on-a-chip" platform using microfluidic devices and 3D tissue constructs; Hurel Corporation, acquired by Xenotech (now part of Charles River Laboratories); and Lygenesis, which develops bioengineered organs for transplant and research. There are also smaller academic [spin-offs](/spin-off/) and contract research organizations (CROs) experimenting with various in vitro and organoid approaches.
 
 VivoSim's differentiation is its focus on human cells and donor diversity, the expert toxicology interpretation service, and its positioning specifically for preclinical safety assessment rather than broader tissue engineering. The company emerged from stealth with both a product (the organoid models) and a service practice (expert analysis), which is a differentiated entry point compared to competitors who focus primarily on technology licensing or pure product sales.
 
@@ -49,7 +49,7 @@ The larger context is that animal testing is not disappearing—regulatory appro
 
 VivoSim needs to establish itself as a validated, trusted tool in preclinical safety assessment. This requires expanding the customer base, proving the organoid models match or exceed the predictive power of animal studies, and building brand recognition among pharmaceutical researchers and safety-assessment professionals. Initial revenue has come from early-adopter pharma companies, academic partnerships, and potentially government or nonprofit grants supporting alternatives to animal testing.
 
-Achieving profitability at scale requires either high per-unit pricing on organoid models sold to pharma companies building internal testing capability, or large contract values from service delivery—or both. The company's operating margins depend on the manufacturing cost of organoids (including the human cells, growth factors, and equipment), the expert labor required for analysis and interpretation, and the prices customers will pay. If VivoSim can establish organoids as a standard preclinical tool, it can command premium pricing; if organoids remain a specialty niche, margins will compress.
+Achieving profitability at scale requires either high per-unit pricing on organoid models sold to pharma companies building internal testing capability, or large contract values from service delivery—or both. The company's [operating margins](/operating-margin/) depend on the manufacturing cost of organoids (including the human cells, growth factors, and equipment), the expert labor required for analysis and interpretation, and the prices customers will pay. If VivoSim can establish organoids as a standard preclinical tool, it can command premium pricing; if organoids remain a specialty niche, margins will compress.
 
 Long-term growth also depends on expanding the organoid product line beyond liver and intestine. Different drugs have different toxicity mechanisms, and testing all compounds against a diverse set of tissue models (kidney, heart, nervous system) would increase the total testing spend per customer and improve the predictive value. This expansion requires ongoing R&D investment.
 

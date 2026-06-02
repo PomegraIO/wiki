@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Zivo Bioscience operates in the space where microbiology meets industrial fermentation. The company develops and manufactures biological products derived from cultivating specific microorganisms — principally a strain of spirulina algae — and converting their growth into useful compounds for the food, nutrition, and industrial sectors. The firm is a small-cap player in a niche corner of biotechnology, trading over the counter (OTC) under the ticker ZIVOW.
+[Zivo Bioscience](/zivo-stock/) operates in the space where microbiology meets industrial fermentation. The company develops and manufactures biological products derived from cultivating specific microorganisms — principally a strain of spirulina algae — and converting their growth into useful compounds for the food, nutrition, and industrial sectors. The firm is a small-cap player in a niche corner of biotechnology, trading over the counter (OTC) under the ticker ZIVOW.
 
 <aside class="wiki-infobox">
 <table>
@@ -49,7 +49,7 @@ The clinical and regulatory pathway is opaque at this scale. Unlike larger biote
 
 Zivo sits firmly in the microcap and speculative corner of biotech. The company faces a binary question: do fermentation-derived spirulina ingredients become a material market, or do they remain a niche product for specialized applications? If the former, Zivo's early position and proprietary strains could become valuable. If the latter, the company remains small and cash-constrained.
 
-The technical risks are real: fermentation at scale is not trivial, contamination is an ever-present threat, and customer qualification timelines are long. The company also faces funding risk — if it cannot raise capital to scale production or invest in product development, growth stalls or the company seeks acquisition or merger on unfavorable terms.
+The technical risks are real: fermentation at scale is not trivial, contamination is an ever-present threat, and customer qualification timelines are long. The company also faces funding risk — if it cannot raise capital to scale production or invest in product development, growth stalls or the company seeks [acquisition](/acquisition/) or [merger](/merger/) on unfavorable terms.
 
 ## Tracking the story
 

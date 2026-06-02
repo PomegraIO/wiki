@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Anbio Biotechnology Co., Ltd., trading on the [NASDAQ](/nasdaq/) under the ticker NNNN, is a Chinese biopharmaceutical company that develops and manufactures biosimilar versions of monoclonal antibody drugs. Monoclonal antibodies are engineered proteins used to treat serious diseases like cancer, rheumatoid arthritis, and inflammatory conditions. The originator drugs — made by companies like Roche, Merck, and [Amgen](/amgn-stock/) — are expensive, protected by patents, and sold globally. Anbio's business model is to develop lower-cost biosimilar alternatives and sell them primarily within China, where healthcare systems are cost-sensitive and where patent protection for these drugs is limited or absent.
+Anbio Biotechnology Co., Ltd., trading on the [NASDAQ](/nasdaq/) under the ticker NNNN, is a Chinese biopharmaceutical company that develops and manufactures biosimilar versions of monoclonal antibody drugs. Monoclonal antibodies are engineered proteins used to treat serious diseases like cancer, rheumatoid arthritis, and inflammatory conditions. The originator drugs — made by companies like Roche, [Merck](/mrk-stock/), and [Amgen](/amgn-stock/) — are expensive, protected by patents, and sold globally. Anbio's business model is to develop lower-cost biosimilar alternatives and sell them primarily within China, where healthcare systems are cost-sensitive and where patent protection for these drugs is limited or absent.
 
 <aside class="wiki-infobox">
 <table>

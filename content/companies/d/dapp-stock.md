@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-The VanEck Digital Transformation ETF (NASDAQ: DAPP) gives investors exposure to a thematic idea rather than a traditional industry or asset class. VanEck selected a collection of companies that it believes are driving the shift toward digital ways of working and doing business — from cloud platforms and security software to semiconductors that power data centres and payment networks that move money electronically. The fund is less a precise index and more a curated portfolio reflecting a bet on which companies matter most to the ongoing digital economy.
+The VanEck Digital Transformation ETF ([NASDAQ](/nasdaq/): DAPP) gives investors exposure to a thematic idea rather than a traditional industry or asset class. VanEck selected a collection of companies that it believes are driving the shift toward digital ways of working and doing business — from cloud platforms and security software to semiconductors that power data centres and payment networks that move money electronically. The fund is less a precise index and more a curated portfolio reflecting a bet on which companies matter most to the ongoing digital economy.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,21 +35,21 @@ The portfolio spans geographies. Some holdings are U.S. household names — clou
 
 ## How the index is constructed
 
-VanEck does not hand-pick individual stocks as a mutual fund manager might. Instead, the fund tracks a proprietary index methodology that identifies and weights companies based on their exposure to digital transformation. The process begins with a broad universe of listed stocks and applies screens: Does the company's revenue depend on digital technologies? Is it a direct beneficiary of the shift to cloud, mobile, or digital payments? Does it sell infrastructure that enables others to go digital?
+VanEck does not hand-pick individual stocks as a [mutual fund](/mutual-fund/) manager might. Instead, the fund tracks a proprietary index methodology that identifies and weights companies based on their exposure to digital transformation. The process begins with a broad universe of listed stocks and applies screens: Does the company's revenue depend on digital technologies? Is it a direct beneficiary of the shift to cloud, mobile, or digital payments? Does it sell infrastructure that enables others to go digital?
 
-Companies that meet the criteria are then weighted based on factors such as market capitalization and trading volume. The result is a portfolio that is market-cap-weighted within the digital-transformation universe rather than equally weighted or optimized by some other formula. This means that the largest companies — the ones with the biggest market values — carry the largest influence on the fund's returns. A significant portion of assets is often concentrated in dominant cloud platforms and semiconductor manufacturers.
+Companies that meet the criteria are then weighted based on factors such as [market capitalization](/market-capitalization/) and trading volume. The result is a portfolio that is market-cap-weighted within the digital-transformation universe rather than equally weighted or optimized by some other formula. This means that the largest companies — the ones with the biggest market values — carry the largest influence on the fund's returns. A significant portion of assets is often concentrated in dominant cloud platforms and semiconductor manufacturers.
 
 ## Performance drivers and sector tilts
 
 DAPP's returns are heavily influenced by technology stock performance, since software companies and semiconductors are the core holdings. When growth stocks are in favour and investors are willing to pay steep multiples for companies promising rapid revenue growth, DAPP can shine. When the market rotates into value, or when interest-rate expectations shift and long-duration growth stocks fall out of favour, DAPP can underperform the broader market.
 
-The inclusion of international stocks and non-tech digital enablers does provide some diversification away from pure software and semiconductors. A manufacturer that supplies automation or data-centre equipment in Germany, or a Japanese semiconductor supplier, brings a different geographic and operational profile than a U.S. cloud company. But the fundamental bet remains on the secular trend of digitization and the companies profiting from it.
+The inclusion of international stocks and non-tech digital enablers does provide some [diversification](/diversification/) away from pure software and semiconductors. A manufacturer that supplies automation or data-centre equipment in Germany, or a Japanese semiconductor supplier, brings a different geographic and operational profile than a U.S. cloud company. But the fundamental bet remains on the secular trend of digitization and the companies profiting from it.
 
 ## Risks
 
 The fund is concentrated in growth and technology themes. This concentration means strong performance in years when those sectors lead, but weak performance when they stumble. Regulatory risk is present too: scrutiny of large technology companies, data privacy rules, and antitrust investigations have disrupted the sector in recent years and may continue to do so.
 
-Individual holdings face company-specific risks — a major security breach at a software company, a missed product cycle for a semiconductor maker, or unforeseen competition can hurt valuations. Because DAPP holds global companies, it carries currency risk; a strengthening dollar can reduce the value of foreign holdings when converted back to dollars, regardless of how those companies actually perform.
+Individual holdings face company-specific risks — a major security breach at a software company, a missed product cycle for a semiconductor maker, or unforeseen competition can hurt valuations. Because DAPP holds global companies, it carries [currency risk](/currency-risk/); a strengthening dollar can reduce the value of foreign holdings when converted back to dollars, regardless of how those companies actually perform.
 
 The forward-looking nature of the theme also creates timing risk. If the market has already priced in decades of digital transformation as a given, incremental progress may not drive stock returns. If the market suddenly becomes pessimistic about technology spending and digitization, all holdings can suffer together.
 
@@ -57,7 +57,7 @@ The forward-looking nature of the theme also creates timing risk. If the market 
 
 DAPP is popular with growth-oriented investors who believe that digital transformation is a durable, multi-decade trend and want core exposure without picking individual companies. It appeals to investors who want technology exposure but prefer thematic focus over a pure tech-sector index. Some advisers use it as a core holding in growth-focused portfolios; others use it as a satellite position to add a specific technology tilt.
 
-It is less suitable for conservative or income-focused investors. The fund does not typically pay meaningful dividends, and short-term volatility can be pronounced. It is also less appropriate for investors who are uncomfortable with concentration in technology, or who believe the digital transformation story is already fully priced in.
+It is less suitable for conservative or income-focused investors. The fund does not typically pay meaningful [dividends](/dividend/), and short-term volatility can be pronounced. It is also less appropriate for investors who are uncomfortable with concentration in technology, or who believe the digital transformation story is already fully priced in.
 
 ## Researching DAPP
 

@@ -31,7 +31,7 @@ This observation captures the competitive pressure that shapes Bank of Montreal'
 
 ## The core retail banking business
 
-Bank of Montreal makes most of its money the way commercial banks have for centuries: taking deposits from individuals and businesses, lending that money out at higher interest rates, and capturing the spread. When interest rates rise, these spreads widen and bank profitability typically improves. When rates fall, spreads compress and profits shrink. This fundamental dynamic has governed BMO's earnings for two hundred years and continues to do so today.
+Bank of Montreal makes most of its money the way commercial banks have for centuries: taking deposits from individuals and businesses, lending that money out at higher [interest rates](/interest-rate/), and capturing the spread. When interest rates rise, these spreads widen and bank profitability typically improves. When rates fall, spreads compress and profits shrink. This fundamental dynamic has governed BMO's earnings for two hundred years and continues to do so today.
 
 The personal banking segment serves individual customers, offering chequing and savings accounts, mortgages, credit cards, and consumer loans. Branches and digital banking channels distribute these products. For a customer opening a bank account or seeking a mortgage, BMO competes directly against the other major Canadian banks, against regional players, and against non-bank lenders. Mortgages are particularly important because they lock in customers for years and generate stable interest margin.
 
@@ -41,19 +41,19 @@ Commercial banking serves small and mid-sized businesses. These clients need loa
 
 Bank of Montreal also operates a significant wealth and asset management division that serves high-net-worth individuals and institutional clients. This business includes investment advisory, portfolio management, and estate planning services. Its revenue comes partly from advisory fees based on assets under management and partly from the interest margins on loans to affluent customers. Wealthy clients tend to be stickier than retail depositors because switching financial advisors means disrupting a long-standing relationship.
 
-Investment banking and corporate finance represent another revenue stream — advising companies on mergers, acquisitions, and capital raising; underwriting new securities; and serving as a market-maker in debt and equity. These services generate significant fee income when there is active dealmaking and capital-markets activity.
+Investment banking and corporate finance represent another revenue stream — advising companies on [mergers](/merger/), [acquisitions](/acquisition/), and capital raising; underwriting new securities; and serving as a market-maker in debt and equity. These services generate significant fee income when there is active dealmaking and capital-markets activity.
 
 ## Exposure to interest rates and the credit cycle
 
-BMO's profitability is heavily influenced by two macro factors that the bank cannot control. First is the level and shape of interest rates set by central banks. Higher rates typically expand net-interest margins — the gap between what the bank earns on loans and what it pays on deposits — which boosts profits. Second is the health of the economic cycle. During recessions, borrowers default more often, forcing banks to set aside larger loan-loss provisions and reducing reported earnings.
+BMO's profitability is heavily influenced by two macro factors that the bank cannot control. First is the level and shape of interest rates set by [central banks](/central-bank/). Higher rates typically expand net-interest margins — the gap between what the bank earns on loans and what it pays on deposits — which boosts profits. Second is the health of the economic cycle. During [recessions](/recession/), borrowers default more often, forcing banks to set aside larger loan-loss provisions and reducing reported earnings.
 
-Canada's economy, being export-dependent and resource-rich, is sensitive to global commodity prices and the health of the United States economy. A slowdown in either dents the creditworthiness of BMO's customer base. A sharp housing-market downturn would be particularly painful because mortgages are the largest asset on the bank's balance sheet. Conversely, a period of stable growth and rising rates is precisely what bank investors hope for.
+Canada's economy, being export-dependent and resource-rich, is sensitive to global commodity prices and the health of the United States economy. A slowdown in either dents the creditworthiness of BMO's customer base. A sharp housing-market downturn would be particularly painful because mortgages are the largest asset on the bank's [balance sheet](/balance-sheet/). Conversely, a period of stable growth and rising rates is precisely what bank investors hope for.
 
 ## Capital, regulation, and shareholder returns
 
 Like all banks, BMO operates under strict regulatory capital requirements. The bank must hold a minimum level of capital relative to its risk-weighted assets to protect depositors and the financial system in case of stress. These capital rules limit how much the bank can lend or how much profit it can return to shareholders relative to its equity base.
 
-The capital constraint also shapes strategy. BMO cannot simply reinvest all its profits into growth; instead, it must return excess capital through dividends or share buybacks. For decades, BMO has paid a dividend, making it attractive to income-focused investors. The sustainability of that dividend depends on the bank's ability to generate consistent earnings.
+The capital constraint also shapes strategy. BMO cannot simply reinvest all its profits into growth; instead, it must return excess capital through [dividends](/dividend/) or [share buybacks](/share-buyback/). For decades, BMO has paid a dividend, making it attractive to income-focused investors. The sustainability of that dividend depends on the bank's ability to generate consistent earnings.
 
 ## Competition from fintechs and direct banks
 

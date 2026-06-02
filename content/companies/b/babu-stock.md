@@ -17,7 +17,7 @@ BABU is a leveraged exchange-traded fund issued by Direxion, a sponsor specializ
 
 How does the leverage work?
 
-BABU does not own Alibaba shares. Instead, Direxion uses derivatives — primarily equity swaps and index futures — to construct a position that doubles Alibaba's daily move. If BABA rises 1% during a trading day, BABU aims to rise approximately 2%. If BABA falls 2%, BABU aims to fall 4%. Each morning before the market opens, Direxion rebalances these derivative positions to reset the fund's leverage to exactly 2x.
+BABU does not own Alibaba shares. Instead, Direxion uses derivatives — primarily [equity swaps](/equity-swap/) and index futures — to construct a position that doubles Alibaba's daily move. If BABA rises 1% during a trading day, BABU aims to rise approximately 2%. If BABA falls 2%, BABU aims to fall 4%. Each morning before the market opens, Direxion rebalances these derivative positions to reset the fund's leverage to exactly 2x.
 
 This daily reset is the fund's core feature. It allows a trader to hold the fund through a single trading session and receive reliable 2x leverage. But it is also the fund's core risk. Beyond one day, the daily reset mechanism and volatility decay will erode your position.
 
@@ -25,9 +25,9 @@ What are the real risks?
 
 Volatility decay is the first and most important risk. Suppose Alibaba moves up 1% on Monday and down 1% on Tuesday, ending flat. A holder of BABA shares breaks even. But BABU, reset to 2x each day, gains 2% on Monday and loses 4% on Tuesday (2x the -2% decline when the fund begins Tuesday up 2%). Net result: a loss of roughly 2% even though the underlying stock went nowhere. That decay accelerates in volatile markets. Over weeks or months, volatility decay becomes catastrophic.
 
-Single-stock concentration is the second major risk. BABU holds no diversification. All the risk is Alibaba. If the company faces regulatory headwinds, faces competition, or delivers disappointing earnings, the stock will fall sharply and BABU will fall twice as sharply. Leverage magnifies both upside and downside without discrimination.
+Single-stock concentration is the second major risk. BABU holds no [diversification](/diversification/). All the risk is Alibaba. If the company faces regulatory headwinds, faces competition, or delivers disappointing earnings, the stock will fall sharply and BABU will fall twice as sharply. Leverage magnifies both upside and downside without discrimination.
 
-Geopolitical and regulatory risk is the third. Alibaba operates in mainland China and is subject to Chinese government regulation. Changes in Chinese policy toward tech companies, cross-border capital flows, or internet commerce can affect the stock without warning. A U.S.-China trade tension or a Chinese regulatory action against Alibaba could trigger a sharp move that hits a leveraged holder especially hard. Many investors avoid Chinese equities or use them only with positions they can afford to lose entirely.
+Geopolitical and regulatory risk is the third. Alibaba operates in mainland China and is subject to Chinese government regulation. Changes in Chinese policy toward tech companies, cross-border [capital flows](/capital-flows/), or internet commerce can affect the stock without warning. A U.S.-China trade tension or a Chinese regulatory action against Alibaba could trigger a sharp move that hits a leveraged holder especially hard. Many investors avoid Chinese equities or use them only with positions they can afford to lose entirely.
 
 Who should trade BABU and how?
 
@@ -43,7 +43,7 @@ BABU is not suitable for:
 
 How do you research it?
 
-Start with Direxion's prospectus and fact sheet, which explain the daily reset mechanism, the derivatives used to create the leverage, and the fund's expense ratio (typically 0.95% to 1.20% annually). Understanding those mechanics is non-negotiable before opening a position.
+Start with Direxion's prospectus and fact sheet, which explain the daily reset mechanism, the derivatives used to create the leverage, and the fund's [expense ratio](/expense-ratio/) (typically 0.95% to 1.20% annually). Understanding those mechanics is non-negotiable before opening a position.
 
 For Alibaba, consult the company's annual 20-F filing (the Chinese equivalent of the U.S. 10-K) and quarterly earnings calls. Pay attention to the growth of Alibaba's cloud business, the health of its e-commerce segments, margins, and any commentary on Chinese regulatory headwinds. News about Alibaba's relationship with the Chinese government is especially important for understanding the stock's volatility.
 

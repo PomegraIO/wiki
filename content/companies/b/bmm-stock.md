@@ -68,7 +68,7 @@ Mining firms with strong cash generation often return cash to shareholders via [
 
 The critical question is whether management invests cash wisely—developing new mines with good economics, or chasing projects that destroy value. A mine that costs $1 billion to develop and will never generate cash is a disaster. One that costs $500 million and will run profitably for 20 years is a gem.
 
-Blue Moon must balance growth (investing in new capacity) against cash return (paying dividends, buying stock). Growth can be wasteful if the projects are poor. Cash return is attractive only if the company has no good investment opportunities.
+Blue Moon must balance [growth (investing](/growth-investing/) in new capacity) against cash return (paying dividends, buying stock). Growth can be wasteful if the projects are poor. Cash return is attractive only if the company has no good investment opportunities.
 
 ## Commodity Price Hedging
 

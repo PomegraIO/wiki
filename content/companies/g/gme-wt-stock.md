@@ -15,7 +15,7 @@ GameStop operates as a video-game retailer and entertainment merchandise company
 
 ## The core product and its decline
 
-For decades, the video-game retail business was straightforward. New games came on physical media — cartridges, discs, and later Blu-ray — and consumers bought them at specialty retailers like GameStop, or at mass-market stores like Best Buy and Walmart. GameStop became the dominant pure-play in this space by concentrating inventory around hardcore gamers and making the store itself a social hub. It also built a profitable side business in pre-owned games, where the company would buy used games from customers at a low price and resell them at a higher price, pocketing the spread. For years, this business was extraordinarily profitable — GameStop could mark up pre-owned games by hundreds of percent, and the inventory moved quickly.
+For decades, the video-game retail business was straightforward. New games came on physical media — cartridges, discs, and later Blu-ray — and consumers bought them at specialty retailers like GameStop, or at mass-market stores like [Best Buy](/bby-stock/) and [Walmart](/wmt-stock/). GameStop became the dominant pure-play in this space by concentrating inventory around hardcore gamers and making the store itself a social hub. It also built a profitable side business in pre-owned games, where the company would buy used games from customers at a low price and resell them at a higher price, pocketing the spread. For years, this business was extraordinarily profitable — GameStop could mark up pre-owned games by hundreds of percent, and the inventory moved quickly.
 
 But the underlying category has contracted sharply. Digital distribution — the ability to download a game directly to a console or PC without a physical disc — has become the dominant way consumers acquire games. AAA titles like Fortnite, Valorant, and Call of Duty sell mostly as digital downloads. Indie games often release exclusively digital. Even physical releases are increasingly supplemented with digital-only content and bonus material that push consumers toward the digital storefront. The COVID-19 pandemic accelerated this shift as consumers bought more games at home. The result is that GameStop's core inventory — physical games — has declined as a percentage of total gaming software sales.
 
@@ -29,7 +29,7 @@ Trade-in and pre-owned sales remain a revenue driver, though the margin on pre-o
 
 ## The competitive landscape
 
-GameStop's primary competitors are not other specialty retailers (the category has collapsed) but rather the alternative channels through which consumers buy games. Publishers like Electronic Arts and Take-Two Interactive increasingly encourage direct sales through their own digital platforms and through the digital storefronts of platform holders — Sony's PlayStation Store, Microsoft's Xbox Game Pass subscription service, Nintendo's eShop, and Steam on PC. These channels capture the entire margin that used to be split between the publisher and the retailer.
+GameStop's primary competitors are not other specialty retailers (the category has collapsed) but rather the alternative channels through which consumers buy games. Publishers like [Electronic Arts](/ea-stock/) and Take-Two Interactive increasingly encourage direct sales through their own digital platforms and through the digital storefronts of platform holders — Sony's PlayStation Store, Microsoft's Xbox Game Pass subscription service, Nintendo's eShop, and Steam on PC. These channels capture the entire margin that used to be split between the publisher and the retailer.
 
 The second set of competitors is general retailers like Best Buy and Walmart, which stock popular hardware and games as a small fraction of their broader assortment. These competitors are not invested in gaming the way GameStop is, but they benefit from high foot traffic for other reasons and can use gaming as a traffic driver or loss leader.
 
@@ -43,7 +43,7 @@ GameStop has attempted to pivot away from games alone. The company has expanded 
 
 The company has also invested in e-commerce and marketplace models, allowing third-party sellers to list inventory on the GameStop platform. This is an attempt to broaden the assortment without owning all the inventory directly, a more capital-light model than traditional retail.
 
-These efforts represent a genuine transformation of the business model, but they do not change the fundamental headwind: the core business of retailing physical games is declining, and no amount of diversification fully offsets that loss.
+These efforts represent a genuine transformation of the business model, but they do not change the fundamental headwind: the core business of retailing physical games is declining, and no amount of [diversification](/diversification/) fully offsets that loss.
 
 ## Capital structure and profitability
 

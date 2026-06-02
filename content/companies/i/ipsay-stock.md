@@ -60,7 +60,7 @@ The company also discloses debt levels and cash generation. Research spending gr
 <div class="wiki-seealso">
 ### Closely related
 - [IPSI HOLDINGS](/ipsi-stock/)
-- [IMPACT ANALYTICS](/iptnd-stock/)
+- IMPACT ANALYTICS
 
 ### Wider context
 - [Public Company](/public-company/)

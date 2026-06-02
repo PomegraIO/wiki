@@ -30,7 +30,7 @@ SKY GOLD CORP (trading under symbol SRKZF on OTC markets; SKYG on TSX Venture) i
 
 SKY GOLD emerged in 2019 from the dissolution of Sunvest Minerals with a focused mandate: find world-class metal deposits in underexplored or neglected areas. This is the core game of junior exploration — identify geologically promising ground, conduct initial surveys and sampling, and drill to test whether deposits exist. Success means discovery; failure is the far more common path. The company's strategy hinges on geological intuition, access to ground, and capital to fund drilling programs.
 
-The Evening Star project in Mineral County, Nevada, became the company's flagship asset. Mineral County sits within the Walker Lane, a mineral-rich structural trend that has historically produced gold, copper, and silver. The property comprises 73 unpatented mineral claims totalling approximately 1,450 acres in the Hawthorne district. Historical mining and prospecting in the area documented multiple styles of mineralisation on the ground, suggesting the property was under-explored relative to its potential.
+The [Evening Star](/evening-star/) project in Mineral County, Nevada, became the company's flagship asset. Mineral County sits within the Walker Lane, a mineral-rich structural trend that has historically produced gold, copper, and silver. The property comprises 73 unpatented mineral claims totalling approximately 1,450 acres in the Hawthorne district. Historical mining and prospecting in the area documented multiple styles of mineralisation on the ground, suggesting the property was under-explored relative to its potential.
 
 ## The Evening Star mineralisation styles
 

@@ -36,7 +36,7 @@ The company established partnerships with academic laboratories and research ins
 
 ## Transition to clinical development
 
-By the early 2010s, PureTech had assembled a pipeline of experimental compounds and entered clinical development. The company listed on the London Stock Exchange in 2015, raising capital to support clinical trials and expand operations. The London listing, rather than a U.S. Nasdaq debut, was notable; it reflected the company's European partnerships and its strategy to tap institutional investors across multiple markets.
+By the early 2010s, PureTech had assembled a pipeline of experimental compounds and entered clinical development. The company listed on the [London Stock Exchange](/london-stock-exchange/) in 2015, raising capital to support clinical trials and expand operations. The London listing, rather than a U.S. [Nasdaq](/nasdaq/) debut, was notable; it reflected the company's European partnerships and its strategy to tap institutional investors across multiple markets.
 
 PureTech's early clinical programs focused on rare and intractable diseases where the unmet medical need was acute and the pathway to regulatory approval potentially shorter than in large markets. One example was idiopathic pulmonary fibrosis, a progressive lung disease with no cure and limited treatment options. PureTech's LYT-100 candidate addressed a specific mechanism in the disease — targeting fibrosis rather than inflammation alone — a differentiated approach that attracted investor and physician interest.
 
@@ -68,7 +68,7 @@ The company's ability to raise capital, retain talent, and manage cash through t
 
 ## How to research PureTech as an investment
 
-Start with the company's annual report and recent earnings releases, available through the London Stock Exchange website and PureTech's investor relations page. Review the clinical-trial protocols and data for the lead candidates; much of this is published in peer-reviewed journals or at conferences. Pay close attention to the cash-runway forecasts provided in earnings calls: when will the company need to raise more capital, and on what terms?
+Start with the company's [annual report](/10-k/) and recent earnings releases, available through the London [Stock Exchange](/stock-exchange/) website and PureTech's investor relations page. Review the clinical-trial protocols and data for the lead candidates; much of this is published in peer-reviewed journals or at conferences. Pay close attention to the cash-runway forecasts provided in earnings calls: when will the company need to raise more capital, and on what terms?
 
 Monitor for partnership announcements, licensing deals, and capital raises. Each of these events signals management's confidence in the pipeline and provides cash that extends the runway. Track trial enrollment: are patient enrollment rates on track? Delays in enrollment push out data readouts and burn more cash.
 

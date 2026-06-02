@@ -14,7 +14,7 @@ MSP Recovery was founded in 2014 by John H. Ruiz as a healthcare reimbursement r
 
 ## The founding insight and first years
 
-Healthcare billing generates constant situations where the wrong party pays initially. A patient is injured in a car accident and receives treatment covered by Medicare; the at-fault driver's auto insurance should reimburse Medicare for those costs under the "Medicare Secondary Payer" law, but the money often doesn't flow because no one has assembled the right data to demand it. Similarly, workers' compensation claims, workers' comp settlements, and liability settlements frequently trigger Medicare recovery obligations that go unrecognized. MSP Recovery's early thesis was that data analytics could identify these situations at scale and that legal services could pursue the recoveries.
+Healthcare billing generates constant situations where the wrong party pays initially. A patient is injured in a car accident and receives treatment covered by Medicare; the at-fault driver's [auto insurance](/auto-insurance/) should reimburse Medicare for those costs under the "Medicare Secondary Payer" law, but the money often doesn't flow because no one has assembled the right data to demand it. Similarly, workers' compensation claims, workers' comp settlements, and liability settlements frequently trigger Medicare recovery obligations that go unrecognized. MSP Recovery's early thesis was that data analytics could identify these situations at scale and that legal services could pursue the recoveries.
 
 The company began as a pure claims recovery shop: acquiring healthcare claims data from hospitals, health plans, and providers; analyzing it to find cases where secondary payers should have covered costs; and using a network of attorneys to pursue recovery from liable parties. Revenue came as a percentage of recovered amounts, typically 20–40% of the claim value, paid by the entity securing the recovery (health plans, hospitals, or patients' attorneys).
 
@@ -32,7 +32,7 @@ The company also moved into allied services: claim-and-lien resolution (helping 
 
 ## The unit economics shift
 
-Early MSP Recovery operated on contingency fees—high upside if cases won, zero revenue if they didn't. This created unpredictable quarterly results and high customer acquisition costs (customers only pay if MSP wins their cases). The move toward LifeWallet and SaaS products was explicitly designed to create recurring, predictable revenue that doesn't depend on litigation outcomes. A health system paying a monthly license fee for LifeWallet data and tools generates forecastable revenue even if secondary payer recovery cases produce variable results.
+Early MSP Recovery operated on contingency fees—high upside if cases won, zero revenue if they didn't. This created unpredictable quarterly results and high customer [acquisition](/acquisition/) costs (customers only pay if MSP wins their cases). The move toward LifeWallet and SaaS products was explicitly designed to create recurring, predictable revenue that doesn't depend on litigation outcomes. A health system paying a monthly license fee for LifeWallet data and tools generates forecastable revenue even if secondary payer recovery cases produce variable results.
 
 The trade-off: recurring software revenue per customer is lower per-case than a big contingency settlement, but it scales with the customer base and is far less dependent on legal outcomes.
 

@@ -26,7 +26,7 @@ QPUX targets this emerging sector with amplified leverage. It is a bet that quan
 
 ## The mechanics of 2x leverage and daily rebalancing
 
-QPUX maintains its 2x exposure through a daily reset. Instead of borrowing money from a broker — which would expose the fund to margin calls and force a deleveraging cascade if stocks fell sharply — the fund holds derivatives (typically futures or swap contracts) that track the underlying Defiance quantum fund and reset to the target leverage every trading day.
+QPUX maintains its 2x exposure through a daily reset. Instead of borrowing money from a [broker](/broker/) — which would expose the fund to [margin calls](/margin-call-forex/) and force a deleveraging cascade if stocks fell sharply — the fund holds derivatives (typically futures or swap contracts) that track the underlying Defiance quantum fund and reset to the target leverage every trading day.
 
 The process is mechanical: at the end of each day, if the underlying quantum fund has risen, the fund buys more derivative exposure to get back to exactly 2x. If it has fallen, the fund sells derivative exposure. This ensures that on any single day, QOWZ achieves its stated multiple.
 
@@ -34,7 +34,7 @@ But daily rebalancing has a cost that compounds over time. When markets are vola
 
 ## The sector concentration and downside risk
 
-Quantum computing is a narrow, emerging sector. Concentration in any single theme brings both upside and downside amplification. A 20 percent sector correction becomes a 40 percent decline in QPUX due to 2x leverage. There is no diversification across uncorrelated assets to soften the impact. The daily rebalancing mechanism does not protect the fund against losses; it only reshapes them.
+Quantum computing is a narrow, emerging sector. Concentration in any single theme brings both upside and downside amplification. A 20 percent sector correction becomes a 40 percent decline in QPUX due to 2x leverage. There is no [diversification](/diversification/) across uncorrelated assets to soften the impact. The daily rebalancing mechanism does not protect the fund against losses; it only reshapes them.
 
 Furthermore, the companies in the quantum-computing sector are not proven. Many are still validating commercial use cases. Some may never find economically viable applications. A company that seems essential to quantum computing could be rendered obsolete by a technological shift, a better competitor, or simply because quantum applications remain niche for another decade. QPUX amplifies all of this sector risk.
 
@@ -46,11 +46,11 @@ An investor who bought QPUX in the belief that quantum computing was a multi-yea
 
 ## Tax inefficiency and regulatory standing
 
-Leveraged and inverse ETFs face regulatory scrutiny and some debate about their place in retail portfolios. The funds are legal and widely available, though some custodians restrict them and many advisors discourage clients from using them. The tax efficiency is also poor for leveraged funds held in taxable accounts — the daily rebalancing can trigger frequent taxable gains, and the cost basis is hard to track. For these reasons, leveraged ETFs are better suited to retirement accounts or to traders with short holding periods who care less about annual tax impact.
+Leveraged and [inverse ETFs](/inverse-etf/) face regulatory scrutiny and some debate about their place in retail portfolios. The funds are legal and widely available, though some [custodians](/custodian/) restrict them and many advisors discourage clients from using them. The tax efficiency is also poor for leveraged funds held in taxable accounts — the daily rebalancing can trigger frequent taxable gains, and the [cost basis](/cost-basis/) is hard to track. For these reasons, [leveraged ETFs](/leveraged-etf/) are better suited to retirement accounts or to traders with short [holding periods](/holding-period/) who care less about annual tax impact.
 
 ## How to evaluate QPUX for tactical use
 
-Start with the fund prospectus, which will state clearly that it is designed for short-term tactical trading. Get the historical tracking data and compare QPUX's actual returns to what you would expect from 2x the daily returns of the underlying Defiance quantum fund. Any significant gap reveals the cost of leverage and daily rebalancing.
+Start with the [fund prospectus](/fund-prospectus/), which will state clearly that it is designed for short-term tactical trading. Get the historical tracking data and compare QPUX's actual returns to what you would expect from 2x the daily returns of the underlying Defiance quantum fund. Any significant gap reveals the cost of leverage and daily rebalancing.
 
 Before committing capital, be concrete about your time horizon. If you are thinking in years, this is the wrong fund. If you are thinking in days or weeks and you have strong conviction that quantum-computing stocks will have a sharp directional move, QPUX can serve as a tactical instrument — but it requires active monitoring, discipline to exit quickly, and acknowledgment that you will lose twice as much if the thesis fails.
 

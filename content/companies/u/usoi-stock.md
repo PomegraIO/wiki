@@ -12,11 +12,11 @@ handwritten: true
 
 > "A bank that manages the wealth of nations and the fortunes of tycoons must be above all things trustworthy — and when that trust is broken, no amount of capital can repair it."
 
-Credit Suisse AG was, for more than 150 years, one of the world's preeminent investment banks and wealth managers. It was one of the "Big Two" Swiss banks (alongside UBS), and it held the money of the ultra-wealthy, managed enormous pools of capital for institutions, and maintained one of the largest investment banking franchises on Earth. Yet the bank's final chapter was a story of drift, scandal, and erosion of confidence that no strategy could reverse.
+[Credit Suisse](/credit-suisse/) AG was, for more than 150 years, one of the world's preeminent investment banks and wealth managers. It was one of the "Big Two" Swiss banks (alongside UBS), and it held the money of the ultra-wealthy, managed enormous pools of capital for institutions, and maintained one of the largest investment banking franchises on Earth. Yet the bank's final chapter was a story of drift, scandal, and erosion of confidence that no strategy could reverse.
 
 ## The legacy banking house
 
-Credit Suisse was founded in 1856 as Switzerland's banking champion, and for much of the 20th century it was exactly that — a titan of international finance, the keeper of Swiss wealth and the trusted advisor to corporations and governments. By the 1990s, it had grown into a genuinely global operation: a wholesale investment bank advising on mergers and acquisitions, managing enormous trading desks, and a retail bank managing private capital. The bank's gravitas came from its Swiss heritage (stability, precision, discretion), its vast installed base of ultra-high-net-worth clients, and its relationships across the corridors of global finance.
+Credit Suisse was founded in 1856 as Switzerland's banking champion, and for much of the 20th century it was exactly that — a titan of international finance, the keeper of Swiss wealth and the trusted advisor to corporations and governments. By the 1990s, it had grown into a genuinely global operation: a wholesale investment bank advising on [mergers](/merger/) and [acquisitions](/acquisition/), managing enormous trading desks, and a retail bank managing private capital. The bank's gravitas came from its Swiss heritage (stability, precision, discretion), its vast installed base of ultra-high-net-worth clients, and its relationships across the corridors of global finance.
 
 The business model was classic for a large universal bank: fees earned on advisory and capital-raising work, commissions from asset management, interest margins on lending, and trading profits. Wealth management — taking in deposits and investing them on behalf of affluent clients — was particularly central. It is high-margin work: a bank can charge fees measured in basis points (hundredths of a percent) on billions of dollars under management, and because the typical client is both wealthy and relatively passive, the business is stable and cash-generative.
 
@@ -26,7 +26,7 @@ From roughly 2012 onward, Credit Suisse entered a prolonged period of reputation
 
 Separately, the bank's investment-banking and trading divisions proved troublesome. Credit Suisse carried large legacy exposures from the 2008 financial crisis longer than peers, and some of its bets on growth and volatility went persistently wrong. The costs of litigation and regulatory settlements mounted. Cost-cutting followed, but cutting costs while losing market share is a losing strategy — the bank's profitability deteriorated even as its competitive position weakened.
 
-Wealth management, the crown jewel, was particularly exposed. Wealthy clients do not wait for a bank to rehabilitate itself; they move their money elsewhere. Credit Suisse saw its private-banking assets decline for years, a steady leakage of deposits and assets under management to UBS, Goldman Sachs, and other competitors. Each major scandal triggered fresh departures.
+Wealth management, the crown jewel, was particularly exposed. Wealthy clients do not wait for a bank to rehabilitate itself; they move their money elsewhere. Credit Suisse saw its private-banking assets decline for years, a steady leakage of deposits and assets under management to UBS, [Goldman Sachs](/goldman-sachs/), and other competitors. Each major scandal triggered fresh departures.
 
 ## The final years and acquisition
 

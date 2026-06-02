@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-TEN Holdings, Inc. provides technology and services for virtual and hybrid events. The company operates a platform designed to help event organizers host, broadcast, and manage professional gatherings in a digital format. Headquartered in Langhorne, Pennsylvania, XHLD trades on the NASDAQ and traces its origins to 2011, when founders created what would eventually become a significant player in the space where traditional event management meets digital distribution.
+TEN Holdings, Inc. provides technology and services for virtual and hybrid events. The company operates a platform designed to help event organizers host, broadcast, and manage professional gatherings in a digital format. Headquartered in Langhorne, Pennsylvania, XHLD trades on the [NASDAQ](/nasdaq/) and traces its origins to 2011, when founders created what would eventually become a significant player in the space where traditional event management meets digital distribution.
 
 <aside class="wiki-infobox">
 <table>
@@ -30,7 +30,7 @@ TEN Holdings began as The Events Network, Inc. in 2011, a technology company aim
 
 ## Public markets and recent history
 
-In June 2024, the company rebranded to TEN Holdings, Inc. and went public through a SPAC merger, obtaining its NASDAQ listing. The shift to public markets brought new scrutiny and reporting requirements, along with the cost of operating as a SEC registrant. The company's first public filings revealed a business significantly smaller than many would have expected for a publicly traded firm: approximately three million dollars in annual revenue as of the 2024 fiscal year. The concentration of that revenue, with a single customer accounting for roughly two-thirds of total sales, highlighted the precarious nature of the business model. One client leaving or reducing orders would translate directly into a severe revenue drop.
+In June 2024, the company rebranded to TEN Holdings, Inc. and went public through a SPAC [merger](/merger/), obtaining its NASDAQ listing. The shift to public markets brought new scrutiny and reporting requirements, along with the cost of operating as a SEC registrant. The company's first public filings revealed a business significantly smaller than many would have expected for a publicly traded firm: approximately three million dollars in annual revenue as of the 2024 fiscal year. The concentration of that revenue, with a single customer accounting for roughly two-thirds of total sales, highlighted the precarious nature of the business model. One client leaving or reducing orders would translate directly into a severe revenue drop.
 
 ## Business operations and client base
 
@@ -38,11 +38,11 @@ TEN Holdings generates revenue by providing software, production services, and t
 
 ## The competitive landscape
 
-The webcasting and virtual events market is crowded. TEN Holdings competes against entrenched platforms like Zoom, Microsoft Teams, and larger specialized players such as Hopin and livestream.com. Zoom's dominance, especially after the pandemic surge in video conferencing, set a high bar for both functionality and brand recognition. Many corporate clients already have Zoom licenses and see little reason to pay separately for an events platform when Zoom includes many of the same capabilities. Smaller competitors often compete on price or niche features, while larger tech firms have the resources to out-develop and out-market any stand-alone events platform. TEN's size and financial constraints make it difficult to compete on feature parity or marketing spend.
+The webcasting and virtual events market is crowded. TEN Holdings competes against entrenched platforms like Zoom, [Microsoft](/msft-stock/) Teams, and larger specialized players such as Hopin and livestream.com. Zoom's dominance, especially after the pandemic surge in video conferencing, set a high bar for both functionality and brand recognition. Many corporate clients already have Zoom licenses and see little reason to pay separately for an events platform when Zoom includes many of the same capabilities. Smaller competitors often compete on price or niche features, while larger tech firms have the resources to out-develop and out-market any stand-alone events platform. TEN's size and financial constraints make it difficult to compete on feature parity or marketing spend.
 
 ## Financial reality and path to profitability
 
-The gap between TEN Holdings' operating costs and its revenue is substantial. The 2024 fiscal year showed a net loss exceeding $19 million on revenue of just over three million dollars. The majority of that loss stems from SG&A expenses — salaries, benefits, stock-based compensation tied to the public offering, rent, and general corporate overhead — which far exceed the revenue generated. This is typical for a newly public company, but TEN's path to profitability remains unclear. The company does have access to an $18 million equity line of credit, which buys time to grow the business. However, the revenue trajectory will need to improve significantly for the company to reach cash flow breakeven, let alone return a profit to shareholders. The single-customer concentration risk makes growth unpredictable and the business vulnerable to customer churn.
+The gap between TEN Holdings' operating costs and its revenue is substantial. The 2024 fiscal year showed a net loss exceeding $19 million on revenue of just over three million dollars. The majority of that loss stems from SG&A expenses — salaries, benefits, stock-based compensation tied to the public offering, rent, and general corporate overhead — which far exceed the revenue generated. This is typical for a newly public company, but TEN's path to profitability remains unclear. The company does have access to an $18 million equity line of credit, which buys time to grow the business. However, the revenue trajectory will need to improve significantly for the company to reach cash flow breakeven, let alone return a profit to shareholders. The single-customer [concentration risk](/concentration-risk/) makes growth unpredictable and the business vulnerable to customer churn.
 
 ## Outlook and risks
 

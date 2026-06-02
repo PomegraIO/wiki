@@ -29,7 +29,7 @@ CNH Industrial makes big machines that move dirt and harvest crops. Think tracto
 
 Case started in 1842 in Racine, Wisconsin, making threshing machines for grain farmers. For a century and a half it was one of the great American farm-equipment makers, making combines and tractors that became synonymous with Midwestern agriculture. New Holland came later, starting in the 1890s as a farm-implement maker in Pennsylvania. By the twentieth century both were major players, selling equipment across the United States and internationally. They were rivals for generations — competing for the same farmers, the same dealers, the same markets.
 
-In 1999 they merged to form CNH. The reason was straightforward: the farm-equipment industry was consolidating, and a combined company could compete better against John Deere, the market leader. By combining the two, CNH got geographic reach, a broader product line, and enough scale to invest in manufacturing efficiency and new technology.
+In 1999 they merged to form CNH. The reason was straightforward: the farm-equipment industry was consolidating, and a combined company could compete better against John [Deere](/de-stock/), the market leader. By combining the two, CNH got geographic reach, a broader product line, and enough scale to invest in manufacturing efficiency and new technology.
 
 The [merger](/merger/) brought together Case's strong position in North America with New Holland's strengths in Europe and some international markets. It was a classic consolidation play: same industry, similar customers, complementary geographies, and the hope that overhead savings would fund innovation.
 

@@ -53,7 +53,7 @@ MSAI competes against two different classes of competitor: large conglomerates (
 
 ## Risks and Key Dependencies
 
-MSAI's success depends on technical excellence (building ML models that reliably predict failures before they occur), customer [acquisition](/acquisition/) ability (translating technical capability into sales), and platform stickiness (once deployed, the cost and hassle of switching to a competitor should be high). The company also depends on cloud infrastructure providers (AWS, Azure, Google Cloud) for [data storage](/dtst-stock/) and processing — disruption in that layer affects MSAI's costs and customer experience.
+MSAI's success depends on technical excellence (building ML models that reliably predict failures before they occur), customer [acquisition](/acquisition/) ability (translating technical capability into sales), and platform stickiness (once deployed, the cost and hassle of switching to a competitor should be high). The company also depends on cloud infrastructure providers (AWS, Azure, Google Cloud) for data storage and processing — disruption in that layer affects MSAI's costs and customer experience.
 
 Cybersecurity and data privacy are material risks: MSAI collects sensitive operational data from customer infrastructure; a breach could destroy customer trust and trigger regulatory liability. The company also depends on customers' willingness to invest in monitoring and optimization — in economic downturns or when infrastructure budgets tighten, spending on sensor systems may be deferred.
 

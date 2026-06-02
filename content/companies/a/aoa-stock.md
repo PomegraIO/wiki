@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The iShares Core 80/20 Aggressive Allocation ETF (ticker: AOA, traded on NYSE Arca) is a single fund designed to hold an entire diversified portfolio in one purchase. Rather than force an investor to choose between individual index funds, AOA does the choosing for them — combining US stocks, international stocks, bonds, and real estate in a fixed ratio that tilts heavily toward equities. It is both a beginner's shortcut and a common building block for investors who want to layer additional strategy on top of a stable core.
+The iShares Core 80/20 Aggressive Allocation ETF (ticker: AOA, traded on NYSE Arca) is a single fund designed to hold an entire diversified portfolio in one purchase. Rather than force an investor to choose between individual [index funds](/index-fund/), AOA does the choosing for them — combining US stocks, international stocks, [bonds](/bond/), and real estate in a fixed ratio that tilts heavily toward equities. It is both a beginner's shortcut and a common building block for investors who want to layer additional strategy on top of a stable core.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,23 +35,23 @@ The fund maintains four core holdings, each a passive index fund that tracks a b
 
 **Equities (80% combined):** About 40% goes to US stocks (held via the iShares Core S&P 500 ETF), and the remaining 40% is split between developed international stocks and emerging markets. This roughly 50-50 US to non-US equity split gives the portfolio exposure to growth across different geographies.
 
-**Fixed income (15%):** Held through broad bond index funds tracking government and corporate bonds across the maturity spectrum. Bonds cushion volatility in down markets and provide some steady income.
+**Fixed income (15%):** Held through broad bond index funds tracking government and [corporate bonds](/corporate-bond/) across the maturity spectrum. Bonds cushion volatility in down markets and provide some steady income.
 
-**Real estate (5%):** Held via a real-estate index fund tracking REITs — Real Estate Investment Trusts that own properties and distribute cash to shareholders. REITs provide some inflation protection and diversification away from financial assets.
+**Real estate (5%):** Held via a real-estate index fund tracking REITs — [Real Estate Investment Trusts](/real-estate-investment-trust/) that own properties and distribute cash to shareholders. REITs provide some [inflation](/inflation/) protection and [diversification](/diversification/) away from financial assets.
 
 The 80/20 equity-to-bond ratio is the label that defines AOA's personality. It sits at the aggressive end of the asset-allocation spectrum. An investor who finds 80/20 too growth-heavy can look to the rest of the iShares Core Allocation family — 60/40 (AOR), 40/60 (AOM), or 30/70 (AOK) — which dial down the equity exposure as bond exposure rises.
 
 ## How AOA works in practice
 
-AOA trades on a stock exchange just like any individual stock. An investor can buy as few as one share or as many as thousands; the price fluctuates throughout the trading day based on supply and demand. The fund itself is liquid and tight bid-ask spreads, which means the cost of entering and exiting is minimal.
+AOA trades on a [stock exchange](/stock-exchange/) just like any individual stock. An investor can buy as few as one share or as many as thousands; the price fluctuates throughout the trading day based on supply and demand. The fund itself is liquid and tight [bid-ask spreads](/bid-ask-spread/), which means the cost of entering and exiting is minimal.
 
-Once purchased, the fund does the rebalancing work automatically. Markets move at different paces — stocks might surge while bonds languish, throwing the 80/20 ratio off balance — so iShares rebalances the underlying holdings quarterly to snap everything back into place. That rebalancing incurs some trading costs, but they are absorbed into the fund's total expense ratio rather than billed directly to shareholders.
+Once purchased, the fund does the rebalancing work automatically. Markets move at different paces — stocks might surge while bonds languish, throwing the 80/20 ratio off balance — so iShares rebalances the underlying holdings quarterly to snap everything back into place. That rebalancing incurs some trading costs, but they are absorbed into the fund's total [expense ratio](/expense-ratio/) rather than billed directly to shareholders.
 
 ## The actual costs
 
 The expense ratio — the annual fee for owning AOA — is quite low at roughly 0.20% per year. This means that on a $100,000 holding, an investor pays about $200 annually in fees. The low cost reflects the passive nature of the fund; there are no active managers hunting for outperforming stocks, so the cost base is simply the overhead of holding a basket of index funds.
 
-AOA also triggers minimal taxable distributions, because the underlying holdings are index funds and the rebalancing is internal. For investors in taxable accounts, this tax efficiency is a concrete advantage over owning the same portfolio through mutual funds, which tend to distribute more gains.
+AOA also triggers minimal taxable distributions, because the underlying holdings are index funds and the rebalancing is internal. For investors in taxable accounts, this tax efficiency is a concrete advantage over owning the same portfolio through [mutual funds](/mutual-fund/), which tend to distribute more gains.
 
 ## Who AOA is for, and what to watch
 

@@ -45,7 +45,7 @@ WAFD, like all banks, manages these risks by maintaining a cushion of capital â€
 
 WAFD is a regional bank. It is not as big as [JPMorgan Chase](/jpmorgan-chase/) or [Bank of America](/bank-of-america/), which operate nationally and globally. But it is not a tiny local bank either. It has hundreds of branches and billions of dollars in assets.
 
-Regional banks compete on service and on knowing the local market. A borrower in Seattle might prefer to work with a loan officer at WAFD who understands the Seattle real-estate market and knows the local builders and business owners. That personal relationship and local knowledge can be an advantage over a giant [national bank](/nbhc-stock/) where you are a small account number.
+Regional banks compete on service and on knowing the local market. A borrower in Seattle might prefer to work with a loan officer at WAFD who understands the Seattle real-estate market and knows the local builders and business owners. That personal relationship and local knowledge can be an advantage over a giant national bank where you are a small account number.
 
 But regional banks also compete with each other and with larger banks. A customer can easily move their account to a competitor. [Interest rates](/interest-rate/) on deposits move all the time, and if another bank offers a better rate, people will switch. For loans, large customers will shop around and play banks against each other to get the best terms.
 

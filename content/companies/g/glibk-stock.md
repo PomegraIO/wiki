@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-GCI Liberty, Inc. (NASDAQ: GLIBK) is a holding company with broadcasting and media properties primarily in Alaska, and it represents a particular kind of business advantage that scale brings to remote markets. In sparsely populated regions where the cost of infrastructure is high relative to the customer base, a single large operator often becomes the only rational actor — network effects and fixed costs work so strongly in favour of consolidation that competition becomes structurally difficult. GCI Liberty's portfolio demonstrates how being the regional incumbent in communications infrastructure can be a durable, if unglamorous, business.
+[GCI Liberty](/gliba-stock/), Inc. ([NASDAQ](/nasdaq/): GLIBK) is a holding company with broadcasting and media properties primarily in Alaska, and it represents a particular kind of business advantage that scale brings to remote markets. In sparsely populated regions where the cost of infrastructure is high relative to the customer base, a single large operator often becomes the only rational actor — network effects and fixed costs work so strongly in favour of consolidation that competition becomes structurally difficult. GCI Liberty's portfolio demonstrates how being the regional incumbent in communications infrastructure can be a durable, if unglamorous, business.
 
 <aside class="wiki-infobox">
 <table>

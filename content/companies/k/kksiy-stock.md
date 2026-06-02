@@ -56,5 +56,5 @@ Semiconductor equipment, particularly advanced systems used in cutting-edge fabs
 ### Wider context
 - Semiconductor industry capital cycles and fab expansion patterns
 - [Japanese manufacturing](/stock/) and export-dependent business models
-- Geopolitical trade policy effects [on semiconductor](/on-stock/) equipment markets
+- Geopolitical trade policy effects on semiconductor equipment markets
 </div>

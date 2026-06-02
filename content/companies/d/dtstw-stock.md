@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Data Storage Corp trades under the ticker DTSTW on the over-the-counter markets. The company operates in the data storage and technology space, which is a broad and important segment. Companies in this field help other businesses and individuals keep their information safe, organized, and accessible. Data storage is fundamental to modern business. Every company needs to keep records. Every person keeps photos and documents somewhere. The money flows to whoever reliably stores that data and makes it easy to retrieve.
+Data Storage Corp trades under the ticker DTSTW on the [over-the-counter markets](/over-the-counter-market/). The company operates in the data storage and technology space, which is a broad and important segment. Companies in this field help other businesses and individuals keep their information safe, organized, and accessible. Data storage is fundamental to modern business. Every company needs to keep records. Every person keeps photos and documents somewhere. The money flows to whoever reliably stores that data and makes it easy to retrieve.
 
 <aside class="wiki-infobox">
 <table>
@@ -31,7 +31,7 @@ The data storage market comes in layers. Some companies build the hardware — t
 
 ## The challenge of being small in a big market
 
-The storage industry is competitive and mature in many ways. Large technology companies like Apple, Microsoft, Amazon, and Google have their own storage solutions. Disk manufacturers like Western Digital and Seagate have long dominated hardware. Cloud storage providers are widespread. In this landscape, a company like Data Storage Corp faces a central question: what distinctive niche or advantage does it possess?
+The storage industry is competitive and mature in many ways. Large technology companies like [Apple](/aapl-stock/), [Microsoft](/msft-stock/), Amazon, and Google have their own storage solutions. Disk manufacturers like [Western Digital](/wdc-stock/) and Seagate have long dominated hardware. Cloud storage providers are widespread. In this landscape, a company like Data Storage Corp faces a central question: what distinctive niche or advantage does it possess?
 
 For a company trading on the over-the-counter markets, this is not a trivial question. OTC status typically means the company either chooses not to meet the reporting and compliance requirements of larger exchanges, cannot afford to, or has had its exchange listing suspended. This is not inherently disqualifying — some profitable companies trade OTC — but it is a signal that the company is either very small, in transition, or facing challenges that make public disclosure less aggressive than it would be on a major exchange.
 
@@ -53,7 +53,7 @@ Data Storage Corp's size is both opportunity and constraint. Opportunity: a smal
 
 ## How to research the company
 
-Anyone interested in Data Storage Corp should start with the company's SEC filings under CIK 0001419951. These will include 10-K annual reports and 10-Q quarterly filings that disclose the company's revenues, expenses, major customers, and business segments. The filings also describe risks and competitive pressures the company faces.
+Anyone interested in Data Storage Corp should start with the company's SEC filings under CIK 0001419951. These will include 10-K [annual reports](/10-k/) and 10-Q quarterly filings that disclose the company's revenues, expenses, major customers, and business segments. The filings also describe risks and competitive pressures the company faces.
 
 For an OTC company, these filings may be less frequent or less detailed than for a company on a major exchange. Some OTC companies file annually but not quarterly. Some have longer delays in reporting. The quality and timeliness of disclosure is worth evaluating: a company that reports clearly and on schedule is a better bet than one that files irregularly or minimally.
 

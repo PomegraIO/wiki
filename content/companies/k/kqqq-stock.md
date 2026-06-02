@@ -15,7 +15,7 @@ handwritten: true
 
 ## What does KQQQ track?
 
-KQQQ follows the Nasdaq-100, the basket of the 100 largest non-financial companies traded on the Nasdaq stock exchange, with heavy concentration in technology, internet, and semiconductor firms. The Nasdaq-100 excludes the biggest banks and other financial services companies, so the index is a play on innovation-driven sectors rather than the broad market. KQQQ's underlying constituents include mega-cap software and hardware names, biotech firms, semiconductor manufacturers, and internet platforms — the same core companies that shape the Nasdaq Composite's direction.
+KQQQ follows the Nasdaq-100, the basket of the 100 largest non-financial companies traded on the [Nasdaq](/nasdaq/) [stock exchange](/stock-exchange/), with heavy concentration in technology, internet, and semiconductor firms. The Nasdaq-100 excludes the biggest banks and other financial services companies, so the index is a play on innovation-driven sectors rather than the broad market. KQQQ's underlying constituents include mega-cap software and hardware names, biotech firms, semiconductor manufacturers, and internet platforms — the same core companies that shape the [Nasdaq Composite's](/nasdaq-composite/) direction.
 
 ## How does the 2x leverage work?
 
@@ -31,7 +31,7 @@ KQQQ is entirely unsuitable for longer-term holders. The volatility decay compou
 
 ## Costs and liquidity
 
-KQQQ carries an expense ratio in the range typical of leveraged ETFs — low by absolute standards but material relative to the daily decay the fund already experiences. The fund trades on an exchange during market hours with reasonable liquidity, though not at the depth of the unleveraged Nasdaq-100 tracking funds. Bid-ask spreads are usually tight for normal retail order sizes.
+KQQQ carries an [expense ratio](/expense-ratio/) in the range typical of [leveraged ETFs](/leveraged-etf/) — low by absolute standards but material relative to the daily decay the fund already experiences. The fund trades on an exchange during market hours with reasonable liquidity, though not at the depth of the unleveraged Nasdaq-100 tracking funds. [Bid-ask spreads](/bid-ask-spread/) are usually tight for normal retail order sizes.
 
 ## The real risks
 
@@ -41,4 +41,4 @@ A secondary risk is tracking error — the fund will not track exactly 2x the da
 
 ## How to research KQQQ
 
-Start with the fund's prospectus and fact sheet on the Kurv website, which spell out the daily reset mechanics and the volatility decay warning. Check the fund's historical volatility and compare its returns over rolling one-week, one-month, and three-month windows to twice the Nasdaq-100's returns over the same periods to see real-world decay in action. Monitor the Nasdaq-100's constituent holdings to understand what KQQQ's leverage is amplifying: any sector concentration (such as the current heavy weighting in artificial intelligence and semiconductor businesses) means KQQQ is a leveraged bet on those specific themes as much as it is on technology as a whole.
+Start with the fund's prospectus and fact sheet on the Kurv website, which spell out the daily reset mechanics and the volatility decay warning. Check the fund's [historical volatility](/historical-volatility/) and compare its returns over rolling one-week, one-month, and three-month windows to twice the Nasdaq-100's returns over the same periods to see real-world decay in action. Monitor the Nasdaq-100's constituent holdings to understand what KQQQ's leverage is amplifying: any sector concentration (such as the current heavy weighting in artificial intelligence and semiconductor businesses) means KQQQ is a leveraged bet on those specific themes as much as it is on technology as a whole.

@@ -46,7 +46,7 @@ The company's ability to respond to downturns or restructure operations varies b
 
 ## Tax Treaty Complexity and Cross-Border Profitability
 
-As a Japanese company with regional operations and US shareholders, Don Quijote must navigate double-taxation treaty provisions between Japan and Thailand, Japan and the Philippines, and Japan and the US. Profits earned in each subsidiary are taxed locally; dividends [or royalties](/or-stock/) flowing back to Japan may be subject to withholding taxes reduced by treaty. The company's transfer-pricing policies (how much it charges subsidiaries for centralized services, procurement, or intellectual property) are audited by both Japanese and foreign tax authorities.
+As a Japanese company with regional operations and US shareholders, Don Quijote must navigate double-taxation treaty provisions between Japan and Thailand, Japan and the Philippines, and Japan and the US. Profits earned in each subsidiary are taxed locally; dividends or royalties flowing back to Japan may be subject to withholding taxes reduced by treaty. The company's transfer-pricing policies (how much it charges subsidiaries for centralized services, procurement, or intellectual property) are audited by both Japanese and foreign tax authorities.
 
 This regulatory complexity creates both opportunity and exposure. A company that structures its regional operations optimally can reduce its overall tax burden. One that triggers transfer-pricing disputes faces expensive audits and potential double-taxation. Don Quijote's filings disclose that it has engaged in transfer-pricing adjustments following Japanese tax-authority reviews, indicating that this is an active area of regulatory negotiation.
 

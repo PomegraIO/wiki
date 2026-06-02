@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Central Garden & Pet Co. is what you might call the forgotten essential: it makes and sells the things people buy to care for their gardens and their pets, and it does so at a scale most shoppers never think about. Walk into a big-box retailer like Home Depot or Lowe's, and most of the bags of soil, pots, fertilizers, garden tools, pet food, treats, toys, and accessories you see are made by or distributed by Central. The company owns dozens of brands and distributes products from thousands more — some famous (Pennington seed, Amdro pest control, Chewy's private label), many utterly invisible to the typical consumer. Central Garden & Pet reaches tens of millions of people in North America every week, yet it is one of the least recognized mid-cap companies on the stock market.
+[Central Garden & Pet](/cent-stock/) Co. is what you might call the forgotten essential: it makes and sells the things people buy to care for their gardens and their pets, and it does so at a scale most shoppers never think about. Walk into a big-box retailer like [Home Depot](/hd-stock/) or Lowe's, and most of the bags of soil, pots, fertilizers, garden tools, pet food, treats, toys, and accessories you see are made by or distributed by Central. The company owns dozens of brands and distributes products from thousands more — some famous (Pennington seed, Amdro pest control, Chewy's private label), many utterly invisible to the typical consumer. Central Garden & Pet reaches tens of millions of people in North America every week, yet it is one of the least recognized mid-cap companies on the [stock market](/stock-market/).
 
 <aside class="wiki-infobox">
 <table>
@@ -40,7 +40,7 @@ The real game is volume and scale. If Central can make a garden product for 30 c
 
 ## Distribution — the real moat
 
-Central Garden's lasting advantage is distribution. The company does not have retail stores of its own. Instead, it has built relationships with nearly every major retailer that sells garden and pet products in North America. Home Depot, Lowe's, Walmart, Target, Pet Depot, Chewy, Petco, PetSmart, Amazon — these are Central's customers. The company coordinates orders, manages inventory, handles logistics, and maintains the shelf space. For retailers, using a distributor like Central simplifies their supply chain; they do not have to manage hundreds of suppliers individually.
+Central Garden's lasting advantage is distribution. The company does not have retail stores of its own. Instead, it has built relationships with nearly every major retailer that sells garden and pet products in North America. Home Depot, Lowe's, [Walmart](/wmt-stock/), Target, Pet Depot, Chewy, Petco, PetSmart, Amazon — these are Central's customers. The company coordinates orders, manages inventory, handles logistics, and maintains the shelf space. For retailers, using a distributor like Central simplifies their supply chain; they do not have to manage hundreds of suppliers individually.
 
 This distribution network took decades to build and is genuinely difficult to replicate. A rival would need to acquire brands, build manufacturing relationships or plants, negotiate with every major retailer, set up logistics, and do it all at prices those retailers will accept. The barriers are not technological or intellectual; they are operational and relational — the slow accumulation of trust, contracts, and logistical connections that tie Central to the retail ecosystem.
 

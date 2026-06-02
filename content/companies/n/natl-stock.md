@@ -4,7 +4,7 @@ description: "ATM and point-of-sale systems operator built from NCR and Atleos, 
 keywords: ["banking technology", "ATM networks", "payment systems", "PCI compliance", "software licensing"]
 ---
 
-*NCR Atleos Corp (**NATL**) emerged from the 2023 separation of NCR Corporation into two distinct entities, with Atleos focusing on ATM and point-of-sale (POS) services for [financial institutions](/fisi-stock/) and retailers. The firm operates within one of the most heavily regulated segments of payments infrastructure, where every hardware deployment, software update, and customer interaction is governed by banking regulators, payment card networks, and cybersecurity mandates that fundamentally define what the business can do and how it must do it.*
+*NCR Atleos Corp (**NATL**) emerged from the 2023 separation of NCR Corporation into two distinct entities, with Atleos focusing on ATM and point-of-sale (POS) services for financial institutions and retailers. The firm operates within one of the most heavily regulated segments of payments infrastructure, where every hardware deployment, software update, and customer interaction is governed by banking regulators, payment card networks, and cybersecurity mandates that fundamentally define what the business can do and how it must do it.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>NATL</td></tr>

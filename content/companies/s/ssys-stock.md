@@ -35,7 +35,7 @@ Through the 1990s and 2000s, Stratasys built a reputation as the reliable maker 
 
 A turning point came in 2012 when Stratasys acquired Objet, an Israeli 3D printing company that had pioneered polyjet technology, a different additive manufacturing method that used photopolymer resins instead of plastic filament. The acquisition, at a steep price, reflected the belief that 3D printing would expand far beyond prototyping into broader manufacturing and that owning multiple technologies would position Stratasys to capture multiple market segments. It also brought significant debt onto Stratasys's [balance sheet](/balance-sheet/).
 
-The larger strategic gamble came in 2013 when Stratasys merged with [3D Systems](/ddd-stock/)' rival, Makerbot Industries, a desktop 3D printer company. These moves reflected a vision of the industry consolidating around a few large players who could afford the R&D, manufacturing scale, and customer support needed to remain relevant. The [merger](/merger/) activity also saddled the company with integration costs and, for periods, high leverage as it digested [acquisitions](/acquisition/) and worked to extract cost synergies.
+The larger strategic gamble came in 2013 when Stratasys merged with 3D Systems' rival, Makerbot Industries, a desktop 3D printer company. These moves reflected a vision of the industry consolidating around a few large players who could afford the R&D, manufacturing scale, and customer support needed to remain relevant. The [merger](/merger/) activity also saddled the company with integration costs and, for periods, high leverage as it digested [acquisitions](/acquisition/) and worked to extract cost synergies.
 
 ## The business model crystallises — hardware and recurring revenue
 

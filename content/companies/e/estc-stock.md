@@ -42,7 +42,7 @@ The company is pushing aggressively toward cloud adoption because cloud revenue 
 
 Modern enterprises generate enormous volumes of data — application logs, security events, performance metrics, user interactions, financial transactions. Without tools to index and search that data, it is essentially invisible. When a system fails or a customer reports a problem, engineers need to search through millions of log entries to find what went wrong. When a security team needs to detect intrusions, it searches for suspicious patterns across logs from thousands of machines. When a performance engineer needs to optimize a slow service, she searches for bottlenecks in performance traces.
 
-Elasticsearch solved the problem of making that data searchable in real time, which made the tool indispensable in large, complex technology organizations. The tool became especially widespread among software companies, [financial institutions](/fisi-stock/), and cloud providers — the customers with the largest data volumes and the most demanding search requirements.
+Elasticsearch solved the problem of making that data searchable in real time, which made the tool indispensable in large, complex technology organizations. The tool became especially widespread among software companies, financial institutions, and cloud providers — the customers with the largest data volumes and the most demanding search requirements.
 
 ## Competitive landscape
 

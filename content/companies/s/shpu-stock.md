@@ -13,7 +13,7 @@ handwritten: true
 
 > Leveraged ETFs are tactical intraday weapons, not long-term investments — held overnight or longer, the mathematics work against you.
 
-The **Direxion Daily SHOP Bull 2X ETF** (SHPU) is a specialized trading instrument designed to magnify single-day moves in Shopify stock (NASDAQ: SHOP). If Shopify shares rise 1 percent in a day, SHPU aims to rise 2 percent. The inverse applies to declines. This 2X amplification is intentional and works as designed — but only for the day it is executed. Beyond a single trading session, the fund's daily-reset structure introduces a mathematical penalty called volatility decay that silently erodes value even in sideways or winning markets.
+The **Direxion Daily SHOP Bull 2X ETF** (SHPU) is a specialized trading instrument designed to magnify single-day moves in [Shopify](/shop-stock/) stock ([NASDAQ](/nasdaq/): SHOP). If Shopify shares rise 1 percent in a day, SHPU aims to rise 2 percent. The inverse applies to declines. This 2X amplification is intentional and works as designed — but only for the day it is executed. Beyond a single trading session, the fund's daily-reset structure introduces a mathematical penalty called volatility decay that silently erodes value even in sideways or winning markets.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ The **Direxion Daily SHOP Bull 2X ETF** (SHPU) is a specialized trading instrume
 
 ## How leveraged ETFs work
 
-A standard ETF holds the stocks (or bonds, or commodities) that make up its index and aims to match their returns. A leveraged ETF does the same thing but amplifies the exposure using borrowed money — it buys more of the underlying asset than its actual assets would allow, magnifying both gains and losses.
+A standard ETF holds the stocks (or [bonds](/bond/), or commodities) that make up its index and aims to match their returns. A [leveraged ETF](/leveraged-etf/) does the same thing but amplifies the exposure using borrowed money — it buys more of the underlying asset than its actual assets would allow, magnifying both gains and losses.
 
 For SHPU, the mechanism is direct. The fund borrows money in the short-term lending market to purchase double the amount of Shopify stock it could buy with its assets alone. When Shopify rises 1 percent, SHPU's double-sized position gains 2 percent (before fees). When Shopify falls 1 percent, SHPU falls 2 percent. That is the promise: 2X the daily move, every single day.
 
@@ -41,19 +41,19 @@ This reset is what makes the fund work as intended for a single day. But it is a
 
 For SHPU: on Monday it gains 4 percent (2X the 2 percent move). The fund then resets. On Tuesday it loses 4 percent (2X the 2 percent decline). The math: starting value 100, up 4 percent to 104, down 4 percent (of 104) leaves 99.84. Shopify is flat, but SHPU has lost 0.16 percent. That loss accumulates the more volatile the stock is.
 
-In other words, leveraged funds lose money to volatility itself, independent of whether the stock is rising or falling. An investor holding SHPU for a week or a month — even if Shopify ends exactly where it started — would lose money to this decay. The longer the holding period and the higher the volatility, the steeper the damage.
+In other words, leveraged funds lose money to volatility itself, independent of whether the stock is rising or falling. An investor holding SHPU for a week or a month — even if Shopify ends exactly where it started — would lose money to this decay. The longer the [holding period](/holding-period/) and the higher the volatility, the steeper the damage.
 
 ## Shopify and SHPU
 
-Shopify is a software platform that powers online stores for merchants of all sizes, from small independent sellers to large brands. It is a volatile growth stock — the sort of company that swings sharply on earnings surprises, regulatory announcements, or sentiment shifts about technology and e-commerce. That volatility is exactly what makes a leveraged fund on it particularly dangerous for buy-and-hold investors. Someone buying SHPU hoping to ride a long-term bull market in Shopify will almost certainly find the fund's value eroding, even if they are right about Shopify's direction.
+Shopify is a software platform that powers online stores for merchants of all sizes, from small independent sellers to large brands. It is a volatile growth stock — the sort of company that swings sharply on earnings surprises, regulatory announcements, or sentiment shifts about technology and e-commerce. That volatility is exactly what makes a leveraged fund on it particularly dangerous for buy-and-hold investors. Someone buying SHPU hoping to ride a long-term [bull market](/bull-market/) in Shopify will almost certainly find the fund's value eroding, even if they are right about Shopify's direction.
 
 The fund exists for traders with a specific short-term thesis: they expect Shopify stock to move up tomorrow, or over the next few hours, and want to amplify the payoff if they are right.
 
 ## Fees, liquidity, and real costs
 
-SHPU carries an expense ratio around 0.95 percent per year, high enough that it eats noticeably into returns over time. Beyond that, leveraged ETFs incur borrowing costs — the interest the fund pays to borrow money to amplify its exposure — and rebalancing costs (the transactions costs of buying and selling daily to reset the leverage). These frictions are baked into the fund's structure and cannot be avoided.
+SHPU carries an [expense ratio](/expense-ratio/) around 0.95 percent per year, high enough that it eats noticeably into returns over time. Beyond that, leveraged ETFs incur borrowing costs — the interest the fund pays to borrow money to amplify its exposure — and rebalancing costs (the transactions costs of buying and selling daily to reset the leverage). These frictions are baked into the fund's structure and cannot be avoided.
 
-The fund trades on NASDAQ with reasonable liquidity, so entering and exiting a position is straightforward during market hours. But the true friction is not the bid-ask spread — it is the mathematics of the leverage itself, which works against any investor who is wrong about the short-term direction or who holds the fund longer than intended.
+The fund trades on NASDAQ with reasonable liquidity, so entering and exiting a position is straightforward during market hours. But the true friction is not the [bid-ask spread](/bid-ask-spread/) — it is the mathematics of the leverage itself, which works against any investor who is wrong about the short-term direction or who holds the fund longer than intended.
 
 ## Who should and should not use this fund
 

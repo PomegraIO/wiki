@@ -42,7 +42,7 @@ INDI's profitability and growth are not purely a function of its design talent a
 <div class="wiki-seealso">
 ### Closely related
 - [indi-stock](/indi-stock/) (peer fabless design firms)
-- Taiwan Semiconductor Manufacturing Company (TSMC)
+- [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company (TSMC)
 
 ### Wider context
 - semiconductor

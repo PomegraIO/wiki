@@ -23,7 +23,7 @@ This positioning directly challenges the installed base of older instrumentation
 
 ## Market structure and competitive dynamics
 
-The life-sciences instrumentation market is dominated by very large, well-capitalized companies. Thermo Fisher Scientific, Bio-Rad Laboratories, and Luminex Corporation all offer proteomics and protein-measurement solutions. They have deep customer relationships, extensive distribution networks, economies of scale in manufacturing, and the resources to invest in research and new product development. They also own complementary products — reagents, software, panels — that lock customers into their ecosystems.
+The life-sciences instrumentation market is dominated by very large, well-capitalized companies. [Thermo Fisher Scientific](/tmo-stock/), [Bio-Rad Laboratories](/bio-stock/), and Luminex Corporation all offer proteomics and protein-measurement solutions. They have deep customer relationships, extensive distribution networks, economies of scale in manufacturing, and the resources to invest in research and new product development. They also own complementary products — reagents, software, panels — that lock customers into their ecosystems.
 
 Quantum-Si's challenge is that these incumbents can compete on price, customer support, and bundled offerings in ways a smaller company cannot easily match. Additionally, any major breakthrough by Thermo Fisher or Bio-Rad in protein measurement can immediately erode Quantum-Si's differentiation.
 
@@ -53,7 +53,7 @@ Quantum-Si's business can be understood through its product lines and customer s
 
 ## Competitive positioning and risks
 
-Quantum-Si's core risk is that incumbents develop competing technology or acquire a better-positioned competitor. If Thermo Fisher launches a comparable proteomics platform with equivalent speed and ease of use but backed by their sales force and brand, Quantum-Si's advantage evaporates. Acquisition by a larger player is a common outcome for successful instrumentation startups, but Quantum-Si's independence depends on maintaining a differentiated, defensible product.
+Quantum-Si's core risk is that incumbents develop competing technology or acquire a better-positioned competitor. If Thermo Fisher launches a comparable proteomics platform with equivalent speed and ease of use but backed by their sales force and brand, Quantum-Si's advantage evaporates. [Acquisition](/acquisition/) by a larger player is a common outcome for successful instrumentation startups, but Quantum-Si's independence depends on maintaining a differentiated, defensible product.
 
 The second risk is adoption rate. Quantum-Si must convince laboratories to adopt new equipment, which requires not just a superior product but also education, training, and proof of value. The sales cycle for laboratory instrumentation is long and decision-making is often distributed across multiple stakeholders (researchers, procurement, facility managers). Slower-than-expected adoption means higher burn rates and a longer path to profitability.
 

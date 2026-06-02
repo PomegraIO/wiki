@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-RF Acquisition Corp II (NASDAQ: RFAIU, RFAI) is a special purpose acquisition company (SPAC) incorporated as a Cayman Islands exempted company, headquartered in Singapore, and formed to pursue a merger or business combination with one or more operating businesses. As a blank check company, it has no significant operations of its own — rather, it exists as a capital-raising vehicle for the explicit purpose of identifying and acquiring a private business and taking it public.
+RF [Acquisition](/acquisition/) Corp II ([NASDAQ](/nasdaq/): RFAIU, RFAI) is a special purpose acquisition company (SPAC) incorporated as a Cayman Islands exempted company, headquartered in Singapore, and formed to pursue a [merger](/merger/) or [business combination](/business-combination-purchase/) with one or more operating businesses. As a blank check company, it has no significant operations of its own — rather, it exists as a capital-raising vehicle for the explicit purpose of identifying and acquiring a private business and taking it public.
 
 <aside class="wiki-infobox">
 <table>

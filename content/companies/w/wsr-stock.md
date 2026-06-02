@@ -10,13 +10,13 @@ keywords:
 handwritten: true
 ---
 
-*Whitestone REIT (NASDAQ: WSR) is a [real estate investment trust](/real-estate-investment-trust/) that owns, acquires, and manages a portfolio of neighborhood and community shopping centers across the United States, focusing on properties anchored by grocery stores, pharmacies, and other everyday-necessity retailers.*
+*Whitestone REIT ([NASDAQ](/nasdaq/): WSR) is a [real estate investment trust](/real-estate-investment-trust/) that owns, acquires, and manages a portfolio of neighborhood and community shopping centers across the United States, focusing on properties anchored by grocery stores, pharmacies, and other everyday-necessity retailers.*
 
 ## What is Whitestone's core business?
 
 Whitestone REIT owns real estate—specifically, neighborhood shopping centers that serve local communities. A typical Whitestone property is a strip mall or open-air shopping center anchored by a grocery store, a pharmacy, a bank branch, or another essential retailer, complemented by smaller tenants such as restaurants, health clinics, dry cleaners, and other local services. The trust does not operate these properties itself; instead, it collects rent from the tenants who lease space and are responsible for running their own businesses. Whitestone's revenue comes from those rents and occasionally from capital gains when it sells a property at a profit.
 
-The logic of this business model is straightforward: if a property generates stable, predictable rental income over many years, and if that income is sufficient to cover the debt service (interest and principal payments on any loans Whitestone has taken out to buy the property) and the operating costs (property taxes, insurance, maintenance, management), then the excess cash can be paid out to shareholders as a dividend. Because Whitestone is structured as a REIT, it is required by law to distribute at least 90% of its taxable income to shareholders, a constraint that turns the business into a high-yield income vehicle.
+The logic of this business model is straightforward: if a property generates stable, predictable rental income over many years, and if that income is sufficient to cover the debt service (interest and principal payments on any loans Whitestone has taken out to buy the property) and the operating costs (property taxes, insurance, maintenance, management), then the excess cash can be paid out to shareholders as a [dividend](/dividend/). Because Whitestone is structured as a REIT, it is required by law to distribute at least 90% of its taxable income to shareholders, a constraint that turns the business into a high-yield income vehicle.
 
 ## How does location and tenant mix drive profitability?
 
@@ -36,7 +36,7 @@ The unit economics that determine profitability revolve around the spread betwee
 
 The most direct risk is a recession that reduces consumer foot traffic and incomes, making tenants unable or unwilling to pay rent. Even necessity retailers are not immune: a sharp economic downturn can cause tenants to default on leases or renegotiate at lower rates. Whitestone must then either find replacement tenants (a slow, costly process) or reduce occupancy and the income it derives.
 
-[Interest-rate risk](/interest-rate-risk/) is structural for all REITs. If Whitestone carries floating-rate debt or must refinance maturing debt when rates are higher, interest costs rise and the spread available to shareholders shrinks. Rising rates also make REIT shares less attractive relative to bonds, typically driving down the valuations the market assigns to REITs.
+[Interest-rate risk](/interest-rate-risk/) is structural for all REITs. If Whitestone carries floating-rate debt or must refinance maturing debt when rates are higher, interest costs rise and the spread available to shareholders shrinks. Rising rates also make REIT shares less attractive relative to [bonds](/bond/), typically driving down the valuations the market assigns to REITs.
 
 Real-estate-specific risks include shifts in consumer behavior (the long-term decline of in-person retail) and changes in neighborhood demographics. A once-thriving retail corridor can lose appeal if major employers in the region shut down or relocate, or if shopping patterns shift online. Whitestone's bet that neighborhood necessity retail will remain stable is reasonable, but it is not risk-free.
 

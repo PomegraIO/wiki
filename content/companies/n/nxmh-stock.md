@@ -29,7 +29,7 @@ Next Meats was established in response to growing consumer interest in plant-bas
 
 ## Entry into a Crowded Space
 
-The plant-based meat category is dominated by well-capitalized rivals. Beyond Meat and Impossible Foods had already secured significant shelf space, brand recognition, and investor backing. Both companies had built substantial operations and distributed products across thousands of retail locations. Larger food conglomerates — Nestle, Tyson, Hormel — also entered the space with their own plant-based product lines, leveraging existing retail relationships and manufacturing expertise. Next Meats entered into this landscape as a smaller competitor, attempting to differentiate through product quality, pricing, or distribution niches that larger rivals had not fully captured.
+The plant-based meat category is dominated by well-capitalized rivals. [Beyond Meat](/bynd-stock/) and Impossible Foods had already secured significant shelf space, brand recognition, and investor backing. Both companies had built substantial operations and distributed products across thousands of retail locations. Larger food conglomerates — Nestle, Tyson, Hormel — also entered the space with their own plant-based product lines, leveraging existing retail relationships and manufacturing expertise. Next Meats entered into this landscape as a smaller competitor, attempting to differentiate through product quality, pricing, or distribution niches that larger rivals had not fully captured.
 
 ## Building the Business
 
@@ -53,4 +53,4 @@ Next Meats must navigate a market where brand recognition, distribution reach, a
 
 ## How to Research Next Meats
 
-The company files annual reports with the Securities and Exchange Commission (SEC CIK 0001811530). The 10-K provides breakdowns of product lines, distribution channels, revenue sources, and management's view of competitive risks. For a food-manufacturing company, watching gross margins, inventory turnover, and retailer concentration is important — high dependence on a small number of large retailers can indicate vulnerability if a major customer reduces orders or demand for the product line weakens.
+The company files [annual reports](/10-k/) with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (SEC CIK 0001811530). The 10-K provides breakdowns of product lines, distribution channels, revenue sources, and management's view of competitive risks. For a food-manufacturing company, watching gross margins, [inventory turnover](/inventory-turnover/), and retailer concentration is important — high dependence on a small number of large retailers can indicate vulnerability if a major customer reduces orders or demand for the product line weakens.

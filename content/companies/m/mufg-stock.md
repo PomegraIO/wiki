@@ -41,7 +41,7 @@ The profitability story is deeply tied to the interest-rate environment and the 
 
 ## The international expansion challenge
 
-MUFG's most ambitious strategic push over the past 15 years has been to build a credible global investment banking and trading franchise. The bank has acquired regional banks and securities firms, opened offices, and hired experienced teams in major financial centers. The goal is to become a peer competitor to JPMorgan Chase, [Bank of America](/bank-of-america/), and [Goldman Sachs](/goldman-sachs/) in corporate finance, M&A advisory, and capital markets.
+MUFG's most ambitious strategic push over the past 15 years has been to build a credible global investment banking and trading franchise. The bank has acquired regional banks and securities firms, opened offices, and hired experienced teams in major financial centers. The goal is to become a peer competitor to [JPMorgan Chase](/jpm-stock/), [Bank of America](/bank-of-america/), and [Goldman Sachs](/goldman-sachs/) in corporate finance, M&A advisory, and capital markets.
 
 That effort has borne fruit in some markets — especially in Asia-Pacific, where MUFG has genuine scale and relationships. But in North America and Europe, MUFG is still an outsider. It lacks the historical relationships and brand recognition that American and European banks take for granted. Competing head-to-head with JPMorgan or Goldman on a large M&A or capital-raising mandate requires either a strategic relationship (MUFG often acts as a co-arranger rather than the lead) or a willingness to undercut on fees. Neither dynamic is as profitable as organic market share.
 
@@ -49,7 +49,7 @@ International expansion is also capital-intensive. Each region requires investme
 
 ## Yen exposure and currency risks
 
-A large fraction of MUFG's international earnings are generated in foreign currency — U.S. dollars, euros, [British pounds](/british-pound/), and Asian local currencies. When the yen is weak (many dollars per yen), those foreign earnings translate into more yen when converted back to the home market, boosting reported profits. When the yen is strong (fewer dollars per yen), the opposite happens.
+A large fraction of MUFG's international earnings are generated in foreign currency — [U.S. dollars](/us-dollar/), euros, [British pounds](/british-pound/), and Asian local currencies. When the yen is weak (many dollars per yen), those foreign earnings translate into more yen when converted back to the home market, boosting reported profits. When the yen is strong (fewer dollars per yen), the opposite happens.
 
 This is not merely an accounting artifact. A weak yen helps the bank's reported earnings and [return on equity](/return-on-equity/), making it appear more profitable to shareholders. A strong yen hits both. MUFG's management and investors pay close attention to yen-dollar movements and the likelihood of carry-trade reversals, because sudden yen strength can significantly impact the bottom line.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Vivid Seats runs a peer-to-peer marketplace where fans trade live event tickets — concerts, sports, theater, comedy — after the initial sale has closed. The buyer is anyone who missed the first ticket drop, changed their plans, or wants a different seat. The seller is often someone with extra tickets or a fan who needs cash. Vivid Seats sits in the middle, taking a fee on both sides of the transaction, and has grown into one of the larger secondary ticket platforms in North America.
+[Vivid Seats](/seat-stock/) runs a peer-to-peer marketplace where fans trade live event tickets — concerts, sports, theater, comedy — after the initial sale has closed. The buyer is anyone who missed the first ticket drop, changed their plans, or wants a different seat. The seller is often someone with extra tickets or a fan who needs cash. Vivid Seats sits in the middle, taking a fee on both sides of the transaction, and has grown into one of the larger secondary ticket platforms in North America.
 
 <aside class="wiki-infobox">
 <table>
@@ -52,10 +52,10 @@ The business is seasonal and event-dependent. A year with major sports champions
 
 Beyond seasonality, the company faces regulatory risk. Some states and cities have debated or passed restrictions on ticket resale, caps on resale markups, or requirements that proceeds be returned to the original buyer in certain cases. Changes to resale law could change the unit economics of the business. There is also technology and fraud risk: the company has to maintain confidence that tickets delivered through the platform are legitimate and not duplicated, and it has to defend against refund fraud and disputes.
 
-The largest structural risk is the Ticketmaster partnership threat. Ticketmaster's own resale ecosystem has grown more sophisticated and better integrated with the primary market. If Ticketmaster can offer fans a seamless primary-to-secondary experience within its own platform, Vivid Seats' competitive position weakens.
+The largest structural risk is the Ticketmaster partnership threat. Ticketmaster's own resale ecosystem has grown more sophisticated and better integrated with the [primary market](/primary-market/). If Ticketmaster can offer fans a seamless primary-to-secondary experience within its own platform, Vivid Seats' competitive position weakens.
 
 ## How to study the company
 
 Start with Vivid Seats' annual 10-K filing (SEC CIK 0001856031), which breaks revenue by geography and market, and details management's view of competition and regulatory risk. The quarterly earnings calls reveal the pace of transaction growth, commission rates, and commentary on the touring calendar and event demand.
 
-Key metrics to track: gross transaction value (the total value of all tickets resold on the platform), transaction volume, average ticket price, and take rate (the percentage Vivid Seats actually retains after refunds and chargebacks). Margins depend heavily on mix — high-value events command different economics than low-value ones. Watch also for changes in the competitive landscape and any material shifts in Ticketmaster's resale offering or terms that could affect Vivid Seats' customer acquisition or retention.
+Key metrics to track: gross transaction value (the total value of all tickets resold on the platform), transaction volume, average ticket price, and take rate (the percentage Vivid Seats actually retains after refunds and chargebacks). Margins depend heavily on mix — high-value events command different economics than low-value ones. Watch also for changes in the competitive landscape and any material shifts in Ticketmaster's resale offering or terms that could affect Vivid Seats' customer [acquisition](/acquisition/) or retention.

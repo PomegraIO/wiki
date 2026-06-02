@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Allspring SMID Core ETF (ticker: ASCE) is a straightforward fund that buys stocks in the middle of the market — companies too big to be called small-caps but smaller than the household names that dominate stock portfolios. SMID stands for small-to-mid-cap. Allspring, the investment firm behind it, is part of Voya Financial and runs money for millions of individuals and institutions. The fund holds dozens of actual companies and aims to track a market index representing that size range.
+The Allspring SMID Core ETF (ticker: ASCE) is a straightforward fund that buys stocks in the middle of the market — companies too big to be called small-caps but smaller than the household names that dominate stock portfolios. SMID stands for small-to-mid-cap. Allspring, the investment firm behind it, is part of [Voya Financial](/voya-stock/) and runs money for millions of individuals and institutions. The fund holds dozens of actual companies and aims to track a market index representing that size range.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,9 +27,9 @@ The Allspring SMID Core ETF (ticker: ASCE) is a straightforward fund that buys s
 
 ## What you own when you buy ASCE
 
-When you buy a share of ASCE, you are buying a slice of roughly 400 to 600 companies. These are not the giants — not Apple, Microsoft, Amazon, or Nvidia. Instead, they are companies like regional banks, manufacturers, consumer goods makers, industrial suppliers, and tech firms that have grown substantial but not massive. A company in this fund might employ thousands of people and generate a billion or two in annual revenue, but it is not a household name.
+When you buy a share of ASCE, you are buying a slice of roughly 400 to 600 companies. These are not the giants — not [Apple](/aapl-stock/), [Microsoft](/msft-stock/), Amazon, or [Nvidia](/nvda-stock/). Instead, they are companies like regional banks, manufacturers, consumer goods makers, industrial suppliers, and tech firms that have grown substantial but not massive. A company in this fund might employ thousands of people and generate a billion or two in annual revenue, but it is not a household name.
 
-The fund weights these companies by market capitalization, which means the biggest of them — the ones closest to true large-cap size — get the most money. Smaller companies in the index get smaller positions. This approach is passive; Allspring is not trying to pick winners and losers within the SMID universe. Instead, the fund simply buys all the companies in its index in proportion to their size.
+The fund weights these companies by [market capitalization](/market-capitalization/), which means the biggest of them — the ones closest to true large-cap size — get the most money. Smaller companies in the index get smaller positions. This approach is passive; Allspring is not trying to pick winners and losers within the SMID universe. Instead, the fund simply buys all the companies in its index in proportion to their size.
 
 ## Why SMID matters
 
@@ -39,19 +39,19 @@ That middle ground matters because it includes some of the fastest-growing compa
 
 ## How SMID behaves in up and down markets
 
-SMID stocks are more volatile than large-cap stocks. When the economy is strong and investors are confident, SMID companies often outperform because their growth rates are higher and they are less hampered by their size. In bad times, the reverse is true: when profit warnings emerge or recessions threaten, SMID companies often fall harder because they have less pricing power and less cash to weather downturns.
+SMID stocks are more volatile than large-cap stocks. When the economy is strong and investors are confident, SMID companies often outperform because their growth rates are higher and they are less hampered by their size. In bad times, the reverse is true: when profit warnings emerge or [recessions](/recession/) threaten, SMID companies often fall harder because they have less pricing power and less cash to weather downturns.
 
-Interest rates matter more for SMID stocks than for mega-caps. When central banks raise rates, SMID companies feel it: their debt becomes more expensive, and the discount rate investors use to value future earnings rises. This can hammer valuations. Conversely, when rates fall and growth prospects brighten, SMID can stage sharp comebacks.
+[Interest rates](/interest-rate/) matter more for SMID stocks than for mega-caps. When [central banks](/central-bank/) raise rates, SMID companies feel it: their debt becomes more expensive, and the [discount rate](/discount-rate/) investors use to value future earnings rises. This can hammer valuations. Conversely, when rates fall and growth prospects brighten, SMID can stage sharp comebacks.
 
 ## Liquidity, costs, and trading
 
-ASCE trades throughout the day on stock exchanges at prices set by buyers and sellers. The bid-ask spread — the difference between what a buyer will pay and what a seller will accept — is usually tight because the fund is well-known and has decent volume, but it is a cost you incur when you buy or sell. The fund's annual expense ratio is low because it is a passive, index-tracking fund with minimal management overhead.
+ASCE trades throughout the day on [stock exchanges](/stock-exchange/) at prices set by buyers and sellers. The [bid-ask spread](/bid-ask-spread/) — the difference between what a buyer will pay and what a seller will accept — is usually tight because the fund is well-known and has decent volume, but it is a cost you incur when you buy or sell. The fund's annual [expense ratio](/expense-ratio/) is low because it is a passive, index-tracking fund with minimal management overhead.
 
 The fund rebalances quarterly or semi-annually to keep the weights in line with the underlying index as companies rise and fall in value. Those rebalancing trades are kept internal to the fund, so most shareholders don't see them as an explicit cost, but they do reduce returns slightly.
 
 ## Who should own it
 
-ASCE works for investors who believe SMID companies will do well over time and who are comfortable with the volatility that comes with mid-market exposure. It is a core holding — something you might own for years as part of a diversified portfolio alongside large-cap and small-cap funds. It is not a tactical bet on any particular industry or trend. It is simply the middle of the stock market, packaged and available to trade.
+ASCE works for investors who believe SMID companies will do well over time and who are comfortable with the volatility that comes with mid-market exposure. It is a core holding — something you might own for years as part of a diversified portfolio alongside large-cap and small-cap funds. It is not a tactical bet on any particular industry or trend. It is simply the middle of the [stock market](/stock-market/), packaged and available to trade.
 
 To understand what you are holding, look at the fund's top 10 holdings and scan the sectors represented. You will see a mix of businesses that are neither glamorous nor boring — solid companies in industrial, financial, consumer, healthcare, and technology sectors, none of them as dominant in their fields as a mega-cap, but all with real market positions and customer bases.
 

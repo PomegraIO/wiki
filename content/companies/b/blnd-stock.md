@@ -21,7 +21,7 @@ The mortgage industry is one of the largest transaction-processing networks in t
 
 Blend Labs emerged in this void, founded to create a single-pane-of-glass application that could be embedded into a bank or lender's workflow. The platform ingested borrower applications, connected to automated verification services (employment checks, asset verification, credit data), flagged exceptions for human review, and guided the process toward underwriting and closing. For the first time, a mortgage applicant could apply online, check status in real time, and receive updates through a unified system rather than fragmented communications from different departments.
 
-This was not a consumer-facing application like a comparison-shopping site; rather, Blend sold to the [financial institutions](/fisi-stock/) themselves. Banks, mortgage [brokers](/broker/), credit unions, and fintech lenders licensed the platform, embedded it into their origination workflows, and used it to process their own customers' applications. The value proposition to the lender was operational: faster closing times, lower error rates, better compliance documentation, and higher customer satisfaction from transparency.
+This was not a consumer-facing application like a comparison-shopping site; rather, Blend sold to the financial institutions themselves. Banks, mortgage [brokers](/broker/), credit unions, and fintech lenders licensed the platform, embedded it into their origination workflows, and used it to process their own customers' applications. The value proposition to the lender was operational: faster closing times, lower error rates, better compliance documentation, and higher customer satisfaction from transparency.
 
 ## The Infrastructure Play
 

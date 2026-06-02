@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-*Direxion Daily ASML Bull 2X ETF magnifies daily price swings in ASML by a factor of two, resetting that leverage each market close to maintain the 2X multiple regardless of preceding moves.*
+*Direxion Daily [ASML](/asml-stock/) Bull 2X ETF magnifies daily price swings in ASML by a factor of two, resetting that leverage each market close to maintain the 2X multiple regardless of preceding moves.*
 
 > **Leverage without discipline is a tax on optimism.**
 
-That single truth encapsulates ASMU. The fund itself is mechanically sound — it delivers exactly what it promises, a 2X daily return — but the psychological and mathematical traps it creates for investors who underestimate holding periods and volatility are substantial. A trader who understands the mechanics and maintains strict discipline can use ASMU tactically. An investor who holds it longer than intended or fails to monitor it daily is statistically likely to lose money even in a bull market for ASML.
+That single truth encapsulates ASMU. The fund itself is mechanically sound — it delivers exactly what it promises, a 2X daily return — but the psychological and mathematical traps it creates for investors who underestimate [holding periods](/holding-period/) and volatility are substantial. A trader who understands the mechanics and maintains strict discipline can use ASMU tactically. An investor who holds it longer than intended or fails to monitor it daily is statistically likely to lose money even in a [bull market](/bull-market/) for ASML.
 
 ## How ASMU achieves 2X leverage
 
@@ -27,7 +27,7 @@ The daily reset mechanism guarantees the single-day 2X return but creates a math
 
 ## Costs, counterparty risk, and drawdown mechanics
 
-Direxion's expense ratio is substantially higher than holding ASML outright, reflecting the cost of total-return swaps, cash borrowing, and daily rebalancing operations. The fund trades on the NASDAQ with decent volume and reasonably tight bid-ask spreads for a leveraged single-stock vehicle. However, the fund carries counterparty risk: the derivatives dealer providing the swap relationship could face financial stress in a severe market dislocation. Regulatory safeguards mitigate this risk, but the risk does not disappear. The 2X leverage is fully funded and built into the fund structure; there are no margin calls or forced liquidations from the brokerage. However, that permanent 2X leverage means a 10 percent drop in ASML becomes a 20 percent loss in ASMU. A 30 percent semiconductor sector correction becomes a 60 percent loss. Many retail investors underestimate tail risk and hold through extended declines expecting a "bargain," during which bid-ask spreads can widen and swap financing costs compound losses.
+Direxion's [expense ratio](/expense-ratio/) is substantially higher than holding ASML outright, reflecting the cost of total-return swaps, cash borrowing, and daily rebalancing operations. The fund trades on the [NASDAQ](/nasdaq/) with decent volume and reasonably tight [bid-ask spreads](/bid-ask-spread/) for a leveraged single-stock vehicle. However, the fund carries [counterparty risk](/counterparty-risk/): the derivatives dealer providing the swap relationship could face financial stress in a severe market dislocation. Regulatory safeguards mitigate this risk, but the risk does not disappear. The 2X leverage is fully funded and built into the fund structure; there are no [margin calls](/margin-call-forex/) or forced [liquidations](/liquidation/) from the brokerage. However, that permanent 2X leverage means a 10 percent drop in ASML becomes a 20 percent loss in ASMU. A 30 percent semiconductor sector correction becomes a 60 percent loss. Many retail investors underestimate [tail risk](/tail-risk/) and hold through extended declines expecting a "bargain," during which bid-ask spreads can widen and swap financing costs compound losses.
 
 ## The real discipline test
 

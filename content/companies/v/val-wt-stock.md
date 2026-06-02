@@ -14,7 +14,7 @@ handwritten: true
 
 Valaris is a company that owns offshore drilling rigs and contracts them to oil and gas companies. The business is straightforward: Valaris builds or buys a rig, sails it to a location where an energy company has found (or thinks it has found) oil or gas, and charges the energy company a daily rate to use the rig and the crew to drill exploration and production wells. A single rig can cost hundreds of millions of dollars to build. A single contract might run for years or weeks, depending on the project. A single well might take months to drill.
 
-The company was formed through the 2022 merger of Valaris Limited and Nabors Industries' Offshore Solutions segment. The post-merger entity trades under the Valaris name and operates a fleet of more than 60 rigs across multiple classes — some designed for shallow water, some for deep water, some for extreme deepwater where pressures and temperatures are severe. Each rig is staffed with hundreds of workers — drillers, engineers, safety officers, support crew — who live and work offshore for weeks or months at a time.
+The company was formed through the 2022 [merger](/merger/) of Valaris Limited and [Nabors Industries](/nbr-stock/)' Offshore Solutions segment. The post-merger entity trades under the Valaris name and operates a fleet of more than 60 rigs across multiple classes — some designed for shallow water, some for deep water, some for extreme deepwater where pressures and temperatures are severe. Each rig is staffed with hundreds of workers — drillers, engineers, safety officers, support crew — who live and work offshore for weeks or months at a time.
 
 ## Geography and the global rig market
 
@@ -48,7 +48,7 @@ The company competes partly on cost and efficiency — the ability to deliver sa
 
 ## Capital intensity and financing
 
-Valaris's business requires enormous amounts of capital. Each rig costs hundreds of millions of dollars. The company finances new rigs and acquisitions through a combination of debt and equity. High leverage is common in the industry; rig owners borrow against the cash flows their rigs generate. This works well in good times but becomes dangerous in downturns. A rig that generates 70 million dollars in annual cash flow can easily service 400 million dollars in debt. But if that rig becomes idle or day rates collapse, the cash flow disappears, and the company struggles to service the debt.
+Valaris's business requires enormous amounts of capital. Each rig costs hundreds of millions of dollars. The company finances new rigs and [acquisitions](/acquisition/) through a combination of debt and equity. High leverage is common in the industry; rig owners borrow against the cash flows their rigs generate. This works well in good times but becomes dangerous in downturns. A rig that generates 70 million dollars in annual cash flow can easily service 400 million dollars in debt. But if that rig becomes idle or day rates collapse, the cash flow disappears, and the company struggles to service the debt.
 
 Valaris carries substantial debt, which is a source of financial risk. In a severe downturn, the company might struggle to refinance maturing debt or might have to restructure. The 2022 merger included integration of debt from both predecessor companies, and managing that combined debt load is an ongoing challenge.
 

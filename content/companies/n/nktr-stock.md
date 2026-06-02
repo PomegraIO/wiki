@@ -38,7 +38,7 @@ Nektar does not earn revenue from selling drugs to the public. Instead, it inves
 
 This model reflects a fundamental fact about drug development: it is so expensive and so risky that only the largest companies can afford to do it at scale. A typical approved drug costs over a billion dollars to develop and takes ten to fifteen years. Most experimental drugs fail in clinical trials. For a biotech company with finite resources, the strategy is to develop promising early-stage compounds, prove they work in smaller trials, then hand them off to a company with the capital and scale to see them through. The biotech gets some of the upside via royalties, plus lower risk (because if the drug fails later, the biotech's capital loss is smaller). The pharma company gets the benefit of the biotech's specialized scientists and often lower development costs than in-house research.
 
-Nektar's partnerships reflect this reality. The company has licensed compounds to larger names like Merck, [Bristol Myers Squibb](/bmy-stock/), and others. These deals provide cash inflow and de-risk the company's future. But they also mean Nektar's upside is capped: if a licensed drug becomes a blockbuster, Nektar gets a royalty stream, not the full profit.
+Nektar's partnerships reflect this reality. The company has licensed compounds to larger names like [Merck](/mrk-stock/), [Bristol Myers Squibb](/bmy-stock/), and others. These deals provide cash inflow and de-risk the company's future. But they also mean Nektar's upside is capped: if a licensed drug becomes a blockbuster, Nektar gets a royalty stream, not the full profit.
 
 ## What makes Nektar competitive
 

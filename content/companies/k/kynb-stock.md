@@ -38,7 +38,7 @@ If KYNTRA's trials fail, the company's value collapses and may seek a [merger](/
 
 ## The Science and Competitive Context
 
-The obesity and metabolic disease space is increasingly crowded. Major pharmaceutical companies (Eli Lilly, Novo Nordisk, [Amgen](/amgn-stock/), others) have launched or are developing drugs in this space. KYNTRA's differentiation depends on its specific molecule(s), mechanism of action, and clinical data. If KYNTRA's molecule works slightly better, has fewer side effects, or can be dosed more conveniently than competitors, it has a market opportunity. If it does not, it will be displaced by better therapies.
+The obesity and metabolic disease space is increasingly crowded. Major pharmaceutical companies ([Eli Lilly](/lly-stock/), Novo Nordisk, [Amgen](/amgn-stock/), others) have launched or are developing drugs in this space. KYNTRA's differentiation depends on its specific molecule(s), mechanism of action, and clinical data. If KYNTRA's molecule works slightly better, has fewer side effects, or can be dosed more conveniently than competitors, it has a market opportunity. If it does not, it will be displaced by better therapies.
 
 The competitive intensity is not incidental—it is partly why KYNTRA exists as an independent company. Early-stage research into novel mechanisms is often pursued by smaller biotech firms, which take bigger risks and move faster than large pharmaceutical companies. If KYNTRA's science is compelling, a large pharma firm may license or acquire the company. If the science is ordinary or derivative, the company may struggle to differentiate.
 

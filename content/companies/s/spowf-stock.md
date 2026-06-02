@@ -23,7 +23,7 @@ The Peace River region is an established petroleum basin where conventional oil 
 
 Strata is not a producing company. For the nine months ended September 2024, the company recorded minimal revenue—less than $8,000 in total income, almost all of which came from royalty payments on existing leases. Against that meagre inflow, the company incurred ongoing costs for land rental, professional fees, and general administration. The net effect has been consistent operating losses punctuated by occasional periods of break-even or small gains from royalty inflows.
 
-This cost structure is typical of exploration-stage companies: Strata spends money to maintain and explore its leases while awaiting a catalyst—either an internal discovery that raises asset value, a joint venture with a major oil company, or an acquisition by a larger player. Until one of those happens, the company is essentially a land bank, burning cash at a slow rate as it holds and investigates its concessions.
+This cost structure is typical of exploration-stage companies: Strata spends money to maintain and explore its leases while awaiting a catalyst—either an internal discovery that raises asset value, a joint venture with a major oil company, or an [acquisition](/acquisition/) by a larger player. Until one of those happens, the company is essentially a land bank, burning cash at a slow rate as it holds and investigates its concessions.
 
 The oil and gas landscape has shifted dramatically since Strata's founding. Technological improvements in bitumen extraction, the shift toward cleaner energy, and regulatory pressure on carbon emissions have all reshaped the economics of heavy oil development. Peace River projects that looked attractive a decade ago now face headwinds from both supply-side (cost of extraction, environmental compliance) and demand-side (energy transition) trends. Any economic viability will depend on assumptions about long-term oil prices, carbon regulations, and technological breakthroughs in cost reduction.
 
@@ -39,7 +39,7 @@ Beyond the normal exploration risk—that the bitumen deposits prove uneconomic 
 
 The company also faces a liquidity and capital access problem. Strata is a penny stock, thinly traded on the OTC Markets. It has limited access to traditional financing and faces dilution through any new equity raise. In a rising interest-rate environment, the cost of any debt is high.
 
-Finally, there is concentration risk: Strata's entire business is in one geographic area, one commodity (bitumen), and one country (Canada). Diversification of assets or business lines is not part of the strategy.
+Finally, there is [concentration risk](/concentration-risk/): Strata's entire business is in one geographic area, one commodity (bitumen), and one country (Canada). [Diversification](/diversification/) of assets or business lines is not part of the strategy.
 
 ## Researching Strata as an investment
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Liberty Broadband is a cable company that does two things: it owns a large stake in Charter Communications (one of the biggest cable operators in the United States), and it operates its own small but growing broadband business called Liberty Broadband Services. The company was spun out from its parent, Liberty Media, in 2014 as a tax-efficient vehicle to hold Charter shares while maintaining a separate operating business. Today it sits at an unusual crossroads — part strategic shareholder in Charter, part independent broadband operator — each side reinforcing the other.
+[Liberty Broadband](/lbrda-stock/) is a cable company that does two things: it owns a large stake in Charter Communications (one of the biggest cable operators in the United States), and it operates its own small but growing broadband business called Liberty Broadband Services. The company was spun out from its parent, [Liberty Media](/fwona-stock/), in 2014 as a tax-efficient vehicle to hold Charter shares while maintaining a separate operating business. Today it sits at an unusual crossroads — part strategic shareholder in Charter, part independent broadband operator — each side reinforcing the other.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,15 +27,15 @@ Liberty Broadband is a cable company that does two things: it owns a large stake
 
 ## The Charter holding and the tax efficiency story
 
-Here is the fundamental thing to understand about Liberty Broadband: it was engineered as a pure-play vehicle to own Charter Communications shares in a way that would be tax-efficient for both the company and its shareholders. Before the spin-off, this stake sat inside Liberty Media alongside an enormous constellation of other assets — media networks, SiriusXM, and more. The problem was that if Liberty Media wanted to sell down the Charter position or if shareholders wanted different exposure, the transaction would have created a large tax bill.
+Here is the fundamental thing to understand about Liberty Broadband: it was engineered as a pure-play vehicle to own Charter Communications shares in a way that would be tax-efficient for both the company and its shareholders. Before the [spin-off](/spin-off/), this stake sat inside Liberty Media alongside an enormous constellation of other assets — media networks, SiriusXM, and more. The problem was that if Liberty Media wanted to sell down the Charter position or if shareholders wanted different exposure, the transaction would have created a large tax bill.
 
 By spinning out Liberty Broadband in 2014, Liberty Media created a separate public company whose entire purpose, originally, was to hold Charter and nothing else. This structure meant that if Charter needed to raise new capital or if the dynamics of the cable business shifted, the stake could be moved without immediately triggering a tax event for shareholders. That is not flashy, but it is useful for the bottom line. The company holds roughly 24% of Charter, which means it benefits directly from Charter's cash generation and operational performance without running the cable business itself.
 
-The stake matters because Charter is one of the largest cable operators in America. As the parent company of Spectrum, it serves millions of households with video, internet, and phone service. A quarter of that company is genuine value on Liberty Broadband's balance sheet.
+The stake matters because Charter is one of the largest cable operators in America. As the parent company of Spectrum, it serves millions of households with video, internet, and phone service. A quarter of that company is genuine value on Liberty Broadband's [balance sheet](/balance-sheet/).
 
 ## Building the operating business
 
-But holding Charter shares alone does not make for an interesting company story. The other half of Liberty Broadband is its own operating business, Liberty Broadband Services, which began as a small collection of cable systems in the rural Midwest and has evolved into a multi-technology broadband platform. The company operates in underserved and unserved markets — places where large incumbents like Charter and Comcast have little presence or incentive to build.
+But holding Charter shares alone does not make for an interesting company story. The other half of Liberty Broadband is its own operating business, Liberty Broadband Services, which began as a small collection of cable systems in the rural Midwest and has evolved into a multi-technology broadband platform. The company operates in underserved and unserved markets — places where large incumbents like Charter and [Comcast](/cmcsa-stock/) have little presence or incentive to build.
 
 This matters because of the digital divide. There are still vast swaths of rural America without reliable high-speed internet. Local cable franchises, satellite, and increasingly fixed wireless access are the technologies that reach these areas. Liberty Broadband Services has built out fiber in some markets and has been aggressively deploying fixed wireless access (FWA) — a technology that sends broadband via radio signals from ground stations to home receivers. Fixed wireless is faster than satellite, cheaper to deploy than fiber, and competitive with cable in many areas. It is not a panacea, but for a rural household, it often means the difference between 3 Mbps and 300 Mbps.
 
@@ -59,7 +59,7 @@ The company has also benefited from a shift toward broadband-only offerings. Few
 
 ## Capital structure and dividends
 
-Liberty Broadband is controlled by Liberty Media, which owns roughly 48% of the company's shares. That controlling stake means that Liberty Media's decisions about capital allocation — how much cash to retain versus how much to pay out to shareholders — carry outsized weight. The company has historically paid down its debt and reinvested in the broadband business while maintaining a modest dividend for common shareholders. The priority has been building the Liberty Broadband Services platform rather than maximizing current income.
+Liberty Broadband is controlled by Liberty Media, which owns roughly 48% of the company's shares. That controlling stake means that Liberty Media's decisions about capital allocation — how much cash to retain versus how much to pay out to shareholders — carry outsized weight. The company has historically paid down its debt and reinvested in the broadband business while maintaining a modest [dividend](/dividend/) for common shareholders. The priority has been building the Liberty Broadband Services platform rather than maximizing current income.
 
 This matters because it signals how the company views its future. Dividends and buybacks are ways to return cash to shareholders; debt paydown and investment signal confidence in future growth. The balance between the two is a clue to whether management believes the current assets (the Charter stake, the broadband operations) are mature cash cows or platforms with runway to grow.
 
@@ -69,7 +69,7 @@ The largest risk to Liberty Broadband is also its largest asset: the Charter pos
 
 The second risk is the capital intensity of broadband deployment. Fiber and fixed wireless both require ongoing investment to stay competitive. If the broadband business does not generate enough cash to sustain its growth rate, the company will need to tap the balance sheet or the Charter stake to keep building. That is manageable but not costless.
 
-Third, there is execution risk. Building a nationwide broadband network is hard. It requires recruiting talent, managing regulatory relationships, and staying ahead of fast-moving technology. A small company can be nimble, but it can also be knocked off course by a bad acquisition or a strategic misstep.
+Third, there is execution risk. Building a nationwide broadband network is hard. It requires recruiting talent, managing regulatory relationships, and staying ahead of fast-moving technology. A small company can be nimble, but it can also be knocked off course by a bad [acquisition](/acquisition/) or a strategic misstep.
 
 ## How to research Liberty Broadband
 

@@ -35,7 +35,7 @@ The fund holds hundreds of individual positions across this spectrum. It is not 
 
 ## Why someone would buy it
 
-The core appeal is simple: income. If you want your portfolio to generate dividends and other distributions regularly, and you do not want to assemble the portfolio yourself, a closed-end fund like SCD does the work. The manager (in this case Franklin Templeton, a large investment company) decides which stocks, bonds, and partnerships to buy, rebalances the portfolio, and handles all the administration.
+The core appeal is simple: income. If you want your portfolio to generate dividends and other distributions regularly, and you do not want to assemble the portfolio yourself, a closed-end fund like SCD does the work. The manager (in this case [Franklin Templeton](/fgdl-stock/), a large investment company) decides which stocks, bonds, and partnerships to buy, rebalances the portfolio, and handles all the administration.
 
 The second appeal is leverage. Some [closed-end funds](/closed-end-fund/) borrow money to buy more assets than they could with investor capital alone. This amplifies both gains and losses. SCD uses leverage to enhance its yield—that is, to produce higher distributions than it could without borrowing. That borrowed money is a source of both opportunity and risk. When [interest rates](/interest-rate/) rise, the cost of that leverage increases, which compresses the margin between what the fund earns and what it pays out.
 

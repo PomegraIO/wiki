@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-NextEra Energy operates across two distinct but interdependent business lines, each with its own economics and competitive dynamics. Understanding the company requires understanding both the regulated utility that funds dividends and the renewable-energy operator that drives growth.
+[NextEra Energy](/nee-stock/) operates across two distinct but interdependent business lines, each with its own economics and competitive dynamics. Understanding the company requires understanding both the regulated utility that funds [dividends](/dividend/) and the renewable-energy operator that drives growth.
 
 ## Florida Power & Light: the regulated backbone
 
@@ -49,4 +49,4 @@ Commodity risk is a third factor. Long-term contracts shield Resources from day-
 
 ## How to research NextEra Energy
 
-Start with the 10-K filing (SEC CIK 0000753308), which breaks results between Florida Power & Light and NextEra Energy Resources. For the utility, focus on regulatory filings, customer growth, electricity-demand trends, and capital-spending plans. For Resources, examine contracted backlog, average contract prices, and geographic diversity. Quarterly earnings calls are essential—management commentary on regulatory progress at FPL and project pipelines at Resources reveals the health of both engines. Watch the company's leverage ratios and credit spreads; utilities are capital-intensive and rely on debt markets for funding. Finally, track state and federal policy developments: Florida regulatory proceedings affecting FPL's rate cases, and federal tax-credit and renewable-mandate legislation affecting Resources' investment climate.
+Start with the 10-K filing (SEC CIK 0000753308), which breaks results between Florida Power & Light and NextEra Energy Resources. For the utility, focus on regulatory filings, customer growth, electricity-demand trends, and capital-spending plans. For Resources, examine contracted backlog, average contract prices, and geographic diversity. Quarterly earnings calls are essential—management commentary on regulatory progress at FPL and project pipelines at Resources reveals the health of both engines. Watch the company's [leverage ratios](/leverage-ratio-forex/) and [credit spreads](/credit-spread/); utilities are capital-intensive and rely on debt markets for funding. Finally, track state and federal policy developments: Florida regulatory proceedings affecting FPL's rate cases, and federal tax-credit and renewable-mandate legislation affecting Resources' investment climate.

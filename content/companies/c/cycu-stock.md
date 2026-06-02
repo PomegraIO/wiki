@@ -21,7 +21,7 @@ Cycurion's scientific premise centers on the observation that cancer cells repro
 
 The company is developing molecules designed to disrupt these metabolic pathways, with the goal of (1) slowing or halting cancer growth and (2) simultaneously reversing the immunosuppressive landscape so that checkpoint inhibitors or cellular therapies work more effectively. This represents a "platform" approach: the same metabolic insight could theoretically be applied across multiple tumor types and in combination with various immune activators.
 
-The scientific rationale is sound and well-grounded in academic literature. Many large pharmaceutical and biotech companies (Roche, Merck, Genmab, others) are pursuing metabolic oncology in parallel. Cycurion's differentiation will ultimately rest on the selectivity, potency, and clinical performance of its specific compounds—information that will only emerge through preclinical and early clinical work.
+The scientific rationale is sound and well-grounded in academic literature. Many large pharmaceutical and biotech companies (Roche, [Merck](/mrk-stock/), Genmab, others) are pursuing metabolic oncology in parallel. Cycurion's differentiation will ultimately rest on the selectivity, potency, and clinical performance of its specific compounds—information that will only emerge through preclinical and early clinical work.
 
 ## Secular Tailwind: Aging Populations and Oncology Prevalence
 

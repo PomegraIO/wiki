@@ -60,7 +60,7 @@ For SMBC, the core pressure is margin compression: the gap between what it pays 
 
 Southern Missouri Bancorp's performance is tethered to the health of the region it serves. If unemployment rises locally, loan defaults increase. If regional deposits decline because major employers shrink or leave, the bank loses its funding base. The company competes with other regional and national banks, and with digital alternatives, on service, familiarity, and convenience.
 
-The bank's durability depends on keeping customers sticky — depositors who feel they have a relationship and won't shop for better rates, and borrowers who value local relationship banking enough to accept slightly higher rates or less optimized terms than a large [national bank](/nbhc-stock/) would offer.
+The bank's durability depends on keeping customers sticky — depositors who feel they have a relationship and won't shop for better rates, and borrowers who value local relationship banking enough to accept slightly higher rates or less optimized terms than a large national bank would offer.
 
 ## How to research Southern Missouri Bancorp
 

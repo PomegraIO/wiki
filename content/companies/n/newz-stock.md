@@ -17,23 +17,23 @@ NEWZ is an **actively managed exchange-traded fund** sponsored by StockSnips tha
 
 StockSnips' approach rests on the theory that asset prices lag changes in sentiment. By analyzing earnings reports, news articles, social media chatter, and analyst commentary, the algorithm generates sentiment scores for each stock. Stocks with positive-trending scores are favored; those with deteriorating sentiment are avoided or sold. The algorithm weights these scores to build a diversified portfolio of 50 to 200 stocks.
 
-The appeal is intuitive: if the algorithm can spot sentiment shifts before they're reflected in price, it can buy before prices rise or sell before they fall. Machine learning models are trained on historical data to refine which sentiment signals actually predict price movement. This is quantitative or systematic investing — rule-based, not discretionary.
+The appeal is intuitive: if the algorithm can spot sentiment shifts before they're reflected in price, it can buy before prices rise or sell before they fall. Machine learning models are trained on historical data to refine which sentiment signals actually predict price movement. This is quantitative or [systematic investing](/systematic-investing/) — rule-based, not discretionary.
 
 ## What it holds and risk management
 
-NEWZ holds only common stocks, no bonds or alternatives. Because it selects from all market capitalizations, the portfolio is not restricted to the S&P 500 or Nasdaq 100. Holdings may include smaller, less-liquid companies that carry higher idiosyncratic risk. The fund does not short stocks, so it has no negative exposure to upward markets. Instead, it relies on stock selection.
+NEWZ holds only [common stocks](/common-stock/), no [bonds](/bond/) or alternatives. Because it selects from all [market capitalizations](/market-capitalization/), the portfolio is not restricted to the S&P 500 or [Nasdaq](/nasdaq/) 100. Holdings may include smaller, less-liquid companies that carry higher [idiosyncratic risk](/idiosyncratic-risk/). The fund does not short stocks, so it has no negative exposure to upward markets. Instead, it relies on stock selection.
 
 Sector exposure is not fixed; it floats based on the algorithm's view of sector sentiment. In a period when technology stocks have positive sentiment across the board, the portfolio may tilt technology-heavy. In another period, the algorithm may find better signals in industrials or healthcare. Concentration is managed through position limits: no single holding typically exceeds 5% or so, and sector exposure is capped to prevent the portfolio from becoming too narrow.
 
 ## Costs and the active-management trade-off
 
-NEWZ carries an expense ratio higher than a passive index fund because of the cost of running the algorithm, the data feeds, and the frequent rebalancing required to keep the portfolio in sync with updated sentiment scores. The prospectus discloses this ratio. Investors should expect to pay for the privilege of active management, which means the fund has to outperform a comparable passive index by more than its fee just to break even.
+NEWZ carries an [expense ratio](/expense-ratio/) higher than a passive [index fund](/index-fund/) because of the cost of running the algorithm, the data feeds, and the frequent rebalancing required to keep the portfolio in sync with updated sentiment scores. The prospectus discloses this ratio. Investors should expect to pay for the privilege of active management, which means the fund has to outperform a comparable passive index by more than its fee just to break even.
 
-Trading costs arise from regular rebalancing as sentiment scores change. Every buy and sell incurs a small bid-ask spread and potentially market-impact costs if the fund is large. These "turnover costs" are not explicitly shown in the expense ratio but are a real drag on net returns.
+Trading costs arise from regular rebalancing as sentiment scores change. Every buy and sell incurs a small [bid-ask spread](/bid-ask-spread/) and potentially market-impact costs if the fund is large. These "turnover costs" are not explicitly shown in the expense ratio but are a real drag on net returns.
 
 ## Who it is for and the real constraints
 
-NEWZ appeals to investors who believe sentiment analysis and machine learning can systematically outperform the market, and who accept the costs of active management and tracking error. It is not for passive index investors seeking low-cost, broad exposure. It is also not for risk-averse or income-focused investors, since small-cap exposure can be volatile and the fund pays no dividend.
+NEWZ appeals to investors who believe sentiment analysis and machine learning can systematically outperform the market, and who accept the costs of active management and tracking error. It is not for passive index investors seeking low-cost, broad exposure. It is also not for risk-averse or income-focused investors, since small-cap exposure can be volatile and the fund pays no [dividend](/dividend/).
 
 The deeper question is whether sentiment-based algorithms actually add value. Many studies find that sentiment signals are weak, that trading costs eat the outperformance, and that historical backtests overstate what the fund can achieve in live trading. Investors should be skeptical: past backtested performance is not a promise of future results, and the bar for active management is high.
 

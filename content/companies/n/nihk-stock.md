@@ -35,7 +35,7 @@ A technology holding company pursuing multiple emerging sectors faces several di
 
 The second is capital allocation. Multiple early-stage technology ventures require funding, and capital is finite. If management directs resources poorly — investing heavily in a failing initiative while starving a promising one — the company destroys shareholder value. This requires discipline and ruthlessness in shutting down initiatives that aren't working, which many management teams lack.
 
-The third is timing and market risk. Electric vehicles, artificial intelligence, and robotics are real, growing markets. But the timeline matters enormously. If NIHK's EV technology reaches scale just as larger automakers flood the market with their own offerings, the company could find itself competing against better-capitalized rivals with established dealer networks and customer relationships. Timing and first-mover advantage matter, but they're difficult to predict.
+The third is timing and [market risk](/market-risk/). Electric vehicles, artificial intelligence, and robotics are real, growing markets. But the timeline matters enormously. If NIHK's EV technology reaches scale just as larger automakers flood the market with their own offerings, the company could find itself competing against better-capitalized rivals with established dealer networks and customer relationships. Timing and first-mover advantage matter, but they're difficult to predict.
 
 The fourth is financial risk. A small, OTC-traded holding company may struggle to raise capital efficiently if it needs funding. Bank debt is harder to access. Issuing new shares dilutes existing holders. The company may have to accept unfavorable capital terms, which erodes returns.
 

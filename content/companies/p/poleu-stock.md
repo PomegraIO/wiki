@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Andretti Acquisition Corp. II is a special purpose acquisition company, or SPAC. Think of it as a blank check. A SPAC is an empty shell company created for one purpose: to raise money from public investors, then use that money to buy a real company and bring it public without the lengthy traditional IPO process. The money comes in, sits in a bank account, and waits. The Andretti team has a few years to find a company it wants to buy. When they find one, shareholders vote on the deal. If it passes, the two companies merge, and suddenly the real company is public.
+[Andretti Acquisition Corp. II](/pole-stock/) is a special purpose [acquisition](/acquisition/) company, or SPAC. Think of it as a blank check. A SPAC is an empty shell company created for one purpose: to raise money from public investors, then use that money to buy a real company and bring it public without the lengthy traditional IPO process. The money comes in, sits in a bank account, and waits. The Andretti team has a few years to find a company it wants to buy. When they find one, shareholders vote on the deal. If it passes, the two companies merge, and suddenly the real company is public.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,7 +38,7 @@ This has upsides and downsides. The upside: you get into a potentially valuable 
 
 ## The Andretti name and incentives
 
-Andretti Acquisition Corp. II is sponsored by the Andretti family, well known in auto racing (Mario, Michael, and Marco Andretti are famous drivers and team owners). The Andretti name carries some credibility, which helped market the SPAC to investors. But a famous name does not guarantee good investment decisions. The Andretti team's incentive is to find a target company, strike a deal, and close the merger — which earns them a return and validates the SPAC. They also own founder shares (stock they received just for creating the company) that become valuable once a merger closes. This creates potential misalignment: they might be motivated to do a deal, any deal, to hit the deadline, rather than waiting for exactly the right company.
+Andretti Acquisition Corp. II is sponsored by the Andretti family, well known in auto racing (Mario, Michael, and Marco Andretti are famous drivers and team owners). The Andretti name carries some credibility, which helped market the SPAC to investors. But a famous name does not guarantee good investment decisions. The Andretti team's incentive is to find a target company, strike a deal, and close the [merger](/merger/) — which earns them a return and validates the SPAC. They also own [founder shares](/founder-shares/) (stock they received just for creating the company) that become valuable once a merger closes. This creates potential misalignment: they might be motivated to do a deal, any deal, to hit the deadline, rather than waiting for exactly the right company.
 
 ## The deal economics
 

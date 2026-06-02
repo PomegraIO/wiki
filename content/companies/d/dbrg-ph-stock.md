@@ -12,7 +12,7 @@ handwritten: true
 
 DigitalBridge Group, Inc. manages money for other people. Specifically, it manages about 108 billion dollars worth of digital infrastructure — the real, physical stuff that makes modern communications work. This includes data centers where information lives, cell towers that broadcast signals, fiber networks that carry data over distance, and edge computing facilities located closer to where that data gets used.
 
-The company trades publicly. Its common stock trades under the ticker DBRG. But it also has preferred stock outstanding, different flavors issued at different times and offering different terms. DBRG-PH is one such preferred share class. To understand what that share represents, you need to understand the parent company and how it makes money.
+The company trades publicly. Its [common stock](/common-stock/) trades under the ticker DBRG. But it also has [preferred stock](/preferred-stock/) outstanding, different flavors issued at different times and offering different terms. DBRG-PH is one such preferred [share class](/share-class/). To understand what that share represents, you need to understand the parent company and how it makes money.
 
 <aside class="wiki-infobox">
 <table>
@@ -36,7 +36,7 @@ These are boring-sounding businesses that make interesting money. A data center,
 
 ## How the company earns
 
-DigitalBridge earns money in two main ways. First, it charges management fees — typically a small percentage of the assets its funds control — for selecting investments, monitoring them, managing the team that operates them, and eventually exiting them when the time is right. Second, it participates in profits. When a fund buys a data center for 50 million dollars and sells it five years later for 75 million dollars, DigitalBridge takes a share of that 25 million dollar gain.
+DigitalBridge earns money in two main ways. First, it charges [management fees](/management-fee/) — typically a small percentage of the assets its funds control — for selecting investments, monitoring them, managing the team that operates them, and eventually exiting them when the time is right. Second, it participates in profits. When a fund buys a data center for 50 million dollars and sells it five years later for 75 million dollars, DigitalBridge takes a share of that 25 million dollar gain.
 
 This model means DigitalBridge's fortunes depend on two things: the size of the assets it manages (bigger pools mean bigger fees), and the success of those investments (better returns attract new capital and justify bigger profit shares).
 
@@ -46,11 +46,11 @@ Digital infrastructure businesses cycle with the broader economy, but in a muted
 
 During downturns, demand growth slows. Corporations cut spending or defer expansion. Rents stabilize or soften. Asset values stay roughly flat rather than falling sharply, because the underlying assets still generate reasonable cash flow and still have decades of useful life ahead.
 
-But the cycle still bites. A severe recession can push several tower tenants into financial difficulty, delaying rent payments or ending contracts. Data-center customers might reduce their footprint if they shift computing to the cloud. Over a full cycle, returns compress during downturns and expand during upturns.
+But the cycle still bites. A severe [recession](/recession/) can push several tower tenants into financial difficulty, delaying rent payments or ending contracts. Data-center customers might reduce their footprint if they shift computing to the cloud. Over a full cycle, returns compress during downturns and expand during upturns.
 
 ## What preferred stock means
 
-DigitalBridge-PH is preferred stock, not common stock. That means it has priority claim on dividends — the company must pay preferred holders before it pays common shareholders. In exchange, preferred holders typically don't get voting power and often accept a fixed dividend rate rather than the variable income that common shareholders receive.
+DigitalBridge-PH is preferred stock, not common stock. That means it has priority claim on [dividends](/dividend/) — the company must pay preferred holders before it pays common shareholders. In exchange, preferred holders typically don't get voting power and often accept a fixed dividend rate rather than the variable income that common shareholders receive.
 
 A preferred share is riskier than debt — if DigitalBridge ran into serious financial trouble, bondholders would be paid before preferred shareholders. But preferred is safer than common equity — you'll collect your dividend before common shareholders see a penny, and if the company is liquidated, you're higher in the queue.
 

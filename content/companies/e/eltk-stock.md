@@ -47,13 +47,13 @@ If Eltek grows revenue 20% year-over-year, the working capital required to suppo
 
 ## Debt Structure and Covenant Compliance
 
-Electronics manufacturers often use asset-based lending or revolving credit facilities secured by inventory and accounts receivable. Eltek's balance sheet likely shows term loans or revolving credit lines. The 10-K discloses the terms: [interest rates](/interest-rate/), maturity dates, and covenants (restrictions on dividend payments, minimum cash balances, or maximum [debt-to-equity ratios](/debt-to-equity-ratio/) that trigger default if violated).
+Electronics manufacturers often use asset-based lending or revolving credit facilities secured by inventory and accounts receivable. Eltek's balance sheet likely shows term loans or revolving credit lines. The 10-K discloses the terms: [interest rates](/interest-rate/), maturity dates, and covenants (restrictions on [dividend](/dividend/) payments, minimum cash balances, or maximum [debt-to-equity ratios](/debt-to-equity-ratio/) that trigger default if violated).
 
 For a company with volatile demand cycles, covenant compliance can be fragile. If operating performance deteriorates, Eltek might breach debt covenants and lose access to credit, forcing an emergency refinance or equity raise on unfavorable terms.
 
 ## Israeli Operations and Currency Exposure
 
-Eltek is incorporated in Israel and operates manufacturing there. The Israeli shekel fluctuates against the US dollar, euro, and other currencies. Eltek exports products to customers worldwide, earning revenue in various currencies. Expenses (wages, rent, utilities) are in shekels. If the shekel strengthens, Eltek's [operating margins](/operating-margin/) compress (products are more expensive to foreign customers); if the shekel weakens, margins improve.
+Eltek is incorporated in Israel and operates manufacturing there. The Israeli shekel fluctuates against the [US dollar](/us-dollar/), euro, and other currencies. Eltek exports products to customers worldwide, earning revenue in various currencies. Expenses (wages, rent, utilities) are in shekels. If the shekel strengthens, Eltek's [operating margins](/operating-margin/) compress (products are more expensive to foreign customers); if the shekel weakens, margins improve.
 
 The balance sheet and income statement may show foreign exchange gains or losses. A 10-K reader checks whether Eltek hedges its currency exposure (using [forward contracts](/forward-contract/) or options to lock in exchange rates) or bears the risk directly.
 

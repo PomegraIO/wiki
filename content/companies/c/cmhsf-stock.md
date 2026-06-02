@@ -4,7 +4,7 @@ description: "Canadian healthcare services firm; capital structure reflects tran
 keywords: [Canadian healthcare, health services, capital markets, provincial regulation, healthcare financing]
 ---
 
-*Comprehensive Healthcare Systems Inc. operates [healthcare services](/hcsg-stock/) and facilities across Canada, navigating a business model funded through a hybrid of government contracts, private-pay revenue, and public equity. The company's capital structure reflects the constraints and stability of provincial health-system partnerships alongside growth ambitions in private rehabilitation, long-term care, and diagnostic services.*
+*Comprehensive Healthcare Systems Inc. operates healthcare services and facilities across Canada, navigating a business model funded through a hybrid of government contracts, private-pay revenue, and public equity. The company's capital structure reflects the constraints and stability of provincial health-system partnerships alongside growth ambitions in private rehabilitation, long-term care, and diagnostic services.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CMHSF</td></tr>

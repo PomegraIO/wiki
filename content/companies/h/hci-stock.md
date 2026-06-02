@@ -31,7 +31,7 @@ HCI Group operates at an unusual intersection for an insurer: property insurance
 
 ## The Insurance Business
 
-The core operation is HCI Insurance Company, a property casualty insurer licensed in Florida and a handful of other states. The business writes homeowners' insurance—policies that cover dwelling structures, personal property, and liability. In an industry dominated by titans like State Farm and Allstate and by regional Florida specialists, HCI competes on agility and pricing discipline, concentrating underwriting risk in coastal and near-coastal properties where hurricanes matter most.
+The core operation is HCI Insurance Company, a property casualty insurer licensed in Florida and a handful of other states. The business writes [homeowners' insurance](/homeowners-insurance/)—policies that cover dwelling structures, personal property, and liability. In an industry dominated by titans like State Farm and Allstate and by regional Florida specialists, HCI competes on agility and pricing discipline, concentrating underwriting risk in coastal and near-coastal properties where hurricanes matter most.
 
 Homeowners' insurance in Florida is intrinsically volatile. Catastrophe exposure is concentrated; a single hurricane season can wipe years of underwriting profit. The state's insurance market is also unusual: a state-backed insurer of last resort, Citizens Property Insurance, acts as a pricing and risk-management benchmark that private carriers must navigate. HCI's strategy has been to maintain disciplined underwriting, avoid excessive loss-ratio deterioration, and scale cautiously relative to its [balance sheet](/balance-sheet/) rather than chase market share at the cost of safety.
 

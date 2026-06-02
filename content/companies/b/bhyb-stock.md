@@ -10,23 +10,23 @@ keywords:
 handwritten: true
 ---
 
-*The **Xtrackers USD High Yield BB-B ex Financials ETF** (ticker BHYB) is a fixed-income fund offering exposure to corporate bonds rated in the speculative-grade range, constructed to exclude financial institutions and focus on industrial and utility borrowers.*
+*The **Xtrackers USD High Yield BB-B ex Financials ETF** (ticker BHYB) is a fixed-income fund offering exposure to [corporate bonds](/corporate-bond/) rated in the speculative-grade range, constructed to exclude financial institutions and focus on industrial and utility borrowers.*
 
 ## The bond universe this fund covers
 
-BHYB operates in a specific segment of the corporate-debt market: speculative-grade or junk bonds rated BB or B by major rating agencies. These are companies with weaker balance sheets, higher debt levels, or riskier business models than investment-grade borrowers. They pay higher interest rates to compensate investors for the elevated default risk. The "ex Financials" restriction means the fund excludes banks, insurance companies, and other financial institutions, focusing instead on manufacturing, industrials, utilities, retail, and consumer companies.
+BHYB operates in a specific segment of the corporate-debt market: speculative-grade or [junk bonds](/junk-bond/) rated BB or B by major rating agencies. These are companies with weaker [balance sheets](/balance-sheet/), higher debt levels, or riskier business models than investment-grade borrowers. They pay higher [interest rates](/interest-rate/) to compensate investors for the elevated default risk. The "ex Financials" restriction means the fund excludes banks, insurance companies, and other financial institutions, focusing instead on manufacturing, industrials, utilities, retail, and consumer companies.
 
-This is not a bond fund for the risk-averse. Speculative-grade bonds carry real credit risk — companies do default, and when they do, bondholders may recover only a fraction of principal. In recessions and financial stress, high-yield bonds fall in price and credit spreads widen, creating losses for investors even if the company does not technically default.
+This is not a [bond](/bond/) fund for the risk-averse. Speculative-grade bonds carry real [credit risk](/credit-risk/) — companies do default, and when they do, bondholders may recover only a fraction of principal. In [recessions](/recession/) and financial stress, [high-yield bonds](/high-yield-bond/) fall in price and [credit spreads](/credit-spread/) widen, creating losses for investors even if the company does not technically default.
 
 ## How the fund constructs its portfolio
 
-BHYB tracks an underlying index of speculative-grade corporate bonds. The index methodology selects bonds based on credit rating (BB or B), maturity (typically bonds with remaining life of 1–30 years), and issuer exclusions (banks and financial firms). The fund holds dozens of individual bonds, rebalancing periodically to maintain exposure to the broad universe of BB- and B-rated debt from non-financial corporates.
+BHYB tracks an underlying index of speculative-grade corporate bonds. The index methodology selects bonds based on [credit rating](/credit-rating/) (BB or B), maturity (typically bonds with remaining life of 1–30 years), and issuer exclusions (banks and financial firms). The fund holds dozens of individual bonds, rebalancing periodically to maintain exposure to the broad universe of BB- and B-rated debt from non-financial corporates.
 
-Because bonds have different coupon rates, maturities, and credit qualities, the portfolio is inherently diversified — no single issuer's credit event would devastate a fund of this size. However, the diversity is relative: during a broad credit crisis or recession, even fundamentally sound companies in the BB-B space can experience rising borrowing costs and price declines.
+Because bonds have different [coupon rates](/coupon-rate/), maturities, and credit qualities, the portfolio is inherently diversified — no single issuer's [credit event](/credit-event-sovereign/) would devastate a fund of this size. However, the diversity is relative: during a broad credit crisis or recession, even fundamentally sound companies in the BB-B space can experience rising borrowing costs and price declines.
 
 ## Current yield and income generation
 
-High-yield bonds exist specifically to pay investors more than safer bonds. BHYB's yield — the interest payments the fund receives annually expressed as a percentage of the fund's net asset value — is considerably higher than a treasury fund or an investment-grade corporate fund would be. That yield is the compensation for credit risk, duration risk, and the real possibility of capital loss.
+High-yield bonds exist specifically to pay investors more than safer bonds. BHYB's yield — the interest payments the fund receives annually expressed as a percentage of the fund's [net asset value](/net-asset-value/) — is considerably higher than a treasury fund or an investment-grade corporate fund would be. That yield is the compensation for credit risk, duration risk, and the real possibility of capital loss.
 
 The fund distributes this income to shareholders, typically monthly or quarterly, creating a steady stream of cash. In a rising-rate environment, the income is reassuring; in a falling-rate or recessionary environment, investors must weigh the income against potential principal losses.
 
@@ -40,17 +40,17 @@ The real driver of high-yield performance is credit spread — the extra yield i
 
 ## Default and recovery risk
 
-In any given year, a handful of issuers in the high-yield universe default on their bonds. Recovery rates vary: a company in a valuable industry may emerge from restructuring with creditors recovering 40–60 cents on the dollar, while a company in a declining industry may pay out little. BHYB's diversification reduces single-issuer default risk, but it does not eliminate the category risk. During a recession or credit shock, multiple defaults can occur, depressing the fund's value.
+In any given year, a handful of issuers in the high-yield universe default on their bonds. Recovery rates vary: a company in a valuable industry may emerge from restructuring with creditors recovering 40–60 cents on the dollar, while a company in a declining industry may pay out little. BHYB's [diversification](/diversification/) reduces single-issuer default risk, but it does not eliminate the category risk. During a recession or credit shock, multiple defaults can occur, depressing the fund's value.
 
 ## Expense ratio and trading costs
 
-BHYB's expense ratio — the annual fee charged for management — is typically modest for a passive index fund, a low percentage of assets under management. As a bond fund, it trades at net asset value on the exchange, not at changing market prices like an equity ETF, and transaction costs are minimal for retail investors buying and selling shares.
+BHYB's [expense ratio](/expense-ratio/) — the annual fee charged for management — is typically modest for a passive [index fund](/index-fund/), a low percentage of assets under management. As a bond fund, it trades at net asset value on the exchange, not at changing market prices like an [equity ETF](/equity-etf/), and transaction costs are minimal for retail investors buying and selling shares.
 
 ## Who should hold this fund and why
 
 BHYB suits income-focused investors seeking yield above what safer bonds offer and who can tolerate principal fluctuation. It appeals to retirees, yield-chasing investors, and those building a diversified fixed-income allocation. It is not suitable for investors with short time horizons, low risk tolerance, or those who cannot weather a 10–20% drawdown in a credit shock.
 
-Conservative investors should hold a smaller allocation to high-yield bonds, balancing it with investment-grade bonds and treasuries. Aggressive investors with high income needs and a long time horizon can hold a larger allocation and weather near-term volatility.
+Conservative investors should hold a smaller allocation to high-yield bonds, balancing it with [investment-grade bonds](/investment-grade-bond/) and treasuries. Aggressive investors with high income needs and a long time horizon can hold a larger allocation and weather near-term volatility.
 
 ## Research and due diligence
 

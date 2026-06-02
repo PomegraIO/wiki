@@ -15,7 +15,7 @@ handwritten: true
 
 ## What LRND tracks and why
 
-LRND is built on a specific thesis: that companies which invest the most in research and development, relative to the revenue they generate today, tend to possess durable competitive advantages and be willing to sacrifice near-term profits for long-term market share. The fund selects from the universe of large-cap U.S. stocks — firms typically with market capitalizations in the billions — and then weights its holdings based on trailing research and development expenditure as a percentage of sales.
+LRND is built on a specific thesis: that companies which invest the most in research and development, relative to the revenue they generate today, tend to possess durable competitive advantages and be willing to sacrifice near-term profits for long-term market share. The fund selects from the universe of large-cap U.S. stocks — firms typically with [market capitalizations](/market-capitalization/) in the billions — and then weights its holdings based on trailing research and development expenditure as a percentage of sales.
 
 This means the fund is tilted toward certain sectors almost by design. Technology companies, pharmaceuticals and biotechnology, and industrial manufacturers with heavy engineering costs tend to appear overweighted, because these industries simply spend more on R&D as a matter of business model. A software company that invests forty percent of revenue into engineering and product teams will rank higher in the fund than a utilities company that invests one percent, even if both are profitable and well-managed. LRND is therefore not a broadly representative index of the largest U.S. firms; it is a thematic fund with a deliberate tilt.
 
@@ -23,9 +23,9 @@ The rationale rests on the idea that R&D spending reveals management's true prio
 
 ## Structure, costs, and how it trades
 
-LRND is a conventional exchange-traded fund — not a leveraged product, not an inverse product, not a structured note. It trades during market hours on a stock exchange like any other security, with a fund symbol you can buy and sell through a standard brokerage account. The liquidity depends on the size and popularity of the fund; broadly, larger and more-established ETFs tend to have tighter bid-ask spreads, while newer or smaller funds may require a wider margin to fill a trade.
+LRND is a conventional exchange-traded fund — not a leveraged product, not an inverse product, not a structured note. It trades during market hours on a [stock exchange](/stock-exchange/) like any other security, with a fund symbol you can buy and sell through a standard brokerage account. The liquidity depends on the size and popularity of the fund; broadly, larger and more-established ETFs tend to have tighter [bid-ask spreads](/bid-ask-spread/), while newer or smaller funds may require a wider margin to fill a trade.
 
-The fund carries an expense ratio that covers the costs of running the fund — management fees, data licensing for the R&D metrics, trading to maintain the holdings, and administrative overhead. That ratio is one of the few publicly disclosed costs and is a reasonable way to compare the fund to competitors. Beyond the expense ratio, investors encounter transaction costs when buying or selling (the bid-ask spread) and tax consequences if they hold the fund in a taxable account, since rebalancing or holdings turnover can trigger capital gains.
+The fund carries an [expense ratio](/expense-ratio/) that covers the costs of running the fund — [management fees](/management-fee/), data licensing for the R&D metrics, trading to maintain the holdings, and administrative overhead. That ratio is one of the few publicly disclosed costs and is a reasonable way to compare the fund to competitors. Beyond the expense ratio, investors encounter transaction costs when buying or selling (the bid-ask spread) and tax consequences if they hold the fund in a taxable account, since rebalancing or holdings turnover can trigger capital gains.
 
 LRND rebalances periodically — typically quarterly or annually, though the exact schedule varies by fund policy — to maintain the weighting scheme and to incorporate updated R&D spending figures. That rebalancing can generate some turnover, and higher turnover typically means higher trading costs and more tax-generating events.
 
@@ -33,7 +33,7 @@ LRND rebalances periodically — typically quarterly or annually, though the exa
 
 LRND is most relevant to investors who believe that R&D spending is a reliable signal of competitive advantage and future returns, and who want to build a concentrated bet on that theme without picking individual stocks. The fund appeals to those who think the technology and innovation-driven sectors will outperform and who prefer owning a broad basket of the most R&D-intensive names rather than betting on a single company.
 
-Because LRND overweights technology and related sectors, it carries sector concentration risk — if those industries underperform, the fund likely underperforms broadly. It is also best suited to longer-term holders, since the daily volatility of growth-heavy stocks and the effects of rebalancing may detract from shorter-term returns. An investor with a low tolerance for drawdowns or who needs the money within a few years should be cautious.
+Because LRND overweights technology and related sectors, it carries sector [concentration risk](/concentration-risk/) — if those industries underperform, the fund likely underperforms broadly. It is also best suited to longer-term holders, since the daily volatility of growth-heavy stocks and the effects of rebalancing may detract from shorter-term returns. An investor with a low tolerance for drawdowns or who needs the money within a few years should be cautious.
 
 ## Research and due diligence
 

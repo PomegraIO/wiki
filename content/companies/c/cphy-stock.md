@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The **F/m Compoundr High Yield Bond ETF** (CPHY) invests in bonds issued by US companies that do not qualify as investment-grade — firms carrying meaningful default risk but offering substantially higher interest rates in return for that risk. It is designed for investors willing to tolerate credit cycles and occasional defaults in exchange for yields well above safer corporate bonds.*
+*The **F/m Compoundr High Yield [Bond ETF](/bond-etf/)** (CPHY) invests in [bonds](/bond/) issued by US companies that do not qualify as investment-grade — firms carrying meaningful default risk but offering substantially higher [interest rates](/interest-rate/) in return for that risk. It is designed for investors willing to tolerate credit cycles and occasional defaults in exchange for yields well above safer [corporate bonds](/corporate-bond/).*
 
 <aside class="wiki-infobox">
 <table>
@@ -33,17 +33,17 @@ For most of finance history, corporate bonds were divided sharply into two categ
 
 In the 1970s, this binary segregation began to crack. Michael Milken and his colleagues at Drexel Burnham Lambert recognized that the market was missing an opportunity. A company that did not quite qualify as investment-grade was not certain to default. It was risky, yes, but the default risk was not infinite. If that company had to pay a steep enough interest rate — say, 8% or 10% above Treasuries — then lenders could be compensated for that risk. The company would get capital, lenders would get paid for risk, and both would benefit.
 
-This insight launched the high-yield or junk bond market as a distinct asset class. By the 1980s, junk bonds were financing hostile takeovers, leveraged buyouts, and the restructuring of American industry. The market was chaotic and sometimes dangerous — Drexel itself collapsed in a fraud scandal — but the asset class survived and grew. By the 2000s and 2010s, high-yield bonds had become a major source of financing for private equity deals, distressed companies, and fast-growing firms that had not yet achieved investment-grade credit standing.
+This insight launched the high-yield or [junk bond](/junk-bond/) market as a distinct asset class. By the 1980s, junk bonds were financing [hostile takeovers](/hostile-takeover/), [leveraged buyouts](/leveraged-buyout/), and the restructuring of American industry. The market was chaotic and sometimes dangerous — Drexel itself collapsed in a fraud scandal — but the asset class survived and grew. By the 2000s and 2010s, [high-yield bonds](/high-yield-bond/) had become a major source of financing for private equity deals, distressed companies, and fast-growing firms that had not yet achieved investment-grade credit standing.
 
 ## From Wall Street to retail: the ETF era
 
 For decades, high-yield bonds were the domain of institutional investors and professional bond traders. Individual investors could not easily own them — buying a diversified portfolio required substantial capital and expertise in credit analysis. The emergence of exchange-traded funds, starting in the 1990s and accelerating through the 2000s, changed this dramatically. A single ETF share could give a retail investor exposure to hundreds of high-yield bonds, diversified across issuers and industries.
 
-The F/m partnership between First Trust and Morningstar entered this market in the modern era of passive and quasi-passive bond fund management. CPHY and its sibling funds were designed to offer low-cost access to high-yield exposure, tracking a broad index rather than employing active management. This made high-yield investing available at a lower cost than traditional actively managed funds had required.
+The F/m partnership between First Trust and Morningstar entered this market in the modern era of passive and quasi-passive bond fund management. CPHY and its sibling funds were designed to offer low-cost access to high-yield exposure, tracking a broad index rather than employing active management. This made [high-yield investing](/high-yield-investing/) available at a lower cost than traditional [actively managed funds](/actively-managed-fund/) had required.
 
 ## What high-yield bonds actually are
 
-High-yield bonds are corporate debt issued by companies rated below the BBB-/Baa3 threshold — the line that separates investment-grade from speculative-grade credit. The issuers are diverse: firms that are highly leveraged from acquisitions or buyouts, cyclical businesses facing temporary pressure, fast-growing companies that are profitable but smaller than blue-chip corporations, and genuinely distressed companies trying to survive restructuring without liquidation.
+High-yield bonds are corporate debt issued by companies rated below the BBB-/Baa3 threshold — the line that separates investment-grade from speculative-grade credit. The issuers are diverse: firms that are highly leveraged from [acquisitions](/acquisition/) or buyouts, cyclical businesses facing temporary pressure, fast-growing companies that are profitable but smaller than blue-chip corporations, and genuinely distressed companies trying to survive restructuring without [liquidation](/liquidation/).
 
 The defining characteristic is the yield premium. Where an investment-grade corporate bond might offer 3–5 percentage points above a Treasury of similar maturity, a high-yield bond might offer 8–12 percentage points or more. That gap reflects investor expectations about default probability. A company rated BB or B is not expected to repay reliably, and the market demands a steep premium for that risk.
 
@@ -51,29 +51,29 @@ CPHY holds a diversified basket of such bonds, typically tracking an index like 
 
 ## The credit-cycle dynamics and the yield trap
 
-High-yield bonds exist at the intersection of two powerful forces: investor appetite for yield and the economic reality that credit risk varies with the business cycle. During economic expansions, when companies are growing and defaults are rare, high-yield bonds deliver the promised yields with little drama. An investor in CPHY during a boom might pocket 8–10% annual returns, and if a few companies default, the losses are absorbed in the overall return.
+High-yield bonds exist at the intersection of two powerful forces: investor appetite for yield and the economic reality that [credit risk](/credit-risk/) varies with the [business cycle](/business-cycle/). During economic expansions, when companies are growing and defaults are rare, high-yield bonds deliver the promised yields with little drama. An investor in CPHY during a boom might pocket 8–10% annual returns, and if a few companies default, the losses are absorbed in the overall return.
 
-But credit cycles turn. When recession arrives, companies that borrowed heavily to fund acquisitions face shrinking revenue and rising debt-service costs simultaneously. A leveraged buyout that seemed sensible in good times can become a financial trap in a downturn. Defaults begin to cluster, and what had looked like cheap yield becomes a value trap. CPHY's share price falls as bond valuations reprrice lower, interest payments become less certain, and some issuers stop paying altogether.
+But credit cycles turn. When [recession](/recession/) arrives, companies that borrowed heavily to fund acquisitions face shrinking revenue and rising debt-service costs simultaneously. A leveraged buyout that seemed sensible in good times can become a financial trap in a downturn. Defaults begin to cluster, and what had looked like cheap yield becomes a value trap. CPHY's share price falls as bond valuations reprrice lower, interest payments become less certain, and some issuers stop paying altogether.
 
 The problem is timing. Most retail investors are drawn to CPHY when yields look attractive relative to other investments — which is often exactly when credit conditions are beginning to deteriorate. The investor who buys at the end of an expansion, just before defaults spike, can experience a 10–20% loss in fund value, negating years of accumulated yield.
 
 ## Duration and the interest-rate double hit
 
-CPHY's sensitivity to interest-rate changes is typically moderate to high, with duration in the range of five to seven years. This matters because interest-rate risk and default risk often move together.
+CPHY's sensitivity to interest-rate changes is typically moderate to high, with duration in the range of five to seven years. This matters because [interest-rate risk](/interest-rate-risk/) and default risk often move together.
 
-In inflationary recessions — when the Federal Reserve raises rates to fight inflation — high-yield bonds face a double threat. Interest rates rise, which lowers the bond values directly through the mathematics of duration. Simultaneously, the tightening of credit conditions increases default risk, pushing credit spreads wider and cutting bond values again. An investor buying CPHY before such a cycle can face losses from both directions at once.
+In inflationary recessions — when the [Federal Reserve](/federal-reserve/) raises rates to fight [inflation](/inflation/) — high-yield bonds face a double threat. Interest rates rise, which lowers the bond values directly through the mathematics of duration. Simultaneously, the tightening of credit conditions increases default risk, pushing [credit spreads](/credit-spread/) wider and cutting bond values again. An investor buying CPHY before such a cycle can face losses from both directions at once.
 
 In deflationary downturns — when the Fed cuts rates to stimulate — the interest-rate effect partially offsets the credit-risk effect. But this is cold comfort if defaults are severe enough to wipe out the rate-driven gains.
 
 ## Structural realities and diversification
 
-CPHY is a straightforward bond fund: it holds corporate bonds, receives interest payments, and distributes income to shareholders. The fund trades on an exchange at a price set by supply and demand, though the intraday trading price should track closely to the underlying net asset value of the bonds it holds.
+CPHY is a straightforward bond fund: it holds corporate bonds, receives interest payments, and distributes income to shareholders. The fund trades on an exchange at a price set by supply and demand, though the intraday trading price should track closely to the underlying [net asset value](/net-asset-value/) of the bonds it holds.
 
-The fund's diversification rule — no single issuer can represent more than a tiny slice — prevents catastrophic losses from a single default. But diversification across many speculative-grade borrowers does not prevent the fund from suffering when credit conditions deteriorate broadly. Sector concentration can also become a risk: if the fund has loaded heavily into, say, retail or energy companies (industries that are cyclically vulnerable), a sector downturn can hit many holdings at once.
+The fund's [diversification](/diversification/) rule — no single issuer can represent more than a tiny slice — prevents catastrophic losses from a single default. But diversification across many speculative-grade borrowers does not prevent the fund from suffering when credit conditions deteriorate broadly. Sector concentration can also become a risk: if the fund has loaded heavily into, say, retail or energy companies (industries that are cyclically vulnerable), a sector downturn can hit many holdings at once.
 
 ## Real risks that matter
 
-Default risk is central. Over a typical credit cycle, 2–4% of high-yield bonds default per year on average, though the rate falls near zero in booms and spikes into double digits during severe recessions. Even if average default rates are moderate, the timing matters: an investor who buys near the peak of the cycle will experience above-average defaults.
+Default risk is central. Over a typical credit cycle, 2–4% of high-yield bonds default per year on average, though the rate falls near zero in booms and spikes into double digits during severe recessions. Even if average [default rates](/default-rate/) are moderate, the timing matters: an investor who buys near the peak of the cycle will experience above-average defaults.
 
 Liquidity risk is the second major danger. While the largest, most-traded high-yield bonds are relatively liquid, many smaller or distressed issuers trade thinly. In a market panic, when investors are selling in size, bid-ask spreads widen and the fund may not be able to sell holdings at fair prices. The fund itself has exchange liquidity, but the underlying securities do not always.
 

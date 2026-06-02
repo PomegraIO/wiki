@@ -28,9 +28,9 @@ Sienna Senior Living is a real estate and services company that owns and operate
 
 ## The portfolio and revenue sources
 
-Sienna operates a portfolio of around 200 seniors' residences and long-term care homes under various brand names, most notably Sienna Senior Living facilities and, through acquisitions, Retirement Residences properties. The portfolio is concentrated in Ontario, where it owns purpose-built seniors' residences (independent and assisted living) and operates contracted beds in long-term care homes. British Columbia and Alberta represent secondary markets.
+Sienna operates a portfolio of around 200 seniors' residences and long-term care homes under various brand names, most notably Sienna Senior Living facilities and, through [acquisitions](/acquisition/), Retirement Residences properties. The portfolio is concentrated in Ontario, where it owns purpose-built seniors' residences (independent and assisted living) and operates contracted beds in long-term care homes. British Columbia and Alberta represent [secondary markets](/secondary-market/).
 
-The company's revenue comes from two distinct sources with different dynamics. The first is private-pay seniors housing — retirement residences and independent living facilities where residents pay monthly fees directly (often supplemented by private long-term care insurance). These fees can be raised annually and cover accommodation, meals, and basic services. Revenue per resident is consistent, and occupancy is the key metric; a fully occupied building with high retention generates steady, predictable cash flow.
+The company's revenue comes from two distinct sources with different dynamics. The first is private-pay seniors housing — retirement residences and independent living facilities where residents pay monthly fees directly (often supplemented by private [long-term care insurance](/long-term-care-insurance/)). These fees can be raised annually and cover accommodation, meals, and basic services. Revenue per resident is consistent, and occupancy is the key metric; a fully occupied building with high retention generates steady, predictable cash flow.
 
 The second revenue source is long-term care contracting with provincial governments. In Ontario, for instance, the company operates beds in publicly licensed long-term care homes under contracts with regional health authorities. The government sets fixed per-diem rates for patient care, negotiated between the operator and the province. These rates are lower than private-pay rates but are guaranteed and stable — a government contract for 100 beds is as close to a certain revenue stream as seniors living provides.
 
@@ -42,7 +42,7 @@ Senior living properties are inherently capital-intensive. A purpose-built assis
 
 Property maintenance and periodic upgrading are perpetual expenses. Seniors housing is intensive on real estate and staff, so the cost to refresh a dated facility is significant. Buildings that are not kept current fall behind competitors on the private-pay side and risk losing residents who have alternative options.
 
-The company's debt load is material. Funding both acquisitions of new properties and renovation of existing ones has required debt capital. Mortgage debt and unsecured borrowing are structural features of the balance sheet, and Sienna's ability to refinance that debt depends on whether the business is perceived as creditworthy. A major operational disruption, a regional regulatory shift, or a significant occupancy decline can ripple into refinancing risk.
+The company's debt load is material. Funding both acquisitions of new properties and renovation of existing ones has required debt capital. Mortgage debt and unsecured borrowing are structural features of the [balance sheet](/balance-sheet/), and Sienna's ability to refinance that debt depends on whether the business is perceived as creditworthy. A major operational disruption, a regional regulatory shift, or a significant occupancy decline can ripple into [refinancing risk](/refinancing-risk/).
 
 ## Margins, labor, and the cost structure
 
@@ -64,15 +64,15 @@ Sienna competes on quality, brand, and geography. In private-pay residences, hig
 
 Senior living and long-term care are heavily regulated across Canada, with rules set at both provincial and municipal levels. Staff-to-resident ratios are prescribed, infection-control standards are mandatory, and quality metrics are assessed. Ontario's Long-Term Care Act, for instance, sets minimum care standards and staffing levels. If regulators increase mandated staffing or impose new care requirements, operators' costs rise and margins compress.
 
-Government funding rates are another pressure point. Provinces set per-diem payments for long-term care, and those rates often lag inflation and actual cost increases. A significant policy shift that reduces per-diem rates would materially hurt profitability on government-contracted beds.
+Government funding rates are another pressure point. Provinces set per-diem payments for long-term care, and those rates often lag [inflation](/inflation/) and actual cost increases. A significant policy shift that reduces per-diem rates would materially hurt profitability on government-contracted beds.
 
 Pandemic-related policy disruptions have demonstrated this risk concretely. COVID-19 outbreak restrictions, mandatory staffing protocols, and temporary subsidies and price controls created operational and financial uncertainty. While those particular conditions have receded, the episode highlighted how quickly regulatory and policy changes can alter the economics of the business.
 
 ## How to research Sienna
 
-The company's Canadian filings are the primary source. Canadian securities law requires annual reports and quarterly financial statements, available through the Ontario Securities Commission and the company's investor relations website. The annual report breaks revenue by segment and geography and discusses occupancy rates, average daily fees, and the rate environment.
+The company's Canadian filings are the primary source. Canadian securities law requires [annual reports](/10-k/) and quarterly financial statements, available through the Ontario Securities Commission and the company's investor relations website. The annual report breaks revenue by segment and geography and discusses occupancy rates, average daily fees, and the rate environment.
 
-The American Depositary Receipt (SSRLY on the OTC Markets) allows U.S. investors to access shares, though liquidity is typically modest. Quarterly earnings reports and investor calls provide color on occupancy trends, government rate changes, and capital expenditure plans.
+The [American Depositary Receipt](/adr/) (SSRLY on the OTC Markets) allows U.S. investors to access shares, though liquidity is typically modest. Quarterly earnings reports and investor calls provide color on occupancy trends, government rate changes, and capital expenditure plans.
 
 Key metrics to track: occupancy rates in both private-pay and government-contracted segments, average daily fees in the private-pay portfolio, government reimbursement rates, and labor costs as a percentage of revenue. Occupancy is the most important forward indicator — if occupancy is trending down, future revenue is falling. Average daily fees rising faster than inflation signals pricing power in the private-pay market. Rising labor costs or declining margins on government contracts signal cost pressures.
 

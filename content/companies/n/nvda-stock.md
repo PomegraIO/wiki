@@ -60,7 +60,7 @@ Competitors do exist. AMD's MI300 and MI250 accelerators are respectable product
 
 ## Manufacturing and supply
 
-NVIDIA does not own fabs. Instead, it designs chips and contracts manufacturing almost exclusively to Taiwan Semiconductor Manufacturing Company (TSMC), one of the world's only companies capable of producing the latest-generation process nodes at scale. This fabless model gives NVIDIA several advantages: no capital-intensive factory assets, flexibility to shift volumes between product lines, and access to the absolute leading edge of chip technology because TSMC's most advanced processes serve multiple large customers.
+NVIDIA does not own fabs. Instead, it designs chips and contracts manufacturing almost exclusively to [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company (TSMC), one of the world's only companies capable of producing the latest-generation process nodes at scale. This fabless model gives NVIDIA several advantages: no capital-intensive factory assets, flexibility to shift volumes between product lines, and access to the absolute leading edge of chip technology because TSMC's most advanced processes serve multiple large customers.
 
 The risk is inverted: NVIDIA is entirely dependent on TSMC's willingness and ability to prioritize its orders. In 2023 and 2024, when AI accelerator demand exploded, NVIDIA essentially commanded TSMC's capacity. But that dependency also reveals geopolitical fragility. TSMC is based in Taiwan, and any disruption to cross-strait relations or to semiconductor production on the island would immediately throttle NVIDIA's supply. The company is aware of this risk and is working with partners in other regions to diversify, but the fundamental math remains that TSMC's Taiwan-based fabs are the only viable source for NVIDIA's most advanced products.
 
@@ -76,7 +76,7 @@ The bull case for NVIDIA rests on the assumption that AI will continue requiring
 
 A second risk is concentration among customers. The majority of NVIDIA's data center revenue comes from a handful of hyperscalers—[Microsoft](/msft-stock/), Google, Meta, OpenAI through its partnerships. If any of these customers decided to invest heavily in custom silicon designed in-house, NVIDIA's revenues could suffer materially.
 
-Regulation and export controls add a third layer of uncertainty. The US has imposed restrictions on the sale of advanced NVIDIA chips to China, cutting off a historically important market. Larger restrictions [on semiconductor](/on-stock/) exports, driven by geopolitical tensions, could further constrain demand.
+Regulation and export controls add a third layer of uncertainty. The US has imposed restrictions on the sale of advanced NVIDIA chips to China, cutting off a historically important market. Larger restrictions on semiconductor exports, driven by geopolitical tensions, could further constrain demand.
 
 ## How to research NVIDIA
 

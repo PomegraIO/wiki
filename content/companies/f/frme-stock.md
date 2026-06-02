@@ -51,7 +51,7 @@ The bank's pricing power—its ability to maintain spread without losing custome
 
 ## Scale and Efficiency
 
-Like all [financial institutions](/fisi-stock/), First Merchants must manage operating costs relative to assets. The more loans the bank can originate and service per dollar of overhead, the better. A $10 billion community bank can spread its technology spending, compliance staffing, and branch costs more efficiently than a $5 billion bank. Conversely, scale brings regulatory complexity and requirements (capital ratios, stress tests, regulatory filings) that smaller banks avoid.
+Like all financial institutions, First Merchants must manage operating costs relative to assets. The more loans the bank can originate and service per dollar of overhead, the better. A $10 billion community bank can spread its technology spending, compliance staffing, and branch costs more efficiently than a $5 billion bank. Conversely, scale brings regulatory complexity and requirements (capital ratios, stress tests, regulatory filings) that smaller banks avoid.
 
 First Merchants' efficiency ratio—the proportion of operating expenses to net revenue—is a proxy for how well the bank converts deposits and loan yields into earnings. Every percentage point of efficiency gain (lower expenses relative to revenue) flows directly to the bottom line. In a competitive, low-margin business, operational excellence is often the difference between 10% returns on equity and 12%.
 

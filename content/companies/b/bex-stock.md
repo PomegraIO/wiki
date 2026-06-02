@@ -27,7 +27,7 @@ The Tradr 2X Long BE Daily ETF (ticker BEX) is a leveraged fund that tries to de
 
 ## What leverage means and why it matters
 
-A leveraged ETF borrows money to magnify market moves. Instead of investing dollar-for-dollar with shareholders' money, it borrows additional capital to buy more of the underlying index than the fund's assets would normally cover. That amplifies both gains and losses. When the market goes up, the extra borrowed capital works in your favor and returns are magnified. When the market goes down, the losses are magnified too.
+A [leveraged ETF](/leveraged-etf/) borrows money to magnify market moves. Instead of investing dollar-for-dollar with shareholders' money, it borrows additional capital to buy more of the underlying index than the fund's assets would normally cover. That amplifies both gains and losses. When the market goes up, the extra borrowed capital works in your favor and returns are magnified. When the market goes down, the losses are magnified too.
 
 The BEX fund targets a 2X ratio, meaning it aims to move twice as far as the underlying emerging-market index each day. That requires careful borrowing and position management. The fund maintains derivatives (typically swap contracts or index futures) and uses leverage to achieve the 2X exposure without necessarily holding the exact stocks in the exact proportions the index contains.
 
@@ -51,13 +51,13 @@ This is not a hidden cost or a flaw in the fund manager's execution. It is built
 
 ## Who this is for and the proper use case
 
-BEX is designed for traders making tactical bets on emerging markets over hours or days, not for long-term investors. If you believe emerging markets will rise sharply this week, and you want to amplify your gains, BEX could be useful — you get 2X leverage without using a margin account at your broker or trading futures contracts.
+BEX is designed for traders making tactical bets on emerging markets over hours or days, not for long-term investors. If you believe emerging markets will rise sharply this week, and you want to amplify your gains, BEX could be useful — you get 2X leverage without using a margin account at your [broker](/broker/) or trading [futures contracts](/futures-contract/).
 
 Conversely, if you buy BEX and hold it for months or years, expecting to capture the long-term returns of emerging markets with 2X leverage, you will likely be disappointed. The daily resets and volatility decay will erode your returns below what you would earn by buying the underlying index with 2X leverage through other means, such as margin or swap contracts.
 
 ## Emerging-market exposure and the regional risk
 
-The fund's underlying index tracks emerging-market stocks, typically defined as stocks in developing or frontier countries. The exact composition depends on the specific index, but it often includes stocks from countries such as India, Brazil, Mexico, Taiwan, and other regions. Emerging markets are riskier than developed markets — they face currency volatility, political risk, regulatory uncertainty, and are more sensitive to global economic slowdowns.
+The fund's underlying index tracks emerging-market stocks, typically defined as stocks in developing or frontier countries. The exact composition depends on the specific index, but it often includes stocks from countries such as India, Brazil, Mexico, Taiwan, and other regions. Emerging markets are riskier than developed markets — they face [currency volatility](/currency-volatility/), political risk, regulatory uncertainty, and are more sensitive to global economic slowdowns.
 
 By taking 2X leverage on top of that already-volatile asset class, BEX creates a fund suitable only for sophisticated, active traders. The combination of emerging-market risk, leverage, and daily resets makes this product inappropriate for buy-and-hold investors or those new to investing.
 
@@ -65,4 +65,4 @@ By taking 2X leverage on top of that already-volatile asset class, BEX creates a
 
 If you are considering BEX, read the prospectus carefully to understand the fund's index, the leverage mechanism, and the stated daily return target. Look at the fund's performance chart and compare it to twice the underlying index's return over different time periods. You will see the decay if you hold the fund through volatile periods.
 
-Monitor the underlying emerging-market index and broader market volatility. In a smoothly trending market, BEX's daily resets matter less. In a choppy, range-bound market, decay will be significant. Watch the fund's expense ratio (the annual fee) and bid-ask spread (the trading cost). For a short-term trading position, tight spreads are important because you may trade in and out frequently. BEX is a tool for tactical traders with conviction about emerging-market direction over days, not a vehicle for long-term wealth building.
+Monitor the underlying emerging-market index and broader market volatility. In a smoothly trending market, BEX's daily resets matter less. In a choppy, range-bound market, decay will be significant. Watch the fund's [expense ratio](/expense-ratio/) (the annual fee) and [bid-ask spread](/bid-ask-spread/) (the trading cost). For a short-term trading position, tight spreads are important because you may trade in and out frequently. BEX is a tool for tactical traders with conviction about emerging-market direction over days, not a vehicle for long-term wealth building.

@@ -12,7 +12,7 @@ handwritten: true
 
 Nuveen Floating Rate [Income Fund](/income-fund/) (NYSE: JFR) is a closed-end investment fund. That means it raises money once, then trades like a stock on an exchange. It is not an open-ended mutual fund where you can buy and sell shares directly from the fund company at any time.
 
-The fund owns one thing: loans and bonds where the interest rate changes over time. In the world of bonds, most pay a fixed rate. You buy one and you know exactly how much you will get each year. Floating-rate loans are different. The interest rate on them resets periodically — often quarterly — based on a reference rate plus a spread. So when [interest rates](/interest-rate/) go up, the loans the fund holds pay more. When rates fall, they pay less. This feature sounds simple, but it is the core of what the fund does.
+The fund owns one thing: loans and [bonds](/bond/) where the interest rate changes over time. In the world of bonds, most pay a fixed rate. You buy one and you know exactly how much you will get each year. Floating-rate loans are different. The interest rate on them resets periodically — often quarterly — based on a reference rate plus a spread. So when [interest rates](/interest-rate/) go up, the loans the fund holds pay more. When rates fall, they pay less. This feature sounds simple, but it is the core of what the fund does.
 
 <aside class="wiki-infobox">
 <table>
@@ -30,7 +30,7 @@ The fund owns one thing: loans and bonds where the interest rate changes over ti
 
 The fund holds two types of debt. The first is floating-rate loans. These are loans made by banks or groups of banks to medium-sized companies. The borrower might have been unable to access the bond market, so it borrowed from banks instead. These loans sit senior in the capital stack — if the company gets into trouble, loan holders get paid before bondholders. That seniority matters because it means the loan has built-in protection.
 
-The second type is [floating-rate bonds](/floating-rate-bond/) issued by corporations. Like the loans, these bonds reset periodically. The fund may also hold bonds issued by [financial institutions](/fisi-stock/), particularly banks, where floating-rate debt is common.
+The second type is [floating-rate bonds](/floating-rate-bond/) issued by corporations. Like the loans, these bonds reset periodically. The fund may also hold bonds issued by financial institutions, particularly banks, where floating-rate debt is common.
 
 Why own this stuff? Two reasons. First, floating-rate securities pay income. JFR distributes that income to its shareholders every month. Someone buying the fund is buying a regular cash payment. That appeals to retirees and income-focused investors who do not want to wait for capital appreciation.
 
@@ -64,6 +64,6 @@ Finally, the manager matters. Nuveen is a large, established asset manager. It h
 
 ## How to track the fund
 
-Investors in JFR should monitor several things. First, the net asset value per share and the market price — watch the discount or premium change over time. Second, the distribution amount each month and what portion comes from interest versus return of capital. Third, the composition of the portfolio — which loans and bonds does it hold, and how has the credit quality trended. Fourth, the performance of the reference rates the floating-rate bonds are tied to, particularly SOFR and Prime, which drive the current earnings capacity.
+Investors in JFR should monitor several things. First, the net asset value per share and the market price — watch the discount or premium change over time. Second, the distribution amount each month and what portion comes from interest versus return of capital. Third, the composition of the portfolio — which loans and bonds does it hold, and how has the credit quality trended. Fourth, the performance of the reference rates the floating-rate bonds are tied to, particularly [SOFR](/sofr/) and Prime, which drive the current earnings capacity.
 
 The fund's [annual report](/10-k/) and shareholder letters from Nuveen outline the strategy and the environment. The SEC filings show the exact holdings. For someone considering the fund, the key question is whether the income the distribution provides justifies the risks — credit risk, interest-rate risk, and manager risk — and whether the closed-end structure, with its discount/premium volatility, is something you can live with comfortably.

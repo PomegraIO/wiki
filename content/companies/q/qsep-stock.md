@@ -52,7 +52,7 @@ The financial health of QS Energy depends partly on whether the company is reinv
 
 ## Scale and competitive position
 
-QS Energy is a small player in a market served by much larger, [diversified energy](/dec-stock/) services conglomerates like [Halliburton](/hal-stock/) and Schlumberger, as well as many regional competitors. Larger competitors have more capital, broader product lines, and relationships with major operators that QS Energy cannot match. QS Energy survives by serving smaller, regional operators or by specializing in niches where larger firms have less focus.
+QS Energy is a small player in a market served by much larger, diversified energy services conglomerates like [Halliburton](/hal-stock/) and Schlumberger, as well as many regional competitors. Larger competitors have more capital, broader product lines, and relationships with major operators that QS Energy cannot match. QS Energy survives by serving smaller, regional operators or by specializing in niches where larger firms have less focus.
 
 Without differentiation or geographic advantages, QS Energy faces structural pressure. It lacks scale to compete on price, lacks brand to command premium rates, and lacks capital to invest in innovation or expand its fleet strategically.
 

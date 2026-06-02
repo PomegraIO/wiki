@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Triumph Financial is a bank holding company based in the central United States that specializes in lending to transportation companies — principally trucking companies, bus operators, and other [commercial vehicle](/cvgi-stock/) fleets. The bank provides loans for the purchase of trucks, trailers, equipment, and related working capital to operators who might struggle to access credit through conventional banking channels. This specialization creates a focused business with deep expertise in a particular customer segment and the risks that segment faces.
+Triumph Financial is a bank holding company based in the central United States that specializes in lending to transportation companies — principally trucking companies, bus operators, and other commercial vehicle fleets. The bank provides loans for the purchase of trucks, trailers, equipment, and related working capital to operators who might struggle to access credit through conventional banking channels. This specialization creates a focused business with deep expertise in a particular customer segment and the risks that segment faces.
 
 <aside class="wiki-infobox">
 <table>

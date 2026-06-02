@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The Eaton Vance Limited Duration Income Fund is a closed-end investment company that pools capital from shareholders and deploys it into a portfolio of fixed-income securities. Like all [closed-end funds](/closed-end-fund/), it differs from open-end mutual funds in structure: shares are issued once at launch, then trade on an exchange like stocks, with the share price determined by supply and demand rather than by [net asset value](/net-asset-value/). The fund exists to generate monthly or quarterly distributions of income to shareholders and to do so while managing [interest-rate risk](/interest-rate-risk/) through a disciplined approach to portfolio duration — the weighted time to repayment of bonds held.
+The Eaton Vance Limited Duration [Income Fund](/income-fund/) is a closed-end investment company that pools capital from shareholders and deploys it into a portfolio of fixed-income securities. Like all [closed-end funds](/closed-end-fund/), it differs from open-end [mutual funds](/mutual-fund/) in structure: shares are issued once at launch, then trade on an exchange like stocks, with the share price determined by supply and demand rather than by [net asset value](/net-asset-value/). The fund exists to generate monthly or quarterly distributions of income to shareholders and to do so while managing [interest-rate risk](/interest-rate-risk/) through a disciplined approach to portfolio duration — the weighted time to repayment of [bonds](/bond/) held.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,13 +28,13 @@ The Eaton Vance Limited Duration Income Fund is a closed-end investment company 
 
 Eaton Vance Limited Duration Income Fund was launched in May 2003 at a moment when the [Federal Reserve](/federal-reserve/) had begun raising [interest rates](/interest-rate/) from historic lows. The fund's name encodes its core thesis: invest in income-producing securities but constrain exposure to rising rates by targeting a limited average duration of approximately three and a half years. Duration is a measure of a bond's sensitivity to interest-rate changes — longer-duration bonds fall more sharply in price when rates rise. By holding shorter-dated bonds and floating-rate instruments, the fund accepts lower yields in exchange for stability when the rate environment shifts.
 
-The closed-end structure was chosen deliberately. It allows the fund to maintain a permanent pool of capital, which means the manager does not face the volatility of daily inflows and outflows that would otherwise force liquidation of positions at inopportune moments. Unlike a mutual fund, where investors can redeem shares daily at net asset value, a closed-end fund's share price floats freely on the market and can trade at a discount or premium to the underlying portfolio value — a feature that creates both opportunity and risk for buyers.
+The closed-end structure was chosen deliberately. It allows the fund to maintain a permanent pool of capital, which means the manager does not face the volatility of daily inflows and outflows that would otherwise force [liquidation](/liquidation/) of positions at inopportune moments. Unlike a mutual fund, where investors can redeem shares daily at net asset value, a closed-end fund's share price floats freely on the market and can trade at a discount or premium to the underlying portfolio value — a feature that creates both opportunity and risk for buyers.
 
 ## Investment approach and portfolio composition
 
 EVV's portfolio consists primarily of three categories of securities: senior, secured floating-rate loans (bank loans, usually to companies rated below investment grade); government agency mortgage-backed securities; and [corporate bonds](/corporate-bond/) rated below investment grade. The fund tilts toward securities that pay a high yield relative to risk-free instruments, because its stated objective is current income — paying shareholders a regular distribution — rather than capital appreciation.
 
-Floating-rate loans are the fund's structural hedge against rising rates. When the Federal Reserve raises short-term rates, the interest paid on new floating-rate debt increases, and the fund's income rises alongside it. By contrast, a fund holding mostly fixed-rate bonds would see its price decline if rates rise. The mortgage-backed securities provide [diversification](/diversification/) and, often, attractive yield. The sub-investment-grade corporate bonds round out the portfolio, targeting higher yields from companies with moderate credit risk.
+Floating-rate loans are the fund's structural hedge against rising rates. When the Federal Reserve raises short-term rates, the interest paid on new floating-rate debt increases, and the fund's income rises alongside it. By contrast, a fund holding mostly fixed-rate bonds would see its price decline if rates rise. The mortgage-backed securities provide [diversification](/diversification/) and, often, attractive yield. The sub-investment-grade corporate bonds round out the portfolio, targeting higher yields from companies with moderate [credit risk](/credit-risk/).
 
 The fund's mandate is to maintain an average portfolio quality of approximately BBB/BBB-, the boundary between investment grade and high-yield territory. This is a disciplined constraint: it prevents the manager from reaching too far down in credit quality chasing yield, which would expose shareholders to default risk out of proportion to the income generated.
 
@@ -44,7 +44,7 @@ Returns to a closed-end fund shareholder come from two sources: the income distr
 
 ## Regulatory framework and fee structure
 
-As a registered investment company, EVV is subject to Investment Company Act rules that limit leverage, require detailed disclosure, and govern how the manager is compensated. The fund charges an annual expense ratio covering [management fees](/management-fee/) and operating costs. These fees are paid out of fund assets before distributions are paid, so they reduce the net income available to shareholders.
+As a registered investment company, EVV is subject to Investment Company Act rules that limit leverage, require detailed disclosure, and govern how the manager is compensated. The fund charges an annual [expense ratio](/expense-ratio/) covering [management fees](/management-fee/) and operating costs. These fees are paid out of fund assets before distributions are paid, so they reduce the net income available to shareholders.
 
 ## Investor profile and considerations
 

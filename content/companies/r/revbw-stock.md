@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Revelation Biosciences is a biopharmaceutical company pursuing engineered T-cell immunotherapies. The field of CAR-T cell therapy—where a patient's own immune cells are harvested, genetically modified to target cancer, and infused back into the body—has demonstrated striking efficacy in blood cancers. Revelation's strategy centers on applying computational approaches to design T-cell therapies capable of attacking solid tumors, where the immune system has historically struggled.
+[Revelation Biosciences](/revb-stock/) is a biopharmaceutical company pursuing engineered T-cell immunotherapies. The field of CAR-T cell therapy—where a patient's own immune cells are harvested, genetically modified to target cancer, and infused back into the body—has demonstrated striking efficacy in blood cancers. Revelation's strategy centers on applying computational approaches to design T-cell therapies capable of attacking solid tumors, where the immune system has historically struggled.
 
 <aside class="wiki-infobox">
 <table>

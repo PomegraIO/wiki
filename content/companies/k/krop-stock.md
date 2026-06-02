@@ -28,7 +28,7 @@ KROP's index encompasses companies across the food production and delivery chain
 
 The fund is not a commodity play on corn or wheat prices. Rather, it captures companies whose revenues rise as agriculture industrializes and digitizes — whether because a farmer buys new machinery, subscribes to a soil-monitoring service, or plants a climate-adapted crop variety developed by a biotech company in the fund's holdings.
 
-Because the index is global, KROP holds companies across the United States, Europe, India, and other regions where agtech investment is active. This geographic diversification means the fund captures innovation in both developed markets (where mechanization is advanced but margins are tight, driving demand for efficiency software) and emerging markets (where agriculture is adopting technology faster than historical patterns would predict).
+Because the index is global, KROP holds companies across the United States, Europe, India, and other regions where agtech investment is active. This geographic [diversification](/diversification/) means the fund captures innovation in both developed markets (where mechanization is advanced but margins are tight, driving demand for efficiency software) and emerging markets (where agriculture is adopting technology faster than historical patterns would predict).
 
 ## Why agtech as an investment theme?
 
@@ -42,13 +42,13 @@ KROP captures that innovation wave, betting that farmers and food companies will
 
 KROP's returns are heavily influenced by commodity prices. A collapse in grain prices can depress farmer profits and reduce capital spending on new equipment or software; a surge in crop prices can accelerate adoption of efficiency tools. This commodity sensitivity makes KROP volatile during agricultural cycles.
 
-Additionally, many companies in this space are venture-backed or small-cap agtech firms with unproven business models. A precision-agriculture software company might fail to gain farmer adoption, or a biotech firm might see a crop variety rejected by regulators. The index is diversified, so no single company failure cripples the fund, but concentration risk in early-stage companies is higher than in a broad equity fund.
+Additionally, many companies in this space are venture-backed or small-cap agtech firms with unproven business models. A precision-agriculture software company might fail to gain farmer adoption, or a biotech firm might see a crop variety rejected by regulators. The index is diversified, so no single company failure cripples the fund, but [concentration risk](/concentration-risk/) in early-stage companies is higher than in a broad equity fund.
 
 Supply chains for agricultural equipment are global and thus exposed to disruptions, trade tensions, and shipping costs. A spike in steel prices or a disruption in semiconductor supplies can ripple through machinery and equipment manufacturers in the fund's holdings.
 
 ## Costs and construction
 
-KROP carries an expense ratio in the moderate range for an equity ETF with a specialized focus. Liquidity is reasonable but not as deep as broad-market funds; bid-ask spreads may be wider, especially outside peak trading hours. The fund holds 40–60 companies, enough for meaningful diversification but concentrated enough that top holdings drive performance.
+KROP carries an [expense ratio](/expense-ratio/) in the moderate range for an [equity ETF](/equity-etf/) with a specialized focus. Liquidity is reasonable but not as deep as broad-market funds; [bid-ask spreads](/bid-ask-spread/) may be wider, especially outside peak trading hours. The fund holds 40–60 companies, enough for meaningful diversification but concentrated enough that top holdings drive performance.
 
 ## How to research KROP
 

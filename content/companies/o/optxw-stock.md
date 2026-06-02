@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-SYNTEC Optics is a manufacturer of precision optical components — lenses, prisms, mirrors, and assemblies — that go into cameras, microscopes, endoscopes, laser systems, and industrial imaging equipment. If you own a camera with interchangeable lenses, ride in an automobile with advanced driver-assistance systems, or work with laboratory or medical equipment, there is a good chance a SYNTEC lens or optical assembly is part of it. The company operates as a contract manufacturer, building optical components to the specifications of larger OEMs (original equipment manufacturers) that design the final products.
+[SYNTEC Optics](/optx-stock/) is a manufacturer of precision optical components — lenses, prisms, mirrors, and assemblies — that go into cameras, microscopes, endoscopes, laser systems, and industrial imaging equipment. If you own a camera with interchangeable lenses, ride in an automobile with advanced driver-assistance systems, or work with laboratory or medical equipment, there is a good chance a SYNTEC lens or optical assembly is part of it. The company operates as a contract manufacturer, building optical components to the specifications of larger OEMs (original equipment manufacturers) that design the final products.
 
 <aside class="wiki-infobox">
 <table>
@@ -58,7 +58,7 @@ SYNTEC's growth depends on winning new customer relationships and winning higher
 
 Start with understanding the customer concentration. If one or two OEMs account for most of the revenue, the company is vulnerable if either customer loses market share or finds an alternative supplier. Read the 10-K carefully for the list of largest customers and the revenue contribution of each.
 
-Track the company's gross and operating margins. In contract manufacturing, margins reflect the productivity of the operation and the company's pricing power. Declining margins can signal that customers are pushing prices down faster than the company is improving efficiency. Improving margins suggest operational leverage or higher-margin product mix.
+Track the company's gross and [operating margins](/operating-margin/). In contract manufacturing, margins reflect the productivity of the operation and the company's pricing power. Declining margins can signal that customers are pushing prices down faster than the company is improving efficiency. Improving margins suggest operational leverage or higher-margin product mix.
 
 Watch metrics like on-time delivery rate and defect rate if the company discloses them. These are leading indicators of customer satisfaction. A rising defect rate or delivery-delay rate signals quality or operational issues that could lead to lost business.
 

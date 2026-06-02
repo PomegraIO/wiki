@@ -29,9 +29,9 @@ In the Life Science segment, Bio-Rad faces sharper competition from specialist c
 
 ### What is the financial profile?
 
-Bio-Rad is a diversified, mid-cap business with significant recurring revenue from installed systems and consumables. The company generates steady cash flow from the diagnostics base, which carries gross margins in the 50% to 60% range — typical for diagnostic instruments and reagents where the company has pricing power. Operating margins are in the low to mid-20% range, healthy for the sector but not exceptional compared to pure-play pharma. The balance sheet is solid but carries a meaningful debt load, incurred partly during earlier acquisitions and partly for general corporate purposes.
+Bio-Rad is a diversified, mid-cap business with significant recurring revenue from installed systems and consumables. The company generates steady cash flow from the diagnostics base, which carries gross margins in the 50% to 60% range — typical for diagnostic instruments and reagents where the company has pricing power. [Operating margins](/operating-margin/) are in the low to mid-20% range, healthy for the sector but not exceptional compared to pure-play pharma. The [balance sheet](/balance-sheet/) is solid but carries a meaningful debt load, incurred partly during earlier [acquisitions](/acquisition/) and partly for general corporate purposes.
 
-Capital expenditures are modest relative to revenue — the company is not capital-intensive in the way semiconductor manufacturers are — and much of the cash generation goes to debt service, dividends, and occasional small acquisitions of complementary product lines or geographic franchises. Share buybacks are limited, reflecting management's preference to build the asset base.
+Capital expenditures are modest relative to revenue — the company is not capital-intensive in the way semiconductor manufacturers are — and much of the cash generation goes to debt service, [dividends](/dividend/), and occasional small acquisitions of complementary product lines or geographic franchises. [Share buybacks](/share-buyback/) are limited, reflecting management's preference to build the asset base.
 
 ### How does Bio-Rad win against scale disadvantages?
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Ameren Illinois Co is a utility that brings electricity and natural gas to homes and businesses across much of Illinois, including the suburbs ringing Chicago. The company owns distribution networks — the poles, wires, pipes, and infrastructure that deliver power and gas to customers. It does not generate electricity itself; instead, it buys power from generators and transmits it over its distribution network to end users. For natural gas, it sources fuel from suppliers and pipes it to customers. The business is a regulated monopoly, meaning the government grants Ameren an exclusive service territory in exchange for accepting rate regulation and service obligations.
+[Ameren Illinois](/ailih-stock/) Co is a utility that brings electricity and [natural gas](/natural-gas/) to homes and businesses across much of Illinois, including the suburbs ringing Chicago. The company owns distribution networks — the poles, wires, pipes, and infrastructure that deliver power and gas to customers. It does not generate electricity itself; instead, it buys power from generators and transmits it over its distribution network to end users. For natural gas, it sources fuel from suppliers and pipes it to customers. The business is a regulated monopoly, meaning the government grants Ameren an exclusive service territory in exchange for accepting rate regulation and service obligations.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ Ameren Illinois Co is a utility that brings electricity and natural gas to homes
 
 Ameren Illinois operates two separate utility systems within the same company. One distributes electricity; the other distributes natural gas. The two businesses are related but distinct. Electricity comes from power plants and flows through high-voltage transmission lines to local distribution networks, where it is stepped down to lower voltages before reaching homes and businesses. Natural gas flows from pipelines and utility storage into local distribution pipes that connect to customer meters.
 
-The electricity business serves around four million customers spread across central and northern Illinois. The natural gas business serves a subset of those areas, primarily in northern Illinois around Chicago. Not every customer takes both services — many take only electricity or only gas, depending on how their home is heated and what appliances they use. For Ameren, the two businesses create some diversification: in winter, gas heating demand spikes even as electricity demand is steady; in summer, electricity demand peaks for air conditioning while gas demand sags. The seasonal patterns are not perfectly opposite, but they provide some balance.
+The electricity business serves around four million customers spread across central and northern Illinois. The natural gas business serves a subset of those areas, primarily in northern Illinois around Chicago. Not every customer takes both services — many take only electricity or only gas, depending on how their home is heated and what appliances they use. For Ameren, the two businesses create some [diversification](/diversification/): in winter, gas heating demand spikes even as electricity demand is steady; in summer, electricity demand peaks for air conditioning while gas demand sags. The seasonal patterns are not perfectly opposite, but they provide some balance.
 
 ## Rate regulation and the customer relationship
 
@@ -54,9 +54,9 @@ The revenue is determined almost entirely by usage and rates. A cold winter mean
 
 ## The debt and dividend story
 
-Ameren Illinois generates stable cash flow from operations because rates are set to recover costs and provide a return. That cash flow is used to service debt, fund capital expenditure, and pay dividends to shareholders. Utilities like Ameren are bought largely for their dividends, which are typically 3–4% of the stock price — higher than the average stock but lower than a bond. The dividend is meant to be stable and grow modestly over time.
+Ameren Illinois generates stable cash flow from operations because rates are set to recover costs and provide a return. That cash flow is used to service debt, fund capital expenditure, and pay [dividends](/dividend/) to shareholders. Utilities like Ameren are bought largely for their dividends, which are typically 3–4% of the stock price — higher than the average stock but lower than a [bond](/bond/). The dividend is meant to be stable and grow modestly over time.
 
-To maintain the dividend, Ameren must earn enough cash flow to cover it plus fund capital spending. If capital spending grows faster than cash flow, the company must issue debt or equity to fund the gap. High levels of debt can eventually make the dividend unsustainable if interest rates rise or if regulators reduce allowed returns. Conversely, if Ameren is generating excess cash, it can reduce debt or increase dividends. The balance between reinvestment, debt service, and dividends is managed to stay investment-grade and maintain the dividend.
+To maintain the dividend, Ameren must earn enough cash flow to cover it plus fund capital spending. If capital spending grows faster than cash flow, the company must issue debt or equity to fund the gap. High levels of debt can eventually make the dividend unsustainable if [interest rates](/interest-rate/) rise or if regulators reduce allowed returns. Conversely, if Ameren is generating excess cash, it can reduce debt or increase dividends. The balance between reinvestment, debt service, and dividends is managed to stay investment-grade and maintain the dividend.
 
 ## Market position and competitive context
 

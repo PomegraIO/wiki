@@ -4,7 +4,7 @@ description: "Diversified holding company trading under BBXIA, holding real esta
 keywords: ["holding company", "BBXIA stock", "diversified", "real estate", "insurance", "securities"]
 ---
 
-*The story of **BBX Capital (BBXIA)** is one of reconfiguration: a classic diversified holding company that spent decades reckoning with the 2008 financial crisis, sold off its weakest pieces, rebuilt its balance sheet, and now operates as a scaled-down conglomerate across real estate, insurance, and selective investments. The company is publicly traded on the [NYSE](/stock-exchange/) under the ticker BBXIA and files with the [SEC](/securities-and-exchange-commission/) under CIK 1814974.*
+*The story of **[BBX Capital](/bbxib-stock/) (BBXIA)** is one of reconfiguration: a classic diversified holding company that spent decades reckoning with the 2008 financial crisis, sold off its weakest pieces, rebuilt its balance sheet, and now operates as a scaled-down conglomerate across real estate, insurance, and selective investments. The company is publicly traded on the [NYSE](/stock-exchange/) under the ticker BBXIA and files with the [SEC](/securities-and-exchange-commission/) under CIK 1814974.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>BBXIA</td></tr>

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Safe Bulkers is a shipping company that owns and operates cargo vessels. These are the ships that carry coal from Australia to Japan, iron ore from Brazil to South Korea, and grain from the American Midwest to Europe. The company does not own mines or farms or dockyards; it owns only the ships and the contracts to move cargo across the water. The business is entirely dependent on what it can charge per ton to haul a load, a number set by supply and demand in the global freight market—economics as volatile and transparent as a commodity exchange.
+[Safe Bulkers](/sb-stock/) is a shipping company that owns and operates cargo vessels. These are the ships that carry coal from Australia to Japan, [iron ore](/iron-ore/) from Brazil to South Korea, and grain from the American Midwest to Europe. The company does not own mines or farms or dockyards; it owns only the ships and the contracts to move cargo across the water. The business is entirely dependent on what it can charge per ton to haul a load, a number set by supply and demand in the global freight market—economics as volatile and transparent as a commodity exchange.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,17 +38,17 @@ The company has ordered nine new-build vessels for delivery over 2024-2027. New 
 
 ## Revenue and the time-charter business model
 
-Safe Bulkers generates revenue in three ways. The most common is the time-charter arrangement, where the company contracts with a shipping line or trader to provide a vessel for a fixed daily rate over a set period (e.g., 12 months). The charterer is responsible for loading cargo, fuel, and ports; Safe Bulkers is responsible for the crew and maintenance. The daily rate is known upfront, so Safe Bulkers can forecast revenue from the contract. A smaller portion of revenue comes from voyage charters, where the company is paid per ton delivered on a single voyage. A third stream comes from operating vessels owned by others under a bareboat charter—Safe Bulkers provides the crew and operations for a fixed fee, taking on some operational risk but not market risk.
+Safe Bulkers generates revenue in three ways. The most common is the time-charter arrangement, where the company contracts with a shipping line or trader to provide a vessel for a fixed daily rate over a set period (e.g., 12 months). The charterer is responsible for loading cargo, fuel, and ports; Safe Bulkers is responsible for the crew and maintenance. The daily rate is known upfront, so Safe Bulkers can forecast revenue from the contract. A smaller portion of revenue comes from voyage charters, where the company is paid per ton delivered on a single voyage. A third stream comes from operating vessels owned by others under a bareboat charter—Safe Bulkers provides the crew and operations for a fixed fee, taking on some [operational risk](/operational-risk/) but not [market risk](/market-risk/).
 
 The economics are straightforward: revenue minus operating costs (crew wages, fuel, maintenance, insurance, port fees) equals operating profit. Fuel is the single largest operating cost and varies with global oil prices, so margin is also affected by petroleum markets. When fuel is cheap and rates are high, the company generates strong earnings. When fuel is expensive or rates are weak, margins evaporate.
 
 ## Capital requirements and balance-sheet leverage
 
-Safe Bulkers must make enormous upfront capital investments to own ships. The company finances these with a combination of cash from operations, new debt, and equity capital. Most shipping companies run high debt-to-equity ratios because ship loans are well-secured (the ship itself is collateral) and available at reasonable rates. Safe Bulkers is no exception.
+Safe Bulkers must make enormous upfront capital investments to own ships. The company finances these with a combination of cash from operations, new debt, and equity capital. Most shipping companies run high [debt-to-equity ratios](/debt-to-equity-ratio/) because ship loans are well-secured (the ship itself is collateral) and available at reasonable rates. Safe Bulkers is no exception.
 
 This creates a leverage cycle: in good years when rates are high, the company generates cash and can reduce debt or invest in new vessels. In weak years, the company struggles to generate cash and becomes dependent on its credit lines to cover operating costs and debt service. Refinancing becomes dangerous—rates that are cheap when the company's cash flow is strong become expensive when it is weak.
 
-The company's common stock provides the equity cushion that debt holders rely on. The Series D preferred shares (SB-PD) represent a second layer in the capital structure, senior to common equity but subordinate to debt. The preferred shareholders receive fixed distributions, meaning they take priority over common shareholders for any cash the company generates, but they rank below creditors. This makes them less risky than common shares but riskier than bonds, with yields between the two.
+The company's [common stock](/common-stock/) provides the equity cushion that debt holders rely on. The Series D preferred shares (SB-PD) represent a second layer in the capital structure, senior to common equity but subordinate to debt. The preferred shareholders receive fixed distributions, meaning they take priority over common shareholders for any cash the company generates, but they rank below creditors. This makes them less risky than common shares but riskier than [bonds](/bond/), with yields between the two.
 
 ## Fuel and environmental pressures
 

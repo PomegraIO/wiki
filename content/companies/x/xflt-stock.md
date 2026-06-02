@@ -26,9 +26,9 @@ XAI Octagon Floating Rate & Alternative Income Trust (ticker XFLT) is a closed-e
 
 ## Why floating-rate credit appeals to investors
 
-Floating-rate debt instruments — bank loans, [floating-rate notes](/floating-rate-note/), and certain securitised structures — reset their interest payments periodically (often quarterly) based on a reference rate like the London Interbank Offered Rate (LIBOR) or the Secured Overnight Financing Rate (SOFR) plus a margin. This differs profoundly from fixed-rate bonds, which pay the same coupon regardless of what happens to market [interest rates](/interest-rate/).
+Floating-rate debt instruments — bank loans, [floating-rate notes](/floating-rate-note/), and certain securitised structures — reset their interest payments periodically (often quarterly) based on a reference rate like the London Interbank Offered Rate ([LIBOR](/libor/)) or the Secured Overnight Financing Rate ([SOFR](/sofr/)) plus a margin. This differs profoundly from fixed-rate [bonds](/bond/), which pay the same coupon regardless of what happens to market [interest rates](/interest-rate/).
 
-When investors fear rising interest rates, floating-rate securities become attractive because their coupons rise alongside rates. A fixed-rate bond loses value as rates rise (an investor holding the bond misses out on the now-higher rates available in the market); a floating-rate bond's coupon climbs to keep pace with the market, leaving the principal value more stable. This was especially appealing in periods like 2021–2023, when central banks were widely expected to raise rates sharply.
+When investors fear rising interest rates, floating-rate securities become attractive because their coupons rise alongside rates. A fixed-rate bond loses value as rates rise (an investor holding the bond misses out on the now-higher rates available in the market); a floating-rate bond's coupon climbs to keep pace with the market, leaving the principal value more stable. This was especially appealing in periods like 2021–2023, when [central banks](/central-bank/) were widely expected to raise rates sharply.
 
 The bank loan market — leveraged loans made by banks to private companies — is the largest source of floating-rate credit. These loans sit at the top of a borrower's capital structure, senior to bonds and equity. In a default, the bank loan holders typically recover more than bondholders do. This seniority comes at a cost: the coupon is lower than what an unsecured bondholder would demand. Still, for investors willing to accept a lower yield in exchange for lower loss-in-default risk, bank loans have appeal.
 
@@ -40,9 +40,9 @@ Octagon, as a fund sponsor, developed expertise in navigating credit cycles and 
 
 ## How floating-rate portfolios work in practice
 
-A floating-rate fund like XFLT constructs a portfolio of bank loans, [floating-rate bonds](/floating-rate-bond/), and hybrid or structured credit. The portfolio's coupon resets continuously, so income to shareholders rises as underlying rates rise. However, the fund's [net asset value](/net-asset-value/) — the per-share value of the underlying portfolio — does not behave like a traditional bond fund. If interest rates rise sharply, the spread between the floating-rate coupon and the risk-free rate may widen (meaning higher credit risk or wider risk premiums), causing the value of the loans and bonds to fall even as their coupons rise.
+A floating-rate fund like XFLT constructs a portfolio of bank loans, [floating-rate bonds](/floating-rate-bond/), and hybrid or structured credit. The portfolio's coupon resets continuously, so income to shareholders rises as underlying rates rise. However, the fund's [net asset value](/net-asset-value/) — the per-share value of the underlying portfolio — does not behave like a traditional bond fund. If interest rates rise sharply, the spread between the floating-rate coupon and the risk-free rate may widen (meaning higher [credit risk](/credit-risk/) or wider risk premiums), causing the value of the loans and bonds to fall even as their coupons rise.
 
-This dynamic is crucial to understand: floating-rate does not mean no [interest-rate risk](/interest-rate-risk/). It means reduced interest-rate risk relative to a fixed-rate bond fund. The fund still carries credit risk — the risk that borrowers will struggle to repay or default. It may also carry basis risk, where floating-rate coupons do not reset at exactly the same frequency as the reference rate, leaving small mismatches.
+This dynamic is crucial to understand: floating-rate does not mean no [interest-rate risk](/interest-rate-risk/). It means reduced interest-rate risk relative to a fixed-rate bond fund. The fund still carries credit risk — the risk that borrowers will struggle to repay or default. It may also carry [basis risk](/basis-risk/), where floating-rate coupons do not reset at exactly the same frequency as the reference rate, leaving small mismatches.
 
 The distribution policy is central to the investor experience. A floating-rate fund typically targets a certain distribution yield — say, 6 or 7 per cent annually. As floating-rate coupons rise, distributions rise. But if credit conditions deteriorate and spreads widen, the fund may distribute less, disappointing investors who came for the yield.
 
@@ -52,7 +52,7 @@ The fund's moat — the thing that protects it from obsolescence — depends on 
 
 1. **Early deal access**: Managers with strong relationships to syndication banks see new loan issuances before they hit the [secondary market](/secondary-market/), giving them the chance to lock in better terms.
 
-2. **Credit expertise**: Assessing the quality of a leveraged loan to a private equity-owned company requires real analytical skill. Can the company service its debt through a recession? Does management have a track record? Is the [leverage ratio](/leverage-ratio-forex/) reasonable? A skilled manager sizes credit risk more accurately than the market does, and buys when the risk-reward is asymmetric.
+2. **Credit expertise**: Assessing the quality of a leveraged loan to a private equity-owned company requires real analytical skill. Can the company service its debt through a [recession](/recession/)? Does management have a track record? Is the [leverage ratio](/leverage-ratio-forex/) reasonable? A skilled manager sizes credit risk more accurately than the market does, and buys when the risk-reward is asymmetric.
 
 3. **Operational discipline**: A manager that can quickly sell deteriorating credits, rotate into strength, and avoid the trap of clinging to yieldy but broken positions can outperform peers materially over time.
 
@@ -66,7 +66,7 @@ The interest-rate environment in recent years has been volatile. After the 2008 
 
 ## Evaluating the fund as an investment
 
-Start with the prospectus and annual report, available on the SEC website. These explain the investment strategy, the types of securities held, the leverage used, and the fee structure. The fee structure is important — a 1 per cent annual [management fee](/management-fee/) plus any incentive fees compound over time to meaningfully reduce net returns.
+Start with the prospectus and [annual report](/10-k/), available on the SEC website. These explain the investment strategy, the types of securities held, the leverage used, and the fee structure. The fee structure is important — a 1 per cent annual [management fee](/management-fee/) plus any incentive fees compound over time to meaningfully reduce net returns.
 
 Examine the portfolio composition: what percentage of holdings are loans, bonds, and structured securities? What is the credit-quality distribution — are most holdings in BB and B-rated territory, or is there a material amount of CCC or lower? What is the portfolio's weighted-average maturity and coupon? These details reveal the riskiness of the portfolio.
 

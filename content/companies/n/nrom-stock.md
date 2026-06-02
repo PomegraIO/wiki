@@ -42,7 +42,7 @@ The logic is clear: non-traditional franchised units produce steady but thin rev
 
 ## Revenue scale and economic realities
 
-As of late 2025, Noble Roman's reported trailing twelve-month revenue of approximately 15.7 million and a market cap of 7.3 million (at a stock price around 0.33 per share, on a base of 22.2 million shares outstanding). To put this in context: the company is tiny. A McDonald's franchise location does more revenue in a year than the entire Noble Roman's enterprise. A regional casual-dining chain does more in a quarter.
+As of late 2025, Noble Roman's reported trailing twelve-month revenue of approximately 15.7 million and a [market cap](/market-capitalization/) of 7.3 million (at a stock price around 0.33 per share, on a base of 22.2 million shares outstanding). To put this in context: the company is tiny. A McDonald's franchise location does more revenue in a year than the entire Noble Roman's enterprise. A regional casual-dining chain does more in a quarter.
 
 This scale means three things. First, the company has little to no pricing power—it cannot negotiate from strength with suppliers or real-estate lessors. Second, fixed costs as a percentage of revenue are high—administrative staff, headquarters, and legal/accounting expenses are largely fixed, so each incremental dollar of revenue has to flow to cover a larger share of overhead. Third, the company's share price is thin and illiquid, traded over-the-counter on the pink sheets. Institutional investors avoid it; volume is sporadic.
 

@@ -23,7 +23,7 @@ The company generates revenue through sensor hardware sales and related reader d
 
 ## How it competes
 
-The natural competitors are the makers of glucose meters, insulin pumps, and continuous glucose monitors, plus the wider wearables industry — Freestyle, Dexcom, Medtronic, and Apple. On paper, Freestyle or Dexcom seem to have already solved the problem: wear a patch on the skin, read your glucose. Why would anyone elect surgery to implant something?
+The natural competitors are the makers of glucose meters, insulin pumps, and continuous glucose monitors, plus the wider wearables industry — Freestyle, Dexcom, Medtronic, and [Apple](/aapl-stock/). On paper, Freestyle or Dexcom seem to have already solved the problem: wear a patch on the skin, read your glucose. Why would anyone elect surgery to implant something?
 
 The answer lies in what implantable sensors can do that external ones cannot. A sensor sitting directly in tissue can measure more precisely, stay calibrated longer, detect multiple biomarkers simultaneously, and integrate with closed-loop systems (artificial pancreas) in ways a skin patch struggles to match. An implanted device does not slip off, does not require frequent replacement, and does not broadcast your medical data from your wrist in public.
 
@@ -55,4 +55,4 @@ Profusa is a binary bet on implantable biosensors becoming a durable, scalable c
 
 The key signals to watch are regulatory progress — FDA clearances and expanded indications are public and unambiguous. Clinical data on durability and accuracy matter more than revenue in these early years; look for published results in peer-reviewed journals and conference presentations. And watch the cash burn rate; if the company is consuming capital faster than expected and progress is slower than guided, the risk of dilutive fundraising rises.
 
-The SEC filings (CIK 0001859807) lay out the technical details of each implant design and the regulatory pathway. The annual report and quarterly updates will make clear whether the company is on track or running into unforeseen obstacles. For a company at this stage, the science and the regulatory timeline matter far more than the financials.
+The SEC filings (CIK 0001859807) lay out the technical details of each implant design and the regulatory pathway. The [annual report](/10-k/) and quarterly updates will make clear whether the company is on track or running into unforeseen obstacles. For a company at this stage, the science and the regulatory timeline matter far more than the financials.

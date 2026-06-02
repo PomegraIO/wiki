@@ -4,7 +4,7 @@ description: "A closed-end investment fund focused on healthcare sector equities
 keywords: [investment-fund, healthcare-sector, closed-end-fund, abrdn, equity-fund]
 ---
 
-*The origins of closed-end investment funds in the healthcare sector reflect the steady demand from individual and institutional investors for professional management of complex, fast-moving industries. **abrdn Healthcare Investors (HQH)** represents the vehicle through which abrdn, a global asset manager based in Scotland, offers investors curated [equity](/common-stock/) exposure to pharmaceutical companies, medical device manufacturers, biotechnology firms, and [healthcare services](/hcsg-stock/) providers. Founded as part of abrdn's suite of sector-focused portfolios, the fund embodies a governance model—the closed-end structure—that differs fundamentally from how most investors interact with professional asset management.*
+*The origins of closed-end investment funds in the healthcare sector reflect the steady demand from individual and institutional investors for professional management of complex, fast-moving industries. **abrdn Healthcare Investors (HQH)** represents the vehicle through which abrdn, a global asset manager based in Scotland, offers investors curated [equity](/common-stock/) exposure to pharmaceutical companies, medical device manufacturers, biotechnology firms, and healthcare services providers. Founded as part of abrdn's suite of sector-focused portfolios, the fund embodies a governance model—the closed-end structure—that differs fundamentally from how most investors interact with professional asset management.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>HQH</td></tr>

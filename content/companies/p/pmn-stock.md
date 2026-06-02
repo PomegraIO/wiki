@@ -51,7 +51,7 @@ Neurodegenerative diseases are long-development-cycle indications. Alzheimer's t
 
 ## The competitive and regulatory context
 
-Alzheimer's is one of the most active areas in drug development. Anti-amyloid antibodies are already approved or in late trials at companies including Eli Lilly, Roche, and others. The question for PMN310 is whether its selectivity for oligomers offers a clinical advantage — faster onset, better tolerability, stronger efficacy — compared to existing options. If the Phase 1b results are merely reassuring but not compelling, PMN310 may face a crowded field and higher bar for approval.
+Alzheimer's is one of the most active areas in drug development. Anti-amyloid antibodies are already approved or in late trials at companies including [Eli Lilly](/lly-stock/), Roche, and others. The question for PMN310 is whether its selectivity for oligomers offers a clinical advantage — faster onset, better tolerability, stronger efficacy — compared to existing options. If the Phase 1b results are merely reassuring but not compelling, PMN310 may face a crowded field and higher bar for approval.
 
 Neurodegenerative diseases also carry regulatory complexity. Biomarker endpoints — changes in amyloid measured by PET imaging or cerebrospinal fluid — can drive approval decisions, but regulators increasingly expect clinical benefit (slowing cognitive decline) rather than biomarker change alone. That requirement extends timelines and raises the cost of development.
 

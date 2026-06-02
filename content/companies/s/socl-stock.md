@@ -31,23 +31,23 @@ The investment thesis underlying SOCL is straightforward: social media remains a
 
 ## Composition and the advertising overlay
 
-A meaningful portion of SOCL's holdings are advertising-technology companies, because social platforms are primarily advertising vehicles. Meta (owner of Facebook and Instagram), for example, generates most of its revenue from advertising. Alphabet (Google) similarly depends on ad dollars, including those from people discovering content on YouTube. Smaller platforms, influencer-management software companies, and video-hosting services also often monetize through advertising or sponsored content.
+A meaningful portion of SOCL's holdings are advertising-technology companies, because social platforms are primarily advertising vehicles. Meta (owner of Facebook and Instagram), for example, generates most of its revenue from advertising. [Alphabet](/googl-stock/) (Google) similarly depends on ad dollars, including those from people discovering content on YouTube. Smaller platforms, influencer-management software companies, and video-hosting services also often monetize through advertising or sponsored content.
 
-This means SOCL's returns are sensitive not just to user growth on social platforms but to advertiser spending. During recessions or periods of marketing belt-tightening, advertising budgets contract, which can depress the entire basket. Conversely, in strong economic periods, ad spending tends to rise faster than consumer spending, lifting the fund.
+This means SOCL's returns are sensitive not just to user growth on social platforms but to advertiser spending. During [recessions](/recession/) or periods of marketing belt-tightening, advertising budgets contract, which can depress the entire basket. Conversely, in strong economic periods, ad spending tends to rise faster than consumer spending, lifting the fund.
 
 Beyond advertising, SOCL captures some exposure to platforms monetizing through subscriptions (premium account tiers, content creation tools) and transaction fees (platforms enabling commerce). The actual mix in the fund depends on the index's weighting and selection rules.
 
 ## Fund mechanics and costs
 
-SOCL is a standard, non-leveraged equity ETF. It holds common shares of the companies in its index, rebalances periodically (typically once per quarter), and charges an expense ratio to cover administration, custody, and ongoing management. The fund does not use leverage, derivatives, or hedging; it is simply a basket of equity shares.
+SOCL is a standard, non-leveraged [equity ETF](/equity-etf/). It holds common shares of the companies in its index, rebalances periodically (typically once per quarter), and charges an [expense ratio](/expense-ratio/) to cover administration, custody, and ongoing management. The fund does not use leverage, derivatives, or hedging; it is simply a basket of equity shares.
 
-The fund trades on the Nasdaq during regular market hours, so prices fluctuate throughout the day based on supply and demand. Investors can buy and sell SOCL shares at market prices, and the bid-ask spread varies based on trading volume. Because SOCL has significant assets under management and is reasonably popular, liquidity is generally adequate for most investors.
+The fund trades on the [Nasdaq](/nasdaq/) during regular market hours, so prices fluctuate throughout the day based on supply and demand. Investors can buy and sell SOCL shares at market prices, and the [bid-ask spread](/bid-ask-spread/) varies based on trading volume. Because SOCL has significant assets under management and is reasonably popular, liquidity is generally adequate for most investors.
 
 ## Risks inherent in the theme
 
-Thematic ETFs like SOCL rely on a definition of "social media" that can evolve and be subject to judgment. The index provider decides which companies belong in the basket, and that boundary can shift as the industry changes. A company newly offering social features might be included; a platform's declining social relevance might lead to exclusion.
+[Thematic ETFs](/thematic-etf/) like SOCL rely on a definition of "social media" that can evolve and be subject to judgment. The index provider decides which companies belong in the basket, and that boundary can shift as the industry changes. A company newly offering social features might be included; a platform's declining social relevance might lead to exclusion.
 
-The basket also faces concentration risk. If the index overweights the largest platform operators (which it typically does, by market cap), then changes affecting Meta or another giant disproportionately affect the fund. A regulatory crackdown on a major platform, a shift in user demographics away from certain networks, or a loss of advertiser confidence can ripple through the entire holding.
+The basket also faces [concentration risk](/concentration-risk/). If the index overweights the largest platform operators (which it typically does, by [market cap](/market-capitalization/)), then changes affecting Meta or another giant disproportionately affect the fund. A regulatory crackdown on a major platform, a shift in user demographics away from certain networks, or a loss of advertiser confidence can ripple through the entire holding.
 
 Cyclicality is another consideration. Social media advertising is highly cyclical — it tends to accelerate in economic booms and contract sharply during downturns. SOCL, by bundling companies that depend heavily on ad spending, inherits this volatility.
 

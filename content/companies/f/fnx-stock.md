@@ -12,11 +12,11 @@ handwritten: true
 
 ## What does FNX do, and how is it different from FNK or FNY?
 
-The First Trust Mid Cap Core AlphaDEX Fund tracks the Nasdaq AlphaDEX Mid Cap Core Index, a fundamental-weighted portfolio of mid-cap stocks selected for quantitative signals that correlate with outperformance. The key difference from its cousins FNK (value) and FNY (growth) is that FNX blends both value and growth metrics equally. It does not restrict itself to cheap stocks or fast-growing stocks; instead, it weights the entire mid-cap universe based on how strongly each stock scores across a combination of value signals, growth signals, and quality measures. The fund maintains at least 90 percent of assets in index-eligible securities, with the remainder in cash or short-term holdings for operational flexibility.
+The First Trust Mid Cap Core AlphaDEX Fund tracks the [Nasdaq](/nasdaq/) AlphaDEX Mid Cap Core Index, a fundamental-weighted portfolio of mid-cap stocks selected for quantitative signals that correlate with outperformance. The key difference from its cousins FNK (value) and FNY (growth) is that FNX blends both value and growth metrics equally. It does not restrict itself to cheap stocks or fast-growing stocks; instead, it weights the entire mid-cap universe based on how strongly each stock scores across a combination of value signals, growth signals, and quality measures. The fund maintains at least 90 percent of assets in index-eligible securities, with the remainder in cash or short-term holdings for operational flexibility.
 
 ## How does AlphaDEX rank and select mid-cap stocks for the core strategy?
 
-The AlphaDEX methodology evaluates mid-cap stocks across multiple dimensions. For companies showing growth characteristics, it examines momentum (price appreciation over trailing periods), sales growth, and the ratio of sales to price. For value-oriented stocks, it looks at book-to-price, cash flow-to-price, and return on assets. Core stocks — those that blend both value and growth — are graded on both sets of metrics. The system then ranks the entire universe, trims the bottom 25 percent of candidates, and weights the survivors by their composite scores. A stock that scores strongly on multiple metrics gets higher weight in the portfolio; one with weaker scores gets lower weight. This is entirely mechanical: no analyst picks individual stocks.
+The AlphaDEX methodology evaluates mid-cap stocks across multiple dimensions. For companies showing growth characteristics, it examines momentum (price appreciation over trailing periods), sales growth, and the ratio of sales to price. For value-oriented stocks, it looks at book-to-price, cash flow-to-price, and [return on assets](/return-on-assets/). Core stocks — those that blend both value and growth — are graded on both sets of metrics. The system then ranks the entire universe, trims the bottom 25 percent of candidates, and weights the survivors by their composite scores. A stock that scores strongly on multiple metrics gets higher weight in the portfolio; one with weaker scores gets lower weight. This is entirely mechanical: no analyst picks individual stocks.
 
 ## Why choose a core or blend fund instead of committing fully to value or growth?
 
@@ -24,11 +24,11 @@ A core approach makes sense for investors who believe the best mid-cap opportuni
 
 ## What are the costs and practical details?
 
-FNX has an expense ratio around 0.62 percent annually, which is higher than a simple cap-weighted mid-cap fund but typical for a systematic, factor-based index. The fund trades daily on NASDAQ with strong liquidity, and it has operated for roughly two decades, giving it an established track record. The portfolio is rebalanced periodically to keep it aligned with the index rules.
+FNX has an [expense ratio](/expense-ratio/) around 0.62 percent annually, which is higher than a simple cap-weighted mid-cap fund but typical for a systematic, factor-based index. The fund trades daily on NASDAQ with strong liquidity, and it has operated for roughly two decades, giving it an established track record. The portfolio is rebalanced periodically to keep it aligned with the index rules.
 
 ## Who benefits most from holding FNX?
 
-FNX appeals to investors seeking mid-cap exposure who have confidence in quantitative, rules-based stock selection and prefer a balanced approach to value and growth rather than a tilt to either extreme. It is also useful as a core holding for portfolios that already own dedicated value or growth funds and need a center position that spans both styles. The fund suits investors with intermediate time horizons who can tolerate the normal volatility of mid-cap equities.
+FNX appeals to investors seeking mid-cap exposure who have confidence in quantitative, rules-based stock selection and prefer a balanced approach to value and growth rather than a tilt to either extreme. It is also useful as a core holding for portfolios that already own dedicated value or [growth funds](/growth-fund/) and need a center position that spans both styles. The fund suits investors with intermediate time horizons who can tolerate the normal volatility of mid-cap equities.
 
 ## How should investors evaluate FNX as part of a portfolio?
 

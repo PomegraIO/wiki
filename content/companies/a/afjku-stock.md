@@ -13,11 +13,11 @@ handwritten: true
 
 ### What exactly is Aimei Health Technology?
 
-Aimei Health Technology is a shell company—a corporate vehicle with no business operations, no employees producing anything, and no revenue. The company exists solely to raise capital from public investors and then use that capital to acquire or merge with an operating business, typically in a specified sector or industry. Aimei was incorporated in 2023 and raised $69 million in an IPO in December 2023. That capital is now sitting in a bank account, waiting for management to find and negotiate a deal.
+[Aimei Health Technology](/afjk-stock/) is a shell company—a corporate vehicle with no business operations, no employees producing anything, and no revenue. The company exists solely to raise capital from public investors and then use that capital to acquire or merge with an operating business, typically in a specified sector or industry. Aimei was incorporated in 2023 and raised $69 million in an IPO in December 2023. That capital is now sitting in a bank account, waiting for management to find and negotiate a deal.
 
 ### Why would anyone buy stock in a company with no business?
 
-Investors in blank-check companies are betting on the track record and judgment of the management team. They are saying: I believe these founders or managers have the experience and relationships to identify a good business in healthcare or biopharmaceuticals, negotiate a fair acquisition price, and execute a merger that creates shareholder value. If the acquirer buys a mediocre company at too high a price, shareholders lose money. If they find a gem at a reasonable price, shareholders can win as that business grows post-acquisition.
+Investors in blank-check companies are betting on the track record and judgment of the management team. They are saying: I believe these founders or managers have the experience and relationships to identify a good business in healthcare or biopharmaceuticals, negotiate a fair [acquisition](/acquisition/) price, and execute a [merger](/merger/) that creates shareholder value. If the acquirer buys a mediocre company at too high a price, shareholders lose money. If they find a gem at a reasonable price, shareholders can win as that business grows post-acquisition.
 
 The structure also appeals to certain types of investors who want exposure to healthcare or emerging growth companies but prefer the governance structure and reporting requirements of a public company over private equity stakes. By backing a blank-check sponsor, they are getting liquidity and transparency at the cost of uncertainty about what the underlying business will actually be.
 
@@ -27,7 +27,7 @@ Aimei's stated mandate is to acquire or merge with companies in biopharmaceutica
 
 ### How much time does Aimei have to find a deal?
 
-Most blank-check companies are required by their offering documents and NASDAQ listing rules to complete a business combination within 18 to 24 months of the IPO, or else return capital to shareholders. Aimei's timeline is tied to the December 2023 IPO, meaning the company was initially required to find and close a deal sometime around mid-2025. However, if shareholders vote to extend, the deadline can be pushed back by additional months or even a year. Extensions signal that the company is actively negotiating with targets but needs more time; repeated extensions suggest management is struggling to find a viable candidate.
+Most blank-check companies are required by their offering documents and [NASDAQ](/nasdaq/) listing rules to complete a [business combination](/business-combination-purchase/) within 18 to 24 months of the IPO, or else return capital to shareholders. Aimei's timeline is tied to the December 2023 IPO, meaning the company was initially required to find and close a deal sometime around mid-2025. However, if shareholders vote to extend, the deadline can be pushed back by additional months or even a year. Extensions signal that the company is actively negotiating with targets but needs more time; repeated extensions suggest management is struggling to find a viable candidate.
 
 ### What is the deal with United Hydrogen Group?
 
@@ -35,9 +35,9 @@ In mid-2024, Aimei announced that it had issued a promissory note to United Hydr
 
 ### How do the different ticker symbols work?
 
-Aimei's IPO was structured as units, with each unit containing a common share (AFJK), a right (AFJKR), and a warrant. As the market trades, these have separated into individual instruments. AFJK is the common stock—the core ownership claim on the company. AFJKR is the "right," a security that gives holders the ability to purchase additional common shares at a set price once a business combination is announced. AFJKU is the original unit ticker, still traded by some investors who have not separated their holdings. The warrant is yet another security that also provides the right to buy stock at a specified price, but with a longer expiration than the right.
+Aimei's IPO was structured as units, with each unit containing a common share (AFJK), a right (AFJKR), and a warrant. As the market trades, these have separated into individual instruments. AFJK is the [common stock](/common-stock/)—the core ownership claim on the company. AFJKR is the "right," a security that gives holders the ability to purchase additional common shares at a set price once a business combination is announced. AFJKU is the original unit ticker, still traded by some investors who have not separated their holdings. The warrant is yet another security that also provides the right to buy stock at a specified price, but with a longer expiration than the right.
 
-For investors, the key distinction is that AFJK (the common stock) is the simplest and most liquid instrument. The rights and warrants have different valuations and expiration dates, making them more complex but potentially offering leverage to investors who believe strongly in a particular deal outcome.
+For investors, the key distinction is that AFJK (the common stock) is the simplest and most liquid instrument. The rights and warrants have different valuations and [expiration dates](/expiration-contracts/), making them more complex but potentially offering leverage to investors who believe strongly in a particular deal outcome.
 
 ### What are the risks of owning Aimei stock?
 

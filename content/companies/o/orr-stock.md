@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-A long/short equity fund is fundamentally a bet on a manager's stock-picking skill, divorced from whether equity markets rise or fall. Militia Long/Short Equity ETF (NASDAQ: ORR) holds stocks the manager expects to appreciate and simultaneously shorts stocks the manager expects to depreciate, aiming to profit from both sides of the relative value judgment while hedging away portfolio risk. It is a hedge fund strategy served in an exchange-traded wrapper, accessible to any investor with a brokerage account—a direct alternative to the private hedge funds and separately managed accounts that historically required millions to access this approach.
+A long/short equity fund is fundamentally a bet on a manager's stock-picking skill, divorced from whether equity markets rise or fall. Militia Long/Short [Equity ETF](/equity-etf/) ([NASDAQ](/nasdaq/): ORR) holds stocks the manager expects to appreciate and simultaneously shorts stocks the manager expects to depreciate, aiming to profit from both sides of the relative value judgment while hedging away portfolio risk. It is a [hedge fund](/hedge-fund/) strategy served in an exchange-traded wrapper, accessible to any investor with a brokerage account—a direct alternative to the private hedge funds and separately managed accounts that historically required millions to access this approach.
 
 ## The dual-sided portfolio
 
-ORR's core mechanism is paired betting. Long positions represent the manager's conviction that those stocks will outperform; short positions represent conviction that those stocks will underperform. If both judgments are correct, the fund wins twice. More importantly, if the overall stock market moves sharply in either direction, the shorts cushion losses on the longs, reducing portfolio swings independent of market direction.
+ORR's core mechanism is paired betting. Long positions represent the manager's conviction that those stocks will outperform; short positions represent conviction that those stocks will underperform. If both judgments are correct, the fund wins twice. More importantly, if the overall [stock market](/stock-market/) moves sharply in either direction, the shorts cushion losses on the longs, reducing portfolio swings independent of market direction.
 
 The fund's net exposure—the tilt between long and short amounts—is active, not fixed. A manager might run net long in a risk-on environment, expecting equities to rise broadly and allowing the short book to provide only partial hedging. In a risk-off environment, the manager might reduce net long exposure or even go net short, building short conviction to cushion anticipated downside. This tactical flexibility distinguishes long/short from simple pair-trade strategies, where long and short sizes are mechanically balanced to produce market neutrality.
 
@@ -22,13 +22,13 @@ Monthly or quarterly holdings files disclose the long and short portfolio. Unlik
 
 ## Exchange-traded structure and daily liquidity
 
-Militia sponsors ORR as a conventional SEC-regulated ETF trading on the NASDAQ throughout each trading day. Investors can enter or exit at any moment the market is open—a key advantage over hedge funds that typically gate investor deposits and withdrawals quarterly or semi-annually. The ETF price fluctuates based on supply and demand but tends toward net asset value as arbitrage corrects large deviations.
+Militia sponsors ORR as a conventional SEC-regulated ETF trading on the NASDAQ throughout each trading day. Investors can enter or exit at any moment the market is open—a key advantage over hedge funds that typically gate investor deposits and withdrawals quarterly or semi-annually. The ETF price fluctuates based on supply and demand but tends toward [net asset value](/net-asset-value/) as arbitrage corrects large deviations.
 
-The fund does not employ leverage beyond the short selling inherent in the long/short strategy. Short selling itself requires borrowing stock and paying borrowing costs, which drag on returns, but this is core strategy, not leverage for amplification. The fund operates within standard brokerage accounts and is not engineered for margin use or intraday tactical trading.
+The fund does not employ leverage beyond the [short selling](/short-selling/) inherent in the long/short strategy. Short selling itself requires borrowing stock and paying borrowing costs, which drag on returns, but this is core strategy, not leverage for amplification. The fund operates within standard brokerage accounts and is not engineered for margin use or intraday tactical trading.
 
 ## Costs and real sources of return variance
 
-The expense ratio covers active management—substantially higher than a passive index fund but often lower than a traditional hedge fund's 2% base fee. The fund also incurs trading costs: bid-ask spreads on the underlying securities and borrowing costs on the short book. These frictions erode returns relative to the pure strategy described in the prospectus.
+The [expense ratio](/expense-ratio/) covers active management—substantially higher than a passive [index fund](/index-fund/) but often lower than a traditional hedge fund's 2% base fee. The fund also incurs trading costs: [bid-ask spreads](/bid-ask-spread/) on the underlying securities and borrowing costs on the short book. These frictions erode returns relative to the pure strategy described in the prospectus.
 
 Returns diverge from strategy for a deeper reason: security selection skill. A manager with genuine judgment identifies mispriced stocks and captures that edge consistently; a manager lacking skill sees picks falter. Because ORR shorts stocks, a sharp rally in names the manager bet against inflicts direct losses. Concentration in either the long or short book means a few holdings can dominate returns for a period.
 
@@ -46,4 +46,4 @@ Militia Long/Short is suited to investors who understand the strategy and accept
 
 Investors should read the fund's prospectus and monthly fact sheets, both available through the sponsor or SEC EDGAR. Holdings disclosures show the long and short book; an investor can form an independent view of whether the picks are sound. Track net exposure across time: a manager who reduces net long exposure ahead of downturns or builds short conviction ahead of reversals displays tactical acumen; accidental defensiveness suggests luck rather than skill.
 
-Compare ORR's returns against a simple 60/40 stock-bond portfolio over rolling three- and five-year periods, and against hedge fund indices. If ORR has delivered attractive risk-adjusted returns without the concentrated idiosyncratic risk of a single security bet, it has earned its management fee. If it has lagged on a risk-adjusted basis, the active-management overhead is not justified.
+Compare ORR's returns against a simple 60/40 stock-bond portfolio over rolling three- and five-year periods, and against hedge fund indices. If ORR has delivered attractive risk-adjusted returns without the concentrated [idiosyncratic risk](/idiosyncratic-risk/) of a single security bet, it has earned its [management fee](/management-fee/). If it has lagged on a risk-adjusted basis, the active-management overhead is not justified.

@@ -13,9 +13,9 @@ handwritten: true
 
 ## Origins as a regional Florida power company
 
-NextEra Energy's ancestry traces to the founding of Florida Power & Light in 1925, when investors in Miami established a small electrical utility to serve the fast-growing Miami area. Electricity was still a luxury in 1920s Florida—few households had it—but air conditioning and economic development drove rapid adoption. FPL grew alongside the state, gradually expanding its service territory northward along the coast and inland. For most of the twentieth century, FPL was a regional utility, locally prominent but unremarkable on the national stage, earning stable dividends from a captive customer base in Florida.
+NextEra Energy's ancestry traces to the founding of Florida Power & Light in 1925, when investors in Miami established a small electrical utility to serve the fast-growing Miami area. Electricity was still a luxury in 1920s Florida—few households had it—but air conditioning and economic development drove rapid adoption. FPL grew alongside the state, gradually expanding its service territory northward along the coast and inland. For most of the twentieth century, FPL was a regional utility, locally prominent but unremarkable on the national stage, earning stable [dividends](/dividend/) from a captive customer base in Florida.
 
-The modern incarnation of NextEra Energy began in 1984 when Florida Power & Light Company was acquired and reorganized under a new holding company called Florida Power & Light Company (later NextEra Energy). The holding-company structure gave FPL's leadership a vehicle to pursue growth beyond their core regulated utility—growth that would eventually transform the company.
+The modern incarnation of [NextEra Energy](/nee-stock/) began in 1984 when Florida Power & Light Company was acquired and reorganized under a new holding company called Florida Power & Light Company (later NextEra Energy). The holding-company structure gave FPL's leadership a vehicle to pursue growth beyond their core regulated utility—growth that would eventually transform the company.
 
 ## The turn toward nuclear and then renewable energy
 

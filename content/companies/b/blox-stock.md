@@ -11,15 +11,15 @@ keywords:
 handwritten: true
 ---
 
-The Nicholas Crypto Income ETF emerged from a simple observation: cryptocurrencies, unlike most other assets, have shifted from pure speculation toward yield generation. Blockchain networks now pay rewards to participants who validate transactions and secure the network — a practice called staking. For investors in the emerging digital-asset space, this shift meant new opportunities to earn returns without selling holdings.
+The Nicholas Crypto [Income ETF](/income-etf/) emerged from a simple observation: cryptocurrencies, unlike most other assets, have shifted from pure speculation toward yield generation. Blockchain networks now pay rewards to participants who validate transactions and secure the network — a practice called staking. For investors in the emerging digital-asset space, this shift meant new opportunities to earn returns without selling holdings.
 
-BLOX is designed to capture that income stream. The fund holds a portfolio of cryptocurrencies selected for their ability to generate returns through staking or similar yield mechanisms. Rather than buying Bitcoin for price appreciation or Ethereum for technology exposure, BLOX holds cryptocurrencies that pay rewards to holders and, in some instances, companies that provide staking services and infrastructure.
+BLOX is designed to capture that income stream. The fund holds a portfolio of cryptocurrencies selected for their ability to generate returns through staking or similar yield mechanisms. Rather than buying [Bitcoin](/bitcoin/) for price appreciation or [Ethereum](/ethereum/) for technology exposure, BLOX holds cryptocurrencies that pay rewards to holders and, in some instances, companies that provide staking services and infrastructure.
 
 ## The evolution from speculation to income generation
 
-For much of cryptocurrency's history, there was no yield. Bitcoin and early cryptocurrencies generated no interest or dividends; they returned only what you could sell them for. That changed when Ethereum and other blockchains adopted proof-of-stake consensus mechanisms, which reward token holders with new cryptocurrency for participating in network security.
+For much of cryptocurrency's history, there was no yield. Bitcoin and early cryptocurrencies generated no interest or [dividends](/dividend/); they returned only what you could sell them for. That changed when Ethereum and other blockchains adopted proof-of-stake consensus mechanisms, which reward token holders with new cryptocurrency for participating in network security.
 
-The shift opened a new investment dimension. Holding staking-enabled cryptocurrencies became comparable to owning dividend-paying stocks or income-producing bonds — you received cash flow just by participating in the network. As staking grew, a supporting ecosystem emerged: companies offering staking services, custody solutions, and platforms that automated yield collection.
+The shift opened a new investment dimension. Holding staking-enabled cryptocurrencies became comparable to owning dividend-paying stocks or income-producing [bonds](/bond/) — you received cash flow just by participating in the network. As staking grew, a supporting ecosystem emerged: companies offering staking services, custody solutions, and platforms that automated yield collection.
 
 Nicholas Investments built BLOX around this shift, recognising that investors wanted exposure to cryptocurrency yields without building the technical infrastructure themselves. The fund holds cryptocurrencies that pay staking rewards, thereby giving shareholders access to that income stream.
 
@@ -27,7 +27,7 @@ Nicholas Investments built BLOX around this shift, recognising that investors wa
 
 BLOX is structured as a simple ETF, not leveraged or inverse. The fund holds cryptocurrency directly or through cryptocurrency trusts and does not use debt or derivative strategies. It trades on a major US exchange.
 
-The expense ratio is meaningful, reflecting the specialised custody and management required to hold digital assets and collect staking rewards. Beyond the expense ratio, understand that holding cryptocurrency outside of a specialised account carries different tax treatment than holding stocks or bonds. Staking rewards are typically taxed as income in the year received, and cryptocurrency appreciation may be taxed as capital gains.
+The [expense ratio](/expense-ratio/) is meaningful, reflecting the specialised custody and management required to hold digital assets and collect staking rewards. Beyond the expense ratio, understand that holding cryptocurrency outside of a specialised account carries different tax treatment than holding stocks or bonds. Staking rewards are typically taxed as income in the year received, and cryptocurrency appreciation may be taxed as capital gains.
 
 The fund passes through the staking income it collects to shareholders. That income varies depending on cryptocurrency prices, network participation rates, and the proportion of the portfolio in staking-enabled assets versus non-staking cryptocurrencies.
 
@@ -39,11 +39,11 @@ BLOX faces a compositional challenge: it is concentrated in a small number of cr
 
 ## Income generation and the risks involved
 
-Staking rewards come from blockchain networks, not from companies with balance sheets and audited financials. The reward rates are set by protocol rules and adjust based on network conditions. If a network sees reduced participation or changes its reward structure, income declines. If a network faces technical problems or security issues, it could fail entirely.
+Staking rewards come from blockchain networks, not from companies with [balance sheets](/balance-sheet/) and audited financials. The reward rates are set by protocol rules and adjust based on network conditions. If a network sees reduced participation or changes its reward structure, income declines. If a network faces technical problems or security issues, it could fail entirely.
 
 The income stream is also not guaranteed in the way a bond coupon is. It depends on the continued operation and economic viability of the underlying blockchains. Regulatory changes affecting cryptocurrency, shifts in which blockchains the market adopts, or technological disruption could reduce or eliminate yield.
 
-Cryptocurrency markets remain highly volatile. The fund's net asset value fluctuates substantially with cryptocurrency prices. An investor holding BLOX experiences both the price volatility of the underlying cryptocurrencies and the income benefit of staking rewards. In periods of severe cryptocurrency price declines, the income alone may not offset the loss in asset value.
+Cryptocurrency markets remain highly volatile. The fund's [net asset value](/net-asset-value/) fluctuates substantially with cryptocurrency prices. An investor holding BLOX experiences both the price volatility of the underlying cryptocurrencies and the income benefit of staking rewards. In periods of severe cryptocurrency price declines, the income alone may not offset the loss in asset value.
 
 ## Who holds BLOX and how to research it
 

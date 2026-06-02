@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Charlton Aria Acquisition Corp formed as a blank-check company — basically a bucket of money with a deadline. A group of investors put together the company, raised about $100 million or so from people like you through an IPO, put most of it in a bank account, and promised to use it to buy or merge with some other company within a couple of years. The CHARU ticker is the common stock, the regular ownership piece. If the merger works out, CHARU shareholders own a piece of whatever the merged company becomes.
+[Charlton Aria Acquisition](/char-stock/) Corp formed as a blank-check company — basically a bucket of money with a deadline. A group of investors put together the company, raised about $100 million or so from people like you through an IPO, put most of it in a bank account, and promised to use it to buy or merge with some other company within a couple of years. The CHARU ticker is the [common stock](/common-stock/), the regular ownership piece. If the [merger](/merger/) works out, CHARU shareholders own a piece of whatever the merged company becomes.
 
 <aside class="wiki-infobox">
 <table>
@@ -29,7 +29,7 @@ Charlton Aria Acquisition Corp formed as a blank-check company — basically a b
 
 When you own CHARU stock, you own a tiny piece of a company that has no business — no customers, no products, no revenue. What it does have is cash. The sponsor (the group that formed the company and pitched it to investors like you) took the IPO money, subtracted about 2% in fees, and locked the rest in a bank account that they cannot touch until a merger is announced and voted on. Your share of that cash is your floor: if nothing happens, if they fail to find a merger target before the deadline, you can vote to get your money back.
 
-But if they find a company to merge with — let's say a biotech startup or a logistics company or a software firm looking to go public — then your piece of the cash pool goes into that company alongside the startup's owners. You become a shareholder of whatever emerges. That is the bet: not on the blank-check company itself (which will cease to exist), but on the manager's ability to spot a good acquisition target before the deadline runs out.
+But if they find a company to merge with — let's say a biotech startup or a logistics company or a software firm looking to go public — then your piece of the cash pool goes into that company alongside the startup's owners. You become a shareholder of whatever emerges. That is the bet: not on the blank-check company itself (which will cease to exist), but on the manager's ability to spot a good [acquisition](/acquisition/) target before the deadline runs out.
 
 ## The choice shareholders face
 
@@ -41,7 +41,7 @@ Because of that redemption right, the blank-check company carries less risk than
 
 The sponsor — the team behind the blank-check formation — usually owns shares they bought for almost nothing, and they only make real money if the merger closes. This creates incentive to find a deal and get it done. But that incentive can also be a trap: if the pressure to complete *any* merger is strong enough, they might merge with a weaker target than they should. And the SEC and courts have found sponsors liable when they mislead shareholders about the target's quality or financial prospects.
 
-The sponsor also gets paid a management fee while the company hunts for a target (typically 0.5–1% of the capital per year), so they have some income even if no merger happens. But most of their upside comes from a successful merger closing.
+The sponsor also gets paid a [management fee](/management-fee/) while the company hunts for a target (typically 0.5–1% of the capital per year), so they have some income even if no merger happens. But most of their upside comes from a successful merger closing.
 
 ## What happens if no merger occurs
 

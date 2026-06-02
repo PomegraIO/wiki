@@ -16,7 +16,7 @@ Xtreme One Entertainment is a sports and entertainment management company formed
 
 Xtreme Fighting Championships is a legacy mixed martial arts organization that traces its roots to 2007. The league's first major event, XFC 1: Dynamite, was held at the St. Pete Times Forum in Tampa, Florida on November 11, 2007, and drew over 11,000 attendees—at the time, a record for MMA attendance in Florida. The organization positioned itself as a platform for young, developing fighters rather than established names, and scheduled 4 to 6 events per year through the early 2010s, touring across the United States and Greece.
 
-Like many independent MMA promotions outside the UFC, XFC entered a dormant phase, halting major events for roughly four years. The league returned in late 2020 with XFC 43, held in Atlanta, Georgia, marking a restart of the franchise. Xtreme One Entertainment's acquisition of XFC in 2023 represents an attempt to revive and scale the property. The company now controls all intellectual property, branding, and media rights to XFC, positioning itself to produce events, sell broadcasting rights, and monetize archived content.
+Like many independent MMA promotions outside the UFC, XFC entered a dormant phase, halting major events for roughly four years. The league returned in late 2020 with XFC 43, held in Atlanta, Georgia, marking a restart of the franchise. Xtreme One Entertainment's [acquisition](/acquisition/) of XFC in 2023 represents an attempt to revive and scale the property. The company now controls all intellectual property, branding, and media rights to XFC, positioning itself to produce events, sell broadcasting rights, and monetize archived content.
 
 ## How it generates revenue
 

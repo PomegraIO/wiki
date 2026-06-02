@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Brookfield Oaktree Holdings is an alternative asset manager born from a merger of convenience. Brookfield Asset Management, a diversified Canadian infrastructure company, needed a larger footprint in alternative investments. Oaktree Capital Management, a Los Angeles-based credit and special situations specialist, needed a capital partner to fuel growth. In 2019, Brookfield agreed to acquire approximately 61.2 percent of Oaktree, combining the two firms into one of the world's largest alternative asset managers. The OAK-PA ticker represents preferred shares in the resulting entity, giving investors a claim on earnings from roughly $475 billion of assets under management.
+Brookfield Oaktree Holdings is an alternative asset manager born from a [merger](/merger/) of convenience. [Brookfield Asset Management](/bam-stock/), a diversified Canadian infrastructure company, needed a larger footprint in alternative investments. Oaktree Capital Management, a Los Angeles-based credit and special situations specialist, needed a capital partner to fuel growth. In 2019, Brookfield agreed to acquire approximately 61.2 percent of Oaktree, combining the two firms into one of the world's largest alternative asset managers. The OAK-PA ticker represents preferred shares in the resulting entity, giving investors a claim on earnings from roughly $475 billion of assets under management.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,9 +28,9 @@ Brookfield Oaktree Holdings is an alternative asset manager born from a merger o
 
 ## The Oaktree legacy and the investment philosophy
 
-Oaktree Capital Management was founded in 1995 by a team led by Howard Marks and Bruce Karsh, who built the firm on a particular thesis: that disciplined investors could find value in less liquid, less popular securities — distressed debt, turnarounds, and special situations where mispricing created opportunity. This philosophy, often called "contrarian opportunism," became the foundation of Oaktree's identity and track record.
+Oaktree Capital Management was founded in 1995 by a team led by [Howard Marks](/howard-marks/) and Bruce Karsh, who built the firm on a particular thesis: that disciplined investors could find value in less liquid, less popular securities — distressed debt, turnarounds, and special situations where mispricing created opportunity. This philosophy, often called "contrarian opportunism," became the foundation of Oaktree's identity and track record.
 
-For decades before the Brookfield acquisition, Oaktree operated as a standalone partnership, managing funds focused on credit investing, distressed debt, and real estate opportunism. The firm earned a reputation in the industry for research depth, operational expertise, and the ability to navigate complex, illiquid situations that generalist managers avoided. Howard Marks's public writing on investing — particularly his memos to investors — became widely read and influential in the institutional investor community.
+For decades before the Brookfield [acquisition](/acquisition/), Oaktree operated as a standalone partnership, managing funds focused on credit investing, distressed debt, and real estate opportunism. The firm earned a reputation in the industry for research depth, operational expertise, and the ability to navigate complex, illiquid situations that generalist managers avoided. Howard Marks's public writing on investing — particularly his memos to investors — became widely read and influential in the institutional investor community.
 
 By the late 2010s, Oaktree had grown to manage roughly $120 billion, making it significant by any measure. Yet the senior partners understood that the alternative asset management business was consolidating, and firms managing $2 to 5 trillion were coming to dominate the landscape. To remain independent and competitive, Oaktree would need either to grow rapidly through acquisitions (expensive and risky) or to find a capital partner that could fund growth while respecting the firm's investment philosophy and independence.
 
@@ -44,17 +44,17 @@ The combined entity now manages approximately $475 billion across several major 
 
 ## How the business makes money
 
-Brookfield Oaktree generates revenue primarily from management fees charged on assets under management. Typically, alternative managers charge 1.5 to 2.5 percent annually on the assets in their funds, with fees declining modestly on larger funds. The firm also collects performance fees (often called "carry"), which are typically 20 percent of investment profits above a defined hurdle rate. These carry economics are the driver of outsized returns for the firm in good years.
+Brookfield Oaktree generates revenue primarily from [management fees](/management-fee/) charged on assets under management. Typically, alternative managers charge 1.5 to 2.5 percent annually on the assets in their funds, with fees declining modestly on larger funds. The firm also collects [performance fees](/performance-fee/) (often called "carry"), which are typically 20 percent of investment profits above a defined hurdle rate. These carry economics are the driver of outsized returns for the firm in good years.
 
 The business model depends on three fundamental inputs: assets under management, fee rates, and investment performance. If AUM declines (clients redeem from funds), revenue declines. If the firm underperforms and investors lose trust, AUM declines further. Conversely, if the firm performs well and investors are willing to commit capital to new funds, AUM grows, revenue grows, and carry pools expand.
 
-Within Brookfield Oaktree, there are several distinct product categories. Credit funds target corporate debt, distressed securities, and structured credit. Equity funds pursue private equity, venture capital, and special situations. Real estate funds invest in properties, land, and real estate operating companies. Infrastructure and renewables funds invest in long-life assets like toll roads, power plants, and renewable energy. Each category has different fee rates, different carry arrangements, and different liquidity profiles — and each appeals to different types of institutional capital.
+Within Brookfield Oaktree, there are several distinct product categories. Credit funds target corporate debt, distressed securities, and structured credit. Equity funds pursue private equity, venture capital, and special situations. [Real estate funds](/real-estate-fund/) invest in properties, land, and real estate operating companies. Infrastructure and renewables funds invest in long-life assets like toll roads, power plants, and renewable energy. Each category has different fee rates, different carry arrangements, and different liquidity profiles — and each appeals to different types of institutional capital.
 
 ## The competitive landscape and market positioning
 
-Brookfield Oaktree competes against other large alternative asset managers: Apollo Global Management (which also evolved from a credit specialist into a diversified alternative manager), Ares Management, KKR, The Carlyle Group, Blackstone, and others. This is a ruthlessly competitive industry where brands matter significantly because institutional investors manage billions and entrust it only to firms they believe have superior investment processes and track records.
+Brookfield Oaktree competes against other large alternative asset managers: [Apollo Global Management](/apo-stock/) (which also evolved from a credit specialist into a diversified alternative manager), [Ares Management](/ares-stock/), [KKR](/kkr-stock/), The Carlyle Group, Blackstone, and others. This is a ruthlessly competitive industry where brands matter significantly because institutional investors manage billions and entrust it only to firms they believe have superior investment processes and track records.
 
-Brookfield Oaktree's competitive strengths are its Oaktree heritage (decades of credit and distressed investing pedigree), its diversification across asset classes and geographies, and the capital support from Brookfield (which can fund co-investments and opportunistic acquisitions that rivals cannot). Its competitive vulnerabilities include the complexity of managing multiple investment styles within one firm, the key-person risk of losing Marks or Karsh, and the reality that alternative asset management is becoming more crowded — even as AUM has grown dramatically industry-wide.
+Brookfield Oaktree's competitive strengths are its Oaktree heritage (decades of credit and distressed investing pedigree), its [diversification](/diversification/) across asset classes and geographies, and the capital support from Brookfield (which can fund co-investments and opportunistic acquisitions that rivals cannot). Its competitive vulnerabilities include the complexity of managing multiple investment styles within one firm, the key-person risk of losing Marks or Karsh, and the reality that alternative asset management is becoming more crowded — even as AUM has grown dramatically industry-wide.
 
 The private equity industry in particular has seen an explosion of capital availability and new entrants, meaning that competition for dealflow, investment returns, and talent is more intense than ever. Brookfield Oaktree is large enough to be formidable, but it is not the absolute biggest.
 
@@ -62,7 +62,7 @@ The private equity industry in particular has seen an explosion of capital avail
 
 Several metrics matter for tracking Brookfield Oaktree's business:
 
-**Assets under management and fundraising.** The firm's ability to raise new capital for new funds is essential. If investors are unhappy with returns, or if markets turn uncertain, capital flows can reverse. Watch how much new capital the firm raises annually and whether that pace is accelerating or decelerating.
+**Assets under management and fundraising.** The firm's ability to raise new capital for new funds is essential. If investors are unhappy with returns, or if markets turn uncertain, [capital flows](/capital-flows/) can reverse. Watch how much new capital the firm raises annually and whether that pace is accelerating or decelerating.
 
 **Investment performance.** How are the fund's actual returns comparing to their benchmarks and to competitors? A stretch of underperformance causes redemptions, AUM decline, and fee revenue pressure. This is disclosed in investor reports but not always in public filings.
 
@@ -76,13 +76,13 @@ Risks to the business include macroeconomic downturn (which typically pressures 
 
 ## The preferred share and investor positioning
 
-OAK-PA represents preferred shares in Brookfield Oaktree Holdings, not common equity. Preferred shares typically have a stated dividend rate, a preference in the event of liquidation, and potentially various redemption or conversion features. The specific terms of OAK-PA are set out in the company's organizational documents and SEC filings; these details matter for evaluating the risk and return profile.
+OAK-PA represents preferred shares in Brookfield Oaktree Holdings, not common equity. Preferred shares typically have a stated [dividend](/dividend/) rate, a preference in the event of [liquidation](/liquidation/), and potentially various redemption or conversion features. The specific terms of OAK-PA are set out in the company's organizational documents and SEC filings; these details matter for evaluating the risk and return profile.
 
 Preferred shares in an asset management company are less volatile than common equity but also have a ceiling on upside — dividends are capped, whereas common shareholders can benefit from earnings growth without limit. Investors in OAK-PA are essentially making a bond-like bet that Brookfield Oaktree will remain stable and generate sufficient earnings to pay the preferred dividend consistently.
 
 ## How to research Brookfield Oaktree
 
-Start with the company's SEC filings (CIK 0001403528). Annual reports will show AUM by segment, fee revenue, and headcount. Read the business description and risk factors carefully — they are detailed and informative.
+Start with the company's SEC filings (CIK 0001403528). [Annual reports](/10-k/) will show AUM by segment, fee revenue, and headcount. Read the business description and risk factors carefully — they are detailed and informative.
 
 Next, track industry data on Brookfield Oaktree relative to competitors. The firm participates in industry surveys and some of this data appears in financial media. How is the firm's AUM growing relative to peers? How are fund returns ranking?
 

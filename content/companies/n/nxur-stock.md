@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Nxu Inc. is an energy technology company focused on the distributed energy transition—the shift from centralized power plants to decentralized solar, battery, and generation assets scattered across commercial and industrial sites. The company operates through a platform that aggregates, monitors, and optimizes these distributed energy resources, helping customers reduce grid dependency, lower energy costs, and improve resilience. Nxu trades on the NASDAQ as NXUR.
+Nxu Inc. is an energy technology company focused on the distributed energy transition—the shift from centralized power plants to decentralized solar, battery, and generation assets scattered across commercial and industrial sites. The company operates through a platform that aggregates, monitors, and optimizes these distributed energy resources, helping customers reduce grid dependency, lower energy costs, and improve resilience. Nxu trades on the [NASDAQ](/nasdaq/) as NXUR.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Nxu Inc. is an energy technology company focused on the distributed energy trans
 
 ## The distributed energy platform
 
-The traditional electric grid moves power in one direction: from large generators to end users. Distributed energy flips that architecture. A commercial building with rooftop solar, a battery system, and smart controls can produce its own power, store it for later, and feed excess back to the grid. Industrial customers with onsite generation (from solar, wind, or natural gas) can manage multiple sources simultaneously. The promise is lower electricity costs, reduced emissions, and resilience—the ability to keep running even if the main grid fails.
+The traditional electric grid moves power in one direction: from large generators to end users. Distributed energy flips that architecture. A commercial building with rooftop solar, a battery system, and smart controls can produce its own power, store it for later, and feed excess back to the grid. Industrial customers with onsite generation (from solar, wind, or [natural gas](/natural-gas/)) can manage multiple sources simultaneously. The promise is lower electricity costs, reduced emissions, and resilience—the ability to keep running even if the main grid fails.
 
 Coordinating these resources requires software. Solar output varies with weather; battery state-of-charge changes constantly; grid prices fluctuate by the hour. Nxu's core platform aggregates real-time data from these assets and uses algorithms to optimize when each source generates, consumes, stores, or dispatches power. The software speaks to hardware from multiple manufacturers—inverters, battery systems, control devices—creating a vendor-agnostic orchestration layer. Customers can add new assets without replacing the entire stack, and Nxu captures the economic benefit by selling licenses to the optimization engine.
 
@@ -51,7 +51,7 @@ The energy transition also pushes corporations toward renewable procurement and 
 
 ## Risks and constraints
 
-Nxu's core risk is customer acquisition and retention in a fragmented market. Commercial real estate and industrial customers are typically conservative about energy systems—they do not want disruption or vendor lock-in. Demonstrating clear financial payback is essential, but energy projects are often long-cycle: a design phase may take months, installation another month, and payback takes years. This extends the sales cycle and limits scaling speed.
+Nxu's core risk is customer [acquisition](/acquisition/) and retention in a fragmented market. [Commercial real estate](/commercial-real-estate/) and industrial customers are typically conservative about energy systems—they do not want disruption or vendor lock-in. Demonstrating clear financial payback is essential, but energy projects are often long-cycle: a design phase may take months, installation another month, and payback takes years. This extends the sales cycle and limits scaling speed.
 
 A second structural risk is that Nxu's software does not have a strong moat if incumbent hardware makers decide to build equivalent optimization tools themselves. Siemens or Schneider could bundle similar capabilities into their own platforms, competing directly on breadth and service coverage. Nxu would then have to compete primarily on specialization and lower cost.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Atlanticus Holdings is a financial technology platform that does one job, and does it at significant scale: it connects bank partners with millions of underserved consumers who want credit cards and auto loans. The company does not lend money itself. Instead, it partners with banks, helps them issue credit cards under private labels or as general-purpose cards, then services those loans. It also buys and services auto loans from independent dealers in the used car market. The company trades on the NYSE and NASDAQ under several ticker symbols, each representing different share classes or preferred shares with distinct dividend terms.
+Atlanticus Holdings is a financial technology platform that does one job, and does it at significant scale: it connects bank partners with millions of underserved consumers who want credit cards and auto loans. The company does not lend money itself. Instead, it partners with banks, helps them issue credit cards under private labels or as general-purpose cards, then services those loans. It also buys and services auto loans from independent dealers in the used car market. The company trades on the NYSE and [NASDAQ](/nasdaq/) under several ticker symbols, each representing different share classes or preferred shares with distinct [dividend](/dividend/) terms.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Atlanticus Holdings is a financial technology platform that does one job, and do
 
 ## The core business: credit servicing, not lending
 
-Atlanticus does not own the credit card balances or the auto loans on its books. Banks own them. Atlanticus helps banks issue the cards, processes the customer transactions, collects payments, manages defaults, and deals with customer service. For this work, it takes a fee. The bank keeps the interest income and the credit risk. This is called a servicing relationship, and it is a stable, repeatable business.
+Atlanticus does not own the credit card balances or the auto loans on its books. Banks own them. Atlanticus helps banks issue the cards, processes the customer transactions, collects payments, manages defaults, and deals with customer service. For this work, it takes a fee. The bank keeps the interest income and the [credit risk](/credit-risk/). This is called a servicing relationship, and it is a stable, repeatable business.
 
 The company's credit card segment works like this: a retailer wants to launch a private label card — a card that appears to be from that retailer, even though a bank technically issued it. Atlanticus connects the retailer with a bank willing to do so, handles the technology and servicing, and takes a commission on every transaction or a monthly fee per account. The same model applies to general-purpose cards that Atlanticus markets directly to consumers who have thin or damaged credit histories.
 
@@ -39,11 +39,11 @@ Atlanticus' revenue comes from servicing fees, net interest income on loans it h
 
 The company also owns auto loans outright, which generates traditional lending profits: the interest it collects minus the defaults and the cost of capital. These loans carry higher yields than credit cards because the risk is higher and the borrowers are financially stretched.
 
-Funding is critical. Atlanticus raises money to buy and service these loans through warehouse facilities and asset-backed securitizations. A warehouse line is a short-term credit facility that lets the company accumulate loan balances; once the pool is large enough, it securitizes — sells the loans to investors in a packaged security — and uses the proceeds to repay the warehouse. This is how mortgage originators and other lenders operate. Securitization converts long-term loans into immediate cash.
+Funding is critical. Atlanticus raises money to buy and service these loans through warehouse facilities and asset-backed [securitizations](/securitization/). A warehouse line is a short-term credit facility that lets the company accumulate loan balances; once the pool is large enough, it securitizes — sells the loans to investors in a packaged security — and uses the proceeds to repay the warehouse. This is how mortgage originators and other lenders operate. Securitization converts long-term loans into immediate cash.
 
 ## Scale and the Mercury acquisition
 
-Atlanticus has grown through organic originations and acquisitions. In September 2024, the company acquired Mercury Financial, a rival in the private label credit card business, for approximately 167 million dollars. That acquisition added roughly 3.2 billion dollars in gross credit card receivables and 1.3 million additional customers in a single stroke. It also expanded Atlanticus into the near-prime segment, serving consumers with credit scores a step above traditional subprime.
+Atlanticus has grown through organic originations and [acquisitions](/acquisition/). In September 2024, the company acquired Mercury Financial, a rival in the private label credit card business, for approximately 167 million dollars. That acquisition added roughly 3.2 billion dollars in gross credit card receivables and 1.3 million additional customers in a single stroke. It also expanded Atlanticus into the near-prime segment, serving consumers with credit scores a step above traditional subprime.
 
 The Mercury deal exemplifies how consolidation works in this market. There are only a handful of large players in credit servicing and subprime auto lending, and the biggest ones grow partly by acquisition. Atlanticus now operates multiple brands and card programs under a unified technology and servicing platform.
 
@@ -55,11 +55,11 @@ The underserved market itself is durable. People with thin credit histories, rec
 
 ## Risks and pressures
 
-The most obvious risk is credit losses in a recession. The people Atlanticus serves are often the first to default when they lose income. A rise in unemployment or a sharp cut in government benefits would ripple through the portfolio quickly. That is baked into pricing, but it is real.
+The most obvious risk is credit losses in a [recession](/recession/). The people Atlanticus serves are often the first to default when they lose income. A rise in unemployment or a sharp cut in government benefits would ripple through the portfolio quickly. That is baked into pricing, but it is real.
 
 A second risk is funding. If the securitization market tightens — if investors lose appetite for bundles of subprime auto loans or credit card receivables — Atlanticus's access to capital becomes expensive or disappears. During periods of credit stress, securitization markets can seize up entirely. The company guards against this with multiple funding sources and strong warehouse relationships, but the risk remains structural.
 
-Third is regulation. Credit cards with interest rates above 30 or 40 percent attract regulatory attention, especially in a political environment hostile to subprime lending. Some states have considered caps on interest rates for credit cards offered to underserved consumers. Any rule that caps rates while leaving the company liable for defaults would be disastrous to profitability.
+Third is regulation. Credit cards with [interest rates](/interest-rate/) above 30 or 40 percent attract regulatory attention, especially in a political environment hostile to subprime lending. Some states have considered caps on interest rates for credit cards offered to underserved consumers. Any rule that caps rates while leaving the company liable for defaults would be disastrous to profitability.
 
 Fourth is retail partner concentration. A handful of large retailers account for a significant share of card originations. If one major partner exits the relationship or shifts to a competitor, it would cut managed receivables and fee income immediately.
 

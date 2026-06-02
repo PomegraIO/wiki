@@ -21,7 +21,7 @@ Dorsey Wright applies a technical-analysis lens to the selection process. The sy
 
 ## What makes momentum investing distinct
 
-Momentum is one of several documented stock-market patterns, alongside value (buying cheap stocks), quality (buying profitable, stable businesses), and size (the behaviour of large versus small companies). It is also one of the most emotionally counterintuitive: while many investors are trained to "buy low and sell high," momentum investing explicitly buys stocks already up and sells those already down, making it feel like chasing performance. Yet the academic evidence and the long track record of momentum strategies suggest that this pattern persists. Invesco and Dorsey Wright are betting that it continues to do so.
+Momentum is one of several documented stock-market patterns, alongside value (buying cheap stocks), quality (buying profitable, stable businesses), and size (the behaviour of large versus small companies). It is also one of the most emotionally counterintuitive: while many investors are trained to "buy low and sell high," [momentum investing](/momentum-investing/) explicitly buys stocks already up and sells those already down, making it feel like chasing performance. Yet the academic evidence and the long track record of momentum strategies suggest that this pattern persists. Invesco and Dorsey Wright are betting that it continues to do so.
 
 That said, momentum is also cyclical. Momentum strategies tend to outperform during risk-on periods when investors are willing to reach for growth and push up the stocks that are already winning. In downturns and defensive markets, momentum often lags, because the stocks that have risen the most tend to fall the hardest when sentiment turns. Periods of rotation out of growth stocks into value stocks can be painful for momentum funds.
 
@@ -33,7 +33,7 @@ The holdings are transparent. Invesco publishes the current list regularly, and 
 
 ## Costs and liquidity
 
-PDP charges an expense ratio that covers Invesco's management, the Dorsey Wright licensing fee, and the costs of quarterly rebalancing. The ratio is reasonable but not the lowest among US large-cap equity ETFs, reflecting the active stock-picking embedded in the strategy. The fund trades on an exchange with solid liquidity, so buying and selling is usually straightforward.
+PDP charges an [expense ratio](/expense-ratio/) that covers Invesco's management, the Dorsey Wright licensing fee, and the costs of quarterly rebalancing. The ratio is reasonable but not the lowest among US large-cap [equity ETFs](/equity-etf/), reflecting the active stock-picking embedded in the strategy. The fund trades on an exchange with solid liquidity, so buying and selling is usually straightforward.
 
 ## Tracking and volatility
 
@@ -43,9 +43,9 @@ Like all momentum strategies, PDP will exhibit greater volatility than the broad
 
 ## Who should consider PDP
 
-PDP suits investors who believe momentum is a real, persistent pattern in stock markets, who can tolerate the periods when momentum underperforms, and who want systematic exposure to that factor without picking individual stocks. It is useful as a satellite holding around a core US stock position, especially for investors who can psychologically handle owning the stocks that have already risen sharply, rather than the cheap ones that feel safer.
+PDP suits investors who believe momentum is a real, persistent pattern in [stock markets](/stock-market/), who can tolerate the periods when momentum underperforms, and who want systematic exposure to that factor without picking individual stocks. It is useful as a satellite holding around a core US stock position, especially for investors who can psychologically handle owning the stocks that have already risen sharply, rather than the cheap ones that feel safer.
 
-It is not suitable for passive, buy-and-hold investors who want stable, low-volatility exposure to large-cap US equities. Those investors would be better served by a broad market index fund. PDP is an active bet on a specific market factor, and it requires the belief that the factor will deliver over the holding period.
+It is not suitable for passive, buy-and-hold investors who want stable, low-volatility exposure to large-cap US equities. Those investors would be better served by a broad market [index fund](/index-fund/). PDP is an active bet on a specific market factor, and it requires the belief that the factor will deliver over the [holding period](/holding-period/).
 
 ## How to research PDP
 

@@ -4,7 +4,7 @@ description: "Mobile technology company subject to securities regulation, potent
 keywords: ["technology", "mobile", "NASDAQ", "OTC", "securities", "public company"]
 ---
 
-*MOBIX LABS trades under the ticker **MOBX** and, like many early-stage technology companies, must navigate the baseline regulatory environment of a U.S. public company while avoiding the sector-specific oversight that constrains medical-device firms or heavily regulated [financial institutions](/fisi-stock/). The company's compliance obligations are dominated by [SEC](/securities-and-exchange-commission/) rules governing disclosure, executive certification, and audit standards, along with the market-specific requirements of its listing venue. However, depending on the specifics of MOBIX's technology and customer base, export-control regulations or industry-specific certifications may emerge as material compliance constraints.*
+*MOBIX LABS trades under the ticker **MOBX** and, like many early-stage technology companies, must navigate the baseline regulatory environment of a U.S. public company while avoiding the sector-specific oversight that constrains medical-device firms or heavily regulated financial institutions. The company's compliance obligations are dominated by [SEC](/securities-and-exchange-commission/) rules governing disclosure, executive certification, and audit standards, along with the market-specific requirements of its listing venue. However, depending on the specifics of MOBIX's technology and customer base, export-control regulations or industry-specific certifications may emerge as material compliance constraints.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MOBX</td></tr>

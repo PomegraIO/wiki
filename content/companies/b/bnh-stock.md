@@ -17,9 +17,9 @@ The company is based in Canada but operates all over the world. It owns pieces o
 
 ## Why size matters so much
 
-Being large matters for Brookfield in ways that matter less for other businesses. When a large utility goes up for sale—a billion-dollar-plus deal—Brookfield can write the check because it has a balance sheet and access to capital markets that allow it. A smaller competitor probably cannot. When Brookfield owns utilities in three countries, it can compare how they are run, steal ideas from the best-run one, and make the others better. A competitor that owns one utility in one place cannot do that.
+Being large matters for Brookfield in ways that matter less for other businesses. When a large utility goes up for sale—a billion-dollar-plus deal—Brookfield can write the check because it has a [balance sheet](/balance-sheet/) and access to capital markets that allow it. A smaller competitor probably cannot. When Brookfield owns utilities in three countries, it can compare how they are run, steal ideas from the best-run one, and make the others better. A competitor that owns one utility in one place cannot do that.
 
-Being large also means Brookfield can borrow money cheaply. When the company needs to refinance debt or raise capital for a new acquisition, the markets trust it and charge low interest rates. Smaller competitors pay more. Over the long haul, that difference in borrowing costs compounds and becomes a real advantage.
+Being large also means Brookfield can borrow money cheaply. When the company needs to refinance debt or raise capital for a new [acquisition](/acquisition/), the markets trust it and charge low [interest rates](/interest-rate/). Smaller competitors pay more. Over the long haul, that difference in borrowing costs compounds and becomes a real advantage.
 
 Being large also means Brookfield can wait for good opportunities. The company runs multiple pools of capital constantly ready to deploy. When a good asset becomes available—when prices are attractive, when the seller is motivated—the company can move fast. A smaller competitor might have capital tied up elsewhere and miss the opportunity.
 
@@ -27,7 +27,7 @@ Being large also means Brookfield can wait for good opportunities. The company r
 
 All the assets Brookfield owns have one thing in common: they generate cash flows that are hard to predict month to month, but easy to predict over years or decades. A utility is regulated by the government. The government sets rates. The utility collects revenue according to those rates. The cash flow is stable. A toll road collects money from cars that drive across it. Traffic goes up and down, but over the long run it is predictable. A power plant under a long-term contract to sell electricity to a utility knows what it will earn for the next 20 years.
 
-This stability is valuable. If you buy an asset that throws off cash today and will probably throw off similar cash five years from now, you can calculate roughly what that asset is worth. You can borrow money against those cash flows. You can plan capital investments. You can pay dividends to shareholders knowing the cash will be there.
+This stability is valuable. If you buy an asset that throws off cash today and will probably throw off similar cash five years from now, you can calculate roughly what that asset is worth. You can borrow money against those cash flows. You can plan capital investments. You can pay [dividends](/dividend/) to shareholders knowing the cash will be there.
 
 Contrast this with a business where revenue is unpredictable. A retail company in a competitive market faces pressure from e-commerce and changing consumer tastes. Cash flows could be anything. Those companies are riskier, more volatile, and require more hands-on management. Brookfield avoids most of that.
 
@@ -47,7 +47,7 @@ Brookfield operates four main types of assets.
 
 Most simply, Brookfield owns these assets and collects the cash flow. A utility Brookfield owns earns a return on the assets and capital the company invested; Brookfield pockets that return. A shopping center Brookfield owns collects rent and Brookfield pockets it (minus operating costs).
 
-But there is a second way the company makes money. Brookfield also manages pools of capital for outside investors—pension funds, insurance companies, people setting aside money for their retirement. These pools invest in the same kinds of assets Brookfield operates. Brookfield gets paid a management fee for running the money and collecting a share of the returns if the investments outperform expectations. This is a high-margin business because Brookfield is not reinventing the wheel—it is reusing its existing expertise and assets.
+But there is a second way the company makes money. Brookfield also manages pools of capital for outside investors—pension funds, insurance companies, people setting aside money for their retirement. These pools invest in the same kinds of assets Brookfield operates. Brookfield gets paid a [management fee](/management-fee/) for running the money and collecting a share of the returns if the investments outperform expectations. This is a high-margin business because Brookfield is not reinventing the wheel—it is reusing its existing expertise and assets.
 
 This dual model is important. It lets the company deploy more capital than its own balance sheet could support. It also aligns incentives: Brookfield commits some of its own money alongside outside investors, so management's interests and investors' interests are the same.
 
@@ -55,7 +55,7 @@ This dual model is important. It lets the company deploy more capital than its o
 
 Brookfield is exposed to interest rates. Much of what the company owns is financed with debt. When interest rates rise, refinancing becomes more expensive and profits get squeezed. This is especially true for assets with stable but modest cash flows; if a utility was earning an acceptable return at low interest rates but interest rates rise, the math gets tighter.
 
-Real estate can suffer in downturns. Office space and shopping centers rent for less during recessions. Vacancies rise. Brookfield has to weather the downturn until the economy recovers. This is why having a diverse portfolio and a strong balance sheet matter.
+Real estate can suffer in downturns. Office space and shopping centers rent for less during [recessions](/recession/). Vacancies rise. Brookfield has to weather the downturn until the economy recovers. This is why having a diverse portfolio and a strong balance sheet matter.
 
 Regulatory changes can harm utilities. If a regulator decides to lower the allowed return or restrict rate increases, utility profits get squeezed. Brookfield is exposed to these risks in multiple countries and has to navigate different regulatory environments.
 

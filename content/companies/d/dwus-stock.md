@@ -39,7 +39,7 @@ The result is a concentrated portfolio of 50 to 100 stocks, always drawn from th
 
 ## Costs and how it trades
 
-DWUS carries a moderate expense ratio, typical for index funds that employ rule-based screens rather than pure market-cap weighting. Because it tracks a transparent, rebalance-scheduled index, the fund's performance should closely match the index itself; tracking error is usually minimal. Liquidity is straightforward — as a NASDAQ-listed ETF tracking a rules-based large-cap index, it has reasonable bid-ask spreads and daily trading volume sufficient for most investors.
+DWUS carries a moderate [expense ratio](/expense-ratio/), typical for [index funds](/index-fund/) that employ rule-based screens rather than pure market-cap weighting. Because it tracks a transparent, rebalance-scheduled index, the fund's performance should closely match the index itself; tracking error is usually minimal. Liquidity is straightforward — as a NASDAQ-listed ETF tracking a rules-based large-cap index, it has reasonable [bid-ask spreads](/bid-ask-spread/) and daily trading volume sufficient for most investors.
 
 ## Who is this fund for?
 
@@ -59,4 +59,4 @@ Finally, the fund assumes that the Dorsey Wright model — proximity to moving a
 
 Start with the fund's fact sheet and prospectus, available on the AdvisorShares website, which will detail the current composition, performance history, and any cap or weighting constraints. The underlying Dorsey Wright Focused Stock Movement US Core Index is published and rebalanced on a schedule; understanding how the index screens and weights is central to knowing what you own.
 
-For historical context, compare DWUS's performance to the S&P 500 and to other momentum-focused ETFs over various market cycles — bull markets, corrections, and bear years — to see whether the strategy's tighter focus and technical filter have added value or simply added volatility. Watch for turnover rates: higher turnover means more trading costs and potential tax drag in taxable accounts.
+For historical context, compare DWUS's performance to the S&P 500 and to other momentum-focused ETFs over various market cycles — [bull markets](/bull-market/), corrections, and bear years — to see whether the strategy's tighter focus and technical filter have added value or simply added volatility. Watch for turnover rates: higher turnover means more trading costs and potential tax drag in taxable accounts.

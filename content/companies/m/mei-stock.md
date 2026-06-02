@@ -52,7 +52,7 @@ Connectors for traditional low-voltage systems carry low single-digit margins. H
 
 ## Competitive Positioning Against Tier 1 Rivals
 
-Larger competitors like Amphenol and Molex dominate premium categories and have deep Tier 1 relationships. Methode's advantage is agility and custom focus. Watch for signs that the company is winning in specialized niches (electric trucks, Chinese OEMs, [commercial vehicle](/cvgi-stock/) platforms) where Tier 1 supply partners are less dominant or unavailable.
+Larger competitors like Amphenol and Molex dominate premium categories and have deep Tier 1 relationships. Methode's advantage is agility and custom focus. Watch for signs that the company is winning in specialized niches (electric trucks, Chinese OEMs, commercial vehicle platforms) where Tier 1 supply partners are less dominant or unavailable.
 
 <div class="wiki-seealso">
 

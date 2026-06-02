@@ -17,7 +17,7 @@ The company operates in two broad categories: flexible packaging (films, pouches
 
 ## Consolidation and global scale
 
-Amcor became the world's largest packaging manufacturer through a series of major acquisitions. The company was formed through the merger of Australian and American packaging companies, and then spent the 2010s and 2020s acquiring regional and specialized packaging makers across North America, Europe, Asia, and other regions. Each acquisition expanded the company's geographic reach and product portfolio.
+Amcor became the world's largest packaging manufacturer through a series of major [acquisitions](/acquisition/). The company was formed through the [merger](/merger/) of Australian and American packaging companies, and then spent the 2010s and 2020s acquiring regional and specialized packaging makers across North America, Europe, Asia, and other regions. Each acquisition expanded the company's geographic reach and product portfolio.
 
 This consolidation strategy works because packaging manufacturing is fragmented. No single company dominates globally; instead, there are hundreds of regional and specialized manufacturers. A food company manufacturing snack foods in Brazil might use a local or regional packaging supplier; the same company manufacturing snacks in Germany uses a different supplier. Amcor's strategy is to acquire these regional players, consolidate them into one global platform, and achieve cost efficiencies through shared operations, procurement leverage, and technology transfer.
 
@@ -31,7 +31,7 @@ Flexible packaging is film and pouches — the plastic packaging you see on food
 
 Rigid packaging includes bottles, containers, and cartons. Glass and plastic bottles are rigid; so are aluminum cans and corrugated cartons. Rigid packaging has stronger margins in some segments (glass bottles command premium prices) but lower margins in others (plastic containers in competitive markets). Rigid packaging also has higher transportation costs because of the volume and weight, which limits the geography of production — a bottle maker needs plants relatively close to customers to keep shipping costs manageable.
 
-Amcor has exposure to both. Flexible packaging tends to have slightly better margins and faster growth, but rigid packaging provides scale and geographic diversification. Together, they create a more stable business than either one alone.
+Amcor has exposure to both. Flexible packaging tends to have slightly better margins and faster growth, but rigid packaging provides scale and geographic [diversification](/diversification/). Together, they create a more stable business than either one alone.
 
 ## The unit economics of packaging
 
@@ -39,9 +39,9 @@ A packaging supplier's revenue comes from volume — pounds of film produced, un
 
 This competitive dynamic means packaging supplier margins are often modest: gross margins in the 30–40% range are typical for flexible packaging, and 25–35% for rigid containers. These are not comfortable margins, which is why consolidation and operational efficiency matter so much. Every percentage point of cost reduction flows through to the bottom line. A company that can reduce manufacturing waste, negotiate better raw material prices, or invest in more efficient machinery can significantly improve profitability relative to less efficient competitors.
 
-Operating margins for Amcor are typically 10–15%, depending on the product mix and the regulatory environment. This is respectable but not exceptional — the business is not a pricing powerhouse, and it does not generate the kind of margin expansion that venture-backed software companies do.
+[Operating margins](/operating-margin/) for Amcor are typically 10–15%, depending on the product mix and the regulatory environment. This is respectable but not exceptional — the business is not a pricing powerhouse, and it does not generate the kind of margin expansion that venture-backed software companies do.
 
-Cash flow is important because the business is capital-intensive. New plants and equipment require significant spending, so the company's ability to generate free cash flow — earnings minus capital investment — is crucial to shareholders.
+Cash flow is important because the business is capital-intensive. New plants and equipment require significant spending, so the company's ability to generate [free cash flow](/free-cash-flow/) — earnings minus capital investment — is crucial to shareholders.
 
 ## The raw materials game
 
@@ -67,4 +67,4 @@ The business faces headwinds: customer consolidation squeezing prices, sensitivi
 
 ## How to research Amcor
 
-The 10-K filing (SEC CIK 0001748790) breaks revenue by product segment (flexible packaging, rigid packaging) and geography. Watch the growth rate of sustainable packaging revenue and margins — this indicates whether the company is successfully transitioning to higher-margin products. Monitor gross margins by segment; they should be stable unless commodity costs are moving significantly. Earnings typically fluctuate with the business cycle and input costs, so look at adjusted earnings or EBITDA to see the underlying business performance. Free cash flow is crucial given the capital intensity; a declining cash flow trend could constrain the company's ability to fund growth or return cash to shareholders. Also track the company's acquisition activity and integration track record — if Amcor is acquiring competitors, evaluate whether the acquisitions are accretive and are being integrated successfully. Finally, understand the competitive landscape: if a major competitor is losing market share or if a customer relationship shifts, that represents risk to Amcor's business.
+The 10-K filing (SEC CIK 0001748790) breaks revenue by product segment (flexible packaging, rigid packaging) and geography. Watch the growth rate of sustainable packaging revenue and margins — this indicates whether the company is successfully transitioning to higher-margin products. Monitor gross margins by segment; they should be stable unless commodity costs are moving significantly. Earnings typically fluctuate with the [business cycle](/business-cycle/) and input costs, so look at adjusted earnings or [EBITDA](/ebitda/) to see the underlying business performance. Free cash flow is crucial given the capital intensity; a declining cash flow trend could constrain the company's ability to fund growth or return cash to shareholders. Also track the company's acquisition activity and integration track record — if Amcor is acquiring competitors, evaluate whether the acquisitions are accretive and are being integrated successfully. Finally, understand the competitive landscape: if a major competitor is losing market share or if a customer relationship shifts, that represents risk to Amcor's business.

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Synchrony Financial is a relatively young company with roots deep in the history of General Electric Capital. The company went public in July 2014 when GE spun off its consumer-credit business as an independent entity, but the story of consumer lending and private-label credit cards under what became Synchrony stretches back decades into GE Capital's sprawling empire.
+[Synchrony Financial](/syf-stock/) is a relatively young company with roots deep in the history of [General Electric](/ge-stock/) Capital. The company went public in July 2014 when GE spun off its consumer-credit business as an independent entity, but the story of consumer lending and private-label credit cards under what became Synchrony stretches back decades into GE Capital's sprawling empire.
 
 <aside class="wiki-infobox">
 <table>
@@ -33,11 +33,11 @@ The private-label credit card space was less crowded then than it became in the 
 
 ## The CareCredit acquisition: Moving into healthcare
 
-A turning point came in 2002 when GE Capital acquired CareCredit, a specialized financing company focused on healthcare spending. CareCredit had developed a network of provider relationships and a brand identity in healthcare lending that complemented the retail credit business. By adding healthcare to its portfolio, GE Capital's consumer-finance division created a more diversified receivables stream: payment plans for dental work and cosmetic surgery, veterinary care, and other out-of-pocket health expenses that consumers often deferred or avoided due to cost. This acquisition proved prescient—healthcare financing would become an increasingly important part of Synchrony's business.
+A turning point came in 2002 when GE Capital acquired CareCredit, a specialized financing company focused on healthcare spending. CareCredit had developed a network of provider relationships and a brand identity in healthcare lending that complemented the retail credit business. By adding healthcare to its portfolio, GE Capital's consumer-finance division created a more diversified receivables stream: payment plans for dental work and cosmetic surgery, veterinary care, and other out-of-pocket health expenses that consumers often deferred or avoided due to cost. This [acquisition](/acquisition/) proved prescient—healthcare financing would become an increasingly important part of Synchrony's business.
 
 ## The 2008 crisis and its aftermath
 
-The global financial crisis of 2008 and 2009 tested GE Capital severely. Like other major finance companies, it faced a sudden credit squeeze, pressure on consumer credit quality, and a severe contraction in the capital markets. GE Capital survived by relying on guarantees from its corporate parent and a Federal Reserve lending facility, but the crisis forced a strategic rethink: GE began to realize that its sprawling finance operation was no longer central to the company's identity or strategy.
+The global financial crisis of 2008 and 2009 tested GE Capital severely. Like other major finance companies, it faced a sudden credit squeeze, pressure on consumer credit quality, and a severe contraction in the capital markets. GE Capital survived by relying on guarantees from its corporate parent and a [Federal Reserve](/federal-reserve/) lending facility, but the crisis forced a strategic rethink: GE began to realize that its sprawling finance operation was no longer central to the company's identity or strategy.
 
 Throughout the 2010s, GE divested large pieces of GE Capital, selling off insurance businesses, equipment-financing operations, and other units. The consumer-credit division—including retail cards and CareCredit—remained profitable and stable, but it was also somewhat out of step with a conglomerate increasingly focused on energy infrastructure, aviation, and healthcare equipment. By the early 2010s, GE's management decided to spin off this unit entirely.
 
@@ -45,7 +45,7 @@ Throughout the 2010s, GE divested large pieces of GE Capital, selling off insura
 
 On July 31, 2014, Synchrony Financial went public as an independent company, with GE distributing its shares to GE shareholders. The IPO raised $2.88 billion and valued Synchrony at approximately $19 billion. For the first time, the company had its own public shareholders, its own capital structure, and the ability to pursue its own strategy without the constraints of being a subsidiary of a sprawling industrial conglomerate.
 
-The newly independent Synchrony inherited a business with deep retailer relationships (partnerships with Lowe's, Walmart, Amazon, and many others were already in place) and a strong position in healthcare financing through CareCredit. Margaret Keane, who had led the consumer-finance division inside GE Capital, became CEO of the independent company and steered its early years as a stand-alone entity.
+The newly independent Synchrony inherited a business with deep retailer relationships (partnerships with Lowe's, [Walmart](/wmt-stock/), Amazon, and many others were already in place) and a strong position in healthcare financing through CareCredit. Margaret Keane, who had led the consumer-finance division inside GE Capital, became CEO of the independent company and steered its early years as a stand-alone entity.
 
 ## Independent growth and digital transformation (2014–present)
 
@@ -53,7 +53,7 @@ As an independent company, Synchrony moved quickly to expand its market position
 
 The company also expanded CareCredit beyond traditional healthcare into adjacent wellness categories. In 2024, Synchrony acquired Ally Lending, adding expertise in home-improvement and personal installment lending. This acquisition brought complementary products and technology, allowing Synchrony to offer retailers and consumers a wider range of promotional financing options.
 
-Throughout this period, Synchrony benefited from the rebound in consumer spending after 2009. The business generated strong free cash flow, which management returned to shareholders through dividends and share buybacks. The stock performed well during periods of economic confidence but was volatile during recessions and credit-stress episodes, reflecting the sensitivity of consumer lending to economic cycles.
+Throughout this period, Synchrony benefited from the rebound in consumer spending after 2009. The business generated strong [free cash flow](/free-cash-flow/), which management returned to shareholders through [dividends](/dividend/) and [share buybacks](/share-buyback/). The stock performed well during periods of economic confidence but was volatile during [recessions](/recession/) and credit-stress episodes, reflecting the sensitivity of consumer lending to economic cycles.
 
 ## From subsidiary to strategic player
 

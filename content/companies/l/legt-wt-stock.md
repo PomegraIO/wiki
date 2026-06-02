@@ -12,11 +12,11 @@ handwritten: true
 
 > "A SPAC is simply a wager on management's ability to find, negotiate, and integrate a meaningful business before time runs out."
 
-Legato Merger Corp. III is a special purpose acquisition company that in February 2026 announced an agreement to merge with Einride AB, a Swedish developer of autonomous electric trucks. The merger has not yet closed; Legato was seeking shareholder approval in mid-2026 to extend its deadline—originally set for May 2026—to August 2026, negotiating the terms and conditions that would govern the combined company's operation post-merger.
+Legato [Merger](/merger/) Corp. III is a special purpose [acquisition](/acquisition/) company that in February 2026 announced an agreement to merge with [Einride AB](/enrd-stock/), a Swedish developer of autonomous electric trucks. The merger has not yet closed; Legato was seeking shareholder approval in mid-2026 to extend its deadline—originally set for May 2026—to August 2026, negotiating the terms and conditions that would govern the combined company's operation post-merger.
 
 ## The SPAC and its timeline
 
-Legato Merger Corp. III went public in February 2024, raising capital through the sale of 17.5 million units at $10 each. Each unit consisted of one ordinary share and one-half redeemable warrant. The ordinary shares trade on NYSE American under the symbol LEGT, and the warrants under LEGT-WT and related designations. Like all SPACs, Legato had a deadline to complete a business combination: original guidance set the outside date in early 2026, with extensions available upon completion of milestone amendments and monthly payments to the trust account. The Einride agreement, announced in February 2026, triggered the extension process, as the parties needed additional time to obtain approvals and close the transaction.
+Legato Merger Corp. III went public in February 2024, raising capital through the sale of 17.5 million units at $10 each. Each unit consisted of one ordinary share and one-half redeemable warrant. The ordinary shares trade on NYSE American under the symbol LEGT, and the warrants under LEGT-WT and related designations. Like all SPACs, Legato had a deadline to complete a [business combination](/business-combination-purchase/): original guidance set the outside date in early 2026, with extensions available upon completion of milestone amendments and monthly payments to the trust account. The Einride agreement, announced in February 2026, triggered the extension process, as the parties needed additional time to obtain approvals and close the transaction.
 
 ## What is Einride, and why the merger?
 
@@ -38,7 +38,7 @@ For Legato investors, the key questions are whether Einride's technology is real
 
 Upon merger close, the combined entity will operate under a new name and focus on autonomous and electric freight solutions. The business will center on vehicle development and deployment, software and control systems licensing, and eventually data and fleet-management services. Revenue initially comes from partnerships with logistics operators who operate Einride's vehicles in pilot or full-scale deployments, with some services revenue from software and data.
 
-The combined company will face intense competition. Tesla (through the Semi program), Volvo, Daimler, and numerous autonomous-vehicle startups are all pursuing trucking automation. Regulatory hurdles exist—autonomous vehicle operation in many jurisdictions still requires human safety operators or is restricted to closed environments. Scale-up capital requirements are substantial, as building and deploying thousands of autonomous trucks to a viable level requires hundreds of millions of dollars.
+The combined company will face intense competition. [Tesla](/tsla-stock/) (through the Semi program), Volvo, Daimler, and numerous autonomous-vehicle startups are all pursuing trucking automation. Regulatory hurdles exist—autonomous vehicle operation in many jurisdictions still requires human safety operators or is restricted to closed environments. Scale-up capital requirements are substantial, as building and deploying thousands of autonomous trucks to a viable level requires hundreds of millions of dollars.
 
 ## What to research
 

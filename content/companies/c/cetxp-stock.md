@@ -18,13 +18,13 @@ Vicon Industries is the crown jewel. The company was founded in 1967 and for dec
 
 Beyond Vicon, CEMTREX owns and operates other businesses. Through Advanced Industrial Services, it provides rigging, millwrighting, equipment installation, and process piping work to manufacturing plants and industrial sites. The company also invested in divisions focused on virtual and augmented reality applications, building both internal products and investing in other companies working on VR and AR. It also manufactures custom electronics and integrated hardware-and-software solutions for specialized applications. None of these segments is enormous, but together they create a mix of revenue: government contract work (stable), industrial services (cyclical with factory activity), and technology bets (speculative).
 
-The company is headquartered in the United States and is traded on the NASDAQ under ticker CETX (common stock) and CETXP (preferred stock), though it also trades in the over-the-counter markets.
+The company is headquartered in the United States and is traded on the [NASDAQ](/nasdaq/) under ticker CETX ([common stock](/common-stock/)) and CETXP ([preferred stock](/preferred-stock/)), though it also trades in the [over-the-counter markets](/over-the-counter-market/).
 
 ## Why CEMTREX is risky
 
 The biggest structural problem is that CEMTREX is not a focused business—it is a collection of businesses. The company is diversified intentionally, but that means it is exposed to multiple different risks at once and has no single core. If one division falters, the others may not have enough scale to carry the company. This is harder to value, harder to understand, and harder to manage than a company that does one thing really well.
 
-Second, CEMTREX has been unprofitable recently. The company reported a net profit margin of negative 36.8 percent in fiscal year 2025 and an operating margin of 0.7 percent. That means the company is either burning cash or barely breaking even on an operating basis even before accounting for taxes and interest. This is a significant warning sign.
+Second, CEMTREX has been unprofitable recently. The company reported a [net profit margin](/net-profit-margin/) of negative 36.8 percent in fiscal year 2025 and an [operating margin](/operating-margin/) of 0.7 percent. That means the company is either burning cash or barely breaking even on an operating basis even before accounting for taxes and interest. This is a significant warning sign.
 
 Third, the industrial and government contracting businesses that generate a lot of CEMTREX's revenue are cyclical and dependent on government budgets and economic activity. The Vicon business is reasonably stable because surveillance budgets are sticky—once a government agency or large corporation commits to a security system, it keeps paying for maintenance and upgrades. But the industrial services side can fluctuate with factory investment cycles, and the technology bets (VR, AR, IoT devices) are speculative and may never generate significant revenue.
 
@@ -32,7 +32,7 @@ Finally, the company is heavily dependent on Vicon. If Vicon's business deterior
 
 ## What the company does with cash
 
-CEMTREX generates cash from ongoing contract work and product sales, but because the company is unprofitable on a net basis, it is burning through capital. The company has taken on debt to finance operations and acquisitions. In 2024, the announced plan to fully acquire Vicon requires significant capital that the company must raise or fund from operations.
+CEMTREX generates cash from ongoing contract work and product sales, but because the company is unprofitable on a net basis, it is burning through capital. The company has taken on debt to finance operations and [acquisitions](/acquisition/). In 2024, the announced plan to fully acquire Vicon requires significant capital that the company must raise or fund from operations.
 
 The company's preferred strategy is reinvestment—using cash to acquire or build new businesses and develop new products, particularly in high-growth areas like artificial intelligence, IoT, and augmented reality. This is a growth-focused strategy that assumes future profitability will come from new technology investments. But when a company is unprofitable today, betting cash on future growth is inherently risky.
 

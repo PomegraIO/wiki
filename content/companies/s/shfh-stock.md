@@ -27,9 +27,9 @@ Revenue comes from equipment sales (the devices themselves) and, in some markets
 
 Operating expenses are concentrated in regulatory compliance (medical devices require ongoing certifications and submissions to health authorities in every market served), customer support (clinical customers demand reliable technical support), and distribution partnerships. These are fixed costs that do not scale down quickly when revenue falls, making the business vulnerable to margin collapse during downturns.
 
-The cyclicality shows up clearly in the company's financial history. During periods when aging-population funding is rising and healthcare systems are making capital-equipment purchases, Scientist Home Future Health records growing orders and expanding operating leverage. Margins improve, and the stock moves higher. But the moment a major customer's budget cycle ends, or a government health authority pauses reimbursement for home monitoring, revenue can drop by a third or more within a quarter. The company cannot easily reduce headcount or exit partnerships quickly, so operating margins can turn sharply negative until revenue stabilizes again.
+The cyclicality shows up clearly in the company's financial history. During periods when aging-population funding is rising and healthcare systems are making capital-equipment purchases, Scientist Home Future Health records growing orders and expanding operating leverage. Margins improve, and the stock moves higher. But the moment a major customer's budget cycle ends, or a government health authority pauses reimbursement for home monitoring, revenue can drop by a third or more within a quarter. The company cannot easily reduce headcount or exit partnerships quickly, so [operating margins](/operating-margin/) can turn sharply negative until revenue stabilizes again.
 
-This pattern — lumpy order flows, customer concentration risk, and sensitivity to reimbursement cycles — is typical of medical-device and health-technology companies serving institutional buyers rather than consumers. It is also why such stocks are often volatile and why institutional investors treat them with caution.
+This pattern — lumpy order flows, customer [concentration risk](/concentration-risk/), and sensitivity to reimbursement cycles — is typical of medical-device and health-technology companies serving institutional buyers rather than consumers. It is also why such stocks are often volatile and why institutional investors treat them with caution.
 
 ## Competitive position and what makes it distinctive
 
@@ -43,11 +43,11 @@ The clearest near-term risk is reimbursement policy. Many countries have been re
 
 A second risk is regulatory: medical devices face ongoing certification requirements, and the cost of compliance varies by geography. If a major market — say, the European Union or Australia — tightens approval standards or requires new clinical data, the company may face unexpected costs and delays in bringing products to market.
 
-Macroeconomic downturns affect healthcare budgets unevenly. During recessions, public health systems often freeze non-emergency capital spending, which harms a company like this. Private payers may cut reimbursement further. The result is that Scientist Home Future Health's growth, whatever the company's operational merit, is heavily contingent on public sector budgets and healthcare policy — factors beyond management control.
+Macroeconomic downturns affect healthcare budgets unevenly. During [recessions](/recession/), public health systems often freeze non-emergency capital spending, which harms a company like this. Private payers may cut reimbursement further. The result is that Scientist Home Future Health's growth, whatever the company's operational merit, is heavily contingent on public sector budgets and healthcare policy — factors beyond management control.
 
 ## How to research this company
 
-The best starting point is the company's SEC filings, particularly the 10-K annual report (CIK 0002032609) and quarterly 10-Q forms. These lay out the customer base (often a small number of large partners), revenue concentration, and regulatory approvals in key markets. Management's discussion of reimbursement trends is critical — listen for language suggesting pressure on pricing or order flow.
+The best starting point is the company's SEC filings, particularly the 10-K [annual report](/10-k/) (CIK 0002032609) and quarterly 10-Q forms. These lay out the customer base (often a small number of large partners), revenue concentration, and regulatory approvals in key markets. Management's discussion of reimbursement trends is critical — listen for language suggesting pressure on pricing or order flow.
 
 Key metrics to track: revenue growth year-over-year (watch for lumpy, unpredictable patterns), gross margin (should be 40–60% for medical devices; if lower, competitive or cost pressures are building), operating margin (tracking whether the fixed-cost base is sustainable), and customer concentration (if the top three customers represent more than 60% of revenue, concentration risk is high).
 

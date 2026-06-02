@@ -10,11 +10,11 @@ keywords:
 handwritten: true
 ---
 
-*The **Solana ETF (SOLZ)** holds actual Solana tokens and trades like a normal stock. You buy shares, the price tracks SOL, and you get crypto exposure without opening a cryptocurrency exchange or managing a digital wallet. Simple.*
+*The **Solana ETF (SOLZ)** holds actual Solana tokens and trades like a normal stock. You buy shares, the price tracks SOL, and you get crypto exposure without opening a [cryptocurrency exchange](/cryptocurrency-exchange/) or managing a digital wallet. Simple.*
 
 ## What is Solana, anyway?
 
-Solana is a blockchain. It is a network of computers that keeps a shared ledger of transactions. Bitcoin is a blockchain. Ethereum is a blockchain. Solana works the same way but is faster and cheaper to use. When people run programs on Solana or move money using it, they pay fees. Those fees get paid in SOL, the network's token.
+Solana is a blockchain. It is a network of computers that keeps a shared ledger of transactions. [Bitcoin](/bitcoin/) is a blockchain. [Ethereum](/ethereum/) is a blockchain. Solana works the same way but is faster and cheaper to use. When people run programs on Solana or move money using it, they pay fees. Those fees get paid in SOL, the network's token.
 
 SOL also gets staked. People who run validator nodes on Solana lock up SOL as collateral to help secure the network. They earn rewards for doing this. So SOL has two uses: paying for transactions and staking to earn yield. That makes it a token people want to hold.
 
@@ -22,13 +22,13 @@ SOL also gets staked. People who run validator nodes on Solana lock up SOL as co
 
 You can buy SOL directly on a cryptocurrency exchange. You make an account, send dollars, get tokens, and own them in a digital wallet. Simple enough if you know what you are doing. But it requires managing a password (your private key) that if you lose or someone steals, your coins vanish. No refund. No recovery.
 
-SOLZ avoids that problem. The fund buys SOL and keeps it in secure storage. You buy shares of the fund in your normal brokerage account. You own the same economic exposure — if SOL goes up, your shares go up — but the custodian manages the coins for you. You do not touch the private key.
+SOLZ avoids that problem. The fund buys SOL and keeps it in secure storage. You buy shares of the fund in your normal brokerage account. You own the same economic exposure — if SOL goes up, your shares go up — but the [custodian](/custodian/) manages the coins for you. You do not touch the private key.
 
 ## How SOLZ actually works
 
 SOLZ holds a reserve of actual Solana tokens. For every 100 shares you own, you effectively own your proportional slice of that reserve. If SOL goes up 10%, the reserve becomes more valuable, and so do your shares. If SOL drops 20%, so do your shares.
 
-The fund rebalances only to keep pace with SOL's price — no trading in and out of other assets. What you pay is your share of the fund's operating expenses, quoted as an expense ratio. This is usually less than 0.50% per year for modern crypto ETFs, down from higher rates when they first launched.
+The fund rebalances only to keep pace with SOL's price — no trading in and out of other assets. What you pay is your share of the fund's operating expenses, quoted as an [expense ratio](/expense-ratio/). This is usually less than 0.50% per year for modern crypto ETFs, down from higher rates when they first launched.
 
 ## The real risks
 

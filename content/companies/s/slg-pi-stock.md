@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-SL Green Realty is a real estate investment trust (REIT) that owns, leases, and manages office buildings, almost all of them in Manhattan. It is the largest office landlord in New York City, holding a portfolio of over 80 properties containing roughly 34 million square feet of space. The company generates income by leasing space to corporations, professional services firms, financial institutions, and other tenants. Like all REITs, it is required by law to distribute most of its taxable income to shareholders as dividends.
+[SL Green Realty](/slg-stock/) is a [real estate investment trust](/real-estate-investment-trust/) (REIT) that owns, leases, and manages office buildings, almost all of them in Manhattan. It is the largest office landlord in New York City, holding a portfolio of over 80 properties containing roughly 34 million square feet of space. The company generates income by leasing space to corporations, professional services firms, financial institutions, and other tenants. Like all REITs, it is required by law to distribute most of its taxable income to shareholders as [dividends](/dividend/).
 
 <aside class="wiki-infobox">
 <table>
@@ -33,9 +33,9 @@ The company operates three distinct business segments, each with different lease
 
 ### Manhattan office portfolio (the core)
 
-SL Green owns office towers outright and leases space to tenants under long-term triple-net leases, where the tenant pays rent plus real estate taxes, insurance, and building maintenance. This structure shifts operating costs to tenants and gives SL Green visibility to predictable cash flows. Large institutional tenants—investment banks, law firms, consulting companies, insurance brokers—sign 10- or 15-year leases and occupy significant space.
+SL Green owns office towers outright and leases space to tenants under long-term [triple-net leases](/triple-net-lease/), where the tenant pays rent plus real estate taxes, insurance, and building maintenance. This structure shifts operating costs to tenants and gives SL Green visibility to predictable cash flows. Large institutional tenants—investment banks, law firms, consulting companies, insurance [brokers](/broker/)—sign 10- or 15-year leases and occupy significant space.
 
-The economics are straightforward: buy an office building at a yield below the cost of capital (or refinance existing debt), lease the space, and pocket the difference. The appeal lies in scarcity. You cannot easily build new office space in Manhattan, so existing buildings hold value. Occupancy rates have historically been high, and rents rise over time with inflation and demand.
+The economics are straightforward: buy an office building at a yield below the cost of capital (or refinance existing debt), lease the space, and pocket the difference. The appeal lies in scarcity. You cannot easily build new office space in Manhattan, so existing buildings hold value. Occupancy rates have historically been high, and rents rise over time with [inflation](/inflation/) and demand.
 
 But this segment faces a structural headwind. Post-pandemic office demand has softened as companies embraced remote and hybrid work. Vacancy rates in Manhattan climbed from historical lows (circa 5 percent) to the double digits. Tenants downsizing or relocating have created a glut of available space, pressure on rents, and uncertainty about long-term demand. When leases renew, SL Green often renews at lower rents or faces longer vacancy periods.
 
@@ -47,13 +47,13 @@ SL Green also leases ground-floor and basement retail space within its office bu
 
 The company deploys capital not just into direct property ownership but also into debt securities secured by real estate (mortgages and mezzanine debt) and preferred equity—a hybrid security that sits between debt and equity in priority. This segment generates returns through interest income and equity appreciation when the underlying property values rise.
 
-The debt-and-equity business is more flexible than owning buildings. SL Green can deploy or withdraw capital more quickly and adjust risk exposure. But it is also more cyclical—when real estate cap rates (yields) are high and property values are under pressure, SL Green can invest at attractive returns; when property values are rising and cap rates compressing, the returns fall. This segment has been profitable but volatile.
+The debt-and-equity business is more flexible than owning buildings. SL Green can deploy or withdraw capital more quickly and adjust risk exposure. But it is also more cyclical—when real estate [cap rates](/cap-rate/) (yields) are high and property values are under pressure, SL Green can invest at attractive returns; when property values are rising and cap rates compressing, the returns fall. This segment has been profitable but volatile.
 
 ## Cyclicality and interest-rate sensitivity
 
-Office REITs are caught in two cycles at once. The first is the real-estate cycle: periods of strong demand, high occupancy, rising rents, and capital appreciation alternate with periods of weak demand, vacant space, declining rents, and capital losses. SL Green entered the post-pandemic period in the weak phase of this cycle.
+[Office REITs](/office-reit/) are caught in two cycles at once. The first is the real-estate cycle: periods of strong demand, high occupancy, rising rents, and capital appreciation alternate with periods of weak demand, vacant space, declining rents, and capital losses. SL Green entered the post-pandemic period in the weak phase of this cycle.
 
-The second cycle is interest-rate driven. Office buildings are financed with debt. When interest rates rise, refinancing costs increase, and the spread between rent yields and borrowing costs narrows. The company also faces a "cap-rate cycle"—when the market yield required to attract capital to real estate rises (reflecting higher risk-free rates or risk appetite), building valuations fall because the same rental income is divided by a higher cap rate.
+The second cycle is interest-rate driven. Office buildings are financed with debt. When [interest rates](/interest-rate/) rise, refinancing costs increase, and the spread between rent yields and borrowing costs narrows. The company also faces a "cap-rate cycle"—when the market yield required to attract capital to real estate rises (reflecting higher risk-free rates or risk appetite), building valuations fall because the same rental income is divided by a higher cap rate.
 
 Rising interest rates from 2022 onward created a double squeeze for SL Green: office occupancy was weak (depressing rents and valuations), and borrowing costs climbed sharply (squeezing the financing advantage). The stock fell steeply as investors repriced the company's assets and earnings. REITs are highly sensitive to interest-rate expectations, sometimes more so than to changes in actual business performance.
 
@@ -73,10 +73,10 @@ The company is exposed to debt maturity schedules. When loans come due for refin
 
 ## How to research SL Green
 
-Start with the company's quarterly and annual reports (10-K, SEC CIK 0001040971). Watch for tenant concentration and lease-expiration schedules—which leases are rolling over, at what rates, and what vacancy looks like in each property. Any spike in tenants defaulting or seeking smaller spaces is a warning sign.
+Start with the company's quarterly and [annual reports](/10-k/) (10-K, SEC CIK 0001040971). Watch for tenant concentration and lease-expiration schedules—which leases are rolling over, at what rates, and what vacancy looks like in each property. Any spike in tenants defaulting or seeking smaller spaces is a warning sign.
 
-Track same-store net operating income (NOI) growth, which measures performance of existing properties not accounting for new acquisitions. Declining NOI signals rents falling or occupancy weakening. Watch the company's average lease rate (what tenants pay per square foot) and the spread at which it renews—higher renewal spreads indicate strong demand, while lower spreads show weakness.
+Track same-store [net operating income](/net-operating-income/) (NOI) growth, which measures performance of existing properties not accounting for new [acquisitions](/acquisition/). Declining NOI signals rents falling or occupancy weakening. Watch the company's average lease rate (what tenants pay per square foot) and the spread at which it renews—higher renewal spreads indicate strong demand, while lower spreads show weakness.
 
-Monitor debt maturity schedules and refinancing activity. High debt-to-earnings multiples combined with near-term maturities in a rising-rate environment create refinancing risk. Interest coverage (operating earnings divided by debt service) should remain well above 1.5 times.
+Monitor debt maturity schedules and refinancing activity. High debt-to-earnings multiples combined with near-term maturities in a rising-rate environment create [refinancing risk](/refinancing-risk/). Interest coverage (operating earnings divided by debt service) should remain well above 1.5 times.
 
 Office REITs like SL Green are cyclical and interest-rate sensitive. They trade like leveraged bets on the health of the office market and the level of long-term rates. Investors should buy when interest rates and property distress are worst (pricing in depression) and sell when rates are falling and sentiment improving. Buying at fair valuations is a recipe for mediocre returns.

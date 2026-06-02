@@ -17,7 +17,7 @@ The First Trust Indxx Metaverse ETF (ticker ARVR) invests in companies building 
 
 The metaverse is not a single company or product. It is an ecosystem of enabling technologies and platforms. At the hardware end sit VR headsets, AR glasses, motion sensors, and the chips that power them. In the middle are the platforms and engines that let developers create immersive experiences—game engines like Unreal and Unity, social platforms like Roblox, and the infrastructure companies that host and stream virtual worlds. At the software end sit the creators, artists, and companies building experiences and content for these worlds.
 
-ARVR's index screens companies across all these layers. It includes hardware makers like Meta Platforms (Facebook's metaverse pivot) and Nvidia (which supplies GPUs powering VR engines), infrastructure companies like Roblox and Unity, semiconductor designers, graphics-software firms, and some pure-play VR and AR hardware makers. The index is curated but broad, trying to capture anyone with meaningful revenue or business exposure to immersive technologies.
+ARVR's index screens companies across all these layers. It includes hardware makers like [Meta Platforms](/meta-stock/) (Facebook's metaverse pivot) and [Nvidia](/nvda-stock/) (which supplies GPUs powering VR engines), infrastructure companies like Roblox and Unity, semiconductor designers, graphics-software firms, and some pure-play VR and AR hardware makers. The index is curated but broad, trying to capture anyone with meaningful revenue or business exposure to immersive technologies.
 
 ## The thesis and the history
 
@@ -45,4 +45,4 @@ Reading the fund's fact sheet shows current holdings and weightings. Check how m
 
 Tracking the fund's performance relative to the broader market and to other tech indices reveals whether the metaverse bet is working. Reading news on VR and AR adoption—consumer headset shipments, enterprise pilot programs, developer activity on platforms like Roblox and Unity—gives a sense of whether the underlying thesis is progressing or stalling. The key question is whether immersive computing is becoming real and essential, or whether it remains a speculative bubble slowly deflating.
 
-ARVR is suitable only for investors who genuinely believe immersive technology will become transformative within the holding period they can afford, and who are comfortable with the possibility of substantial losses if that belief proves wrong. For others, the fund represents concentrated risk on a narrative that has already disappointed once.
+ARVR is suitable only for investors who genuinely believe immersive technology will become transformative within the [holding period](/holding-period/) they can afford, and who are comfortable with the possibility of substantial losses if that belief proves wrong. For others, the fund represents concentrated risk on a narrative that has already disappointed once.

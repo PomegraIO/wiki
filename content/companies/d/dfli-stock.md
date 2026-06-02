@@ -41,7 +41,7 @@ Dragonfly's equity section reflects shareholder invested capital plus [retained 
 
 ## Working Capital Swings and Cash Conversion
 
-The interplay between receivables, inventory, and payables defines Dragonfly's cash conversion cycle. In a growth phase, rising sales often require investment in inventory before customers pay, creating a temporary cash squeeze. Management must carefully orchestrate production to match demand without overbuilding; seasonal demand (RV and [marine products](/mpx-stock/) tend to peak in certain quarters) creates swings in working capital. The balance sheet size fluctuates quarter to quarter as inventory and receivables move; a careful reader can forecast cash needs and whether the company must raise debt or equity to fund growth.
+The interplay between receivables, inventory, and payables defines Dragonfly's cash conversion cycle. In a growth phase, rising sales often require investment in inventory before customers pay, creating a temporary cash squeeze. Management must carefully orchestrate production to match demand without overbuilding; seasonal demand (RV and marine products tend to peak in certain quarters) creates swings in working capital. The balance sheet size fluctuates quarter to quarter as inventory and receivables move; a careful reader can forecast cash needs and whether the company must raise debt or equity to fund growth.
 
 ## Capital Expenditure and Return on Invested Capital
 

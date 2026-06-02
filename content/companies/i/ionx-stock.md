@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-Defiance Daily Target 2X Long IONQ ETF (IONX) is a leveraged exchange-traded fund designed to track twice the daily percentage movement of IonQ Inc. (IONQ), a quantum-computing company trading on the Nasdaq. Rather than holding IonQ shares outright, IONX uses equity swaps and other derivatives to amplify returns. A day in which IonQ rises 2 percent should see IONX rise approximately 4 percent; a day in which IonQ falls 1 percent should see IONX fall around 2 percent. This amplification is mechanical and daily, reset each trading day. The fund is designed for tactical, short-term traders seeking magnified exposure to IonQ stock movements.
+Defiance Daily Target 2X Long IONQ ETF (IONX) is a leveraged exchange-traded fund designed to track twice the daily percentage movement of IonQ Inc. (IONQ), a quantum-computing company trading on the [Nasdaq](/nasdaq/). Rather than holding IonQ shares outright, IONX uses [equity swaps](/equity-swap/) and other derivatives to amplify returns. A day in which IonQ rises 2 percent should see IONX rise approximately 4 percent; a day in which IonQ falls 1 percent should see IONX fall around 2 percent. This amplification is mechanical and daily, reset each trading day. The fund is designed for tactical, short-term traders seeking magnified exposure to IonQ stock movements.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ Defiance Daily Target 2X Long IONQ ETF (IONX) is a leveraged exchange-traded fun
 
 Leverage in IONX is achieved through derivatives. The fund manager enters equity swaps with financial counterparties. In these swaps, the fund receives the daily return of IonQ multiplied by two; the counterparty receives a floating rate payment. The fund does not hold IonQ shares directly. Instead, it synthetically recreates the economics of a 2X leveraged position using contract mechanics.
 
-This approach has advantages and disadvantages. The advantage is flexibility: the fund achieves leverage without borrowing stock or maintaining margin. The disadvantage is counterparty risk. If the bank issuing the swap faced distress, the fund could face a claim. Defiance structures multiple swap counterparties to diversify exposure.
+This approach has advantages and disadvantages. The advantage is flexibility: the fund achieves leverage without borrowing stock or maintaining margin. The disadvantage is [counterparty risk](/counterparty-risk/). If the bank issuing the swap faced distress, the fund could face a claim. Defiance structures multiple swap counterparties to diversify exposure.
 
 The fund is rebalanced daily. At the end of each trading day, leverage is reset. This daily reset is critical to understanding the fund's behavior.
 
@@ -44,9 +44,9 @@ IONX is marketed to active traders. The use case is holding for a few days or we
 
 ## Costs and trading
 
-IONX trades on NYSE ARCA during normal hours with reasonable bid-ask spreads. The fund charges an annual expense ratio for derivatives management and administrative costs. The fee accrues daily and erodes returns. The fund does not pay a dividend.
+IONX trades on NYSE ARCA during normal hours with reasonable [bid-ask spreads](/bid-ask-spread/). The fund charges an annual [expense ratio](/expense-ratio/) for derivatives management and administrative costs. The fee accrues daily and erodes returns. The fund does not pay a [dividend](/dividend/).
 
-Derivative positions are marked daily. In volatile markets or stress periods, banks may widen costs, leading to wider spreads. Authorized participants arbitrage gaps, keeping price aligned with net asset value.
+Derivative positions are marked daily. In volatile markets or stress periods, banks may widen costs, leading to wider spreads. [Authorized participants](/authorized-participant/) arbitrage gaps, keeping price aligned with [net asset value](/net-asset-value/).
 
 ## Risks
 

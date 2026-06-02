@@ -12,7 +12,7 @@ handwritten: true
 
 ### What exactly does AVDV hold?
 
-AVDV holds small-cap stocks (market capitalizations below roughly 10 billion dollars) from developed economies outside the United States and Canada. The portfolio spans Europe, Asia-Pacific, and other developed markets, with principal exposures to the United Kingdom, Switzerland, Germany, France, Japan, and Australia. The fund contains several hundred stocks. Unlike a simple market-cap-weighted small-cap index, AVDV applies a tight value filter: it selects and overweights stocks trading at low valuations relative to earnings, book value, and sales. American Century Investments, the fund's sponsor, uses systematic rules to rank companies on value metrics and constructs the portfolio to hold a concentrated group of the cheapest stocks, subject to diversification limits that prevent any one country or sector from dominating.
+AVDV holds small-cap stocks ([market capitalizations](/market-capitalization/) below roughly 10 billion dollars) from developed economies outside the United States and Canada. The portfolio spans Europe, Asia-Pacific, and other developed markets, with principal exposures to the United Kingdom, Switzerland, Germany, France, Japan, and Australia. The fund contains several hundred stocks. Unlike a simple market-cap-weighted small-cap index, AVDV applies a tight value filter: it selects and overweights stocks trading at low valuations relative to earnings, book value, and sales. American Century Investments, the fund's sponsor, uses systematic rules to rank companies on value metrics and constructs the portfolio to hold a concentrated group of the cheapest stocks, subject to [diversification](/diversification/) limits that prevent any one country or sector from dominating.
 
 ### How is a concentrated value filter different from a broad small-cap fund?
 
@@ -20,17 +20,17 @@ A broad small-cap index holds the entire universe of small-cap stocks weighted b
 
 ### What are the real costs of owning AVDV?
 
-The expense ratio is low, reflecting the fund's passive, rule-based index approach. Trading costs are slightly higher for new investors or large redemptions because the fund holds fewer, less-liquid securities than a broad market index — small-cap stocks are inherently less liquid than large-cap stocks, and the concentrated value filter means AVDV holds less-traded names. For ongoing holding, tax efficiency is high because turnover is low and the passive structure avoids the large capital-gains distributions common to actively managed value funds.
+The [expense ratio](/expense-ratio/) is low, reflecting the fund's passive, rule-based index approach. Trading costs are slightly higher for new investors or large redemptions because the fund holds fewer, less-liquid securities than a broad market index — small-cap stocks are inherently less liquid than large-cap stocks, and the concentrated value filter means AVDV holds less-traded names. For ongoing holding, tax efficiency is high because turnover is low and the passive structure avoids the large capital-gains distributions common to actively managed [value funds](/value-fund/).
 
-The bigger cost, for investors in the US, is currency exposure. AVDV is unhedged, so movements in the US dollar against foreign currencies directly affect reported returns. During periods of dollar strength, foreign returns can be dampened substantially.
+The bigger cost, for investors in the US, is currency exposure. AVDV is unhedged, so movements in the [US dollar](/us-dollar/) against foreign currencies directly affect reported returns. During periods of dollar strength, foreign returns can be dampened substantially.
 
 ### What are the specific risks of owning a concentrated international small-cap value fund?
 
-Small-cap stocks are more volatile than large-cap stocks and more sensitive to recessions and credit stress. A concentrated value filter amplifies both dynamics: when small-cap falls, the most heavily discounted (cheapest) stocks often fall furthest. The value factor itself can underperform for extended periods, as happened in much of the 2010s and 2020s when growth stocks dominated. An investor holding AVDV through a decade-long value downturn would have experienced significant underperformance relative to broader equity indexes.
+Small-cap stocks are more volatile than large-cap stocks and more sensitive to [recessions](/recession/) and credit stress. A concentrated value filter amplifies both dynamics: when small-cap falls, the most heavily discounted (cheapest) stocks often fall furthest. The value factor itself can underperform for extended periods, as happened in much of the 2010s and 2020s when growth stocks dominated. An investor holding AVDV through a decade-long value downturn would have experienced significant underperformance relative to broader equity indexes.
 
-Currency risk is material. A strengthening US dollar depresses the reported returns of foreign stock holdings. Conversely, a weakening dollar amplifies them. For a US-based investor, this is an unhedged bet on foreign-currency movements.
+[Currency risk](/currency-risk/) is material. A strengthening US dollar depresses the reported returns of foreign stock holdings. Conversely, a weakening dollar amplifies them. For a US-based investor, this is an unhedged bet on foreign-currency movements.
 
-Concentration risk is inherent to the product. By filtering for the cheapest small-cap stocks, the fund may hold a disproportionate share of distressed or structurally challenged businesses that are cheap for a reason. The diversification limits help mitigate this, but investors should not expect AVDV to hold the highest-quality or most-defensible small-cap stocks.
+[Concentration risk](/concentration-risk/) is inherent to the product. By filtering for the cheapest small-cap stocks, the fund may hold a disproportionate share of distressed or structurally challenged businesses that are cheap for a reason. The diversification limits help mitigate this, but investors should not expect AVDV to hold the highest-quality or most-defensible small-cap stocks.
 
 ### Who should own this fund and how to research it?
 

@@ -28,7 +28,7 @@ Watch for headcount turnover in the filings. High turnover signals poor retentio
 
 ## Market Positioning and Competitive Dynamics
 
-Strategy consulting is fractured. [Global leaders](/glcp-stock/) (McKinsey, BCG, Deloitte) dominate large engagements. Regional and boutique firms compete on speed, specialization, or personal relationships. Lite Strategy's competitive position depends on whether it has carved out a defensible niche. Is it the expert in manufacturing strategy? Healthcare transformation? Mid-market growth planning? Or is it generic—willing to advise any client on anything—and therefore competing primarily on price and availability? Generic positioning is a trap in services: you compete away margin and never build a moat.
+Strategy consulting is fractured. Global leaders (McKinsey, BCG, Deloitte) dominate large engagements. Regional and boutique firms compete on speed, specialization, or personal relationships. Lite Strategy's competitive position depends on whether it has carved out a defensible niche. Is it the expert in manufacturing strategy? Healthcare transformation? Mid-market growth planning? Or is it generic—willing to advise any client on anything—and therefore competing primarily on price and availability? Generic positioning is a trap in services: you compete away margin and never build a moat.
 
 The company's client roster, if disclosed, provides clues. Concentrated relationships with Fortune 500 firms suggest access to large budgets but high [concentration risk](/concentration-risk/). A diverse base of mid-market clients (companies with $500M to $5B revenue) suggests a more stable, repeatable model.
 

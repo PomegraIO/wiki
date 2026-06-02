@@ -9,11 +9,11 @@ keywords:
 handwritten: true
 ---
 
-*TNL Mediagene is a publicly traded holding company with stakes in entertainment and digital media ventures, including content production, gaming platforms, and related properties.*
+*[TNL Mediagene](/tnmg-stock/) is a publicly traded holding company with stakes in entertainment and digital media ventures, including content production, gaming platforms, and related properties.*
 
 ## Company structure
 
-TNL Mediagene operates as a holding company, owning interests in multiple entertainment and media properties rather than operating a single unified business. The portfolio includes digital content ventures, gaming-related assets, and entertainment intellectual property. This diversification across entertainment categories—content creation, distribution, interactive media—positions the company as a hybrid media and gaming entity rather than pure-play in either category.
+TNL Mediagene operates as a holding company, owning interests in multiple entertainment and media properties rather than operating a single unified business. The portfolio includes digital content ventures, gaming-related assets, and entertainment intellectual property. This [diversification](/diversification/) across entertainment categories—content creation, distribution, interactive media—positions the company as a hybrid media and gaming entity rather than pure-play in either category.
 
 ## The media and entertainment backdrop
 
@@ -29,7 +29,7 @@ TNL competes against established media conglomerates, pure-play streaming platfo
 
 ## Pressures building
 
-Advertising-supported media faces cyclical revenue swings tied to economic growth. A recession contracts advertiser budgets, and digital advertising—more efficient than traditional media but fiercely competitive—often absorbs cuts faster than legacy media recovers.
+Advertising-supported media faces cyclical revenue swings tied to economic growth. A [recession](/recession/) contracts advertiser budgets, and digital advertising—more efficient than traditional media but fiercely competitive—often absorbs cuts faster than legacy media recovers.
 
 Gaming economics are shifting. Mobile gaming remains large but competitive margins have compressed. Console and PC gaming supports fewer players at higher quality and investment. The barrier to entry for game development has fallen, creating abundance but also fragmenting player attention.
 
@@ -39,7 +39,7 @@ The talent challenge. Entertainment and gaming companies live and die by creativ
 
 ## Research path
 
-Review TNL's most recent 10-K (SEC CIK 0002013186) for breakdowns of revenue by property and segment. Examine which assets are growing and which are stagnant. Look for detail on acquisition and divestiture strategy—what is management buying, what is it selling off?
+Review TNL's most recent 10-K (SEC CIK 0002013186) for breakdowns of revenue by property and segment. Examine which assets are growing and which are stagnant. Look for detail on [acquisition](/acquisition/) and [divestiture](/divestiture/) strategy—what is management buying, what is it selling off?
 
 Track quarterly earnings calls for discussion of individual properties' performance. Gaming revenue per title, streaming subscriber trends, and advertising metrics reveal underlying momentum.
 

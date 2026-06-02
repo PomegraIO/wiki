@@ -36,7 +36,7 @@ Powell Max's revenue comes from selling these materials—either as commodities 
 
 Specialty compounds—custom-formulated solutions for a particular customer's problem—command higher gross margins but lower volume. A customer might buy 1,000 units per year of a custom thermal interface material developed jointly with Powell Max's engineers. The development cost was absorbed during the engineering phase, so the production cost per unit is relatively low, and the customer pays a premium for the custom formulation and the assurance that it will work. That customer is also unlikely to shop around once the material is qualified.
 
-The revenue base, therefore, combines these two streams: core portfolio products sold in volume to multiple customers, and specialized solutions usually sold to one or a handful of customers at higher margins but lower volume. Diversification across both reduces risk—if one customer cuts orders, the company still has volume from its standard-product customers.
+The revenue base, therefore, combines these two streams: core portfolio products sold in volume to multiple customers, and specialized solutions usually sold to one or a handful of customers at higher margins but lower volume. [Diversification](/diversification/) across both reduces risk—if one customer cuts orders, the company still has volume from its standard-product customers.
 
 ## Unit economics and customer relationships
 
@@ -68,7 +68,7 @@ Raw-material price volatility also matters. If specialty polymers or solvents sp
 
 ## How to research Powell Max
 
-The company's 10-K filing (SEC CIK 0002012096) breaks down revenue by end market and customer type, revealing which industries and applications Powell Max depends on. Track the trend in gross margins and operating margins to assess pricing power and cost management.
+The company's 10-K filing (SEC CIK 0002012096) breaks down revenue by end market and customer type, revealing which industries and applications Powell Max depends on. Track the trend in gross margins and [operating margins](/operating-margin/) to assess pricing power and cost management.
 
 Look for commentary on customer concentration—how much revenue comes from the top five customers, and whether any single customer represents more than 10–15% of revenue. High concentration is not necessarily a red flag if the customer is durable and expanding, but it warrants scrutiny.
 

@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-ReTo Eco-Solutions is a diversified small-cap manufacturing and distribution company operating through two distinct business segments: industrial environmental equipment and smart craft beverage systems. The company was founded in China in 1999, went public on NASDAQ in 2017, and has undergone significant strategic refocusing in recent years.
+ReTo Eco-Solutions is a diversified small-cap manufacturing and distribution company operating through two distinct business segments: industrial environmental equipment and smart craft beverage systems. The company was founded in China in 1999, went public on [NASDAQ](/nasdaq/) in 2017, and has undergone significant strategic refocusing in recent years.
 
-The company's operating model is fundamentally a two-leg enterprise. The larger leg manufactures and sells intelligent environmental equipment—solid waste treatment systems and control systems for industrial and governmental clients, primarily in China and Asian markets. The smaller but rapidly growing leg produces smart craft beer brewing equipment and finished beer products following its 2025 acquisition of a craft beer producer.
+The company's operating model is fundamentally a two-leg enterprise. The larger leg manufactures and sells intelligent environmental equipment—solid waste treatment systems and control systems for industrial and governmental clients, primarily in China and Asian markets. The smaller but rapidly growing leg produces smart craft beer brewing equipment and finished beer products following its 2025 [acquisition](/acquisition/) of a craft beer producer.
 
 ## Environmental equipment: The legacy strength
 
@@ -25,7 +25,7 @@ This segment is capital-intensive on the customer side (the buyer must install a
 
 ## Craft beer systems: The new growth vector
 
-In April 2025, ReTo acquired MeinMalzeBier Holdings Limited, a craft beer equipment and production company. This diversification into craft beer systems represents a deliberate pivot toward a higher-margin, consumer-facing vertical. The craft beer market is fragmented and growing; small breweries, brewpubs, and restaurants need equipment, and consumers increasingly demand locally-produced beverages.
+In April 2025, ReTo acquired MeinMalzeBier Holdings Limited, a craft beer equipment and production company. This [diversification](/diversification/) into craft beer systems represents a deliberate pivot toward a higher-margin, consumer-facing vertical. The craft beer market is fragmented and growing; small breweries, brewpubs, and restaurants need equipment, and consumers increasingly demand locally-produced beverages.
 
 ReTo's craft beer business model is different from the industrial equipment side. Rather than selling capital equipment to large industrial customers, the company manufactures smart brewing machines, sells finished beer products, and supplies brewing accessories to hospitality businesses and direct consumers. The revenue model is a mix of hardware sales (the brewing equipment), product sales (the beer itself), and consumables (ingredients, accessories).
 

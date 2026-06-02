@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-ORCS is a bearish bet on Oracle. When Oracle stock falls, ORCS aims to rise by roughly the same percentage—not more, not less. It is sponsored by Direxion, an issuer of leveraged and inverse funds, and it trades on the NASDAQ. The fund delivers something that many retail investors want but cannot easily achieve: a bet that profits when Oracle shares decline.
+ORCS is a bearish bet on [Oracle](/orcl-stock/). When Oracle stock falls, ORCS aims to rise by roughly the same percentage—not more, not less. It is sponsored by Direxion, an issuer of leveraged and inverse funds, and it trades on the [NASDAQ](/nasdaq/). The fund delivers something that many retail investors want but cannot easily achieve: a bet that profits when Oracle shares decline.
 
 The mechanics are simple. To move in the opposite direction of Oracle stock, ORCS borrows and sells Oracle shares short, or it uses derivatives—options and futures—that pay off when the stock price falls. The result is a fund that tracks minus one times the daily return of Oracle. If Oracle drops 2% on a Tuesday, ORCS aims to gain roughly 2%. If Oracle gains 1%, ORCS should lose about 1%.
 
@@ -20,9 +20,9 @@ The fund is rebalanced every trading day. At the close of each day, the fund's m
 
 This daily-reset behaviour matters enormously if you hold the fund for weeks or months rather than days. Volatility decay is the technical term: the more a stock jumps up and down, the more an inverse fund—even a 1X inverse—bleeds money just from the mathematics of daily rebalancing. Inverse funds are built to profit from falling prices on a day-to-day basis, not to be held as long-term hedges.
 
-ORCS is meant to be a tactical tool. Someone might buy it to hedge a long position in Oracle for a few days, or to profit from a short-term decline they expect. Holding it for months exposes you to decay and the drag that compounds into real losses. The fund's expense ratio is low—under 0.5% annually—because there is not much active management required; it is mostly just rolling futures contracts and rebalancing daily.
+ORCS is meant to be a tactical tool. Someone might buy it to hedge a long position in Oracle for a few days, or to profit from a short-term decline they expect. Holding it for months exposes you to decay and the drag that compounds into real losses. The fund's [expense ratio](/expense-ratio/) is low—under 0.5% annually—because there is not much active management required; it is mostly just rolling [futures contracts](/futures-contract/) and rebalancing daily.
 
-Oracle is among the most liquid stocks on Earth, which means ORCS can borrow shares easily and transact without moving the market. Liquidity in the fund itself is also strong; the bid-ask spread is narrow, and you can buy or sell in and out quickly during market hours.
+Oracle is among the most liquid stocks on Earth, which means ORCS can borrow shares easily and transact without moving the market. Liquidity in the fund itself is also strong; the [bid-ask spread](/bid-ask-spread/) is narrow, and you can buy or sell in and out quickly during market hours.
 
 The core risk is decay. Buy ORCS expecting to own it for a year, and you will almost certainly lose money even if Oracle ends the year at the same price it started, simply because of the daily rebalancing in a volatile stock. Use it for what it is built for—a short-term hedge or a tactical bet on near-term weakness—and it does the job. Buy it as a substitute for selling Oracle stock short directly, or as a long-term insurance policy, and you will be disappointed.
 

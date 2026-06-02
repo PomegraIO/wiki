@@ -35,15 +35,15 @@ But Petrobras got really good at deepwater drilling. The company invented and pe
 
 ## How it makes money
 
-Petrobras sells crude oil and natural gas. Some of it goes to other countries; some stays in Brazil to fuel the local economy and power refineries. The company also owns refineries, pipelines, and gas-distribution networks — not just the wells themselves, but the full chain from extraction to delivery. That integration gives Petrobras more control over its margins and less exposure to spot-market price swings than an explorer-only company would have.
+Petrobras sells [crude oil](/crude-oil/) and [natural gas](/natural-gas/). Some of it goes to other countries; some stays in Brazil to fuel the local economy and power refineries. The company also owns refineries, pipelines, and gas-distribution networks — not just the wells themselves, but the full chain from extraction to delivery. That integration gives Petrobras more control over its margins and less exposure to spot-market price swings than an explorer-only company would have.
 
 The real story, though, is the pre-sal reserves. The word "pre-sal" refers to discoveries made in a specific geologic layer beneath a thick salt deposit in the Atlantic. These fields are enormous, with billions of barrels of oil waiting to be extracted. They sit in deep water, which makes them expensive to develop, but the sheer volume of oil is why the pre-sal is the crown jewel of Petrobras's future. Finding and extracting that oil is a decades-long process, but those reserves underpin the company's production and profitability for generations to come.
 
 ## The state ownership complication
 
-Petrobras is majority owned by the Brazilian government, and that has consequences. On one hand, it gives the government direct control over a critical commodity and a steady revenue stream. On the other hand, it creates political pressure. The Brazilian government sometimes instructs Petrobras to keep domestic fuel prices low to fight inflation or curry favor with voters, even if that squeezes the company's margins. Government officials have periodically installed favored executives instead of allowing independent management. These pressures can work against the long-term interests of the business and the minority shareholders who own a piece of it.
+Petrobras is majority owned by the Brazilian government, and that has consequences. On one hand, it gives the government direct control over a critical commodity and a steady revenue stream. On the other hand, it creates political pressure. The Brazilian government sometimes instructs Petrobras to keep domestic fuel prices low to fight [inflation](/inflation/) or curry favor with voters, even if that squeezes the company's margins. Government officials have periodically installed favored executives instead of allowing independent management. These pressures can work against the long-term interests of the business and the minority shareholders who own a piece of it.
 
-The company is also partially privatized and listed on public stock exchanges, including the New York Stock Exchange. That means some of its shares are owned by investors around the world who expect a financial return. The tension between the state's interest in cheap fuel and political control versus the minority shareholders' interest in profit can create friction. When the government pushes Petrobras to subsidize domestic energy prices, shareholders suffer.
+The company is also partially privatized and listed on public [stock exchanges](/stock-exchange/), including the [New York Stock Exchange](/new-york-stock-exchange/). That means some of its shares are owned by investors around the world who expect a financial return. The tension between the state's interest in cheap fuel and political control versus the minority shareholders' interest in profit can create friction. When the government pushes Petrobras to subsidize domestic energy prices, shareholders suffer.
 
 ## Exposure to oil prices and geopolitics
 
@@ -55,7 +55,7 @@ Petrobras also operates in Brazil, a country that has experienced political and 
 
 The critical number for Petrobras is production — how many barrels of oil does it pump each day, and what is the cost to extract each barrel? If production is falling or costs are rising, the company's future cash flow is at risk. The second key metric is the trajectory of pre-sal development. Are new fields coming online? How much will they produce? When?
 
-A third metric is the company's debt and capital expenditure plan. Deepwater development requires enormous upfront investment. Petrobras needs to decide how much to spend on new drilling versus paying dividends to shareholders and reducing debt. That capital allocation choice drives returns.
+A third metric is the company's debt and capital expenditure plan. Deepwater development requires enormous upfront investment. Petrobras needs to decide how much to spend on new drilling versus paying [dividends](/dividend/) to shareholders and reducing debt. That capital allocation choice drives returns.
 
 Finally, investors watch the relationship between the Brazilian government and the company's management. Has the government been meddling with pricing decisions? Are new executives independent-minded, or are they political appointees? Does the company get to make investment decisions based on business logic, or is it forced to prioritize political goals? These governance questions sound abstract, but they directly affect shareholder value.
 

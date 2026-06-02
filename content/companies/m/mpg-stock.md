@@ -21,11 +21,11 @@ Every trading day, Leverage Shares rebalances MPG's positions so that on that sp
 
 Consider a volatile scenario: platinum rises 10 per cent on day one, then falls 10 per cent on day two. The index ends flat, a round trip that leaves an investor in platinum where they started. MPG, however, gains 20 per cent on day one and loses 20 per cent on day two. That sequence—up 20, then down 20—mathematically leaves the fund down approximately 4 per cent. The underlying asset never fell, yet the leveraged fund lost money. This is volatility decay, and it is not a bug; it is the inevitable consequence of daily rebalancing in a volatile commodity.
 
-The drag grows with both volatility and holding period. Platinum moves more on some days than others, and markets that whipsaw—up and down—punish leveraged funds relentlessly. A trader holding MPG for a week through normal platinum volatility takes a manageable hit. A platinum bull holding through six months of swings could watch their position decay substantially even though their long-term thesis proves right.
+The drag grows with both volatility and [holding period](/holding-period/). Platinum moves more on some days than others, and markets that whipsaw—up and down—punish leveraged funds relentlessly. A trader holding MPG for a week through normal platinum volatility takes a manageable hit. A platinum bull holding through six months of swings could watch their position decay substantially even though their long-term thesis proves right.
 
 ## How leverage is built
 
-Leverage Shares uses synthetic replication through swap agreements rather than buying platinum futures directly. Counterparties commit to ensure the fund's value moves with 2x the index, allowing Leverage Shares to adjust positions flexibly each day without the friction of directly trading futures. The expense ratio covers these swap costs and the rebalancing machinery. The fund also carries counterparty risk—if the swap provider failed, the fund's claims could be jeopardised—though Leverage Shares is a regulated issuer with oversight appropriate to the jurisdiction.
+Leverage Shares uses synthetic replication through swap agreements rather than buying platinum futures directly. Counterparties commit to ensure the fund's value moves with 2x the index, allowing Leverage Shares to adjust positions flexibly each day without the friction of directly trading futures. The [expense ratio](/expense-ratio/) covers these swap costs and the rebalancing machinery. The fund also carries [counterparty risk](/counterparty-risk/)—if the swap provider failed, the fund's claims could be jeopardised—though Leverage Shares is a regulated issuer with oversight appropriate to the jurisdiction.
 
 ## Intended users
 

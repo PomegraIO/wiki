@@ -21,7 +21,7 @@ keywords:
 
 ## Systemic Banking in a Fractured Eurozone
 
-Greece's banking sector contracted violently during the 2009–2015 sovereign crisis, with capital controls, deposit runs, and non-performing loan surges eroding bank equity. Eurobank, like its peer [National Bank](/nbhc-stock/) of Greece, absorbed massive losses and required multiple [European Central Bank](/european-central-bank/) [recapitalizations](/recapitalization/). Today, Eurobank remains a "systemically important bank" (SIB) under ECB supervision—meaning its stability is deemed critical to European financial order and it faces regulatory requirements that smaller lenders avoid. This status is double-edged: it guarantees implicit state support in crisis (reducing bankruptcy risk) but subjects the bank to heightened capital requirements, [stress testing](/stress-testing/), and ECB directives on dividend and [share buyback](/share-buyback/) policies.
+Greece's banking sector contracted violently during the 2009–2015 sovereign crisis, with capital controls, deposit runs, and non-performing loan surges eroding bank equity. Eurobank, like its peer National Bank of Greece, absorbed massive losses and required multiple [European Central Bank](/european-central-bank/) [recapitalizations](/recapitalization/). Today, Eurobank remains a "systemically important bank" (SIB) under ECB supervision—meaning its stability is deemed critical to European financial order and it faces regulatory requirements that smaller lenders avoid. This status is double-edged: it guarantees implicit state support in crisis (reducing bankruptcy risk) but subjects the bank to heightened capital requirements, [stress testing](/stress-testing/), and ECB directives on [dividend](/dividend/) and [share buyback](/share-buyback/) policies.
 
 ## Domestic Market Concentration and Deposit Base
 
@@ -49,7 +49,7 @@ Eurobank's denominated loans, deposits, and capital are all in euros, so [curren
 
 ## Listing Vehicle and Investor Access
 
-The American depositary receipt structure allows foreign investors (US, Australian, etc.) to hold exposure to Eurobank without owning Greek shares directly. The ADR trades on the OTC Pink market, which has lower liquidity than mainstream exchanges; this creates wider [bid-ask spreads](/bid-ask-spread/) and reduces institutional index demand. The ADR also buffers some currency translation—a US investor in EURBF is hedged against euro weakness, whereas a holder of the underlying Greek share is not. This structural advantage can be valuable in volatile foreign exchange periods.
+The American depositary receipt structure allows foreign investors (US, Australian, etc.) to hold exposure to Eurobank without owning Greek shares directly. The ADR trades on the [OTC Pink](/otc-pink/) market, which has lower liquidity than mainstream exchanges; this creates wider [bid-ask spreads](/bid-ask-spread/) and reduces institutional index demand. The ADR also buffers some currency translation—a US investor in EURBF is hedged against euro weakness, whereas a holder of the underlying Greek share is not. This structural advantage can be valuable in volatile foreign exchange periods.
 
 <div class="wiki-seealso">
 ### Closely related

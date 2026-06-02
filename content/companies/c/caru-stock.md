@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*A **leveraged ETF** uses borrowed money and derivatives to amplify returns, earning three or more times the daily move of an underlying index. The MAX Auto Industry 3x Leveraged ETN (CARU) is the bullish counterpart to CARD — it profits from automotive strength but decays in the same way, making it a pure short-term trading tool rather than a long-term holding.*
+*A **[leveraged ETF](/leveraged-etf/)** uses borrowed money and derivatives to amplify returns, earning three or more times the daily move of an underlying index. The MAX Auto Industry 3x Leveraged ETN (CARU) is the bullish counterpart to CARD — it profits from automotive strength but decays in the same way, making it a pure short-term trading tool rather than a long-term holding.*
 
 <aside class="wiki-infobox">
 <table>
@@ -31,7 +31,7 @@ This daily reset creates the same volatility decay problem that affects inverse 
 
 ## Who buys CARU and why
 
-CARU appeals to traders and speculators who are convinced the auto sector is about to rally sharply and want to amplify their bet. It also appeals to active traders who use leveraged products for short holding periods — hours to days — in which volatility decay is minimal and the bet size matters more than the time cost.
+CARU appeals to traders and speculators who are convinced the auto sector is about to rally sharply and want to amplify their bet. It also appeals to active traders who use leveraged products for short [holding periods](/holding-period/) — hours to days — in which volatility decay is minimal and the bet size matters more than the time cost.
 
 The product also serves hedging and arbitrage purposes in professional trading, where a fund manager or options trader might use CARU to offset a short position in autos or to exploit pricing anomalies between the leveraged ETN and the underlying auto stocks.
 
@@ -45,7 +45,7 @@ There is also the issuer risk inherent in any ETN. If Accelerant Holdings faces 
 
 ## The size consideration
 
-CARU is small relative to more popular leveraged auto products, which means liquidity can be an issue. On days when the auto sector is in panic or euphoria, trading spreads can widen and it may be difficult to exit a large position at the market price. Anyone contemplating CARU needs to first test the liquidity by watching bid-ask spreads and trading volumes over several days, and to size the position small enough that exiting is not a problem.
+CARU is small relative to more popular leveraged auto products, which means liquidity can be an issue. On days when the auto sector is in panic or euphoria, trading spreads can widen and it may be difficult to exit a large position at the market price. Anyone contemplating CARU needs to first test the liquidity by watching [bid-ask spreads](/bid-ask-spread/) and trading volumes over several days, and to size the position small enough that exiting is not a problem.
 
 ## When CARU makes sense
 

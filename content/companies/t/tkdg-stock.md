@@ -19,7 +19,7 @@ The firm operates in a cyclical sector. During boom years when enterprise techno
 
 3 Knights Dynamics was founded as a private consulting firm serving Malaysian and broader Southeast Asian enterprises. The company built its initial reputation through project delivery in financial services, manufacturing, and telecommunications — sectors that typically maintain steady demand for data modernisation and analytics infrastructure. The decision to pursue a public listing reflects founder ambition to scale rapidly and tap public capital markets for growth funding.
 
-The company's path to the public markets has been through a traditional IPO process on Nasdaq Capital Market rather than via special purpose acquisition vehicle or reverse merger. This approach signals a commitment to full regulatory disclosure and operating as a public company under the scrutiny that entails. The listing itself serves multiple purposes: raising capital for expansion, building brand credibility in international markets, and providing liquidity to early backers.
+The company's path to the public markets has been through a traditional IPO process on [Nasdaq](/nasdaq/) Capital Market rather than via special purpose [acquisition](/acquisition/) vehicle or [reverse merger](/reverse-merger/). This approach signals a commitment to full regulatory disclosure and operating as a public company under the scrutiny that entails. The listing itself serves multiple purposes: raising capital for expansion, building brand credibility in international markets, and providing liquidity to early backers.
 
 ## How the business works
 
@@ -31,9 +31,9 @@ Margins are typically high in consulting services — once a consultant is billa
 
 ## Competitive position and risks
 
-The consultancy operates in a crowded space. Global firms like Accenture, Deloitte, and IBM all offer similar digital transformation services, often at far larger scale and with deeper established client relationships. Locally, smaller Malaysian and regional competitors also pursue the same market. What differentiates a firm of 3 Knights' likely size is expertise depth in specific industries, speed of execution, or closer geographic and cultural proximity to customers.
+The consultancy operates in a crowded space. Global firms like [Accenture](/acn-stock/), Deloitte, and IBM all offer similar digital transformation services, often at far larger scale and with deeper established client relationships. Locally, smaller Malaysian and regional competitors also pursue the same market. What differentiates a firm of 3 Knights' likely size is expertise depth in specific industries, speed of execution, or closer geographic and cultural proximity to customers.
 
-The cyclicality of enterprise spending is the core structural risk. Budgets for transformation consulting are discretionary — companies can defer projects when cash is tight or growth slows. A recession or extended period of slow growth could sharply reduce project intake. Unlike a software company with locked-in subscriptions, a consultancy has little revenue predictability beyond current active engagements.
+The cyclicality of enterprise spending is the core structural risk. Budgets for transformation consulting are discretionary — companies can defer projects when cash is tight or growth slows. A [recession](/recession/) or extended period of slow growth could sharply reduce project intake. Unlike a software company with locked-in subscriptions, a consultancy has little revenue predictability beyond current active engagements.
 
 There is also attrition risk: skilled data engineers and machine learning specialists are sought after and can move to larger firms, tech companies, or start their own ventures. Losing key technical talent could erode delivery capability and reputation.
 

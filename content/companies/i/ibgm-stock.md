@@ -23,11 +23,11 @@ handwritten: true
 </table>
 </aside>
 
-*The **iShares iBonds Dec 2056 Term Treasury ETF** (IBGM) holds US Treasury bonds scheduled to mature on a single date: December 15, 2056. Unlike a traditional Treasury fund that constantly rolls over maturing securities to maintain a target duration, IBGM is intentionally static — all holdings converge toward par as December 2056 approaches, with duration falling mechanically and interest-rate sensitivity declining over time.*
+*The **iShares iBonds Dec 2056 Term Treasury ETF** (IBGM) holds US [Treasury bonds](/treasury-bond/) scheduled to mature on a single date: December 15, 2056. Unlike a traditional Treasury fund that constantly rolls over maturing securities to maintain a target duration, IBGM is intentionally static — all holdings converge toward par as December 2056 approaches, with duration falling mechanically and interest-rate sensitivity declining over time.*
 
 ## The core appeal of term Treasury structure
 
-IBGM simplifies long-term Treasury ownership. Rather than managing a portfolio of bonds across multiple maturity dates, or trusting a bond fund manager's judgment about which maturities to hold, an investor in IBGM owns a transparent, single-purpose holding. The fund tracks the Bloomberg iBonds Dec 2056 Term Treasury Index, which selects all US government bonds due in that one month of that one year. The index is static by design — it exists to provide access to that maturity, not to optimise yield or chase price appreciation.
+IBGM simplifies long-term Treasury ownership. Rather than managing a portfolio of [bonds](/bond/) across multiple maturity dates, or trusting a bond fund manager's judgment about which maturities to hold, an investor in IBGM owns a transparent, single-purpose holding. The fund tracks the Bloomberg iBonds Dec 2056 Term Treasury Index, which selects all US government bonds due in that one month of that one year. The index is static by design — it exists to provide access to that maturity, not to optimise yield or chase price appreciation.
 
 This structure appeals to anyone with a known long-term financial obligation or goal. An investor planning for retirement income starting in 2056, or anticipating a major expense that year, can use IBGM to lock in a path to that capital. If held to maturity, the fund's role becomes clear: it is a vehicle to preserve purchasing power and deliver a known amount on a known date. Intermediate price fluctuations due to interest-rate swings become irrelevant noise.
 
@@ -39,23 +39,23 @@ But that duration shrinks every day. A year from now, the bonds will have 29 yea
 
 ## Risks for sellers before maturity
 
-Interest-rate risk is the primary concern for anyone selling IBGM before December 2056. If rates have risen since purchase, the market value of the bonds has fallen, and the investor realises a loss. If rates have fallen, the investor gains. Over a 30-year holding period, that volatility is substantial and real.
+[Interest-rate risk](/interest-rate-risk/) is the primary concern for anyone selling IBGM before December 2056. If rates have risen since purchase, the market value of the bonds has fallen, and the investor realises a loss. If rates have fallen, the investor gains. Over a 30-year [holding period](/holding-period/), that volatility is substantial and real.
 
-Inflation risk is also present. The bonds pay a fixed coupon and return a fixed principal amount. If inflation over the next three decades significantly exceeds the yield locked in at purchase, the real purchasing power of the return is eroded. This risk is inherent in all nominal (non-inflation-adjusted) Treasury bonds.
+[Inflation risk](/inflation-risk/) is also present. The bonds pay a fixed coupon and return a fixed principal amount. If [inflation](/inflation/) over the next three decades significantly exceeds the yield locked in at purchase, the real purchasing power of the return is eroded. This risk is inherent in all nominal (non-inflation-adjusted) Treasury bonds.
 
-Credit risk is negligible — US Treasuries are backed by the full faith of the US government, and historical default is not a realistic concern.
+[Credit risk](/credit-risk/) is negligible — US Treasuries are backed by the full faith of the US government, and historical default is not a realistic concern.
 
 ## Costs and mechanics
 
-IBGM's expense ratio is minimal — typically a fraction of a basis point — because the index is passive and transparent, and Treasury holdings are among the most liquid securities in the world. The fund trades on the NASDAQ with tight bid-ask spreads relative to its net asset value, so investors can enter and exit with minimal trading costs.
+IBGM's [expense ratio](/expense-ratio/) is minimal — typically a fraction of a basis point — because the index is passive and transparent, and Treasury holdings are among the most liquid securities in the world. The fund trades on the [NASDAQ](/nasdaq/) with tight [bid-ask spreads](/bid-ask-spread/) relative to its [net asset value](/net-asset-value/), so investors can enter and exit with minimal trading costs.
 
-The fund pays interim coupon payments as the bonds in the portfolio pay their scheduled coupons. Shareholders typically receive these distributions, though they can usually choose to reinvest them. As December 2056 approaches, the fund's price should converge steadily toward par, reflecting the mechanical approach of maturity.
+The fund pays interim [coupon payments](/coupon-payment/) as the bonds in the portfolio pay their scheduled coupons. Shareholders typically receive these distributions, though they can usually choose to reinvest them. As December 2056 approaches, the fund's price should converge steadily toward par, reflecting the mechanical approach of maturity.
 
 ## Building IBGM into a portfolio strategy
 
-Some investors use multiple term Treasury ETFs at different maturity dates to build a bond ladder, where bonds mature in different years and provide staggered liquidity. IBGM, as a 30-year-out maturity, would represent the long end of such a ladder — capital parked for three decades. Combined with shorter-maturity iShares iBonds products (2025, 2035, 2045), an investor can construct a Treasury ladder within an exchange-traded structure, simplifying administration versus managing individual bonds.
+Some investors use multiple term Treasury ETFs at different maturity dates to build a [bond ladder](/bond-ladder/), where bonds mature in different years and provide staggered liquidity. IBGM, as a 30-year-out maturity, would represent the long end of such a ladder — capital parked for three decades. Combined with shorter-maturity iShares iBonds products (2025, 2035, 2045), an investor can construct a Treasury ladder within an exchange-traded structure, simplifying administration versus managing individual bonds.
 
-Others use IBGM as a single, dedicated holding aligned to a specific liability or time horizon. A pension fund might hold IBGM to match a known benefit payment obligation in 2056. An endowment might hold it as part of long-term asset allocation.
+Others use IBGM as a single, dedicated holding aligned to a specific liability or time horizon. A pension fund might hold IBGM to match a known benefit payment obligation in 2056. An endowment might hold it as part of long-term [asset allocation](/asset-allocation/).
 
 ## Research and due diligence
 

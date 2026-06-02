@@ -43,7 +43,7 @@ Investment income is less stable than underwriting profit but material. A declin
 
 ## Scale, geography, and diversification
 
-Sun Life's presence across multiple countries and product lines is a strength and a complexity. The company earns premiums in [Canadian dollars](/canadian-dollar/), U.S. dollars, Asian currencies, and European currencies; each region has different economic cycles, mortality and morbidity patterns, and regulatory regimes. A [recession](/recession/) in one region can be offset by growth in another. But managing operations across so many jurisdictions, with different claim experiences and investment environments, requires sophisticated risk management and organizational infrastructure.
+Sun Life's presence across multiple countries and product lines is a strength and a complexity. The company earns premiums in [Canadian dollars](/canadian-dollar/), [U.S. dollars](/us-dollar/), Asian currencies, and European currencies; each region has different economic cycles, mortality and morbidity patterns, and regulatory regimes. A [recession](/recession/) in one region can be offset by growth in another. But managing operations across so many jurisdictions, with different claim experiences and investment environments, requires sophisticated risk management and organizational infrastructure.
 
 The company has significant exposure to Asia-Pacific, a region of rising wealth and growing insurance penetration. As incomes rise, individuals purchase more life and health insurance. Employers expand benefits as they compete for talent. Sun Life's expansion in this region over the past two decades has positioned it to capture that growth, though operating in emerging markets carries execution risk and regulatory uncertainty.
 

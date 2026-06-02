@@ -40,7 +40,7 @@ TurboTax faces regulatory and reputational pressures specific to the tax industr
 
 ## Credit Karma and financial services
 
-Credit Karma, acquired by Intuit in 2020 for a substantial sum, started as a free credit-monitoring service and has evolved into a broader personal finance platform. Users can check their credit score, access personalized financial advice, and compare loan and credit-card offers. Intuit monetizes Credit Karma primarily through advertising and referral fees: [financial institutions](/fisi-stock/) pay Intuit to show their products to qualifying users, and when a user applies for a loan or credit card, Intuit earns a referral fee.
+Credit Karma, acquired by Intuit in 2020 for a substantial sum, started as a free credit-monitoring service and has evolved into a broader personal finance platform. Users can check their credit score, access personalized financial advice, and compare loan and credit-card offers. Intuit monetizes Credit Karma primarily through advertising and referral fees: financial institutions pay Intuit to show their products to qualifying users, and when a user applies for a loan or credit card, Intuit earns a referral fee.
 
 Credit Karma is strategically important because it extends Intuit's franchise from business and tax services into consumers' broader financial lives. A consumer using TurboTax and Credit Karma represents a deeper relationship and additional opportunities for cross-selling and engagement. The platform also provides Intuit with valuable data on consumer financial behavior and preferences, which informs product development and helps position Intuit's own financial offerings.
 

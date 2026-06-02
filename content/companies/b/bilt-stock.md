@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The iShares Infrastructure Active ETF (BILT) is an exchange-traded fund that holds a curated portfolio of infrastructure and utilities companies — the businesses that build and operate the essential systems modern economies depend on. Unlike passive index trackers, BILT employs active stock selection to identify companies positioned to weather economic cycles and generate consistent returns.*
+*The iShares Infrastructure [Active ETF](/active-etf/) (BILT) is an exchange-traded fund that holds a curated portfolio of infrastructure and utilities companies — the businesses that build and operate the essential systems modern economies depend on. Unlike passive index trackers, BILT employs active stock selection to identify companies positioned to weather economic cycles and generate consistent returns.*
 
 <aside class="wiki-infobox">
 <table>
@@ -33,9 +33,9 @@ The fund's active manager applies proprietary screens to select among available 
 
 ## The cyclical appeal
 
-Infrastructure's reputation as a defensive asset — one that holds up when growth slows — comes from the essential nature of its services. Roads still need maintaining during recessions. Electricity still needs generating. Water still needs treating and piping. These are not luxury services people cut back on. During boom years, infrastructure companies benefit from steady consumption growth and government stimulus that funds new projects. During busts, their regulated earnings become relatively more valuable because investors flee to stability. Utilities especially tend to outperform in downturn years when investors want predictable cash flows and dividend income rather than speculative growth.
+Infrastructure's reputation as a defensive asset — one that holds up when growth slows — comes from the essential nature of its services. Roads still need maintaining during [recessions](/recession/). Electricity still needs generating. Water still needs treating and piping. These are not luxury services people cut back on. During boom years, infrastructure companies benefit from steady consumption growth and government stimulus that funds new projects. During busts, their regulated earnings become relatively more valuable because investors flee to stability. Utilities especially tend to outperform in downturn years when investors want predictable cash flows and [dividend](/dividend/) income rather than speculative growth.
 
-That said, infrastructure is not immune to cycles. A severe recession or credit crunch can freeze government spending, delay maintenance contracts, and damage the balance sheets of smaller infrastructure players. And in rising-rate environments, the high leverage used by some infrastructure businesses becomes a liability, since higher financing costs squeeze returns on capital.
+That said, infrastructure is not immune to cycles. A severe recession or credit crunch can freeze government spending, delay maintenance contracts, and damage the [balance sheets](/balance-sheet/) of smaller infrastructure players. And in rising-rate environments, the high leverage used by some infrastructure businesses becomes a liability, since higher financing costs squeeze returns on capital.
 
 ## Active management in a utilities space
 
@@ -43,7 +43,7 @@ The decision to use active management rather than simply tracking an index refle
 
 ## Costs and trading
 
-Being an ETF, BILT trades continuously on exchange during market hours, like a stock, rather than settling once daily like a traditional mutual fund. This liquidity is convenient for investors who want to buy or sell holdings whenever markets are open. The fund's expense ratio is modest — competitive with other actively managed infrastructure vehicles — though it will be higher than a passive infrastructure index fund because the manager's team and research require fees.
+Being an ETF, BILT trades continuously on exchange during market hours, like a stock, rather than settling once daily like a traditional [mutual fund](/mutual-fund/). This liquidity is convenient for investors who want to buy or sell holdings whenever markets are open. The fund's [expense ratio](/expense-ratio/) is modest — competitive with other actively managed infrastructure vehicles — though it will be higher than a passive infrastructure [index fund](/index-fund/) because the manager's team and research require fees.
 
 ## Who this fund serves
 
@@ -51,4 +51,4 @@ BILT appeals to investors who believe infrastructure companies deserve a portfol
 
 ## Risks and research
 
-The main risks are regulatory risk (if governments change utility rate approval processes or renewable energy subsidies) and refinancing risk for highly leveraged players when interest rates rise sharply. Investors studying BILT should read its prospectus to understand the specific holdings and the manager's investment criteria, and should monitor the fund's holdings for significant changes in leverage or contract mix.
+The main risks are regulatory risk (if governments change utility rate approval processes or renewable energy subsidies) and [refinancing risk](/refinancing-risk/) for highly leveraged players when [interest rates](/interest-rate/) rise sharply. Investors studying BILT should read its prospectus to understand the specific holdings and the manager's investment criteria, and should monitor the fund's holdings for significant changes in leverage or contract mix.

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Haverty Furniture sells home furniture and related goods through a network of showrooms across the United States. The company is a throwback to the regional furniture-retailer model — it owns real estate, maintains inventory in distribution centers, delivers heavy goods to customers' homes, and operates the retail environment where customers browse and make purchases. This is a very different business from online-native furniture companies or from mass-market retailers that dropship. It requires capital, logistics, and physical presence, and it lives or dies on the health of the U.S. consumer and the housing market.
+[Haverty Furniture](/hvt-stock/) sells home furniture and related goods through a network of showrooms across the United States. The company is a throwback to the regional furniture-retailer model — it owns real estate, maintains inventory in distribution centers, delivers heavy goods to customers' homes, and operates the retail environment where customers browse and make purchases. This is a very different business from online-native furniture companies or from mass-market retailers that dropship. It requires capital, logistics, and physical presence, and it lives or dies on the health of the U.S. consumer and the housing market.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ This model has both advantages and disadvantages compared to pure e-commerce or 
 
 Furniture spending is discretionary. Consumers buy a sofa when their old one is worn out, when they are moving, or when they have the income and confidence to upgrade their home. It is highly sensitive to employment, wage growth, consumer confidence, and the health of the housing market. When home prices are rising and people are moving, furniture demand accelerates. When unemployment spikes or consumer confidence collapses, furniture spending plummets. The company faced significant headwinds in 2008–2009 and has navigated periods of strong demand during post-pandemic housing demand.
 
-Another driver of Haverty's business is housing turnover and new construction. People moving into new homes often need furniture; people buying homes as investments renovate them and furnish them. The cost of mortgage financing (interest rates), the supply of housing inventory, and the strength of the real-estate market all flow through to Haverty's results. A decline in housing activity, whether driven by rising mortgage rates, reduced inventory, or softening demand, reduces the impulse to buy furniture.
+Another driver of Haverty's business is housing turnover and new construction. People moving into new homes often need furniture; people buying homes as investments renovate them and furnish them. The cost of mortgage financing ([interest rates](/interest-rate/)), the supply of housing inventory, and the strength of the real-estate market all flow through to Haverty's results. A decline in housing activity, whether driven by rising mortgage rates, reduced inventory, or softening demand, reduces the impulse to buy furniture.
 
 ## Competitive pressure and category challenges
 
@@ -47,7 +47,7 @@ The company has responded by investing in its own e-commerce platform and omnich
 
 Haverty's cash flow is lumpy and seasonal. The company must buy inventory well in advance of selling it, paying suppliers before receiving cash from customers. Strong selling seasons (spring and early fall) drive peak inventory purchases, requiring working capital. If sales disappoint, the company is stuck holding excess inventory that it must eventually discount, eroding margins. Large one-time orders (say, a corporate client furnishing an office complex) can strain working capital if the customer pays on terms while Haverty has already paid suppliers.
 
-The company's balance sheet and available credit lines are the buffers that let it manage this cycle. In a tight credit environment or if access to financing becomes constrained, Haverty's ability to maintain inventory for demand could be impaired.
+The company's [balance sheet](/balance-sheet/) and available credit lines are the buffers that let it manage this cycle. In a tight credit environment or if access to financing becomes constrained, Haverty's ability to maintain inventory for demand could be impaired.
 
 ## Understanding Haverty as an investment
 

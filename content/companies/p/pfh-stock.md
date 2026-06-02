@@ -14,7 +14,7 @@ handwritten: true
 
 ## Founded 1875. Global diversified insurer. Life, P&C, retirement, asset management.
 
-Prudential Financial trades under the ticker PFH and is commonly confused with Prudential (the UK-based insurer that operates through subsidiaries in the U.S. and elsewhere). Prudential Financial is the U.S.-based diversified insurance conglomerate. The company operates four main business segments: Individual Annuities, Group Insurance, Property & Casualty Insurance, and a Corporate division housing the asset management and real estate investment businesses. The segments often operate as franchises with distinct competitive dynamics and growth profiles.
+[Prudential Financial](/pru-stock/) trades under the ticker PFH and is commonly confused with Prudential (the UK-based insurer that operates through subsidiaries in the U.S. and elsewhere). Prudential Financial is the U.S.-based diversified insurance conglomerate. The company operates four main business segments: Individual Annuities, Group Insurance, Property & Casualty Insurance, and a Corporate division housing the asset management and real estate investment businesses. The segments often operate as franchises with distinct competitive dynamics and growth profiles.
 
 ## Scale. The company is huge by any measure. Manages roughly $1 trillion in assets (combining insurance float and client money). Insurance in force across policies is measured in hundreds of billions. Regulatory capital position: strong relative to most peers but not exceptional. The company is perpetually evaluating capital allocation: pay dividends, repurchase shares, retain for growth, acquire competitors.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*The BNY Mellon Dynamic Value ETF (BKDV) is an exchange-traded fund that invests in U.S. stocks selected and weighted according to value characteristics including dividend yield, earnings yield, and book-to-market ratios. Sponsored by Bank of New York Mellon, it offers a rules-based approach to value-factor investing for retail and institutional investors seeking exposure to companies trading at discounts to their fundamentals.*
+*The BNY Mellon Dynamic Value ETF (BKDV) is an exchange-traded fund that invests in U.S. stocks selected and weighted according to value characteristics including [dividend yield](/dividend-yield/), [earnings yield](/earnings-yield/), and book-to-market ratios. Sponsored by [Bank of New York Mellon](/bk-stock/), it offers a rules-based approach to value-factor investing for retail and institutional investors seeking exposure to companies trading at discounts to their fundamentals.*
 
 <aside class="wiki-infobox">
 <table>
@@ -25,11 +25,11 @@ handwritten: true
 
 ## What BKDV tracks
 
-BKDV tracks the Morningstar US Large-Cap Value Index, a rules-based index of large-cap U.S. stocks that display value characteristics. The index selects companies from the universe of large-cap stocks and scores them on metrics including book-to-market ratio, earnings-to-price ratio, and dividend yield. Stocks with stronger value scores receive higher weights in the fund's portfolio. The approach is systematic rather than discretionary—the weighting formula is transparent and rebalanced regularly according to published rules.
+BKDV tracks the Morningstar US Large-Cap Value Index, a rules-based index of large-cap U.S. stocks that display value characteristics. The index selects companies from the universe of large-cap stocks and scores them on metrics including book-to-market ratio, earnings-to-price ratio, and [dividend](/dividend/) yield. Stocks with stronger value scores receive higher weights in the fund's portfolio. The approach is systematic rather than discretionary—the weighting formula is transparent and rebalanced regularly according to published rules.
 
 ## Fund structure and costs
 
-As a passively managed ETF, BKDV holds a portfolio that mirrors the index it tracks, trading on the NYSE Arca exchange like a stock. The expense ratio is very low, typical of passively managed BNY Mellon funds, and the fund is liquid with tight bid-ask spreads during normal market hours. Investors can buy or sell shares throughout the trading day at prices determined by supply and demand, rather than purchasing at a single daily price like a mutual fund.
+As a passively managed ETF, BKDV holds a portfolio that mirrors the index it tracks, trading on the NYSE Arca exchange like a stock. The [expense ratio](/expense-ratio/) is very low, typical of passively managed BNY Mellon funds, and the fund is liquid with tight [bid-ask spreads](/bid-ask-spread/) during normal market hours. Investors can buy or sell shares throughout the trading day at prices determined by supply and demand, rather than purchasing at a single daily price like a [mutual fund](/mutual-fund/).
 
 ## Dynamic weighting and the value tilt
 
@@ -37,7 +37,7 @@ The "dynamic" element in the fund's name refers to the way the index weights its
 
 ## Who BKDV is for
 
-BKDV suits investors who believe value stocks—those trading at discounts to earnings or book value—are more attractive than the broader market. It works well as a core U.S. equity holding or as part of a diversified portfolio that uses separate funds for value, growth, and dividend-focused segments. Because it is passively managed with low costs, it appeals to long-term buy-and-hold investors who want structured factor exposure without active management fees.
+BKDV suits investors who believe value stocks—those trading at discounts to earnings or book value—are more attractive than the broader market. It works well as a core U.S. equity holding or as part of a diversified portfolio that uses separate funds for value, growth, and dividend-focused segments. Because it is passively managed with low costs, it appeals to long-term buy-and-hold investors who want structured factor exposure without active [management fees](/management-fee/).
 
 ## Risks and tracking characteristics
 
@@ -45,4 +45,4 @@ Value-factor funds can underperform the broader market for extended periods. Gro
 
 ## How to research BKDV
 
-Start with BNY Mellon's fact sheet for the fund, which lists current holdings, sector breakdown, and the expense ratio. The Morningstar Index website documents how the underlying index selects and weights stocks. Check the fund's historical performance relative to the broader U.S. large-cap market and other value-focused funds to understand how much value premium it captures. The prospectus details any cash-flow policies and tax-efficiency mechanisms. Review the fund's annual reports to track any changes to weighting rules or index methodology.
+Start with BNY Mellon's fact sheet for the fund, which lists current holdings, sector breakdown, and the expense ratio. The Morningstar Index website documents how the underlying index selects and weights stocks. Check the fund's historical performance relative to the broader U.S. large-cap market and other value-focused funds to understand how much value premium it captures. The prospectus details any cash-flow policies and tax-efficiency mechanisms. Review the fund's [annual reports](/10-k/) to track any changes to weighting rules or index methodology.

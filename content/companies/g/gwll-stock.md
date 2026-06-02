@@ -37,7 +37,7 @@ Research-stage biotechs often license in compounds and technologies from univers
 
 Goldenwell's balance sheet will show the cumulative effect of equity raises: share count, issuance prices across multiple fundraising rounds, and accumulated deficit (losses). The accumulated deficit often runs into hundreds of millions for a company 5–10 years into development. Each new equity raise dilutes existing shareholders; if the company has raised capital at declining prices (a "down round"), existing shareholders face significant dilution and may have seen their investment lose value even before the company's clinical outcomes are known.
 
-[Preferred stock](/preferred-stock/) classes indicate venture-stage financing; Series A, B, and C rounds often have different preferences (such as [liquidation preferences](/liquidation-preference/) that prioritize senior classes in a sale or bankruptcy). As the company matures toward potential IPO or acquisition, these complex capital structures are simplified, but the balance sheet history reveals whether early investors had to weather significant dilution or whether the company achieved milestones at consistent valuations.
+[Preferred stock](/preferred-stock/) classes indicate venture-stage financing; Series A, B, and C rounds often have different preferences (such as [liquidation preferences](/liquidation-preference/) that prioritize senior classes in a sale or bankruptcy). As the company matures toward potential IPO or [acquisition](/acquisition/), these complex capital structures are simplified, but the balance sheet history reveals whether early investors had to weather significant dilution or whether the company achieved milestones at consistent valuations.
 
 ## Cash Burn and Timeline to Value Recognition
 

@@ -29,7 +29,7 @@ Ireland's housing shortage is a chronic policy concern, and the government has e
 
 ## Environmental and Sustainability Mandates
 
-European Union environmental directives, transposed into Irish law, require environmental impact assessments for major projects, particularly those affecting water resources, habitats, or [waste management](/wm-stock/). Glenveagh's large development sites frequently trigger these assessments, extending timelines and imposing mitigation measures. Additionally, the EU's Energy Performance of Buildings Directive (now requiring near-zero-energy buildings) has tightened design standards and raised construction costs. For Glenveagh, this creates both risk and opportunity: rising environmental standards increase development costs, but they also erect barriers to smaller competitors lacking the expertise or capital to comply.
+European Union environmental directives, transposed into Irish law, require environmental impact assessments for major projects, particularly those affecting water resources, habitats, or waste management. Glenveagh's large development sites frequently trigger these assessments, extending timelines and imposing mitigation measures. Additionally, the EU's Energy Performance of Buildings Directive (now requiring near-zero-energy buildings) has tightened design standards and raised construction costs. For Glenveagh, this creates both risk and opportunity: rising environmental standards increase development costs, but they also erect barriers to smaller competitors lacking the expertise or capital to comply.
 
 ## Consumer Protection and Defects Liability
 

@@ -28,7 +28,7 @@ Rush Enterprises is a commercial-truck dealer and aftermarket parts supplier ser
 
 Rush Enterprises was founded in 1965 by W.M. Rush Jr. as a small Peterbilt truck dealership in Texas. Peterbilt is one of the two dominant heavy-duty truck manufacturers in North America (along with Volvo), and Rush's franchise agreement gave it the right to sell and service Peterbilt trucks in its territory. Over the next four decades, the company expanded methodically, opening new dealerships across Texas and the surrounding states, building a network of service locations, and adding Volvo trucks to its portfolio.
 
-By the 1990s and 2000s, Rush had expanded beyond the Southwest, acquiring or opening dealerships across the United States and later into Canada. The company went public in 1997 (NASDAQ: RUSHB), which gave it capital to accelerate acquisitions and expand its parts distribution network. The steady acquisition strategy meant that by the 2010s, Rush operated hundreds of dealership and service locations across North America, making it one of the largest commercial-truck distributors in the region.
+By the 1990s and 2000s, Rush had expanded beyond the Southwest, acquiring or opening dealerships across the United States and later into Canada. The company went public in 1997 ([NASDAQ](/nasdaq/): RUSHB), which gave it capital to accelerate [acquisitions](/acquisition/) and expand its parts distribution network. The steady acquisition strategy meant that by the 2010s, Rush operated hundreds of dealership and service locations across North America, making it one of the largest commercial-truck distributors in the region.
 
 The company evolved from a simple truck dealer into an integrated business: it began buying and redistributing truck parts, tires, and accessories from manufacturers, creating a supply-side advantage. A fleet owner needing a replacement engine or transmission could buy it from Rush's parts operation, and Rush could have it installed by Rush technicians at a Rush location. This vertical integration — manufacturer to dealer to fleet — created operational leverage and stickiness. A fleet that uses Rush for vehicle purchases and maintenance was more likely to use Rush for parts, and vice versa.
 
@@ -42,7 +42,7 @@ Rush also buys and sells used trucks — trucks traded in as fleets upgrade or a
 
 **Service and maintenance** — This is the sticky, recurring business. Once Rush sells a truck to a fleet, that fleet will bring the truck back to Rush (or a Rush location) for oil changes, tire replacements, major repairs, and inspections. Service revenue arrives with much higher margins than vehicle sales (typically 25–40%) and is far more predictable. A large fleet with 100 trucks will need regular maintenance that generates a steady stream of service revenue month after month. This creates the economic moat: a customer who bought a truck from Rush is locked in to using Rush for service unless they want to lose their dealer relationship or drive hundreds of miles to a competitor.
 
-**Parts and accessories** — Rush operates a parts-distribution network that supplies both its own service operations and independent repair shops. The company buys parts from manufacturers and resells them at a markup, earning gross margins in the 25–35% range. Like service revenue, parts business is recurring and stable. A fleet owner performing maintenance needs parts regardless of business cycles. The integrated nature of Rush's business means it can cross-sell: a customer coming in for a service appointment is a captive audience for parts upsells, and a customer buying parts is likely to also buy maintenance.
+**Parts and accessories** — Rush operates a parts-distribution network that supplies both its own service operations and independent repair shops. The company buys parts from manufacturers and resells them at a markup, earning gross margins in the 25–35% range. Like service revenue, parts business is recurring and stable. A fleet owner performing maintenance needs parts regardless of [business cycles](/business-cycle/). The integrated nature of Rush's business means it can cross-sell: a customer coming in for a service appointment is a captive audience for parts upsells, and a customer buying parts is likely to also buy maintenance.
 
 ## Competitive dynamics and scale advantages
 
@@ -54,7 +54,7 @@ The aftermarket parts business is more competitive. Large national chains and on
 
 ## Pressures: cycles and electrification
 
-The truck market is highly cyclical. When the economy is strong and freight demand is high, trucking companies invest in new vehicles and profitability is good. When recessions hit and shipping demand softens, fleets park trucks and defer replacements, causing new-truck sales to collapse and margins to compress. Rush's earnings swing accordingly.
+The truck market is highly cyclical. When the economy is strong and freight demand is high, trucking companies invest in new vehicles and profitability is good. When [recessions](/recession/) hit and shipping demand softens, fleets park trucks and defer replacements, causing new-truck sales to collapse and margins to compress. Rush's earnings swing accordingly.
 
 A longer-term pressure is the shift toward electric and autonomous trucks. Diesel trucks have dominated heavy-duty trucking for decades, but manufacturers are beginning to offer electric alternatives, and regulators are considering rules that would phase out diesel engines in new trucks over time. If trucking fleets move to electric, the installed base of diesel trucks shrinks, which reduces long-term parts and service revenue. Electrification also requires different service expertise and parts, potentially disrupting Rush's accumulated know-how.
 
@@ -64,7 +64,7 @@ Used-truck values are also volatile and sensitive to carrier economics. In stron
 
 ## How to research Rush
 
-Rush Enterprises files 10-K annual reports with the SEC (CIK 0001012019) and publishes investor presentations and earnings releases on its investor-relations website. The 10-K breaks down revenue by segment (vehicle sales, service and repair, parts and accessories), discusses the franchise agreements with Peterbilt and Volvo, and details the size of the dealership network and service-location count.
+Rush Enterprises files 10-K [annual reports](/10-k/) with the SEC (CIK 0001012019) and publishes investor presentations and earnings releases on its investor-relations website. The 10-K breaks down revenue by segment (vehicle sales, service and repair, parts and accessories), discusses the franchise agreements with Peterbilt and Volvo, and details the size of the dealership network and service-location count.
 
 Key metrics to follow are new-truck sales volume (in units and dollars), used-truck sales, gross margins by segment (highest in service, lowest in vehicles), and same-location sales growth (which strips out the effect of acquisitions). Watch the service-revenue line carefully — it is the most stable and highest-margin business.
 

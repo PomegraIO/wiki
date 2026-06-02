@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-The NASDAQ-100 is a household name for one reason: it holds the biggest technology companies on Earth. Apple, Microsoft, Nvidia, Tesla — the list goes on. But what if you like the idea of owning large, high-quality companies that trade on NASDAQ, just without the heavy technology weight? That is where QQXT comes in.
+The NASDAQ-100 is a household name for one reason: it holds the biggest technology companies on Earth. [Apple](/aapl-stock/), [Microsoft](/msft-stock/), [Nvidia](/nvda-stock/), [Tesla](/tsla-stock/) — the list goes on. But what if you like the idea of owning large, high-quality companies that trade on [NASDAQ](/nasdaq/), just without the heavy technology weight? That is where QQXT comes in.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,13 +27,13 @@ The NASDAQ-100 is a household name for one reason: it holds the biggest technolo
 
 ## What it actually holds
 
-QQXT takes the NASDAQ-100 Index and removes every stock classified as technology. That instantly shrinks the fund dramatically, because technology makes up roughly 40 to 50 per cent of the NASDAQ-100 by weight. What is left? Healthcare companies (like Eli Lilly or Regeneron), consumer discretionary retailers (Amazon), real-estate firms, media companies (Netflix), industrials, and others. The fund rebalances periodically to match this filtered index.
+QQXT takes the NASDAQ-100 Index and removes every stock classified as technology. That instantly shrinks the fund dramatically, because technology makes up roughly 40 to 50 per cent of the NASDAQ-100 by weight. What is left? Healthcare companies (like [Eli Lilly](/lly-stock/) or Regeneron), consumer discretionary retailers (Amazon), real-estate firms, media companies ([Netflix](/nflx-stock/)), industrials, and others. The fund rebalances periodically to match this filtered index.
 
 The sector definition matters. First Trust uses a standard classification scheme to decide what counts as technology and what does not. A semiconductor maker, for example, might be classified as technology or as industrials depending on the scheme. A company that makes both hardware and software might be split across categories. Checking the prospectus tells you exactly which definitions are used and whether the fund actually does what you expect.
 
 ## Simple and inexpensive
 
-This is a straightforward index fund. No leverage, no swaps, no complex mechanics. The fund holds real stocks, trades like any other ETF, and pays out dividends. The expense ratio is low — comparable to any plain index fund — because all the fund does is track an index. There are no active managers making bets, no daily resets, no derivatives. The only costs beyond the stated expense ratio are the minimal trading spreads incurred when the NASDAQ-100 composition shifts and the fund rebalances to match.
+This is a straightforward [index fund](/index-fund/). No leverage, no swaps, no complex mechanics. The fund holds real stocks, trades like any other ETF, and pays out [dividends](/dividend/). The [expense ratio](/expense-ratio/) is low — comparable to any plain index fund — because all the fund does is track an index. There are no active managers making bets, no daily resets, no derivatives. The only costs beyond the stated expense ratio are the minimal trading spreads incurred when the NASDAQ-100 composition shifts and the fund rebalances to match.
 
 ## Why remove technology?
 

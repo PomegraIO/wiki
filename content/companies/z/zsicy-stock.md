@@ -35,7 +35,7 @@ Industrial customers — refrigeration equipment manufacturers, compressor maker
 
 The company also sells replacement parts and aftermarket components — a modest but stable business. Once a system is installed, customers need spare parts for maintenance and eventual replacement, creating a long tail of sales with relatively high gross margins.
 
-International sales, particularly to Europe and North America, have grown over the years, though the company remains heavily dependent on the China market. Being ADR-listed (American Depositary Receipts) gives the company access to dollar-denominated capital markets, but the real business is selling into global supply chains where Chinese manufacturing costs remain highly competitive.
+International sales, particularly to Europe and North America, have grown over the years, though the company remains heavily dependent on the China market. Being ADR-listed ([American Depositary Receipts](/adr/)) gives the company access to dollar-denominated capital markets, but the real business is selling into global supply chains where Chinese manufacturing costs remain highly competitive.
 
 ## What makes Sanhua different from rivals?
 
@@ -45,13 +45,13 @@ Second is scale within its specific product categories in China. The company is 
 
 Third is cost. Chinese manufacturing, combined with efficient local supply chains, allows Sanhua to compete on price against Western competitors while still maintaining reasonable margins. As global supply chains shift and diversify away from China, this advantage may erode, but it remains significant.
 
-The weaknesses are equally real. Sanhua faces intense competition from much larger multinational rivals — companies like Emerson Electric, Danfoss, and Copeland — that have broader product portfolios, global sales forces, and stronger brand recognition. Sanhua has no moat of regulation or patents that prevents rivals from copying its designs. Its customer concentration risk is high: losing a major automotive customer or facing a significant downturn in Chinese vehicle production would hurt. And it is fundamentally tied to China's economic growth and manufacturing base; if China's industrial output slows, so does Sanhua.
+The weaknesses are equally real. Sanhua faces intense competition from much larger multinational rivals — companies like [Emerson Electric](/emr-stock/), Danfoss, and Copeland — that have broader product portfolios, global sales forces, and stronger brand recognition. Sanhua has no moat of regulation or patents that prevents rivals from copying its designs. Its customer [concentration risk](/concentration-risk/) is high: losing a major automotive customer or facing a significant downturn in Chinese vehicle production would hurt. And it is fundamentally tied to China's economic growth and manufacturing base; if China's industrial output slows, so does Sanhua.
 
 ## The pressures and risks ahead
 
 Sanhua's business faces several headwinds. The global automotive industry is volatile — every slowdown in car production hits demand for thermal-management components. The shift toward electric vehicles is a longer-term structural change that requires the company to develop new products, compete for positions in EV thermal systems, and potentially face obsolescence in some of its traditional internal-combustion-car product lines.
 
-Geopolitically, China-focused manufacturing companies face rising scrutiny and trade friction from Western governments and customers. Tariffs, supply-chain diversification, and the tendency for global companies to reduce dependence on Chinese suppliers all pose risks to Sanhua's export volumes and pricing power.
+Geopolitically, China-focused manufacturing companies face rising scrutiny and trade friction from Western governments and customers. Tariffs, supply-chain [diversification](/diversification/), and the tendency for global companies to reduce dependence on Chinese suppliers all pose risks to Sanhua's export volumes and pricing power.
 
 Currency exposure is significant — revenues from exports are in foreign currencies, while many costs are in renminbi. Currency appreciation puts pressure on margins.
 

@@ -13,7 +13,7 @@ handwritten: true
 
 > "Better cancer detection through a liquid biopsy test that reads the damage cells have already written into their own DNA, not just the tumor size doctors measure today."
 
-YD Bio Limited is a biotechnology company focused on translating two distinct therapeutic areas into clinical practice: blood-based cancer detection tests grounded in proprietary DNA methylation technology, and regenerative therapies for ocular diseases using corneal stem cells and exosomes. Founded as a Taipei-based biotech and taken public on the Nasdaq in August 2025 through a merger with Breeze Holdings Acquisition Corp, the company operates with partnerships that anchor its business model—licensed technology from EG BioMed on the diagnostics side and collaboration with 3D Global Biotech on ophthalmology—giving it both a clinical pipeline and a path to near-term revenue.
+[YD Bio](/ydes-stock/) Limited is a biotechnology company focused on translating two distinct therapeutic areas into clinical practice: blood-based cancer detection tests grounded in proprietary DNA methylation technology, and regenerative therapies for ocular diseases using corneal stem cells and exosomes. Founded as a Taipei-based biotech and taken public on the [Nasdaq](/nasdaq/) in August 2025 through a [merger](/merger/) with Breeze Holdings [Acquisition](/acquisition/) Corp, the company operates with partnerships that anchor its business model—licensed technology from EG BioMed on the diagnostics side and collaboration with 3D Global Biotech on ophthalmology—giving it both a clinical pipeline and a path to near-term revenue.
 
 ## Cancer detection through DNA methylation
 

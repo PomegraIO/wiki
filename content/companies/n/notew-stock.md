@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-FiscalNote Holdings, Inc. (NYSE: NOTE) was founded in 2013 as a response to a specific problem: for most organizations, understanding and tracking the evolving landscape of laws, regulations, and political trends was difficult and expensive. The company went public in 2022 through a merger with a special-purpose acquisition company and now serves corporations, nonprofits, and government agencies with software and data that illuminate what is happening in the policy world. Today, FiscalNote positions itself at the center of what it calls LegalTech and RegTech (regulatory technology), using artificial intelligence to analyze legislative documents, track policy developments, and forecast the probability and impact of proposed rules.
+FiscalNote Holdings, Inc. (NYSE: NOTE) was founded in 2013 as a response to a specific problem: for most organizations, understanding and tracking the evolving landscape of laws, regulations, and political trends was difficult and expensive. The company went public in 2022 through a [merger](/merger/) with a [special-purpose acquisition company](/special-purpose-acquisition-company/) and now serves corporations, nonprofits, and government agencies with software and data that illuminate what is happening in the policy world. Today, FiscalNote positions itself at the center of what it calls LegalTech and RegTech (regulatory technology), using artificial intelligence to analyze legislative documents, track policy developments, and forecast the probability and impact of proposed rules.
 
 ## The founding problem and early focus
 
@@ -77,6 +77,6 @@ Start with the company's 10-K filing (SEC CIK 0001823466), which discloses reven
 
 Monitor quarterly earnings calls for commentary on government-contract wins, expansion into new jurisdictions, and product roadmap announcements. New government contracts and geographic expansion are bullish signals; slowdowns would warrant concern.
 
-Watch for competitive announcements. If large software vendors (such as Salesforce or Microsoft) acquire or build competitive legislative-tracking products, or if OpenAI releases a specialized policy-analysis GPT, the competitive landscape would shift significantly.
+Watch for competitive announcements. If large software vendors (such as [Salesforce](/crm-stock/) or [Microsoft](/msft-stock/)) acquire or build competitive legislative-tracking products, or if OpenAI releases a specialized policy-analysis GPT, the competitive landscape would shift significantly.
 
 Finally, track regulatory developments around AI and data privacy. FiscalNote aggregates and analyzes vast amounts of government data; changes to how government data is classified or made available could affect the company's ability to serve customers and maintain its informational advantage.

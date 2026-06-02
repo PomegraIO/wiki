@@ -19,7 +19,7 @@ The company was built on the premise that software could consolidate government 
 
 This was a classic software-as-a-service (SaaS) opportunity: once built, the software could serve many customers with minimal additional cost per customer, allowing for high gross margins and predictable recurring subscription revenue. The addressable market was large — any corporation with meaningful federal or state regulatory exposure has need for this intelligence. And the product was sticky: once a customer built workflows around the platform and integrated it into their government-affairs operations, switching to a competitor was disruptive.
 
-The early years were typical of B2B SaaS: the company raised venture capital, focused on product development and customer acquisition, and accumulated losses as it invested in growth. The customers were initially government-relations professionals, lobbying shops, and large corporations with active policy teams. Each customer paid annual subscription fees, creating a growing base of recurring revenue that compounded over time.
+The early years were typical of B2B SaaS: the company raised venture capital, focused on product development and customer [acquisition](/acquisition/), and accumulated losses as it invested in growth. The customers were initially government-relations professionals, lobbying shops, and large corporations with active policy teams. Each customer paid annual subscription fees, creating a growing base of recurring revenue that compounded over time.
 
 ## Expansion and M&A
 
@@ -29,9 +29,9 @@ These acquisitions also allowed the company to serve adjacent markets: public-af
 
 ## Going public and the SaaS market cycle
 
-FiscalNote went public in 2021 (through a SPAC merger) in the midst of a period of robust appetite for SaaS companies. The public markets were valuing SaaS businesses on the basis of recurring-revenue growth, customer acquisition efficiency, and the path to profitability. FiscalNote, like other SaaS companies that went public in that era, benefited from strong investor enthusiasm for recurring-revenue models and the durability of SaaS margins.
+FiscalNote went public in 2021 (through a SPAC [merger](/merger/)) in the midst of a period of robust appetite for SaaS companies. The public markets were valuing SaaS businesses on the basis of recurring-revenue growth, customer acquisition efficiency, and the path to profitability. FiscalNote, like other SaaS companies that went public in that era, benefited from strong investor enthusiasm for recurring-revenue models and the durability of SaaS margins.
 
-However, SaaS valuations in 2021 reflected very optimistic growth assumptions, and as interest rates rose and investor sentiment shifted in 2022–2023, SaaS companies that had been trading at high multiples experienced sharp repricing. Companies were suddenly evaluated more on near-term profitability and cash flow rather than on long-term growth potential, and the valuation multiples applied to recurring revenue fell substantially.
+However, SaaS valuations in 2021 reflected very optimistic growth assumptions, and as [interest rates](/interest-rate/) rose and investor sentiment shifted in 2022–2023, SaaS companies that had been trading at high multiples experienced sharp repricing. Companies were suddenly evaluated more on near-term profitability and cash flow rather than on long-term growth potential, and the valuation multiples applied to recurring revenue fell substantially.
 
 ## The business model: recurring but concentrated
 
@@ -47,7 +47,7 @@ FiscalNote operates in a market where customers have genuine need for government
 
 Data quality and completeness are critical: if FiscalNote misses important legislative developments or regulatory filings, customers will supplement it with other sources or switch. The company must continuously invest in data infrastructure and machine learning to extract meaning from legislative text, regulatory filings, and public voting records.
 
-The market is also exposed to policy changes: if campaign-finance rules change, disclosure requirements shift, or legislative processes themselves evolve (e.g., if the use of AI or automation in legislative drafting accelerates), the value proposition and data requirements for FiscalNote's platform could shift. And the customer base's willingness to spend is exposed to their own business cycles: when corporations are facing cost pressures, government-affairs budgets are often the first to be cut.
+The market is also exposed to policy changes: if campaign-finance rules change, disclosure requirements shift, or legislative processes themselves evolve (e.g., if the use of AI or automation in legislative drafting accelerates), the value proposition and data requirements for FiscalNote's platform could shift. And the customer base's willingness to spend is exposed to their own [business cycles](/business-cycle/): when corporations are facing cost pressures, government-affairs budgets are often the first to be cut.
 
 ## From growth to profitability
 
@@ -59,7 +59,7 @@ This inflection — from a growth-at-all-costs playbook to one balanced toward p
 
 FiscalNote's revenue is ultimately dependent on whether corporations, lobbying firms, and policy organizations have the budget to spend on government-intelligence software. During periods of political uncertainty or regulatory intensity — when there is significant legislative activity, potential regulation, or policy changes relevant to customer industries — government-affairs budgets are robust and spending on tools to monitor and influence policy is justified.
 
-During periods of regulatory quiet or when corporate attention is directed toward other issues (cost control, inflation, supply-chain management), government-affairs budgets are compressed. Economic downturns typically squeeze all discretionary corporate spending, including government-relations. And changes in political leadership or legislative control can shift the perceived importance of monitoring policy and influence for particular customer sectors.
+During periods of regulatory quiet or when corporate attention is directed toward other issues (cost control, [inflation](/inflation/), supply-chain management), government-affairs budgets are compressed. Economic downturns typically squeeze all discretionary corporate spending, including government-relations. And changes in political leadership or legislative control can shift the perceived importance of monitoring policy and influence for particular customer sectors.
 
 ## Assessing the investment case
 

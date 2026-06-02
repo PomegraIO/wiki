@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-NIOCORP Developments is a mining company trying to build and operate a new mine in Nebraska. The mine would extract rare-earth elements and niobium — metals used in everything from jet engines to smartphones to wind turbines. The company is not yet in production. It spent years trying to get the project permitted, built out engineering plans, and raised money. Whether the mine ever actually operates is a real open question.
+[NIOCORP Developments](/nb-stock/) is a mining company trying to build and operate a new mine in Nebraska. The mine would extract rare-earth elements and niobium — metals used in everything from jet engines to smartphones to wind turbines. The company is not yet in production. It spent years trying to get the project permitted, built out engineering plans, and raised money. Whether the mine ever actually operates is a real open question.
 
 Mining development is a long, risky process. You find the ore deposit, estimate how much is there, do engineering work to figure out how to extract it profitably, get permits from regulators and local governments, secure financing, and then build the mine. Only then do you finally start mining and selling the metal. Each step can fail. A permit can be denied. Financing can dry up. The market price of the metal can crash before you finish building, destroying your economic case.
 

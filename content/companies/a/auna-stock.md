@@ -39,7 +39,7 @@ handwritten: true
 
 ## Building Healthcare Infrastructure Across Latin America
 
-AUNA is an integrated [healthcare services](/hcsg-stock/) platform operating an extensive network of hospitals, clinics, and insurance products across Mexico, Colombia, and Peru. The company delivers prepaid healthcare plans, specialized oncology insurance (particularly through Oncosalud Peru), dental and vision coverage, and pharmaceutical services. Founded in 1989, AUNA established itself as a regional operator before going [public](/wiki/public-company/) on the NYSE in early 2024, marking its entry into U.S. capital markets.
+AUNA is an integrated healthcare services platform operating an extensive network of hospitals, clinics, and insurance products across Mexico, Colombia, and Peru. The company delivers prepaid healthcare plans, specialized oncology insurance (particularly through Oncosalud Peru), dental and vision coverage, and pharmaceutical services. Founded in 1989, AUNA established itself as a regional operator before going [public](/wiki/public-company/) on the NYSE in early 2024, marking its entry into U.S. capital markets.
 
 The company's business model combines direct medical delivery with insurance underwriting, enabling it to serve patients across income levels and manage risk across operations. Its three-country footprint positions it within one of the world's fastest-growing healthcare markets, where chronic disease treatment and preventive care are expanding rapidly. Oncosalud Peru, a flagship operation, specializes in cancer care prepayment—a niche addressing treatment gaps in markets where out-of-pocket oncology spending poses financial hardship. This focus on specialized care differentiates AUNA from larger chains focused primarily on volume.
 

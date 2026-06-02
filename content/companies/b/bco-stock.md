@@ -20,7 +20,7 @@ keywords: ["armored car", "cash logistics", "security services", "cash-in-transi
 
 ## The Cash-Logistics Ecosystem and Its Economics
 
-Brinks operates at a critical point in the financial plumbing: the physical movement of cash from point of sale to [financial institutions](/fisi-stock/). A grocery chain, petrol station, or casino generates substantial daily cash volumes and faces security risks in storing and transporting it. Rather than employ its own fleet of armored vehicles and armed guards (capital intensive and liability-heavy), the retailer contracts with a specialized provider like Brinks. Brinks collects cash, transports it in armored vehicles, deposits it at banks, and provides reconciliation and reporting. The retailer pays a fee (usually a percentage of the total value transported, or a fixed per-pickup rate).
+Brinks operates at a critical point in the financial plumbing: the physical movement of cash from point of sale to financial institutions. A grocery chain, petrol station, or casino generates substantial daily cash volumes and faces security risks in storing and transporting it. Rather than employ its own fleet of armored vehicles and armed guards (capital intensive and liability-heavy), the retailer contracts with a specialized provider like Brinks. Brinks collects cash, transports it in armored vehicles, deposits it at banks, and provides reconciliation and reporting. The retailer pays a fee (usually a percentage of the total value transported, or a fixed per-pickup rate).
 
 The business model appears durable: as long as cash exists and moves, someone must transport it securely. However, the premise masks a critical problem: cash volumes are declining. Debit and credit cards, digital wallets, and contactless payments are steadily replacing cash transactions in developed markets. Some developed nations (Denmark, Sweden) have nearly eliminated cash; the United States, which still carries substantial currency, is following slowly behind.
 
@@ -80,7 +80,7 @@ Labor relations are also a potential risk. Brinks' driver and guard workforce ha
 
 As a mature business generating substantial cash, Brinks likely carries debt to fund acquisitions, capital expenditures, and shareholder returns ([dividends](/dividend/) and buybacks). The 10-K will disclose debt levels, interest coverage, and credit facility terms. Key metrics:
 
-- **Net debt to EBITDA**: For a mature company, ratios above 3x are elevated; below 2x is conservative. Brinks should have capacity to fund operations and modest growth without financial stress.
+- **[Net debt](/net-debt/) to [EBITDA](/ebitda/)**: For a mature company, ratios above 3x are elevated; below 2x is conservative. Brinks should have capacity to fund operations and modest growth without financial stress.
 - **Interest coverage**: Operating income (EBIT) divided by interest expense should exceed 3x comfortably. Below 2x raises concerns about financial flexibility.
 - **Covenant compliance**: If Brinks has credit facilities, the 10-K should disclose any covenants (e.g., maximum [leverage ratios](/leverage-ratio-forex/)). Near-compliance with covenants is a warning sign.
 

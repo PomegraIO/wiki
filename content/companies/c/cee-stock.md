@@ -25,7 +25,7 @@ The fund is managed by Deutsche Asset Management International GmbH and invests 
 
 The fund's portfolio is concentrated in countries that are relatively developed within the region: Poland, Hungary, and the Czech Republic dominate holdings, as these countries have the largest, most liquid stock markets and the clearest track record of economic stability. The fund also maintains smaller positions in countries including Slovenia, Slovakia, and other nations in the broader Central and Eastern European zone.
 
-Within those countries, the fund's holdings span major sectors of economic activity—financial services companies, energy firms, telecommunications operators, and manufacturers. [Financial institutions](/fisi-stock/) typically represent a meaningful portion of the portfolio because banking sectors across the region have consolidated and modernized substantially since the 1990s and are now major employers and profit generators. Energy exposure is also common, partly because the region's geography and geopolitical position give energy companies strategic importance.
+Within those countries, the fund's holdings span major sectors of economic activity—financial services companies, energy firms, telecommunications operators, and manufacturers. Financial institutions typically represent a meaningful portion of the portfolio because banking sectors across the region have consolidated and modernized substantially since the 1990s and are now major employers and profit generators. Energy exposure is also common, partly because the region's geography and geopolitical position give energy companies strategic importance.
 
 ## The capital story: Why a closed-end fund?
 

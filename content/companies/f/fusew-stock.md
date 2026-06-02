@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Fusemachines began in 2013 as a venture-backed startup focused on AI education in Nepal and South Asia. Over a decade, the company evolved into a dual-revenue model: a software products business selling enterprise AI platforms to large clients, and an education arm offering training and fellowships in emerging markets. In October 2025, Fusemachines completed a SPAC merger with CSLM Acquisition Corp., going public on Nasdaq under the symbols FUSE (common shares) and FUSEW (warrants) at an $200 million valuation.
+Fusemachines began in 2013 as a venture-backed startup focused on AI education in Nepal and South Asia. Over a decade, the company evolved into a dual-revenue model: a software products business selling enterprise AI platforms to large clients, and an education arm offering training and fellowships in emerging markets. In October 2025, Fusemachines completed a SPAC [merger](/merger/) with CSLM [Acquisition](/acquisition/) Corp., going public on [Nasdaq](/nasdaq/) under the symbols FUSE (common shares) and FUSEW (warrants) at an $200 million valuation.
 
 ## The products and the customer base
 
@@ -27,9 +27,9 @@ Fusemachines' second business is its AI Fellowship Program, an intensive, partly
 
 Fusemachines faces a classic software-services tension. Services are labor-intensive, time-bounded, and yield high gross revenue but lower gross margins (typically 40–60 percent). Software subscriptions are sticky and high-margin but require large upfront selling costs and longer sales cycles. Fusemachines has a foot in both camps and the margins are being squeezed from both directions.
 
-**First, product competition.** The enterprise AI space is crowded. Google Cloud, Amazon Web Services, Microsoft Azure, and specialized vendors like Databricks and Hugging Face all sell AI development platforms. Larger players can afford to price aggressively and bundle AI tools into bigger cloud contracts. Fusemachines must differentiate on speed to value or ease of use in specific verticals (healthcare, finance) rather than compete on scale or price.
+**First, product competition.** The enterprise AI space is crowded. Google Cloud, Amazon Web Services, [Microsoft](/msft-stock/) Azure, and specialized vendors like Databricks and Hugging Face all sell AI development platforms. Larger players can afford to price aggressively and bundle AI tools into bigger cloud contracts. Fusemachines must differentiate on speed to value or ease of use in specific verticals (healthcare, finance) rather than compete on scale or price.
 
-**Second, services commoditization.** If Fusemachines' services become interchangeable with consulting from Deloitte, Accenture, or IBM—or if enterprises decide to hire their own AI engineers rather than pay for integration services—Fusemachines will be trapped in a services business with 10–20 percent annual growth and low retention. The strategic play is to shift revenue toward software, but that requires customers to choose Fusemachines' platform over the alternatives, which is not guaranteed.
+**Second, services commoditization.** If Fusemachines' services become interchangeable with consulting from Deloitte, [Accenture](/acn-stock/), or IBM—or if enterprises decide to hire their own AI engineers rather than pay for integration services—Fusemachines will be trapped in a services business with 10–20 percent annual growth and low retention. The strategic play is to shift revenue toward software, but that requires customers to choose Fusemachines' platform over the alternatives, which is not guaranteed.
 
 **Third, capital efficiency.** The SPAC merger raised $200 million at a time when public-market skepticism toward AI-focused software companies is high. Management must deploy that capital to expand the customer base and accelerate product adoption before investor patience for growth-without-profitability erodes further.
 
@@ -43,7 +43,7 @@ Anyone tracking Fusemachines should watch:
 
 - **Recurring revenue growth and churn.** Is the software business (AI Studio and Engines subscriptions) growing faster than services? Are customers renewing at high rates, or is retention slipping?
 - **Gross margins.** Services margins should improve over time if the company can shift to more self-service implementations. If they remain stuck in the 40–50 percent range, the business is services-bound.
-- **Customer concentration.** If two or three customers represent a disproportionate share of revenue, the company is not scalable yet and faces concentration risk.
+- **Customer concentration.** If two or three customers represent a disproportionate share of revenue, the company is not scalable yet and faces [concentration risk](/concentration-risk/).
 - **Cash burn and path to profitability.** At what revenue level does the company reach break-even, and how many years of cash does management expect to burn before getting there?
 - **Competitive wins and losses.** Which enterprises choose Fusemachines over the cloud giants, and why? Track announcement velocity.
 

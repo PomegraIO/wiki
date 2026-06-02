@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Montage Technology is a Chinese semiconductor design firm whose work sits invisibly inside the infrastructure that trains and runs large artificial intelligence models. The company does not manufacture chips directly — it designs the interface logic that moves data between memory and processors, a specialization that has grown critical as AI accelerators demand faster memory bandwidth and lower latency. The company debuted on the Hong Kong Stock Exchange in February 2026 and trades in the United States as MNTGY via American Depositary Receipts.
+Montage Technology is a Chinese semiconductor design firm whose work sits invisibly inside the infrastructure that trains and runs large artificial intelligence models. The company does not manufacture chips directly — it designs the interface logic that moves data between memory and processors, a specialization that has grown critical as AI accelerators demand faster memory bandwidth and lower latency. The company debuted on the [Hong Kong Stock Exchange](/hong-kong-stock-exchange/) in February 2026 and trades in the United States as MNTGY via [American Depositary Receipts](/adr/).
 
 <aside class="wiki-infobox">
 <table>
@@ -31,7 +31,7 @@ A data centre full of AI accelerators is useless without a way to feed data into
 
 The company designs the chips that sit between memory modules and processors, translating signals, retiming clock pulses, and expanding the bandwidth that memory systems can deliver. The most visible of these products are PCIe retimers — chips that restore signal integrity over long interconnect distances — and MRCD and MDB chipsets designed for DDR5 Multiplexed Rank DIMMs, a new memory architecture that stacks more capacity and bandwidth into a server slot.
 
-None of this work appears in marketing or reaches consumers directly. Montage's customers are the manufacturers of memory (Samsung, SK Hynix, Micron), the makers of server processors (Intel, AMD), and the system integrators who assemble servers and AI clusters. The value the company creates is measured in microseconds of latency saved and percentages of memory bandwidth unlocked — invisible to everyone except the engineers and accountants tracking data-centre efficiency.
+None of this work appears in marketing or reaches consumers directly. Montage's customers are the manufacturers of memory (Samsung, SK Hynix, Micron), the makers of server processors ([Intel](/intc-stock/), AMD), and the system integrators who assemble servers and AI clusters. The value the company creates is measured in microseconds of latency saved and percentages of memory bandwidth unlocked — invisible to everyone except the engineers and accountants tracking data-centre efficiency.
 
 ## Why Montage's dominance in a small market matters
 
@@ -39,7 +39,7 @@ Memory interconnect is a narrow, specialized field. Very few companies design th
 
 When a memory manufacturer qualifies a Montage chip in their products and a server vendor designs that chipset into their systems, the installed base creates a switching cost. Replacing Montage means re-qualifying new chips, validating them in servers, and managing the disruption across thousands of systems already deployed. That switching friction, and the lack of any obvious alternative supplier at Montage's scale, gives the company pricing power and a durable market position.
 
-The business is also highly scalable. Adding manufacturing capacity requires neither new fabs nor new foundries — Montage contracts fabrication to partners like Taiwan Semiconductor Manufacturing Company, paying per-unit costs that fall as volume rises. The company can capture incremental demand without major capital outlay, a structure that translates fab volume into pure profit margin once the initial design work is done.
+The business is also highly scalable. Adding manufacturing capacity requires neither new fabs nor new foundries — Montage contracts fabrication to partners like [Taiwan Semiconductor Manufacturing](/tsm-stock/) Company, paying per-unit costs that fall as volume rises. The company can capture incremental demand without major capital outlay, a structure that translates fab volume into pure profit margin once the initial design work is done.
 
 ## The AI boom as tailwind
 

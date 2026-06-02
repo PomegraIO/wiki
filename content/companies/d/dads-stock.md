@@ -27,27 +27,27 @@ The Digital Asset Debt Strategy ETF (NYSE Arca: DADS) is an exchange-traded fund
 
 ## What the fund tracks
 
-DADS targets debt instruments issued by or collateralised by digital assets. This includes loans backed by cryptocurrency holdings, yield-bearing tokens from decentralized lending protocols such as Compound or Aave, and fixed-income products denominated in stablecoins. The fund seeks to capture the interest and fees generated across these on-chain lending markets without direct exposure to underlying token price movements.
+DADS targets debt instruments issued by or collateralised by digital assets. This includes loans backed by cryptocurrency holdings, yield-bearing tokens from decentralized lending protocols such as Compound or Aave, and fixed-income products denominated in [stablecoins](/stablecoin/). The fund seeks to capture the interest and fees generated across these on-chain lending markets without direct exposure to underlying token price movements.
 
-The holdings typically span multiple blockchain networks — Ethereum, Polygon, and others — and include both protocol-native debt tokens and derivative instruments that represent claims on lending pools. Because the assets are blockchain-native, settlement happens on-chain, and the fund's operations depend on regular rebalancing and yield collection from these protocols.
+The holdings typically span multiple blockchain networks — [Ethereum](/ethereum/), Polygon, and others — and include both protocol-native debt tokens and derivative instruments that represent claims on lending pools. Because the assets are blockchain-native, settlement happens on-chain, and the fund's operations depend on regular rebalancing and yield collection from these protocols.
 
 ## Strategy and objective
 
-The fund's stated objective is to provide current income with some capital appreciation, targeting higher yields than traditional fixed-income securities. It does this by following a systematic approach to identifying lending opportunities within decentralized finance. The holdings are selected to balance yield potential against concentration risk — a crucial concern given that some on-chain lending protocols remain small relative to traditional credit markets.
+The fund's stated objective is to provide current income with some capital appreciation, targeting higher yields than traditional fixed-income securities. It does this by following a systematic approach to identifying lending opportunities within decentralized finance. The holdings are selected to balance yield potential against [concentration risk](/concentration-risk/) — a crucial concern given that some on-chain lending protocols remain small relative to traditional credit markets.
 
-Unlike a traditional bond fund, DADS does not seek a specific maturity or duration. Instead, it rebalances periodically to maintain exposure to the highest-yielding, most liquid debt positions. This means the fund's composition can shift meaningfully quarter to quarter as protocols gain or lose market share, as new lending opportunities emerge, or as yields compress.
+Unlike a traditional [bond](/bond/) fund, DADS does not seek a specific maturity or duration. Instead, it rebalances periodically to maintain exposure to the highest-yielding, most liquid debt positions. This means the fund's composition can shift meaningfully quarter to quarter as protocols gain or lose market share, as new lending opportunities emerge, or as yields compress.
 
 ## Sponsor, structure, and costs
 
-The fund is structured as a standard exchange-traded fund, meaning shares trade intraday on a stock exchange and carry an expense ratio for management and administrative costs. The sponsor handles daily rebalancing, collects distributions from the underlying protocols, and manages the logistics of holding and accessing on-chain assets. Because the underlying assets are not held by traditional custodians, the sponsor must employ specialised custody partners with blockchain expertise.
+The fund is structured as a standard exchange-traded fund, meaning shares trade intraday on a [stock exchange](/stock-exchange/) and carry an [expense ratio](/expense-ratio/) for management and administrative costs. The sponsor handles daily rebalancing, collects distributions from the underlying protocols, and manages the logistics of holding and accessing on-chain assets. Because the underlying assets are not held by traditional [custodians](/custodian/), the sponsor must employ specialised custody partners with blockchain expertise.
 
-The expense ratio is modest relative to active management but carries implicit trading costs due to the rebalancing required to maintain the fund's strategy. Trading volumes on the underlying protocols can vary, and wide bid-ask spreads in less liquid debt positions may slow rebalancing or increase costs during market stress.
+The expense ratio is modest relative to active management but carries implicit trading costs due to the rebalancing required to maintain the fund's strategy. Trading volumes on the underlying protocols can vary, and wide [bid-ask spreads](/bid-ask-spread/) in less liquid debt positions may slow rebalancing or increase costs during market stress.
 
 ## Risks and limitations
 
 Decentralized finance remains young and highly volatile. The protocols underlying the fund's holdings face technical and security risks — smart-contract bugs, exploits, and outright collapse have wiped out capital for lenders before. Concentration risk is real: the largest lending protocols still have relatively small total lending pools, so a loss event at a major protocol can materially hurt returns.
 
-Regulatory uncertainty is substantial. Governments worldwide are still determining how to treat on-chain lending and stablecoin issuance. New rules could restrict which protocols the fund can hold or require redemption of positions, disrupting returns. Operational risk is also present — the fund depends on custody partners and on-chain infrastructure that have limited track records at scale.
+Regulatory uncertainty is substantial. Governments worldwide are still determining how to treat on-chain lending and stablecoin issuance. New rules could restrict which protocols the fund can hold or require redemption of positions, disrupting returns. [Operational risk](/operational-risk/) is also present — the fund depends on custody partners and on-chain infrastructure that have limited track records at scale.
 
 Tracking error — the difference between the fund's returns and its stated benchmark — tends to be wider than in traditional bond or equity funds, partly because the underlying debt instruments lack standardized pricing and partly because protocol yields fluctuate rapidly.
 

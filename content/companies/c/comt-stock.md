@@ -28,11 +28,11 @@ handwritten: true
 
 </aside>
 
-*COMT (iShares GSCI Commodity Dynamic Roll Strategy ETF) holds a basket of commodity futures contracts spanning energy, metals, and agriculture, weighted by global production and liquidity. It rebalances futures contracts dynamically as they near expiration, attempting to minimize contango drag and maximize backwardation capture — a tactical refinement that separates it from static rolling commodity funds.*
+*COMT (iShares GSCI Commodity Dynamic Roll Strategy ETF) holds a basket of commodity [futures contracts](/futures-contract/) spanning energy, metals, and agriculture, weighted by global production and liquidity. It rebalances futures contracts dynamically as they near expiration, attempting to minimize [contango](/contango/) drag and maximize [backwardation](/backwardation/) capture — a tactical refinement that separates it from static rolling commodity funds.*
 
 ## What the GSCI holds and how it weights them
 
-The Goldman Sachs Commodity Index sits at the heart of COMT. It is not a fixed portfolio of commodities but rather a rules-based, production-weighted index that reflects what the world actually produces and trades. Crude oil and natural gas dominate — typically 50–65% of the index — because energy is the largest global commodity market. Gold comprises 15–20% due to its liquidity and role as a store of value. Agricultural products (corn, soybeans, wheat, sugar) round out the remainder, along with industrial metals like copper and aluminum.
+The [Goldman Sachs](/goldman-sachs/) Commodity Index sits at the heart of COMT. It is not a fixed portfolio of commodities but rather a rules-based, production-weighted index that reflects what the world actually produces and trades. [Crude oil](/crude-oil/) and [natural gas](/natural-gas/) dominate — typically 50–65% of the index — because energy is the largest global commodity market. Gold comprises 15–20% due to its liquidity and role as a store of value. Agricultural products (corn, soybeans, wheat, sugar) round out the remainder, along with industrial metals like copper and aluminum.
 
 This production weighting means COMT is not equally exposed to all commodities. Wheat gets a smaller allocation than crude oil not because wheat is less important, but because the global crude market is far larger. That weighting reflects reality, but it also means crude oil shocks dominate the fund's returns. A major disruption in oil supply or demand ripples through COMT immediately.
 
@@ -40,7 +40,7 @@ This production weighting means COMT is not equally exposed to all commodities. 
 
 COMT holds contracts that expire. A crude oil futures contract settles in a specific month — March 2026, April 2026, and so on. As that contract approaches settlement, COMT must sell it and buy a later-month contract, a process called rolling. This rolling incurs a cost that depends on the shape of the futures curve.
 
-When the curve is in contango (forward contracts cost more than nearby ones), rolling is costly: the fund sells a cheaper contract and buys a more expensive one, locking in a loss. When the curve is in backwardation (forward contracts are cheaper), rolling is profitable: the fund sells at a higher price and buys lower.
+When the curve is in contango ([forward contracts](/forward-contract/) cost more than nearby ones), rolling is costly: the fund sells a cheaper contract and buys a more expensive one, locking in a loss. When the curve is in backwardation (forward contracts are cheaper), rolling is profitable: the fund sells at a higher price and buys lower.
 
 ## Dynamic rolling versus static rolling
 
@@ -56,11 +56,11 @@ Contango risk persists. Even with dynamic rolling, COMT cannot avoid contango wh
 
 ## Expense and liquidity
 
-The expense ratio of roughly 0.70–0.75% annually is efficient for a commodity index fund managing complex rolling operations. This is substantially cheaper than actively managed commodity funds but higher than a broad stock index ETF. COMT trades with reasonable liquidity on major exchanges; retail investors can enter and exit without wide spreads, though volume fluctuates with commodity market sentiment.
+The [expense ratio](/expense-ratio/) of roughly 0.70–0.75% annually is efficient for a [commodity index fund](/commodity-index-fund/) managing complex rolling operations. This is substantially cheaper than actively managed commodity funds but higher than a broad stock index ETF. COMT trades with reasonable liquidity on major exchanges; retail investors can enter and exit without wide spreads, though volume fluctuates with commodity market sentiment.
 
 ## Who uses COMT and how
 
-Portfolio managers and retail investors hold COMT as a diversifier from stocks and bonds, or as a tactical inflation hedge. The theory is that commodities tend to rise when inflation is high or accelerating and when central banks are accommodative. Systematic trend-following traders use COMT because its rolling strategy is published and transparent — they can model the fund's expected moves and front-run or hedge accordingly.
+Portfolio managers and retail investors hold COMT as a diversifier from stocks and [bonds](/bond/), or as a tactical [inflation](/inflation/) hedge. The theory is that commodities tend to rise when inflation is high or accelerating and when [central banks](/central-bank/) are accommodative. Systematic trend-following traders use COMT because its rolling strategy is published and transparent — they can model the fund's expected moves and front-run or hedge accordingly.
 
 ## Research and monitoring
 

@@ -29,7 +29,7 @@ handwritten: true
 
 ## What companies does this fund hold?
 
-ISHP's portfolio concentrates on operators and enablers of e-commerce. This includes online-only retailers, traditional retailers that have built digital channels, marketplace platforms, payment processors that handle online transactions, logistics firms that manage last-mile delivery, and software companies that power online storefronts. The fund is weighted by market capitalization, so the largest public e-commerce operators carry the highest weights.
+ISHP's portfolio concentrates on operators and enablers of e-commerce. This includes online-only retailers, traditional retailers that have built digital channels, marketplace platforms, payment processors that handle online transactions, logistics firms that manage last-mile delivery, and software companies that power online storefronts. The fund is weighted by [market capitalization](/market-capitalization/), so the largest public e-commerce operators carry the highest weights.
 
 The sector itself is broad. A single fund holding can range from a pure-play online retailer to a payment processor to a warehouse automation company. The unifying thread is that without that company, online shopping would work less well or not at all.
 
@@ -37,7 +37,7 @@ The sector itself is broad. A single fund holding can range from a pure-play onl
 
 E-commerce as a category has shifted from novelty to essential infrastructure. Online shopping is a permanent part of consumer behaviour in developed markets, and the firms that facilitate it enjoy steady traffic, recurring relationships, and high switching costs once customers are embedded. For investors, the appeal is a bet on the ongoing maturation of digital retail rather than on one company's execution.
 
-The fund's returns depend on the profitability and growth of its constituent companies. In good years, when consumers spend freely online and competition does not crush margins, e-commerce operators enjoy strong earnings growth. In weak years — recessions, spikes in shipping costs, excess inventory — the sector can underperform as retailers cut spending. The sector is also sensitive to interest rates. Investors chase growth at any price during periods of low rates and low inflation; they trim exposure when rates rise and growth becomes less fashionable.
+The fund's returns depend on the profitability and growth of its constituent companies. In good years, when consumers spend freely online and competition does not crush margins, e-commerce operators enjoy strong earnings growth. In weak years — [recessions](/recession/), spikes in shipping costs, excess inventory — the sector can underperform as retailers cut spending. The sector is also sensitive to [interest rates](/interest-rate/). Investors chase growth at any price during periods of low rates and low [inflation](/inflation/); they trim exposure when rates rise and growth becomes less fashionable.
 
 Currency fluctuations matter if the fund holds significant foreign exposure. Some logistics and payment companies operate internationally, so movements in the euro or yen can lift or drag reported earnings.
 
@@ -53,6 +53,6 @@ Technological disruption is constant. Supply-chain innovations, changes in consu
 
 Start with the prospectus to see the exact S-Network E-Commerce Index methodology. Confirm the geographic breakdown — whether the fund is purely US or includes international e-commerce players. Check the largest holdings to understand the fund's character; if Amazon or Alibaba dominates, the fund is largely a concentrated bet on a few giants. If holdings are more diffuse, the fund is a broader basket play.
 
-Watch the fund's trailing twelve-month return in the context of the broader e-commerce index and peer funds in the consumer discretionary space. A wide performance gap could indicate high costs, tracking error, or currency movements. Compare the fund's expense ratio to alternatives; different sponsors offer competing e-commerce ETFs with varying compositions and costs.
+Watch the fund's trailing twelve-month return in the context of the broader e-commerce index and peer funds in the consumer discretionary space. A wide performance gap could indicate high costs, tracking error, or currency movements. Compare the fund's [expense ratio](/expense-ratio/) to alternatives; different sponsors offer competing e-commerce ETFs with varying compositions and costs.
 
 Finally, be clear on your thesis. If you are buying ISHP because you believe e-commerce will continue to take share from physical retail and you want broad exposure, this fund is suitable. If you are betting on a specific company's dominance — say, one particular marketplace — you are better served by owning that stock directly.

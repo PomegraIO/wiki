@@ -34,7 +34,7 @@ However, the commodity channel is subject to wholesale gas prices, electricity m
 
 ## Competitive Landscape and Market Fragmentation
 
-The methane-capture and waste-gas-management space is populated by regional specialists, engineering firms offering environmental services, utilities managing their own landfill gas, and newer clean-tech startups. No dominant national or global player has yet consolidated the segment. This fragmentation reflects the regional nature of [waste management](/wm-stock/) and the site-by-site customization required.
+The methane-capture and waste-gas-management space is populated by regional specialists, engineering firms offering environmental services, utilities managing their own landfill gas, and newer clean-tech startups. No dominant national or global player has yet consolidated the segment. This fragmentation reflects the regional nature of waste management and the site-by-site customization required.
 
 CH4 competes against both direct rivals (other environmental service firms) and against the internal capabilities of large waste operators. Waste Management Inc, Swana (Solid Waste Association of North America), and other industry incumbents could theoretically internalize methane-capture operations or develop partnerships with technology providers. CH4's differentiation depends on having proprietary technology, operational expertise that justifies outsourcing, or scale that allows it to offer customer rates superior to what waste operators can achieve independently.
 

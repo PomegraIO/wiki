@@ -30,7 +30,7 @@ Local Bounti was founded as a venture to commercialize vertical farming at a tim
 
 The initial facilities were small and extremely expensive relative to their output. A vertical farm requires significant upfront investment in structure, lighting (LED systems consume substantial electricity), climate control, and automation to plant, monitor, and harvest crops. Early operations struggled with unit economics — the cost to grow a pound of lettuce exceeded what grocery stores would pay for it. But the company expanded operations gradually, building more farms and refining processes as volumes increased.
 
-Local Bounti went public through a SPAC merger, raising capital to fund the buildout of additional farms. The company's narrative was appealing to investors and farmers alike: move agriculture indoors, eliminate pesticides, reduce water consumption by 95 percent compared to field agriculture, and place the farm near the consumer rather than thousands of miles away. The Millennial and Gen Z consumers the company targeted saw vertical farming as the future — sustainable, local, and transparent.
+Local Bounti went public through a SPAC [merger](/merger/), raising capital to fund the buildout of additional farms. The company's narrative was appealing to investors and farmers alike: move agriculture indoors, eliminate pesticides, reduce water consumption by 95 percent compared to field agriculture, and place the farm near the consumer rather than thousands of miles away. The Millennial and Gen Z consumers the company targeted saw vertical farming as the future — sustainable, local, and transparent.
 
 ## How the economics work: the hardware bet
 
@@ -52,13 +52,13 @@ Regulatory risks are modest — the company grows in the United States, subject 
 
 ## Capital intensity and the path to profitability
 
-Local Bounti is a capital-intensive business. Each new facility requires millions of dollars in construction and equipment before it grows a single plant. The company has raised capital from venture investors, the SPAC merger, and has worked to access debt financing to fund this expansion. The path to profitability depends on running existing facilities at high utilization and margin before building new ones, rather than expanding perpetually in hopes that scale and learning curves will eventually make the unit economics work.
+Local Bounti is a capital-intensive business. Each new facility requires millions of dollars in construction and equipment before it grows a single plant. The company has raised capital from venture investors, the SPAC merger, and has worked to access [debt financing](/debt-financing/) to fund this expansion. The path to profitability depends on running existing facilities at high utilization and margin before building new ones, rather than expanding perpetually in hopes that scale and learning curves will eventually make the unit economics work.
 
 The company's long-term viability rests on three bets: that vertical farming's cost curves will continue to improve as the industry matures, that consumers and retailers will sustain a preference for locally grown produce even if field agriculture becomes cheaper, and that the company can raise sufficient capital to reach scale before investors lose patience. All three are uncertain.
 
 ## How to research Local Bounti
 
-Start with the 10-K filing (SEC CIK 0001840780), which details the number of operating facilities, square footage under production, crops grown, and revenue per facility. The company discloses greenhouse operating margins and identifies the largest customers, which retail or foodservice chains account for sales.
+Start with the 10-K filing (SEC CIK 0001840780), which details the number of operating facilities, square footage under production, crops grown, and revenue per facility. The company discloses greenhouse [operating margins](/operating-margin/) and identifies the largest customers, which retail or foodservice chains account for sales.
 
 Watch key metrics closely: revenue per square foot of growing space, yield trends, electricity costs as a percentage of revenue, and customer concentration. A few large retailers might account for most of the business, which creates vulnerability if a customer reduces orders or finds cheaper produce elsewhere. The company's commentary on unit economics — whether new facilities are expected to be profitable faster than earlier ones — reveals whether the learning curve is working or whether the business remains structurally challenged.
 

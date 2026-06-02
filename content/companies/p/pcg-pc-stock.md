@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-PG&E Corp is a utility holding company structured to own and oversee Pacific Gas and Electric Company, one of the largest energy distributors in America. The company operates as a regulated monopoly serving roughly 16 million people across approximately 70,000 square miles of central, coastal, and northern California. Its principal business is distributing natural gas and electricity to residential, commercial, and industrial customers. The preferred shares trading under ticker PCG-PC are a distinct class of equity, senior to common stock and carrying a fixed dividend backed by the utility's regulated cash flows.
+PG&E Corp is a utility holding company structured to own and oversee Pacific Gas and Electric Company, one of the largest energy distributors in America. The company operates as a regulated monopoly serving roughly 16 million people across approximately 70,000 square miles of central, coastal, and northern California. Its principal business is distributing [natural gas](/natural-gas/) and electricity to residential, commercial, and industrial customers. The preferred shares trading under ticker PCG-PC are a distinct class of equity, senior to [common stock](/common-stock/) and carrying a fixed [dividend](/dividend/) backed by the utility's regulated cash flows.
 
 <aside class="wiki-infobox">
 <table>
@@ -44,19 +44,19 @@ Natural gas operations also carry infrastructure and regulatory risks. PG&E's pi
 
 ## The preferred share capital structure
 
-PG&E's preferred shares (including PCG-PC) are issued by the holding company and occupy a middle layer in the capital structure. They are senior to common stock—they receive dividends before common shareholders do, and in a liquidation they are paid ahead of equity holders. But they are junior to all debt. If PG&E faced a severe financial crisis, preferred holders would lose money ahead of bond holders.
+PG&E's preferred shares (including PCG-PC) are issued by the holding company and occupy a middle layer in the capital structure. They are senior to common stock—they receive dividends before common shareholders do, and in a [liquidation](/liquidation/) they are paid ahead of equity holders. But they are junior to all debt. If PG&E faced a severe financial crisis, preferred holders would lose money ahead of [bond](/bond/) holders.
 
-Preferred shares in a regulated utility are less risky than common stock because the dividend is fixed and backed by stable utility cash flows. But they are less safe than bonds because they have no maturity date, no legal claim to repayment of principal, and are subject to the issuer's financial health. When PG&E entered bankruptcy in 2020, preferred shares from before the restructuring were cancelled. The preferred shares trading today were issued as part of the post-bankruptcy recapitalization, and they reflect the risks of the modern PG&E.
+Preferred shares in a regulated utility are less risky than common stock because the dividend is fixed and backed by stable utility cash flows. But they are less safe than bonds because they have no maturity date, no legal claim to repayment of principal, and are subject to the issuer's financial health. When PG&E entered bankruptcy in 2020, preferred shares from before the restructuring were cancelled. The preferred shares trading today were issued as part of the post-bankruptcy [recapitalization](/recapitalization/), and they reflect the risks of the modern PG&E.
 
 The dividend on PCG-PC is quoted as a fixed percentage of the issue price (often around 5–6%, depending on the specific series and market conditions at issuance). That dividend is paid quarterly and is typically reliable—the company has strong incentive to maintain it—but is not guaranteed. If PG&E's financial position deteriorated severely, the preferred dividend could be cut, though the company would face significant credit and investor-relations consequences for doing so.
 
 ## Regulatory relationships and rate setting
 
-PG&E's earnings, and therefore the security of all claims on the company, ultimately depend on the California Public Utilities Commission. The regulator approves rates, capital spending, and the allowed return on equity. This is both stabilizing and constraining.
+PG&E's earnings, and therefore the security of all claims on the company, ultimately depend on the California Public Utilities Commission. The regulator approves rates, capital spending, and the allowed [return on equity](/return-on-equity/). This is both stabilizing and constraining.
 
 Stabilizing because, in a well-functioning regulatory relationship, the company can rely on earning a reasonable return if it operates prudently and invests in required infrastructure. The CPUC has shown willingness to approve large rate increases when the utility can demonstrate that the money is going to essential infrastructure like grid hardening or pipeline replacement.
 
-Constraining because the company cannot simply raise prices on its own; it must make its case to regulators, and the process takes time. When inflation accelerates or unexpected costs arise, the company may face a lag before it can recover them through higher rates. Political pressure can also cap rates below the level the company argues is necessary. And if regulators lose confidence in the utility's management or safety practices, rate increases may be denied or conditioned on operational improvements.
+Constraining because the company cannot simply raise prices on its own; it must make its case to regulators, and the process takes time. When [inflation](/inflation/) accelerates or unexpected costs arise, the company may face a lag before it can recover them through higher rates. Political pressure can also [cap rates](/cap-rate/) below the level the company argues is necessary. And if regulators lose confidence in the utility's management or safety practices, rate increases may be denied or conditioned on operational improvements.
 
 ## Pressures and long-term shifts
 
@@ -68,4 +68,4 @@ The company also faces aging infrastructure across both networks. Much of PG&E's
 
 Anyone considering or holding preferred shares in PG&E should review the company's 10-K filing and quarterly earnings reports, available through the SEC. More importantly, track filings with the California Public Utilities Commission, particularly rate cases and the Integrated Resource Plan. These regulatory documents reveal the company's long-term capital needs, expected rate increases, and the regulator's confidence in the company.
 
-Key metrics include the company's credit rating (a decline signals financial stress), the interest-coverage ratio on debt, and the safety of the preferred dividend relative to earnings. Watch for any regulatory orders that surprise the market or suggest a deterioration in the relationship between PG&E and the CPUC. The shares trade on the NASDAQ and other venues at prices set by the market; this discussion is meant only to illuminate how the business works and where its structural strengths and vulnerabilities sit.
+Key metrics include the company's [credit rating](/credit-rating/) (a decline signals financial stress), the interest-coverage ratio on debt, and the safety of the preferred dividend relative to earnings. Watch for any regulatory orders that surprise the market or suggest a deterioration in the relationship between PG&E and the CPUC. The shares trade on the [NASDAQ](/nasdaq/) and other venues at prices set by the market; this discussion is meant only to illuminate how the business works and where its structural strengths and vulnerabilities sit.

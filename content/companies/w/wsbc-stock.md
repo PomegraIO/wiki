@@ -45,7 +45,7 @@ WesBanco is not threatened by big national banks coming into its region. Yes, ev
 
 That relationship is the moat. It is hard to copy. It takes decades to build trust in a community. WesBanco has had 150+ years to build it. The big national banks have the money and the scale, but they cannot move as fast or think as locally. They have rules and algorithms. WesBanco has judgment and relationships.
 
-Real estate lending is another advantage. WesBanco has relationships with local developers, property managers, and real estate [brokers](/broker/). It knows the local market—which neighborhoods are up-and-coming, which are declining, what a fair rent is, how to price risk. A [national bank](/nbhc-stock/) has to hire local experts to compete. WesBanco already is the local expert.
+Real estate lending is another advantage. WesBanco has relationships with local developers, property managers, and real estate [brokers](/broker/). It knows the local market—which neighborhoods are up-and-coming, which are declining, what a fair rent is, how to price risk. A national bank has to hire local experts to compete. WesBanco already is the local expert.
 
 ## The risks and the pressure
 

@@ -4,7 +4,7 @@ description: "Fat Brands, Inc. is a multi-brand casual dining and restaurant com
 keywords: ["restaurants", "casual dining", "franchising", "branded restaurants", "restaurant franchisee"]
 ---
 
-*[**Fat Brands, Inc.**](/fabtq-stock/) (FABTQ) is a restaurant and hospitality company that operates and franchises multiple casual-dining brands. As a [publicly listed](/public-company/) enterprise filing with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (CIK 1705012), the company generates revenue primarily through owned-restaurant operations and franchise fees and royalties from franchisees. Understanding Fat Brands requires careful attention to its brand portfolio, the economics of company-operated versus franchised units, and the highly cyclical nature of the casual-dining sector.*
+*[**Fat Brands, Inc.**](/fabtq-stock/) (FABTQ) is a restaurant and hospitality company that operates and franchises multiple casual-dining brands. As a [publicly listed](/public-company/) enterprise filing with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (CIK 1705012), the company generates revenue primarily through owned-restaurant operations and franchise fees and royalties from franchisees. Understanding [Fat Brands](/fataq-stock/) requires careful attention to its brand portfolio, the economics of company-operated versus franchised units, and the highly cyclical nature of the casual-dining sector.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>FABTQ</td></tr>

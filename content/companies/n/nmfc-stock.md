@@ -43,7 +43,7 @@ This is not a business that scales geometrically. NMFC does not compound returns
 
 ## The portfolio and the default risk
 
-New Mountain Finance lends to a broad cross-section of industries: software, [healthcare services](/hcsg-stock/), business services, industrials, financial services, and others. The company aims for [diversification](/diversification/) across sectors, borrower size, and deal type. A single borrower typically accounts for a small percentage of total assets; the largest position might be 2–4 percent of the portfolio.
+New Mountain Finance lends to a broad cross-section of industries: software, healthcare services, business services, industrials, financial services, and others. The company aims for [diversification](/diversification/) across sectors, borrower size, and deal type. A single borrower typically accounts for a small percentage of total assets; the largest position might be 2–4 percent of the portfolio.
 
 The critical metric in any BDC is the [default rate](/default-rate/). Over a credit cycle, some percentage of portfolio companies will stumble and fail to repay. A low default rate indicates that underwriting is working; a rising default rate signals trouble. NMFC publishes its portfolio information in quarterly and annual filings, including data on payment status and past-due loans. Investors in BDCs typically monitor these carefully.
 
@@ -51,7 +51,7 @@ What New Mountain Finance has working in its favor is underwriting discipline an
 
 ## Competition and positioning
 
-New Mountain Finance is one of the largest publicly traded BDCs, but it competes in a crowded field. Other prominent BDCs include [Ares Capital](/arcc-stock/), Apollo Investment Corporation, [Gladstone Capital](/glad-stock/), and others. Some BDCs specialize — focusing exclusively on tech, healthcare, or particular deal types — while NMFC maintains a generalist approach. The generalist stance offers resilience across cycles but may mean it is less specialized than a competitor in any single industry.
+New Mountain Finance is one of the largest publicly traded BDCs, but it competes in a crowded field. Other prominent BDCs include Ares Capital, Apollo Investment Corporation, Gladstone Capital, and others. Some BDCs specialize — focusing exclusively on tech, healthcare, or particular deal types — while NMFC maintains a generalist approach. The generalist stance offers resilience across cycles but may mean it is less specialized than a competitor in any single industry.
 
 The most relevant competition, though, is not other BDCs but the private-equity and debt funds themselves. Large institutions can access private deals directly through their own investment teams or by committing capital to dedicated private funds. A BDC only wins those institutions' capital if it offers better convenience, transparency, or tax treatment than a fund. The public-market listing is NMFC's draw — investors can trade in and out without a [lock-up period](/lock-up-period/), which matters to those who need liquidity.
 

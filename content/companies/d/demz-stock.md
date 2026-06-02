@@ -30,7 +30,7 @@ The Democratic Large Cap Core ETF inverts the usual model of index-fund construc
 
 Each year, DEMZ shareholders receive a ballot presenting a universe of 300 to 500 large-cap candidates, often drawn from the S&P 500 or similar pools, accompanied by financial and ESG data on each firm. Shareholders vote for the stocks they believe should comprise the fund. The top vote-getters form the new portfolio. The fund then holds those stocks through the following year before reconvening and repeating the process.
 
-This departs sharply from both conventional indexing and traditional active management. An index fund follows a predetermined rule set; an actively managed fund leaves decisions to professionals. DEMZ distributes those decisions to its shareholders. The result is a portfolio that genuinely reflects what the median shareholder believes a responsible large-cap fund should own.
+This departs sharply from both conventional indexing and traditional active management. An [index fund](/index-fund/) follows a predetermined rule set; an [actively managed fund](/actively-managed-fund/) leaves decisions to professionals. DEMZ distributes those decisions to its shareholders. The result is a portfolio that genuinely reflects what the median shareholder believes a responsible large-cap fund should own.
 
 ## The cyclical tension in shareholder voting
 
@@ -40,13 +40,13 @@ During expansions, if shareholders tilt toward high-ESG, stable companies — ut
 
 ## Costs, trading, and holdings composition
 
-DEMZ charges a modest expense ratio, typically 0.20 to 0.35 percent, reflecting the administrative cost of annual votes and shareholder communications. It trades as a standard equity ETF with adequate liquidity, allowing entry and exit at market prices during hours. The fund's holdings have historically tilted toward companies with stronger environmental records, more diverse workforces, or lower governance controversy — roughly aligned with popular ESG criteria, though the exact mix varies by vote outcome.
+DEMZ charges a modest [expense ratio](/expense-ratio/), typically 0.20 to 0.35 percent, reflecting the administrative cost of annual votes and shareholder communications. It trades as a standard [equity ETF](/equity-etf/) with adequate liquidity, allowing entry and exit at market prices during hours. The fund's holdings have historically tilted toward companies with stronger environmental records, more diverse workforces, or lower governance controversy — roughly aligned with popular ESG criteria, though the exact mix varies by vote outcome.
 
 ## Key risks from distributed decision-making
 
 Voting introduces material uncertainty. Holdings can shift substantially year to year based on ballot outcomes, creating tax drag in taxable accounts and potential rebalancing costs. If shareholders consistently favour trendy ESG narratives over durable business models, performance can suffer in ways hard to reverse — changing course requires waiting for the next vote.
 
-Concentration risk is another layer. Correlated voting behaviour — all shareholders tilting toward, say, technology firms that score well on certain ESG metrics — can make the fund less diversified than a traditional large-cap index. Additionally, ESG itself is contested terrain. What one shareholder deems responsible, another may dismiss as greenwashing. Voting does not resolve those disagreements; it imposes the majority view on dissenters.
+[Concentration risk](/concentration-risk/) is another layer. Correlated voting behaviour — all shareholders tilting toward, say, technology firms that score well on certain ESG metrics — can make the fund less diversified than a traditional large-cap index. Additionally, ESG itself is contested terrain. What one shareholder deems responsible, another may dismiss as greenwashing. Voting does not resolve those disagreements; it imposes the majority view on dissenters.
 
 ## Who should consider DEMZ
 

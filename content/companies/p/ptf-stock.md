@@ -28,7 +28,7 @@ handwritten: true
 
 PTF does not try to pick the best tech company. It does not hunt for cheap stocks or growth stories. Instead, it measures which technology stocks have done well over the recent past — usually weeks to a few months — and overweights those. The momentum filter is mathematical and automatic. Every few months the index recalculates. Whatever tech names are up the most get the biggest position. Whatever ones are down the most get the smallest.
 
-This is different from saying "own tech." If you own plain-vanilla technology index, you own all the big names in fixed weights — Microsoft stays at its weight, Apple at its weight, Intel at its weight, regardless of whether they are rising or falling. PTF does not work that way. As soon as one tech stock starts to lag, PTF rotates into something else that is rising.
+This is different from saying "own tech." If you own plain-vanilla technology index, you own all the big names in fixed weights — [Microsoft](/msft-stock/) stays at its weight, [Apple](/aapl-stock/) at its weight, [Intel](/intc-stock/) at its weight, regardless of whether they are rising or falling. PTF does not work that way. As soon as one tech stock starts to lag, PTF rotates into something else that is rising.
 
 ## Why momentum in tech specifically
 
@@ -46,7 +46,7 @@ There is also sector concentration. Unlike a broad-market momentum fund, PTF lim
 
 ## Costs and trading
 
-PTF trades on NASDAQ with good liquidity for a sector momentum fund. The expense ratio is low — the index is rules-based and passive — so the ongoing cost is not the issue. The real cost comes from the turnover. The fund regularly sells and buys to maintain the momentum screen, and over a year that can amount to meaningful trading friction.
+PTF trades on [NASDAQ](/nasdaq/) with good liquidity for a [sector momentum](/sector-momentum/) fund. The [expense ratio](/expense-ratio/) is low — the index is rules-based and passive — so the ongoing cost is not the issue. The real cost comes from the turnover. The fund regularly sells and buys to maintain the momentum screen, and over a year that can amount to meaningful trading friction.
 
 For someone holding PTF for years, the turnover cost nets against the momentum premium — it is a question of whether recent strength in tech stocks persists. For a trader using PTF as a tactical tool (holding it for weeks or months when momentum is strong), the math is different.
 
@@ -58,4 +58,4 @@ Compare PTF to the Invesco QQQ Trust, the Invesco Technology ETF, or the Vanguar
 
 ## See also
 
-Momentum investing, technology sector, tactical allocation, sector rotation, relative performance, index screening, turnover and trading costs.
+[Momentum investing](/momentum-investing/), technology sector, tactical allocation, [sector rotation](/sector-rotation/), relative performance, index screening, turnover and trading costs.

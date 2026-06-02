@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Grupo Financiero Galicia is Argentina's largest privately owned bank and one of the major [financial institutions](/fisi-stock/) in South America. The company operates a full suite of banking services—retail deposits and lending, corporate banking, investments, brokerage, insurance, and asset management—primarily in Argentina but with a growing presence in neighboring countries. For investors seeking exposure to emerging markets and Latin American economic recovery, Galicia sits at the intersection of opportunity and risk: a franchise with real scale and customer relationships in a large economy, but operating in an environment of [currency volatility](/currency-volatility/), [inflation](/inflation/), and capital controls that make the business fundamentally different from banking in developed markets.
+Grupo Financiero Galicia is Argentina's largest privately owned bank and one of the major financial institutions in South America. The company operates a full suite of banking services—retail deposits and lending, corporate banking, investments, brokerage, insurance, and asset management—primarily in Argentina but with a growing presence in neighboring countries. For investors seeking exposure to emerging markets and Latin American economic recovery, Galicia sits at the intersection of opportunity and risk: a franchise with real scale and customer relationships in a large economy, but operating in an environment of [currency volatility](/currency-volatility/), [inflation](/inflation/), and capital controls that make the business fundamentally different from banking in developed markets.
 
 <aside class="wiki-infobox">
 <table>

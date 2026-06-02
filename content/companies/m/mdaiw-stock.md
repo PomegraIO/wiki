@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Spectral AI, Inc. (NASDAQ: MDAI; warrant: MDAIW) is a diagnostics company that uses artificial intelligence and multispectral imaging to assess wound healing potential. The firm was founded to commercialize wound-assessment technology that predicts whether burns or other wounds will heal naturally or require intervention, allowing clinicians to make treatment decisions faster and with more objective information than visual examination alone.
+[Spectral AI](/mdai-stock/), Inc. ([NASDAQ](/nasdaq/): MDAI; warrant: MDAIW) is a diagnostics company that uses artificial intelligence and multispectral imaging to assess wound healing potential. The firm was founded to commercialize wound-assessment technology that predicts whether burns or other wounds will heal naturally or require intervention, allowing clinicians to make treatment decisions faster and with more objective information than visual examination alone.
 
 ## The origins: Spectral MD and wound imaging
 
@@ -27,7 +27,7 @@ Spectral MD began securing government contracts to fund development. The U.S. go
 
 ## The path to public markets: SPAC combination
 
-In 2023, Spectral MD completed a business combination with Rosecliff Acquisition Corp I, a special purpose acquisition company (SPAC). The merger brought Spectral MD to the public markets under the name Spectral AI, Inc., trading on the NASDAQ under the ticker MDAI starting September 12, 2023. The SPAC deal provided capital and public company status but also came with the obligations of public reporting, board oversight, and shareholder accountability.
+In 2023, Spectral MD completed a [business combination](/business-combination-purchase/) with Rosecliff [Acquisition](/acquisition/) Corp I, a special purpose acquisition company (SPAC). The [merger](/merger/) brought Spectral MD to the public markets under the name Spectral AI, Inc., trading on the NASDAQ under the ticker MDAI starting September 12, 2023. The SPAC deal provided capital and public company status but also came with the obligations of public reporting, board oversight, and shareholder accountability.
 
 The SPAC merger valued the company at a valuation reflecting the promise of the technology and the government contract pipeline. However, the public markets have been sceptical of pre-revenue or early-revenue medical device companies, so the shares have traded below the SPAC's initial valuation in the periods following the merger, reflecting the challenge of moving a government-funded research programme into commercial adoption.
 
@@ -63,7 +63,7 @@ The company's public status brings both benefit and pressure. Public capital is 
 
 ## How to research Spectral AI as an investment
 
-Spectral AI files quarterly and annual reports with the SEC detailing government contracts and civilian licensing revenue. Watch for announcements of new government contracts or contract expansions, which signal continued federal support. Clinical validation studies (publications in medical journals) are also important — they provide third-party evidence of the technology's effectiveness.
+Spectral AI files quarterly and [annual reports](/10-k/) with the SEC detailing government contracts and civilian licensing revenue. Watch for announcements of new government contracts or contract expansions, which signal continued federal support. Clinical validation studies (publications in medical journals) are also important — they provide third-party evidence of the technology's effectiveness.
 
 Track the adoption trajectory among civilian hospitals. Early adoption is typically driven by pioneers — academic medical centres and burn centres with research relationships. The spread beyond these early adopters is the key inflection point. Also monitor progress on expansion into diabetic ulcers and other indications; each new indication is a new growth opportunity but also a new regulatory and reimbursement challenge.
 

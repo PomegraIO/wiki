@@ -11,13 +11,13 @@ keywords:
 handwritten: true
 ---
 
-RiverNorth Flexible Municipal [Income Fund](/income-fund/) II, Inc. (RFMZ) is a closed-end investment company that pools capital from shareholders to purchase and manage a portfolio of [municipal bonds](/municipal-bond/) and related securities. The fund is listed on the NASDAQ and pays out a regular distribution to shareholders, making it a vehicle for income-seeking investors who want exposure to tax-exempt municipal debt.
+RiverNorth Flexible Municipal [Income Fund](/income-fund/) II, Inc. (RFMZ) is a closed-end investment company that pools capital from shareholders to purchase and manage a portfolio of [municipal bonds](/municipal-bond/) and related securities. The fund is listed on the [NASDAQ](/nasdaq/) and pays out a regular distribution to shareholders, making it a vehicle for income-seeking investors who want exposure to tax-exempt municipal debt.
 
 ## What is a closed-end municipal fund?
 
 A [closed-end fund](/closed-end-fund/) differs from an open-ended [mutual fund](/mutual-fund/) in a fundamental way: it raises capital once through an [initial public offering](/initial-public-offering/) and then trades as a fixed set of shares, like a stock. Investors who want to buy or sell shares must do so in the [secondary market](/secondary-market/) at prices set by supply and demand — not directly through the fund itself. [RiverNorth Flexible Municipal Income](/rfm-stock/) Fund II raised its initial capital through an IPO and now trades as RFMZ on the NASDAQ, with prices fluctuating based on investor appetite.
 
-The fund's portfolio consists primarily of municipal bonds — debt issued by states, cities, and other local governments to finance infrastructure, schools, and public services. Municipal bonds carry a distinctive tax advantage: the interest income they generate is typically exempt from U.S. federal income tax, and often exempt from state and local taxes too. This tax benefit is valuable to high-income investors in high-tax jurisdictions, which is why municipal funds appeal to a specific subset of the investment universe.
+The fund's portfolio consists primarily of municipal [bonds](/bond/) — debt issued by states, cities, and other local governments to finance infrastructure, schools, and public services. Municipal bonds carry a distinctive tax advantage: the interest income they generate is typically exempt from U.S. federal income tax, and often exempt from state and local taxes too. This tax benefit is valuable to high-income investors in high-tax jurisdictions, which is why municipal funds appeal to a specific subset of the investment universe.
 
 ## How does RiverNorth manage money and distribute it?
 

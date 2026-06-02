@@ -40,7 +40,7 @@ Many blockchain companies are not yet profitable and may operate on venture capi
 
 ## Enterprise Adoption vs. Speculation
 
-The blockchain space attracts both serious enterprise interest and rampant speculation. Separate genuine commercial adoption from hype by examining Nakamoto's actual customers and use cases. Are large [financial institutions](/fisi-stock/), infrastructure firms, or governments actually using the company's products in production? Or are pilot projects and proof-of-concept arrangements the primary customer relationships? Customer references, case studies, and deployment size (if disclosed) help answer this question. A blockchain company with dozens of small experimental customers has different prospects than one with a handful of major enterprise deployments.
+The blockchain space attracts both serious enterprise interest and rampant speculation. Separate genuine commercial adoption from hype by examining Nakamoto's actual customers and use cases. Are large financial institutions, infrastructure firms, or governments actually using the company's products in production? Or are pilot projects and proof-of-concept arrangements the primary customer relationships? Customer references, case studies, and deployment size (if disclosed) help answer this question. A blockchain company with dozens of small experimental customers has different prospects than one with a handful of major enterprise deployments.
 
 ## Cash Position and Burn Rate
 

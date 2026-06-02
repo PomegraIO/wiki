@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Grayscale Livepeer Trust is a single-asset cryptocurrency trust that holds Livepeer tokens (LPT), allowing investors to gain exposure to the cryptocurrency through a registered investment company rather than directly purchasing the underlying tokens. The trust trades on NASDAQ under the ticker GLIV and represents a vehicle for accessing Livepeer — a blockchain-based video transcoding and streaming network — without managing cryptocurrency wallets or exchanges.
+Grayscale Livepeer Trust is a single-asset cryptocurrency trust that holds Livepeer tokens (LPT), allowing investors to gain exposure to the cryptocurrency through a registered investment company rather than directly purchasing the underlying tokens. The trust trades on [NASDAQ](/nasdaq/) under the ticker GLIV and represents a vehicle for accessing Livepeer — a blockchain-based video transcoding and streaming network — without managing cryptocurrency wallets or exchanges.
 
 <aside class="wiki-infobox">
 <table>
@@ -25,7 +25,7 @@ Grayscale Livepeer Trust is a single-asset cryptocurrency trust that holds Livep
 
 ## What Livepeer is, and why the network matters
 
-Livepeer is a decentralized video streaming and transcoding network built on Ethereum. Video transcoding — converting one video format into many others for different devices and internet speeds — is computationally expensive and typically handled by centralized platforms like YouTube or Twitch. Livepeer uses a network of node operators who perform transcoding tasks in exchange for LPT token rewards, attempting to distribute that cost and control across many participants rather than concentrating it at one company.
+Livepeer is a decentralized video streaming and transcoding network built on [Ethereum](/ethereum/). Video transcoding — converting one video format into many others for different devices and internet speeds — is computationally expensive and typically handled by centralized platforms like YouTube or Twitch. Livepeer uses a network of node operators who perform transcoding tasks in exchange for LPT token rewards, attempting to distribute that cost and control across many participants rather than concentrating it at one company.
 
 The business case hinges on a simple bet: that decentralized video processing can undercut the incumbents on price while giving creators and platforms more control. Livepeer tokens are used both as payment for transcoding work and as a staking mechanism — node operators lock up LPT to participate in the network, binding their interest to the network's quality and security.
 
@@ -33,7 +33,7 @@ The business case hinges on a simple bet: that decentralized video processing ca
 
 Grayscale is a digital asset management company that creates trusts and funds holding cryptocurrencies. The Livepeer Trust is structured as a grantor trust, meaning it holds LPT tokens and aims to track their price movements. Shareholders purchase shares of the trust, which entitle them to a proportional claim on the underlying LPT holdings.
 
-The trust carries an annual management fee (typically around 2.5%) that Grayscale charges to cover administration, custody, and compliance costs. Because the trust holds the cryptocurrency directly, shareholders do not need cryptocurrency wallets, private keys, or exchange accounts — they can buy and sell shares like any other stock through a traditional brokerage.
+The trust carries an annual [management fee](/management-fee/) (typically around 2.5%) that Grayscale charges to cover administration, custody, and compliance costs. Because the trust holds the cryptocurrency directly, shareholders do not need cryptocurrency wallets, private keys, or exchange accounts — they can buy and sell shares like any other stock through a traditional brokerage.
 
 ## The shift under Livepeer: toward decentralized infrastructure
 
@@ -43,7 +43,7 @@ The trust vehicle itself reflects a shift in how cryptocurrencies reach mainstre
 
 ## Custody and regulatory standing
 
-Grayscale Investments is a subsidiary of Digital Currency Group and has been in the digital asset space since 2013. The Livepeer Trust is registered with the Securities and Exchange Commission as a regulated investment company, meaning it is subject to the Investment Company Act and regular SEC disclosure. The underlying LPT tokens are held in custody by Grayscale's custodian partner.
+Grayscale Investments is a subsidiary of Digital Currency Group and has been in the digital asset space since 2013. The Livepeer Trust is registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) as a regulated investment company, meaning it is subject to the Investment Company Act and regular SEC disclosure. The underlying LPT tokens are held in custody by Grayscale's [custodian](/custodian/) partner.
 
 The trust operates within the framework of traditional U.S. securities law, which means shareholders receive SEC filings, the trust has a board structure, and there are rules around distributions and valuations. This regulatory standing makes the trust accessible to institutional investors, retirement accounts, and investors in jurisdictions that restrict direct cryptocurrency ownership.
 

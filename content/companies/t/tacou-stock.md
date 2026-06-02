@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-Harry You's third or fourth SPAC vehicle. Units priced at $10; 30 million units sold. Closed April 2025. IPO proceeds: $300 million. The mandate is crisp: acquire something in AI, wellness, or longevity between $200M and $1.5B enterprise value within 24 months.
+Harry You's third or fourth SPAC vehicle. Units priced at $10; 30 million units sold. Closed April 2025. IPO proceeds: $300 million. The mandate is crisp: acquire something in AI, wellness, or longevity between $200M and $1.5B [enterprise value](/enterprise-value/) within 24 months.
 
 ## The operator
 
-Harry You. Career arc: CFO at Accenture, then Oracle, then EMC. Orchestrated the $67 billion EMC-Dell merger in 2013. Orchestrated the $92 billion Broadcom-VMware acquisition more recently. Then pivoted to SPAC launches—eight prior vehicles. The prior wins: IonQ (quantum computing, flipped to public markets via his SPAC), Planet Labs (satellite imaging, same story), Rain Enhancement (climate tech). The track record says "he finds things and gets them public." Whether the things he finds at $200M–$1.5B valuations are worth what shareholders pay is the open question.
+Harry You. Career arc: CFO at [Accenture](/acn-stock/), then [Oracle](/orcl-stock/), then EMC. Orchestrated the $67 billion EMC-Dell [merger](/merger/) in 2013. Orchestrated the $92 billion Broadcom-VMware [acquisition](/acquisition/) more recently. Then pivoted to SPAC launches—eight prior vehicles. The prior wins: IonQ (quantum computing, flipped to public markets via his SPAC), Planet Labs (satellite imaging, same story), Rain Enhancement (climate tech). The track record says "he finds things and gets them public." Whether the things he finds at $200M–$1.5B valuations are worth what shareholders pay is the open question.
 
 ## The thesis
 

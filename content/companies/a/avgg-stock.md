@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The Leverage Shares 2X Long AVGO Daily ETF is an exchange-traded fund that seeks to deliver twice the daily return of Broadcom shares. Rather than buying Broadcom stock on margin, it achieves leverage through a derivative contract with a bank counterparty — a structure designed for traders making short-term bets, not long-term investors.*
+*The Leverage Shares 2X Long AVGO Daily ETF is an exchange-traded fund that seeks to deliver twice the daily return of [Broadcom](/avgo-stock/) shares. Rather than buying Broadcom stock on margin, it achieves leverage through a derivative contract with a bank counterparty — a structure designed for traders making short-term bets, not long-term investors.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,15 +27,15 @@ handwritten: true
 
 ## The swap structure
 
-AVGG does not borrow cash to buy Broadcom shares on margin. Instead, Leverage Shares enters a total return swap — a contract with a large bank. Under this swap, the bank agrees to pay AVGG twice Broadcom's daily return, and AVGG pays the bank a financing cost plus a spread. The bank then hedges itself by purchasing Broadcom shares and financing them through its own borrowing.
+AVGG does not borrow cash to buy Broadcom shares on margin. Instead, Leverage Shares enters a [total return swap](/total-return-swap/) — a contract with a large bank. Under this swap, the bank agrees to pay AVGG twice Broadcom's daily return, and AVGG pays the bank a financing cost plus a spread. The bank then hedges itself by purchasing Broadcom shares and financing them through its own borrowing.
 
-This arrangement removes AVGG from the traditional margin-borrowing ecosystem. Instead of AVGG holding the stock directly, the fund holds a contractual claim on Broadcom's return. The advantage is simplicity — the swap is embedded in the fund structure and requires no active margin management from the investor. The disadvantage is that the cost of the swap (the financing rate and the bank's spread) is embedded in the fund's expense ratio and creates drag.
+This arrangement removes AVGG from the traditional margin-borrowing ecosystem. Instead of AVGG holding the stock directly, the fund holds a contractual claim on Broadcom's return. The advantage is simplicity — the swap is embedded in the fund structure and requires no active margin management from the investor. The disadvantage is that the cost of the swap (the financing rate and the bank's spread) is embedded in the fund's [expense ratio](/expense-ratio/) and creates drag.
 
-The financing cost varies with short-term interest rates. When the Federal Funds Rate is low, financing is cheap and decay is modest. When rates are high, financing costs spike and returns suffer. This makes AVGG's cost dependent on macroeconomic conditions beyond Broadcom's own performance.
+The financing cost varies with short-term [interest rates](/interest-rate/). When the [Federal Funds Rate](/federal-funds-rate/) is low, financing is cheap and decay is modest. When rates are high, financing costs spike and returns suffer. This makes AVGG's cost dependent on macroeconomic conditions beyond Broadcom's own performance.
 
 ## Daily resets and compounding losses
 
-AVGG rebalances every trading day to lock in its 2X leverage ratio. This daily reset is where long-term investors encounter a mathematical trap called volatility decay.
+AVGG rebalances every trading day to lock in its 2X [leverage ratio](/leverage-ratio-forex/). This daily reset is where long-term investors encounter a mathematical trap called volatility decay.
 
 The trap works like this. Suppose Broadcom starts at $100 and AVGG starts at the same $100. Broadcom rises 10% to $110. AVGG, targeting 2X the daily return, rises 20% to $120. The next day, Broadcom falls 10% (from $110 to $99). AVGG falls 20% (from $120 to $96). The investor in Broadcom lost $1 (1% loss). The investor in AVGG lost $4 (4% loss) on a stock that only fell 1% total.
 
@@ -45,19 +45,19 @@ The mathematics are unkind to buy-and-hold. A trader holding AVGG overnight or f
 
 ## Concentrated risk and counterparty exposure
 
-AVGG offers zero diversification. The entire investment is a leveraged bet on Broadcom — a semiconductor company exposed to cyclical demand, intense competition from AMD and NVIDIA, geopolitical trade risks, and the execution complexity of managing fabs and chip design.
+AVGG offers zero [diversification](/diversification/). The entire investment is a leveraged bet on Broadcom — a semiconductor company exposed to cyclical demand, intense competition from AMD and [NVIDIA](/nvda-stock/), geopolitical trade risks, and the execution complexity of managing fabs and chip design.
 
 Leverage concentrates that risk. If Broadcom falls 50%, AVGG will lose close to 100% of value (less any daily rebalancing mechanics, but the outcome is near-total loss). That is not a possibility; it is the structural outcome of 2X leverage on a single name if the name declines sharply enough.
 
-There is also counterparty risk. The bank providing the swap is exposed to AVGG's potential losses, and AVGG investors are exposed to the bank's creditworthiness. The swap should be collateralized, but in financial crises, collateral values can evaporate faster than expected. Even systemically important banks have faced solvency questions during market dislocations.
+There is also [counterparty risk](/counterparty-risk/). The bank providing the swap is exposed to AVGG's potential losses, and AVGG investors are exposed to the bank's creditworthiness. The swap should be collateralized, but in financial crises, collateral values can evaporate faster than expected. Even systemically important banks have faced solvency questions during market dislocations.
 
 ## Mechanical trading and fees
 
-AVGG trades throughout the day on NASDAQ like any stock, with tight bid-ask spreads in normal markets. Settlement is immediate, and there is no friction to buying or selling — that makes it accessible to retail traders.
+AVGG trades throughout the day on [NASDAQ](/nasdaq/) like any stock, with tight [bid-ask spreads](/bid-ask-spread/) in normal markets. Settlement is immediate, and there is no friction to buying or selling — that makes it accessible to retail traders.
 
 The expense ratio is typically 0.9% to 1.4% annually. On top of that, the embedded swap financing costs add another 1–2% per year in drag. For a fund designed to last days or weeks, that cost is acceptable. For a fund held a year or more, the cumulative drag becomes substantial.
 
-AVGG does not pay dividends. The total return swap captures Broadcom's dividend, but it is reinvested rather than distributed — avoiding the tax inefficiency of dividend payments to a leveraged holder.
+AVGG does not pay [dividends](/dividend/). The total return swap captures Broadcom's dividend, but it is reinvested rather than distributed — avoiding the tax inefficiency of dividend payments to a leveraged holder.
 
 ## Market conditions and return assumptions
 
@@ -65,7 +65,7 @@ AVGG's performance depends critically on what Broadcom does and how volatile it 
 
 In a volatile month where Broadcom swings 2–3% per day, accumulating a 5% gain or loss, AVGG will underperform 2X leverage substantially because the daily resets cost more. That is when the structural weakness of the product surfaces.
 
-The product is also sensitive to interest rates. The swap financing cost is typically pegged to SOFR or similar overnight funding rates. When the Federal Reserve is hiking and rates are rising, AVGG's embedded cost rises, reducing returns further.
+The product is also sensitive to interest rates. The swap financing cost is typically pegged to [SOFR](/sofr/) or similar overnight funding rates. When the [Federal Reserve](/federal-reserve/) is hiking and rates are rising, AVGG's embedded cost rises, reducing returns further.
 
 ## Appropriate uses and risks
 
@@ -73,7 +73,7 @@ AVGG is a tactical instrument. A trader who believes Broadcom will rise 10% in t
 
 AVGG is inappropriate for buy-and-hold investors who think Broadcom is great and want leverage. Decay and costs will erode returns over months, even if Broadcom rises. It is also inappropriate for uncertain theses or for investors who cannot psychologically tolerate seeing the fund to zero if Broadcom crashes.
 
-For investors who want Broadcom leverage over longer horizons, owning AVGO directly and using call options, or spreading leverage across multiple holdings, or using a traditional margin account, is often clearer and cheaper than AVGG's all-in-or-nothing bet.
+For investors who want Broadcom leverage over longer horizons, owning AVGO directly and using [call options](/call-option/), or spreading leverage across multiple holdings, or using a traditional margin account, is often clearer and cheaper than AVGG's all-in-or-nothing bet.
 
 ## Due diligence for users
 

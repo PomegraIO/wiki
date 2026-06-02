@@ -31,7 +31,7 @@ SB Technology was founded in 1994, during the period when Japanese corporations 
 
 This was a labor-intensive, project-driven business model. A bank might hire SB Technology to integrate new trading systems; a manufacturer might commission a new warehouse management system; a government ministry might outsource the design and deployment of a citizen-facing digital platform. Each project was unique, requiring custom coding, careful implementation planning, and ongoing support. The company grew by building a reputation for delivering large, complex projects on time and on budget — a competitive advantage in a market where projects routinely overrun both schedule and cost.
 
-Japan's IT services market in the 1990s and 2000s was fragmented and regional. Large global firms like IBM, Accenture, and Deloitte competed for the largest contracts, but there was room for domestic and regional specialists that understood local markets and could navigate relationships with Japanese corporations and government agencies. SB Technology thrived in this context, building a substantial presence in Japan and gradually expanding across Asia.
+Japan's IT services market in the 1990s and 2000s was fragmented and regional. Large global firms like IBM, [Accenture](/acn-stock/), and Deloitte competed for the largest contracts, but there was room for domestic and regional specialists that understood local markets and could navigate relationships with Japanese corporations and government agencies. SB Technology thrived in this context, building a substantial presence in Japan and gradually expanding across Asia.
 
 ## Evolution and diversification
 
@@ -39,13 +39,13 @@ Over two decades, SB Technology expanded beyond pure systems integration into so
 
 The company developed or acquired proprietary software products serving specific industries and business functions. It also built practices in areas like business process outsourcing, managed IT services, and cloud infrastructure — higher-margin, more recurring streams than single large projects. Digital transformation consulting became increasingly important as Japanese corporations sought to modernize aging systems and adapt to e-commerce and mobile computing.
 
-This diversification created a more complex business model. SB Technology now operates through multiple segments, each with different economics: custom project work (lower margin, less scalable but still important for client relationships), software licensing (higher margin, more scalable), and managed services (recurring revenue but labor-intensive).
+This [diversification](/diversification/) created a more complex business model. SB Technology now operates through multiple segments, each with different economics: custom project work (lower margin, less scalable but still important for client relationships), software licensing (higher margin, more scalable), and managed services (recurring revenue but labor-intensive).
 
 ## The IT services and software market in Japan and Asia
 
 The company operates in a market with specific characteristics. Japan's enterprise IT spending was mature but not shrinking — corporations continued to invest in technology, but growth rates were modest. The rise of cloud computing and software-as-a-service shifted demand: rather than paying SB Technology to build an on-premise system and maintain it for years, companies increasingly bought subscription-based cloud software and paid integrators to implement and customize it.
 
-This shift favored companies that could pivot toward product and cloud models and away from pure project services. It also intensified competition from global players like Salesforce, Microsoft, and Amazon Web Services, which offered cloud platforms that competed with custom solutions SB Technology had historically built.
+This shift favored companies that could pivot toward product and cloud models and away from pure project services. It also intensified competition from global players like [Salesforce](/crm-stock/), [Microsoft](/msft-stock/), and Amazon Web Services, which offered cloud platforms that competed with custom solutions SB Technology had historically built.
 
 Regionally, demand in Asia was growing faster than in Japan, as countries like Singapore, South Korea, Thailand, and Vietnam invested in IT infrastructure and digital transformation. SB Technology positioned itself to serve Japanese multinationals operating across Asia and, gradually, to win business from local companies in neighboring countries.
 

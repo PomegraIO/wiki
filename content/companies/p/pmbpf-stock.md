@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Pembina Pipeline's story is a history of Canada's energy development. The company began in 1954 as a small natural-gas processor in Alberta, serving local producers who needed to upgrade raw gas for market. From those modest beginnings, it expanded through decades of growth in Canadian oil and gas production, through major acquisitions, and through shifts in commodity markets and regulatory landscapes. What started as a regional processor became a transcontinental pipeline operator and one of Canada's largest energy-infrastructure companies. Understanding the company's evolution illuminates how midstream businesses grow and how energy-supply chains develop.
+Pembina Pipeline's story is a history of Canada's energy development. The company began in 1954 as a small natural-gas processor in Alberta, serving local producers who needed to upgrade raw gas for market. From those modest beginnings, it expanded through decades of growth in Canadian oil and gas production, through major [acquisitions](/acquisition/), and through shifts in commodity markets and regulatory landscapes. What started as a regional processor became a transcontinental pipeline operator and one of Canada's largest energy-infrastructure companies. Understanding the company's evolution illuminates how midstream businesses grow and how energy-supply chains develop.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,13 +27,13 @@ Pembina Pipeline's story is a history of Canada's energy development. The compan
 
 ## The founding era: processors and local producers
 
-Pembina began in 1954 in Pembina, Alberta, as a natural-gas-processing company. The Alberta foothills were opening up as a major oil and gas region, and producers drilling wells needed help processing raw natural gas — removing liquids, water, and impurities to prepare it for pipeline and market sale. Pembina built processing plants and contracted with local producers. The business model was simple: charge a fee per thousand cubic feet of gas processed, operate the plants efficiently, and expand as more wells came online. Growth in the 1950s and 1960s came from rising production in Alberta as companies discovered and developed more reservoirs.
+Pembina began in 1954 in Pembina, Alberta, as a natural-gas-processing company. The Alberta foothills were opening up as a major oil and gas region, and producers drilling wells needed help processing raw [natural gas](/natural-gas/) — removing liquids, water, and impurities to prepare it for pipeline and market sale. Pembina built processing plants and contracted with local producers. The business model was simple: charge a fee per thousand cubic feet of gas processed, operate the plants efficiently, and expand as more wells came online. Growth in the 1950s and 1960s came from rising production in Alberta as companies discovered and developed more reservoirs.
 
 ## Pipeline expansion and geographic reach
 
-Through the 1960s and 1970s, as Canadian oil and gas production accelerated, Pembina shifted from a pure processor into a pipeline operator. The company began building and acquiring pipeline systems to move natural gas and crude oil from producing regions toward markets and export terminals. This was a defining shift: pipelines required much larger capital investment than processing plants, but offered long-term contracted revenue and durable assets. Pembina grew its network steadily, adding crude-oil pipelines and extending gas-handling into new Canadian regions.
+Through the 1960s and 1970s, as Canadian oil and gas production accelerated, Pembina shifted from a pure processor into a pipeline operator. The company began building and acquiring pipeline systems to move natural gas and [crude oil](/crude-oil/) from producing regions toward markets and export terminals. This was a defining shift: pipelines required much larger capital investment than processing plants, but offered long-term contracted revenue and durable assets. Pembina grew its network steadily, adding crude-oil pipelines and extending gas-handling into new Canadian regions.
 
-The 1980s brought challenges. Oil and gas prices weakened in the 1980s recession, and upstream producers cut spending. Pembina faced a slower-growth environment and had to manage excess capacity. The company adapted by focusing on cost control and selective expansion into higher-margin segments like petrochemical feedstock handling.
+The 1980s brought challenges. Oil and gas prices weakened in the 1980s [recession](/recession/), and upstream producers cut spending. Pembina faced a slower-growth environment and had to manage excess capacity. The company adapted by focusing on cost control and selective expansion into higher-margin segments like petrochemical feedstock handling.
 
 ## Major acquisitions and consolidation
 
@@ -43,13 +43,13 @@ By the early 2000s, Pembina had become one of Canada's largest independent midst
 
 ## Adaptation to changing markets
 
-The 2010s brought structural shifts in energy markets that forced Pembina to adapt. The shale revolution in the US created new production centers and new demand for pipeline capacity. Pembina invested in new systems to capture growth in the Bakken and other US shale plays. Simultaneously, the company expanded its exposure to liquids handling and export terminals, recognizing that crude-oil and liquids logistics were becoming increasingly important as Canadian and US production outpaced domestic demand and required marine export.
+The 2010s brought structural shifts in energy markets that forced Pembina to adapt. The [shale revolution](/shale-revolution/) in the US created new production centers and new demand for pipeline capacity. Pembina invested in new systems to capture growth in the Bakken and other US shale plays. Simultaneously, the company expanded its exposure to liquids handling and export terminals, recognizing that crude-oil and liquids logistics were becoming increasingly important as Canadian and US production outpaced domestic demand and required marine export.
 
-The company also navigated the commodity-price collapse of 2015–2016, when crude oil prices halved and upstream producers slashed investment. Pembina's contracted-revenue model helped it weather the downturn better than production-dependent companies, but the collapse still reduced new-capacity orders and put pressure on utilization. The company responded by disciplining capital spending, focusing on contracted projects, and pursuing dividends to shareholders — a shift in priorities as growth opportunities diminished.
+The company also navigated the commodity-price collapse of 2015–2016, when crude oil prices halved and upstream producers slashed investment. Pembina's contracted-revenue model helped it weather the downturn better than production-dependent companies, but the collapse still reduced new-capacity orders and put pressure on utilization. The company responded by disciplining capital spending, focusing on contracted projects, and pursuing [dividends](/dividend/) to shareholders — a shift in priorities as growth opportunities diminished.
 
 ## Strategic evolution and investment challenges
 
-By the 2020s, Pembina faced a new reality: energy markets were beginning a long transition away from fossil fuels, and political approval for major new fossil-fuel pipelines became increasingly uncertain. Large proposed projects were delayed or canceled. The company had to rethink its strategy: defend the cash flows from existing assets, invest in selective growth opportunities that were still approvable (like logistics for existing producers), and explore adjacent businesses (like natural-gas liquefaction). The strategic challenge was to grow EBITDA in an environment where new fossil-fuel capacity was increasingly difficult to build.
+By the 2020s, Pembina faced a new reality: energy markets were beginning a long transition away from fossil fuels, and political approval for major new fossil-fuel pipelines became increasingly uncertain. Large proposed projects were delayed or canceled. The company had to rethink its strategy: defend the cash flows from existing assets, invest in selective growth opportunities that were still approvable (like logistics for existing producers), and explore adjacent businesses (like natural-gas liquefaction). The strategic challenge was to grow [EBITDA](/ebitda/) in an environment where new fossil-fuel capacity was increasingly difficult to build.
 
 ## The business model that carried Pembina
 

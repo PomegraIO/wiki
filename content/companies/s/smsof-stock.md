@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Samsonite designs, sources, and sells luggage and travel goods under multiple brand names to travelers, business commuters, and travel professionals worldwide. The company's shares trade over the counter on the U.S. pink sheets under the ticker SMSOF (OTC Markets), reflecting the structure of an American Depositary Receipt for shares of Samsonite International SA, a Luxembourg-incorporated holding company. The business is straightforward: manufacture and distribute bags that people carry on trips, then earn money on the volume and margins those products generate.
+Samsonite designs, sources, and sells luggage and travel goods under multiple brand names to travelers, business commuters, and travel professionals worldwide. The company's shares trade over the counter on the U.S. pink sheets under the ticker SMSOF (OTC Markets), reflecting the structure of an [American Depositary Receipt](/adr/) for shares of Samsonite International SA, a Luxembourg-incorporated holding company. The business is straightforward: manufacture and distribute bags that people carry on trips, then earn money on the volume and margins those products generate.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,9 +28,9 @@ Samsonite designs, sources, and sells luggage and travel goods under multiple br
 
 Scale is the first answer. Samsonite manufactures and sells more suitcases, carry-ons, and travel bags globally than any competitor, a position earned through decades of brand building, manufacturing efficiency, and a portfolio broad enough to serve almost every price point and customer type. The company's roots reach back to Denver, Colorado in 1910, when Jesse Shwayder began making leather cases for travelers. The Samsonite name became synonymous with durability and design—if you grew up in the latter half of the twentieth century, a Samsonite suitcase was what families took on road trips and vacations.
 
-The modern company achieved its scale through acquisition and consolidation. In 2007 Samsonite was acquired by a private-equity consortium led by Carlyle Group for about $1.7 billion, after which the company began a long expansion: acquiring the American Tourister brand (a mass-market competitor), then acquiring travel-goods maker Kamiliant and numerous smaller regional brands. That acquisition spree created a portfolio company that could serve customers at every price and use case—the hardshell Samsonite Omni for premium travelers, the lightweight American Tourister for budget-conscious families, the durable Kamiliant for price-sensitive emerging markets.
+The modern company achieved its scale through [acquisition](/acquisition/) and consolidation. In 2007 Samsonite was acquired by a private-equity consortium led by Carlyle Group for about $1.7 billion, after which the company began a long expansion: acquiring the American Tourister brand (a mass-market competitor), then acquiring travel-goods maker Kamiliant and numerous smaller regional brands. That acquisition spree created a portfolio company that could serve customers at every price and use case—the hardshell Samsonite Omni for premium travelers, the lightweight American Tourister for budget-conscious families, the durable Kamiliant for price-sensitive emerging markets.
 
-The company went public in 2011 on the Hong Kong Stock Exchange, listing as Samsonite International SA, and has since expanded its footprint in Asia and beyond. The ADR available over-the-counter in the United States reflects that foreign listing and allows U.S. investors to hold shares without direct access to Hong Kong's exchange.
+The company went public in 2011 on the [Hong Kong Stock Exchange](/hong-kong-stock-exchange/), listing as Samsonite International SA, and has since expanded its footprint in Asia and beyond. The ADR available over-the-counter in the United States reflects that foreign listing and allows U.S. investors to hold shares without direct access to Hong Kong's exchange.
 
 ## How does Samsonite make money?
 
@@ -46,7 +46,7 @@ The business is seasonal: travel patterns peak around the summer vacation season
 
 The luggage market is fragmented by price and geography. At the premium end, brands like Rimowa (owned by luxury-goods maker LVMH) and other designer names compete on heritage and brand. The mass market includes Samsonite's own American Tourister, along with competitors like Delsey, Tatonka, and IT Luggage. At the budget end, private-label brands and unbranded cases sold through big-box retailers compete on price alone.
 
-Samsonite's advantage is breadth. By owning multiple brands across price points, the company can capture market share at each tier without cannibalizing a single brand. A customer at Costco buying an American Tourister hard case, a business traveler buying a Samsonite carry-on at a department store, and a price-conscious family in India buying a Kamiliant spinner—these are all Samsonite transactions, and that diversification both defends against brand-specific cycles and allows the company to weather shifts in where customers shop.
+Samsonite's advantage is breadth. By owning multiple brands across price points, the company can capture market share at each tier without cannibalizing a single brand. A customer at Costco buying an American Tourister hard case, a business traveler buying a Samsonite carry-on at a department store, and a price-conscious family in India buying a Kamiliant spinner—these are all Samsonite transactions, and that [diversification](/diversification/) both defends against brand-specific cycles and allows the company to weather shifts in where customers shop.
 
 The genuine competition comes from the shift in consumer behavior. Younger travelers increasingly opt for smaller carry-on bags and backpacks over traditional checked luggage, and the rise of airline fee policies (baggage fees have made many travelers favor smaller bags) has altered what people buy. Samsonite has adapted by expanding its soft-luggage and expandable lines, but the long-term question is whether the total market for checked luggage shrinks as travel patterns change.
 
@@ -56,7 +56,7 @@ Manufacturing cost and supply-chain efficiency are also competitive levers. Sams
 
 The biggest structural headwind is that luggage is a mature, low-growth category in developed markets. Unit volumes in North America and Europe are largely flat or declining, so growth comes from either penetrating emerging markets (where ownership of quality luggage is still expanding) or increasing average price through design and brand. The company has pursued both, but the mature-market challenge is real.
 
-Discretionary spending cycles are a second pressure. A recession, a contraction in travel, or a broader consumer spending slowdown hits luggage sales hard. The category has no necessity or recurring revenue; people buy luggage when they travel and when they have disposable income to replace worn-out cases. Economic downturns or geopolitical events that disrupt travel (pandemics, wars, travel restrictions) can cause sharp revenue drops.
+[Discretionary spending](/discretionary-spending/) cycles are a second pressure. A [recession](/recession/), a contraction in travel, or a broader consumer spending slowdown hits luggage sales hard. The category has no necessity or recurring revenue; people buy luggage when they travel and when they have disposable income to replace worn-out cases. Economic downturns or geopolitical events that disrupt travel (pandemics, wars, travel restrictions) can cause sharp revenue drops.
 
 Supply chain exposure is also material. The company is heavily dependent on Asian manufacturing and vulnerable to tariffs, labor costs, shipping disruptions, and any geopolitical tensions affecting Chinese or Vietnamese production. Tariff increases between the United States and China, for instance, would immediately pressure margins or require price increases that could reduce sales.
 
@@ -64,7 +64,7 @@ Finally, there is brand commoditization risk. As e-commerce and private labels g
 
 ## How to research Samsonite as an investment
 
-Samsonite's main public listing is in Hong Kong, but the ADR structure allows U.S. investors to track the company via SMSOF. Start with the company's annual report and SEC filings (CIK 0001560968), which detail revenue by geography, brand, and channel. The geographic breakdown matters because Samsonite's exposure to China manufacturing and growing Asian consumer demand are central to the story.
+Samsonite's main public listing is in Hong Kong, but the ADR structure allows U.S. investors to track the company via SMSOF. Start with the company's [annual report](/10-k/) and SEC filings (CIK 0001560968), which detail revenue by geography, brand, and channel. The geographic breakdown matters because Samsonite's exposure to China manufacturing and growing Asian consumer demand are central to the story.
 
 Key metrics to watch include revenue trends by brand and geography, gross-margin progression (which indicates whether the company can hold pricing or faces cost pressures), and inventory levels (high inventory can signal either channel stuffing or a slowdown in consumer demand). The seasonal nature of the business means comparing the same quarters across years is important to avoid being misled by quarterly swings.
 

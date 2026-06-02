@@ -23,7 +23,7 @@ This is a thematic bet. Unlike a standard large-cap or small-cap index, GEV's se
 
 ## The daily reset mechanics and decay in practice
 
-GEVG holds GEV shares and borrows money or uses derivatives to create 2x the leverage. Each day at market close, the fund resets the leverage ratio back to exactly 2x. On a day GEV is up 1%, GEVG targets 2%. On a day GEV is down 1%, GEVG targets down 2%.
+GEVG holds GEV shares and borrows money or uses derivatives to create 2x the leverage. Each day at market close, the fund resets the [leverage ratio](/leverage-ratio-forex/) back to exactly 2x. On a day GEV is up 1%, GEVG targets 2%. On a day GEV is down 1%, GEVG targets down 2%.
 
 This daily reset is where the mathematics becomes treacherous over time. If GEV rises 10% then falls 10% over two days, it ends at the same price it started. GEVG in the same period rises 20% on day one (10% times 2), then falls 20% on day two — but that 20% fall is applied to a base that is now 20% higher, resulting in a larger dollar loss on the second day than it gained on the first. The fund ends lower despite the underlying holding its value.
 
@@ -31,7 +31,7 @@ The finance world calls this volatility decay, and it is most damaging when pric
 
 ## Leverage costs and suitability
 
-The expense ratio of GEVG reflects the administrative costs of managing daily rebalancing and leverage. The true cost is the decay itself — the gap between what the fund actually returns and what you would have earned by simply buying and holding GEV and then multiplying your return by 2 on a buy-and-hold basis.
+The [expense ratio](/expense-ratio/) of GEVG reflects the administrative costs of managing daily rebalancing and leverage. The true cost is the decay itself — the gap between what the fund actually returns and what you would have earned by simply buying and holding GEV and then multiplying your return by 2 on a buy-and-hold basis.
 
 GEVG is a tactical tool for traders who expect GEV to rally sharply over days or weeks and want to amplify that move. It is not suitable for retirement accounts, long-term buy-and-hold investors, or investors who cannot actively monitor and exit their position. Holding GEVG for years will almost certainly underperform the static 2x returns someone might naively expect, purely due to the compounding effect of daily resets in a volatile market.
 
@@ -39,4 +39,4 @@ GEVG is a tactical tool for traders who expect GEV to rally sharply over days or
 
 Anyone considering GEVG should read the fund's prospectus carefully, which outlines the daily reset mechanism, the leverage methods (borrowed funds, swaps, futures, or a combination), and the specific risks of compounding in volatile markets. Understanding GEV's holdings and methodology is equally important — you need to have a thesis on why financial-influencer stocks will outperform before you overlay 2x leverage.
 
-A useful comparison is to backtest GEVG's behavior in historical periods of financial-stock volatility and compare its actual returns to the theoretical 2x calculation. The gap reveals how much decay compounds over your actual holding period.
+A useful comparison is to backtest GEVG's behavior in historical periods of financial-stock volatility and compare its actual returns to the theoretical 2x calculation. The gap reveals how much decay compounds over your actual [holding period](/holding-period/).

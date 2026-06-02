@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Scientific Industries, Inc. makes equipment that sits on lab benches in universities, pharmaceutical companies, and research facilities around the world. Founded in 1954 and based in Bohemia, New York, the company has spent over seven decades building instruments for the scientific work that other companies depend on. It is small — market capitalization in the single-digit millions — but it has survived and persisted in a market where survival itself requires genuine engineering capability and customer loyalty.
+Scientific Industries, Inc. makes equipment that sits on lab benches in universities, pharmaceutical companies, and research facilities around the world. Founded in 1954 and based in Bohemia, New York, the company has spent over seven decades building instruments for the scientific work that other companies depend on. It is small — [market capitalization](/market-capitalization/) in the single-digit millions — but it has survived and persisted in a market where survival itself requires genuine engineering capability and customer loyalty.
 
 The company operates in a world where size creates strange dynamics. The biggest laboratory equipment suppliers enjoy economies of scale that let them offer broad product lines, extensive distribution networks, and the backing to invest in new technology. But those same economies of scale create a trap: the big suppliers optimize for high-volume, standardized products. For specialized research tools and custom configurations, for the kinds of equipment that university labs or small biotech firms need but in quantities too modest to justify a major manufacturer's attention, smaller, nimble makers like Scientific Industries find their opening.
 
@@ -45,6 +45,6 @@ This kind of portfolio management is necessary when you are small. A large compe
 
 ## Understanding the business
 
-For investors or researchers studying Scientific Industries, the company's SEC filings (CIK 0000087802) are the primary source of detail on product mix, revenue by segment, gross margins, and the company's path forward. The quarterly and annual reports lay out what the company is trying to accomplish and where management sees opportunity.
+For investors or researchers studying Scientific Industries, the company's SEC filings (CIK 0000087802) are the primary source of detail on product mix, revenue by segment, gross margins, and the company's path forward. The quarterly and [annual reports](/10-k/) lay out what the company is trying to accomplish and where management sees opportunity.
 
 The fundamental question for a small laboratory equipment maker is always whether scale works for or against it. For Scientific Industries, the answer has been nuanced: smallness has allowed the company to focus on specialized niches and remain agile in responding to customer needs. But smallness also constrains research investment, geographic reach, and the ability to compete in markets where volume and scale economies matter. The company survives by knowing exactly where it has an edge and staying disciplined about not straying beyond those boundaries.

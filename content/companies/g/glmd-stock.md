@@ -4,7 +4,7 @@ description: "An Israeli-based specialty pharmaceutical company focused on hepat
 keywords: ["GLMD", "Galmed", "pharma", "hepatic disease", "clinical stage", "specialty pharma"]
 ---
 
-*[Galmed Pharmaceuticals Ltd.](/glmd-stock/) (ticker GLMD) operates as a specialty-focused biotech company with a deliberately narrow therapeutic scope—liver and gastrointestinal disease—in contrast to megacap pharma conglomerates that pursue dozens of therapeutic areas. Where companies like Merck and [AbbVie](/abbv-stock/) spread research and development capital across oncology, cardiology, immunology, and orphan diseases, Galmed concentrates capital in hepatology and gastroenterology, accepting sector [concentration risk](/concentration-risk/) in exchange for the ability to develop deep expertise and potentially dominate its chosen niche if clinical trials succeed.*
+*[Galmed Pharmaceuticals Ltd.](/glmd-stock/) (ticker GLMD) operates as a specialty-focused biotech company with a deliberately narrow therapeutic scope—liver and gastrointestinal disease—in contrast to megacap pharma conglomerates that pursue dozens of therapeutic areas. Where companies like [Merck](/mrk-stock/) and [AbbVie](/abbv-stock/) spread research and development capital across oncology, cardiology, immunology, and orphan diseases, Galmed concentrates capital in hepatology and gastroenterology, accepting sector [concentration risk](/concentration-risk/) in exchange for the ability to develop deep expertise and potentially dominate its chosen niche if clinical trials succeed.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GLMD</td></tr>

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-NextEra Energy is one of the largest utility companies in the United States, operating regulated electricity networks across Florida and elsewhere, alongside one of the world's largest renewable-energy platforms. Its primary regulated subsidiary, Florida Power & Light, serves millions of customers in one of the nation's most densely populated states. The company has positioned itself as a hybrid between traditional utility earnings and clean-energy growth, a positioning that has shaped its investor appeal for two decades.
+[NextEra Energy](/nee-stock/) is one of the largest utility companies in the United States, operating regulated electricity networks across Florida and elsewhere, alongside one of the world's largest renewable-energy platforms. Its primary regulated subsidiary, Florida Power & Light, serves millions of customers in one of the nation's most densely populated states. The company has positioned itself as a hybrid between traditional utility earnings and clean-energy growth, a positioning that has shaped its investor appeal for two decades.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ NextEra Energy is one of the largest utility companies in the United States, ope
 
 ## The regulated utility anchor
 
-NextEra Energy's financial stability rests on Florida Power & Light, a regulated utility that provides electricity to customers across the Florida peninsula and the Keys. Regulated utilities are granted geographic monopolies by state authorities in exchange for submitting to rate regulation — they cannot charge whatever they want, but they are protected from competition and assured a reasonable return on their invested capital. This model produces steady, predictable cash flow rather than explosive growth, and it attracts investors seeking income through dividends and a lowered risk of capital loss.
+NextEra Energy's financial stability rests on Florida Power & Light, a regulated utility that provides electricity to customers across the Florida peninsula and the Keys. Regulated utilities are granted geographic monopolies by state authorities in exchange for submitting to rate regulation — they cannot charge whatever they want, but they are protected from competition and assured a reasonable return on their invested capital. This model produces steady, predictable cash flow rather than explosive growth, and it attracts investors seeking income through [dividends](/dividend/) and a lowered risk of capital loss.
 
 Florida Power & Light operates in one of the fastest-growing states in America, with population inflows from retirement and domestic migration. That growth in the customer base, combined with rising electrification (more air conditioning, more electric vehicles), tends to lift electricity demand over time, which benefits a utility holding a franchise in the state. The regulated tariff structure means FPL cannot pocket all of that growth — most cost increases flow through to customers — but the utility earns a permitted return on its infrastructure investments, a model that incentivizes capital spending on grid modernization and grid hardening against hurricanes and storms.
 
@@ -43,7 +43,7 @@ NextEra Energy's competitive position rests on three elements unlikely to be eas
 
 Second, NextEra Resources competes partly on cost and partly on relationships. The largest wind and solar farms have sizable upfront capital costs and require steady operational excellence to deliver the power those contracts promise. NextEra's age in the business, its scale, and its track record in delivering projects on time and on spec create real switching costs for customers who renew contracts or expand their renewable portfolios. No single rival dominates the space the way NextEra does, though competitors including Brookfield, EDF Renewables, and others have grown significantly.
 
-Third, NextEra has advantages in capital access and financing. Large infrastructure businesses require consistent access to the bond and equity markets to fund growth. NextEra's investment-grade credit rating, established scale, and visibility into long-term cash flows mean it can borrow at favorable rates. A smaller, less established renewable operator faces higher borrowing costs for the same assets, a structural advantage that compounds over time.
+Third, NextEra has advantages in capital access and financing. Large infrastructure businesses require consistent access to the [bond](/bond/) and equity markets to fund growth. NextEra's investment-grade [credit rating](/credit-rating/), established scale, and visibility into long-term cash flows mean it can borrow at favorable rates. A smaller, less established renewable operator faces higher borrowing costs for the same assets, a structural advantage that compounds over time.
 
 ## Headwinds and risks
 

@@ -61,7 +61,7 @@ To mitigate these risks, clinical-stage oncology companies often strike partners
 
 Pyxis is focused on solid tumors where immuno-modulation might broaden or deepen immunotherapy responses. The addressable market for any single oncology drug depends on the indication: a drug effective in advanced melanoma might serve tens of thousands; one effective across multiple cancers might serve hundreds of thousands. The company's regulatory strategy will likely target the diseases where Phase II signals are strongest, then expand into additional indications if approval is granted.
 
-The FDA has expedited approval pathways ([Fast Track](/ftrk-stock/), Breakthrough Therapy) for drugs showing significant promise in serious diseases with unmet need. If Pyxis's compounds show compelling data, regulatory timelines could accelerate beyond the standard 5–10 year path.
+The FDA has expedited approval pathways (Fast Track, Breakthrough Therapy) for drugs showing significant promise in serious diseases with unmet need. If Pyxis's compounds show compelling data, regulatory timelines could accelerate beyond the standard 5–10 year path.
 
 ## How to research Pyxis Oncology
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-LABCORP is one of the two largest clinical laboratory networks in the United States, operating thousands of patient service centers where Americans go for routine blood work, drug screening, and diagnostic testing. The company processes tens of millions of laboratory specimens annually, partnering with physicians, hospitals, employers, and pharmaceutical manufacturers. It sits at the backbone of [American healthcare](/ahr-stock/) and drug development, invisible to most patients but essential to the system.
+LABCORP is one of the two largest clinical laboratory networks in the United States, operating thousands of patient service centers where Americans go for routine blood work, drug screening, and diagnostic testing. The company processes tens of millions of laboratory specimens annually, partnering with physicians, hospitals, employers, and pharmaceutical manufacturers. It sits at the backbone of American healthcare and drug development, invisible to most patients but essential to the system.
 
 ## The Core Business
 

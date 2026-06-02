@@ -68,7 +68,7 @@ Additionally, the ADR structure may involve lower liquidity and wider [bid-ask s
 
 Japan Post Bank has limited organic growth levers. The domestic retail market is mature; expanding overseas is constrained by lack of competitive advantage outside Japan; and deepening into investment banking or wealth management requires a different business model and cost structure than postal retail banking.
 
-Return on equity is therefore likely modest relative to more dynamic [financial institutions](/fisi-stock/). The bank generates stable, predictable cash flow (a positive for income-oriented investors) but limited capital appreciation. [Dividend](/dividend/) policy typically reflects this stable but unspectacular profitability, with the company returning cash to shareholders but not offering dramatic growth.
+Return on equity is therefore likely modest relative to more dynamic financial institutions. The bank generates stable, predictable cash flow (a positive for income-oriented investors) but limited capital appreciation. [Dividend](/dividend/) policy typically reflects this stable but unspectacular profitability, with the company returning cash to shareholders but not offering dramatic growth.
 
 ## Research pointers
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Energy Partners LP is an oil and gas exploration and production company that operates in the Gulf of Mexico. The company finds oil and gas beneath the ocean floor, builds the wells and platforms to extract it, and sells the product to refineries and export terminals. It is structured as a limited partnership, which means it is required by law to distribute most of its cash to unitholders — the investors who own it — rather than hoarding money on the balance sheet.
+Energy Partners LP is an oil and gas exploration and production company that operates in the Gulf of Mexico. The company finds oil and gas beneath the ocean floor, builds the wells and platforms to extract it, and sells the product to refineries and export terminals. It is structured as a limited partnership, which means it is required by law to distribute most of its cash to unitholders — the investors who own it — rather than hoarding money on the [balance sheet](/balance-sheet/).
 
 <aside class="wiki-infobox">
 <table>
@@ -36,7 +36,7 @@ Energy Partners sells the oil and gas it produces. The cash from those sales pay
 
 This is different from a corporation. A corporation can choose to keep cash, invest it in new businesses, or use it to buy back shares. A partnership has much less choice. It almost has to distribute the cash, or the tax treatment becomes awkward and partners get unhappy. So Energy Partners spends the cash it makes, and the rest flows out to unitholders as distributions.
 
-This structure appeals to some investors who want steady cash income from the business they own. But it also means Energy Partners cannot easily save up cash for a major acquisition or investment during a downturn. When oil prices are low and cash generation is weak, the distributions shrink, and there is no cash cushion to smooth things out.
+This structure appeals to some investors who want steady cash income from the business they own. But it also means Energy Partners cannot easily save up cash for a major [acquisition](/acquisition/) or investment during a downturn. When oil prices are low and cash generation is weak, the distributions shrink, and there is no cash cushion to smooth things out.
 
 ## How Energy Partners grows
 

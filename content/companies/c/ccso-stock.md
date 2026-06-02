@@ -20,7 +20,7 @@ The fund does not own every company on Earth. It screens out companies extractin
 
 ## How the selection works
 
-The fund's managers look at each large- and mid-cap U.S. company and ask: Is this company solving climate problems or creating them? A company making solar panels passes. A coal plant operator does not. A car maker cutting emissions and building electric vehicles qualifies. A company extracting natural gas for export probably does not.
+The fund's managers look at each large- and mid-cap U.S. company and ask: Is this company solving climate problems or creating them? A company making solar panels passes. A coal plant operator does not. A car maker cutting emissions and building electric vehicles qualifies. A company extracting [natural gas](/natural-gas/) for export probably does not.
 
 The hard part is the gray area. Some companies market themselves as green when they are mainly doing marketing—this is called greenwashing. Some oil companies claim climate commitment while still exploring for new reserves. Some renewable energy companies have supply-chain or labor problems. The fund's screening tries to separate genuine climate solutions from performance art, but the calls are genuinely hard.
 
@@ -46,11 +46,11 @@ Third: valuation risk. Climate investing has become trendy. When money chases a 
 
 Fourth: the missing-bets risk. Companies working on fusion energy, atmospheric carbon removal, or other moonshot technologies might eventually be huge winners. But they are too small and risky for CCSO to own yet. So the fund captures solutions that exist today but misses some long-term breakthroughs.
 
-Finally, concentration risk: the fund might end up holding a handful of mega-cap climate stocks that carry outsize influence on performance. Diversification within a climate-solutions category is not the same as diversification across the economy.
+Finally, [concentration risk](/concentration-risk/): the fund might end up holding a handful of mega-cap climate stocks that carry outsize influence on performance. [Diversification](/diversification/) within a climate-solutions category is not the same as diversification across the economy.
 
 ## Costs and trading
 
-CCSO charges an annual expense ratio covering management and trading costs. Like any ETF, you can buy or sell shares during stock market hours at prices reflecting investor sentiment about climate stocks. If climate companies are in favor, the price is high. If investors get nervous, it falls.
+CCSO charges an annual [expense ratio](/expense-ratio/) covering management and trading costs. Like any ETF, you can buy or sell shares during [stock market](/stock-market/) hours at prices reflecting investor sentiment about climate stocks. If climate companies are in favor, the price is high. If investors get nervous, it falls.
 
 ## Checking it out
 

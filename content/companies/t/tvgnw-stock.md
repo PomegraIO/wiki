@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*Tevogen Bio Holdings Inc. is a biopharmaceutical company in the early-stage cell therapy space, developing engineered gamma-delta T cells designed to attack cancer cells. The company's strategic angle is to create "off-the-shelf" products that can be manufactured once and dosed to many patients, sidestepping the manufacturing complexity and cost of personalized therapies like CAR-T cells.*
+*[Tevogen Bio](/tvgn-stock/) Holdings Inc. is a biopharmaceutical company in the early-stage cell therapy space, developing engineered gamma-delta T cells designed to attack cancer cells. The company's strategic angle is to create "off-the-shelf" products that can be manufactured once and dosed to many patients, sidestepping the manufacturing complexity and cost of personalized therapies like CAR-T cells.*
 
 <aside class="wiki-infobox">
 <table>
@@ -44,7 +44,7 @@ Manufacturing scale is the second hurdle. Preclinical work on engineered cells t
 
 ## The funding trajectory and burn
 
-Tevogen has been funded through venture capital and SEC offerings of warrants and common stock. As a preclinical-stage biotech, the company is burning capital to fund laboratory work, investigational new drug (IND) application development, and small early-stage clinical studies, with no revenue. The company's balance sheet and runway have been disclosed in SEC filings, but as with all pre-revenue biotech, the clock runs on the capital deployed. A successful IND application and Phase 1 safety data could validate the platform; delays, manufacturing problems, or adverse safety signals could spur a pivotal cash crunch.
+Tevogen has been funded through venture capital and SEC offerings of warrants and [common stock](/common-stock/). As a preclinical-stage biotech, the company is burning capital to fund laboratory work, investigational new drug (IND) application development, and small early-stage clinical studies, with no revenue. The company's [balance sheet](/balance-sheet/) and runway have been disclosed in SEC filings, but as with all pre-revenue biotech, the clock runs on the capital deployed. A successful IND application and Phase 1 safety data could validate the platform; delays, manufacturing problems, or adverse safety signals could spur a pivotal cash crunch.
 
 ## Competitive landscape
 

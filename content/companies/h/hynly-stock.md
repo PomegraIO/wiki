@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Hydro One Limited (ticker HYNLY on the OTC Markets, listing on the Toronto Stock Exchange under TSE: H) is Canada's largest electricity transmission and distribution utility. The company owns the grid and distribution lines that carry power from generation sources to customers across Ontario and parts of the United States. Hydro One is a regulated monopoly — a company that has the exclusive right to deliver electricity to its customers in a defined territory, in exchange for accepting heavy regulation by the Ontario Energy Board. The company does not generate the electricity; it transports it. Revenue comes from the right to charge customers for that transportation service.
+[Hydro One](/hrnnf-stock/) Limited (ticker HYNLY on the OTC Markets, listing on the [Toronto Stock Exchange](/toronto-stock-exchange/) under TSE: H) is Canada's largest electricity transmission and distribution utility. The company owns the grid and distribution lines that carry power from generation sources to customers across Ontario and parts of the United States. Hydro One is a regulated monopoly — a company that has the exclusive right to deliver electricity to its customers in a defined territory, in exchange for accepting heavy regulation by the Ontario Energy Board. The company does not generate the electricity; it transports it. Revenue comes from the right to charge customers for that transportation service.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ Because rates are regulated, Hydro One cannot simply decide to raise prices when
 
 Electricity distribution is enormously capital-intensive. The company must own and maintain thousands of kilometres of transmission lines, transformers, poles, and switching equipment. Storm damage, equipment age, and the need to upgrade systems to handle increased demand or new sources of generation all require continuous capital spending. Hydro One spends billions annually on maintaining, upgrading, and expanding its distribution network.
 
-Because capital requirements are so large and ongoing, the company depends on access to capital markets to finance this investment. Hydro One issues bonds and raises equity to fund its capital program. The regulator allows the company to include the cost of this capital (the interest on debt and the expected return on equity) in the rates it charges customers. But there is a lag: the company incurs the capital expenditure in year one, then gradually recovers that investment through rates over many years. This creates a timing mismatch that makes the utility business riskier than one might assume.
+Because capital requirements are so large and ongoing, the company depends on access to capital markets to finance this investment. Hydro One issues [bonds](/bond/) and raises equity to fund its capital program. The regulator allows the company to include the cost of this capital (the interest on debt and the expected [return on equity](/return-on-equity/)) in the rates it charges customers. But there is a lag: the company incurs the capital expenditure in year one, then gradually recovers that investment through rates over many years. This creates a timing mismatch that makes the utility business riskier than one might assume.
 
 ## Revenue stability and demand forecasting
 
@@ -43,13 +43,13 @@ One attraction of utility stocks is the predictability of revenue. Because Hydro
 
 However, this stability faces new pressures. Demand growth is flattening in mature markets like Ontario. Customers are installing rooftop solar, which reduces their reliance on grid electricity. Electric vehicles are growing, which increases peak demand but may shift consumption patterns in ways that are hard to predict. Industrial customers that consume large amounts of electricity may relocate, stranding some of Hydro One's distribution capacity and requiring rate adjustments to recover the investment.
 
-The regulator's role in setting rates also creates political risk. If the economy is weak and incomes are stagnant, political pressure can mount for the regulator to deny or delay rate increases, even if they are justified by cost inflation. Ontario politicians have occasionally intervened in rate decisions, freezing or limiting increases at times of public discontent.
+The regulator's role in setting rates also creates political risk. If the economy is weak and incomes are stagnant, political pressure can mount for the regulator to deny or delay rate increases, even if they are justified by cost [inflation](/inflation/). Ontario politicians have occasionally intervened in rate decisions, freezing or limiting increases at times of public discontent.
 
 ## Capital structure and dividend sustainability
 
-Hydro One is a mature, stable utility and therefore relies on dividends as the primary return to shareholders. The company is highly leveraged — it carries large amounts of debt to finance its capital program, which is typical for utilities. The high leverage is sustainable because the company's revenues are stable and regulated.
+Hydro One is a mature, stable utility and therefore relies on [dividends](/dividend/) as the primary return to shareholders. The company is highly leveraged — it carries large amounts of debt to finance its capital program, which is typical for utilities. The high leverage is sustainable because the company's revenues are stable and regulated.
 
-The dividend must be supported by free cash flow. Hydro One generates cash from operating activities (customer payments) and uses that cash to pay interest on debt, fund capital spending, and pay dividends. If capital spending rises faster than revenue, or if the regulator does not approve enough of a rate increase to cover inflation, free cash flow can compress. The company may then be forced to choose between cutting the dividend and issuing more debt. Dividend cuts are extremely rare for utilities and usually signal serious operational or regulatory problems.
+The dividend must be supported by [free cash flow](/free-cash-flow/). Hydro One generates cash from operating activities (customer payments) and uses that cash to pay interest on debt, fund capital spending, and pay dividends. If capital spending rises faster than revenue, or if the regulator does not approve enough of a rate increase to cover inflation, free cash flow can compress. The company may then be forced to choose between cutting the dividend and issuing more debt. Dividend cuts are extremely rare for utilities and usually signal serious operational or regulatory problems.
 
 ## Regulatory change and infrastructure investment
 
@@ -59,8 +59,8 @@ However, regulatory risk is real. Canadian and U.S. regulators are increasingly 
 
 ## Researching Hydro One
 
-Anyone studying Hydro One should start with the company's annual report and the regulatory filings with the Ontario Energy Board (available on the board's website). These regulatory documents reveal the company's capital plan, the last approved rate structure, and the regulator's assessment of the company's performance. The annual report shows historical revenue, operating costs, and capital spending, and lays out the company's rate base (the regulated asset value on which it earns a return).
+Anyone studying Hydro One should start with the company's [annual report](/10-k/) and the regulatory filings with the Ontario Energy Board (available on the board's website). These regulatory documents reveal the company's capital plan, the last approved rate structure, and the regulator's assessment of the company's performance. The annual report shows historical revenue, operating costs, and capital spending, and lays out the company's rate base (the regulated asset value on which it earns a return).
 
 Watch the efficiency metrics: are operating costs rising faster than inflation? Is the company able to reduce outage frequency and improve system reliability year over year? Compare Hydro One's allowed return on equity (set by regulators) to returns earned by other utilities and to the broader cost of capital — if the spread is narrowing, that signals political pressure to cap profits.
 
-Track the company's debt levels and credit ratings. A utility that cannot access capital markets will struggle to fund its infrastructure program and will eventually face service deterioration. Finally, monitor developments in Ontario energy policy: any move toward deregulation, distributed generation, or more price-sensitive customer segments would fundamentally change the company's economics and warrant reassessment.
+Track the company's debt levels and [credit ratings](/credit-rating/). A utility that cannot access capital markets will struggle to fund its infrastructure program and will eventually face service deterioration. Finally, monitor developments in Ontario energy policy: any move toward deregulation, distributed generation, or more price-sensitive customer segments would fundamentally change the company's economics and warrant reassessment.

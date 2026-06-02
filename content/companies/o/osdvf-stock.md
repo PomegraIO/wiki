@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Osisko Development is a gold mining company focused on developing past-producing properties in the United States and Canada. The company trades on NYSE under the ticker ODV and on TSXV as ODV, with its primary objective to become an intermediate gold producer by constructing and operating tier-1 projects across North America. What distinguishes Osisko is not operational gold production—it does not yet operate any mines—but its carefully orchestrated approach to assembling the capital required to turn exploration properties into functioning mines.
+[Osisko Development](/odv-stock/) is a gold mining company focused on developing past-producing properties in the United States and Canada. The company trades on NYSE under the ticker ODV and on TSXV as ODV, with its primary objective to become an intermediate gold producer by constructing and operating tier-1 projects across North America. What distinguishes Osisko is not operational gold production—it does not yet operate any mines—but its carefully orchestrated approach to assembling the capital required to turn exploration properties into functioning mines.
 
 <aside class="wiki-infobox">
 <table>
@@ -35,9 +35,9 @@ Unlike a company already generating revenue, Osisko's relationship with cash is 
 
 In mid-2025, Osisko assembled a financing package exceeding US$650 million across three distinct instruments, each reflecting a different layer of confidence and a different cost of money.
 
-The first and most senior layer came from Appian Capital Advisory, which provided a US$450 million project loan secured by the Cariboo property itself. An initial US$100 million tranche was drawn immediately to fund pre-construction activities; the remaining US$350 million sits available, subject to achieving specified project milestones and conditions precedent. This senior debt was the logical place to start: it commands the lowest borrowing cost because the lenders have first claim on all project assets and future cash flows. But no bank would lend to an operating mine before it exists, and no development lender advances money without proof points. By winning the Appian commitment, Osisko signalled to the broader market that the project economics had cleared a serious institutional bar.
+The first and most senior layer came from Appian Capital Advisory, which provided a US$450 million project loan secured by the Cariboo property itself. An initial US$100 million [tranche](/tranche/) was drawn immediately to fund pre-construction activities; the remaining US$350 million sits available, subject to achieving specified project milestones and conditions precedent. This senior debt was the logical place to start: it commands the lowest borrowing cost because the lenders have first claim on all project assets and future cash flows. But no bank would lend to an operating mine before it exists, and no development lender advances money without proof points. By winning the Appian commitment, Osisko signalled to the broader market that the project economics had cleared a serious institutional bar.
 
-Equity capital came second. In August 2025, Osisko closed a US$203 million private placement, with Double Zero Capital LP committing US$75 million for a 15.4% stake in the company. Private equity firms invest where debt investors hesitate—they can tolerate construction risk and schedules that slip—but they extract ownership in return. This equity cushion protects the senior lenders and funds the portions of construction that debt alone cannot cover.
+Equity capital came second. In August 2025, Osisko closed a US$203 million [private placement](/private-placement/), with Double Zero Capital LP committing US$75 million for a 15.4% stake in the company. Private equity firms invest where debt investors hesitate—they can tolerate construction risk and schedules that slip—but they extract ownership in return. This equity cushion protects the senior lenders and funds the portions of construction that debt alone cannot cover.
 
 The third layer, convertible notes offered at US$225 million, occupies structurally distinct ground. Convertible holders receive a fixed interest payment while the project is under construction, behaving like debt investors; if the project succeeds and the stock appreciates, the notes convert into equity at a predetermined price. This hybrid security is cheaper than pure equity but more expensive than secured debt, reflecting its intermediate position.
 
@@ -45,7 +45,7 @@ The third layer, convertible notes offered at US$225 million, occupies structura
 
 The sequencing matters more than any single figure. Senior debt first establishes project credibility. Equity second provides loss-bearing capacity and aligns private-equity holders with management on execution. Convertibles last offer institutional investors defined pathways into equity upside without requiring belief in a speculative mining venture.
 
-Osisko intends to deploy these funds toward the capital expenditure required to construct Cariboo over the next two to three years, with the majority of cash spending concentrated before revenue generation begins. For shareholders, the risk is binary: the project either reaches production, at which point mining cash flow and depreciation shelter returns, or it does not. For debt holders, the risk is project completion and reserve depletion. The company's task is to deliver on both counts without raising further capital at disadvantageous terms.
+Osisko intends to deploy these funds toward the capital expenditure required to construct Cariboo over the next two to three years, with the majority of cash spending concentrated before revenue generation begins. For shareholders, the risk is binary: the project either reaches production, at which point mining cash flow and [depreciation](/depreciation/) shelter returns, or it does not. For debt holders, the risk is project completion and reserve depletion. The company's task is to deliver on both counts without raising further capital at disadvantageous terms.
 
 ## The mining industry background
 
@@ -53,7 +53,7 @@ Osisko's management team includes executives with records of discovering, fundin
 
 ## Where capital flows after the mine
 
-This capital plan assumes construction and production. Once Cariboo begins generating operating cash flow—reserves permitting and commodity prices holding—the company will face a new capital question: whether to retain cash for dividends or maintenance capital expenditure, reinvest in expanding the mine, use it to retire debt early, or acquire additional properties. That decision lies years ahead, contingent on achieving the milestones embedded in the current financing package.
+This capital plan assumes construction and production. Once Cariboo begins generating operating cash flow—reserves permitting and commodity prices holding—the company will face a new capital question: whether to retain cash for [dividends](/dividend/) or maintenance capital expenditure, reinvest in expanding the mine, use it to retire debt early, or acquire additional properties. That decision lies years ahead, contingent on achieving the milestones embedded in the current financing package.
 
 ## How investors research Osisko
 

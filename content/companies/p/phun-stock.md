@@ -37,7 +37,7 @@ The company's operating leverage improves as the customer base scales, because R
 
 ## Competitive landscape and market saturation
 
-The market for mobile application platforms is crowded. Phunware competes against large vendors (Salesforce, SAP, [Microsoft](/msft-stock/)) that bundle mobile capabilities into larger suites, smaller specialized players (OutSystems, Mendix) offering low-code development platforms, and increasingly against generic cloud providers (AWS, Google Cloud, Azure) that let enterprises build [mobile infrastructure](/beep-stock/) at lower cost.
+The market for mobile application platforms is crowded. Phunware competes against large vendors (Salesforce, SAP, [Microsoft](/msft-stock/)) that bundle mobile capabilities into larger suites, smaller specialized players (OutSystems, Mendix) offering low-code development platforms, and increasingly against generic cloud providers (AWS, Google Cloud, Azure) that let enterprises build mobile infrastructure at lower cost.
 
 Mobile app development itself is also less strategic than it was a decade ago. Responsive web design and progressive web apps can deliver most of the functionality of native apps with lower development cost. The smartphone boom of the 2010s created high demand for mobile app platforms; that demand is more saturated today as mobile becomes just another channel rather than the future. Phunware must therefore convince enterprises that building a native mobile experience is worth the investment, and that using Phunware to do so is better than alternatives.
 

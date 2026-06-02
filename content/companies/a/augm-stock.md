@@ -17,19 +17,19 @@ The word "buffer" is the operative one. If the market falls 30%, you lose only 1
 
 ## How the options work
 
-The mechanics rely on two options trades. The fund buys put options, which act as insurance: if the market falls hard, the put pays out, protecting your capital. It then sells call options to pay for that insurance. When the market rises, those sold calls cap your gains. The cap is real — you literally cannot make more than the stated percentage in that annual term, no matter how well the Russell 1000 performs.
+The mechanics rely on two options trades. The fund buys [put options](/put-option/), which act as insurance: if the market falls hard, the put pays out, protecting your capital. It then sells [call options](/call-option/) to pay for that insurance. When the market rises, those sold calls cap your gains. The cap is real — you literally cannot make more than the stated percentage in that annual term, no matter how well the Russell 1000 performs.
 
-The annual reset (in August, for this fund) is crucial. Each year the fund team reprices the puts and calls, so the actual buffer percentage and cap percentage can shift. One year might offer 12% downside protection with a 25% upside cap; another might offer 20% protection with a 40% cap. The tradeoff depends on where interest rates and market volatility sit. In high-volatility or low-rate years, insurance (the puts) is cheaper, so the fund can offer better terms.
+The annual reset (in August, for this fund) is crucial. Each year the fund team reprices the puts and calls, so the actual buffer percentage and cap percentage can shift. One year might offer 12% downside protection with a 25% upside cap; another might offer 20% protection with a 40% cap. The tradeoff depends on where [interest rates](/interest-rate/) and market volatility sit. In high-volatility or low-rate years, insurance (the puts) is cheaper, so the fund can offer better terms.
 
 ## Who this fund is for
 
 This is built for people who can stomach staying in U.S. equities but who sleep poorly in a drawdown. A retiree in year five of retirement who needs the growth but cannot afford a 40% loss, a nervous first-time investor who wants to own stocks but fears timing the entry wrong, or someone who has already made their money and wants returns without the sting — these are the typical owners.
 
-It is not for traders or for people chasing absolute returns. You will never beat the Russell 1000 by owning AUGM, and you should not expect to. The fund is a simplification tool: one ticker that manages volatility and risk automatically, rather than you trying to juggle stocks, bonds, and hedges yourself.
+It is not for traders or for people chasing absolute returns. You will never beat the Russell 1000 by owning AUGM, and you should not expect to. The fund is a simplification tool: one ticker that manages volatility and risk automatically, rather than you trying to juggle stocks, [bonds](/bond/), and hedges yourself.
 
 ## The cost and the tradeoff
 
-Owning AUGM costs slightly more than owning a plain Russell 1000 index fund — the options overlay adds a management fee. That cost is the price you pay for the automated downside cap and the peace of mind it brings. Over multi-year periods, if the market suffers a sharp correction, the buffer can make back the cost in a single bad year. If the market rises steadily without any crash, you will have underperformed the plain index, and the extra fee stings.
+Owning AUGM costs slightly more than owning a plain Russell 1000 [index fund](/index-fund/) — the options overlay adds a [management fee](/management-fee/). That cost is the price you pay for the automated downside cap and the peace of mind it brings. Over multi-year periods, if the market suffers a sharp correction, the buffer can make back the cost in a single bad year. If the market rises steadily without any crash, you will have underperformed the plain index, and the extra fee stings.
 
 The real risk is volatility decay. In years when the market churns sideways — rising and falling repeatedly but ending little changed — the resets and the cap can dull returns more than a cap should. Additionally, a one-day crash that recovers quickly still locks in losses within that annual period; the buffer protects you at the end of August, not intra-month. And if the market falls sharply just before the reset date, you take the full loss rather than the buffered loss.
 

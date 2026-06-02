@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Nuveen California Municipal Value Fund (NYSE: NCA) is a closed-end investment company that pools investor capital to purchase a diversified portfolio of California [municipal bonds](/municipal-bond/) and other fixed-income securities that provide income exempt from both federal income tax and California state income tax. [Closed-end funds](/closed-end-fund/) are fixed-size pools with a permanent capital structure — investors buy shares on the [stock exchange](/stock-exchange/) rather than directly purchasing fund units, and the fund itself does not issue or redeem shares in response to inflows and outflows the way [mutual funds](/mutual-fund/) do.
+Nuveen California Municipal [Value Fund](/value-fund/) (NYSE: NCA) is a closed-end investment company that pools investor capital to purchase a diversified portfolio of California [municipal bonds](/municipal-bond/) and other fixed-income securities that provide income exempt from both federal income tax and California state income tax. [Closed-end funds](/closed-end-fund/) are fixed-size pools with a permanent capital structure — investors buy shares on the [stock exchange](/stock-exchange/) rather than directly purchasing fund units, and the fund itself does not issue or redeem shares in response to inflows and outflows the way [mutual funds](/mutual-fund/) do.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ Nuveen California Municipal Value Fund (NYSE: NCA) is a closed-end investment co
 
 ## How the fund works
 
-NCA invests predominantly in municipal securities issued by California cities, counties, school districts, and other local entities. These bonds fund infrastructure — schools, roads, water systems, public utilities — and other public functions. Because they are backed by the taxing power or revenue of a specific public entity, municipal bonds carry different credit risks than corporate debt. A high-quality California school-district bond backed by [property tax](/property-tax/) revenue carries different dynamics than a struggling city or a specialized authority backed by weaker revenue streams.
+NCA invests predominantly in municipal securities issued by California cities, counties, school districts, and other local entities. These [bonds](/bond/) fund infrastructure — schools, roads, water systems, public utilities — and other public functions. Because they are backed by the taxing power or revenue of a specific public entity, municipal bonds carry different [credit risks](/credit-risk/) than corporate debt. A high-quality California school-district bond backed by [property tax](/property-tax/) revenue carries different dynamics than a struggling city or a specialized authority backed by weaker revenue streams.
 
 The fund seeks current income exempt from both federal income and California personal income tax. For high-income Californians in top tax brackets, this tax-exempt yield can be more valuable after tax than a much higher yield from taxable bonds. A muni bond yielding 4 percent to a wealthy Californian faces no federal or state income tax, whereas a 6 percent [corporate bond](/corporate-bond/) in the same hands would be taxed at rates exceeding 50 percent combined — making the muni genuinely more valuable on an after-tax basis.
 
@@ -38,7 +38,7 @@ As a closed-end fund, NCA has a fixed number of shares and a permanent capital p
 
 The fund's revenue comes entirely from the interest payments on the bonds in its portfolio. There are no [management fees](/management-fee/) charged directly to the fund — instead, the adviser (Nuveen Investments) is paid by TIAA, the parent organization. Those costs are embedded in the fund's [expense ratio](/expense-ratio/). As bonds mature or are sold, the fund reinvests the proceeds in new municipal securities, compounding the tax-exempt income stream.
 
-What makes the fund distinctive is its dual focus: not only on income (the primary objective) but also on enhancement of portfolio value. This means the portfolio manager has some flexibility to optimize the portfolio for capital appreciation — for instance, if rates are expected to fall, positioning the portfolio in longer-dated bonds that will appreciate; or identifying individual bonds trading at a discount to fair value that can be sold later at a profit.
+What makes the fund distinctive is its dual focus: not only on income (the primary objective) but also on enhancement of portfolio value. This means the portfolio manager has some flexibility to optimize the portfolio for capital appreciation — for instance, if rates are expected to fall, positioning the portfolio in longer-dated bonds that will appreciate; or identifying individual bonds trading at a discount to [fair value](/fair-value/) that can be sold later at a profit.
 
 ## The shifting landscape for municipal bonds
 
@@ -50,7 +50,7 @@ California-specific risks are also real. The state has a large and growing publi
 
 ## Investment mechanics and research
 
-For someone evaluating NCA, the fund's most important disclosures are its [annual reports](/10-k/) and fact sheets, which detail the portfolio composition, average [credit rating](/credit-rating/), duration, and yield. The credit quality of the underlying bonds matters enormously — a portfolio heavy in lower-rated securities will offer higher yield but carry more default risk, particularly in a recession.
+For someone evaluating NCA, the fund's most important disclosures are its [annual reports](/10-k/) and fact sheets, which detail the portfolio composition, average [credit rating](/credit-rating/), duration, and yield. The credit quality of the underlying bonds matters enormously — a portfolio heavy in lower-rated securities will offer higher yield but carry more default risk, particularly in a [recession](/recession/).
 
 The share price, the net asset value, and whether the fund trades at a premium or discount are also critical signals. A persistent discount might indicate investor pessimism about municipal bonds generally or about California specifically — and could create an opportunity for value-oriented investors. Conversely, a premium suggests the market is willing to pay more than the underlying value, a warning sign.
 

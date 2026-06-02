@@ -21,7 +21,7 @@ P2 Solar sources photovoltaic modules and related balance-of-system components �
 
 The addressable market is the installed base of residential and commercial solar installers across North America. There are thousands of installers ranging from one-person operations to large regional chains. Most rely on distributors like P2 Solar to keep inventory on hand, handle logistics, manage relationships with upstream manufacturers, and absorb the working-capital burden of holding stock.
 
-The unit economics are razor-thin. Gross margins on solar panels hover in the single digits — low single digits for commodity panels, slightly higher for premium or specialized equipment. To make money, a distributor must turn inventory fast, negotiate volume discounts from suppliers, and keep operating expenses lean. A percentage-point improvement in gross margin or a few days faster in inventory turnover can be the difference between profit and loss.
+The unit economics are razor-thin. Gross margins on solar panels hover in the single digits — low single digits for commodity panels, slightly higher for premium or specialized equipment. To make money, a distributor must turn inventory fast, negotiate volume discounts from suppliers, and keep operating expenses lean. A percentage-point improvement in gross margin or a few days faster in [inventory turnover](/inventory-turnover/) can be the difference between profit and loss.
 
 ## Competition and positioning
 
@@ -47,13 +47,13 @@ Second is the long-term risk to the distribution model itself. As solar becomes 
 
 Third is policy risk. The ITC is due to phase down after 2032; if Congress lets it expire, residential solar installation could slow sharply. Tariffs on imported panels remain politically contentious and could change, shifting the competitive landscape overnight.
 
-Fourth, the company operates in a capital-intensive business with thin margins. A recession, a sudden drop in installation, or a miss on inventory could quickly drain cash. The company must manage its balance sheet carefully.
+Fourth, the company operates in a capital-intensive business with thin margins. A [recession](/recession/), a sudden drop in installation, or a miss on inventory could quickly drain cash. The company must manage its [balance sheet](/balance-sheet/) carefully.
 
 ## How to research P2 Solar
 
-Start with the SEC filings (CIK 0001172069), particularly the annual report and quarterly 10-Qs. Look for revenue trends, gross margins, inventory levels, and days sales outstanding (how long it takes to collect from customers). A rising inventory level combined with slow sales is a warning sign. Watch the company's commentary on market conditions — are installers buying, and are they optimistic?
+Start with the SEC filings (CIK 0001172069), particularly the [annual report](/10-k/) and quarterly 10-Qs. Look for revenue trends, gross margins, inventory levels, and [days sales outstanding](/days-sales-outstanding/) (how long it takes to collect from customers). A rising inventory level combined with slow sales is a warning sign. Watch the company's commentary on market conditions — are installers buying, and are they optimistic?
 
-Key metrics include gross margin (percentage points of pricing power), inventory turnover (how many times per year is inventory sold and replaced), and accounts receivable turnover (cash collection speed). For a distributor, these operational metrics often tell you more than absolute revenue numbers.
+Key metrics include gross margin (percentage points of pricing power), inventory turnover (how many times per year is inventory sold and replaced), and [accounts receivable turnover](/accounts-receivable-turnover/) (cash collection speed). For a distributor, these operational metrics often tell you more than absolute revenue numbers.
 
 Monitor federal solar policy, particularly the ITC and any tariff announcements. And watch the broader solar market: are installation costs falling? Are new competitors entering distribution? Is the installed base of solar growing, or has the market matured?
 

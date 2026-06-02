@@ -46,7 +46,7 @@ This leverage is both opportunity and constraint. Borrowing more lets Hercules i
 
 ## Concentration and diversification
 
-Hercules manages thousands of relationships across healthcare (medical devices, private practices, [healthcare services](/hcsg-stock/)), technology (software, business services, IT infrastructure), and industrials. No single loan is enormous by market standards, but the portfolio is concentrated enough that a handful of companies represent material risk. Economic downturns tend to hurt all portfolio companies at once — a rising tide lifts all boats, but a recession grounds them together.
+Hercules manages thousands of relationships across healthcare (medical devices, private practices, healthcare services), technology (software, business services, IT infrastructure), and industrials. No single loan is enormous by market standards, but the portfolio is concentrated enough that a handful of companies represent material risk. Economic downturns tend to hurt all portfolio companies at once — a rising tide lifts all boats, but a recession grounds them together.
 
 Healthcare has been the largest sector, reflecting both the stability of medical companies and Hercules' own expertise in the space. Technology and industrials provide balance. Geographic concentration is less of a concern than sector concentration, since Hercules' borrowers operate across the United States and many have national or international reach.
 

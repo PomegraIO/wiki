@@ -36,7 +36,7 @@ Valuation of Intensity reflects the risk-adjusted probability that its pipeline 
 
 ## Differentiation within oncology
 
-The oncology space includes established companies (Roche, Merck, Bristol Myers, [Novartis](/nvs-stock/), [AstraZeneca](/azn-stock/)) with dozens of approved cancer drugs and large R&D budgets, mid-cap oncology biotechs with one or two lead programs in Phase 2–3, and hundreds of early-stage oncology startups with pre-clinical or Phase 1 assets. Intensity's value depends on whether its compounds offer something meaningfully better than existing options or address a patient population that is underserved.
+The oncology space includes established companies (Roche, [Merck](/mrk-stock/), Bristol Myers, [Novartis](/nvs-stock/), [AstraZeneca](/azn-stock/)) with dozens of approved cancer drugs and large R&D budgets, mid-cap oncology biotechs with one or two lead programs in Phase 2–3, and hundreds of early-stage oncology startups with pre-clinical or Phase 1 assets. Intensity's value depends on whether its compounds offer something meaningfully better than existing options or address a patient population that is underserved.
 
 Potential differentiation strategies include: targeting a specific cancer subtype with a genetic mutation that existing drugs don't address; designing a drug with a better safety profile than competitors; combining two mechanisms to overcome resistance; or focusing on a rare cancer where the patient population is small but the unmet need is large. The company's competitive positioning, though not always disclosed in real-time, becomes clearer through trial results, scientific publications, and clinical conferences.
 

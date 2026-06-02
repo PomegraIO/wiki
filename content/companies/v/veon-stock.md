@@ -44,7 +44,7 @@ Downstream, VEON serves end consumers (who switch carriers based on price, cover
 
 ## The geopolitical and currency trap
 
-VEON's greatest risk is geographic: it operates in countries with histories of currency crises, capital controls, and geopolitical instability. When a local currency collapses (as the ruble did in 2022, as multiple African currencies have), VEON's ruble or peso revenues convert to fewer U.S. dollars on the consolidated statement, directly shrinking reported profitability. More severely, if a government imposes capital controls (restrictions on moving money out of the country), VEON's ability to pay [dividends](/dividend/) or service debt becomes constrained.
+VEON's greatest risk is geographic: it operates in countries with histories of currency crises, capital controls, and geopolitical instability. When a local currency collapses (as the ruble did in 2022, as multiple African currencies have), VEON's ruble or peso revenues convert to fewer [U.S. dollars](/us-dollar/) on the consolidated statement, directly shrinking reported profitability. More severely, if a government imposes capital controls (restrictions on moving money out of the country), VEON's ability to pay [dividends](/dividend/) or service debt becomes constrained.
 
 The Ukraine exposure is acute: the company's fixed assets (towers, fiber, network infrastructure) in the country remain under geopolitical risk, and management's ability to operate and collect revenue there is uncertain.
 

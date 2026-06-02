@@ -12,13 +12,13 @@ handwritten: true
 
 ### What exactly is Plum Acquisition Corp, IV?
 
-Plum Acquisition Corp, IV is a special-purpose acquisition company, commonly called a SPAC or "blank-check" company. It is a public shell created with one explicit purpose: to raise money from shareholders, identify a private business, negotiate and complete an acquisition, and merge that private company into the public shell. The result is that the private company becomes a public company without having to pursue a traditional IPO.
+Plum [Acquisition](/acquisition/) Corp, IV is a [special-purpose acquisition company](/special-purpose-acquisition-company/), commonly called a SPAC or "blank-check" company. It is a public shell created with one explicit purpose: to raise money from shareholders, identify a private business, negotiate and complete an acquisition, and merge that private company into the public shell. The result is that the private company becomes a public company without having to pursue a traditional IPO.
 
 The company itself has no operating business. It owns no products, serves no customers, and generates no revenue. It is purely a capital-raising vehicle and legal wrapper. Its only asset is the cash raised from public investors, held in trust until a deal closes.
 
 ### How does the capital flow work?
 
-Plum Acquisition Corp, IV went public by offering shares and warrants to investors. The capital raised was placed into a trust account, which acts as a ring-fenced pool of money. This trust cannot be touched except to fund a qualifying business combination or to return cash to shareholders if the merger window expires without a deal.
+Plum Acquisition Corp, IV went public by offering shares and warrants to investors. The capital raised was placed into a trust account, which acts as a ring-fenced pool of money. This trust cannot be touched except to fund a qualifying [business combination](/business-combination-purchase/) or to return cash to shareholders if the [merger](/merger/) window expires without a deal.
 
 Management and sponsors — the team running the SPAC — receive promote shares, which have no economic value until a merger is completed. This structure aligns incentives: sponsors are rewarded only if they find and complete an acquisition that shareholders approve.
 
@@ -26,7 +26,7 @@ When management identifies a target, they negotiate with that company's owners. 
 
 ### What is the warrant and why does it matter?
 
-When Plum raised capital, investors typically bought a share plus a warrant. A warrant is an option to buy additional shares at a fixed strike price, usually higher than the IPO price. Warrants only become valuable if the post-merger company stock rises above the strike.
+When Plum raised capital, investors typically bought a share plus a warrant. A warrant is an option to buy additional shares at a fixed [strike price](/strike-price/), usually higher than the IPO price. Warrants only become valuable if the post-merger company stock rises above the strike.
 
 This creates a risk gradient. Early shareholders get the right to redeem at trust value if they dislike the merger deal. Warrant holders have no such cushion — if the merger produces a stock that never rises above the strike price, the warrants expire worthless. This is why SPAC warrants often trade at steep discounts to the share price.
 
@@ -40,7 +40,7 @@ This timeline creates real pressure. As the deadline approaches, management must
 
 For a private business owner or founder, the SPAC route offers a faster path to public markets than a traditional IPO. Rather than spend months in a roadshow, underwriting legal work, and SEC review, a private company can negotiate a merger with a SPAC in a matter of weeks or months, agree on a valuation, and emerge as a public company.
 
-The private company also gets immediate access to public-market capital, liquidity for early investors and employees, and a currency (shares of the newly public company) to make future acquisitions. In many cases, the target company negotiates lock-up periods, board seats, and other protections to ensure continuity of management and strategic direction post-merger.
+The private company also gets immediate access to public-market capital, liquidity for early investors and employees, and a currency (shares of the newly public company) to make future acquisitions. In many cases, the target company negotiates [lock-up periods](/lock-up-period/), board seats, and other protections to ensure continuity of management and strategic direction post-merger.
 
 ### What risks should investors understand?
 

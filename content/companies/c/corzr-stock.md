@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Core Scientific operates Bitcoin mining farms — vast data centers filled with specialized computers that solve cryptographic puzzles to validate blockchain transactions and earn newly minted Bitcoin as rewards. The company has grown into one of the largest publicly traded mining operations in the world, competing in an industry where scale, energy efficiency, and access to cheap power determine profitability.
+Core Scientific operates [Bitcoin](/bitcoin/) mining farms — vast data centers filled with specialized computers that solve cryptographic puzzles to validate blockchain transactions and earn newly minted Bitcoin as rewards. The company has grown into one of the largest publicly traded mining operations in the world, competing in an industry where scale, energy efficiency, and access to cheap power determine profitability.
 
 <aside class="wiki-infobox">
 <table>
@@ -36,7 +36,7 @@ Core Scientific's advantage is scale. The company operates multiple mining facil
 
 Mining consumes staggering amounts of electricity. A single large facility can draw power equivalent to a small city. This creates a fundamental tension in the business: the electricity cost per Bitcoin mined is an industry-wide metric, and every miner is acutely exposed to changes in the energy market.
 
-Core Scientific has addressed this through diversified sourcing. Rather than rely on a single power contract or region, the company has facilities powered by a mix of traditional grid power, flared natural gas (otherwise wasted at oil wells), renewable energy from wind and solar farms, and other sources. The mix varies by facility and changes over time as the company seeks favorable long-term energy contracts. Access to reliable, low-cost power is a form of competitive moat — once a miner signs a multi-year energy deal at a favorable price, it is difficult for competitors to win that same supply.
+Core Scientific has addressed this through diversified sourcing. Rather than rely on a single power contract or region, the company has facilities powered by a mix of traditional grid power, flared [natural gas](/natural-gas/) (otherwise wasted at oil wells), renewable energy from wind and solar farms, and other sources. The mix varies by facility and changes over time as the company seeks favorable long-term energy contracts. Access to reliable, low-cost power is a form of competitive moat — once a miner signs a multi-year energy deal at a favorable price, it is difficult for competitors to win that same supply.
 
 The business has high fixed costs (the mining hardware depreciates, the facility leases run for years) and minimal variable costs once the rigs are running. This creates operating leverage: when Bitcoin prices rise, existing machines become dramatically more profitable; when Bitcoin prices fall, many machines operate at a loss and companies must decide whether to mothball them or run at reduced margins.
 
@@ -50,4 +50,4 @@ Regulatory risk exists too. Bitcoin mining's environmental footprint and energy 
 
 ## How to research Core Scientific
 
-Start with the company's most recent 10-K filing (SEC CIK 0001839341), which details the mining facilities, energy arrangements, hardware inventory, and hash rate — the computing power the company commands. Look for: the cost per Bitcoin mined (often disclosed or calculable from the financials), the mix of energy sources, remaining life and utilization of major equipment, and any long-term power contracts. Track Bitcoin's price and the company's realized average mining cost per coin to understand the margin. Mining-industry data sources publish network-wide hash rate and difficulty adjustments, which contextualize how Core Scientific's hashrate compares to the total and how much computational competition has intensified.
+Start with the company's most recent 10-K filing (SEC CIK 0001839341), which details the mining facilities, energy arrangements, hardware inventory, and [hash rate](/hash-rate/) — the computing power the company commands. Look for: the cost per Bitcoin mined (often disclosed or calculable from the financials), the mix of energy sources, remaining life and utilization of major equipment, and any long-term power contracts. Track Bitcoin's price and the company's realized average mining cost per coin to understand the margin. Mining-industry data sources publish network-wide hash rate and [difficulty adjustments](/difficulty-adjustment/), which contextualize how Core Scientific's hashrate compares to the total and how much computational competition has intensified.

@@ -18,7 +18,7 @@ Daiwa's foundational revenue source is the spread—the gap between the price th
 
 The cost to Daiwa of executing that order includes technology (the trading platform, execution systems, market data), operations staff (order fulfillment, compliance monitoring), and back-office work (clearing, settlement, record-keeping). For a simple equity trade, the operating cost to Daiwa might be $1 to $3 per trade, depending on order size and complexity. The spread is high relative to cost, yielding gross margin of 60% to 80% on simple retail equity trades.
 
-Institutional trades—large blocks of securities, bonds, derivatives—operate on smaller spreads but higher absolute volumes. An institutional client executing a $100 million block trade might pay a spread of 0.01% to 0.05%, generating $10,000 to $50,000 in gross revenue. The cost to execute is higher in absolute terms (more compliance, more risk management, more prime-brokerage overhead) but still small relative to revenue. A $30,000 institutional trade spread yields perhaps $2,000 to $5,000 in net margin to Daiwa after costs.
+Institutional trades—large blocks of securities, [bonds](/bond/), derivatives—operate on smaller spreads but higher absolute volumes. An institutional client executing a $100 million block trade might pay a spread of 0.01% to 0.05%, generating $10,000 to $50,000 in gross revenue. The cost to execute is higher in absolute terms (more compliance, more risk management, more prime-brokerage overhead) but still small relative to revenue. A $30,000 institutional trade spread yields perhaps $2,000 to $5,000 in net margin to Daiwa after costs.
 
 ## Transaction Volume and Cyclical Swings
 

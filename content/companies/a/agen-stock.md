@@ -20,7 +20,7 @@ Clinical-stage biotechs like Agenus depend on capital markets and strategic part
 
 ## Where does Agenus sit in the competitive landscape?
 
-Immuno-oncology is now dominated by megacaps (Merck, BMS) and well-funded specialists (Juno, Celgene assets). Agenus operates as a smaller, earlier-stage contender with a focused platform rather than a diversified portfolio. Cell therapy in particular is capital-hungry and technically complex—manufacturing, quality control, and patient logistics create real barriers to entry. Agenus competes on the strength of its IP, the specificity of its target indications, and partnerships that validate and finance the science. Success hinges on whether any single program generates a surprise clinical win rather than on scale or market share.
+Immuno-oncology is now dominated by megacaps ([Merck](/mrk-stock/), BMS) and well-funded specialists (Juno, Celgene assets). Agenus operates as a smaller, earlier-stage contender with a focused platform rather than a diversified portfolio. Cell therapy in particular is capital-hungry and technically complex—manufacturing, quality control, and patient logistics create real barriers to entry. Agenus competes on the strength of its IP, the specificity of its target indications, and partnerships that validate and finance the science. Success hinges on whether any single program generates a surprise clinical win rather than on scale or market share.
 
 ## What should an investor actually monitor?
 

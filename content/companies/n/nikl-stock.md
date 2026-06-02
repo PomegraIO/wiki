@@ -44,19 +44,19 @@ NIKL investors often pitch the bull case on this trend: EV adoption will acceler
 
 ## Concentration and commodity leverage
 
-NIKL deliberately focuses on nickel producers, not broad diversified miners. This concentration is both strength and weakness. Strength: if nickel prices surge, the entire portfolio benefits. Weakness: if nickel prices collapse or supply surpluses emerge, there is no diversification buffer from gold, copper, or iron ore holdings. NIKL is a pure nickel bet.
+NIKL deliberately focuses on nickel producers, not broad diversified miners. This concentration is both strength and weakness. Strength: if nickel prices surge, the entire portfolio benefits. Weakness: if nickel prices collapse or supply surpluses emerge, there is no [diversification](/diversification/) buffer from gold, copper, or [iron ore](/iron-ore/) holdings. NIKL is a pure nickel bet.
 
 Additionally, miners amplify commodity price swings. When nickel prices rise 10 percent, a low-cost mine's profits might rise 40 percent because variable costs stay relatively fixed. Conversely, a 10 percent price fall can halve profits or create losses. NIKL holders are signing up for this leverage.
 
 ## Geopolitical and operational risks
 
-NIKL's holdings span Indonesia, Russia, Australia, Canada, and other major nickel-producing regions. Indonesia and Russia are among the world's largest producers, exposing the fund to geopolitical sanctions, supply disruptions, labor instability, and environmental regulation. A mine flooded by weather, shut down by a labor dispute, or frozen by sanctions can crater the fund's returns regardless of nickel prices.
+NIKL's holdings span Indonesia, Russia, Australia, Canada, and other major nickel-producing regions. Indonesia and Russia are among the world's largest producers, exposing the fund to geopolitical sanctions, supply disruptions, labor instability, and environmental [regulation. A](/regulation-a/) mine flooded by weather, shut down by a labor dispute, or frozen by sanctions can crater the fund's returns regardless of nickel prices.
 
 Environmental permitting is increasingly stringent. Indigenous land claims, water-use conflicts, and climate regulation can delay or kill projects, especially in developing nations. Mining is also capital-intensive; building a new mine requires billions and takes years. If nickel prices crash before the mine reaches full production, shareholders can be destroyed.
 
 ## Expense ratio and trading mechanics
 
-NIKL carries an expense ratio covering management and administration. Because the fund is narrower than a broad market index, daily trading volume may be lower and bid-ask spreads wider than mega-cap ETFs. Investors should check market depth before buying or selling large positions.
+NIKL carries an [expense ratio](/expense-ratio/) covering management and administration. Because the fund is narrower than a broad market index, daily trading volume may be lower and [bid-ask spreads](/bid-ask-spread/) wider than mega-cap ETFs. Investors should check market depth before buying or selling large positions.
 
 ## Who should own NIKL
 

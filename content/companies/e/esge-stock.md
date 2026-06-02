@@ -21,9 +21,9 @@ The ESG screen means the fund avoids companies with terrible environmental recor
 
 ## How the fund works
 
-ESGE trades on a US stock exchange. You buy and sell it like any other stock. The price moves all day based on what people will pay for it and what the companies inside it are worth. The fund moves in and out of your account instantly. It is not hard to use.
+ESGE trades on a US [stock exchange](/stock-exchange/). You buy and sell it like any other stock. The price moves all day based on what people will pay for it and what the companies inside it are worth. The fund moves in and out of your account instantly. It is not hard to use.
 
-BlackRock runs the fund and owns the index. They charge you a small fee each year to keep it going. The fee is cheap. It will not decide whether you make or lose money.
+[BlackRock](/blk-stock/) runs the fund and owns the index. They charge you a small fee each year to keep it going. The fee is cheap. It will not decide whether you make or lose money.
 
 ## The real risks
 
@@ -33,7 +33,7 @@ China and India make up more than half the fund. They matter most. If China crac
 
 Historically, emerging markets have grown faster than developed markets, which is why they are a common portfolio component. However, faster growth also carries steeper downside: valuations can compress quickly, and currency moves add volatility.
 
-One more thing: currency moves separately from stocks. The Chinese yuan, Indian rupee, Brazilian real—they all swing against the dollar. This can help you or hurt you, depending on whether the dollar is strong or weak.
+One more thing: currency moves separately from stocks. The Chinese yuan, [Indian rupee](/indian-rupee/), Brazilian real—they all swing against the dollar. This can help you or hurt you, depending on whether the dollar is strong or weak.
 
 ## Understanding ESGE and how to research it
 

@@ -11,9 +11,9 @@ keywords:
 handwritten: true
 ---
 
-Tidewise Acquisition Corp sits empty. No operations, no product, no recurring revenue — only a shell, a pile of capital, and a mandate to find and merge with an unspecified operating company.
+Tidewise [Acquisition](/acquisition/) Corp sits empty. No operations, no product, no recurring revenue — only a shell, a pile of capital, and a mandate to find and merge with an unspecified operating company.
 
-The structure is straightforward. Tidewise is a "blank-check company," formally a Special Purpose Acquisition Company or SPAC. The firm was created solely to raise money from public investors on the promise that management would use the capital to acquire (or merge with) a real operating business. If the merger closes, Tidewise shareholders inherit ownership of that target company, which then trades under Nasdaq under whatever ticker its sponsors choose. If no acceptable merger materialises within a time window (typically 18 to 24 months), the SPAC is dissolved and capital is returned to public shareholders.
+The structure is straightforward. Tidewise is a "blank-check company," formally a Special Purpose Acquisition Company or SPAC. The firm was created solely to raise money from public investors on the promise that management would use the capital to acquire (or merge with) a real operating business. If the [merger](/merger/) closes, Tidewise shareholders inherit ownership of that target company, which then trades under [Nasdaq](/nasdaq/) under whatever ticker its sponsors choose. If no acceptable merger materialises within a time window (typically 18 to 24 months), the SPAC is dissolved and capital is returned to public shareholders.
 
 The entity filed for a public offering on Nasdaq Capital Market, with plans to list units (each unit comprising ordinary shares, warrants, and rights) under the symbol TEACU. Once these securities began trading separately, the shares, units, and rights would trade on Nasdaq under symbols TEAC, TEACU, and TEACR respectively. Capital Market is Nasdaq's tier below Global Select — home to smaller, earlier-stage companies with lower listing standards around profitability and size.
 
@@ -25,7 +25,7 @@ The SPAC model hinges on a cyclical arbitrage. In strong equity markets with abu
 
 When it doesn't work — when markets sour or when sponsor-picked deals disappoint — SPAC credibility collapses. Public investors have been burned repeatedly by mergers that destroyed shareholder value or by sponsors who pursued deals below reasonable quality standards. During down markets, SPAC formation slows, redemptions spike, and the sector becomes radioactive.
 
-A merger announcement does not guarantee a deal's success. Tidewise shareholders — if the company raised capital successfully — would have voting rights and redemption rights at the time a merger was announced. Shareholders could redeem their shares at par value if they objected to the proposed target. Only those who kept their shares would own the merged entity. This dynamic creates a gap between sponsor incentives (close the deal and earn the promote) and public shareholder incentives (make sure the deal is actually good). That misalignment is baked into the model.
+A merger announcement does not guarantee a deal's success. Tidewise shareholders — if the company raised capital successfully — would have [voting rights](/voting-rights/) and [redemption rights](/redemption-rights-equity/) at the time a merger was announced. Shareholders could redeem their shares at [par value](/par-value/) if they objected to the proposed target. Only those who kept their shares would own the merged entity. This dynamic creates a gap between sponsor incentives (close the deal and earn the promote) and public shareholder incentives (make sure the deal is actually good). That misalignment is baked into the model.
 
 ## Capital, runway, and timing
 

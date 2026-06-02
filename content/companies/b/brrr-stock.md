@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-The CoinShares Bitcoin ETF (trading under the ticker BRRR on the Toronto Stock Exchange) is a fund that holds Bitcoin directly and allows investors to gain exposure to the cryptocurrency through a conventional ETF wrapper. Rather than trading Bitcoin on an exchange or managing a wallet, investors can purchase BRRR shares through any brokerage account, with pricing that tracks Bitcoin's spot price and daily rebalancing handled by the fund's managers.
+The CoinShares [Bitcoin](/bitcoin/) ETF (trading under the ticker BRRR on the [Toronto Stock Exchange](/toronto-stock-exchange/)) is a fund that holds Bitcoin directly and allows investors to gain exposure to the cryptocurrency through a conventional ETF wrapper. Rather than trading Bitcoin on an exchange or managing a wallet, investors can purchase BRRR shares through any brokerage account, with pricing that tracks Bitcoin's spot price and daily rebalancing handled by the fund's managers.
 
 <aside class="wiki-infobox">
 <table>
@@ -31,9 +31,9 @@ CoinShares, a Luxembourg-based digital asset manager, launched this vehicle to s
 
 ## How BRRR works operationally
 
-When an investor buys a share of BRRR, they are purchasing a claim on a portion of the fund's Bitcoin holdings. The fund itself manages the purchase and custody of Bitcoin, typically through a combination of authorized participants and institutional custodians. As Bitcoin's price fluctuates, the net asset value (NAV) of each share adjusts proportionally. The fund may charge a management fee (the expense ratio) to cover operations, custody, and asset management costs.
+When an investor buys a share of BRRR, they are purchasing a claim on a portion of the fund's Bitcoin holdings. The fund itself manages the purchase and custody of Bitcoin, typically through a combination of [authorized participants](/authorized-participant/) and institutional [custodians](/custodian/). As Bitcoin's price fluctuates, the [net asset value](/net-asset-value/) (NAV) of each share adjusts proportionally. The fund may charge a [management fee](/management-fee/) (the [expense ratio](/expense-ratio/)) to cover operations, custody, and asset management costs.
 
-The critical difference from owning Bitcoin directly is venue and friction. Trading BRRR shares happens on the Toronto Stock Exchange during regular market hours, using limit orders and standard settlement just like any stock or equity ETF. There is no need to create an account on a cryptocurrency exchange, understand how to store private keys, or monitor wallet security. For many investors, particularly institutions and those in regulated accounts, this removes a significant barrier.
+The critical difference from owning Bitcoin directly is venue and friction. Trading BRRR shares happens on the Toronto [Stock Exchange](/stock-exchange/) during regular market hours, using [limit orders](/limit-order/) and standard settlement just like any stock or [equity ETF](/equity-etf/). There is no need to create an account on a [cryptocurrency exchange](/cryptocurrency-exchange/), understand how to store private keys, or monitor wallet security. For many investors, particularly institutions and those in regulated accounts, this removes a significant barrier.
 
 ## Canada's role in Bitcoin infrastructure
 
@@ -43,9 +43,9 @@ The availability of spot Bitcoin ETFs on the Toronto Stock Exchange has made Can
 
 ## Custody, pricing, and NAV tracking
 
-The fund's custodian — typically a major institutional crypto service provider — holds the actual Bitcoin in secure, insured storage. The fund publishes a net asset value daily, which is calculated based on the Bitcoin spot price at a specific time. Shares of BRRR trade on the exchange at prices close to this NAV, though like all closed-end funds, they may trade at slight premiums or discounts depending on supply and demand for the fund's shares.
+The fund's custodian — typically a major institutional crypto service provider — holds the actual Bitcoin in secure, insured storage. The fund publishes a net asset value daily, which is calculated based on the Bitcoin spot price at a specific time. Shares of BRRR trade on the exchange at prices close to this NAV, though like all [closed-end funds](/closed-end-fund/), they may trade at slight premiums or discounts depending on supply and demand for the fund's shares.
 
-One risk is contango or backwardation — if there is more demand to buy the fund than to sell it, shares may trade above their NAV, and vice versa. This creates an opportunity for authorized participants to arbitrage between the fund price and the underlying Bitcoin, which tends to keep the fund's price close to its true value.
+One risk is [contango](/contango/) or [backwardation](/backwardation/) — if there is more demand to buy the fund than to sell it, shares may trade above their NAV, and vice versa. This creates an opportunity for authorized participants to arbitrage between the fund price and the underlying Bitcoin, which tends to keep the fund's price close to its true value.
 
 ## Fees and the cost of intermediation
 
@@ -67,6 +67,6 @@ As Bitcoin infrastructure matures globally, spot ETF products are becoming more 
 
 ## How to research the CoinShares Bitcoin ETF
 
-Start with CoinShares' fund documentation — the prospectus, annual reports, and fact sheet, all publicly available. The prospectus lays out the fund's holdings, fees, risks, and operational structure. Track the fund's expense ratio and compare it to other Bitcoin ETFs to understand the cost of access.
+Start with CoinShares' fund documentation — the prospectus, [annual reports](/10-k/), and fact sheet, all publicly available. The prospectus lays out the fund's holdings, fees, risks, and operational structure. Track the fund's expense ratio and compare it to other Bitcoin ETFs to understand the cost of access.
 
 Monitor Bitcoin's price through any major financial data provider. Watch the fund's tracking error — how closely BRRR's price follows Bitcoin's actual spot price — as a measure of how well the fund executes its mandate. Track any regulatory announcements affecting Bitcoin or cryptocurrency ETFs in Canada or internationally, as these can shift the fund's prospects. Finally, understand your own jurisdiction's tax treatment of cryptocurrency ETF holdings, as this varies significantly and affects the true cost of holding the fund.

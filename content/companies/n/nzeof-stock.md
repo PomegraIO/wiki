@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-*New Zealand Oil & Gas Ltd, domiciled in New Zealand and accessible to United States investors through American Depositary Receipts under the ticker NZEOF, is an oil and gas exploration and production company with operations and concessions in the Taranaki Basin, one of the southern hemisphere's most prolific hydrocarbon regions. The company is subject to New Zealand's regulatory framework for petroleum extraction and, increasingly, to policy pressures favouring renewable energy transition and away from new fossil-fuel development.*
+*New Zealand Oil & Gas Ltd, domiciled in New Zealand and accessible to United States investors through [American Depositary Receipts](/adr/) under the ticker NZEOF, is an oil and gas exploration and production company with operations and concessions in the Taranaki Basin, one of the southern hemisphere's most prolific hydrocarbon regions. The company is subject to New Zealand's regulatory framework for petroleum extraction and, increasingly, to policy pressures favouring renewable energy transition and away from new fossil-fuel development.*
 
 <aside class="wiki-infobox">
 
@@ -28,7 +28,7 @@ handwritten: true
 
 ## The Taranaki Basin—New Zealand's petroleum heartland
 
-New Zealand's onshore and near-shore oil and gas industry is concentrated in the Taranaki Basin, a sedimentary geological formation that has been explored and developed since the nineteenth century. The region hosts the country's most significant petroleum reserves and producing fields. Several mature oil fields—McKee, Maari, and Tui—produce crude oil. Gas production comes from fields such as Maui, which has been operating for nearly fifty years, and Pohokura, operational since 2006.
+New Zealand's onshore and near-shore oil and gas industry is concentrated in the Taranaki Basin, a sedimentary geological formation that has been explored and developed since the nineteenth century. The region hosts the country's most significant petroleum reserves and producing fields. Several mature oil fields—McKee, Maari, and Tui—produce [crude oil](/crude-oil/). Gas production comes from fields such as Maui, which has been operating for nearly fifty years, and Pohokura, operational since 2006.
 
 These fields have long production histories, meaning they have generated data on reserve size, decline curves, and extraction costs. The geology is well understood. Infrastructure—pipelines, processing facilities, export terminals—is in place. For an operator, this translates to lower exploration risk and lower capital requirements to bring barrels to market compared to frontier regions. The trade-off is that these are mature, declining fields: production falls year on year as reserves deplete. Sustaining or growing output requires finding new reservoirs or repressuring old ones—or acquiring reserves from competitors.
 
@@ -40,7 +40,7 @@ New Zealand's energy policy has undergone a sharp transition. In 2018, the Sixth
 
 This policy creates a structural headwind. New Zealand Oil & Gas cannot expand its concession portfolio; it can only work within its existing permits. As fields deplete, the company's options are narrowed: it must find new reserves within its existing blocks, acquire licenses from competitors, or shift its focus—potentially toward renewable energy or other sectors. Growth, in the traditional sense, is constrained.
 
-Moreover, climate change policy in New Zealand and globally raises long-term demand uncertainty for fossil fuels. Investors have increasingly favoured energy companies with transition strategies—renewable energy investments, carbon capture, or hydrogen—over pure-play oil and gas. New Zealand Oil & Gas, as a smaller independent oil and gas operator, has limited capital to pursue such diversification. Its strategic options are narrowing.
+Moreover, climate change policy in New Zealand and globally raises long-term demand uncertainty for fossil fuels. Investors have increasingly favoured energy companies with transition strategies—renewable energy investments, carbon capture, or hydrogen—over pure-play oil and gas. New Zealand Oil & Gas, as a smaller independent oil and gas operator, has limited capital to pursue such [diversification](/diversification/). Its strategic options are narrowing.
 
 ## Geology, commercial scale, and capital intensity
 
@@ -56,9 +56,9 @@ The specific ownership structures and production-sharing agreements are disclose
 
 ## Accessing the ADR and research
 
-New Zealand Oil & Gas is traded in the United States via American Depositary Receipts, a mechanism that allows foreign companies to be held and traded by United States investors without requiring a local brokerage account. Each ADR represents five ordinary shares of the company. The ADRs are listed on the OTC Markets (pink sheets), which means liquidity is lower than on major exchanges like NYSE or NASDAQ, and price discovery can be less efficient.
+New Zealand Oil & Gas is traded in the United States via American Depositary Receipts, a mechanism that allows foreign companies to be held and traded by United States investors without requiring a local brokerage account. Each ADR represents five ordinary shares of the company. The ADRs are listed on the OTC Markets (pink sheets), which means liquidity is lower than on major exchanges like NYSE or [NASDAQ](/nasdaq/), and [price discovery](/price-discovery/) can be less efficient.
 
-The company files with the SEC under foreign private issuer rules. Key documents include the 20-F annual report (the foreign equivalent of a 10-K), which contains audited financial statements, management discussion of business operations, risk factors, and reserve estimates. 6-K filings report interim material events. These are available on the SEC's EDGAR database.
+The company files with the SEC under foreign private issuer rules. Key documents include the 20-F [annual report](/10-k/) (the foreign equivalent of a 10-K), which contains audited financial statements, management discussion of business operations, risk factors, and reserve estimates. 6-K filings report interim material events. These are available on the SEC's EDGAR database.
 
 Reserve estimates—the size and composition of the company's oil and gas resource base—are critical to valuation. New Zealand Oil & Gas reports reserves and resource estimates in compliance with both New Zealand and SEC standards. A reader should track reserve changes over time: if reserves are declining faster than the company is discovering new ones, the business is in structural decline. If discovery keeps pace with production, the company has a longer operational horizon. The company's operating cash flow and capital expenditure plans reveal management's confidence in future production and growth.
 

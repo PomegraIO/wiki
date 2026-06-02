@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-PGIM's Nasdaq-100 Buffer 12 ETF—October (PQOC) is an exchange-traded fund that holds the Nasdaq-100 index wrapped in a protective collar. The collar is where the real story lives: the fund is designed to cap your annual loss at approximately 12 percent while simultaneously capping your annual gain at somewhere between 13 and 16 percent, depending on implied volatility at the time the contract is written.
+PGIM's Nasdaq-100 Buffer 12 ETF—October (PQOC) is an exchange-traded fund that holds the Nasdaq-100 index wrapped in a protective collar. The collar is where the real story lives: the fund is designed to cap your annual loss at approximately 12 percent while simultaneously capping your annual gain at somewhere between 13 and 16 percent, depending on [implied volatility](/implied-volatility/) at the time the contract is written.
 
-What makes this structure possible is options. PQOC buys call options at the upside cap strike and sells put options at the downside floor strike. The premium collected from selling calls pays for the insurance of the floor protection. This is not a special fund invention; it is a standard collar strategy that happens to be packaged as an ETF that resets annually every October.
+What makes this structure possible is options. PQOC buys [call options](/call-option/) at the upside cap strike and sells [put options](/put-option/) at the downside floor strike. The premium collected from selling calls pays for the insurance of the floor protection. This is not a special fund invention; it is a standard [collar strategy](/collar-strategy/) that happens to be packaged as an ETF that resets annually every October.
 
-The underlying index itself holds one hundred of the largest non-financial companies traded on the Nasdaq: the Apples, Microsofts, Teslas, Nvidias, Metas, and the rest of the technology and growth-heavy lineup. If you own PQOC, you own the Nasdaq-100 constituents economically, just filtered through the collar contract. You do not get individual stock dividends; the fund collects them and they contribute to total return within the capped structure.
+The underlying index itself holds one hundred of the largest non-financial companies traded on the [Nasdaq](/nasdaq/): the Apples, Microsofts, Teslas, Nvidias, Metas, and the rest of the technology and growth-heavy lineup. If you own PQOC, you own the Nasdaq-100 constituents economically, just filtered through the collar contract. You do not get individual [stock dividends](/stock-dividend/); the fund collects them and they contribute to total return within the capped structure.
 
 ## How the annual reset works
 
@@ -25,9 +25,9 @@ If you buy PQOC in March and hold until the October reset, you get roughly ten m
 
 ## What the fund costs
 
-The expense ratio for PQOC typically ranges from 0.45 to 0.65 annually. This is low by the standards of actively managed funds but higher than a vanilla Nasdaq-100 ETF like QQQ, which charges around 0.20. The extra cost reflects PGIM's work in managing the options overlay and resetting the collar each year.
+The [expense ratio](/expense-ratio/) for PQOC typically ranges from 0.45 to 0.65 annually. This is low by the standards of [actively managed funds](/actively-managed-fund/) but higher than a vanilla Nasdaq-100 ETF like QQQ, which charges around 0.20. The extra cost reflects PGIM's work in managing the options overlay and resetting the collar each year.
 
-The fund trades throughout each day on the NASDAQ like any other ETF. Liquidity is reasonable but less thick than the largest index funds. Bid-ask spreads are typically a few cents, meaningful for large orders. Trading volume is lower than QQQ or IVV, so anyone building a meaningful position should do so gradually.
+The fund trades throughout each day on the NASDAQ like any other ETF. Liquidity is reasonable but less thick than the largest [index funds](/index-fund/). [Bid-ask spreads](/bid-ask-spread/) are typically a few cents, meaningful for large orders. Trading volume is lower than QQQ or IVV, so anyone building a meaningful position should do so gradually.
 
 ## The protections and their limits
 
@@ -41,7 +41,7 @@ The upside cap is equally binding. If the Nasdaq-100 soars 35 percent in a year 
 
 PQOC appeals to investors approaching or in retirement who want to keep their Nasdaq exposure but cannot tolerate swinging from +30 percent to -25 percent in the span of two years. It appeals to people whose temperament simply requires knowing the worst case in advance. It also appeals to those who like the regular rebalancing and contract-renewal discipline that the annual reset enforces.
 
-It does not serve long-term growth investors who can ride out five-year drawdowns to capture full upside over decades. It does not serve traders or those expecting spectacular bull markets—the cap eats those profits. It does not serve anyone seeking truly cheap exposure to the Nasdaq-100, since vanilla index funds cost much less.
+It does not serve long-term growth investors who can ride out five-year drawdowns to capture full upside over decades. It does not serve traders or those expecting spectacular [bull markets](/bull-market/)—the cap eats those profits. It does not serve anyone seeking truly cheap exposure to the Nasdaq-100, since vanilla index funds cost much less.
 
 ## How to research PQOC
 

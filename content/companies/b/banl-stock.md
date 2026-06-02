@@ -4,7 +4,7 @@ description: "International financial services company earning from foreign-exch
 keywords: ["foreign exchange", "cross-border payments", "international banking", "currency services", "financial infrastructure"]
 ---
 
-*Unlike domestic-focused banks, **CBL International Ltd (BANL)** operates in the international payments and foreign-exchange infrastructure layer, where it earns money by facilitating and financing the movement of capital across currencies and borders. The company's economic model is grounded in the mechanics of currency conversion, the float on uncleared transactions, the spreads between bid-ask prices in forex markets, and the fees charged to multinational corporations, [financial institutions](/fisi-stock/), and trading firms for access to global liquidity and settlement services.*
+*Unlike domestic-focused banks, **CBL International Ltd (BANL)** operates in the international payments and foreign-exchange infrastructure layer, where it earns money by facilitating and financing the movement of capital across currencies and borders. The company's economic model is grounded in the mechanics of currency conversion, the float on uncleared transactions, the spreads between bid-ask prices in forex markets, and the fees charged to multinational corporations, financial institutions, and trading firms for access to global liquidity and settlement services.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BANL</td></tr>

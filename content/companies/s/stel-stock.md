@@ -81,7 +81,7 @@ Stellar's scale as the largest community bank headquartered in Texas is meaningf
 
 ## How to research Stellar as an investment
 
-Start with the annual 10-K filing (SEC CIK 0001473844), which details the loan portfolio composition by type (commercial, real estate, consumer), the deposit composition, the securities portfolio, and management's view of credit quality and [capital adequacy](/capital-adequacy/).
+Start with the annual 10-K filing (SEC CIK 0001473844), which details the loan portfolio composition by type ([commercial, real estate](/commercial-real-estate/), consumer), the deposit composition, the securities portfolio, and management's view of credit quality and [capital adequacy](/capital-adequacy/).
 
 Watch quarterly earnings for trends in net interest margin—the average spread between interest earned and paid—which is the primary driver of profitability. A compressing net interest margin suggests competition or rate pressures are squeezing the bank's profitability. Monitor credit quality metrics: the non-performing loan ratio (loans more than ninety days past due) and the loan loss reserve, which is management's estimate of expected losses. A rising non-performing ratio may signal deteriorating credit conditions.
 

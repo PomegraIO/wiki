@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-U Power Ltd operates electric-vehicle charging stations across North America, with shares trading on the NASDAQ under UCAR. The company's job is simple in theory but hard in practice: put fast-charging hardware in convenient locations so people driving electric cars can charge quickly and keep moving. In reality, U Power is racing against rivals and clock both, building out infrastructure for a technology transition that is happening faster than anyone fully predicted, while managing the real-world mess of land leases, electricity grid integration, and equipment costs.
+U Power Ltd operates electric-vehicle charging stations across North America, with shares trading on the [NASDAQ](/nasdaq/) under UCAR. The company's job is simple in theory but hard in practice: put fast-charging hardware in convenient locations so people driving electric cars can charge quickly and keep moving. In reality, U Power is racing against rivals and clock both, building out infrastructure for a technology transition that is happening faster than anyone fully predicted, while managing the real-world mess of land leases, electricity grid integration, and equipment costs.
 
 <aside class="wiki-infobox">
 <table>
@@ -45,7 +45,7 @@ The underlying economics are under constant stress. Electricity prices fluctuate
 
 Four things are making this harder than it might sound. First, capital costs. Building a competitive national network requires thousands of stations at tens of thousands of dollars each. U Power has had to raise significant equity and debt, and the cost of that capital is a real drag on returns. Some chargers break down or underperform, which means capital was sunk without recoup.
 
-Second, competition. Other companies—including car manufacturers like Tesla and Ford, traditional oil companies expanding into energy infrastructure, and other venture-backed EV-charging startups—are also building networks. This spreads available drivers and utilization across more stations, which pressures pricing and returns. The strongest position would be exclusive access to key locations, but landlords shopping for the best rates complicate that.
+Second, competition. Other companies—including car manufacturers like [Tesla](/tsla-stock/) and Ford, traditional oil companies expanding into energy infrastructure, and other venture-backed EV-charging startups—are also building networks. This spreads available drivers and utilization across more stations, which pressures pricing and returns. The strongest position would be exclusive access to key locations, but landlords shopping for the best rates complicate that.
 
 Third, technology changes. Battery technology is advancing, charging speeds are improving, and the connector standards that chargers use have shifted and may shift again. A charger installed today may be obsolete or undersized in five years. U Power has to invest in new equipment and upgrades, eating into cash flow and stranding prior investments.
 
@@ -63,7 +63,7 @@ Larger competitors with deeper pockets—especially car manufacturers and energy
 
 U Power's challenge, in plain terms, is this: the company burns cash in the near term (building stations, operating them during the ramp-up, managing a large distributed network), while counting on future high utilization and scale to generate the cash flow needed to sustain the business and pay back investors.
 
-This is a race against time and competition. If utilization does reach profitable levels before capital runs out or before the stock market loses patience, U Power becomes a real business. If not, the company either has to raise more capital at unfavourable terms or find a buyer (probably a larger competitor or energy company) willing to integrate the network.
+This is a race against time and competition. If utilization does reach profitable levels before capital runs out or before the [stock market](/stock-market/) loses patience, U Power becomes a real business. If not, the company either has to raise more capital at unfavourable terms or find a buyer (probably a larger competitor or energy company) willing to integrate the network.
 
 ## Researching U Power
 

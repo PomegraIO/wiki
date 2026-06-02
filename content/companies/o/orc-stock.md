@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Orchid Island Capital was formed in 2011, a year after the financial crisis, as a vehicle to invest in residential mortgage-backed securities (MBS) and other mortgage-related assets. The company operates as a mortgage [real estate investment trust](/real-estate-investment-trust/), which means it is required to distribute most of its taxable income to shareholders as dividends, in exchange for favorable tax treatment. At its foundation, Orchid Island is a capital-allocation machine: it uses borrowed money to buy pools of mortgages, earns the spread between the interest paid by homeowners and the cost of borrowing, and passes the profits to shareholders.
+Orchid Island Capital was formed in 2011, a year after the financial crisis, as a vehicle to invest in residential mortgage-backed securities (MBS) and other mortgage-related assets. The company operates as a mortgage [real estate investment trust](/real-estate-investment-trust/), which means it is required to distribute most of its taxable income to shareholders as [dividends](/dividend/), in exchange for favorable tax treatment. At its foundation, Orchid Island is a capital-allocation machine: it uses borrowed money to buy pools of mortgages, earns the spread between the interest paid by homeowners and the cost of borrowing, and passes the profits to shareholders.
 
 ## The mortgage REIT structure and strategy
 
@@ -31,7 +31,7 @@ The consequence is that [mortgage REITs](/mortgage-reit/) like Orchid Island per
 
 ## Scale and competition
 
-Orchid Island is one of many mortgage REITs, competing with New Residential Investment Corp., [MFA Financial](/mfa-stock/), [AGNC Investment](/agnc-stock/) Corp., and others. The market for agency MBS is very large and highly competitive. The business does not require proprietary technology, special relationships, or a moat in the conventional sense. What scale provides is the ability to deploy capital efficiently, to access capital markets at favorable rates, and to spread operating costs across a larger asset base.
+Orchid Island is one of many mortgage REITs, competing with New Residential Investment Corp., MFA Financial, [AGNC Investment](/agnc-stock/) Corp., and others. The market for agency MBS is very large and highly competitive. The business does not require proprietary technology, special relationships, or a moat in the conventional sense. What scale provides is the ability to deploy capital efficiently, to access capital markets at favorable rates, and to spread operating costs across a larger asset base.
 
 The largest mortgage REITs have tens of billions in assets under management. Orchid Island is smaller, which means it has less influence in the market and potentially higher relative funding costs. But smaller size also means the company can move nimbly and is not forced to maintain positions it does not want. The risk is that a smaller REIT becomes too small to be viable—if assets shrink due to poor performance, funding costs can rise and the business can enter a death spiral.
 

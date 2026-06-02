@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Star Fashion Culture Holdings Ltd. operates in the fashion and lifestyle sector, primarily serving consumers in China and the Asia-Pacific region through branded apparel, accessories, and related products distributed across retail stores and online platforms. The company's strategy centers on building consumer-facing brands that capture pricing power and loyalty in a competitive, trend-driven market where discretionary spending rises with incomes.
+Star Fashion Culture Holdings Ltd. operates in the fashion and lifestyle sector, primarily serving consumers in China and the Asia-Pacific region through branded apparel, accessories, and related products distributed across retail stores and online platforms. The company's strategy centers on building consumer-facing brands that capture pricing power and loyalty in a competitive, trend-driven market where [discretionary spending](/discretionary-spending/) rises with incomes.
 
 > "In fashion, you win by making customers want what you have, not by selling what they need." That distinction—building desire rather than necessity—is the frame through which Star Fashion approaches the market.
 
@@ -35,7 +35,7 @@ The competitive pressure is intense. Low-cost manufacturers in Southeast Asia, e
 
 The company's cash comes from selling finished fashion products at wholesale markups, either through company-owned stores or through third-party retailers and online platforms. In the retail channel, Star Fashion captures the full retail margin—the spread between product cost and the price customers pay. In the wholesale channel, it captures only the difference between cost and the wholesale price the retailer pays, which is lower but reaches more customers.
 
-Online has become the strategic growth channel for most fashion retailers. E-commerce platforms in China—notably Tmall and JD.com, along with Douyin and live-streaming channels—allow brands to reach consumers directly with lower fulfillment costs and richer data about what sells. Digital channels also compress time from design to sale, allowing Star Fashion to respond faster to trends. But they are also more crowded, and the cost of customer acquisition through digital advertising and influencers can be steep.
+Online has become the strategic growth channel for most fashion retailers. E-commerce platforms in China—notably Tmall and JD.com, along with Douyin and live-streaming channels—allow brands to reach consumers directly with lower fulfillment costs and richer data about what sells. Digital channels also compress time from design to sale, allowing Star Fashion to respond faster to trends. But they are also more crowded, and the cost of customer [acquisition](/acquisition/) through digital advertising and influencers can be steep.
 
 The fundamental tension in fashion retail is between inventory and markdown. A company that buys inventory betting on what customers will want and misses the trend faces writedowns. A company that holds inventory too tightly leaves money on the table. Star Fashion's inventory management—how quickly it turns stock and how often it must discount to clear aging inventory—directly affects profitability.
 
@@ -51,7 +51,7 @@ What differentiates successful fashion companies from mediocre ones is the abili
 
 Like most retailers, Star Fashion relies on operating cash flow to fund expansion. Each new store or product line has to eventually throw off enough cash to justify the investment. When growth opportunities exceed the cash the business generates, the company must choose: borrow money, raise equity capital, slow growth, or exit lower-return channels.
 
-The balance sheet matters. A company with low debt can borrow to fund growth; one that is already highly leveraged has limited room. A company with strong liquidity can weather downturns in fashion demand or economic slowness; one running close to the edge faces pressure to cut inventory and close unprofitable stores.
+The [balance sheet](/balance-sheet/) matters. A company with low debt can borrow to fund growth; one that is already highly leveraged has limited room. A company with strong liquidity can weather downturns in fashion demand or economic slowness; one running close to the edge faces pressure to cut inventory and close unprofitable stores.
 
 ## Tracking Star Fashion as an investment
 

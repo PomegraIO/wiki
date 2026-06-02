@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-OriginClear, Inc. (NASDAQ: OCLN) treats water. Not the drinking-water kind you buy in bottles, but the dirty water that factories, oil and gas operators, and cities generate every day. The company designs modular treatment systems—containers of equipment that clean up wastewater so it can be reused, discharged, or recycled. It also runs water-treatment systems for customers and takes a fee. The core idea is simple: water treatment is becoming more expensive and more strictly regulated, so companies and municipalities are desperate for cheaper, faster, more reliable ways to clean water before releasing it or reusing it. OriginClear builds the systems and runs the operations.
+OriginClear, Inc. ([NASDAQ](/nasdaq/): OCLN) treats water. Not the drinking-water kind you buy in bottles, but the dirty water that factories, oil and gas operators, and cities generate every day. The company designs modular treatment systems—containers of equipment that clean up wastewater so it can be reused, discharged, or recycled. It also runs water-treatment systems for customers and takes a fee. The core idea is simple: water treatment is becoming more expensive and more strictly regulated, so companies and municipalities are desperate for cheaper, faster, more reliable ways to clean water before releasing it or reusing it. OriginClear builds the systems and runs the operations.
 
 ## What the company actually does
 
@@ -25,7 +25,7 @@ Water treatment is highly cyclical, tied to two things: commodity prices and cap
 
 Industrial manufacturing water treatment is somewhat less cyclical than oil and gas—manufacturers still need to treat wastewater in downturns—but it follows the overall economy. When manufacturing is strong and plants are running at full capacity, wastewater volumes are high and treatment spending increases. When manufacturing slows, water volumes decline and customers look to optimize costs, which often means deferring new system purchases or renegotiating service prices downward.
 
-Municipal water treatment is the least cyclical but moves slowly. Cities and water authorities operate on long budget cycles. A major treatment upgrade might take 2–3 years from initial decision to full deployment. When municipal budgets are tight (during recessions or after significant tax-base losses), water-infrastructure projects get deferred. OriginClear's penetration of the municipal market is still small compared to oil and gas, so for now the company rides the commodity cycle more than it would prefer.
+Municipal water treatment is the least cyclical but moves slowly. Cities and water authorities operate on long budget cycles. A major treatment upgrade might take 2–3 years from initial decision to full deployment. When municipal budgets are tight (during [recessions](/recession/) or after significant tax-base losses), water-infrastructure projects get deferred. OriginClear's penetration of the municipal market is still small compared to oil and gas, so for now the company rides the commodity cycle more than it would prefer.
 
 ## The technology differentiation problem
 
@@ -35,13 +35,13 @@ This means OriginClear competes partly on its brand and operating track record (
 
 ## Funding model and the growth trap
 
-OriginClear has pursued growth partly through organic sales (customers buying systems and service contracts) and partly through acquisitions and partnerships. The company has invested in acquiring smaller water-treatment operators and integrating their revenues into the OriginClear platform. This is a classic growth strategy, but it requires capital, and water-treatment companies are often not cheap when purchased on the basis of current earnings. An acquisition that looks good at the peak of a commodity cycle can become expensive when commodities turn down and the acquired company's revenue declines.
+OriginClear has pursued growth partly through organic sales (customers buying systems and service contracts) and partly through [acquisitions](/acquisition/) and partnerships. The company has invested in acquiring smaller water-treatment operators and integrating their revenues into the OriginClear platform. This is a classic growth strategy, but it requires capital, and water-treatment companies are often not cheap when purchased on the basis of current earnings. An acquisition that looks good at the peak of a commodity cycle can become expensive when commodities turn down and the acquired company's revenue declines.
 
 OriginClear has also pursued a financing model where customers do not always buy systems outright but lease them, with OriginClear retaining the equipment and receiving monthly lease payments. This spreads customer acquisition costs over time but creates exposure to customer defaults and requires OriginClear to finance a growing fleet of equipment. If a major customer (particularly in oil and gas) files for bankruptcy, leased equipment can be difficult to recover or redeploy, and OriginClear takes a loss.
 
 ## Geographic and customer mix
 
-OriginClear has a significant concentration in North America, particularly in the shale-oil-producing regions. This makes the company vulnerable to U.S. oil and gas cycles. The company is working to diversify into other geographies and end markets (mining, food and beverage, industrial chemicals), partly to smooth the commodity-price volatility. A significant increase in international revenue would reduce the company's reliance on U.S. oil and gas cycles, but that diversification takes time and investment.
+OriginClear has a significant concentration in North America, particularly in the shale-oil-producing regions. This makes the company vulnerable to U.S. oil and gas cycles. The company is working to diversify into other geographies and end markets (mining, food and beverage, industrial chemicals), partly to smooth the commodity-price volatility. A significant increase in international revenue would reduce the company's reliance on U.S. oil and gas cycles, but that [diversification](/diversification/) takes time and investment.
 
 ## The structural tailwind from regulation
 

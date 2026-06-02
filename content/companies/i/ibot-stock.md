@@ -13,7 +13,7 @@ handwritten: true
 
 > "The economics of robotics improve every year as volumes rise and costs fall. Companies that make the machines driving this shift should benefit from decades of structural demand."
 
-*The **VanEck Robotics ETF** (IBOT) is an actively managed fund that selects companies developing and deploying robotics, automation equipment, and artificial intelligence systems across manufacturing, logistics, healthcare, and other sectors. Rather than tracking a mechanical index, it applies judgment about which companies are best positioned to benefit from — and profit from — the shift toward machine-driven production.*
+*The **VanEck Robotics ETF** (IBOT) is an [actively managed fund](/actively-managed-fund/) that selects companies developing and deploying robotics, automation equipment, and artificial intelligence systems across manufacturing, logistics, healthcare, and other sectors. Rather than tracking a mechanical index, it applies judgment about which companies are best positioned to benefit from — and profit from — the shift toward machine-driven production.*
 
 ## What the fund actually holds
 
@@ -23,21 +23,21 @@ Because IBOT is actively managed, the portfolio is not a fixed list. The fund ma
 
 ## The robotics investment thesis
 
-The case behind IBOT rests on a structural economic shift. Aging workforces in developed economies reduce labour supply, wage inflation pushes manufacturers to replace labour with machines, and the economics of robotics improve every year as volumes rise and costs fall. Companies that make the machines driving this shift — and the software and semiconductors that power them — should benefit from decades of demand.
+The case behind IBOT rests on a structural economic shift. Aging workforces in developed economies reduce labour supply, wage [inflation](/inflation/) pushes manufacturers to replace labour with machines, and the economics of robotics improve every year as volumes rise and costs fall. Companies that make the machines driving this shift — and the software and semiconductors that power them — should benefit from decades of demand.
 
 This is not a short-term bet. The robotics adoption curve has been slower than early enthusiasts predicted; not every factory switches to robots overnight, and many smaller manufacturers lack the capital or technical expertise. But the underlying economics are real. A manufacturer that can automate a labour-intensive process reduces its long-term costs, and those cost advantages compound over years. IBOT's thesis is that the companies selling the tools for that transition will be profitable businesses, and their stock prices will reflect that over time.
 
 ## Concentration and sector risks
 
-Like all thematic or sector ETFs, IBOT faces concentration risk. If the robotics and automation space is performing well, the fund benefits disproportionately. If it is out of favour — or if one or two large holdings stumble — the fund's returns can lag the broader market or even decline significantly. The fund also skews toward technology and industrial companies, so it carries the volatility typical of those sectors.
+Like all thematic or [sector ETFs](/sector-etf/), IBOT faces [concentration risk](/concentration-risk/). If the robotics and automation space is performing well, the fund benefits disproportionately. If it is out of favour — or if one or two large holdings stumble — the fund's returns can lag the broader market or even decline significantly. The fund also skews toward technology and industrial companies, so it carries the volatility typical of those sectors.
 
 Another risk is obsolescence or disruption within the robotics industry itself. A company that dominates welding robots today might face disruption from new technologies or new competitors. IBOT's active management is supposed to navigate this by reallocating toward companies best positioned for the future, but active management is no guarantee against being wrong. Investors should expect that some holdings will fail to deliver returns, and the fund's performance depends on whether the manager's wins outweigh its losses.
 
-Additionally, the fund is exposed to interest-rate risk in the way equities are: if rates rise sharply, growth stocks and companies with uncertain, long-term profit profiles (which describes many robotics companies) often sell off. IBOT could face significant declines in a rising-rate environment, especially if the moves reflect rising inflation or slowing economic growth that also damps demand for new equipment.
+Additionally, the fund is exposed to [interest-rate risk](/interest-rate-risk/) in the way equities are: if rates rise sharply, growth stocks and companies with uncertain, long-term profit profiles (which describes many robotics companies) often sell off. IBOT could face significant declines in a rising-rate environment, especially if the moves reflect rising inflation or slowing economic growth that also damps demand for new equipment.
 
 ## Costs and trading characteristics
 
-IBOT carries an expense ratio higher than a passive robotics index ETF would, reflecting the cost of active management. It trades on the NASDAQ with typical ETF liquidity, though the absolute trading volume varies day to day. The underlying holdings are mostly public equities, so the fund itself is liquid, though some positions in smaller robotics companies may have lower trading volume than mega-cap tech stocks.
+IBOT carries an [expense ratio](/expense-ratio/) higher than a passive robotics index ETF would, reflecting the cost of active management. It trades on the [NASDAQ](/nasdaq/) with typical ETF liquidity, though the absolute trading volume varies day to day. The underlying holdings are mostly public equities, so the fund itself is liquid, though some positions in smaller robotics companies may have lower trading volume than mega-cap tech stocks.
 
 An investor considering IBOT should compare its expense ratio and recent performance against competing robotics ETFs or passive alternatives that offer similar exposure. VanEck discloses the fund's holdings regularly, allowing investors to see exactly which companies are in the portfolio at any given time.
 

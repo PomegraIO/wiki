@@ -38,7 +38,7 @@ Pro Dex's customer base is diverse in geography but concentrated by channel. The
 
 Beyond dentistry, Pro Dex serves medical device makers and industrial customers who need precision-cut components. That [diversification](/diversification/) provides some hedge against downturns in dental work, though the bulk of revenue and the most durable profits come from the dental chair.
 
-The geographic spread of customers — North America dominant, but meaningful sales in Europe, Asia, and elsewhere — means Pro Dex absorbs foreign-exchange headwinds and tailwinds. Most revenues arrive in U.S. dollars or strong currencies, but some exposure to euros and other currencies creates quarter-to-quarter volatility that investors sometimes mistake for business weakness.
+The geographic spread of customers — North America dominant, but meaningful sales in Europe, Asia, and elsewhere — means Pro Dex absorbs foreign-exchange headwinds and tailwinds. Most revenues arrive in [U.S. dollars](/us-dollar/) or strong currencies, but some exposure to euros and other currencies creates quarter-to-quarter volatility that investors sometimes mistake for business weakness.
 
 ## Competition and the commodity risk
 

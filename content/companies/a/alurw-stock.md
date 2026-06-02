@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Allurion Technologies has solved a problem that affects millions: how to help people lose weight when diet and exercise alone are not working and they are unwilling or unable to undergo weight-loss surgery. The company makes a gastric balloon, a small, pill-sized capsule that is swallowed with water, travels to the stomach, fills with fluid, and takes up enough space to reduce hunger and slow food consumption. Four months later, the balloon deflates on its own, comes apart, and is excreted naturally. No surgery. No anesthesia. No incisions. Just a medical device that sits inside the stomach doing one job: making people feel full sooner and stay satisfied longer.
+[Allurion Technologies](/alur-stock/) has solved a problem that affects millions: how to help people lose weight when diet and exercise alone are not working and they are unwilling or unable to undergo weight-loss surgery. The company makes a gastric balloon, a small, pill-sized capsule that is swallowed with water, travels to the stomach, fills with fluid, and takes up enough space to reduce hunger and slow food consumption. Four months later, the balloon deflates on its own, comes apart, and is excreted naturally. No surgery. No anesthesia. No incisions. Just a medical device that sits inside the stomach doing one job: making people feel full sooner and stay satisfied longer.
 
 ## The problem: weight loss without surgery
 
@@ -43,7 +43,7 @@ Allurion's revenue comes from selling the procedure. Each balloon is a single-us
 
 The company also runs a lifestyle coaching program, providing digital support, meal planning, and behavioral coaching to patients throughout the four-month balloon duration and beyond. This recurring-revenue component differentiates Allurion from a pure device-sale model and creates multiple touch points with patients to encourage compliance and monitor weight loss.
 
-Geographically, Allurion has pursued a global strategy, with approvals and market presence in multiple countries beyond the US, including parts of Europe, Latin America, and Asia. This geographic diversification reduces dependence on any single market and exposes the company to different reimbursement models and patient populations.
+Geographically, Allurion has pursued a global strategy, with approvals and market presence in multiple countries beyond the US, including parts of Europe, Latin America, and Asia. This geographic [diversification](/diversification/) reduces dependence on any single market and exposes the company to different reimbursement models and patient populations.
 
 ## Competition and the landscape
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-MVLL holds a specific investment mandate that appeals to a particular kind of trader: it aims to deliver twice the daily percentage change of Marvell Technology stock, reset each trading day, and nothing more. It is not a long-term holding. The fund does not promise 2x annual returns or 2x returns over any period longer than one day. For traders comfortable with leverage and aware of its costs and dangers, MVLL serves a tactical purpose. For almost everyone else, it is a trap disguised as a tool.
+MVLL holds a specific investment mandate that appeals to a particular kind of trader: it aims to deliver twice the daily percentage change of [Marvell Technology](/mrvl-stock/) stock, reset each trading day, and nothing more. It is not a long-term holding. The fund does not promise 2x annual returns or 2x returns over any period longer than one day. For traders comfortable with leverage and aware of its costs and dangers, MVLL serves a tactical purpose. For almost everyone else, it is a trap disguised as a tool.
 
 ## The leveraged engine
 
@@ -31,13 +31,13 @@ If you own MVLL:
 - Day 1: up approximately 10% (you gain 10%)
 - Day 2: down approximately 9.6% (you lose 9.6% of a now-larger position; net loss is approximately 0.4%)
 
-The loss accelerates in choppy markets. If Marvell spends weeks oscillating up and down by 1% to 2% daily, MVLL's net asset value will drift noticeably lower than 2x the cumulative Marvell move. This is not a bug or a flaw — it is the mathematical certainty of leverage applied to volatile assets. The longer the holding period and the choppier the trading, the worse the decay.
+The loss accelerates in choppy markets. If Marvell spends weeks oscillating up and down by 1% to 2% daily, MVLL's [net asset value](/net-asset-value/) will drift noticeably lower than 2x the cumulative Marvell move. This is not a bug or a flaw — it is the mathematical certainty of leverage applied to volatile assets. The longer the [holding period](/holding-period/) and the choppier the trading, the worse the decay.
 
 ## Costs and liquidity
 
-MVLL carries a 1.5% expense ratio, a tax on capital that compounds the decay problem. In addition, the spread between bid and ask prices (the cost to enter and exit) varies with trading volume. The fund had approximately 273 million dollars in assets as of the latest available data, a reasonable size but not enormous, so liquidity is adequate but not deep. A large trader moving a significant position can move the market and face slippage.
+MVLL carries a 1.5% [expense ratio](/expense-ratio/), a tax on capital that compounds the decay problem. In addition, the spread between bid and ask prices (the cost to enter and exit) varies with trading volume. The fund had approximately 273 million dollars in assets as of the latest available data, a reasonable size but not enormous, so liquidity is adequate but not deep. A large trader moving a significant position can move the market and face slippage.
 
-Dividends paid by Marvell are not reinvested at leverage in MVLL; they are paid to shareholders at their face value, which means the fund loses a small amount of leverage on dividend-payment dates. This is a minor drag relative to volatility decay but worth noting.
+[Dividends](/dividend/) paid by Marvell are not reinvested at leverage in MVLL; they are paid to shareholders at their face value, which means the fund loses a small amount of leverage on dividend-payment dates. This is a minor drag relative to volatility decay but worth noting.
 
 ## Who should own it and who should avoid it
 

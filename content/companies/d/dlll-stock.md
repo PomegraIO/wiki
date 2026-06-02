@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-GraniteShares 2x Long DELL Daily ETF traces its origins to the explosion of leveraged equity ETFs in the 2000s and the subsequent market discovery of their limitations. DLLL is a modern instantiation of that category: a fund built to deliver daily returns twice those of Dell Technologies stock, aimed at active traders willing to accept the structural risks that come with leverage and daily rebalancing.
+GraniteShares 2x Long DELL Daily ETF traces its origins to the explosion of leveraged [equity ETFs](/equity-etf/) in the 2000s and the subsequent market discovery of their limitations. DLLL is a modern instantiation of that category: a fund built to deliver daily returns twice those of [Dell Technologies](/dell-stock/) stock, aimed at active traders willing to accept the structural risks that come with leverage and daily rebalancing.
 
 ## The emergence of single-stock leveraged funds
 
-Leveraged ETFs appeared as a class in the early 2000s, initially focused on broad indexes. The idea was straightforward: use derivatives to amplify returns, creating products for traders confident in the direction of major markets. QQQ and the Nasdaq leveraged equivalents proved popular, and by the mid-2000s, dozens of issuers were launching leveraged vehicles tied to single stocks. The appeal was obvious: for a trader convinced that Apple or Microsoft would rally, a 2x or 3x leveraged version offered faster wealth creation.
+[Leveraged ETFs](/leveraged-etf/) appeared as a class in the early 2000s, initially focused on broad indexes. The idea was straightforward: use derivatives to amplify returns, creating products for traders confident in the direction of major markets. QQQ and the [Nasdaq](/nasdaq/) leveraged equivalents proved popular, and by the mid-2000s, dozens of issuers were launching leveraged vehicles tied to single stocks. The appeal was obvious: for a trader convinced that [Apple](/aapl-stock/) or [Microsoft](/msft-stock/) would rally, a 2x or 3x leveraged version offered faster wealth creation.
 
 The market learned — slowly and painfully — that leveraged ETFs had a fatal flaw for long-term holders: volatility decay. Rebalancing daily to maintain constant leverage, in any choppy market, eroded value over time. By 2010 most retail investors had grasped the concept, yet demand persisted among shorter-term traders. Funds like DLLL exist because that market never died; it just became more aware of its own risks.
 
@@ -23,23 +23,23 @@ The market learned — slowly and painfully — that leveraged ETFs had a fatal 
 
 DLLL attempts to deliver 2x the daily return of Dell Technologies stock. Dell is a large-cap technology and infrastructure company; its stock trades actively and with tight spreads, making it suitable for leveraged ETF construction. On a day DELL gains 4 percent, DLLL targets an 8 percent gain. On a day DELL falls 3 percent, DLLL aims for a 6 percent loss.
 
-The fund holds a portfolio of DELL call options, DELL stock, and cash, rebalancing daily to maintain exactly 2x exposure. This differs from simply buying DELL shares and borrowing money at a fixed rate; the option-based approach allows the fund to tightly control leverage without borrowing costs that fluctuate.
+The fund holds a portfolio of DELL [call options](/call-option/), DELL stock, and cash, rebalancing daily to maintain exactly 2x exposure. This differs from simply buying DELL shares and borrowing money at a fixed rate; the option-based approach allows the fund to tightly control leverage without borrowing costs that fluctuate.
 
-GraniteShares, the issuer, is a specialist in leveraged and inverse ETF construction — a niche player that has built expertise in the derivatives and hedging needed to maintain consistent leverage across volatile underlyings.
+GraniteShares, the issuer, is a specialist in leveraged and [inverse ETF](/inverse-etf/) construction — a niche player that has built expertise in the derivatives and hedging needed to maintain consistent leverage across volatile underlyings.
 
 ## Why leveraged single-stock funds still exist
 
-After two decades, you might expect leveraged single-stock ETFs to have been regulated out of existence or rendered obsolete by better products. They persist for a simple reason: traders use them. Day traders and short-term swing traders can get a leveraged DELL bet inside a standard brokerage account without borrowing or managing margin accounts. For a trader planning to hold DELL for three to seven days and expecting a sharp rally, DLLL is faster, simpler, and has lower trading costs than buying shares and using leverage through a prime broker.
+After two decades, you might expect leveraged single-stock ETFs to have been regulated out of existence or rendered obsolete by better products. They persist for a simple reason: traders use them. Day traders and short-term swing traders can get a leveraged DELL bet inside a standard brokerage account without borrowing or managing margin accounts. For a trader planning to hold DELL for three to seven days and expecting a sharp rally, DLLL is faster, simpler, and has lower trading costs than buying shares and using leverage through a [prime broker](/prime-broker/).
 
-The products also persist because they are transparent and regulated. You can see the fund's holdings and expenses; you know exactly how rebalancing works. Compare that to over-the-counter derivatives or a leveraged trade through a broker, which are far more opaque and risky.
+The products also persist because they are transparent and regulated. You can see the fund's holdings and expenses; you know exactly how rebalancing works. Compare that to over-the-counter derivatives or a leveraged trade through a [broker](/broker/), which are far more opaque and risky.
 
 ## Structure and costs
 
-DLLL is a standard exchange-traded fund, not a note or structured product. It trades on a major exchange with publicly disclosed net asset value, holdings, and an expense ratio. The expense ratio is reasonable for the rebalancing and derivative costs involved — typically 1-2 percent annually for this category.
+DLLL is a standard exchange-traded fund, not a note or structured product. It trades on a major exchange with publicly disclosed [net asset value](/net-asset-value/), holdings, and an [expense ratio](/expense-ratio/). The expense ratio is reasonable for the rebalancing and derivative costs involved — typically 1-2 percent annually for this category.
 
-Bid-ask spreads are usually tight because DELL is a liquid stock and the fund carries good daily volume. During market stress or DELL halts, spreads can widen sharply.
+[Bid-ask spreads](/bid-ask-spread/) are usually tight because DELL is a liquid stock and the fund carries good daily volume. During market stress or DELL halts, spreads can widen sharply.
 
-DELL's dividend is not passed through to DLLL shareholders because the fund owns options and cash, not the stock itself. That matters if DELL increases its dividend over time — DLLL holders miss that benefit.
+DELL's [dividend](/dividend/) is not passed through to DLLL shareholders because the fund owns options and cash, not the stock itself. That matters if DELL increases its dividend over time — DLLL holders miss that benefit.
 
 ## Volatility decay and the reality of holding longer
 
@@ -51,7 +51,7 @@ The mathematical reality: if you intend to hold a leveraged ETF for more than a 
 
 DLLL is for traders with a short-term, directional view on DELL. Day traders, swing traders, and tactical allocators looking to amplify a multi-day bet on the stock find it useful. It is also for investors with a thesis about DELL's fundamentals but who are not confident enough to hold unlevered stock and prefer to express conviction through leverage.
 
-DLLL is not for buy-and-hold investors, long-term builders of wealth, or anyone uncertain about their holding period.
+DLLL is not for buy-and-hold investors, long-term builders of wealth, or anyone uncertain about their [holding period](/holding-period/).
 
 ## Risks
 

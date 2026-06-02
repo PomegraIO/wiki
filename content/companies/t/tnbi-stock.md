@@ -47,7 +47,7 @@ The pitch is familiar in energy technology: help commercial buildings understand
 
 The pivot from livestock additives to energy monitoring is striking. There is no obvious connection between the two businesses. It is not as though feed-additive expertise transferred into energy-sector relationships or technology. Rather, Tanke appears to have liquidated one venture and acquired or launched an entirely new business under the same parent shell.
 
-This can work if the parent company provides capital and management continuity, and if the new venture has real traction. But at Tanke's current scale—a micro-cap with reported market cap under $600,000 and stock price around $0.02 per share—the holding company has almost no capital to deploy. The energy monitoring subsidiary would have to be self-supporting or funded externally.
+This can work if the parent company provides capital and management continuity, and if the new venture has real traction. But at Tanke's current scale—a micro-cap with reported [market cap](/market-capitalization/) under $600,000 and stock price around $0.02 per share—the holding company has almost no capital to deploy. The energy monitoring subsidiary would have to be self-supporting or funded externally.
 
 ## Operating status and viability
 

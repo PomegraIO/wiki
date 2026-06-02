@@ -17,17 +17,17 @@ handwritten: true
 
 ## The invention of the inverse ETF (2006)
 
-Exchange-traded funds emerged in the 1990s as a simple alternative to mutual funds: baskets of stocks that trade on an exchange like individual securities, with lower costs and greater transparency. For the first decade of their existence, nearly all ETFs were long — they tracked a stock market index or a sector by owning those assets and benefiting when they rose.
+Exchange-traded funds emerged in the 1990s as a simple alternative to [mutual funds](/mutual-fund/): baskets of stocks that trade on an exchange like individual securities, with lower costs and greater transparency. For the first decade of their existence, nearly all ETFs were long — they tracked a [stock market](/stock-market/) index or a sector by owning those assets and benefiting when they rose.
 
 In 2006, ProShares introduced something radically different: the first inverse exchange-traded fund. The concept was novel to retail investors. It was a fund that would profit if its underlying index fell in value. The mechanics relied on derivatives — short positions in the underlying index, structured as an ETF so that individual investors could trade it like a stock without needing a brokerage account, without understanding options, and without dealing with short-sale mechanics like locate requirements or borrow costs.
 
-The innovation filled a gap. Retail investors had no easy way to express a bearish bet on a broad market index. Shorting stocks requires a margin account and entails carrying costs and risks that discourage most individuals. The inverse ETF let anyone who wanted to bet against the market simply buy a fund and hold it.
+The innovation filled a gap. Retail investors had no easy way to express a bearish bet on a broad market index. Shorting stocks requires a margin account and entails carrying costs and risks that discourage most individuals. The [inverse ETF](/inverse-etf/) let anyone who wanted to bet against the market simply buy a fund and hold it.
 
 ## The expansion and leverage (2009–2010)
 
 Demand was substantial. By the end of the 2000s, there were inverse versions of most major indices — the S&P 500, the Nasdaq-100, individual sectors. But a single-inverse ETF (1x the opposite return) was a blunt instrument. In 2009, as volatility soared and interest in hedging and tactical shorting intensified, ProShares introduced the next generation: leveraged inverse funds. These promised 2x and 3x the opposite return of their underlying indices.
 
-The idea captured traders' attention immediately. A 3x inverse fund meant you could express a 3x-amplified bearish bet without borrowing from a broker or dealing with derivatives directly. If you believed the Nasdaq-100 was about to crater, you could buy a fund and capture 3x the downside move. The leverage was achieved through derivatives, not margin borrowing, so the fund did not face the same margin-call risk.
+The idea captured traders' attention immediately. A 3x inverse fund meant you could express a 3x-amplified bearish bet without borrowing from a [broker](/broker/) or dealing with derivatives directly. If you believed the Nasdaq-100 was about to crater, you could buy a fund and capture 3x the downside move. The leverage was achieved through derivatives, not margin borrowing, so the fund did not face the same margin-call risk.
 
 QQDN is part of this second generation. It came to market as part of the expanding suite of leveraged and inverse products, targeting specifically the Nasdaq-100 — the 100 largest Nasdaq-listed stocks, heavily weighted toward technology.
 
@@ -43,23 +43,23 @@ Almost immediately after leveraged and inverse ETFs became popular, a structural
 
 Here is the problem: suppose the Nasdaq-100 gains 10 percent in one day and then loses 9 percent the next day. Over the two days, it is up 1 percent. A 3x inverse fund, rebalancing daily, will have lost money on the upday (when it was forced to sell short more) and made less on the downday (when it was forced to cover some shorts). The fund will be down more than 3.3 percent over the period. Volatility decay eats away at the fund's value, especially in sectors and periods where day-to-day movement is large.
 
-For QQDN, which targets the Nasdaq-100 — a basket dominated by technology stocks, which are historically volatile — this decay is material. In a prolonged bull market for the Nasdaq-100, which has been the baseline from 2009 through most of the 2020s, QQDN does not just underperform the index; it erodes. Holding it for months or years through a rising market is guaranteed to destroy capital, even if the upward march is steady. The daily rebalancing cost is that severe.
+For QQDN, which targets the Nasdaq-100 — a basket dominated by technology stocks, which are historically volatile — this decay is material. In a prolonged [bull market](/bull-market/) for the Nasdaq-100, which has been the baseline from 2009 through most of the 2020s, QQDN does not just underperform the index; it erodes. Holding it for months or years through a rising market is guaranteed to destroy capital, even if the upward march is steady. The daily rebalancing cost is that severe.
 
 ## The regulatory environment and ongoing use (2010–present)
 
 Leveraged and inverse ETFs triggered debate among regulators. There were concerns about market stability, retail investor confusion, and whether products this complex should be allowed for unsophisticated investors. Some proposals surfaced to restrict 3x leverage or ban inverse funds entirely in certain account types. None of these bans were implemented, and the funds remain legal and widely available.
 
-However, the concerns were not baseless. Many advisors explicitly discourage clients from holding leveraged or inverse ETFs, and some custodians impose restrictions or warnings. Regulators require explicit risk disclosures in prospectuses.
+However, the concerns were not baseless. Many advisors explicitly discourage clients from holding leveraged or inverse ETFs, and some [custodians](/custodian/) impose restrictions or warnings. Regulators require explicit risk disclosures in prospectuses.
 
 ## QQDN in practice: who uses it and when
 
 In practice, QQDN is used almost exclusively by tactical traders: investors with a specific, near-term conviction that the Nasdaq-100 will fall sharply within hours, days, or at most a few weeks. It is also used as a temporary portfolio hedge by professional advisors during windows when they expect near-term weakness. Some market-neutral or hedging funds use QQDN as part of a larger strategy.
 
-It is emphatically not a buy-and-hold vehicle. The fund prospectus makes this explicit: the fund is designed for investors with a short time horizon. Holding QQDN across months or years, even if the Nasdaq-100's long-term return is positive, will result in near-total capital loss. The volatility decay is that severe.
+It is emphatically not a buy-and-hold vehicle. The [fund prospectus](/fund-prospectus/) makes this explicit: the fund is designed for investors with a short time horizon. Holding QQDN across months or years, even if the Nasdaq-100's long-term return is positive, will result in near-total capital loss. The volatility decay is that severe.
 
 ## The modern landscape: QQDN today
 
-QQDN trades with reasonable liquidity on NASDAQ because ProShares is a large fund sponsor and the Nasdaq-100 is a major index. Spreads are generally tight. The costs are transparent in the prospectus and the fund's fact sheet.
+QQDN trades with reasonable liquidity on [NASDAQ](/nasdaq/) because ProShares is a large fund sponsor and the Nasdaq-100 is a major index. Spreads are generally tight. The costs are transparent in the prospectus and the fund's fact sheet.
 
 The real risk is behavioural rather than structural. Retail investors sometimes buy inverse or leveraged funds believing they are holding a hedge or a long-term portfolio bet, significantly underestimating the decay cost and the tax inefficiency of the daily rebalancing. Over time, this leads to positions that erode far faster than the investor expected.
 

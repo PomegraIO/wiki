@@ -12,13 +12,13 @@ handwritten: true
 
 > "A SPAC is a company in search of a business; the shareholder is a bet on the sponsor's judgment and the deal's execution."
 
-Berto Acquisition Corp. II is a special-purpose acquisition company — a SPAC or blank-cheque vehicle — created to raise capital from public investors and identify a private operating company to merge with and take public. Like all SPACs, Berto itself is a shell: no operations, no employees beyond a skeleton administrative team, no revenue. Its only asset is the cash raised in its initial public offering, held in trust pending a merger announcement and shareholder vote.
+Berto [Acquisition](/acquisition/) Corp. II is a [special-purpose acquisition company](/special-purpose-acquisition-company/) — a SPAC or blank-cheque vehicle — created to raise capital from public investors and identify a private operating company to merge with and take public. Like all SPACs, Berto itself is a shell: no operations, no employees beyond a skeleton administrative team, no revenue. Its only asset is the cash raised in its [initial public offering](/initial-public-offering/), held in trust pending a [merger](/merger/) announcement and shareholder vote.
 
 The company's ticker symbol — GUAC — and its branding hint at a focus area within consumer businesses, likely food, beverages, or fast-casual dining. The Berto name and structure suggest management with experience in this sector, though until a specific merger target is announced, the exact investment thesis remains opaque to public shareholders.
 
 ## The mechanics of a blank-cheque company
 
-When Berto went public, it raised capital by selling shares to institutional and retail investors in an IPO. The cash from those sales was placed in a trust account, where it sits untouched until the company identifies a target business and negotiates a merger agreement. Management — the "sponsor" team — simultaneously purchased founder shares at a nominal price, typically a few cents per share, and paid a fee to use the capital as a search fund. This structure creates aligned incentives: sponsors own heavily discounted founder shares that become valuable only if a successful merger occurs.
+When Berto went public, it raised capital by selling shares to institutional and retail investors in an IPO. The cash from those sales was placed in a trust account, where it sits untouched until the company identifies a target business and negotiates a merger agreement. Management — the "sponsor" team — simultaneously purchased [founder shares](/founder-shares/) at a nominal price, typically a few cents per share, and paid a fee to use the capital as a search fund. This structure creates aligned incentives: sponsors own heavily discounted founder shares that become valuable only if a successful merger occurs.
 
 The SPAC structure imposes a hard deadline. If Berto does not announce and complete a merger within a specified window (usually two to three years from its IPO), the company must return the cash to shareholders, terminating the vehicle. This timer creates urgency that benefits well-prepared sponsors but can also pressure management into closing deals that are suboptimal for public shareholders.
 
@@ -40,4 +40,4 @@ The most dangerous moment for a SPAC shareholder is the announcement of the merg
 
 A second risk is redemption. If investors expect a bad deal or poor market conditions, they redeem their shares, draining cash from the trust and forcing the merged company to operate with less capital than projected. A third is lockup expiration, when founder shares and sponsor shares become tradeable; if insiders sell heavily upon unlocking, the stock can face sustained selling pressure.
 
-For Berto specifically, the risks are the same as any SPAC: sponsor quality, deal quality, market timing, and shareholder redemption dynamics. Without a announced target, evaluating these is impossible; investors are making a pure bet on the sponsor's competence and the consumer sector's trajectory.
+For Berto specifically, the risks are the same as any SPAC: sponsor quality, deal quality, [market timing](/market-timing/), and shareholder redemption dynamics. Without a announced target, evaluating these is impossible; investors are making a pure bet on the sponsor's competence and the consumer sector's trajectory.

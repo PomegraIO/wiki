@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Silence Therapeutics is a British biotechnology company built on a deceptively simple idea: use synthetic RNA molecules to silence genes that drive disease. The company takes a natural cellular mechanism — RNA interference, which cells use to control their own genes — and weaponizes it as medicine. The result is a pipeline of therapies that target conditions where too much of a particular protein is causing harm, from elevated lipoprotein(a) in the blood to liver disease to inherited metabolic disorders. The company trades on NASDAQ (SLN) and over-the-counter in the United States (SLNCF).
+[Silence Therapeutics](/sln-stock/) is a British biotechnology company built on a deceptively simple idea: use synthetic RNA molecules to silence genes that drive disease. The company takes a natural cellular mechanism — RNA interference, which cells use to control their own genes — and weaponizes it as medicine. The result is a pipeline of therapies that target conditions where too much of a particular protein is causing harm, from elevated lipoprotein(a) in the blood to liver disease to inherited metabolic disorders. The company trades on [NASDAQ](/nasdaq/) (SLN) and over-the-counter in the United States (SLNCF).
 
 <aside class="wiki-infobox">
 <table>
@@ -49,6 +49,6 @@ The limitation is validation itself. Choosing the right gene to target — one w
 
 ## Execution and financial risk
 
-Silence is a development-stage biotech company with no approved medicines and no commercial revenue. It survives on equity and debt financing and the belief that its pipeline will eventually deliver approved drugs. The company's cash runway is measured in years, not decades. If zerlasiran fails in Phase III trials or faces regulatory delay, or if the company cannot raise capital when needed, it could face severe financial stress. Clinical trials in humans are always uncertain, and even promising Phase II data does not guarantee Phase III success.
+Silence is a development-stage biotech company with no approved medicines and no commercial revenue. It survives on equity and [debt financing](/debt-financing/) and the belief that its pipeline will eventually deliver approved drugs. The company's cash runway is measured in years, not decades. If zerlasiran fails in Phase III trials or faces regulatory delay, or if the company cannot raise capital when needed, it could face severe financial stress. Clinical trials in humans are always uncertain, and even promising Phase II data does not guarantee Phase III success.
 
 The company publishes detailed clinical data regularly and maintains an open communication with investors. For anyone considering investment, the key is to assess the probability that zerlasiran succeeds in its pivotal trials and gets approved, weighed against the company's cash position and financing options. The Lp(a) opportunity is large, but execution risk is high, and smaller biotechs face real financial pressure as they move therapies through development.

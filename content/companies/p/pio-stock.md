@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Water stress is no longer a distant hypothetical. Aquifers are depleting, rivers are running dry in summer months, and cities from Cape Town to Phoenix have confronted the possibility of running out of drinking water. Against this backdrop, the Invesco Global Water ETF (ticker PIO) owns the companies trying to source, clean, distribute, and conserve water at a planetary scale. Launched in 2007, the fund tracks the S&P Global Water Index, a collection of water-related businesses drawn from developed and emerging markets. Unlike water-specific funds that concentrate on North American and European utilities, PIO explicitly includes infrastructure and technology firms from China, India, and other emerging economies where water stress is most acute and where the largest capital investments are taking place.
+Water stress is no longer a distant hypothetical. Aquifers are depleting, rivers are running dry in summer months, and cities from Cape Town to Phoenix have confronted the possibility of running out of drinking water. Against this backdrop, the Invesco Global Water ETF (ticker PIO) owns the companies trying to source, clean, distribute, and conserve water at a planetary scale. Launched in 2007, the fund tracks the [S&P Global](/spgi-stock/) Water Index, a collection of water-related businesses drawn from developed and emerging markets. Unlike water-specific funds that concentrate on North American and European utilities, PIO explicitly includes infrastructure and technology firms from China, India, and other emerging economies where water stress is most acute and where the largest capital investments are taking place.
 
 <aside class="wiki-infobox">
 <table>
@@ -34,9 +34,9 @@ The S&P Global Water Index draws from utilities (regulated firms that operate wa
 
 ## Structure and diversification
 
-PIO is a standard ETF tracking a fixed index. It holds dozens of individual stocks, so the impact of any single company's downturn is limited. As a global fund, it carries currency exposure: a significant portion of the holdings trade in currencies other than the US dollar, so exchange-rate movements affect returns. A strong US dollar can be a headwind for PIO because overseas profits are worth less when converted back. Conversely, a weak dollar boosts returns. The fund does not hedge currency exposure; investors are taking a deliberate bet on global currency movements or accepting that currency noise is part of international investing.
+PIO is a standard ETF tracking a fixed index. It holds dozens of individual stocks, so the impact of any single company's downturn is limited. As a global fund, it carries currency exposure: a significant portion of the holdings trade in currencies other than the [US dollar](/us-dollar/), so exchange-rate movements affect returns. A strong US dollar can be a headwind for PIO because overseas profits are worth less when converted back. Conversely, a weak dollar boosts returns. The fund does not hedge currency exposure; investors are taking a deliberate bet on global currency movements or accepting that currency noise is part of international investing.
 
-The expense ratio is moderate for a thematic global ETF, reflecting the cost of tracking an index that includes stocks from multiple countries and exchanges. Liquidity is generally good; volumes are strong enough that normal-sized trades clear without significant price impact.
+The [expense ratio](/expense-ratio/) is moderate for a thematic global ETF, reflecting the cost of tracking an index that includes stocks from multiple countries and exchanges. Liquidity is generally good; volumes are strong enough that normal-sized trades clear without significant price impact.
 
 ## Why water matters (and why it is hard to profit from)
 
@@ -48,7 +48,7 @@ That said, some segments of the water business are genuinely profitable: special
 
 **Regulatory and political risk.** Water is essential and therefore politically charged. Governments can force price controls, redirect investment, or shift from private to public management. A change in administration or a political backlash against private water companies can hit returns sharply.
 
-**Emerging-market and currency volatility.** PIO's inclusion of Chinese, Indian, and other emerging-market water firms adds exposure to higher growth potential but also geopolitical risk, currency volatility, and less-liquid markets. Emerging-market stocks can swing more sharply than developed-market equivalents.
+**Emerging-market and [currency volatility](/currency-volatility/).** PIO's inclusion of Chinese, Indian, and other emerging-market water firms adds exposure to higher growth potential but also geopolitical risk, currency volatility, and less-liquid markets. Emerging-market stocks can swing more sharply than developed-market equivalents.
 
 **Capital intensity.** Water infrastructure is capital-heavy and long-lived. Companies must invest billions in pipes, treatment plants, and reservoirs that produce returns over decades. That ties up capital and can limit flexibility if competition or regulation shifts.
 
@@ -56,6 +56,6 @@ That said, some segments of the water business are genuinely profitable: special
 
 ## Who should own PIO and how to research it
 
-PIO works for investors who believe water scarcity will drive long-term demand and pricing power, and who want global exposure to both developed-market utilities and emerging-market water infrastructure. It suits income portfolios because many holdings pay dividends. Investors uncomfortable with emerging-market risk or currency volatility should lean toward more developed-market-focused water funds instead.
+PIO works for investors who believe water scarcity will drive long-term demand and pricing power, and who want global exposure to both developed-market utilities and emerging-market water infrastructure. It suits income portfolios because many holdings pay [dividends](/dividend/). Investors uncomfortable with emerging-market risk or currency volatility should lean toward more developed-market-focused water funds instead.
 
-To research PIO, start with the fund fact sheet and prospectus from Invesco and the S&P Global Water Index methodology. Review the top ten holdings to understand the mix of utilities, engineering firms, and technology companies. Read earnings reports from a sample of holdings to understand how different regions and business models generate returns. Follow news about droughts, infrastructure spending bills, and water-company regulation, as these often move the fund. Currency-market discussions and emerging-market economic forecasts are also relevant background.
+To research PIO, start with the fund fact sheet and prospectus from Invesco and the S&P Global Water Index methodology. Review the top ten holdings to understand the mix of utilities, engineering firms, and technology companies. Read earnings reports from a sample of holdings to understand how different regions and business models generate returns. Follow news about droughts, infrastructure spending bills, and water-company [regulation, as](/regulation-a/) these often move the fund. Currency-market discussions and emerging-market economic forecasts are also relevant background.

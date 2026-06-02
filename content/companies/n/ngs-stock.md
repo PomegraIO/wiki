@@ -34,7 +34,7 @@ NGS is a pure-play exposure to upstream capital discipline. When oil and gas com
 - **Regulatory environment**: Methane regulation, emissions standards, or restrictions on fossil-fuel development can lower drilling intensity or favor certain types of equipment (e.g., electric compressors).
 - **Obsolescence and technology shifts**: Pressure to electrify and reduce carbon intensity could disrupt demand for traditional internal-combustion compressors.
 
-During peak drilling cycles, NGS's fleet runs near capacity, utilization rates climb, and pricing power improves. During downturns, idle equipment sits on the balance sheet, [depreciation](/depreciation/) expense rises, and customers renegotiate lease terms or return units early.
+During peak drilling cycles, NGS's fleet runs near [capacity, utilization rates](/capacity-utilization-rate/) climb, and pricing power improves. During downturns, idle equipment sits on the balance sheet, [depreciation](/depreciation/) expense rises, and customers renegotiate lease terms or return units early.
 
 ## Financial Structure
 

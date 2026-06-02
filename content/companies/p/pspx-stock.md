@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Pacific Sports Exchange Inc. (NASDAQ: PSPX) is a holding company centred on acquiring and operating professional and semi-professional sports teams. Rather than a single flagship sport, PSPX casts a wide net — it owns teams across different leagues and geographies, seeking value opportunities in sports franchises where the company believes it can improve operations, increase revenues, or extract synergies across its portfolio.
+Pacific Sports Exchange Inc. ([NASDAQ](/nasdaq/): PSPX) is a holding company centred on acquiring and operating professional and semi-professional sports teams. Rather than a single flagship sport, PSPX casts a wide net — it owns teams across different leagues and geographies, seeking value opportunities in sports franchises where the company believes it can improve operations, increase revenues, or extract synergies across its portfolio.
 
 <aside class="wiki-infobox">
 <table>
@@ -39,17 +39,17 @@ Pacific Sports Exchange attempts to mitigate this by diversifying across leagues
 
 The company's focus on the Pacific region and international markets suggests a thesis that emerging or underutilised markets — parts of Asia, Oceania, or growing cities in the United States — represent undervalued sports franchises with upside if managed correctly. International sports (soccer in particular) generates enormous revenue globally, and many franchises in developing markets or second-tier cities operate below their potential if capital and operational expertise are applied.
 
-However, international sports franchises also introduce currency risk (revenues and costs in different currencies), geopolitical risk (political instability, regulatory changes), and execution risk (operating a team in a foreign market with different fan culture and sponsorship landscapes is harder than it appears).
+However, international sports franchises also introduce [currency risk](/currency-risk/) (revenues and costs in different currencies), geopolitical risk (political instability, regulatory changes), and execution risk (operating a team in a foreign market with different fan culture and sponsorship landscapes is harder than it appears).
 
 ## Capital structure and leverage
 
-Like many franchising and sports-focused entities, PSPX likely uses leverage to acquire teams — borrowing against the future cash flows the team is expected to generate. This amplifies returns if the team's performance improves and cash flow exceeds debt service, but it also creates risk if performance disappoints. Franchise acquisitions are typically not cheap — any team generating positive cash flow has buyers — so PSPX needs to either find overlooked assets or generate operational improvements fast enough to cover the cost of capital and debt service.
+Like many franchising and sports-focused entities, PSPX likely uses leverage to acquire teams — borrowing against the future cash flows the team is expected to generate. This amplifies returns if the team's performance improves and cash flow exceeds debt service, but it also creates risk if performance disappoints. Franchise [acquisitions](/acquisition/) are typically not cheap — any team generating positive cash flow has buyers — so PSPX needs to either find overlooked assets or generate operational improvements fast enough to cover the cost of capital and debt service.
 
 ## Competitive dynamics and risks
 
 PSPX competes with other sports franchisees, private-equity firms, media companies (which increasingly own sports properties to generate content), and wealthy individual owners. The competition for popular teams in major markets is fierce, and valuations can become inflated as capital chases returns. The company's edge, if it has one, is in finding teams others have missed or in operational improvements others have not yet deployed.
 
-Key risks include: regulatory changes in sports leagues (salary caps, ownership rules), changes in fan engagement and attendance (streaming effects, cord-cutting), player-cost inflation outpacing revenue growth, and acquisition integration challenges (buying a poorly run team and fixing it is harder than it looks).
+Key risks include: regulatory changes in sports leagues (salary caps, ownership rules), changes in fan engagement and attendance (streaming effects, cord-cutting), player-cost [inflation](/inflation/) outpacing revenue growth, and acquisition integration challenges (buying a poorly run team and fixing it is harder than it looks).
 
 ## Strategic positioning
 

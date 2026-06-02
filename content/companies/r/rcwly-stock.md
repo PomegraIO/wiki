@@ -25,7 +25,7 @@ Rockwool is the leading global maker of stone wool. The advantage of stone wool 
 
 Rockwool competes by being the largest and most efficient stone wool maker. The company has plants across Europe and North America (and smaller operations elsewhere) that allow it to serve customers with short lead times. It has invested in efficient production. It has a portfolio of brands and products that serve different applications — from basic insulation to specialized products for industrial, marine, and other uses. It has technical expertise and customer relationships that make it the first call for many builders and contractors.
 
-The company also benefits from regulation. As building codes tighten around insulation requirements and fire safety, stone wool's properties become more valuable. A cheaper fiberglass product might not meet new codes. A foam product might be banned in certain applications. Stone wool meets the requirements, and Rockwool is the largest supplier.
+The company also benefits from [regulation. As](/regulation-a/) building codes tighten around insulation requirements and fire safety, stone wool's properties become more valuable. A cheaper fiberglass product might not meet new codes. A foam product might be banned in certain applications. Stone wool meets the requirements, and Rockwool is the largest supplier.
 
 ## How the business is organized
 

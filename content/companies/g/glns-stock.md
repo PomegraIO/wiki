@@ -31,7 +31,7 @@ Capital intensity is another essential axis. Taking a mine from resource to rese
 
 GLNS is a direct play on the gold price. When gold rises, the company's per-ounce cash costs become a smaller fraction of revenue, expanding [gross-profit-margin](/gross-profit-margin/) and [operating-margin](/operating-margin/). Conversely, downturns compress margins and may push marginal mines into cash-burn territory. The [10-K](/10-k/) will reveal whether GLNS hedges gold price risk through forward sales, options, or other financial instruments, or operates unhedged. Most junior and intermediate producers leave themselves unhedged, betting that commodity lows are temporary—a directional choice that increases volatility but captures full upside.
 
-[Currency risk](/currency-risk/) layered on top: GLNS mines in Ghana (local currency, the cedi) but reports earnings in U.S. dollars. Large currency devaluations in Ghana can reduce reported [free-cash-flow](/free-cash-flow/) even if ore production and gold prices are stable, because operating costs denominated in local currency inflate in dollar terms when the cedi weakens. The company may hedge this via local currency borrowings or financial instruments, or accept the exposure.
+[Currency risk](/currency-risk/) layered on top: GLNS mines in Ghana (local currency, the cedi) but reports earnings in [U.S. dollars](/us-dollar/). Large currency devaluations in Ghana can reduce reported [free-cash-flow](/free-cash-flow/) even if ore production and gold prices are stable, because operating costs denominated in local currency inflate in dollar terms when the cedi weakens. The company may hedge this via local currency borrowings or financial instruments, or accept the exposure.
 
 ## Capital Structure and Dividend Policy
 

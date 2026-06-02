@@ -31,7 +31,7 @@ An analyst reviewing Pasithea's 10-K must immediately calculate cash runway: div
 
 ## Pipeline and Indication Selection
 
-Pasithea's competitive advantage, if any, lies in its compound library and selection of psychiatric and neurological indications. The psychiatry space is drawing intense interest and capital: FDA approval paths for depression, anxiety, PTSD, and cognitive disorders have broadened, and payers increasingly recognize the mental-health crisis. However, psychiatry is also crowded. Major pharma ([Pfizer](/pfe-stock/), Eli Lilly, Janssen) and well-funded competitors ([Compass Pathways](/cmps-stock/), Perception Neuroscience, Sage Therapeutics) are all developing compounds in overlapping spaces.
+Pasithea's competitive advantage, if any, lies in its compound library and selection of psychiatric and neurological indications. The psychiatry space is drawing intense interest and capital: FDA approval paths for depression, anxiety, PTSD, and cognitive disorders have broadened, and payers increasingly recognize the mental-health crisis. However, psychiatry is also crowded. Major pharma ([Pfizer](/pfe-stock/), [Eli Lilly](/lly-stock/), Janssen) and well-funded competitors ([Compass Pathways](/cmps-stock/), Perception Neuroscience, Sage Therapeutics) are all developing compounds in overlapping spaces.
 
 The 10-K's "Pipeline" or "Development Program" section should list each compound in development, its current trial phase, indication, and expected milestone dates. An analyst should cross-reference these dates against Pasithea's cash runway. If the lead program won't reach Phase II readout for two years but the company has only 15 months of cash, financing risk is acute.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*21Shares Active Crypto ETF (NASDAQ: TKNS) is the first actively managed exchange-traded fund focused on cryptocurrency, launched in mid-2026 by 21Shares—a company that spent the prior decade building passive crypto index products and custody infrastructure. TKNS marks the company's shift from passive to active, allowing retail investors to delegate cryptocurrency selection and timing to professional managers.*
+*21Shares Active Crypto ETF ([NASDAQ](/nasdaq/): TKNS) is the first actively managed exchange-traded fund focused on cryptocurrency, launched in mid-2026 by 21Shares—a company that spent the prior decade building passive crypto index products and custody infrastructure. TKNS marks the company's shift from passive to active, allowing retail investors to delegate cryptocurrency selection and timing to professional managers.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ handwritten: true
 
 ## 21Shares' path to active management
 
-21Shares was founded in 2017 as a digital-asset indexing and custody provider. For nearly a decade, the company built a reputation launching passive cryptocurrency index products—Bitcoin ETFs, Ethereum ETFs, multi-asset crypto indices—that tracked the underlying assets mechanically. These passive funds were straightforward: hold the asset, charge a modest fee for custody and operational overhead, replicate returns. By 2025, passive crypto ETFs had become commoditized, with Fidelity, BlackRock, and others competing on fee minimization. For 21Shares to differentiate, the company needed to offer something passive providers could not.
+21Shares was founded in 2017 as a digital-asset indexing and custody provider. For nearly a decade, the company built a reputation launching passive cryptocurrency index products—[Bitcoin](/bitcoin/) ETFs, [Ethereum](/ethereum/) ETFs, multi-asset crypto indices—that tracked the underlying assets mechanically. These passive funds were straightforward: hold the asset, charge a modest fee for custody and operational overhead, replicate returns. By 2025, passive crypto ETFs had become commoditized, with Fidelity, [BlackRock](/blk-stock/), and others competing on fee minimization. For 21Shares to differentiate, the company needed to offer something passive providers could not.
 
 TKNS, launched in mid-2026, is that answer. Rather than holding a fixed weight of Bitcoin and Ethereum, TKNS permits active managers to shift allocations based on market data, valuation, and conviction. The fund invests at least eighty percent of assets in digital assets or derivatives providing economic exposure, but the exact composition—how much Bitcoin versus Ethereum versus smaller tokens—is a manager decision, not a rule.
 
@@ -45,14 +45,14 @@ The fund relies on 21Shares' custody and trading infrastructure, built over nine
 
 ## Risks: active management and crypto volatility
 
-The primary risk is active-management risk: if 21Shares' portfolio managers mistime the market or select underperforming altcoins, TKNS will lag passive alternatives—and will have paid 1.05 percent in fees for that underperformance. Unlike equity or bond markets where manager skill is occasionally observable over long periods, crypto markets are immature; it is unclear whether active selection can consistently add value.
+The primary risk is active-management risk: if 21Shares' portfolio managers mistime the market or select underperforming altcoins, TKNS will lag passive alternatives—and will have paid 1.05 percent in fees for that underperformance. Unlike equity or [bond](/bond/) markets where manager skill is occasionally observable over long periods, crypto markets are immature; it is unclear whether active selection can consistently add value.
 
 Volatility is structural. Cryptocurrency prices move 20 to 40 percent in days; declines of 60 percent occur periodically. TKNS will reflect this volatility. The fund is unsuitable for conservative investors or those needing capital preservation.
 
-Regulatory risk is material and hard to predict. If governments impose restrictions on crypto custody, trading, or taxation, or if central banks intervene more aggressively in digital asset markets, the fund's costs and holdings could shift materially. 21Shares can adjust strategy but cannot eliminate this uncertainty.
+Regulatory risk is material and hard to predict. If governments impose restrictions on crypto custody, trading, or taxation, or if [central banks](/central-bank/) intervene more aggressively in digital asset markets, the fund's costs and holdings could shift materially. 21Shares can adjust strategy but cannot eliminate this uncertainty.
 
 ## Who TKNS suits and research approach
 
 TKNS appeals to investors who believe digital assets will play a growing role in financial systems and who prefer delegating asset selection to active managers rather than researching and selecting individual coins. It also appeals to those with convictions about crypto exposure but who want the simplicity of an ETF over a self-managed digital wallet.
 
-Start with 21Shares' prospectus and fact sheets to understand the fund's objective and fee structure. Examine the current holdings breakdown—what percentage is Bitcoin, Ethereum, and altcoins?—and monitor how that allocation shifts over quarters. Compare TKNS's return history against a Bitcoin spot ETF and against Ethereum; if TKNS materially lags passive alternatives, active management is not adding value. Watch for regulatory announcements that could affect crypto custody or taxation. As the fund grows, monitor whether 21Shares reduces the expense ratio to reflect operational economies of scale.
+Start with 21Shares' prospectus and fact sheets to understand the fund's objective and fee structure. Examine the current holdings breakdown—what percentage is Bitcoin, Ethereum, and altcoins?—and monitor how that allocation shifts over quarters. Compare TKNS's return history against a Bitcoin spot ETF and against Ethereum; if TKNS materially lags passive alternatives, active management is not adding value. Watch for regulatory announcements that could affect crypto custody or taxation. As the fund grows, monitor whether 21Shares reduces the [expense ratio](/expense-ratio/) to reflect operational economies of scale.

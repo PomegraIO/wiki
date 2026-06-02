@@ -41,7 +41,7 @@ The company also acquired GastroPlus, a related platform focused on predicting h
 
 ## The competitive landscape
 
-Simulations Plus is not alone in this space. Large pharma companies like [Pfizer](/pfe-stock/) and Merck have built sophisticated in-house modeling capabilities over decades, and they have no incentive to outsource that work to a vendor. Many contract research organizations (CROs) have acquired or built similar simulation tools to offer to clients. Academic institutions publish modeling software, some of it free or open-source. The company competes most directly against vendors like Certara and smaller pure-play modeling shops.
+Simulations Plus is not alone in this space. Large pharma companies like [Pfizer](/pfe-stock/) and [Merck](/mrk-stock/) have built sophisticated in-house modeling capabilities over decades, and they have no incentive to outsource that work to a vendor. Many contract research organizations (CROs) have acquired or built similar simulation tools to offer to clients. Academic institutions publish modeling software, some of it free or open-source. The company competes most directly against vendors like Certara and smaller pure-play modeling shops.
 
 Simulations Plus' edge is partly products — the breadth and accuracy of its simulation engines — and partly customer relationships. A pharma researcher who has built expertise in GastroPlus or PK-Sim workflows is unlikely to switch to a different platform lightly. The software is also specialized enough that a customer typically licenses multiple modules and integrates them into their internal discovery pipelines, creating switching costs. But that advantage can erode if competitors release superior tools or if in-house capabilities at large customers improve.
 

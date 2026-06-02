@@ -10,21 +10,21 @@ keywords:
 handwritten: true
 ---
 
-*A **green bond ETF** holds fixed-income securities issued specifically to finance environmental projects—renewable energy, energy efficiency, water systems—directing investor capital toward climate solutions while providing regular interest income.*
+*A **green [bond ETF](/bond-etf/)** holds fixed-income securities issued specifically to finance environmental projects—renewable energy, energy efficiency, water systems—directing investor capital toward climate solutions while providing regular interest income.*
 
-The Carbon Collective Short Duration Green Bond ETF (CCSB) emerged at an inflection point in financial markets. In the early 2010s, green bonds scarcely existed—investors seeking environmental impact had to choose between divestment (avoiding companies with poor environmental records) or impact investing (accepting below-market returns for above-market mission alignment). Green bonds offered a third path: market-rate returns with the explicit commitment that the capital would finance projects that benefit the environment.
+The Carbon Collective Short Duration Green [Bond](/bond/) ETF (CCSB) emerged at an inflection point in financial markets. In the early 2010s, green bonds scarcely existed—investors seeking environmental impact had to choose between divestment (avoiding companies with poor environmental records) or impact investing (accepting below-market returns for above-market mission alignment). Green bonds offered a third path: market-rate returns with the explicit commitment that the capital would finance projects that benefit the environment.
 
 ## From concept to market
 
 The first green bonds appeared in 2007, but the market was negligible until the early 2010s when development banks and some governments began issuing them in volume. Growth was gradual at first, constrained by skepticism that "green" was marketing window dressing. But as climate change moved from activist concern to mainstream financial risk—as insurers began modeling climate losses, investors began demanding climate disclosures, and regulators began treating climate as a material financial issue—demand for green bonds exploded. By the late 2010s, every major government and corporation had a green bond program, and investors could build meaningful portfolios of these securities.
 
-Today, green bonds finance renewable energy installation, energy efficiency retrofits, sustainable water and transport infrastructure, and habitat conservation. The defining feature is a covenant: the issuer promises that proceeds will fund eligible projects and reports publicly on how the money was spent. Credit risk—the issuer's ability to repay principal and interest—is separate from the greenness of the use of proceeds. A government-backed green bond carries the credit risk of that government; a corporate green bond carries corporate credit risk.
+Today, green bonds finance renewable energy installation, energy efficiency retrofits, sustainable water and transport infrastructure, and habitat conservation. The defining feature is a covenant: the issuer promises that proceeds will fund eligible projects and reports publicly on how the money was spent. [Credit risk](/credit-risk/)—the issuer's ability to repay principal and interest—is separate from the greenness of the use of proceeds. A government-backed green bond carries the credit risk of that government; a corporate green bond carries corporate credit risk.
 
 ## What CCSB holds: scope and screening
 
-CCSB holds green bonds with short to intermediate maturities, typically three to seven years until repayment. This short duration provides stability: if interest rates rise, short-dated bond prices fall less than long-dated bonds. A 1 percent rise in rates might cause a five-year bond to lose 4–5 percent in value, while a 30-year bond loses 20 percent. The trade-off is yield—short-duration bonds pay less than longer-duration bonds from the same issuer, a feature of the yield curve. CCSB investors accept lower income for lower interest-rate sensitivity.
+CCSB holds green bonds with short to intermediate maturities, typically three to seven years until repayment. This short duration provides stability: if [interest rates](/interest-rate/) rise, short-dated bond prices fall less than long-dated bonds. A 1 percent rise in rates might cause a five-year bond to lose 4–5 percent in value, while a 30-year bond loses 20 percent. The trade-off is yield—short-duration bonds pay less than longer-duration bonds from the same issuer, a feature of the [yield curve](/yield-curve/). CCSB investors accept lower income for lower interest-rate sensitivity.
 
-Beyond the green-bond requirement, CCSB adds environmental, social, and governance screening. The fund excludes issuers with poor ESG records, substantial fossil fuel exposure, or weak climate governance. This second filter ensures that capital flows not just to projects labeled green but to issuers demonstrating genuine environmental commitment overall.
+Beyond the green-bond requirement, CCSB adds environmental, social, and governance screening. The fund excludes issuers with poor ESG records, substantial fossil fuel exposure, or weak climate governance. This second filter ensures that [capital flows](/capital-flows/) not just to projects labeled green but to issuers demonstrating genuine environmental commitment overall.
 
 ## Issuer diversity and verification
 
@@ -34,9 +34,9 @@ The central challenge for any green bond fund is assurance that the projects are
 
 ## Interest-rate mechanics and cost
 
-Green bonds, like all bonds, move inversely to interest rates. When central banks raise rates, newly issued bonds offer higher yields, making older low-yield bonds worth less. Short-duration funds are insulated from the steepest losses: a sharp rise in rates hurts less when bonds mature soon. But the fund is not free from interest-rate risk—rates still matter to valuation.
+Green bonds, like all bonds, move inversely to interest rates. When [central banks](/central-bank/) raise rates, newly issued bonds offer higher yields, making older low-yield bonds worth less. Short-duration funds are insulated from the steepest losses: a sharp rise in rates hurts less when bonds mature soon. But the fund is not free from [interest-rate risk](/interest-rate-risk/)—rates still matter to valuation.
 
-CCSB's expense ratio covers portfolio management, rebalancing, and the cost of ESG screening. This is typically lower than an actively managed fund but higher than a bare-bones index fund of unscreened bonds. Investors should compare CCSB's costs against other green bond funds and plain vanilla bond funds to understand the premium for screening.
+CCSB's [expense ratio](/expense-ratio/) covers portfolio management, rebalancing, and the cost of ESG screening. This is typically lower than an [actively managed fund](/actively-managed-fund/) but higher than a bare-bones [index fund](/index-fund/) of unscreened bonds. Investors should compare CCSB's costs against other green bond funds and plain vanilla bond funds to understand the premium for screening.
 
 The fund trades on an exchange, allowing US investors to buy and sell during market hours. Liquidity is generally solid, though it depends on trading volume.
 

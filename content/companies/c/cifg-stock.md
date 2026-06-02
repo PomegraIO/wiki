@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*The **Leverage Shares 2X Long CIFR Daily ETF** (ticker CIFG) is a leveraged exchange-traded product that amplifies daily moves in its underlying reference by a factor of two. It borrows capital, rebalances every day to maintain that leverage ratio, and explicitly targets a 2x daily return before fees. This product is a tool for tactical traders betting on short-term direction; it is not a buy-and-hold investment.*
+*The **Leverage Shares 2X Long CIFR Daily ETF** (ticker CIFG) is a leveraged exchange-traded product that amplifies daily moves in its underlying reference by a factor of two. It borrows capital, rebalances every day to maintain that [leverage ratio](/leverage-ratio-forex/), and explicitly targets a 2x daily return before fees. This product is a tool for tactical traders betting on short-term direction; it is not a buy-and-hold investment.*
 
 <aside class="wiki-infobox">
 <table>
@@ -35,7 +35,7 @@ Consider the mathematics: if an underlying moves up 10%, then down 10%, it ends 
 
 ## What it tracks and why the decay matters
 
-CIFG targets 2x the daily return of the CIFR underlying. The exact reference—whether it is a stock-market index, a commodity, a single holding, or something else—is specified in the fund prospectus. Leverage Shares issues similar products across many underlying assets, each with its own structure and fee.
+CIFG targets 2x the daily return of the CIFR underlying. The exact reference—whether it is a stock-market index, a commodity, a single holding, or something else—is specified in the [fund prospectus](/fund-prospectus/). Leverage Shares issues similar products across many underlying assets, each with its own structure and fee.
 
 Volatility decay is the price of leverage. In a market that trends steadily up, CIFG will underperform 2x the simple buy-and-hold return. In a choppy market that ends flat, CIFG ends in the red. Higher volatility makes decay worse. This is mathematical; it cannot be engineered away.
 
@@ -43,9 +43,9 @@ Example: if the underlying rises 5% per year but experiences 20% annualized vola
 
 ## Costs and the leverage itself
 
-CIFG charges an expense ratio covering the cost of borrowing capital and rebalancing daily. These costs are embedded in the fund's value and deducted daily. The prospectus lists the exact percentage; compare it with competing products tracking the same underlying to judge whether costs are competitive.
+CIFG charges an [expense ratio](/expense-ratio/) covering the cost of borrowing capital and rebalancing daily. These costs are embedded in the fund's value and deducted daily. The prospectus lists the exact percentage; compare it with competing products tracking the same underlying to judge whether costs are competitive.
 
-Trading spreads depend on liquidity. CIFG is less widely held than broad ETFs, so bid-ask spreads may be wider. During volatile market conditions, spreads can widen further.
+Trading spreads depend on liquidity. CIFG is less widely held than broad ETFs, so [bid-ask spreads](/bid-ask-spread/) may be wider. During volatile market conditions, spreads can widen further.
 
 ## Who uses this and the real risks
 

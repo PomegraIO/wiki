@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-WORK Medical Technology Group LTD makes medical devices and consumables in China and sells them around the world. The company is based in Hangzhou City in Zhejiang Province. Its ticker symbol is WOK on NASDAQ. The company was founded in 2002 and has been making and exporting medical supplies for more than twenty years.
+WORK Medical Technology Group LTD makes medical devices and consumables in China and sells them around the world. The company is based in Hangzhou City in Zhejiang Province. Its ticker symbol is WOK on [NASDAQ](/nasdaq/). The company was founded in 2002 and has been making and exporting medical supplies for more than twenty years.
 
 What WORK does is straightforward: it manufactures simple, high-volume medical supplies that hospitals, clinics, and medical institutions need to run. Masks, breathing tubes, airways, tourniquets for bleeding control. The stuff that gets used once and thrown away. None of these products are high-tech on their own. What matters is making them reliably, affordably, and in volume.
 
@@ -41,7 +41,7 @@ Risk: geopolitics. U.S.-China trade tensions, tariffs, and export controls could
 
 Recently WORK moved into a more complex product category. Through a subsidiary called Hunan Saitumofei, the company developed an AI-Automated Human Blood Cell Morphology Analyzer. This is a Class II medical device—a machine that looks at blood samples and uses artificial intelligence to identify and classify cells. It is more complicated to build, more expensive to buy, and more technically sophisticated than a mask or breathing tube.
 
-The company obtained manufacturing approval for this analyzer, indicating it passed Chinese regulatory review. This is a diversification away from simple consumables into higher-value diagnostic equipment.
+The company obtained manufacturing approval for this analyzer, indicating it passed Chinese regulatory review. This is a [diversification](/diversification/) away from simple consumables into higher-value diagnostic equipment.
 
 ## What to watch
 

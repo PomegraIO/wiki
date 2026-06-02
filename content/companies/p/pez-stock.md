@@ -13,7 +13,7 @@ handwritten: true
 
 > The consumer that is confident buys more. The momentum says which ones will do it first.
 
-PEZ is an exchange-traded fund that combines two investment ideas: sector focus on consumer discretionary companies and a momentum-selection system. Consumer discretionary includes retailers, restaurant chains, automakers, leisure companies, and others that sell products people want but do not strictly need. Their sales tend to rise when the economy is strong and confidence is high, and fall sharply in recessions. PEZ takes those cyclical stocks and applies Dorsey Wright's momentum system to pick the ones showing the strongest upward momentum, then rebalances every quarter.
+PEZ is an exchange-traded fund that combines two investment ideas: sector focus on consumer discretionary companies and a momentum-selection system. Consumer discretionary includes retailers, restaurant chains, automakers, leisure companies, and others that sell products people want but do not strictly need. Their sales tend to rise when the economy is strong and confidence is high, and fall sharply in [recessions](/recession/). PEZ takes those cyclical stocks and applies Dorsey Wright's momentum system to pick the ones showing the strongest upward momentum, then rebalances every quarter.
 
 ## The cyclical sector bet
 
@@ -37,19 +37,19 @@ In a strong expansion, the fund might hold a heavy weight in homebuilders and fu
 
 ## The sector bias
 
-Because PEZ is locked to consumer discretionary, it is a concentrated bet. It will lag in recessions and during periods when investors favour defensive stocks. It will outrun in expansions and bull markets. The sectors it includes — retail, restaurants, automakers, hotels, leisure — all face distinct pressures. Retail is under structural pressure from e-commerce. Restaurants face labour inflation and food costs. Automakers compete globally and face electric-vehicle transition. Some of these tailwinds and headwinds play out over years.
+Because PEZ is locked to consumer discretionary, it is a concentrated bet. It will lag in recessions and during periods when investors favour defensive stocks. It will outrun in expansions and [bull markets](/bull-market/). The sectors it includes — retail, restaurants, automakers, hotels, leisure — all face distinct pressures. Retail is under structural pressure from e-commerce. Restaurants face labour [inflation](/inflation/) and food costs. Automakers compete globally and face electric-vehicle transition. Some of these tailwinds and headwinds play out over years.
 
 PEZEZ is not a weather-the-cycle, hold-forever fund. It is a tactical tool for investors who believe consumer discretionary will outperform and who want the added leverage of owning the momentum leaders within that sector.
 
 ## Returns, volatility, and timing risk
 
-Like all momentum strategies, PEZ amplifies returns in bull markets and amplifies losses in bear markets. It also faces a sector rotation risk: if consumer discretionary falls out of favour relative to other sectors, PEZ will underperform even if its momentum discipline is working perfectly. An investor in PEZ is making two bets: that consumer discretionary will do well, and that buying the best-performing ones within that sector will add value.
+Like all momentum strategies, PEZ amplifies returns in bull markets and amplifies losses in [bear markets](/bear-market/). It also faces a [sector rotation](/sector-rotation/) risk: if consumer discretionary falls out of favour relative to other sectors, PEZ will underperform even if its momentum discipline is working perfectly. An investor in PEZ is making two bets: that consumer discretionary will do well, and that buying the best-performing ones within that sector will add value.
 
 The quarterly rebalancing creates some timing risk. If the market drops sharply on the rebalancing day, the fund sells holdings that have fallen (taking losses) and buys fresh ones. This is the cost of a systematic approach. Over long periods, the discipline has proven valuable for other Invesco Dorsey Wright funds, but there is no guarantee that it will work the same way for a sector-constrained version.
 
 ## Costs and tax efficiency
 
-PEZ charges an expense ratio that covers Invesco's management, the Dorsey Wright system, and the quarterly rebalancing. The ratio is reasonable but not the cheapest for a sector ETF. Turnover is moderate, which is good for tax efficiency in taxable accounts. The fund trades on an exchange with adequate liquidity.
+PEZ charges an [expense ratio](/expense-ratio/) that covers Invesco's management, the Dorsey Wright system, and the quarterly rebalancing. The ratio is reasonable but not the cheapest for a [sector ETF](/sector-etf/). Turnover is moderate, which is good for tax efficiency in taxable accounts. The fund trades on an exchange with adequate liquidity.
 
 ## Who should consider it
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-SSR Mining Inc. operates precious-metals mines across North America and South America, primarily extracting gold and silver from underground and open-pit operations. It is a mid-sized mining company — neither a giant diversified miner like Newmont nor a junior explorer, but a genuine operator with producing assets that generate cash and maintain complex engineering operations. The company's shares trade on the NASDAQ under the ticker SSRGF and are denominated in Canadian dollars through the TSX primary listing.
+[SSR Mining](/ssrm-stock/) Inc. operates precious-metals mines across North America and South America, primarily extracting gold and silver from underground and open-pit operations. It is a mid-sized mining company — neither a giant diversified miner like Newmont nor a junior explorer, but a genuine operator with producing assets that generate cash and maintain complex engineering operations. The company's shares trade on the [NASDAQ](/nasdaq/) under the ticker SSRGF and are denominated in [Canadian dollars](/canadian-dollar/) through the TSX primary listing.
 
 <aside class="wiki-infobox">
 <table>
@@ -26,7 +26,7 @@ SSR Mining Inc. operates precious-metals mines across North America and South Am
 
 ## Mines as the core business
 
-SSR Mining's portfolio has shifted over time through acquisitions and disposals, but the fundamental model remains consistent: own permitted mining properties, extract ore, process it into bullion or concentrate, and sell the metal. The company operates mines that were previously held by other operators — some it built itself, others it acquired as functioning operations. This is different from pure exploration companies that spend years searching for ore bodies without producing anything, and different from large diversified miners that hold scores of properties across multiple metals and continents.
+SSR Mining's portfolio has shifted over time through [acquisitions](/acquisition/) and disposals, but the fundamental model remains consistent: own permitted mining properties, extract ore, process it into bullion or concentrate, and sell the metal. The company operates mines that were previously held by other operators — some it built itself, others it acquired as functioning operations. This is different from pure exploration companies that spend years searching for ore bodies without producing anything, and different from large diversified miners that hold scores of properties across multiple metals and continents.
 
 The arithmetic of gold mining is straightforward but unforgiving. SSR must extract enough ore, at low enough cost, to cover the fixed costs of running a mine (maintaining equipment, employing engineers and workers, paying property taxes and permits) plus the variable cost of pulling rock out of the ground and processing it. When the metal price is high, these costs shrink as a percentage of revenue and the mine prints cash. When the price falls, costs can exceed revenue for a time, and the company either reduces production, closes the mine temporarily, or absorbs losses. SSR has navigated price cycles by adjusting production, selling non-core assets, and acquiring mines at low valuations when capital is scarce.
 
@@ -34,7 +34,7 @@ The arithmetic of gold mining is straightforward but unforgiving. SSR must extra
 
 SSR competes on multiple dimensions. Against large miners like Newmont, Barrick, or Agnico Eagle, SSR cannot match reserves, production scale, or the ability to absorb setbacks across dozens of properties. Those giants can afford to wait out a bad ore grade for years at a single mine because their cash flows are diversified. SSR cannot. Against junior explorers with only one or two early-stage projects, SSR competes through the cash its producing mines generate — it does not need to raise equity as often, and it can self-fund exploration and development. But it also lacks the leverage those juniors offer: if their speculative assets prove out, shareholder returns can be staggering.
 
-Within the mid-tier cohort, SSR's competitive position rests on operational execution and the quality of its asset base. A mine that operates at cost or above makes money; one that operates below cost destroys it. SSR has had to prove that its operators can run efficient mines, that its engineering teams can solve ore-handling problems that kill smaller operators, and that its mines can sustain production across commodity cycles. Mergers and acquisitions in the mid-tier space are common precisely because the difference between a well-run and a poorly-run mine is the difference between a profitable company and a distressed one.
+Within the mid-tier cohort, SSR's competitive position rests on operational execution and the quality of its asset base. A mine that operates at cost or above makes money; one that operates below cost destroys it. SSR has had to prove that its operators can run efficient mines, that its engineering teams can solve ore-handling problems that kill smaller operators, and that its mines can sustain production across commodity cycles. [Mergers](/merger/) and acquisitions in the mid-tier space are common precisely because the difference between a well-run and a poorly-run mine is the difference between a profitable company and a distressed one.
 
 ## The nature of mining cash flows
 
@@ -44,11 +44,11 @@ SSR funds this cycle through the cash its operating mines generate and periodica
 
 ## Commodity exposure and risk
 
-SSR's revenue and profitability are tied directly to the price of gold and silver, which are set in global markets and move on macroeconomic expectations, central-bank policy, real interest rates, and geopolitical sentiment. Unlike a company that can raise prices or cut costs to maintain margins, a miner is largely a price-taker. If gold falls 20 percent, SSR's revenue falls roughly 20 percent too, all else equal. High production costs are largely fixed in the near term, so a sharp price decline hits earnings hard.
+SSR's revenue and profitability are tied directly to the price of gold and silver, which are set in global markets and move on macroeconomic expectations, central-bank policy, [real interest rates](/real-interest-rate/), and geopolitical sentiment. Unlike a company that can raise prices or cut costs to maintain margins, a miner is largely a price-taker. If gold falls 20 percent, SSR's revenue falls roughly 20 percent too, all else equal. High production costs are largely fixed in the near term, so a sharp price decline hits earnings hard.
 
 The company is also exposed to jurisdiction risk. Mining requires permits from the host country, stable legal systems to enforce contracts, and reasonable tax treatment. SSR operates in the Americas — notably Canada, Mexico, and South America — which are generally politically stable but still carry risks of expropriation, tax changes, or permit revocation if a government views the company as exploiting national resources unfairly. Environmental regulations in developed countries like Canada have become increasingly stringent, raising the cost of operating and permitting new mines.
 
-Exchange-rate risk is real too. Much of SSR's cost base is in Canadian dollars and local currencies of its mine jurisdictions, but gold is priced globally in US dollars. A strengthening US dollar makes mining more profitable (ore extracted at a fixed dollar price costs less in local currency), while a weakening dollar squeezes margins.
+Exchange-rate risk is real too. Much of SSR's cost base is in Canadian dollars and local currencies of its mine jurisdictions, but gold is priced globally in [US dollars](/us-dollar/). A strengthening US dollar makes mining more profitable (ore extracted at a fixed dollar price costs less in local currency), while a weakening dollar squeezes margins.
 
 ## How to research SSR Mining
 

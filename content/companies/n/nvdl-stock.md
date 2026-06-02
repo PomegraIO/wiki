@@ -11,15 +11,15 @@ keywords:
 handwritten: true
 ---
 
-*The **GraniteShares 2x Long NVDA Daily ETF**, ticker NVDL, amplifies Nvidia's daily movements by a factor of two using leverage. The fund's mission is straightforward: deliver twice the return of Nvidia stock on a daily basis. GraniteShares engineered this product for traders and tactical investors convinced that Nvidia will rise, but willing to accept the mathematics of leverage — borrowing costs, volatility decay, and the amplification of downside moves.*
+*The **GraniteShares 2x Long NVDA Daily ETF**, ticker NVDL, amplifies Nvidia's daily movements by a factor of two using leverage. The fund's mission is straightforward: deliver twice the return of [Nvidia](/nvda-stock/) stock on a daily basis. GraniteShares engineered this product for traders and tactical investors convinced that Nvidia will rise, but willing to accept the mathematics of leverage — borrowing costs, volatility decay, and the amplification of downside moves.*
 
 ## The amplification machine: how NVDL compounds returns
 
-NVDL does not buy Nvidia stock directly in proportion to fund assets. Instead, it borrows money at floating rates and deploys that capital into derivatives positions — primarily equity futures, swaps, and options — that track Nvidia. Each day at the market close, the fund recalculates and rebalances to maintain a 2x leverage ratio. This daily reset is both the source of the fund's appeal and the source of its principal risk.
+NVDL does not buy Nvidia stock directly in proportion to fund assets. Instead, it borrows money at floating rates and deploys that capital into derivatives positions — primarily equity futures, swaps, and options — that track Nvidia. Each day at the market close, the fund recalculates and rebalances to maintain a 2x [leverage ratio](/leverage-ratio-forex/). This daily reset is both the source of the fund's appeal and the source of its principal risk.
 
-During a five-day period when Nvidia rises one percent per day, a regular Nvidia share holder gains roughly 5.1 percent. A holder of NVDL, leveraged 2x, captures roughly 10.2 percent from the daily compounding of 2x moves. That amplification is why traders buy leveraged longs during bull markets. But the same mathematics work in reverse. A five-day period of one percent daily declines costs a Nvidia shareholder 4.9 percent; an NVDL holder loses roughly 9.8 percent, roughly twice as bad.
+During a five-day period when Nvidia rises one percent per day, a regular Nvidia share holder gains roughly 5.1 percent. A holder of NVDL, leveraged 2x, captures roughly 10.2 percent from the daily compounding of 2x moves. That amplification is why traders buy leveraged longs during [bull markets](/bull-market/). But the same mathematics work in reverse. A five-day period of one percent daily declines costs a Nvidia shareholder 4.9 percent; an NVDL holder loses roughly 9.8 percent, roughly twice as bad.
 
-Leverage also costs money. The fund borrows at the prevailing short-term interest rate, and that borrowing cost is passed to shareholders via the expense ratio. During periods when rates are high, that drag is visible. During periods when rates are low, the drag is modest but still present. Across a holding period, especially one where Nvidia trades sideways or down, the interest expense compounds into meaningful losses independent of the stock's price.
+Leverage also costs money. The fund borrows at the prevailing short-term [interest rate](/interest-rate/), and that borrowing cost is passed to shareholders via the [expense ratio](/expense-ratio/). During periods when rates are high, that drag is visible. During periods when rates are low, the drag is modest but still present. Across a [holding period](/holding-period/), especially one where Nvidia trades sideways or down, the interest expense compounds into meaningful losses independent of the stock's price.
 
 ## Volatility decay: the hidden tax on leverage
 
@@ -31,10 +31,10 @@ Volatility decay shapes NVDL's performance through credit cycles and market regi
 
 ## Tactical horizons and who should own NVDL
 
-NVDL is a tactical instrument, not a strategic holding. A trader who believes Nvidia will rise over the next three weeks might use NVDL to amplify that conviction. A portfolio manager concerned about a near-term weakness in the stock market but bullish on semiconductors might trim a long Nvidia position and replace it with NVDL to preserve upside exposure with lower capital commitment. But NVDL is not suitable for buy-and-hold investors, retirement accounts, or anyone making a long-term bet on Nvidia. The combination of leverage interest costs and volatility decay will erode a multi-year holding, regardless of Nvidia's ultimate price trajectory.
+NVDL is a tactical instrument, not a strategic holding. A trader who believes Nvidia will rise over the next three weeks might use NVDL to amplify that conviction. A portfolio manager concerned about a near-term weakness in the [stock market](/stock-market/) but bullish on semiconductors might trim a long Nvidia position and replace it with NVDL to preserve upside exposure with lower capital commitment. But NVDL is not suitable for buy-and-hold investors, retirement accounts, or anyone making a long-term bet on Nvidia. The combination of leverage interest costs and volatility decay will erode a multi-year holding, regardless of Nvidia's ultimate price trajectory.
 
 ## Costs, liquidity, and how to research
 
-NVDL trades on a stock exchange with moderate liquidity and reasonable bid-ask spreads. The expense ratio is above-average because of the daily rebalancing, the derivatives involved, and the cost of borrowing. The fund makes no dividend distributions.
+NVDL trades on a [stock exchange](/stock-exchange/) with moderate liquidity and reasonable [bid-ask spreads](/bid-ask-spread/). The expense ratio is above-average because of the daily rebalancing, the derivatives involved, and the cost of borrowing. The fund makes no [dividend distributions](/dividend-distribution/).
 
 A reader researching NVDL should start with GraniteShares' prospectus and fact sheet, which detail the daily rebalancing mechanism, the borrowing costs, and the risks of leverage and volatility decay. Plotting NVDL's performance against Nvidia's stock price over different time periods — a trending bull market, a choppy sideways market, a sharp drawdown, and a subsequent recovery — makes the mechanics visible and builds intuition for when this fund works and when it fails.

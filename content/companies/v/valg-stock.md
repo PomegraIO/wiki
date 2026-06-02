@@ -12,13 +12,13 @@ keywords:
 handwritten: true
 ---
 
-VALG is a leveraged exchange-traded product issued by Leverage Shares that seeks to deliver twice the daily return of Vale (VALE), the Brazilian mining and metals company. It trades on the stock market like a regular ETF but uses financial derivatives to amplify exposure to a single stock. The fund is designed for tactical traders making directional bets over days or weeks, not for buy-and-hold investors, because the mechanics of daily rebalancing mean that the fund's long-term returns can diverge sharply from what simple leverage would suggest.
+VALG is a leveraged exchange-traded product issued by Leverage Shares that seeks to deliver twice the daily return of Vale (VALE), the Brazilian mining and metals company. It trades on the [stock market](/stock-market/) like a regular ETF but uses financial derivatives to amplify exposure to a single stock. The fund is designed for tactical traders making directional bets over days or weeks, not for buy-and-hold investors, because the mechanics of daily rebalancing mean that the fund's long-term returns can diverge sharply from what simple leverage would suggest.
 
 ## What VALG holds and how it works
 
 VALG does not hold Vale shares directly. Instead, it holds cash and derivatives — typically a combination of swaps and futures — that are arranged to track two times the daily percentage move of Vale's share price. On days when Vale rises 1%, VALG aims to rise 2%. On days when Vale falls 1%, VALG aims to fall 2%.
 
-To achieve that amplification, Leverage Shares rebalances the fund's portfolio every day. At the close of trading, the fund adjusts its position size to reset the leverage ratio back to 2x. This daily rebalancing is what separates leveraged ETFs from a simple margin loan. A margin loan would maintain a fixed dollar leverage; a leveraged ETF rebalances to maintain a fixed *ratio* of leverage.
+To achieve that amplification, Leverage Shares rebalances the fund's portfolio every day. At the close of trading, the fund adjusts its position size to reset the [leverage ratio](/leverage-ratio-forex/) back to 2x. This daily rebalancing is what separates [leveraged ETFs](/leveraged-etf/) from a simple margin loan. A margin loan would maintain a fixed dollar leverage; a leveraged ETF rebalances to maintain a fixed *ratio* of leverage.
 
 ## The decay problem
 
@@ -35,15 +35,15 @@ Over longer periods, especially in sideways or volatile markets, this effect com
 
 ## Costs and trading
 
-VALG's expense ratio is meaningful. Leverage Shares charges an annual fee that reflects both the cost of maintaining the derivative positions and the issuer's profit margin. The fee is higher than a plain-text ETF because the rebalancing and derivative management require active work. Traders also pay the bid-ask spread when entering and exiting, which can be tight if the fund has reasonable liquidity but will widen if flows are thin.
+VALG's [expense ratio](/expense-ratio/) is meaningful. Leverage Shares charges an annual fee that reflects both the cost of maintaining the derivative positions and the issuer's profit margin. The fee is higher than a plain-text ETF because the rebalancing and derivative management require active work. Traders also pay the [bid-ask spread](/bid-ask-spread/) when entering and exiting, which can be tight if the fund has reasonable liquidity but will widen if flows are thin.
 
-The fund is exchange-listed, so it trades continuously during market hours at prices set by supply and demand. It is not redeemed at net asset value like some mutual funds; prices can drift modestly away from the fund's underlying value, though the mechanism of arbitrage tends to keep them close.
+The fund is exchange-listed, so it trades continuously during market hours at prices set by supply and demand. It is not redeemed at [net asset value](/net-asset-value/) like some [mutual funds](/mutual-fund/); prices can drift modestly away from the fund's underlying value, though the mechanism of arbitrage tends to keep them close.
 
 ## Who should own VALG, and who should not
 
 VALG is for traders, not investors. A trader might use VALG to amplify a view that Vale will rise significantly over the next few days or weeks. They might also hedge it against a larger Vale position elsewhere in their portfolio, though that usually requires sophisticated risk management.
 
-VALG is not for anyone with a multi-year horizon. The decay math means that even if Vale eventually rises, VALG may lag badly if the path includes volatility. And because the fund is a derivative product, it carries counterparty risk — if Leverage Shares or its derivative counterparties face financial distress, the fund's value could be impaired. That risk is not zero.
+VALG is not for anyone with a multi-year horizon. The decay math means that even if Vale eventually rises, VALG may lag badly if the path includes volatility. And because the fund is a derivative product, it carries [counterparty risk](/counterparty-risk/) — if Leverage Shares or its derivative counterparties face financial distress, the fund's value could be impaired. That risk is not zero.
 
 ## How to research VALG
 

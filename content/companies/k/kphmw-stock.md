@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Kiora Pharmaceuticals is a biopharmaceutical company betting that chemistry can slow, stop, or even restore vision loss in diseases where the eye steadily deteriorates and nothing today works well enough to matter. The company develops small-molecule drugs—pills or eye drops—that target the cellular pathways driving retinal disease. Most pharmaceutical companies are hunting cancer cures or diabetes treatments that affect millions. Kiora picked a harder, lonelier fight: inherited and acquired diseases of the retina that affect tens of thousands worldwide and have almost no good medicines. What makes that choice viable is that regulatory agencies move faster for rare diseases and patients will accept more risk for a treatment that is the only hope.
+[Kiora Pharmaceuticals](/kprx-stock/) is a biopharmaceutical company betting that chemistry can slow, stop, or even restore vision loss in diseases where the eye steadily deteriorates and nothing today works well enough to matter. The company develops small-molecule drugs—pills or eye drops—that target the cellular pathways driving retinal disease. Most pharmaceutical companies are hunting cancer cures or diabetes treatments that affect millions. Kiora picked a harder, lonelier fight: inherited and acquired diseases of the retina that affect tens of thousands worldwide and have almost no good medicines. What makes that choice viable is that regulatory agencies move faster for rare diseases and patients will accept more risk for a treatment that is the only hope.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,7 +28,7 @@ Kiora Pharmaceuticals is a biopharmaceutical company betting that chemistry can 
 
 Retinitis pigmentosa, choroideremia, and Stargardt disease are genetic degenerative conditions where the light-sensing cells of the retina die off, progressively narrowing vision until blindness sets in. They are rare—each affects tens of thousands globally rather than millions—but they are devastating: patients lose their independence, their careers, their ability to drive. Currently, no approved drug slows progression. Surgery, devices, and gene therapies are in development or early use, but the options are limited and none is a home run. That scarcity of treatment creates an opening for a company willing to run the trials and navigate the regulatory path, even if the patient pool is small.
 
-The market reward for a retinal disease therapy is not proportional to the number of patients—it is determined by what physicians and patients will pay for a drug that works. A medicine that genuinely halts vision loss or restores even modest sight gains would command a significant price per patient. It would also attract partnership and acquisition interest from larger pharmaceutical companies in search of specialized assets.
+The market reward for a retinal disease therapy is not proportional to the number of patients—it is determined by what physicians and patients will pay for a drug that works. A medicine that genuinely halts vision loss or restores even modest sight gains would command a significant price per patient. It would also attract partnership and [acquisition](/acquisition/) interest from larger pharmaceutical companies in search of specialized assets.
 
 ## The pipeline and the partnerships
 
@@ -42,7 +42,7 @@ Kiora has partnered with Théa Open Innovation, a subsidiary of the French pharm
 
 Clinical-stage biotech companies generate no product revenue—every dollar comes from investors or partners. Kiora must fund salaries, lab work, clinical trial sites, regulatory consultants, and manufacturing of trial material. That cash burn is relentless and accelerates as trials expand. A single Phase 2 trial costs tens of millions. Advancing to Phase 3 costs hundreds of millions. Most biotech companies raise money in rounds of financing, diluting existing shareholders each time. Kiora has raised venture capital and public equity to fund its work, and it will need to raise more if KIO-301 advances.
 
-The math is stark: either the drug works and a partner or acquirer pays enough to cover all past spending and create value for shareholders, or it does not work and the shareholders lose their investment. There are no dividends, no margin of safety, no steady business. Biotech returns are bimodal—a home run or zero.
+The math is stark: either the drug works and a partner or acquirer pays enough to cover all past spending and create value for shareholders, or it does not work and the shareholders lose their investment. There are no [dividends](/dividend/), no margin of safety, no steady business. Biotech returns are bimodal—a home run or zero.
 
 ## What could go right and what could go wrong
 

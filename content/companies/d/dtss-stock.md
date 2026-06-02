@@ -32,7 +32,7 @@ A software company with strong pricing power can raise prices on existing custom
 
 ## Cloud Infrastructure Costs and Scalability
 
-If DTSS operates cloud services, its cost structure includes cloud hosting, data-center bandwidth, and data-storage fees (typically to AWS, Azure, or Google Cloud). These costs scale with customer usage and data volume. A company with growing customers and increasing [data storage](/dtst-stock/) faces rising infrastructure costs that must be managed aggressively through optimization and architectural efficiency. Poor cost management can erase margins even as revenue grows—a trap called "growing into insolvency." Efficient data-center operators maintain infrastructure costs at 10–15% of revenue; inefficient ones can reach 40% or higher. DTSS's cost-of-revenue will signal infrastructure efficiency.
+If DTSS operates cloud services, its cost structure includes cloud hosting, data-center bandwidth, and data-storage fees (typically to AWS, Azure, or Google Cloud). These costs scale with customer usage and data volume. A company with growing customers and increasing data storage faces rising infrastructure costs that must be managed aggressively through optimization and architectural efficiency. Poor cost management can erase margins even as revenue grows—a trap called "growing into insolvency." Efficient data-center operators maintain infrastructure costs at 10–15% of revenue; inefficient ones can reach 40% or higher. DTSS's cost-of-revenue will signal infrastructure efficiency.
 
 ## R&D Investment and Product Competitiveness
 

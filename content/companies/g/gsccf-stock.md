@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ioneer Ltd is a mineral exploration company focused on developing deposits of metals critical to modern technology — principally lithium, boron, and rare earths. The company operates primarily in Nevada and holds mining claims and development projects in what it believes are strategically important locations for the extraction of elements that feed battery manufacturing, aerospace, and chemical processing. It trades on OTC markets (GSCCF) and has also traded on the Australian Securities Exchange, reflecting its connection to capital markets that support mining development.
+ioneer Ltd is a mineral exploration company focused on developing deposits of metals critical to modern technology — principally lithium, boron, and rare earths. The company operates primarily in Nevada and holds mining claims and development projects in what it believes are strategically important locations for the extraction of elements that feed battery manufacturing, aerospace, and chemical processing. It trades on OTC markets (GSCCF) and has also traded on the [Australian Securities Exchange](/australian-securities-exchange/), reflecting its connection to capital markets that support mining development.
 
 The company's origin traces to the early-2000s exploration boom, when discovery of large mineral deposits became the focus of investors betting that the transition to renewable energy and electric vehicles would drive sustained demand for battery metals. ioneer has positioned itself as an early-stage developer rather than a producer — it holds the licenses and geological data, but has not yet ramped industrial-scale extraction. That stage of development, if it occurs, would require significant capital deployment and regulatory approval.
 

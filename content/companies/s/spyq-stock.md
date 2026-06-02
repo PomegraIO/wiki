@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-SPYQ: a 2X leveraged ETF tracking SPY, but with quarterly rebalancing instead of daily. The distinction matters more than it might sound. Tradr constructed SPYQ for investors who believe the S&P 500 will trend higher but understand they cannot time short-term moves — they want leverage, they want it simplified, and they are willing to reset less frequently to reduce the cost of rebalancing.
+SPYQ: a 2X [leveraged ETF](/leveraged-etf/) tracking SPY, but with quarterly rebalancing instead of daily. The distinction matters more than it might sound. Tradr constructed SPYQ for investors who believe the S&P 500 will trend higher but understand they cannot time short-term moves — they want leverage, they want it simplified, and they are willing to reset less frequently to reduce the cost of rebalancing.
 
 The fund holds derivatives — primarily swaps and futures — to synthetic leverage its S&P 500 exposure to 2X. At the end of each quarter, instead of resetting daily like a traditional leveraged ETF, SPYQ rebalances once. The intended benefit: less friction, lower rebalancing costs, and — critically — a longer window for a trending market to compound gains before the next reset. If the S&P 500 rises steadily over three months and volatility remains low, a quarterly-reset leveraged vehicle outpaces a daily-reset one by avoiding the compounding drag that accumulates from daily rebalancing in choppy conditions.
 
@@ -26,7 +26,7 @@ The trade-off is that a quarterly reset leaves the fund exposed to larger intra-
 
 ## Costs and eligibility
 
-Expense ratios on leveraged funds cover the cost of derivative positioning, operational management, and the spreads paid when entering and exiting hedges. SPYQ's ratio, detailed in its prospectus, is higher than SPY itself but competitive within the leveraged space. Bid-ask spreads on SPYQ depend on daily trading volume; as a more niche product than SPY or a standard daily-reset 2X fund, the spread may be wider, which is a real cost to entry and exit.
+[Expense ratios](/expense-ratio/) on leveraged funds cover the cost of derivative positioning, operational management, and the spreads paid when entering and exiting hedges. SPYQ's ratio, detailed in its prospectus, is higher than SPY itself but competitive within the leveraged space. [Bid-ask spreads](/bid-ask-spread/) on SPYQ depend on daily trading volume; as a more niche product than SPY or a standard daily-reset 2X fund, the spread may be wider, which is a real cost to entry and exit.
 
 ## Who should own it and who should not
 

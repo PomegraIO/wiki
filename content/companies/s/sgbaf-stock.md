@@ -52,13 +52,13 @@ SES generates revenue in three main ways: broadcasting (selling capacity to broa
 
 Enterprise and government are higher-margin and more resilient because they have different requirements: a mining company or a military needs robust, reliable connectivity in remote locations, and satellite communication is often the only practical option. But even those segments are facing pressure. Better terrestrial networks are reaching more remote areas every year. LEO satellites offer lower latency, which is valuable for real-time applications. And the new space companies are aggressive on pricing.
 
-The margins on traditional geostationary satellite services are compressing as the company moves capacity to lower-cost offerings and tries to defend market share. That puts pressure on profitability — the company is generating less revenue per satellite while carrying the same depreciation and operating costs.
+The margins on traditional geostationary satellite services are compressing as the company moves capacity to lower-cost offerings and tries to defend market share. That puts pressure on profitability — the company is generating less revenue per satellite while carrying the same [depreciation](/depreciation/) and operating costs.
 
 ## The change underway: from owner to operator
 
 SES is in the middle of a transition that will define its future. The old story — own satellites, rent capacity, generate cash flow — has limited growth. The new story SES is trying to build is more ambitious: operate a globally distributed satellite network that competes with terrestrial networks and other satellite companies on coverage, speed, and reliability. That requires more satellites, more launches, more operational complexity, and more capital.
 
-The company is pursuing this transformation while managing the decline of its legacy business. That is difficult. It requires the discipline to harvest cash from the geostationary satellite business while reinvesting aggressively in new technology. It requires competing with far larger companies and accepting years of negative free cash flow. And it requires customers to believe that SES can execute a transformation — which they may not, which is why the company has lost market share and is trying to recover through partnerships and differentiated offerings.
+The company is pursuing this transformation while managing the decline of its legacy business. That is difficult. It requires the discipline to harvest cash from the geostationary satellite business while reinvesting aggressively in new technology. It requires competing with far larger companies and accepting years of negative [free cash flow](/free-cash-flow/). And it requires customers to believe that SES can execute a transformation — which they may not, which is why the company has lost market share and is trying to recover through partnerships and differentiated offerings.
 
 SES is also exploring whether to be a pure operator (owning satellites) or a managed-services provider (building networks for others and managing them). That shift would change the capital intensity and risk profile of the business, but it has not yet been resolved.
 

@@ -19,7 +19,7 @@ keywords: ["EFSI", "community bank", "Pennsylvania", "Philadelphia", "commercial
 
 EFSI's core unit economics are inseparable from its market: suburban Philadelphia. A transaction in Berwyn or Chester, Pennsylvania, where EFSI originates a small commercial loan to a contractor or a home equity line to an established household, carries different risk and yield assumptions than the same transaction would in a rural or declining industrial market.
 
-Philadelphia's suburbs are economically stable, relatively affluent, and dense with small businesses — contractors, medical practices, family-owned manufacturing — that prefer relationship banking over big-bank treatment. These borrowers will pay modestly higher rates (5.5%–7.5% for a commercial line) rather than fight a [national bank](/nbhc-stock/)'s credit committee or deal with its impersonal automated underwriting.
+Philadelphia's suburbs are economically stable, relatively affluent, and dense with small businesses — contractors, medical practices, family-owned manufacturing — that prefer relationship banking over big-bank treatment. These borrowers will pay modestly higher rates (5.5%–7.5% for a commercial line) rather than fight a national bank's credit committee or deal with its impersonal automated underwriting.
 
 EFSI deposits originate locally: real estate agents, small business owners, retirees, and households saving through accounts at its branch network. In a mature, educated suburban market, deposit costs are lower than in high-competition urban cores but higher than in rural areas. EFSI likely pays 0.25–0.50% on checking, 1.50–2.50% on savings, and 3.5–4.5% on higher-yielding money market or CDs, depending on rate environment.
 

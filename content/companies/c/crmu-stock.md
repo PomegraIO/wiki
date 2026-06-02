@@ -11,11 +11,11 @@ keywords:
 handwritten: true
 ---
 
-*The **Leverage Shares 2x Long CRML Daily ETF** (ticker CRMU) is a leveraged exchange-traded product that tracks twice the daily return of Cloudflare (NET), the edge-computing and cybersecurity company. Like all daily-reset leveraged products, CRMU magnifies single-day moves but trails the simple 2X multiple over longer holding periods due to volatility decay.*
+*The **Leverage Shares 2x Long CRML Daily ETF** (ticker CRMU) is a leveraged exchange-traded product that tracks twice the daily return of [Cloudflare](/net-stock/) (NET), the edge-computing and cybersecurity company. Like all daily-reset leveraged products, CRMU magnifies single-day moves but trails the simple 2X multiple over longer [holding periods](/holding-period/) due to volatility decay.*
 
 ## What underlying security does CRMU track?
 
-CRMU is designed to track Cloudflare, a major cloud infrastructure company that provides distributed denial-of-service protection, content delivery, and application security from a globally distributed network of data centers. Cloudflare stock (NET) trades on the New York Stock Exchange and is a widely followed name among technology investors. The fund is structured as an exchange-traded note issued by Leverage Shares, a UK-listed firm, though the mechanics from the investor's perspective are indistinguishable from those of a leveraged ETF.
+CRMU is designed to track Cloudflare, a major cloud infrastructure company that provides distributed denial-of-service protection, content delivery, and application security from a globally distributed network of data centers. Cloudflare stock (NET) trades on the [New York Stock Exchange](/new-york-stock-exchange/) and is a widely followed name among technology investors. The fund is structured as an exchange-traded note issued by Leverage Shares, a UK-listed firm, though the mechanics from the investor's perspective are indistinguishable from those of a [leveraged ETF](/leveraged-etf/).
 
 ## How does the 2X leverage work, and when is it active?
 
@@ -35,21 +35,21 @@ For traders planning to hold CRMU for days, this is a manageable cost. For inves
 
 CRMU is appropriate for traders and tactical investors with a near-term bullish view on Cloudflare. Someone who believes NET will rise sharply over the next one to five trading days might use CRMU to amplify the expected move without committing twice as much capital as they would if they bought NET stock directly. A trader with a short-term neutral or bearish view might pair CRMU with a short position or use it in a hedging strategy.
 
-CRMU is unsuitable for buy-and-hold investors. If you are bullish on Cloudflare's long-term prospects as a cloud-infrastructure and security vendor, buying NET stock directly or holding it through a mutual fund is preferable. The daily reset mechanics will work against you over time.
+CRMU is unsuitable for buy-and-hold investors. If you are bullish on Cloudflare's long-term prospects as a cloud-infrastructure and security vendor, buying NET stock directly or holding it through a [mutual fund](/mutual-fund/) is preferable. The daily reset mechanics will work against you over time.
 
 ## What are the costs and how easily can you trade CRMU?
 
-The fund's expense ratio — the annual management fee — is typically in the 0.6–1.0% range. On top of that, the cost of financing the leverage (the cost of the swaps and futures CRMU uses) is embedded in the fund's returns and varies with market conditions. During periods of elevated volatility, these financing costs can rise, reducing the fund's performance relative to the 2X target.
+The fund's [expense ratio](/expense-ratio/) — the annual [management fee](/management-fee/) — is typically in the 0.6–1.0% range. On top of that, the cost of financing the leverage (the cost of the swaps and futures CRMU uses) is embedded in the fund's returns and varies with market conditions. During periods of elevated volatility, these financing costs can rise, reducing the fund's performance relative to the 2X target.
 
-CRMU trades on a US stock exchange with reasonably tight bid–ask spreads during normal market hours. Cloudflare stock is well-known and liquid, which cascades down to give CRMU decent liquidity as well. You should be able to enter or exit a reasonable-sized position without significant slippage, though spreads can widen in after-hours trading or if you attempt to trade during market dislocations.
+CRMU trades on a US [stock exchange](/stock-exchange/) with reasonably tight bid–ask spreads during normal market hours. Cloudflare stock is well-known and liquid, which cascades down to give CRMU decent liquidity as well. You should be able to enter or exit a reasonable-sized position without significant slippage, though spreads can widen in [after-hours trading](/after-hours-trading/) or if you attempt to trade during market dislocations.
 
 ## What are the real risks beyond volatility decay?
 
-Beyond volatility decay, the primary risk is issuer or counterparty risk: Leverage Shares, as the ETN issuer, is the counterparty to the swap agreements that deliver the leverage. If Leverage Shares were to fail or face regulatory problems, CRMU holders would be unsecured creditors. This is a small but real risk, and it is one reason why leveraged products from larger, more capitalized firms or held in accounts with major custodians are marginally safer.
+Beyond volatility decay, the primary risk is issuer or [counterparty risk](/counterparty-risk/): Leverage Shares, as the ETN issuer, is the counterparty to the swap agreements that deliver the leverage. If Leverage Shares were to fail or face regulatory problems, CRMU holders would be unsecured creditors. This is a small but real risk, and it is one reason why leveraged products from larger, more capitalized firms or held in accounts with major [custodians](/custodian/) are marginally safer.
 
-A second risk is corporate action: if Cloudflare announces a merger, a special dividend, or a stock split, the fund's rebalancing may experience a brief dislocation or tracking error as it adjusts.
+A second risk is corporate action: if Cloudflare announces a [merger](/merger/), a [special dividend](/special-dividend/), or a [stock split](/stock-split/), the fund's rebalancing may experience a brief dislocation or tracking error as it adjusts.
 
-A third risk is basis risk between the underlying stock and the futures or swaps CRMU uses to achieve leverage. If equity futures on NET are trading in significant contango or backwardation, CRMU's daily returns may lag the 2X target even on a single day.
+A third risk is [basis risk](/basis-risk/) between the underlying stock and the futures or swaps CRMU uses to achieve leverage. If equity futures on NET are trading in significant [contango](/contango/) or [backwardation](/backwardation/), CRMU's daily returns may lag the 2X target even on a single day.
 
 ## How should you evaluate CRMU as an investment vehicle?
 

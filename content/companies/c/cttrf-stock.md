@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Volaris — the short name for Controladora Vuela Compania de Aviacion — operates a scaled low-cost airline across Mexico and into Central America and the Caribbean. The carrier competes chiefly by undercutting full-service rivals on price while holding the line on cost per seat. Its business model is familiar from global low-cost carriers: point-to-point routes, a single narrowbody aircraft type (mainly the Boeing 737), no frills, high aircraft utilization. But the Mexican context matters: Volaris flies in a market where road travel is still the competitive constraint, where middle-class growth is real but uneven, and where a dominant legacy carrier once set prices without much competition.
+Volaris — the short name for Controladora Vuela Compania de Aviacion — operates a scaled low-cost airline across Mexico and into Central America and the Caribbean. The carrier competes chiefly by undercutting full-service rivals on price while holding the line on cost per seat. Its business model is familiar from global low-cost carriers: point-to-point routes, a single narrowbody aircraft type (mainly the [Boeing](/ba-stock/) 737), no frills, high aircraft utilization. But the Mexican context matters: Volaris flies in a market where road travel is still the competitive constraint, where middle-class growth is real but uneven, and where a dominant legacy carrier once set prices without much competition.
 
 <aside class="wiki-infobox">
 <table>
@@ -42,7 +42,7 @@ The Mexican market remains underserved relative to population and wealth. A larg
 
 ## Where the risks live
 
-Mexican aviation is cyclical. Economic downturns cut leisure travel and cap growth. A recession in the United States directly affects Mexican border traffic and overall consumer confidence in Mexico. Fuel price volatility hits all carriers, though Volaris' fuel efficiency on modern 737s and its hedging policies offer some cushion. Exchange-rate movements matter because much of Volaris' debt and some of its fuel are dollar-denominated while revenue comes in Mexican pesos.
+Mexican aviation is cyclical. Economic downturns cut leisure travel and cap growth. A [recession](/recession/) in the United States directly affects Mexican border traffic and overall consumer confidence in Mexico. Fuel price volatility hits all carriers, though Volaris' fuel efficiency on modern 737s and its hedging policies offer some cushion. Exchange-rate movements matter because much of Volaris' debt and some of its fuel are dollar-denominated while revenue comes in Mexican pesos.
 
 Capacity has also been a perennial question. Volaris has historically operated at high capacity utilization, which maximizes revenue per plane but leaves little room for demand shocks. A downturn or a natural disaster (hurricane, airport closure, pandemic disruption) compresses load factors quickly, and fixed costs do not move. Competitive intensity in the Mexican market remains real; larger carriers have the scale to match price if they choose, and the barrier to competition is lower than in some developed markets.
 
@@ -52,4 +52,4 @@ Volaris has historically carried substantial debt, a typical feature of airline 
 
 ## How to research Volaris
 
-Start with the company's filings with the Mexican stock exchange (Volaris trades on the BMV) and its OTC listing in the United States. The annual report and quarterly earnings releases show route capacity, passenger counts, average fares, and cost per available seat-mile — the key operating metrics that airlines live by. Watch the quarterly commentary on fuel surcharge and currency headwinds, and note which routes are expanding and which are being cut. The health of the Mexican peso versus the dollar, fuel prices, and leisure travel demand in the United States all move the stock directly.
+Start with the company's filings with the Mexican [stock exchange](/stock-exchange/) (Volaris trades on the BMV) and its OTC listing in the United States. The [annual report](/10-k/) and quarterly earnings releases show route capacity, passenger counts, average fares, and cost per available seat-mile — the key operating metrics that airlines live by. Watch the quarterly commentary on fuel surcharge and currency headwinds, and note which routes are expanding and which are being cut. The health of the Mexican peso versus the dollar, fuel prices, and leisure travel demand in the United States all move the stock directly.

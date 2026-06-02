@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*The Invesco Nasdaq Free Cash Flow Achievers ETF (ticker QOWZ) takes the 100 largest Nasdaq-listed stocks and applies a single filter: each company must be a strong generator of free cash flow — the actual cash left over after a business pays to maintain and grow itself. Free cash flow is what a company can use to pay dividends, buy back shares, retire debt, or invest in new initiatives. By selecting only Nasdaq-100 stocks that excel at this metric, QOWZ concentrates on businesses combining tech-sector growth characteristics with the profitable, disciplined operations more typical of mature, established firms.*
+*The Invesco [Nasdaq](/nasdaq/) [Free Cash Flow](/free-cash-flow/) Achievers ETF (ticker QOWZ) takes the 100 largest Nasdaq-listed stocks and applies a single filter: each company must be a strong generator of free cash flow — the actual cash left over after a business pays to maintain and grow itself. Free cash flow is what a company can use to pay [dividends](/dividend/), buy back shares, retire debt, or invest in new initiatives. By selecting only Nasdaq-100 stocks that excel at this metric, QOWZ concentrates on businesses combining tech-sector growth characteristics with the profitable, disciplined operations more typical of mature, established firms.*
 
 <aside class="wiki-infobox">
 
@@ -41,7 +41,7 @@ This approach is fundamentally different from owning a cap-weighted Nasdaq-100 f
 
 Screening for profitability always creates a tradeoff. A cap-weighted Nasdaq-100 will always feature the dominant, most innovative technology firms — the ones that attract the biggest market valuations. A free-cash-flow screen asks you to give up some of that concentration in exchange for a tilt toward cash generation and balance-sheet health.
 
-The real-world consequence is that QOWZ will tend to outperform during periods when investors reward cash generation and are skeptical of high valuations — periods when the market says, "Show me the money." It may underperform during rallies that lift all large-cap technology indiscriminately, regardless of profitability. The fund carries all the risk of holding a concentrated basket of large-cap stocks: the sector concentration in technology and communications, the exposure to interest-rate movements, the leverage many of these companies use in their balance sheets.
+The real-world consequence is that QOWZ will tend to outperform during periods when investors reward cash generation and are skeptical of high valuations — periods when the market says, "Show me the money." It may underperform during rallies that lift all large-cap technology indiscriminately, regardless of profitability. The fund carries all the risk of holding a concentrated basket of large-cap stocks: the sector concentration in technology and communications, the exposure to interest-rate movements, the leverage many of these companies use in their [balance sheets](/balance-sheet/).
 
 Because QOWZ rebalances only quarterly, there is also a lag between the moment a company's free cash flow deteriorates and the moment it gets removed from the index. This is not necessarily a flaw — it reduces turnover and trading costs — but it means the filter does not respond perfectly in real time.
 
@@ -57,6 +57,6 @@ The fund trades with tight spreads on NASDAQ because it is sizable and holds lar
 
 Start with the prospectus and Invesco's detailed index methodology. These explain the exact construction rules, the free-cash-flow measurement standard, and the rebalancing schedule. Then obtain a quarterly fact sheet, which shows the current holdings and how much QOWZ diverges from a simple cap-weighted Nasdaq-100.
 
-Look at long-term return history compared to a standard Nasdaq-100 fund, adjusted for the extra expense ratio. That comparison tells you whether free-cash-flow screening has been a genuine advantage or a headwind in the market environment you are in.
+Look at long-term return history compared to a standard Nasdaq-100 fund, adjusted for the extra [expense ratio](/expense-ratio/). That comparison tells you whether free-cash-flow screening has been a genuine advantage or a headwind in the market environment you are in.
 
-For any index fund, the question is not how good the fund wrapper is, but whether the index itself meets your investment needs. If you want Nasdaq-100 exposure with a quality tilt toward profitable, cash-generative companies, QOWZ delivers exactly that.
+For any [index fund](/index-fund/), the question is not how good the fund wrapper is, but whether the index itself meets your investment needs. If you want Nasdaq-100 exposure with a quality tilt toward profitable, cash-generative companies, QOWZ delivers exactly that.

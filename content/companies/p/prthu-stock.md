@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Priority Technology Holdings is a financial technology company that sells payment processing, payroll, and lending solutions to small and mid-size businesses. It sits in the competitive payment-processing industry, fighting against much larger rivals like Square, Stripe, and established bank-owned processors. PRTHU is a preferred share class issued by the company to raise capital.
+Priority Technology Holdings is a financial technology company that sells payment processing, payroll, and lending solutions to small and mid-size businesses. It sits in the competitive payment-processing industry, fighting against much larger rivals like Square, Stripe, and established bank-owned processors. PRTHU is a preferred [share class](/share-class/) issued by the company to raise capital.
 
 <aside class="wiki-infobox">
 <table>
@@ -38,7 +38,7 @@ Priority Technology's challenge is that it is smaller and has less brand awarene
 
 ## The preferred shares and capital structure
 
-Priority Technology has issued multiple series of preferred shares to raise capital without excessive common stock dilution. PRTHU is one series — it pays a fixed quarterly coupon and ranks senior to common equity but junior to the company's debt. By issuing preferred shares, the company can raise capital to invest in technology, customer acquisition, and credit losses on its lending business without immediately imposing the full earnings-per-share dilution that common stock would create.
+Priority Technology has issued multiple series of preferred shares to raise capital without excessive [common stock](/common-stock/) dilution. PRTHU is one series — it pays a fixed quarterly coupon and ranks senior to common equity but junior to the company's debt. By issuing preferred shares, the company can raise capital to invest in technology, customer [acquisition](/acquisition/), and credit losses on its lending business without immediately imposing the full earnings-per-share dilution that common stock would create.
 
 Preferred shares also appeal to investors who want exposure to Priority Technology's cash flows but do not want the volatility of common equity. A fintech company's common stock can swing wildly based on growth rates and competitive threats. Preferred shareholders get a fixed income and a claim that ranks ahead of the common stock, reducing volatility in exchange for capping upside potential.
 
@@ -54,8 +54,8 @@ Profit margins are thin relative to software-only businesses. Payment processors
 
 Priority Technology faces headwinds that are hard to overcome. Stripe and Square have built brand moats and have much deeper resources. Banks are modernizing their own payment offerings and are loaning directly to merchants, bypassing independents like Priority. Credit losses on the lending business are a constant risk, especially if the economy weakens and small businesses default.
 
-The preferred shares, PRTHU, insulate investors somewhat from that equity risk. As long as the company generates earnings, preferred dividends are protected. But if competitive pressure or credit losses crimp earnings sharply, the preferred dividend becomes vulnerable. For an investor, PRTHU offers fixed income on a fintech company with modest scale, facing large, well-funded rivals.
+The preferred shares, PRTHU, insulate investors somewhat from that equity risk. As long as the company generates earnings, preferred [dividends](/dividend/) are protected. But if competitive pressure or credit losses crimp earnings sharply, the preferred dividend becomes vulnerable. For an investor, PRTHU offers fixed income on a fintech company with modest scale, facing large, well-funded rivals.
 
 ## Understanding Priority Technology as an issuer
 
-An investor in PRTHU should understand what Priority Technology is competing on: relationships with small merchants, a suite of bundled services, and lending backed by transaction data. The company's annual reports and earnings calls reveal customer acquisition costs, customer churn rates, loan-loss provisions, and management's view of competitive positioning. Key metrics include the number of active merchants, transaction volume, and the growth of the higher-margin lending and software businesses. Unlike a growth fintech with venture backing and unlimited runway, Priority Technology must balance growth with profitability and must manage credit risk carefully.
+An investor in PRTHU should understand what Priority Technology is competing on: relationships with small merchants, a suite of bundled services, and lending backed by transaction data. The company's [annual reports](/10-k/) and earnings calls reveal customer acquisition costs, customer churn rates, loan-loss provisions, and management's view of competitive positioning. Key metrics include the number of active merchants, transaction volume, and the growth of the higher-margin lending and software businesses. Unlike a growth fintech with venture backing and unlimited runway, Priority Technology must balance growth with profitability and must manage [credit risk](/credit-risk/) carefully.

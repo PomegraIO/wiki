@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Invesco DB Commodity Index Tracking Fund gives investors exposure to a broad basket of commodity futures rather than a single commodity. The fund holds contracts across crude oil, heating oil, natural gas, aluminum, zinc, nickel, corn, wheat, soybeans, and sugar — rebalancing on a fixed schedule to maintain target weightings. The appeal is diversification; the risk is that a diversified bet on commodities is still a bet on cyclical markets with unique roll mechanics and structural headwinds.
+Invesco DB Commodity Index Tracking Fund gives investors exposure to a broad basket of commodity futures rather than a single commodity. The fund holds contracts across [crude oil](/crude-oil/), [heating oil](/heating-oil/), [natural gas](/natural-gas/), aluminum, zinc, nickel, corn, wheat, soybeans, and sugar — rebalancing on a fixed schedule to maintain target weightings. The appeal is [diversification](/diversification/); the risk is that a diversified bet on commodities is still a bet on cyclical markets with unique roll mechanics and structural headwinds.
 
 <aside class="wiki-infobox">
 <table>
@@ -28,9 +28,9 @@ Invesco DB Commodity Index Tracking Fund gives investors exposure to a broad bas
 
 ## Energy: the largest weight and the most volatile
 
-DBC's heaviest exposure is to energy commodities — crude oil, heating oil, and natural gas. These three together historically represent the largest slice of the fund's notional exposure. Energy prices move on supply shocks (refinery outages, hurricane disruptions), geopolitical events (wars, sanctions), macroeconomic cycles (recessions reduce demand), and the shape of the futures curve.
+DBC's heaviest exposure is to energy commodities — crude oil, heating oil, and natural gas. These three together historically represent the largest slice of the fund's notional exposure. Energy prices move on supply shocks (refinery outages, hurricane disruptions), geopolitical events (wars, sanctions), macroeconomic cycles ([recessions](/recession/) reduce demand), and the shape of the futures curve.
 
-Because the fund holds futures contracts, energy's exposure carries the same roll drag that plagues single-commodity oil funds. When the curve is in persistent contango, as it often is during periods of ample supply, the quarterly rebalancing into new contract months costs the fund money. This drag is invisible to the shareholder but is a permanent headwind to long-term performance.
+Because the fund holds [futures contracts](/futures-contract/), energy's exposure carries the same roll drag that plagues single-commodity oil funds. When the curve is in persistent [contango](/contango/), as it often is during periods of ample supply, the quarterly rebalancing into new contract months costs the fund money. This drag is invisible to the shareholder but is a permanent headwind to long-term performance.
 
 Natural gas, the smallest of the three energy components, is particularly volatile because its price depends on weather (heating demand in winter, cooling demand in summer) and production disruptions. A single hurricane can spike natural-gas futures for weeks.
 
@@ -58,11 +58,11 @@ The rebalancing also happens on published dates that sophisticated traders can f
 
 ## The central risk: commodities are not an asset class
 
-The core risk to DBC is conceptual rather than mechanical. Commodities do not produce cash flow or earnings. They do not have balance sheets or growth prospects. Their prices are driven almost entirely by supply, demand, and sentiment — and unlike stocks, which are claims on durable enterprises, commodities return to zero when demand ceases. Oil, copper, and wheat are useful goods, but they are not investments in the way that a business or a bond is.
+The core risk to DBC is conceptual rather than mechanical. Commodities do not produce cash flow or earnings. They do not have [balance sheets](/balance-sheet/) or growth prospects. Their prices are driven almost entirely by supply, demand, and sentiment — and unlike stocks, which are claims on durable enterprises, commodities return to zero when demand ceases. Oil, copper, and wheat are useful goods, but they are not investments in the way that a business or a [bond](/bond/) is.
 
 This means commodity prices are mean-reverting. Periods of scarcity and high prices tend to spur investment in production, eventually flooding the market and cratering prices. Conversely, periods of weakness lead to underinvestment, capacity closures, and supply shortages that spike prices again. DBC shareholders are therefore caught in a structural trap: they are holding a basket of assets whose long-term expected return is roughly zero in real terms, and they are paying fees and rolling costs to do so.
 
-Additionally, commodities are highly correlated with inflation, meaning they are most valuable as a portfolio diversifier precisely when equities are weak and bonds are weak — in deflationary shocks, when everything falls. In inflationary periods, commodities and stocks often rise together, reducing diversification benefits.
+Additionally, commodities are highly correlated with [inflation](/inflation/), meaning they are most valuable as a portfolio diversifier precisely when equities are weak and bonds are weak — in deflationary shocks, when everything falls. In inflationary periods, commodities and stocks often rise together, reducing diversification benefits.
 
 ## Researching DBC as an investment
 
@@ -70,4 +70,4 @@ Start with Invesco's factsheets, which detail the current weights of each commod
 
 Understand what you are betting on. If you hold DBC because you believe inflation is coming and you want a hedge, be clear that you are not diversifying against equity weakness — commodity prices often fall during deflationary recessions. If you hold it for diversification, recognize that the diversification benefit is uncertain and depends heavily on the macroeconomic regime.
 
-Finally, compare DBC to holding individual commodity ETFs or futures directly. For some investors, a single-commodity focus (oil, agricultural products) better matches their thesis than a diluted, broad-based approach. For others, the simplicity and rebalancing discipline of DBC is valuable despite the costs.
+Finally, compare DBC to holding individual [commodity ETFs](/commodity-etf/) or futures directly. For some investors, a single-commodity focus (oil, agricultural products) better matches their thesis than a diluted, broad-based approach. For others, the simplicity and [rebalancing discipline](/rebalancing-discipline/) of DBC is valuable despite the costs.
